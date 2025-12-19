@@ -1,7 +1,7 @@
 ---
 aliases:
   - home
-title: Index - Homepage
+title: Lozenge T.
 tags:
   - lozenge_t
 ---

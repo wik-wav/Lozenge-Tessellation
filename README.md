@@ -1,18 +1,9 @@
-# Quartz v4
+# wik_wav's worldbuilding repo
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+## The Lozenge Tessellation
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+The Lozenge Tessellation is a worldbuilding project by [wik_wav](https://wik-wav.neocities.org/). It represents a fictional, partly internally-consistent dream world.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Lozenge Conlang
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Asaxi is a language associated with the Lozenge Tessellation world.

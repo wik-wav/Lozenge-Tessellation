@@ -1,0 +1,62 @@
+---
+title: exå (noun) - smile
+Word (Asaxi): exå
+trnsltion. En: smile
+trnsltion. Pl: uśmiech
+tags:
+  - Asaxi
+  - language
+  - noun
+---
+# exå ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">exå</span>
+
+### Noun class (warm / cold)
+
+**Warm**
+- Reasoning: Facial expression, biological, emotional.
+
+### Pronunciation
+
+IPA: /eɦau̯/
+
+### Semantic field
+
+[[Smntc_Field Emotion]] / [[Smntc_Field Behaviour]]
+
+### Translations
+
+- English: smile
+- Polish: uśmiech
+
+### Example sentence
+
+**To wo exå ma.**
+_I have a smile._ (I am smiling).
+
+**To ko exånů.**
+_She smiles._
+
+### Alternative forms
+
+x
+
+### Etymology
+
+Derived from Japanese **笑顔** (*egao* - smiling face).
+*Phonological Shift:* /g/ $\rightarrow$ /ɦ/ (`x`).
+
+### Synonyms
+
+x
+
+### Antonyms
+
+- x
+
+### Derived terms
+
+- **[[exånů (verb)]]** (To smile).

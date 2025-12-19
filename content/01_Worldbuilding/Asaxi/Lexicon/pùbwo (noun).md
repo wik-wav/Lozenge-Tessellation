@@ -1,0 +1,59 @@
+---
+Word (Asaxi): pùbwo
+trnsltion. En: buttocks, glutes
+trnsltion. Pl: tyłek
+tags:
+  - Asaxi
+  - language
+  - noun
+title: pùbwo (noun) - buttocks, glutes
+---
+# pùbwo ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">pùbwo</span>
+
+### Noun class (warm / cold)
+
+**Warm**
+- Reasoning: Body part, living tissue.
+
+### Pronunciation
+
+IPA: /pɯbʷo/
+
+### Semantic field
+
+[[Smntc_Field The Body]]
+
+### Translations
+
+- English: buttocks, glutes, bottom
+- Polish: tyłek, pośladki, zad
+
+### Example sentence
+
+**To wo pùbwo nanů.**
+_I sit on my buttocks._ (Lit: I occupy-on the buttocks).
+
+### Alternative forms
+
+x
+
+### Etymology
+
+**[[pù- (Relational Locative Prefix)|pù]]** (Below) + **[[bwo (noun)|bwo]]** (Fat).
+*Lit:* "Low-fat" or "Bottom-fat."
+
+### Synonyms
+
+x
+
+### Antonyms
+
+x
+
+### Derived terms
+
+Null

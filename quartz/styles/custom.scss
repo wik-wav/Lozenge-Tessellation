@@ -1,3 +1,14 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.asaxi-script {
+    font-family: 'Pacifico';
+    /* 1. Force the line height to accommodate the font size */
+    line-height: 1.2; 
+    /* 2. Adjust vertical alignment to prevent baseline shifting */
+    vertical-align: middle; 
+    /* 3. Ensure the span respects the height of the line */
+    display: inline-block; 
+    /* 4. Optional: If the font is physically larger than your body text */
+    font-size: 48px;
+}

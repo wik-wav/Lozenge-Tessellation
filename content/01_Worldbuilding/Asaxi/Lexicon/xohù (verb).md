@@ -1,0 +1,56 @@
+---
+title: xohù (verb) - to retreat, to withdraw
+Word (Asaxi): xohù
+trnsltion. En: to retreat, to withdraw, to back up, to reverse
+trnsltion. Pl: cofać się, wycofywać
+Transitivity: intransitive, transitive
+tags:
+  - Asaxi
+  - language
+  - verb
+---
+# xohù ([[02_Asaxi Verbs_Root (List)]])
+
+- - -
+
+<span class="asaxi-script">xohù</span>
+
+### Transitivity / Valency
+
+**Ambitransitive**
+* **Intransitive:** To retreat, to move back.
+* **Transitive:** To pull back, to withdraw X.
+
+### Lexical Aspect
+
+**Activity:** Backward motion.
+
+### Grammatical Note
+
+**[[02_Asaxi Verbs_Root (List)]]:** Compound root verb.
+
+### Semantic Field
+
+[[Smntc_Field Motion]]
+
+### Pronunciation
+
+IPA: /ɦohɯ/
+
+### Translations
+
+- English: to retreat, to withdraw, to back up, to reverse
+- Polish: cofać się, wycofywać
+
+### Example sentence
+
+**To wo xohù.**
+_I move back._
+
+### Etymology
+
+**xo** (Move) + **[[hù- (Relational Locative Prefix)|hù]]** (Behind).
+
+### Antonyms
+
+- **xopa** (To advance).

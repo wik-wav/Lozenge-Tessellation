@@ -1,0 +1,54 @@
+---
+title: fůăvi (noun) - incorrectness, wrongness
+Word (Asaxi): fůăvi
+trnsltion. En: incorrectness, wrongness, horror, monstrosity, mess
+trnsltion. Pl: niepoprawność, zło, okropność
+tags:
+  - Asaxi
+  - language
+  - noun
+---
+# fůăvi ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">fůăvi</span>
+
+### Noun class (warm / cold)
+**Warm**
+- Reasoning: A state of being "wrong" or "messed up" usually implies biological or emotional distress.
+
+### Pronunciation
+
+IPA: /fuu̯aɪvi/
+
+### Semantic field
+
+[[Smntc_Field Emotion]] / [[Smntc_Field Virtues & Failings]] / Horror
+
+### Translations
+
+- English: incorrectness, wrongness, horror, monstrosity, mess
+- Polish: niepoprawność, zło, okropność
+
+### Example sentence
+
+**To wo fůăvi ůchů.**
+_I feel wrongness (Something is wrong, I can feel it)._
+
+### Etymology
+
+**[[fů (root word)|fů]]** (Lack/Corruption) + **[[ăvi (noun)|ăvi]]** (Perfection/Correctness).
+*Lit:* "Lack of correctness."
+
+### Synonyms
+
+- **ozètètá** (Mistake - specific event).
+
+### Antonyms
+
+- **[[ăvi (noun)|ăvi]]** (Perfection).
+
+### Derived terms
+
+- **[[fůăvină (adjective)]]** (Horrible / Wrong / Incorrect - Adjective).

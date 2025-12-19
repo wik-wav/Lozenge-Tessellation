@@ -1,0 +1,52 @@
+---
+title: Natures of Projections in the Lozenge Tessellation
+aliases:
+  - Natures
+  - Projections
+tags:
+  - lozenge_t
+---
+## Natures
+
+A "Nature" represents a Projection's underlying essence or developmental path, reflecting its connection to the Dreamer's psyche or its specific function within the dreamscape. Due to the fluid, suggestion-based reality of the Tessellation, a Projection's manifestation isn't rigidly fixed. A Nature might initially express itself subtly, perhaps through an inanimate object, an ambient sensation, or an almost imperceptible environmental effect; for instance, a Lingerer could begin as an unacknowledged feeling or a barely noticeable shift in the atmosphere. However, direct interaction, intense emotional focus from other Projections, or a significant shift in the Dreamer's subconscious can cause such a nascent Nature to coalesce, transform, and adopt a more defined, even sentient-appearing form. A Lingerer, if confronted or its core emotional source intensely felt by others, might thus shift from an unseen presence to manifest as a symbolic, perhaps human-shaped actor. This potential for transformation underscores the dynamic and responsive quality of Projections.
+
+Projections can embody multiple Natures, and some may develop new ones due to significant dream events or influences from the Dreamer's waking life that resonate psychically. While Projections themselves possess no conscious concept of "Natures," their apparent professions, roles, or typical behaviors within the dream often align closely with their underlying Nature(s). They simply are what they are and act according to their inherent disposition and the dream's logic; their behavior _manifests_ their Nature, but they do not use these classifications.
+
+#### **General Natures**
+
+Many Projections possess basic Natures related to sustenance, which are widespread and often less distinct:
+
+- **Omnivore:** Can derive sustenance from a variety of tangible matter, both plant-like and animal-like.
+- **Carnivore:** Primarily consumes the physical matter of other animal-like Projections.
+- **Herbivore:** Primarily consumes plant-like matter.
+
+#### **Prevalent Specialized Natures**
+
+Beyond these general types, numerous other Natures exist, often reflecting more specific psychological functions or archetypes, ordered here by general prevalence:
+
+- **Extra:** A background Projection with limited agency or individuality, serving to fill the dreamscape without drawing significant attention.
+- **Conduit:** Passively or actively channels energy, emotions, information, or influences from one part of the dreamscape to another, often sensitive to specific energies but risking overload or corruption. 
+- **Actor:** Adopts roles, personas, or specific emotional states convincingly, reflecting social adaptation, defense mechanisms, or the Persona.
+- **Lingerer:** A Projection that exists subtly, often unseen or unnoticed, yet influences the environment or nearby Projections through its mere presence, typically a manifestation of repressed emotion.
+- **Amalgam:** A Projection formed from the merging of two or more distinct concepts, memories, or beliefs, often resulting in internal conflict and instability.
+- **Mimic:** Copies superficial aspects of other Projections or objects (appearance, sound, basic behavior), often as a defense mechanism or for deception, but without true structural change.
+- **Guide:** Has an innate ability to navigate the dreamscape, leading others through confusing or hidden paths, often embodying a helpful figure.
+- **Canonizer:** An entity responsible for selecting, arranging, and maintaining the "canon" within a specific zone, covertly blocking or redacting elements deemed unacceptable to preserve thematic coherence. The interplay between a Canonizer's mandate and the Dreamer's immediate, overriding influence on the suggestion-based reality can be a source of localized instability or unexpected alterations to the established canon.
+- **Plumber:** Deals with the flow, blockage, and pressure of emotional or psychic energy (libido) within the dreamscape, often visualized as working with pipes or fluids.
+- **Shapeshifter:** Can alter its physical form, often triggered by strong emotion. This ability requires a template (observed or imagined form) and is energetically draining. Instincts from the assumed form can bleed over, and stress may cause instability or reversion. Transformations are generally limited to organic beings of plausible size and complexity, excluding inanimate objects, concepts, or complex technology. A shapeshifter cannot become human.
+- **Librarian:** A type of Chronologist responsible for managing, organizing, and preserving recorded information, reflecting the Dreamer's cognitive functions of memory access and categorization.
+- **Computer:** Processes information with rigid logic, follows programmed instructions, and lacks emotional understanding, perhaps representing highly structured thought processes.
+- **Mechanic:** Skilled in understanding, maintaining, and repairing physical machinery and constructs, reflecting the Dreamer's Ego functions related to managing reality and complex systems.
+- **Bully:** Manifests from the Dreamer's memories of real-life bullies, operating covertly with a friendly facade to subtly undermine or manipulate Projections.
+- **Harbinger:** Embodies the Dreamer's anxieties about perceived looming threats or negative future outcomes. Its presence casts a pall of unease and foreboding, subtly skewing perceptions towards the feared future, often intensifying in zones of confinement or inescapable dread. It does not typically act directly but its influence is inherently distressing.
+- **Nighthare:** A skittish and elusive projection, typically taking a hare-like form, that embodies the potential for gentle, positive dream experiences, quiet serendipity, or fleeting moments of peace. Its appearance is often ambiguous from a distance, causing other projections to unknowingly avoid it or misinterpret its presence. It is extremely sensitive to loud noises, sudden movements, direct attention, or negative emotions, causing it to immediately flee. The Nighthare's positive influence is passive and subtle, rarely recognized or understood; it does not possess an active "purpose" to spread positivity. Its effectiveness is limited, especially compared to more assertive Natures like the Nightmare.
+- **Nightmare:** The Nightmare is the conceptual opposite of a Nighthare, subtly fostering negative feelings rather than wonder or joy. Embodies or feeds on fear, capable of inducing dread and manifesting terrifying phenomena, its strength often tied to ambient or targeted fear.
+- **Angel (ASA: [[txenshá (noun)|txenshá]]):** An optimist Projection that embodies the Dreamer's hopes, aspirations, or intuitions about positive futures. Often appearing in moments of despair to offer a sense of possibility, inspire hope, and subtly highlight opportunities.
+- **Clockmaker:** A type of Chronologist that influences the subjective perception of time locally, concerned with order, sequence, and precision.
+- **Seducer:** Can be understood as a gender-fluid succubus / incubus blend. Feeds on potent psychic or emotional energy, often related to desire or passion, requiring vulnerability or implicit consent from its target. Crucially, a Seducer often manifests as the idealized form for any given Projection it targets. This is because the Seducer is a direct reflection of the Dreamer's own subconscious desires and the way the Dreamer projects these hidden aspects onto others in waking life, albeit rendered here without the constraints of reason or plausibility. It reaches deep into their often repressed preferences and desires to craft an appearance and demeanor that are perfectly, irresistibly Just for that individual.
+- **Zenith:** An Id-driven nature characterized by a powerful impulse towards its own expression. This drive often pushes against external limitations, resulting in a projection that becomes notably large, impactful, or amasses significant presence—a "behemoth" of sorts, often seen in bodybuilders, wrestlers, or hunters. While self-focused in its pursuit of form, its sheer scale or accumulated nature inevitably forces the environment or other projections to adapt or react. However, this unrestrained growth isn't inherently predatory; it's a drive towards its own perceived fullness, though it can lead to unwieldiness, high resource demands, instability, or social friction due to its disregard for boundaries.
+- **Tracer:** Manifests often as bards, scouts, pilgrims, nomads or cartographers. They arise from long forgotten life events from the past of the dreamer. They have an ability to perceive and follow traces left by Projections or events in the dream meta. They have the unique quality of persisting despite chronological boundaries, existing both within and without the lozenge zones. Tracers are distinguished by a higher baseline lucidity and inherent focus, granting them a degree of working memory and contextual understanding beyond that of typical Projections. This allows them to navigate not only within the overlapping zones but also through the conceptual gaps between them. Their enhanced focus also provides a measure of stability, enabling them to withstand the potential psychic turbulence that such heightened awareness might otherwise provoke in the volatile Tessellation.
+- **Chronovore:** Consumes or manipulates subjective time, memories, or the sense of duration within the dream, often associated with loss and unnatural temporal phenomena.
+- **Familiar:** Develops a positive, supportive bond with another Projection. Emerges as a result of kindness or shared positive experiences, acting as a loyal companion or ally. Each familiar is unique, and a Projection may only ever form one. This singularity represents a significant "Developmental Culmination" for the Projection; the Familiar signifies a profound and stabilized positive relational capacity, a unique bond that, once formed, occupies a special, unrepeatable niche in that Projection's existence within the dream.
+
+These are just some examples, and the interplay of Natures contributes to the complexity and dynamic nature of The Lozenge Tessellation.

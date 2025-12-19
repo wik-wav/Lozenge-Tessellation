@@ -1,0 +1,262 @@
+---
+title: 01_Asaxi Nouns (List)
+aliases:
+  - noun
+  - nouns
+tags:
+  - Asaxi
+  - language
+  - semantic_field
+  - noun
+---
+# Nouns in Asaxi
+
+This is a list of all [[The Asaxi Language|Asaxi]] nouns with the meaning in English.
+
+Navigation:
+- [[The Asaxi Language|The Asaxi Language Index]]
+- [[index|Index - Homepage]]
+
+- - -
+
+- [[śchino (noun)]] - length, distance (linear), extent
+- [[găxiŕo (noun)]] - vibrancy, vividness
+- [[gafůbåbå (noun)]] - atrophy
+- [[pxỏpxỏshá (noun)]] - living inflatable, balloon-creature
+- [[pxỏ (noun)]] - ball, sphere, orb
+- [[fjo (noun)]] - concept, idea, abstraction, non-object
+- [[ńo (noun)]] - thing, object, physical entity
+- [[yomåhjá (noun)]] - human child, kid
+- [[gă-gă (Compound Locative Noun)]] - somewhere
+- [[ko-gă (Compound Locative Noun)]] - over there
+- [[no-gă (Compound Locative Noun)]] - there (near you)
+- [[o-gă (Compound Locative Noun)]] - here
+- [[gámm (noun)]] - gum
+- [[ită (noun)]] - tension, stress
+- [[ală (noun)]] - looseness, slack, laxity, freedom from tension
+- [[txepỏ (noun)]] - feather
+- [[pỏ (noun)]] - fluff
+- [[këo (noun)]] - beak
+- [[jalăshá (noun)]] - bird, avian
+- [[txenshá (noun)]] - angel
+- [[swëshá (noun)]] - dragon
+- [[swë (noun)]] - scales
+- [[txe (noun)]] - wing
+- [[sxëbo (noun)]] - sharp claw, wicked claw, beastly nail, dangerous talon
+- [[kxetxashá (noun)]] - shapeshifter, polymorph, changeling
+- [[txa (noun)]] - change, mutation, alteration, shift
+- [[kxe (noun)]] - shape
+- [[wỏ (noun)]] - cylinder, primitive shape (cylindrical), roller
+- [[sëo (noun)]] - nail, claw, talon
+- [[fůzù (noun)]] - incompetence
+- [[zù (noun)]] - skill
+- [[hjixaśbi (noun)]] - toe
+- [[hjitëbi (noun)]] - finger
+- [[chỏmă (noun)]] - mouth
+- [[fù (noun)]] - nose
+- [[kxőŕo (noun)]] - throat
+- [[nodo (noun)]] - neck
+- [[dëŕă (noun)]] - tail
+- [[dë (noun)]] - limb
+- [[těněn (noun)]] - head
+- [[damtxă (noun)]] - decade
+- [[pxă (noun)]] - month
+- [[txă (noun)]] - year
+- [[zèvo (noun)]] - name
+- [[mëjo (noun)]] - eye
+- [[ijoŕaŕo (noun)]] - temple of quiet arts, library-temple, meditation hall, sanctuary, dream-place
+- [[văŕo (noun)]] - garden, conservatory, plantation
+- [[vă (noun)]] - plant, flora, vegetation, greenery
+- [[dătáwao (noun)]] - the natural world, nature, the physical universe, reality (physical)
+- [[tákasi (noun)]] - fallout, aftermath (of war), post-war desolation, ruins, ash-heap
+- [[dătáka (noun)]] - war, armed conflict, warfare
+- [[shásè (noun)]] - imprisonment, captivity, ownership (of a person), bondage
+- [[shásshá (noun)]] - hostage, captive, property (person)
+- [[fkamshá (noun)]] - domesticated animal, livestock, pet, dependent creature
+- [[ispăshá (noun)]] - wild animal
+- [[ispă (noun)]] - wilderness, the wild, the outside world, untamed lands
+- [[mmråhjá (noun)]] - kitten
+- [[hjá (noun)]] - child, young one, offspring, baby, kid
+- [[mmråshá (noun)]] - cat, feline
+- [[mmbă (noun)]] - happiness, joy, positive feeling
+- [[ŕèzishá (noun)]] - lizard, reptile, skink
+- [[ăjawo (noun)]] - a shout, a scream, a yell, a cry
+- [[ăjawa (noun)]] - war cry, battle cry, rallying cry, roar (of a crowd)
+- [[axa (noun)]] - laughter, laugh, mirth
+- [[exe (noun)]] - crying, a cry, wailing, sobbing, tears (conceptual)
+- [[fwocősiŕo (noun)]] - the dissonant void, the fog of compromised values, the space of cognitive dissonance, the retreat (mental)
+- [[cőtájýn (noun)]] - argument, dispute, verbal altercation, clash of views
+- [[fůkő (noun)]] - un-empathy, blind hatred, detestation, loathing, antipathy
+- [[fůcő (noun)]] - misunderstanding, confusion, lack of grasp, misinterpretation
+- [[cőcő (noun)]] - understanding, comprehension, grasp, empathy
+- [[fůăvi (noun)]] - incorrectness, wrongness, horror, monstrosity, mess
+- [[fůjåhjo (noun)]] - deceptive aim, anti-destiny, false idol, destructive drive, a leading-astray
+- [[fůjåshá (noun)]] - a content person, a wantless person, a sage
+- [[fůjå (noun)]] - wantlessness, contentment, freedom from desire, satisfaction
+- [[01_Worldbuilding/Asaxi/Lexicon/fůcè (noun)|fůcè (noun)]] - the unknown, ignorance, lack of knowledge
+- [[hjishá (noun)]] - damselfly, dragonfly (small), delicate insect
+- [[ëjo (noun)]] - fractal, self-similar pattern, recursive shape
+- [[fůŋono (noun)]] - weightlessness, zero gravity
+- [[fůŕăijo (noun)]] - weakness, powerlessness, frailty, impotence
+- [[ŋono (noun)]] - weight, mass, heaviness
+- [[dăno (noun)]] - size, magnitude, scale, dimensions
+- [[ỏno (noun)]] - diameter, width, thickness, girth
+- [[kjèno (noun)]] - height, stature, altitude, tallness
+- [[shá (noun)]] - person, creature
+- [[shěso (noun)]] - book
+- [[gă (noun)]] - place
+- [[siŕo (noun)]] - the great unknown 
+- [[shěsokam (noun)]] - the city
+- [[dăo (noun)]] - aether
+- [[apo (noun)]] - apple
+- [[dăshá (noun)]] - elephant
+- [[gadă (noun)]] - immensity
+- [[gao (noun)]] - blue
+- [[gapo (noun)]] - red
+- [[gasi (noun)]] - white
+- [[gavi (noun)]] - green
+- [[go (noun)]] - rock
+- [[kamm (noun)]] - bulding
+- [[o (noun)]] - sky
+- [[kjèpo (noun)]] - tree
+- [[shěsokam (noun)]] - library
+- [[tobo (noun)]] - table
+- [[śýstèm (noun)]] - system
+- [[kiŕo (noun)]] - pickaxe
+- [[gapo (noun)]] - city
+- [[ŕo (noun)]] - panel block
+- [[vivi (noun) - as in family of plants]] - grass
+- [[shějýnshá (noun)]] - teacher
+- [[shějýn (noun)]] - education,
+- [[jágo (noun)]] - blueberry
+- [[å (noun)]] - time
+- [[ågă (noun)]] - sometime
+- [[åkamm (noun)]] - moment
+- [[fwo (noun)]] - fog
+- [[xafwo (noun)]] - atmosphere
+- [[xaxăfwo (noun)]] - stratosphere
+- [[xăsiŕo (noun)]] - outer space
+- [[hùfwo (noun)]] - uncertainty
+- [[topobi (noun)]] - weather
+- [[náfwa (noun)]] - clear sky
+- [[hwo (noun)]] - yesterday
+- [[vwo (noun)]] - today
+- [[sigo (noun)]] - number
+- [[kő (noun)]] - understanding
+- [[bwo (noun)]] - fat (adipose tissue)
+- [[gabwo (noun)]] - fatness
+- [[pùbwo (noun)]] - buttocks
+- [[ỏbwo (noun)]] - belly
+- [[ỏbỏ (noun)]] - cushion
+- [[båbå (noun)]] - muscle
+- [[ỏbåbå (noun)]] - abdominal muscle
+- [[të (noun)]] - hand
+- [[tëbi (noun)]] - arm
+- [[tëbibåbå (noun)]] - arm musculature
+- [[aśo (noun)]] - foot
+- [[aśobi (noun)]] - leg
+- [[aśbibåbå (noun)]] - leg musculature
+- [[xabåbå (noun)]] - pectorals
+- [[hùbåbå (noun)]] - back muscles
+- [[babåbå (noun)]] - obliques
+- [[pùbåbå (noun)]] - glutes
+- [[ŕoŕo (noun)]] - water
+- [[ijoŕo (noun)]] - dream
+- [[sháŕo (noun)]] - pool
+- [[kamshá (noun)]] - body
+- [[ro (noun)]] - iron (metal)
+- [[xèro (noun)]] - weights
+- [[goro (noun)]] - iron ore
+- [[rokam (noun)]] - prison
+- [[xi (noun)]] - day
+- [[ămă (noun)]] - the right time
+- [[xatëbi (noun)]] - shoulder
+- [[făỏbwoxatëbibåbå (noun)]] - deltoids
+- [[pùtëbi (noun)]] - forearm
+- [[pùtëbibåbå (noun)]] - forearm muscles
+- [[xahùbåbå (noun)]] - trapezius
+- [[vahùbåbå (noun)]] - rhomboids
+- [[xaxaśbi (noun)]] - thigh
+- [[pùxaśbi (noun)]] - shin
+- [[bamỏbwoxaxaśbibåbå (noun)]] - quadriceps femoris
+- [[hùxaxaśbibåbå (noun)]] - hamstrings
+- [[tamỏbwopùxaśbibåbå (noun)]] - gastrocneius
+- [[papùxaśbibåbå (noun)]] - tibialis anterior
+- [[tamo (noun)]] - limit
+- [[kem (noun)]] - door
+- [[kem.mo (noun)]] - possibility
+- [[frë (noun)]] - freedom
+- [[wao (noun)]] - world
+- [[owao (noun)]] - Earth (planet)
+- [[hùwo (noun)]] - behind
+- [[vawo (noun)]] - the inside
+- [[păwo (noun)]] - the outside
+- [[nawo (noun)]] - the surface
+- [[bawo (noun)]] - the side
+- [[pawo (noun)]] - the front
+- [[xawo (noun)]] - the heights
+- [[pùwo (noun)]] - the bottom
+- [[exå (noun)]] - smile
+- [[eśnå (noun)]] - grin
+- [[sivëshá (noun)]] - civet
+- [[ŕimshá (noun)]] - lemur
+- [[ŕimå (noun)]] - thought, idea
+- [[flaminŋshá (noun)]] - flamingo
+- [[ŕăno (noun)]] - stripe
+- [[ŕănabishá (noun)]] - gazelle
+- [[embi (noun)]] - plane (geometry)
+- [[kjèmbi (noun)]] - playing card
+- [[igùŕa (noun)]] - game
+- [[ŕănabi (noun)]] - speed
+- [[ŕăijo (noun)]] - strength
+- [[ŕăijoshá (noun)]] - lion
+- [[pa (Noun)]] - the future
+- [[zè (Noun)]] - the past
+- [[kopa (Noun)]] - the distant future
+- [[opa (Noun)]] - the immediate future
+- [[ozè (Tense Prefix)]] - the immediate past
+- [[kozè (Noun)]] - the distant past
+- [[sùki (noun)]] - love, affection, preference
+- [[bwonădăsùki (noun)]] - adoration, cherishing
+- [[jýno (noun)]] - sound
+- [[mimi (noun)]] - ear
+- [[jýnoŕănabi (noun)]] - speed of sound
+- [[jhecè (noun)]] - jet
+- [[nihèko (noun)]] - the start, the beginning
+- [[jůŕë (noun)]] - outer space, cosmos
+- [[hjo (noun)]] - star
+- [[jåhjo (noun)]] - destination
+- [[iŕo (noun)]] - colour
+- [[pjo (noun)]] - light (source)
+- [[găŕo (noun)]] - colorfulness, polychromy, having many colors
+- [[pigùmenn (noun)]] - pigment, raw color powder, dye (powder form)
+- [[gámŕo (noun)]] - acrylic paint, paint (viscous), liquid gum
+- [[pjovi (noun)]] - laser
+- [[kozètètá (noun)]] - regret
+- [[ozètètá (noun)]] - mistake
+- [[xè (noun)]] - effort
+- [[ănåno (noun)]] - a wait
+- [[păshá (noun)]] - another (person, creature)
+- [[oxi (noun)]] - this day, today
+- [[omao (noun)]] - tonight, this night
+- [[ijono (noun)]] - vision, eyesight, sight (faculty)
+- [[ijoka (noun)]] - sights (of a gun), scope, crosshairs, aiming device
+- [[ăvi (noun)]] - correctness, perfection, faultlessness, rightness, accuracy
+- [[nỏcè (noun)]] - note, memo, entry, record, reminder
+- [[tăbino (noun)]] - a drawing, sketch, a diagram, a blueprint
+- [[dăchỏchỏ (noun)]] - sexual attraction, desire, lust, arousal, excitement (libido)
+- [[jùni (noun)]] - university, college, academy
+- [[gabåbåshá (noun)]] - muscular being, bodybuilder, hulk, muscle-beast, hunk
+- [[gabwoshá (noun)]] - fat being, obese person, fatty (creature), fattened animal
+- [[gabåbwoshá (noun)]] - strongman, powerlifter, brute, bear (physique)
+- [[ihjo (noun)]] - bone, os
+- [[ihjokam (noun)]] - skeleton, skeleton, skeletal system, frame
+- [[hjihji (noun)]] - thinness, gauntness, scrawniness, lack of muscle
+- [[gahji (noun)]] - smallness, minuteness, insignificance, compactness
+- [[ýhýshá (noun)]] - mouse, rodent, prey animal
+- [[tamỏbwoxatëbibåbå (noun)]] - biceps (brachii), the two-headed muscle
+- [[găhjo (noun)]] - emaciation, boniness, gauntness, skin and bones
+- [[găhjoshá (noun)]] - emaciated person, walking skeleton, bag of bones, starving creature
+- [[ŋo (Unit Noun)]] - kilogram, kilo, unit of weight, weight (measure)
+- [[xaŋobwo (noun)]] - obesity, morbid obesity, excess weight
+- [[śchi (Unit Noun)]] - centimeter, cm, unit of length

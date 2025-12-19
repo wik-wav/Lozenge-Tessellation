@@ -1,0 +1,51 @@
+---
+title: xaŋobwo (noun) - obesity, morbid obesity
+Word (Asaxi): xaŋobwo
+trnsltion. En: obesity, morbid obesity, excess weight
+trnsltion. Pl: otyłość, nadwaga (chorobliwa)
+tags:
+  - Asaxi
+  - language
+  - noun
+---
+# xaŋobwo ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">xaŋobwo</span>
+
+### Noun class (warm / cold)
+
+**Warm**
+- Reasoning: Biological tissue/condition.
+
+### Pronunciation
+
+IPA: /ɦaŋobwo/
+
+### Semantic field
+
+[[Smntc_Field The Body]] / Health
+
+### Translations
+
+- English: obesity, morbid obesity, excess weight
+- Polish: otyłość, nadwaga (chorobliwa)
+
+### Usage Note
+
+Unlike **[[bwo (noun)|bwo]]** (Fat) or **[[gabwo (noun)|gabwo]]** (Fatness), which are neutral or positive, **xaŋobwo** refers specifically to dangerous, excessive, or unsightly weight accumulation.
+
+### Example sentence
+
+**To xaŋobwo tètánă xiŕa.**
+_Obesity is painful._
+
+### Etymology
+
+**[[xa- (Number Prefix)|xa-]]** (Thousand) + **[[ŋo (Unit Noun)|ŋo]]** (Kilo) + **[[bwo (noun)|bwo]]** (Fat).
+*Lit:* "Thousand-Kilo-Fat."
+
+### Derived terms
+
+- **[[xaŋobwonă (adjective)]]** (Morbidly obese).

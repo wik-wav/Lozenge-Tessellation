@@ -56,10 +56,10 @@ To define an object or person by their **physical composition** of "lacking X," 
 - _Components:_ `ga` (Type) + `fů` (Lack) + `båbå` (Muscle).
 - _Meaning:_ "Musclelessness (as a constitution)." / "The Atrophied Type."
 - _Sentence:_
-    > **To John gafůbåbå shá.** `SUBJ` `John` `muscleless-type` `person` `[Ø]` _"John is a muscleless person."_ _Nuance:_ John is physically built of "lack of muscle." It is a statement of his material reality.
+    > **To John gafůbåbåshá.** `SUBJ` `John` `muscleless-type` `person` `[Ø]` _"John is a muscleless person."_ _Nuance:_ John is physically built of "lack of muscle." It is a statement of his material reality.
 
 **Contrast with Adjectives:**
 
-- **gafůbåbå shá:** A person physically defined by having no muscle.
+- **gafůbåbåshá:** A person physically defined by having no muscle.
 - **fůbåbånă shá:** A "muscleless-like" person (perhaps weak or soft in nature, even if they have muscles).
 

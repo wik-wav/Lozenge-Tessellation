@@ -49,9 +49,9 @@ Determiners play a critical role in converting Verbs into Nouns (Gerunds).
 - **Rule:** `anő` + `[Verb]` = "A [Verbing]" / "The act of [Verbing]."
 - **Example:** **anő shěsonů** ("A reading").
 
-**B. The Definite Restriction** You **cannot** use `onă` or `onýj` to nominalize a verb. Definiteness is tied to physical class (Warm/Cold), and abstract actions lack inherent warmth.
+**B. The Definite Nominalizer (`onă` or `onýj`)** You must use the proximal prefix if you choose to use them.
 
-- _Invalid:_ `onýj shěsonů` (The reading).
+- **Rule:** `onă` or `onýj` ` + ` `proximal prefix`- `[Verb]` = "A [Verbing]" / "The act of [Verbing]."
 - _Correct:_ **\[anő o-shěsonů\]** ("The specific reading" - using the Proximal Prefix).
 
 ---

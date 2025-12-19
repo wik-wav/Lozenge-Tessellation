@@ -4,6 +4,7 @@ aliases:
 title: Lozenge T.
 tags:
   - lozenge_t
+description: This is the homepage of the Lozenge Tessellation
 ---
 ## Home
 

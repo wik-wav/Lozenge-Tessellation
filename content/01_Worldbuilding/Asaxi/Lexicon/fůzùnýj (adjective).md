@@ -57,7 +57,7 @@ x
 
 ### Synonyms
 
-- **[[fůrăijonă (adjective)|fůrăijonă]]** (Weakly).
+- **[[fůŕăijonă (adjective)|fůŕăijonă]]** (Weakly).
 
 ### Root Noun
 

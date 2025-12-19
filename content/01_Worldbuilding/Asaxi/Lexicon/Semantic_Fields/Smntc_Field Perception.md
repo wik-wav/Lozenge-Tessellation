@@ -16,6 +16,7 @@ Navigation:
 - - -
 
 - [[ijo (verb)]] - to see
+- [[fůcőma (verb)]] - to have without appreciation
 - [[pjonă (adjective)]] - bright
 - [[txenă (adjective)]] - translucent
 - [[mëjoxů (noun)]] - to appear

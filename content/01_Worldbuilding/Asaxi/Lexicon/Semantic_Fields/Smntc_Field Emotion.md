@@ -16,6 +16,7 @@ Navigation:
 - - -
 
 - [[sùki (verb)]] - to like
+- [[xoxonăno (noun)]] - 
 - [[ită (noun)]] - tension, stress, tautness, anxiety, tightness
 - [[shásnýj (adjective)]] - lonely, stuck, trapped, isolated, captive (feeling)
 - [[shásè (noun)]] - imprisonment, captivity, ownership (of a person), bondage

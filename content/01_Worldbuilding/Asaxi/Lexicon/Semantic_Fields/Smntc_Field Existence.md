@@ -16,6 +16,8 @@ Navigation:
 - - -
 
 - [[tomo' (verb)]] - to stop doing
+- [[fůcèno (noun)]] - a thing taken for granted, an unappreciated possession
+- [[nono (noun)]] - thing, object
 - [[sëonă (noun)]] - essential, vital
 - [[fjo (noun)]] - concept, idea, abstraction, non-object
 - [[ńo (noun)]] - thing

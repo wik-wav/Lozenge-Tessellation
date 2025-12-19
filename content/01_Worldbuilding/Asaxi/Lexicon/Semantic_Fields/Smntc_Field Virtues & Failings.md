@@ -16,6 +16,9 @@ Navigation:
 - - -
 
 - [[fůjåshá (noun)]] - a content creature, a wantless creature, a sage
+- [[fůcèno (noun)]] - a thing taken for granted, an unappreciated possession
+- [[fůkőma (verb)]] - to take understanding for granted
+- [[fůcőma (verb)]] - to have without appreciation
 - [[fůjå (noun)]] - wantlessness, contentment, freedom from desire, satisfaction
 - [[fůcè (noun)]] - ignorance
 - [[fůjåhjo (noun)]] - deceptive aim, anti-destiny, false idol, destructive drive, a leading-astray
@@ -25,3 +28,4 @@ Navigation:
 - [[zùnýj (adjective)]] - skilled
 - [[fůzùnýj (adjective)]] - unskilled
 - [[ală (noun)]] - looseness
+- [[fůcèma (verb)]] - to take for granted

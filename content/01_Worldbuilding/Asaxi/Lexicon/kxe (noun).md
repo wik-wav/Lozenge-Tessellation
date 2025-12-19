@@ -57,4 +57,4 @@ Aspirated Root.
 
 - **[[kxetxashá (noun)|kxetxashá]]** (Shapeshifter).
 - **shivëkxe** (Civet-form).
-- **răijokxe** (Lion-form).
+- **ŕăijokxe** (Lion-form).

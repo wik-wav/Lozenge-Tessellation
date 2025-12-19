@@ -16,6 +16,7 @@ Navigation:
 - - -
 
 - [[ro (noun)]] - iron (metal)
+- [[nono (noun)]] - thing, object
 - [[txepỏ (noun)]] - feather
 - [[pỏ (noun)]] - fluff
 - [[goro (noun)]] - iron ore

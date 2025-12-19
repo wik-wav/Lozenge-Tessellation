@@ -46,7 +46,7 @@ x
 
 ### Synonyms
 
-- **[[fůrăijo (noun)|fůrăijo]]** (Weakness/Powerlessness).
+- **[[fůŕăijo (noun)|fůŕăijo]]** (Weakness/Powerlessness).
 
 ### Antonyms
 

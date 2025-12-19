@@ -16,6 +16,7 @@ Navigation:
 - - -
 
 - [[zèvo (noun)]] - name
+- [[fůkőma (verb)]] - to take understanding for granted
 - [[zèvonů (verb)]] - to name
 - [[zèvonýj (adjective)]] - esteemed
 - [[zèvoshů (verb)]] - to defame

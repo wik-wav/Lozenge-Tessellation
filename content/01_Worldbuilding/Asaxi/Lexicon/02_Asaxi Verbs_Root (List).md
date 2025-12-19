@@ -22,6 +22,8 @@ This is a list of all [[The Asaxi Language|Asaxi]] root verbs and their meanings
 - - -
 
 - [[ijo (verb)]] - to see
+- [[fůcőma (verb)]] - to have without appreciation
+- [[fůcèma (verb)]] - to take for granted
 - [[pxỏpxỏ (verb)]] - to blow
 - [[jală (verb)]] - to fly
 - [[păxè (verb)]] - to spread out

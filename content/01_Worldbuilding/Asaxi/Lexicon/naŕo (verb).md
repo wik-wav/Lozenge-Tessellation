@@ -54,7 +54,7 @@ IPA: /naɾo/
 _Two times two equals four._
 
 **Abstract Action:**
-**To wo kemma naŕo.**
+**To wo kem.ma naŕo.**
 _I combine the options (into one plan)._])]
 
 ### Etymology

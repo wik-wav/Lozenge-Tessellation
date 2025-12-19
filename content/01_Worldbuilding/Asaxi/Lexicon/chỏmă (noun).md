@@ -33,7 +33,7 @@ IPA: /tʃou̯maɪ/
 
 ### Example sentence
 
-To John chỏmă emmo.
+To John chỏmă em.mo.
 John opens (his) mouth.
 
 ### Alternative forms

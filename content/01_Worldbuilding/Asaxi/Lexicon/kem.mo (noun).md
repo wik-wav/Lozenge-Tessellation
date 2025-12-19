@@ -1,6 +1,6 @@
 ---
 title: kem.mo (noun) - possibility, option
-Word (Asaxi): kemmo
+Word (Asaxi): kem.mo
 trnsltion. En: possibility, option, opportunity, potential
 trnsltion. Pl: możliwość, opcja, potencjał
 tags:
@@ -8,7 +8,7 @@ tags:
   - language
   - noun
 ---
-# kemmo ([[01_Asaxi Nouns (List)]])
+# kem.mo ([[01_Asaxi Nouns (List)]])
 
 - - -
 
@@ -34,7 +34,7 @@ IPA: /kem.mo/
 
 ### Plural Form
 
-**kemma** (Possibilities).
+**kem.ma** (Possibilities).
 
 ### Example sentence
 

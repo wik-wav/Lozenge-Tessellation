@@ -39,7 +39,7 @@ _I see the flat plane._
 
 ### Etymology
 
-**[[em.mo (verb)|emmo]]** (Open) + **[[bi (noun)|bi]]** (Line).
+**[[em.mo (verb)|em.mo]]** (Open) + **[[bi (noun)|bi]]** (Line).
 *Lit:* "Open-Line" (A line opened up / extruded into a dimension).
 
 ### Derived terms

@@ -57,7 +57,7 @@ Sound symbolism: The bilabial `m` closes the mouth, mimicking the shutting actio
 
 ### Antonyms
 
-- **emmo** (To open).
+- **em.mo** (To open).
 
 ### Derived terms
 

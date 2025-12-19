@@ -1,6 +1,6 @@
 ---
 title: em.mo (verb) - to open something
-Word (Asaxi): emmo
+Word (Asaxi): em.mo
 trnsltion. En: to open something
 trnsltion. Pl: otwierać
 Transitivity: transitive, intransitive
@@ -9,7 +9,7 @@ tags:
   - language
   - verb
 ---
-# emmo ([[02_Asaxi Verbs_Root (List)]])
+# em.mo ([[02_Asaxi Verbs_Root (List)]])
 
 - - -
 
@@ -44,7 +44,7 @@ IPA: /em.mo/ (Two distinct syllables).
 
 ### Example sentence
 
-**To wo kem emmo.**
+**To wo kem em.mo.**
 _I open the door._
 
 ### Etymology

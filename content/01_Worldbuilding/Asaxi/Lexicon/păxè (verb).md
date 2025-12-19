@@ -57,7 +57,7 @@ Logic: "Outside-Effort" (Exerting energy to move limbs outward).
 
 ### Synonyms
 
-- **[[em.mo (verb)|emmo]]** (To open).
+- **[[em.mo (verb)|em.mo]]** (To open).
 
 ### Antonyms
 

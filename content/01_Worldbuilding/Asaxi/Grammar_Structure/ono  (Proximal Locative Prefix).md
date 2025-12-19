@@ -37,7 +37,7 @@ IPA: /ono/
 
 ### Example sentence
 
-**To onă ono-kemma găxănă xiŕa.**
+**To onă ono-kem.ma găxănă xiŕa.**
 _The attainable possibilities are infinite._
 
 ### Synonyms

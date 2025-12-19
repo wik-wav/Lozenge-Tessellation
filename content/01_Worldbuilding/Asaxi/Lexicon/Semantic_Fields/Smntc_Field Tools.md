@@ -16,6 +16,7 @@ Navigation:
 - - -
 
 - [[kiŕo (noun)]] - knife
+- [[xoxonăno (noun)]] - cherished object
 - [[xèro (noun)]] - weights
 - [[kjèmbi (noun)]] - playing card
 - [[pjo (noun)]] - lamp, light

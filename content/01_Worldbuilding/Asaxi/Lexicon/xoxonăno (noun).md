@@ -25,7 +25,7 @@ IPA: /ɦoɦonaɪno/
 
 ### Semantic field
 
-[[Smntc_Field Emotion|Emotion]], [[Smntc_Field Memory|Memory]], [[Smntc_Field Tools|Tools]] (Contextual)
+[[Smntc_Field Emotion|Emotion]], [[Smntc_Field Tools|Tools]] (Contextual)
 
 ### Translations
 
@@ -49,7 +49,7 @@ Because I got rid of the things I love, I cry every night.
 
 ### Etymology
 
-[[xoxo (verb)|xoxo]] (departure/to depart) + [[nă (Particle)|nă]] (prohibitive/don't) + [[no (noun)|no]] (thing)
+[[xoxo (verb)|xoxo]] (departure/to depart) + [[nă (Particle)|nă]] (prohibitive/don't) + [[nono (noun)|no]] (thing)
 *Literally: "The don't-depart-thing" or "The thing (I plea) not to leave"*
 
 ### Synonyms

@@ -20,7 +20,7 @@ Navigation:
 - - -
 
 - [[śchino (noun)]] - length, distance (linear), extent
-- [[xoxonăno (noun)]] - 
+- [[xoxonăno (noun)]] - cherished object
 - [[găxiŕo (noun)]] - vibrancy, vividness
 - [[gafůbåbå (noun)]] - atrophy
 - [[pxỏpxỏshá (noun)]] - living inflatable, balloon-creature

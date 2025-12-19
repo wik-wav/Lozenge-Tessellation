@@ -61,5 +61,5 @@ Reduplication of the root [[no (Pronoun)|no]] (it/that/proximal object marker).
 
 ### Derived terms
 
-- [[nonokam (noun)|nonokam]] (storehouse/place of things)
-- [[nononă (adjective)|nononă]] (object-like; material)
+- [[nokam (noun)|nonokam]] (storehouse/place of things)
+- [[nononă (adjective)|nonýj]] (object-like; material)

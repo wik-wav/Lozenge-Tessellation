@@ -8,7 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      neocities: "https://wik-wav.neocities.org/",
+      Neocities: "https://wik-wav.neocities.org/",
+      Youtube: "https://www.youtube.com/@wik_wav",
     },
   }),
 }

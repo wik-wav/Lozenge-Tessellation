@@ -4,8 +4,8 @@
 @font-face {
     font-family: 'Pacifico';
     /* This path assumes the font is in quartz/static/ */
-    src: url('static/fonts/Pacifico-Regular.ttf') format('truetype');
-    font-weight: normal;
+    src: url('../static/fonts/Pacifico-Regular.ttf') format('truetype');
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }

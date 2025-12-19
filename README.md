@@ -32,7 +32,6 @@ Start a local preview server. This will watch for changes in the content/ folder
 ```
 npx quartz build --serve
 ```
-The site will be available at http://localhost:8080.
 
 ### Deployment
 

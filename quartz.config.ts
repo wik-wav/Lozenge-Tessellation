@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://wik-wav.github.io/lozenge-tessellation/",
     ignorePatterns: ["private", "templates", ".obsidian", "Wip", "00_Templates"],
     defaultDateType: "modified",
     theme: {

@@ -14,7 +14,7 @@ tags:
 
 <span class="asaxi-script">nokam</span>
 
-### Phonetic Profile
+### Pronunciation
 
 **IPA:** /no.kam/
 

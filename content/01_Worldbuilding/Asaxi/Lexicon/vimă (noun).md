@@ -14,7 +14,7 @@ tags:
 
 <span class="asaxi-script">vimă</span>
 
-### Phonetic Profile
+### Pronunciation
 
 **IPA:** /vimaɪ/
 
@@ -22,6 +22,11 @@ tags:
 
 **Category:** Noun
 **Noun Class:** Cold
+
+### Semantic Field
+
+[[Smntc_Field Virtues & Failings|Smntc_Field Virtues & Failings]] 
+[[Smntc_Field Circumstance|Smntc_Field Circumstance]] 
 
 ### Meanings & Translations
 

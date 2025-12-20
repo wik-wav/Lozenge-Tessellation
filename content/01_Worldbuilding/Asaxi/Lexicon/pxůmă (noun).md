@@ -14,7 +14,7 @@ tags:
 
 <span class="asaxi-script">pxůmă</span>
 
-### Phonetic Profile
+### Pronunciation
 
 **IPA:** /pɦuu̯maɪ/
 
@@ -26,6 +26,7 @@ tags:
 ### Semantic Field
 
 [[Smntc_Field Virtues & Failings|Smntc_Field Virtues & Failings]]
+[[Smntc_Field Circumstance]]
 
 ### Definition
 

@@ -14,7 +14,7 @@ tags:
 
 <span class="asaxi-script">fnonů</span>
 
-### Phonetic Profile
+### Pronunciation
 
 **IPA:** /fnonuu̯/
 

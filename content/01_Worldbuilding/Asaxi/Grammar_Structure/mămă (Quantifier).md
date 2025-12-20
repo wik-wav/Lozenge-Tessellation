@@ -14,7 +14,7 @@ tags:
 
 <span class="asaxi-script">mămă</span>
 
-### Phonetic Profile
+### Pronunciation
 
 **IPA:** /maɪmaɪ/
 

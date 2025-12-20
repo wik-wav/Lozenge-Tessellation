@@ -13,7 +13,7 @@ tags:
 
 <span class="asaxi-script">nỏjåmăńo</span>
 
-### Phonetic Profile
+### Pronunciation
 
 **IPA:** /nou̯jau̯maɪɲo/
 
@@ -21,6 +21,10 @@ tags:
 
 **Category:** Idiom
 **Register:** Religious, Philosophical (Dă Chỏ)
+
+### Semantic Field
+
+[[Smntc_Field Religion & Ritual|Smntc_Field Religion & Ritual]] 
 
 ### Meaning & Nuance
 
@@ -43,5 +47,5 @@ This phrase serves as the central motif of a primary religious prayer dedicated 
 
 ### Examples
 
- **nỏjåmăńo tte onă ijù shá shánă.**
+ **Nỏjåmăńo tte onă ijù shá shánă.**
 _"it is unwise to put all of one's resolve toward a single object of desire" so the wise creatures say._

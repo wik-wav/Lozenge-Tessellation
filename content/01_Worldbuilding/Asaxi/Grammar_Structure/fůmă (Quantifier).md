@@ -13,7 +13,7 @@ tags:
 
 <span class="asaxi-script">fůmă</span>
 
-### Phonetic Profile
+### Pronunciation
 
 **IPA:** /fuu̯maɪ/
 

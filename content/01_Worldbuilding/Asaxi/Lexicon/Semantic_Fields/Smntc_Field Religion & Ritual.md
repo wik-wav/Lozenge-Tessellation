@@ -21,3 +21,4 @@ Navigation:
 - [[fůjå (noun)]] - wantlessness, contentment, freedom from desire, satisfaction
 - [[fůjåshá (noun)]] - a content creature, a wantless person, a sage
 - [[swëshá (noun)]] - dragon, scaled beast
+- [[nỏjåmăńo (Idiom)]] - unwise resolve, total obsession's folly (prayer for Dă Chỏ)

@@ -14,7 +14,7 @@ tags:
 
 <span class="asaxi-script">fno</span>
 
-### Phonetic Profile
+### Pronunciation
 
 **IPA:** /fno/
 

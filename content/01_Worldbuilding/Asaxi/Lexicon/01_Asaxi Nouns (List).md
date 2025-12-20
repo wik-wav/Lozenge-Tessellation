@@ -20,7 +20,7 @@ Navigation:
 - - -
 
 - [[śchino (noun)]] - length, distance (linear), extent
-- [[pxỏmă (noun)]] - 
+- [[pxỏmă (noun)]] - sum of toil, total exertion, lifetime of effort, "every breath"
 - [[fno (noun)]] - eye floater, vitreous opacity, drifting speck, visual debris
 - [[nokam (noun)]] - storehouse, warehouse, repository, place of things
 - [[vimă (noun)]] - the accepted, the affirmed, collection of yeses, total approval

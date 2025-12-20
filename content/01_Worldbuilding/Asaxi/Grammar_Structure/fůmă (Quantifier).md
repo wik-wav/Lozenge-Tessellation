@@ -33,4 +33,4 @@ Derived from the privative prefix **fů-** (denoting lack or the opposite) and t
 ### Examples
 
 - **To wo apa fůmă chỏnů**
-- *I ate none of the apples*
+- _I ate none of the apples_

@@ -16,6 +16,8 @@ Navigation:
 - - -
 
 - [[fůjåshá (noun)]] - a content creature, a wantless creature, a sage
+- [[vimănýj (adjective)]] - agreeable, acceptable, pleasant (compliant)
+- [[pxůmă (noun)]] - the sum of all rejections
 - [[fůcèno (noun)]] - a thing taken for granted, an unappreciated possession
 - [[fůkőma (verb)]] - to take understanding for granted
 - [[fůcőma (verb)]] - to have without appreciation

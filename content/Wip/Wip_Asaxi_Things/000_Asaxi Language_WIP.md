@@ -6,8 +6,9 @@ words to add for the conlang sentence list:
 - - - 
 ## Some words
 
-xaśký -> _a word for an important object, like a plushie which is basically one's idol or charm_
-really thoroughly explore that idea actually, maybe make some religion stuff around it
+- word for "feeling" (noun) or mood
+- forcing ones feelings onto another - one of those hyper specific words
+  
 
 
 - - -

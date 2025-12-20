@@ -16,6 +16,7 @@ Navigation:
 - - -
 
 - [[zèvo (noun)]] - name
+- [[vimănýj (adjective)]] - agreeable, acceptable, pleasant (compliant)
 - [[fůkőma (verb)]] - to take understanding for granted
 - [[zèvonů (verb)]] - to name
 - [[zèvonýj (adjective)]] - esteemed

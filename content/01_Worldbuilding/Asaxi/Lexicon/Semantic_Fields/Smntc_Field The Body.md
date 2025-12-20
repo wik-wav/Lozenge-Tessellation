@@ -1,13 +1,13 @@
 ---
-title: Smntc_Field The Human Body
+title: Smntc_Field The Body
 tags:
   - semantic_field
   - language
   - Asaxi
 aliases:
-  - The Human Body
+  - The Body
 ---
-# The Human Body Semantic Field
+# The Body Semantic Field
 
 This is a page with a list of all Asaxi words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **The Body**.
 
@@ -18,6 +18,7 @@ Navigation:
 - - -
 
 - [[shá (noun)]] - creature of land
+- [[fno (noun)]] - eye floater, vitreous opacity
 - [[gafůbåbå (noun)]] - atrophy
 - [[pxỏpxỏ (verb)]] - to blow
 - [[itănů (verb)]] - to tense up, to tighten, to flex (stiffly), to stress, to strain

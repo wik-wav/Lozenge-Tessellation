@@ -1,11 +1,13 @@
 ---
-title: săsă (Quantifier) - "All", "Entire", "Whole", "The full extent".
+title: săsă (Quantifier) - "All of", "Entire", "Whole", "The full extent".
 Word (Asaxi): săsă
-trnsltion. En: '"All", "Entire", "Whole", "The full extent".'
+trnsltion. En: all of, the entire (thing), the whole of, the full extent of
 tags:
   - Asaxi
   - language
   - grammar
+aliases:
+  - să-
 ---
 # săsă ([[39_Numerals & Mathematics]])
 
@@ -31,6 +33,9 @@ IPA: /saɪsaɪ/
 
 **Săhwo topo zètoponů.**
 _It rained all yesterday._
+
+**To wo săsă apo zèchỏnů.**
+_I ate the entire apple._
 
 ### Etymology
 

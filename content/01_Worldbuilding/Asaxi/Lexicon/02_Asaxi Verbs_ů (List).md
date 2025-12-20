@@ -19,6 +19,7 @@ Navigation:
 - - -
 
 - [[ů (verb)]] - be (active)
+- [[fnonů (verb)]] - to move, to drift
 - [[pxỏŕů (verb)]] - to inflate, to blow up, to pump up, to swell (transitive)
 - [[pxỏnů (verb)]] - to roll, to trundle
 - [[alănů (verb)]] - to loosen

@@ -16,6 +16,7 @@ Navigation:
 - - -
 
 - [[ro (noun)]] - iron (metal)
+- [[nonýj (adjective)]] - material, object-like
 - [[nono (noun)]] - thing, object
 - [[txepỏ (noun)]] - feather
 - [[pỏ (noun)]] - fluff

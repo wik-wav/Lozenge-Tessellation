@@ -16,6 +16,7 @@ Navigation:
 - - -
 
 - [[xoxo (verb)]] - depart
+- [[fnonů (verb)]] - to move, to drift
 - [[pxỏnů (verb)]] - to roll, to trundle
 - [[jală (verb)]] - to fly
 - [[păxè (verb)]] - to spread out, to unfurl, to extend (wings/arms), to open up

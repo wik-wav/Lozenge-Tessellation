@@ -16,6 +16,7 @@ Navigation:
 - - -
 
 - [[kjèpo (noun)]] - tree
+- [[nokam (noun)]] - storehouse, warehouse
 - [[gamaowo (noun)]] - the night sky
 - [[jalăshá (noun)]] - bird, avian
 - [[jalăshá (noun)]] - bird, avian

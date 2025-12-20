@@ -16,6 +16,7 @@ Navigation:
 - - -
 
 - [[fůŋono (noun)]] - weightlessness, zero gravity
+- [[nonýj (adjective)]] - material, object-like
 - [[itănů (verb)]] - to tense up, to tighten, to flex (stiffly), to stress, to strain
 - [[txenă (adjective)]] - translucent
 - [[pjonă (adjective)]] - bright

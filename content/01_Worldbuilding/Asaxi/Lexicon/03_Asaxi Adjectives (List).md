@@ -19,6 +19,7 @@ Navigation:
 - - -
 
 - [[shěsonýj (adjective)]] - knowledgeable
+- [[nonýj (adjective)]] - material, object-like
 - [[pxỏpxỏnă (adjective)]] - fragile, delicate, pop-able, taut, squeaky, smooth, bulging (like an inflated balloon)
 - [[pxỏnýj (adjective)]] - round, spherical, ball-shaped
 - [[itănýj (adjective)]] - tensed up, taut, tight, anxious, stressed, stiff

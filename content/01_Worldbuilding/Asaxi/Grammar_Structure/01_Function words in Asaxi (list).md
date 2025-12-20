@@ -158,6 +158,8 @@ _These appear **before** the verb or noun they modify._
 **Distributives & Frequency**
 
 - **[[ksămăni (Particle)]]** - any way one likes / however
+- **[[săsă (Quantifier)]] / [[săsă (Quantifier)|să-]]** -  all of, the entire (thing), the whole of, the full extent of
+- **[[mămă (Quantifier)]]** - all, every, every single one
 - **[[dăgo (Quantifier)]]** - many / a lot of
 - **[[fůtăgo (Quantifier)]]** - some / more than 0
 - **[[hjigo (Quantifier)]]** - few / little
@@ -165,6 +167,7 @@ _These appear **before** the verb or noun they modify._
 - **[[wăpùni (Quantifier)]]** - few (less than 9)
 - **[[wănani (Quantifier)]]** - many (more than 9)
 - **[[săni (Quantifier)]]** - most but not all
+- **[[fůmă (Quantifier)]]** - none
 
 ### Connective Particles (Coordinators & Conjunctions)
 

@@ -20,6 +20,10 @@ Navigation:
 - - -
 
 - [[śchino (noun)]] - length, distance (linear), extent
+- [[fno (noun)]] - eye floater, vitreous opacity, drifting speck, visual debris
+- [[nokam (noun)]] - storehouse, warehouse, repository, place of things
+- [[vimă (noun)]] - the accepted, the affirmed, collection of yeses, total approval
+- [[pxůmă (noun)]] - the sum of all rejections
 - [[xoxonăno (noun)]] - cherished object
 - [[găxiŕo (noun)]] - vibrancy, vividness
 - [[gafůbåbå (noun)]] - atrophy

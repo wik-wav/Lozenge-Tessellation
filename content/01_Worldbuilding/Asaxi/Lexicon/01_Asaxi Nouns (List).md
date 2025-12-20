@@ -26,7 +26,7 @@ Navigation:
 - [[pxỏpxỏshá (noun)]] - living inflatable, balloon-creature
 - [[pxỏ (noun)]] - ball, sphere, orb
 - [[fjo (noun)]] - concept, idea, abstraction, non-object
-- [[ńo (noun)]] - thing, object, physical entity
+- [[nono (noun)|nono (noun) - thing, object]] - thing, object
 - [[yomåhjá (noun)]] - human child, kid
 - [[gă-gă (Compound Locative Noun)]] - somewhere
 - [[ko-gă (Compound Locative Noun)]] - over there

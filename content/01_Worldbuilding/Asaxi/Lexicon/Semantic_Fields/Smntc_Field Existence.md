@@ -20,7 +20,6 @@ Navigation:
 - [[nono (noun)]] - thing, object
 - [[sëonă (noun)]] - essential, vital
 - [[fjo (noun)]] - concept, idea, abstraction, non-object
-- [[ńo (noun)]] - thing
 - [[txanů (verb)]] - to change, to morph, to alter, to shift (state)
 - [[txa (noun)]] - change, mutation, alteration, shift
 - [[vivinů (verb)]] - to live

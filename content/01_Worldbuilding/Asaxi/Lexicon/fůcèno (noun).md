@@ -43,12 +43,12 @@ There are a lot of things taken for granted here.
 
 ### Alternative forms
 
-- fůcèno' (Emphatic)
+- x
 
 ### Etymology
 
-[[fůcè (noun)|fůcè]] (ingratitude/ignorance of possession) + [[nono (noun)|no]] (thing)
-*Alternatively: [[fů (root word)|fů]] (lack) + [[cè (verb)|cè]] (to know) + [[nono (noun)|no]] (thing)*
+[[fůcè (noun)|fůcè]] (ingratitude/ignorance of possession) + [[nono (noun)|nono (noun) - thing, object]]
+*Alternatively: [[fů (root word)|fů]] (lack) + [[cè (verb)|cè]] (to know) + [[nono (noun)|nono (noun) - thing, object]]
 
 ### Synonyms
 

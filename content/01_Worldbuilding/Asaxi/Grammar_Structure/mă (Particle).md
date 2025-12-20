@@ -1,5 +1,5 @@
 ---
-title: mă (Particle) - co (częstotliwość)
+title: mă (Particle) - every, per, each (in a temporal sense)
 Word (Asaxi): mă
 trnsltion. En: every, per, each
 trnsltion. Pl: co (częstotliwość)

@@ -1,6 +1,6 @@
 ---
-title: dăsùki (verb) - to love, to adore
-Word (Asaxi): dăsùki
+title: sùkixů (verb) - to love, to adore
+Word (Asaxi): sùki
 trnsltion. En: to love, to adore
 trnsltion. Pl: kochać
 Transitivity: monotransitive
@@ -9,11 +9,11 @@ tags:
   - language
   - verb
 ---
-# dăsùki ([[02_Asaxi Verbs_Root (List)]])
+# sùkixů ([[02_Asaxi Verbs_Root (List)]])
 
 - - -
 
-<span class="asaxi-script">dăsùki</span>
+<span class="asaxi-script">sùkixů</span>
 
 ### Transitivity / Valency
 
@@ -43,17 +43,17 @@ IPA: /daɪsɯki/
 
 ### Usage Note
 
-Stronger and more empathetic than simple `sùki`. Used for romantic love or deep familial bonds.
+Stronger and more empathetic than simple the word for "like". Used for romantic love or deep familial bonds.
 
 ### Example sentence
 
-**To wo no dăsùki.**
-_I love you._ (I big-like you).
+**To wo ni no sùkixů.**
+_I love you._ (I love unto you).
 
 ### Etymology
 
-**[[dăshá (noun)|dă]]** (Big/Elephant) + **[[sùki (verb)|sùki]]** (Like).
-*Lit:* "Big-Like."
+[[sùki (noun)|sùki (noun) - love, affection]] + [[06A_-x- (Morphological Infix)]]
+*Lit:* "love unto"
 
 ### Derived terms
 

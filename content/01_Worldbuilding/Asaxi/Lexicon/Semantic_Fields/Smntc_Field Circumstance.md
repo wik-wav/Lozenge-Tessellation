@@ -18,3 +18,4 @@ Navigation:
 - [[hùfwo (noun)]] - uncertainty
 - [[vimă (noun)]] - the accepted, the affirmed
 - [[pxůmă (noun)]] - everything denied, the collection of noes
+- [[pxỏmă (noun)]] - sum of toil, total exertion

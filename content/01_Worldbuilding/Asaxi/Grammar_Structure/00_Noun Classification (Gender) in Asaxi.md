@@ -29,7 +29,7 @@ Warmth determines:
 	  suffix -nă
 	- For cold: 
 	  suffix -nýj
-- The form of the [[02_Definiteness in Asaxi|definite article]] [[[05_Determiners in Asaxi|determiner]]:
+- The form of the [[02_Definiteness in Asaxi|definite article]] determiner:
 	- For warm:
 	  [[onă (Determiner)]]
 	- For cold:

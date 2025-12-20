@@ -26,15 +26,24 @@ aliases:
 
 IPA: /ɲi/
 
+### Usage & Grammar 
+
+ 1. **Physical Direction (Allative)**: Marks the destination of a verb of motion.
+ 2. **Physical Destination:** Marks where one is headed
+ 3. **Expressing Directed Feelings:** When combined with the transitive/force infix **[[06A_-x- (Morphological Infix)]]** in a verb, **ni** marks the specific object of an emotional state. This construction implies actively feeling *at* or *toward* someone.
+
 ### Example sentence
 
 1. **Standard Motion:** 
 	To wo **ni** shěsokam xoxo. 
 	_I depart to the library._
-
 2. **Stacked Motion (Terminative):** 
 	Izo kamm måmå**ni** kjèpo aśù. 
 	_I walk from the building as-far-as-to the tree._
+3. **Expressing Directed Feelings:**
+	Wo ni John sùkixů.
+	_I love John._
+
 
 ### Alternative Forms
 

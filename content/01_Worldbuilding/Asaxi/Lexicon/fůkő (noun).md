@@ -50,7 +50,7 @@ _I feel hatred towards him._
 ### Antonyms
 
 - **kő** (Empathy).
-- **dăsùki** (Love).
+- **sùki** (Love).
 
 ### Derived terms
 

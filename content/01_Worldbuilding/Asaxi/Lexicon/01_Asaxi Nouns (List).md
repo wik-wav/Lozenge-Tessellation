@@ -20,6 +20,7 @@ Navigation:
 - - -
 
 - [[śchino (noun)]] - length, distance (linear), extent
+- [[pxỏmă (noun)]] - 
 - [[fno (noun)]] - eye floater, vitreous opacity, drifting speck, visual debris
 - [[nokam (noun)]] - storehouse, warehouse, repository, place of things
 - [[vimă (noun)]] - the accepted, the affirmed, collection of yeses, total approval

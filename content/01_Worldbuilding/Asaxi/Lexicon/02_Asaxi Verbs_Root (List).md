@@ -58,7 +58,7 @@ This is a list of all [[The Asaxi Language|Asaxi]] root verbs and their meanings
 - [[fri (verb)]] - to free
 - [[ijù (verb)]] - to say
 - [[ŕima (verb)]] - to meditate, to think
-- [[dăsùki (verb)]] - to love, to adore
+- [[sùkixů (verb)]] - to love, to adore
 - [[tètáka (verb)]] - to fight
 - [[naŕo (verb)]] - to mix
 - [[tăka (verb)]] - to unite, to join forces, to merge, to ally

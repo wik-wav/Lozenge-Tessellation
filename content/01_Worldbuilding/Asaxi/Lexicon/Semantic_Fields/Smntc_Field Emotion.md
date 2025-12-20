@@ -15,7 +15,6 @@ Navigation:
 
 - - -
 
-- [[sùki (verb)]] - to like
 - [[xoxonăno (noun)]] - cherished object
 - [[ită (noun)]] - tension, stress, tautness, anxiety, tightness
 - [[shásnýj (adjective)]] - lonely, stuck, trapped, isolated, captive (feeling)
@@ -56,7 +55,7 @@ Navigation:
 - [[ŕăijonă (adjective)]] - strong
 - [[sùki (noun)]] - love, affection, preference
 - [[sùkină (adjective)]] - beloved, dear
-- [[dăsùki (verb)]] - to love, to adore
+- [[sùkixů (verb)]] - to love, to adore
 - [[bwonădăsùki (noun)]] - adoration, cherishing
 - [[vină (adjective)]] - okay, alright, fine
 - [[jåhjo (noun)]] - guiding star

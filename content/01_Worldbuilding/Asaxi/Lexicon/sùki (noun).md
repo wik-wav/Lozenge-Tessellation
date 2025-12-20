@@ -50,4 +50,4 @@ Nominalization of the root **[[sùki (verb)|sùki]]**.
 ### Derived terms
 
 - **[[sùkină (adjective)]]** (Beloved).
-- **[[dăsùki (verb)]]** (To love / "Big-like").
+- **[[sùkixů (verb)]]** (To love / "Big-like").

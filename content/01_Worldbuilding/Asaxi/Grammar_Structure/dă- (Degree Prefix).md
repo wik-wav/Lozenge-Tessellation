@@ -50,4 +50,4 @@ Derived from **[[dăshá (noun)|dă]]** (Elephant).
 
 ### Derived terms
 
-- **[[dăsùki (verb)|dăsùki]]** (To love / Big-like).
+- **[[sùkixů (verb)|sùkixů]]** (To love).

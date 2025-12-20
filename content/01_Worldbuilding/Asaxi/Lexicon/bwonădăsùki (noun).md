@@ -39,7 +39,7 @@ _I have adoration (for someone)._
 
 ### Etymology
 
-**[[bwonă (adjective)|bwonă]]** (Beautiful/Curvy) + **[[dăsùki (verb)|dăsùki]]** (Love).
+**[[bwonă (adjective)|bwonă]]** (Beautiful/Curvy) + **[[sùkixů (verb)|dăsùki]]** (Love).
 *Lit:* "Beautiful-Love."
 
 ### Derived terms

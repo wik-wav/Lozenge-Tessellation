@@ -48,4 +48,4 @@ This phrase serves as the central motif of a primary religious prayer dedicated 
 ### Examples
 
  **Nỏjåmăńo tte onă ijù shá shánă.**
-_"it is unwise to put all of one's resolve toward a single object of desire" so the wise creatures say._
+_The creatures that say "it is unwise to put all of one's resolve toward a single object of desire" are wise._

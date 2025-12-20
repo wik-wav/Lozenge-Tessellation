@@ -7,6 +7,8 @@ tags:
   - character
   - lem
 ---
+# Lem Lem
+
 Character created by wik_wav
 
 _born: 20.11.2002  
@@ -19,7 +21,7 @@ Japanese name: 澪夢レム （れむれむ）
 - Physical traits: Weight and height vary. Seems to prefer small shapes.  
     Tail has a brush tip regardless of the form he takes. Has a persistent, heart-shaped, light fur patch on chest. Life expectancy unknown.
 - Shapeshifter.  
-    [[Lem's Forms]] are many.
+    Lem's Forms are many.
 - Affect: Gender non-conforming. Behaves flamboyantly, else plays pretend.
 - Loves fractals, especially in nature. Thinks of himself as one of them, or perhaps a function in a computer simulation.
 - Can change shape, but is unable to time-travel (can’t become younger at will).  

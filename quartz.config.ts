@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "wik-wav.github.io/lozenge-tessellation/",
-    ignorePatterns: ["private", "templates", ".obsidian", "Wip", "00_Templates"],
+    ignorePatterns: ["private", ".obsidian", "Wip"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

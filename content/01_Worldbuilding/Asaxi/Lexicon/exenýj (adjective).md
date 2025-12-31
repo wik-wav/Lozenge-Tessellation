@@ -38,7 +38,7 @@ Describes entities or situations characterized by wailing or deep sadness. When 
 
 ### Example sentence
 
-**To onă o-shá exenýj xiŕa.**
+**Toonă o-shá exenýj xiŕa.**
 _This person is weepy (a tragic figure)._
 
 ### Etymology

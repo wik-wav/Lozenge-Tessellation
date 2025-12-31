@@ -40,7 +40,7 @@ IPA: /çinɪj/
 ### Example sentences
 
 **Adjective:**
-**To onýj shěso hjinýj xiŕa.**
+**Toonýj shěso hjinýj xiŕa.**
 _The book is small._
 
 **Adverb:**

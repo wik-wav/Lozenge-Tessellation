@@ -33,7 +33,7 @@ IPA: /fuu̯t͡soɪ/
 
 ### Example sentence
 
-**To onă o-tètáko bă fůcő xiŕa.**
+**Toonă o-tètáko bă fůcő xiŕa.**
 _This fight is a misunderstanding._
 
 ### Etymology

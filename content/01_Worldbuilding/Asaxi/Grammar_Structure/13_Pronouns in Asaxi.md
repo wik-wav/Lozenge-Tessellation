@@ -80,7 +80,7 @@ Asaxi is a **Pro-drop** (Pronoun Dropping) language. This means that pronouns ar
 
 **Context 1: Talking about oneself (Subject Drop)**
 - _Redundant:_ `To wo apa sùki.` (It is I who likes apples).
-- _Correct:_ **Apa sùki.** ((I) like apples).
+- _Correct:_ **Apa sùkixů.** ((I) like apples).
 
 **Context 2: Answering "What is he doing?" (Subject & Object Drop)**
 

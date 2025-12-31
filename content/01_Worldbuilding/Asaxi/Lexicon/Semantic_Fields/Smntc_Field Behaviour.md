@@ -16,6 +16,8 @@ Navigation:
 - - -
 
 - [[ů (verb)]] - be, act
+- [[sătamni (noun)]] - 
+- [[tamni (noun)]] - together as a pair
 - [[dătáka (noun)]] - war, armed conflict, warfare
 - [[fkamnýj (adjective)]] - domesticated, dependent, reliant, not self-sufficient, tame
 - [[ŕèzinů (verb)]] - to be proud (stoically), to prowl, to carry oneself with confidence, to hold one's ground

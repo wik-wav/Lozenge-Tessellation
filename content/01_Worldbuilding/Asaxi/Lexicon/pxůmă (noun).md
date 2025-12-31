@@ -43,7 +43,7 @@ A compound derived from the negative particle **pxů** (no, negation) and the qu
 
 ### Examples
 
-- **Pxůmă na dă-niŕa.**
+- **Pxůmă na dă niŕa.**
 - *The collection of rejected things is large.*
 
 ### Synonyms

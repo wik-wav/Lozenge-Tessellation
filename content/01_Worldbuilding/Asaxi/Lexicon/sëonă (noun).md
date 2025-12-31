@@ -44,7 +44,7 @@ IPA: /seɪonaɪ/
 ### Example sentence:
 
 **As an adjective:**
-- To onă shěso sëonă xiŕa.
+- Toonă shěso sëonă xiŕa.
 This book is essential.
 
 ### Alternative forms

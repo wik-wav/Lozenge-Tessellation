@@ -38,7 +38,7 @@ IPA: /kem.mo/
 
 ### Example sentence
 
-**To onă gă-kem.ma găxănă xiŕa.**
+**Toonă gă-kem.ma găxănă xiŕa.**
 _The somewhere-possibilities are endless._
 
 ### Etymology

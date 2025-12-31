@@ -42,7 +42,7 @@ IPA: /meɪjoɦuu̯/
 To flaminŋshá gavină mëjoxů.
 The flamingo looks good.
 
-To onă o-kamm dănă mëjoxů.
+Toonă o-kamm dănă mëjoxů.
 This building appears huge.
 
 ### Alternative forms

@@ -7,9 +7,8 @@ words to add for the conlang sentence list:
 ## Some words
 
 - word for "feeling" (noun) or mood
-- forcing ones feelings onto another - one of those hyper specific words
-  
-
+- forcing ones feelings onto another - one of those hyper specific words 
+- fjonýj (adjective) - concept-like, antonym of nonýj
 
 - - -
 

@@ -119,12 +119,13 @@ When `w` follows a consonant, it acts as a **Labialization Marker**. The precedi
 - **`pwo`** → **/pʷo/**
 - **`hwo`** → **/hʷo/** (e.g., _hwo_ "yesterday")
 
-#### **D. H-Mutation**
+#### **E. Devoicing Assimilation**
 
-- **Elision:** `h` is deleted after consonants unless it is part of a specific cluster rule like aspiration.
-    - _Ex:_ `ů` + `hè` → `ůè`
-- **Fortition:** If `h` follows the voiced fricative `x` (/ɦ/), it hardens.
-    - _Ex:_ `xă` + `hù` → `xăxù`
+When the voiced consonants precede voiceless ones, they often get devoiced.
+
+- **Example:** `v` + `k` → **/fk/**.
+  `va` + `kozè` → **vkozè**.
+    - _Pronunciation:_ /fkozə/ ("In the distant past").
 
 ### **4. Gemination and Syllabic Orthography**
 

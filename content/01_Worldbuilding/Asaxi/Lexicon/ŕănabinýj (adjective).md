@@ -45,7 +45,7 @@ IPA: /ɾaɪnabinɪj/
 ### Example sentences:
 
 **As an adjective:**
-- **To onýj o-car ŕănabinýj xiŕa.**
+- **Toonýj o-car ŕănabinýj xiŕa.**
   _This car is fast._
 
 **As an adverb:**

@@ -43,7 +43,7 @@ When applied to a person, it implies a "good weirdness"—someone who lives free
 ### Example sentences
 
 **Phenomenon:**
-**To onă o-wao iŕonă xiŕa.**
+**Toonă o-wao iŕonă xiŕa.**
 _This world is colourful._
 
 **Person:**

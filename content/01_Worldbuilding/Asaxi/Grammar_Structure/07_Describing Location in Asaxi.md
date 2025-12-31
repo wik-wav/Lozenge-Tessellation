@@ -105,28 +105,28 @@ When specifying that a subject is located _within_ one of these compound vicinit
 
 **Context:** Describing a specific person who belongs to the immediate area (a local) reading, but can't be seen.
 
-> **To onă o-gă shá shěsonů.** `SUBJ DEF.WARM PROX-place person book-EPEN-ACT.BE` 
+> **Toonă o-gă shá shěsonů.** `SUBJ DEF.WARM PROX-place person book-EPEN-ACT.BE` 
 > _The person from around here reads._
 
 ### 2. `no-gă` (Medial Vicinity)
 
 **Context:** Stating that the specific book is located somewhere near the listener.
 
-> **To onýj shěso no-gă ỏnů.** `SUBJ DEF.COLD book MED-place the-middle-of.ACT.BE` 
+> **Toonýj shěso no-gă ỏnů.** `SUBJ DEF.COLD book MED-place the-middle-of.ACT.BE` 
 > _The book is somewhere near you._
 
 ### 3. `ko-gă` (Distal Vicinity)
 
 **Context:** Observing the person somewhere in the distance reading.
 
-> **To onă ko-gă shá shěsonů.** `SUBJ DEF.WARM DIST-place person book-EPEN-ACT.BE` 
+> **Toonă ko-gă shá shěsonů.** `SUBJ DEF.WARM DIST-place person book-EPEN-ACT.BE` 
 > _The person from way over there reads._
 
 ### 4. `gă-gă` (Indefinite Vicinity)
 
 **Context:** Stating that a book is just somewhere (it's lost, can't be seen).
 
-> **To onýj shěso gă-gă ỏnů.** `SUBJ DEF.COLD book LOC.INDEF-place the-middle-of.ACT.BE` 
+> **Toonýj shěso gă-gă ỏnů.** `SUBJ DEF.COLD book LOC.INDEF-place the-middle-of.ACT.BE` 
 > _The book is in a somewhere-place (anywhere)._
 
 ## Syntactic Structure

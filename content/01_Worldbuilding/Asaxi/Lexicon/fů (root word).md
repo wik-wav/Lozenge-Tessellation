@@ -23,7 +23,7 @@ tags:
 
 Attaches to a Noun to create a new Noun representing the **absence** of that concept.
 * **Structure:** `fů` + `[Noun Root]` $\rightarrow$ `[Privative Noun]`.
-* *See:* **[[50_Privative Derivation (The fů- Prefix)]]** for syntactic rules regarding possession.
+* *See:* **[[50_Privative Derivation (The `fů-` Prefix)|50_Privative Derivation (The `fů-` Prefix)]]** for syntactic rules regarding possession.
 
 ### Pronunciation
 

@@ -40,7 +40,7 @@ IPA: /pʲovinaɪ/
 ### Example sentences
 
 **Adjective:**
-**To onă shosa pjovină xiŕa.**
+**Toonă shosa pjovină xiŕa.**
 _The road is straight (laser-like)._
 
 **Adverb (Manner):**

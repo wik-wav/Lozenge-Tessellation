@@ -38,7 +38,7 @@ Strictly refers to colour as **projected or reflected light** (e.g., a screen, a
 
 ### Example sentence
 
-**To onă iŕo gavină xiŕa.**
+**Toonă iŕo gavină xiŕa.**
 _The colour (light) is good._
 
 ### Etymology

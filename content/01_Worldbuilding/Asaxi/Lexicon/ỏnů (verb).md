@@ -46,7 +46,7 @@ IPA: /ou̯nuu̯/
 **To shěso tobo ỏnů.**
 _The book is in the middle of the table._
 
-**To onýj shěso no-gă ỏnů.** 
+**Toonýj shěso no-gă ỏnů.** 
 _The book is around there._
 
 ### Etymology

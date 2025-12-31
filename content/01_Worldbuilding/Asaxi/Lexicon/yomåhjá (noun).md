@@ -12,7 +12,7 @@ tags:
 
 - - -
 
-<span class="asaxi-script">yomåhja</span>
+<span class="asaxi-script">yomåhjá</span>
 
 ### Noun class (warm / cold)
 
@@ -46,7 +46,7 @@ x
 
 ### Etymology
 
-**[[yomåshá (noun)|yomå]]** (Human/Homo Sapiens) + **[[hjá (noun)|hjá]]** (Child).
+**[[yomåshá (noun)|yomå]]** (Human/Homo Sapiens) + **[[hjá (noun) - as in child|hjá]]** (Child).
 
 ### Synonyms
 

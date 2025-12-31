@@ -40,7 +40,7 @@ Here, the prefix **fů-** acts not just as "Lack," but as a corruption or dement
 
 ### Example sentence
 
-**To onă o-gă fůjåhjo xiŕa.**
+**Toonă o-gă fůjåhjo xiŕa.**
 _This place is a false destination._
 
 ### Etymology

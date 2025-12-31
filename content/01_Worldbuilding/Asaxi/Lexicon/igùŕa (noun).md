@@ -38,7 +38,7 @@ Refers to the **Noun** (The game itself). To describe the **Action** of playing 
 
 ### Example sentence
 
-**To onă igùŕa gavină xiŕa.**
+**Toonă igùŕa gavină xiŕa.**
 _The game is good._
 
 ### Etymology

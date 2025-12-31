@@ -20,6 +20,8 @@ Navigation:
 - - -
 
 - [[śchino (noun)]] - length, distance (linear), extent
+- [[sătamni (noun)]] - unison, unanimity
+- [[tamni (noun)]] - together as a pair
 - [[pxỏmă (noun)]] - sum of toil, total exertion, lifetime of effort, "every breath"
 - [[fno (noun)]] - eye floater, vitreous opacity, drifting speck, visual debris
 - [[nokam (noun)]] - storehouse, warehouse, repository, place of things
@@ -82,7 +84,7 @@ Navigation:
 - [[ispăshá (noun)]] - wild animal
 - [[ispă (noun)]] - wilderness, the wild, the outside world, untamed lands
 - [[mmråhjá (noun)]] - kitten
-- [[hjá (noun)]] - child, young one, offspring, baby, kid
+- [[hjá (noun) - as in child]] - child, young one, offspring, baby, kid
 - [[mmråshá (noun)]] - cat, feline
 - [[mmbă (noun)]] - happiness, joy, positive feeling
 - [[ŕèzishá (noun)]] - lizard, reptile, skink

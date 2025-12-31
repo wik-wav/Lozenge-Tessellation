@@ -57,7 +57,7 @@ In the Standard Register, ambiguity is impossible because of the **Position of t
 
 **Example:**
 
-> **Onýj \[shěsonů\] shěso toponů.** `DEF.COLD` `[reads]` `book` `falling` _Analysis:_ `Onýj` opens the NP. `Shěsonů` modifies `shěso`. `Toponů` is the main verb. _Meaning:_ "The book that is read is falling."
+> **Onýj zèshěsonů shěso toponů.** `DEF.COLD` `PST-to_read` `book` `to_fall` _Analysis:_ `Onýj` opens the NP. `Shěsonů` modifies `shěso`. `Toponů` is the main verb. _Meaning:_ "The book that was read is falling."
 
 **Disambiguation vs. Gerunds**
 
@@ -81,8 +81,17 @@ The Relative Clause can contain its own internal particles (Negative, Tense, Cau
 
 **1. Context: Identifying a specific item.**
 
-> **Onýj \[To John zètopu\] shěso ksi?** `DEF.COLD` `[SUBJ` `John` `PAST-drop]` `book` `where` _"Where is the book **that John dropped**?"_
+> **Onýj \[To John zètopu\] shěso ksi?**
+> _"Where is the book **that John dropped**?"_
 
 **2. Context: Conditional Consequence.**
 
-> **Onýj \[John shěsonů\] shěso chěná, wo pashěsonů.** `DEF.COLD` `[John` `reads]` `book` `UNLESS`, `1SG`, `FUT-read` _"Unless it is the book **that John reads**, I will read it."_ _(Lit: If-not the \[John-reads\] book...)_
+> **Onýj \[John shěsonů\] shěso chěná, wo pashěsonů.**
+> _"Unless it is the book **that John reads**, I will read it."_ _(Lit: If-not the \[John-reads\] book...)_
+
+### 5. Listing Gerunds
+
+If the speaker wants to produce a list of gerunds, they use the anchor determiner as they would for a single gerund. The determiner is used once; the list concludes with the Connective particle `ja` before the last item, e.g.
+
+> To John ni anő shěsonů ja nỏcèŕů sùkixů.
+> _John loves reading and taking notes._

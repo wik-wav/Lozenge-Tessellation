@@ -37,7 +37,7 @@ IPA: /ŋo/
 * **Animate Subject:** Uses the verb **[[ŋonů (verb)|ŋonů]]** ("To weigh").
     * `To wo tamda ŋonů.` ("I weigh 200").
 * **Inanimate Object:** Uses the structure `[Subject] [Number] sè ŋo xiŕa` ("Thing is X of weight").
-    * **To onýj shěso tam sè ŋo xiŕa.** ("The book is 2kg").
+    * **Toonýj shěso tam sè ŋo xiŕa.** ("The book is 2kg").
 
 ### Etymology
 

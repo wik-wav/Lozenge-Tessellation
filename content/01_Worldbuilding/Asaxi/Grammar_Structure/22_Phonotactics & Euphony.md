@@ -10,16 +10,15 @@ Navigation:
 - [[00_Structural Sets in Asaxi| Back to Structural Sets in Asaxi]]
  
 - - - 
-
 ## Grammatical Concept: Flow and Constraints
 
-Asaxi places a high priority on **Euphony** (pleasant sound flow). The language strictly regulates how sounds connect, utilizing a system of **Epenthetic Bridges** to resolve hiatus and enforcing strict **Phonotactic Constraints** on what sounds may coexist.
+Asaxi places a high priority on **Euphony** (pleasant sound flow). The language strictly regulates how sounds connect, utilizing a system of **Epenthetic Bridges** which serve various purposes. Specific **Phonotactic Constraints** on what sounds may coexist are also outlined in this note. Various pronunciation nuances are also detailed below.
 
 ---
 
-## 1. Vowel Hiatus Resolution (The Bridge System)
+## Infixes in Asaxi
 
-With one specific exception, the choice of bridge consonant is **arbitrary** or lexically determined.
+Bridges in Asaxi may serve a grammatical purpose or simply be inserted to avoid hiatus when specific grammatical particles fuse together. In other cases, they may or may not be necessary—some nouns exhibit vowel hiatus or even doubled vowels while others get the bridge.
 
 ### A. The Strict Morphological Rule (`-n-`)
 
@@ -30,16 +29,23 @@ With one specific exception, the choice of bridge consonant is **arbitrary** or 
 
 ### B. Common Lexical Bridges (`-w-` / `-x-`)
 
-- **The `-w-` Bridge:** Common in Locative Stacking (`vawo`) and Ga-Compounds (`gamaowo`).
-- **The `-x-` Bridge:** Common in Verbal Prefixes (`zèxijo`, `månixåkam`).
+**Locatives** and **verbs** create mandatory bridges when fusing with other elements.
 
-### C. I-Stem Coalescence (The "I" Exception)
+- **The `-w-` Bridge:** used in Locative Stacking (`vawo`) and Ga-Compounds (`gamaowo`).
+- **The `-x-` Bridge:** used before Verb Roots fused with other elements (`zèxijo`).
+	Note: This rule does NOT apply to verbs derived from nouns (`paaxanů`).
 
-A specific exception exists for **Verb Roots starting with `i`** (e.g., `ijo`, `ijù`). When a **Prefix** ending in a vowel attaches to an `i-` verb, the standard `-x-` bridge is **omitted**. Instead, the vowels coalesce into a diphthong.
+### C. I- and W- Coalescence (-x- Bridge Exception)
+
+A specific exception to the rule exists for **Verb Roots starting with `i`** (e.g., `ijo`, `ijù`). 
+> When a **Prefix** ending in vowels: "a", "e", "o", or "è" attaches to an `i-` verb, the vowels coalesce into a diphthong.
 
 - **Rule:** `[Prefix-V]` + `[Root-i]` → **\[Diphthong\]**
 - **Example:** `zè` + `ijù` → **zëjù** (Said).
 - **Example:** `no` + `ijo` → **nőjo** (There-see).
+  
+For prefixes ending in "u", "a", or "o":
+> If the following consonant starts with `w`, the prefix vowel coalesces into a diphthong.
 
 **Poetic & Formal Exception:** While coalescence is the standard rule for natural speech, the full bridge form (`-x-`) may be preserved in **poetry**, **song**, or **high-formal register** to maintain syllable count or meter.
 
@@ -54,37 +60,28 @@ A specific exception exists for **Verb Roots starting with `i`** (e.g., `ijo`, `
 
 ---
 
-## 2. Consonant Mutation & Elision
+## Consonant Mutation & Elision
 
 ### A. H-Deletion (`h` Stability)
 
 The glottal fricative `/h/` is weak.
 
 - **Deletion Rule:** If `h` follows a **Consonant** or a **Diphthong**, it is deleted.
-    - `ů` + `hè` → **ůè**.
+    - **Rule** `V (diphthong) OR C` + `hè` → **è**.
+    - e.g. `mmbănů` + `hè` → **mmbănůè**
 - **Retention Rule:** If `h` follows a **Pure Vowel**, it remains.
     - `dao` + `hè` → **daohè**.
 
 ### B. H-Fortition / Assimilation
 
-If a syllable containing the voiced fricative **x** (/ɦ/) is followed by **h**, the `h` hardens into **x**.
+If a syllable containing the voiced fricative **x** (/ɦ/) is followed by **h**, the `h` changes into **x**.
 
 - **Rule:** `...xV` + `hV...` → `...xVxV...`
 - **Example:** `ná` + `xă` + `hù`... → **náxăxù...**
 
-### C. Devoicing Assimilation
-
-When the voiced consonants precede voiceless ones, they often get devoiced.
-
-- **Example:** `v` + `k` → **/fk/**.
-  `va` + `kozè` → **vkozè**.
-    - _Pronunciation:_ /fkozə/ ("In the distant past").
-- **Example:** `z` + `p` → **/sp/**.
-  `izo` (From) + `pă` (Outside) → **ispă** (Wilderness).
-
 ---
 
-## 3. Syllabic Nasals (Nuclei)
+## Syllabic Nasals (Nuclei)
 
 The geminated/syllabic nasals **mm**, **nn**, and **nŋ** function phonotactically as **Vowels** (Nuclei).
 
@@ -97,9 +94,25 @@ The geminated/syllabic nasals **mm**, **nn**, and **nŋ** function phonotactical
     - _Invalid:_ `kammb`, `kanŋg`.
     - _Valid:_ `kammba`, `kanŋga` (Must be followed by a vowel to break the cluster).
 
+## Other Pronunciation Quirks
+
+### A. Doubled Vowel Length
+
+In cases where identical vowels appear consecutively (such as the double 'o' in _toonă_), the following pronunciation rule applies:
+
+- **Vowel Duration:** Doubled vowels are not shortened or merged into a single short vowel. They must be pronounced for the **length of two full syllables**.
+- **Execution:** This can be realized as a slight re-articulation to ensure the two-beat timing is preserved.
+
+### The Final Diphthongs
+
+When the diphthongs appear at the end of a phrase or word (common in imperatives), it changes from a diphthong to a pure vowel in pronunciation. This is particular to certain accents and as such isn't reflected in the main phonetic chart from the note [[00_Phonemes of the Asaxi Language|00_Phonemes of the Asaxi Language]].
+
+- **shivënwë** → /ɕi.veɪnweː/
+- **pjoŕů** → /pʲoɾʊ/
+
 ---
 
-## 4. Phonotactic Constraints
+## Phonotactic Constraints
 
 ### A. Forbidden Codas
 
@@ -119,20 +132,7 @@ The geminated/syllabic nasals **mm**, **nn**, and **nŋ** function phonotactical
         - _Sole Exception:_ **fri** (Valid).
     - **Glide Restriction:** `r` never appears with glides (`w, j`).
 
-### C. Orthographic Enforcements (Spelling Rules)
-
-Certain phonetic combinations result in mandatory orthographic and pronunciation shifts.
-
-|Spelling|IPA Realization|
-|---|---|
-|**chi**|/tʃi/|
-|**dzý**|/dzɪ/|
-|**si**|/ɕi/ (Always palatalized)|
-|**zi**|/ʑi/ (Always palatalized)|
-|**ji**|/ji/|
-|**wő**|/woɪ/|
-|**shŕa**|/ʃɹ̠˔a/|
-## 5. Special Phenomena
+## Special Phenomena
 
 ### A. The Glottal Stop (`'`)
 
@@ -151,7 +151,7 @@ Vowels between voiceless consonants may devoice, creating syllabic fricatives.
 
 - **Example:** `shěso` → **\[ʃ̩so\]**.
 
-## 6. Particle Contraction (Rapid Speech)
+## Particle Contraction (Rapid Speech)
 
 In casual or rapid speech, disyllabic compound particles often undergo **Vowel Elision**, where the first vowel is dropped to create a consonant cluster. This is permissible only if the resulting cluster follows Asaxi phonotactic constraints.
 
@@ -161,22 +161,10 @@ In casual or rapid speech, disyllabic compound particles often undergo **Vowel E
 
 | Original | Meaning        | Contraction | IPA     |
 | -------- | -------------- | ----------- | ------- |
-| **sèwo** | Because        | **s'wo**    | /swo/   |
+| **sèwo** | Because        | **s'wo**    | /sʷo/   |
 | **sèni** | So / Therefore | **s'ni**    | /sni/   |
 | **panå** | Not yet        | **p'nå**    | /pnau̯/ |
 | **nanå** | Often          | **n'nå**    | /n:au̯/ |
 | **hùnå** | Already        | **h'nå**    | /hnau̯/ |
 | **vanå** | Still          | **v'nå**    | /vnau̯/ |
 **Usage Note:** These contractions are **optional** and register-dependent (Casual/Fast). In formal writing or poetry, the full form is preferred for clarity and meter.
-
-## 7. Special Pronunciation Rules
-
-**A. The Final `ë`** When the vowel **ë** appears at the end of a phrase or word (common in imperatives), it lengthens significantly.
-
-- **IPA:** **/eː/** (Long 'e').
-- _Example:_ **shivënwë** → /ɕi.veɪ.ɴweː/
-
-**B. The Nasal-Glide Cluster (`nw`)** When the consonant `n` is followed immediately by `w` (specifically in the `nwë` imperative ending), the nasal shifts to the uvular position.
-
-- **Rule:** `n` + `w` → **/ɴw/**.
-- _Example:_ **shivënwë** (Show off!) → /...ɴweː/

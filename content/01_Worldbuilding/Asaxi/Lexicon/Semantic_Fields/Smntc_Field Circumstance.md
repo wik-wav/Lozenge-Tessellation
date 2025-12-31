@@ -16,6 +16,8 @@ Navigation:
 - - -
 
 - [[hùfwo (noun)]] - uncertainty
+- [[sătamni (noun)]] - unison, unanimity
 - [[vimă (noun)]] - the accepted, the affirmed
 - [[pxůmă (noun)]] - everything denied, the collection of noes
 - [[pxỏmă (noun)]] - sum of toil, total exertion
+- [[tamni (noun)]] - togetherness, together as a pair

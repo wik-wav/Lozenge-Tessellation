@@ -15,7 +15,7 @@ Onýj o-shěso xiŕa.
 DEF.COLD here-book EXIST
 "The book is right here."
 
-To onă shěsonýj shá shěso shěsonů ő.
+Toonă shěsonýj shá shěso shěsonů ő.
 SUBJ DEF.WARM book-ADJ.COLD person book book-EPEN-ACT.BE DM.ASSERT
 "The knowledgeable person is reading a book, I tell you!"
 

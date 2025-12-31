@@ -38,7 +38,7 @@ Combines physical brightness with the concept of "drawing attention" or being "o
 
 ### Example sentence
 
-**To onă o-shěso hjonă xiŕa.**
+**Toonă o-shěso hjonă xiŕa.**
 _This book is interesting._
 
 ### Etymology

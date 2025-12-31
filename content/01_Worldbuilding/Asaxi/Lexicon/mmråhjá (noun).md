@@ -20,7 +20,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /m̩ɹau̯çɑ/
+IPA: /m̩ɹau̯ço/
 
 ### Semantic field
 
@@ -33,4 +33,4 @@ IPA: /m̩ɹau̯çɑ/
 
 ### Etymology
 
-**[[mmråshá (noun)|mmrå(shá)]]** (Cat) + **[[hjá (noun)|hjá]]** (Child/Young).
+**[[mmråshá (noun)|mmrå(shá)]]** (Cat) + **[[hjá (noun) - as in child|hjá]]** (Child/Young).

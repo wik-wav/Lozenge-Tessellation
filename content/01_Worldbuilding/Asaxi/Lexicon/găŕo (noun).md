@@ -39,7 +39,7 @@ Functions as a **Ga-Compound Noun**.
 
 ### Example sentence
 
-**To onă wao găŕo xiŕa.**
+**Toonă wao găŕo xiŕa.**
 _The world is colourful._
 
 ### Etymology

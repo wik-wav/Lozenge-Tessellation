@@ -98,7 +98,8 @@ Navigation:
 - [[30_Advanced Syntax & Phrase Structure]]: The master guide to Left-Branching hierarchies and complex verbal complexes.
 - [[35_The Post-Verbal Tail (Particle Hierarchy)]] - Post-Verbal Tail; the right-branching chain; the order of particles expressing Result, Mood, Reality, Inquiry, and Social Tone.
 - [[43_Quotative & Casual Topic]]: The generalized binder (`tte`) for quotes, hearsay, and casual topics.
-- [[57_Verbal Efficiency]]: Generic Active Copula `ů` as a pro-verb
+- [[57_Verbal Efficiency]]: Generic Active Copula `ů` as a pro-verb.
+- [[59_Expressing Directed Feelings]]: Using `ni` + `-x-` + `ů` to express feelings about objects.
 
 ### Interrogatives
 

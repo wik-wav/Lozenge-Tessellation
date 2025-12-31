@@ -33,7 +33,7 @@ IPA: /sʷeɪʃɑ/
 
 ### Example sentence
 
-To onă gabwoswëshá bwonă xiŕa.
+Toonă gabwoswëshá bwonă xiŕa.
 The fat dragon is beautiful.
 
 ### Alternative forms

@@ -130,4 +130,4 @@ Because a "vicinity" is an abstract zone rather than a physical container, you g
 - **Incorrect:** `To shěso o-gă **vanů**.`
     - _Lit:_ "The book inhabits the here-vicinity." (Implies the vicinity is a physical container like a box).
 
-> **To onýj shěso no-gă ỏnů.** _"The book is around there."_
+> **Toonýj shěso no-gă ỏnů.** _"The book is around there."_

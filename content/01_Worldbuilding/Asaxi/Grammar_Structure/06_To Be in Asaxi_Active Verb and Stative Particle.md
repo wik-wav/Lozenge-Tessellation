@@ -184,7 +184,7 @@ Because _xiŕa_ functions as a "stamp of fact," you can modify the **validity** 
 
 #### 7. Gustatory (`-zh-`)
 
-> **To onă topo apozhů.** `SUBJ` `DEF.WARM` `rain` `apple-GUST-ACT` _"This rain tastes like apples."_
+> **Toonă topo apozhů.** `SUBJ` `DEF.WARM` `rain` `apple-GUST-ACT` _"This rain tastes like apples."_
 
 #### 8. Transformative (`-k-`)
 

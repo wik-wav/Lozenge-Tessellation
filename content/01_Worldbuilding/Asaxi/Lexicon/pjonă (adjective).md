@@ -44,7 +44,7 @@ IPA: /pʲonaɪ/
 ### Example sentence:
 
 **As an adjective:**
-- To onă o-pjo pjonă xiŕa.
+- Toonă o-pjo pjonă xiŕa.
 The light here is bright.
 
 **As an adverb:**

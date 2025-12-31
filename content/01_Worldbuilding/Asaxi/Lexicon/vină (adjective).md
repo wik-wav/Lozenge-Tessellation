@@ -40,7 +40,7 @@ Less formal or "virtuous" than **[[gavină (adjective)]]** (Good). It implies ac
 **To wo vină ů.**
 _I am doing okay._
 
-**To onă o-shá vină xiŕa.**
+**Tonă o-shá vină xiŕa.**
 _This person is alright._
 
 ### Etymology

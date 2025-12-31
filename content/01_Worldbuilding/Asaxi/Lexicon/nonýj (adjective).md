@@ -67,12 +67,12 @@ Derived from the root noun **[[no]]** (thing) + the cold adjectival suffix **-n�
 
 ### Synonyms
 
-- [[kamm]] (structural - in some contexts)
+- [[kamm (noun)|kamm (noun)]]  - building (structural - in some contexts)
 
 ### Root Noun
 
-- [[no]]
+- [[nono (noun)|nono (noun)]]  - thing, object
 
 ### Antonyms
 
-- [[iŕonă]] (conceptual, thought-like, immaterial)
+- [[fjonýj (adjective)]] - concept-like

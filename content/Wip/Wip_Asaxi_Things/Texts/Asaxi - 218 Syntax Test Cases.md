@@ -11,9 +11,9 @@ These sentences are taken from here:
 https://cofl.github.io/conlang/resources/mirror/conlang-syntax-test-cases.html
 
 1. The sun shines.
-	Onă Xi pjoŕů xiŕa.
-2. The sun is shining.
 	Onă Xi pjoŕů.
+2. The sun is shining.
+	Onă Xi pjoŕů nå.
 3. The sun shone.
 	 Onă Xi zèpjoŕů.
 4. The sun will shine.
@@ -35,7 +35,7 @@ https://cofl.github.io/conlang/resources/mirror/conlang-syntax-test-cases.html
 12. Some of the people shouted.
 	 Fůtăgo sháma zèxăja.
 13. Many of the people shouted twice.
-    Dăgo sháma tambam zèxăja. 
+    Dăgo sháma tambam zèxăja.
 14. Happy people often shout.
     Mmbănă sháma ăja nanå.
 15. The kitten jumped up.

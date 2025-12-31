@@ -34,7 +34,7 @@ IPA: /ɡaçi/
 
 ### Example sentence
 
-**To onă gahjigă gavină ůjů.**
+**Toonă gahjigă gavină ůjů.**
 _This small place looks good._
 
 ### Etymology

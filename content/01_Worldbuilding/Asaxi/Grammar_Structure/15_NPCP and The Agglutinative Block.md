@@ -82,14 +82,14 @@ The particle **to** serves two distinct functions depending on its position:
 	`ATTR-blue-book` 
 	"Blue-book."
 2. Relational Case (Simple) _Context: John (as the possessor)._
-	**sè John**.
+	**Sè John**.
 	`ASSOC John` 
 	"Of John"
 3. The Passive Topic (`dhè`) _Context: The tree (as the receiver of chopping)._
 	 **Dhè kjèpo...** `TOP` `tree` 
 	 _"The tree (was)..."_
 4. The Fused Block (Complex)** _Context: The red book (which is the Subject) located here._
-	**To onýj gapowo-shěso...** `
+	**Toonýj gapowo-shěso...** `
 	SUBJ DEF.COLD ATTR-red-here-book
 	`_"The Red-Here-Book (Subject)..."_
 5. Nested Structure (Possession of a Modified Noun) _Context: I see John's green book._

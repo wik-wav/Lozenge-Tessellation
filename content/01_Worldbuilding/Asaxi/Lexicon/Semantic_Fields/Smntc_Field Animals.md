@@ -21,7 +21,7 @@ Navigation:
 - [[fkamshá (noun)]] - domesticated animal, pet, dependent creature
 - [[ispăshá (noun)]] - wild animal
 - [[mmråhjá (noun)]] - kitten
-- [[hjá (noun)]] - child, young one, offspring, baby, kid
+- [[hjá (noun) - as in child]] - child, young one, offspring, baby, kid
 - [[mmråshá (noun)]] - cat, feline
 - [[hjishá (noun)]] - damselfly
 - [[dănă (adjective)]] - big, huge

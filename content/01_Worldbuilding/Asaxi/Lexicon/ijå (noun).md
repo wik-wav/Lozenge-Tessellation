@@ -37,7 +37,7 @@ Refers to the specific instance of something being seen ("That was quite a sight
 
 ### Example sentence
 
-**To onă o-wao gavină ijå xiŕa.**
+**Toonă o-wao gavină ijå xiŕa.**
 _This world is a good sight (beautiful view)._
 
 ### Alternative forms

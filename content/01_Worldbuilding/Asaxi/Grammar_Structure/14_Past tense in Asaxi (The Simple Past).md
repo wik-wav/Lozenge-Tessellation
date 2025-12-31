@@ -30,6 +30,7 @@ The marker alternates based on the initial phoneme of the verb stem to avoid hia
     - _Example:_ `xoxo` (depart) → `zaxoxo` (departed).
 - **Before Vowels (V):** Use **zèx-**
     - _Example:_ `ijo` (see) → `zaxijo` (saw).
+- **Before the `ů` (be/act) verb**: Use **zèb-**
     - _Example:_ `ů` (be/act) → `zèbů` (was/acted).
 
 ### 2. Scope of Attachment

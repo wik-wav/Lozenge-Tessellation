@@ -34,7 +34,7 @@ IPA: /aɪnau̯no/
 
 ### Example sentence
 
-**To onýj ănåno dănă xiŕa.**
+**Toonýj ănåno dănă xiŕa.**
 _The wait is huge (long)._
 
 ### Etymology

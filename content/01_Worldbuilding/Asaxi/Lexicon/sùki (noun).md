@@ -40,7 +40,7 @@ Distinct from the verb **[[sùki (verb)|sùki]]** (To like).
 
 ### Example sentence
 
-**To onă sùki dănă xiŕa.**
+**Toonă sùki dănă xiŕa.**
 _The love is huge._
 
 ### Etymology

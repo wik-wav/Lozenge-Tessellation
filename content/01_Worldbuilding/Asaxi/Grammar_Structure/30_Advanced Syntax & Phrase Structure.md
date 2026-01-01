@@ -28,11 +28,11 @@ Once an NPCP is invoked, the listener "opens" a mental bracket. Every word that 
 
 **Sè o dănă jalăsháma wo táka.** _Free Translation: The big birds of the sky wage war with me._
 
-| Asaxi         | **sè**      | **o**    | **dă-nă**       | **jalăshá-ma**        | **wo** | **táka**    |
-| ------------- | ----------- | -------- | --------------- | --------------------- | ------ | ----------- |
-| **Morphemes** | sè          | o        | dă - nă         | jalăshá - ma          | wo     | táka        |
-| **Gloss**     | GEN         | sky      | immense - ADJ.W | bird - PL             | 1SG    | wage.war    |
-| **Function**  | NPCP (Open) | Modifier | Modifier        | **Head Noun (Close)** | Object | Verb (Head) |
+| Asaxi         | **sè**      | **o**    | **dă-nă** | **jalăshá-ma**        | **wo** | **táka**    |
+| ------------- | ----------- | -------- | --------- | --------------------- | ------ | ----------- |
+| **Morphemes** | sè          | o        | dă - nă   | jală-shá - ma         | wo     | táka        |
+| **Gloss**     | GEN         | sky      | big-ADJ.W | to.fly-creature- PL   | 1SG    | wage.war    |
+| **Function**  | NPCP (Open) | Modifier | Modifier  | **Head Noun (Close)** | Object | Verb (Head) |
 
 ---
 

@@ -32,6 +32,10 @@ Navigation
 
 [[01_Semantic Fields (Nouns, Adjectives)|01_Semantic Fields (Nouns, Adjectives)]]
 
+#### Glossing Documentation
+
+[[00_Asaxi Glossing & Interlinearization Standard]]
+
 - - -
 
 # Asaxi Language Meta

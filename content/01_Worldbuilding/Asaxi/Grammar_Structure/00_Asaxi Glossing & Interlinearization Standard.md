@@ -36,21 +36,21 @@ Navigation:
 
 ### Relational Particles (Case Markers)
 
-|Code|Meaning|Asaxi|
-|---|---|---|
-|**SUBJ**|Subject (Objective/Marked Nominative)|_to_|
-|**SUBJ.EMO**|Subjective Subject (Internal/Emotional)|_ă_|
-|**GEN**|Genitive (Of)|_sè_|
-|**DAT**|Dative (To/For recipient)|_då_|
-|**ACC**|Accusative (Direct Object)|_(Unmarked)_|
-|**INS**|Instrumental / Causal (By/Using)|_bă_|
-|**ALL**|Allative (Towards goal)|_ni_|
-|**ABL**|Ablative (From source)|_izo_|
-|**TERM**|Terminative (Until)|_måmå_|
-|**COM**|Comitative (With)|_zá_|
-|**ATT**|Attributive / Type / Material|_ga_|
-|**TOP**|Topic / Passive Patient|_dhè_|
-|**REF**|About / Concerning|_ăni_|
+| Code         | Meaning                                 | Asaxi        |
+| ------------ | --------------------------------------- | ------------ |
+| **SUBJ**     | Subject (Objective/Marked Nominative)   | _to_         |
+| **SUBJ.EMO** | Subjective Subject (Internal/Emotional) | _ă_          |
+| **GEN**      | Genitive (Of)                           | _sè_         |
+| **DAT**      | Dative (To/For recipient)               | _då_         |
+| **ACC**      | Accusative (Direct Object)              | _(Unmarked)_ |
+| **INS**      | Instrumental / Causal (By/Using)        | _bă_         |
+| **ALL**      | Allative (Towards goal)                 | _ni_         |
+| **ABL**      | Ablative (From source)                  | _izo_        |
+| **TERM**     | Terminative (Until)                     | _måmå_       |
+| **COM**      | Comitative (With)                       | _zá_         |
+| **ATT**      | Attributive / Type / Material           | _ga_         |
+| **TOP**      | Topic / Passive Patient                 | _dhè_        |
+| **REF**      | About / Concerning                      | _ăni_        |
 
 ### Determiners
 
@@ -144,16 +144,16 @@ _Standardized as `BRG.Type`_
 
 **Asaxi:** _To wo onă gaposhěso ijo._ **Free:** _I see the red book._
 
-|Asaxi|**To**|**wo**|**onă**|**gaposhěso**|**ijo**|
-|---|---|---|---|---|---|
-|**Morphemes**|to|wo|onă|gapo-shěso|ijo|
-|**Gloss**|SUBJ|1SG|DEF.W|red-book|see|
+| Asaxi         | **To** | **wo** | **onă** | **gaposhěso** | **ijo** |
+| ------------- | ------ | ------ | ------- | ------------- | ------- |
+| **Morphemes** | to     | wo     | onă     | ga-apo-shěso  | ijo     |
+| **Gloss**     | SUBJ   | 1SG    | DEF.W   | ATT-red-book  | see     |
 
 ### Example 2: Verbal Negation & Derivation
 
 **Asaxi:** _Wo shěso zènáshěsonů._ **Free:** _I did not read (the) book._
 
-| Asaxi         | **Wo** | **shěso** | **zè-ná-shěso-n-ů**       |
+| Asaxi         | **Wo** | **shěso** | **zènáshěsonů**           |
 | ------------- | ------ | --------- | ------------------------- |
 | **Morphemes** | wo     | shěso     | zè-ná-shěso-n-ů           |
 | **Gloss**     | 1SG    | book      | PST-NEG-book-BRG.PERF-VBZ |

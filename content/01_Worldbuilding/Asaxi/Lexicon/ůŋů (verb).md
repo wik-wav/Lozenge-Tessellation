@@ -25,7 +25,7 @@ tags:
 
 ### Grammatical Note
 
-Derived from **[[ů (verb)|ů]]** + **[[06A_-ng- (Morphological Infix)|-ng-]]** (Olfactory Mode) + **-ů**.
+Derived from **[[ů (verb)|ů]]** + **[[06A_-ŋ- (Morphological Infix)|-ng-]]** (Olfactory Mode) + **-ů**.
 
 ### Semantic Field
 

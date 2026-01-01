@@ -117,7 +117,7 @@ _These bridges insert between the Noun and the `-ů` suffix to define the mode o
 - **[[06A_-ch- (Morphological Infix)|-ch-]]** - Subjective (to feel like / believe)
 - **[[06A_-j- (Morphological Infix)|-j-]]** - Visual (to look like)
 - **[[06A_-s- (Morphological Infix)|-s-]]** - Auditory (to sound like)
-- **[[06A_-ng- (Morphological Infix)|-ng-]]** - Olfactory (to smell like)
+- **[[06A_-ŋ- (Morphological Infix)|-ng-]]** - Olfactory (to smell like)
 - **[[06A_-p- (Morphological Infix)|-p-]]** - Tactile (to feel like / touch)
 - **[[06A_-zh- (Morphological Infix)|-zh-]]** - Gustatory (to taste like)
 

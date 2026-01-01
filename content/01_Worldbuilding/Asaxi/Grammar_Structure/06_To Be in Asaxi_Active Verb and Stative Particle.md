@@ -49,20 +49,20 @@ When turning a Noun or Concept into a verb, you must select a **Mode Infix** (Br
 
 **Formula:** `[Noun] + [Mode Infix] + [ů] = [Active Verb]`
 
-|Infix|Mode|Definition|Example (Root: _apo_)|Meaning|
-|---|---|---|---|---|
-|**-n-**|**Performance**|To use / Function|**aponů**|To use/eat the apple.|
-|**-x-**|**Interaction**|Do X to / Force|**apoxů**|To throw/give an apple.|
-|**-w-**|**Semblance**|Act like|**apowů**|To act like an apple.|
-|**-k-**|**Transformative**|Turn into|**apoků**|To turn (something) into an apple.|
-|**-ŕ-**|**Generative**|Create / Produce|**apoŕů**|To grow/create an apple.|
-|**-sh-**|**Privative**|Remove / Strip|**aposhů**|To remove/deplete apples.|
-|**-ch-**|**Subjective**|Feel like (Belief)|**apochů**|To believe one is an apple.|
-|**-j-**|**Visual**|Look like|**apojů**|To look like an apple.|
-|**-s-**|**Auditory**|Sound like|**aposů**|To sound like an apple.|
-|**-ng-**|**Olfactory**|Smell like|**apongů**|To smell like an apple.|
-|**-p-**|**Tactile**|Feel like (Touch)|**apopů**|To feel like an apple.|
-|**-zh-**|**Gustatory**|Taste like|**apozhů**|To taste like an apple.|
+| Infix    | Mode               | Definition         | Example (Root: _apo_) | Meaning                            |
+| -------- | ------------------ | ------------------ | --------------------- | ---------------------------------- |
+| **-n-**  | **Performance**    | To use / Function  | **aponů**             | To use/eat the apple.              |
+| **-x-**  | **Interaction**    | Do X to / Force    | **apoxů**             | To throw/give an apple.            |
+| **-w-**  | **Semblance**      | Act like           | **apowů**             | To act like an apple.              |
+| **-k-**  | **Transformative** | Turn into          | **apoků**             | To turn (something) into an apple. |
+| **-ŕ-**  | **Generative**     | Create / Produce   | **apoŕů**             | To grow/create an apple.           |
+| **-sh-** | **Privative**      | Remove / Strip     | **aposhů**            | To remove/deplete apples.          |
+| **-ch-** | **Subjective**     | Feel like (Belief) | **apochů**            | To believe one is an apple.        |
+| **-j-**  | **Visual**         | Look like          | **apojů**             | To look like an apple.             |
+| **-s-**  | **Auditory**       | Sound like         | **aposů**             | To sound like an apple.            |
+| **-ŋ-**  | **Olfactory**      | Smell like         | **apoŋů**             | To smell like an apple.            |
+| **-p-**  | **Tactile**        | Feel like (Touch)  | **apopů**             | To feel like an apple.             |
+| **-zh-** | **Gustatory**      | Taste like         | **apozhů**            | To taste like an apple.            |
 **Morphological Rule A: Syllabic Reduction** If the source noun ends in a syllabic nasal (**-mm**, **-nn**, **-nŋ**), the double consonant is **reduced** to a single consonant before adding the bridge.
 
 - **Example:** `kamm` (Building) → **kamnů** (To use a building).

@@ -7,7 +7,7 @@ tags:
   - language
   - grammar
 ---
-# xăxă ([[33_Subjunctive & Desiderative Moods]])
+# xăxă ([[33_Desiderative Subjunctive Moods]])
 
 - - -
 

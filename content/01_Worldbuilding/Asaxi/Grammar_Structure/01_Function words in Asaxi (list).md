@@ -96,9 +96,9 @@ _These attach to the front of the verb to define the time or texture of the acti
 
 _Root verbs that attach to the front of the main verb to define intent or effort._
 
-- **[[jå (verb)|jå-]]** - Desiderative (Want to)
-- **[[xèjå (verb)|xè-]]** - Conative (Try to)
-- **[[ni (Relational Particle)|ni-]]** - Inceptive (Start to)
+- **[[jå- (Desiderative Prefix)|jå-]]** - Desiderative (Want to)
+- **[[xè- (Conative Prefix)|xè-]]** - Conative (Try to)
+- **[[ni- (Inceptive Prefix)|ni-]]** - Inceptive (Start to)
 
 ### Post-Positional Aspect
 

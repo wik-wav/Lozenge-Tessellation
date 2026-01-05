@@ -43,7 +43,7 @@ IPA: /ɦaɪɦaɪɾa/
 
 ### Etymology
 
-**[[33_Subjunctive & Desiderative Moods|xăxă]]** (Hypothetical Particle "Would/As if") + **[[21_Existential Logic & The Validity System|-ŕa]]** (Validity Marker). _Logic:_ "It exists as a hypothetical." It elevates the "scheming/imagined" particle into a concrete state of being.
+**[[33_Desiderative Subjunctive Moods|xăxă]]** (Hypothetical Particle "Would/As if") + **[[21_Existential Logic & The Validity System|-ŕa]]** (Validity Marker). _Logic:_ "It exists as a hypothetical." It elevates the "scheming/imagined" particle into a concrete state of being.
 
 ### Synonyms
 

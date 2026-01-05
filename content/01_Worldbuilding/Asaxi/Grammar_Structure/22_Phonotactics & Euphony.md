@@ -29,7 +29,7 @@ Bridges in Asaxi may serve a grammatical purpose or simply be inserted to avoid 
 
 ### B. Common Lexical Bridges (`-w-` / `-x-`)
 
-**Locatives** and **verbs** create mandatory bridges when fusing with other elements.
+**Locatives** and **verb roots** create mandatory bridges when fusing with other elements.
 
 - **The `-w-` Bridge:** used in Locative Stacking (`vawo`) and Ga-Compounds (`gamaowo`).
 - **The `-x-` Bridge:** used before Verb Roots fused with other elements (`zèxijo`).

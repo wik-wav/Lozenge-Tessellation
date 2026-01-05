@@ -108,7 +108,7 @@ Navigation:
 ### Grammatical Mood (Speaker Attitude)
 
 - [[11_Imperatives & Causatives]] Commands (`-hè`) and Prohibitions (`náxăhè`).
-- [[33_Subjunctive & Desiderative Moods]]: Hypotheticals (`xăxă`) and Wishes (`dăxă`).
+- [[33_Desiderative Subjunctive Moods]]: Hypotheticals (`xăxă`) and Wishes (`dăxă`).
 - [[34_Potential Mood]]: Ability and Possibility (`ken`).
 - [[36_Polite Requests]]: Solicitation (`kă`) and Instructions (`xăkă`).
 - [[53_Flow Commands (Interruption & Continuation)]]: Ordering another to stop or continue an action. (`nă`: _Stop [verbing]!_ or `sů`: _Continue [verbing]!_)

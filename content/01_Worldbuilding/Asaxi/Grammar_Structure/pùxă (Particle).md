@@ -7,7 +7,7 @@ tags:
   - grammar
 title: pùxă (Particle) - "I hope not", "God forbid", "Lest".
 ---
-# pùxă ([[33_Subjunctive & Desiderative Moods]])
+# pùxă ([[33_Desiderative Subjunctive Moods]])
 
 - - -
 

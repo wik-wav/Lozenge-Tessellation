@@ -51,5 +51,5 @@ Mimetic: Represents the mouth movement closing as if trying to bite something (a
 
 ### Derived terms
 
-- **jå-** (Desiderative Prefix: "Want to...").
-- **xèjå** (To try).
+- **[[jå- (Desiderative Prefix)|jå-]]** (Desiderative Prefix: "Want to...").
+- **[[xèjå (verb)|xèjå (verb)]]** (To try).

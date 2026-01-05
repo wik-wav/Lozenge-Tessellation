@@ -94,49 +94,53 @@ Navigation:
 
 ### Aspect & Mood (Prefixes/Suffixes/Particles)
 
-|Code|Meaning|Asaxi|
-|---|---|---|
-|**NEG**|Negation|_fů-_ (prefix), _ná_ (particle)|
-|**ITER**|Iterative (Again/Re-)|_na-_|
-|INC|Inceptive (Start to)|_ni-_|
-|**CESS**|Cessative (Stop)|_tomo'_ (post-verbal)|
-|**DES**|Desiderative (Want to)|_jå-_|
-|**CON**|Conative (Try to)|_xè-_|
-|**IMP**|Imperative|_hè_|
-|**OPT**|Optative (Hope/Wish)|_dăxă, xădăchỏxă_|
-|**POT**|Potential (Can)|_ken_|
-|**SUBJNC**|Subjunctive (Would/Hypothetical)|_xăxă_|
-|**COND**|Conditional (If)|_chě_|
+| Code       | Meaning                          | Asaxi                           |
+| ---------- | -------------------------------- | ------------------------------- |
+| **NEG**    | Negation                         | _fů-_ (prefix), _ná_ (particle) |
+| **ITER**   | Iterative (Again/Re-)            | _na-_                           |
+| **INC**    | Inceptive (Start to)             | _ni-_                           |
+| **CESS**   | Cessative (Stop)                 | _tomo'_ (post-verbal)           |
+| **DES**    | Desiderative (Want to)           | _jå-_                           |
+| **CON**    | Conative (Try to)                | _xè-_                           |
+| **IMP**    | Imperative                       | _hè_                            |
+| **OPT**    | Optative (Hope/Wish)             | _dăxă, xădăchỏxă_               |
+| **POT**    | Potential (Can)                  | _ken_                           |
+| **SUBJNC** | Subjunctive (Would/Hypothetical) | _xăxă_                          |
+| **COND**   | Conditional (If)                 | _chě_                           |
 
 ### Verbal Derivation (Bridges)
 
-_Standardized as `BRG.Type`_
+*Standardized as `BRG.Type`*
 
-**Note on Notation:** While traditionally called "Mode Infixes" in Asaxi grammar, these morphemes structurally function as **suffixes** (interfixes) appearing between the root and the verbalizer (`Root-Bridge-VBZ`). They are not inserted _inside_ the root. Therefore, standard Leipzig hyphens (`-`) are used instead of infix angle brackets (`< >`). The tag `BRG` is used to explicitly label this derivational slot.
+**Note on Notation:** While traditionally called "Mode Infixes" in Asaxi grammar, these morphemes structurally function as **suffixes** (interfixes) appearing between the root and the verbalizer (`Root-Bridge-VBZ`). They are not inserted *inside* the root. Therefore, standard Leipzig hyphens (`-`) are used instead of infix angle brackets (`< >`). The tag `BRG` is used to explicitly label this derivational slot.
 
-|Code|Meaning|Asaxi|
-|---|---|---|
-|**VBZ**|Verbalizer Suffix|_-ů_|
-|**BRG.PERF**|Performance (Function/Use)|_-n-_|
-|**BRG.INTER**|Interaction (Force/Do to)|_-x-_|
-|**BRG.SEMB**|Semblance (Act like)|_-w-_|
-|**BRG.TRANS**|Transformative (Turn into)|_-k-_|
-|**BRG.GEN**|Generative (Create)|_-ŕ-_|
-|**BRG.PRIV**|Privative (Remove)|_-sh-_|
-|**BRG.SUBJ**|Subjective (Feel like)|_-ch-_|
+**Note on Ambiguity (-x-):** The form **-x-** is used for the Interaction Bridge (`BRG.INTER`) but also functions as a phonological **Epenthetic Bridge** to prevent hiatus (e.g., `ni-x-ijo`). In purely phonological contexts, use the code **`EP`** (see below), not `BRG.INTER`.
+
+| Code          | Meaning                    | Asaxi  |
+| ------------- | -------------------------- | ------ |
+| **EP**        | Epenthetic (Hiatus Bridge) | `-x-`  |
+| **VBZ**       | Verbalizer Suffix          | _-ů_   |
+| **BRG.PERF**  | Performance (Function/Use) | _-n-_  |
+| **BRG.INTER** | Interaction (Force/Do to)  | _-x-_  |
+| **BRG.SEMB**  | Semblance (Act like)       | _-w-_  |
+| **BRG.TRANS** | Transformative (Turn into) | _-k-_  |
+| **BRG.GEN**   | Generative (Create)        | _-ŕ-_  |
+| **BRG.PRIV**  | Privative (Remove)         | _-sh-_ |
+| **BRG.SUBJ**  | Subjective (Feel like)     | _-ch-_ |
 
 ### Other Common Codes
 
-|Code|Meaning|
-|---|---|
-|**PL**|Plural (`-ma`)|
-|**COP**|Stative Particle (`xiŕa`)|
-|**NEG.COP**|Negative Stative (`nèŕa`)|
-|**PTL**|Particle (General/Discourse)|
-|**Q**|Question Particle|
-|**AUG**|Augmentative (`dă-`)|
-|**CMPR**|Comparative (`na-` / `pù-`)|
-|**SUP**|Superlative (`nă-` / `nýj-`)|
+| Code        | Meaning                      |
+| ----------- | ---------------------------- |
+| **PL**      | Plural (`-ma`)               |
+| **COP**     | Stative Particle (`xiŕa`)    |
+| **NEG.COP** | Negative Stative (`nèŕa`)    |
+| **PTL**     | Particle (General/Discourse) |
+| **Q**       | Question Particle            |
+| **AUG**     | Augmentative (`dă-`)         |
+| **CMPR**    | Comparative (`na-` / `pù-`)  |
+| **SUP**     | Superlative (`nă-` / `nýj-`) |
+
 
 ## 4. Examples
 

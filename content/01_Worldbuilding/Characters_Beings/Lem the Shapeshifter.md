@@ -33,7 +33,7 @@ Japanese name: 澪夢レム （れむれむ）
 - No-one knows what he was originally or how he came about. The shapeshifting ability perplexes everyone. Sadly, it can not be studied due to laws and regulations. He himself is very curious about it but any method of examination leads to a certain demise. While his lofty ideals would have him part with life, he knows what pain this would cause to those he cares about most.
 - Has vivid, nonsensical dreams. Prominent themes are video-games he used to play in childhood, the time before midnight, unfamiliar places, foreign languages, mischief, windy or rainy weather, animals, songs. Very often they are stylized peculiarly; this is also how he sees when he’s tired.
 - Scared of the dark.
-- Equal and opposite creature to [[Mel the Shapeshifter]].
+
 #### Trivia
 
 The one thing he knows is shapes. He loves shapes. He is a shape, after all. As such he admires every shape.

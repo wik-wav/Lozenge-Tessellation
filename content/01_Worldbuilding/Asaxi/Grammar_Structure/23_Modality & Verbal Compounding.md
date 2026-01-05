@@ -35,7 +35,7 @@ Derived from **[[jå (verb)|jå]]** (to want). Expresses desire to perform an ac
 
 > **To wo jåshěsonů.** `SUBJ` `1SG` `WANT-read` _"I want to read."_
 
-> **To wo zènájåxijo.** `SUBJ` `1SG` `PAST-NEG-WANT-see` _"I did not want to see."_
+> **To wo zènájåijo.** `SUBJ` `1SG` `PAST-NEG-WANT-see` _"I did not want to see."_
 
 ---
 

@@ -8,7 +8,7 @@ tags:
   - language
   - noun
 ---
-# gahji ([[01_Asaxi Nouns (List)]])
+# gahji ([[00_Ga-noun Compounds in Asaxi (list)|00_Ga-noun Compounds in Asaxi (list)]])
 
 - - -
 

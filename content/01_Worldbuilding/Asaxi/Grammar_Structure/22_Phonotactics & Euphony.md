@@ -32,8 +32,10 @@ Bridges in Asaxi may serve a grammatical purpose or simply be inserted to avoid 
 **Locatives** and **verb roots** create mandatory bridges when fusing with other elements.
 
 - **The `-w-` Bridge:** used in Locative Stacking (`vawo`) and Ga-Compounds (`gamaowo`).
-- **The `-x-` Bridge:** used before Verb Roots fused with other elements (`zèxijo`).
-	Note: This rule does NOT apply to verbs derived from nouns (`paaxanů`).
+- **The `-x-` Bridge:** 
+	- used before Verb Roots fused with other elements (`zèxijo`).
+	  Note: This rule does NOT apply to verbs derived from nouns (`paaxanů`).
+	- used in ga noun
 
 ### C. I- and W- Coalescence (-x- Bridge Exception)
 

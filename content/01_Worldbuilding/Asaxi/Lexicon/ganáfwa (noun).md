@@ -1,5 +1,5 @@
 ---
-title: ganáfwa (noun) - clear (cloudless)
+title: ganáfwa (noun) - clarity, cloudlessness
 Word (Asaxi): ganáfwa
 trnsltion. En: clear (cloudless)
 trnsltion. Pl: czysty (bezchmurny)
@@ -8,7 +8,7 @@ tags:
   - language
   - noun
 ---
-# ganáfwa ([[01_Asaxi Nouns (List)]])
+# ganáfwa ([[00_Ga-noun Compounds in Asaxi (list)|00_Ga-noun Compounds in Asaxi (list)]]
 
 - - -
 
@@ -28,14 +28,13 @@ IPA: /ɡanɑfʷa/
 
 ### Translations
 
-- English: clear, cloudless, azure
-- Polish: czysty, bezchmurny
+- English: clarity, cloudlessness, azure sky
+- Polish: czystość, bezchmurne niebo
 
 ### Example sentence
 
-**To o ganáfwa xiŕa.** _The sky is clear._ (Lit: Sky is clear-type).
-
-Note: Only used when referring to weather
+**To o ganáfwanýj xiŕa.** _The sky is clear._ (Lit: Sky is clear-type).
+**Hwo, ganáfwoŕimåa zèma.** _Yesterday, I had clear thoughts._
 
 ### Alternative forms
 
@@ -51,4 +50,4 @@ x
 
 ### Antonyms
 
-- **gafwo** (Cloudy/Foggy).
+- **gafwo** (Cloudiness).

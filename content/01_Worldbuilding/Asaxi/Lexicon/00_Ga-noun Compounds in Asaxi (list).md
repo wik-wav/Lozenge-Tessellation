@@ -24,6 +24,11 @@ This is a list of all **Ga-noun Idiomatic Compounds** in Asaxi, with their close
 
 - [[gajýnnshá (noun)]] - were-hyena, gnoll
 - [[gamaowo (noun)]] - the night sky (lit. moon-type sky)
+- [[gabåbåshá (noun)]] - muscular being, bodybuilder
+- [[gabåbwoshá (noun)]] - strongman, powerlifter
+- [[gabwo (noun)]] - fatness, obesity
+- [[gabwoshá (noun)]] - fat being, obese person
+- [[gafůbåbå (noun)]] - atrophy, the state of having no muscle
 
 - - - 
 
@@ -34,3 +39,5 @@ This is a list of all **Ga-noun Idiomatic Compounds** in Asaxi, with their close
 - [[gapo (noun)]] - red (from "apple")
 - [[gasi (noun)]] - white (from "the great unknown")
 - [[gavi (noun)]] - green (from "grass" / "life")
+- [[gahji (noun)]] - smallness, minuteness, insignificance, compactness
+- [[ganáfwa (noun)]]  - clarity, cloudlessness

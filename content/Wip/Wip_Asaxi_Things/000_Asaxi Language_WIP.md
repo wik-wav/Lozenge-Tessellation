@@ -9,6 +9,7 @@ words to add for the conlang sentence list:
 - word for "feeling" (noun) or mood
 - forcing ones feelings onto another - one of those hyper specific words 
 - fjonýj (adjective) - concept-like, antonym of nonýj
+- word for "creature of whimsy", which encompasses creatures like unicorns, fae, wyverns, pegasi, 
 
 - - -
 

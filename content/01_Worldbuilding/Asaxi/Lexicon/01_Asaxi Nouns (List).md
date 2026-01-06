@@ -29,7 +29,6 @@ Navigation:
 - [[pxůmă (noun)]] - the sum of all rejections
 - [[xoxonăno (noun)]] - cherished object
 - [[găxiŕo (noun)]] - vibrancy, vividness
-- [[gafůbåbå (noun)]] - atrophy
 - [[pxỏpxỏshá (noun)]] - living inflatable, balloon-creature
 - [[pxỏ (noun)]] - ball, sphere, orb
 - [[fjo (noun)]] - concept, idea, abstraction, non-object
@@ -152,7 +151,6 @@ Navigation:
 - [[sigo (noun)]] - number
 - [[kő (noun)]] - understanding
 - [[bwo (noun)]] - fat (adipose tissue)
-- [[gabwo (noun)]] - fatness
 - [[pùbwo (noun)]] - buttocks
 - [[ỏbwo (noun)]] - belly
 - [[ỏbỏ (noun)]] - cushion
@@ -254,13 +252,9 @@ Navigation:
 - [[tăbino (noun)]] - a drawing, sketch, a diagram, a blueprint
 - [[dăchỏchỏ (noun)]] - sexual attraction, desire, lust, arousal, excitement (libido)
 - [[jùni (noun)]] - university, college, academy
-- [[gabåbåshá (noun)]] - muscular being, bodybuilder, hulk, muscle-beast, hunk
-- [[gabwoshá (noun)]] - fat being, obese person, fatty (creature), fattened animal
-- [[gabåbwoshá (noun)]] - strongman, powerlifter, brute, bear (physique)
 - [[ihjo (noun)]] - bone, os
 - [[ihjokam (noun)]] - skeleton, skeleton, skeletal system, frame
 - [[hjihji (noun)]] - thinness, gauntness, scrawniness, lack of muscle
-- [[gahji (noun)]] - smallness, minuteness, insignificance, compactness
 - [[ýhýshá (noun)]] - mouse, rodent, prey animal
 - [[tamỏbwoxatëbibåbå (noun)]] - biceps (brachii), the two-headed muscle
 - [[găhjo (noun)]] - emaciation, boniness, gauntness, skin and bones

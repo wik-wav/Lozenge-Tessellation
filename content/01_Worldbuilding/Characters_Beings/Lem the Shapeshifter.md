@@ -20,6 +20,7 @@ Japanese name: 澪夢レム （れむれむ）
 
 - Physical traits: Weight and height vary. Seems to prefer small shapes.  
     Tail has a brush tip regardless of the form he takes. Has a persistent, heart-shaped, light fur patch on chest. Life expectancy unknown.
+    For a detailed explanation on the immutable traits of Lem's visual identity, see: [[Lem the Shapeshifter - Visual Protocol]]
 - Shapeshifter.  
     Lem's Forms are many.
 - Affect: Gender non-conforming. Behaves flamboyantly, else plays pretend.
@@ -37,8 +38,6 @@ Japanese name: 澪夢レム （れむれむ）
 #### Trivia
 
 The one thing he knows is shapes. He loves shapes. He is a shape, after all. As such he admires every shape.
-
-He is ever changing, as is every inhabitant of [[The Lozenge Tessellation]].
 
 His smell has been described as “fresh electric blue paint on metal fence railing on a playground on a hot summer's early afternoon soon after it had rained”. Enjoys concave gamepad buttons.
 

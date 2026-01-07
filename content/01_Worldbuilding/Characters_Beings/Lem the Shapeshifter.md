@@ -11,9 +11,9 @@ tags:
 
 Character created by wik_wav
 
-_born: 20.11.2002  
-sex: N/A  
-mammal_
+_born: 20.11.2002_
+_sex: N/A_
+_mammal_
 
 Japanese name: 澪夢レム （れむれむ） 
 #### Knowns:

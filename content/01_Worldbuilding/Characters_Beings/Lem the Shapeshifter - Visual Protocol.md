@@ -6,13 +6,15 @@ tags:
   - character
   - protocol
 ---
-This note serves as the Visual Protocol for [[Lem the Shapeshifter|Lem the Shapeshifter]], a character of the [[The Lozenge Tessellation|Lozenge T.]]. In this document you will find what exactly makes Lem look like Lem.
+This note serves as the Visual Protocol for [[Lem the Shapeshifter|Lem the Shapeshifter]], a character of the [[The Lozenge Tessellation|Lozenge T.]]. In this document you will find what exactly makes Lem look like Lem. 
+
+You may refer to these rules to create derivative Lem forms. Check here for licensing information: [[Lem the Shapeshifter - Derivative Characters Licensing]]
 
 - - - 
 
-# Immutable visual identity traits
+# Immutable Visual Identity Traits
 
-### Body type
+### Body Type
 
 Lem's body type is usually slim, unathletic and non-muscular. Some of his forms do feature more muscle, but it's never well-defined. There's some softness around his midsection and limbs. He has a relatively flat chest. The height varies, but most forms are below average for whatever he appears to be.
 
@@ -25,17 +27,17 @@ Lem's body type is usually slim, unathletic and non-muscular. Some of his forms 
 
 Lem's tail is persistently relatively long and thin. The tip features an orange tuft, matching Lem's hair colour. 
 
-### Eye colours
+### Eye Colours
 
 - irises: typically light orange with hints of rose red
 - sclere: white 
 - pupils: black
 
-###  Fur patterns 
+###  Fur Patterns 
 
 Lem's fur patterns change; in each form they appear in different arrangements. However, somewhere on Lem's chest one can find a persistent heart shaped fur patch. It is usually ivory, but in some forms it takes on the relatively darker light yellow tone.
 
-### Clothing preferences
+### Clothing Preferences
 
 Lem’s wardrobe is dictated by a hyper-acute sensory profile rather than aesthetic tradition. Adherence to these material parameters is critical for the subject's stability. In the absence of environmental necessity, the subject defaults to a state of total nudity to eliminate tactile interference.
 

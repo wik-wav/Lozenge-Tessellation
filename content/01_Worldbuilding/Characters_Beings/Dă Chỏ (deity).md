@@ -2,6 +2,8 @@
 title: Dă Chỏ (deity)
 tags:
   - lozenge_t
+  - character
+  - dă_chỏ
 ---
 - - -
 

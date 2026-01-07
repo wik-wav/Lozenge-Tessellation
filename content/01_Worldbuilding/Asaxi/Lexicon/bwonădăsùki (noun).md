@@ -35,7 +35,7 @@ IPA: /bʷonaɪdaɪsɯki/
 ### Example sentence
 
 **To wo bwonădăsùki ma.**
-_I have adoration (for someone)._
+_I have adoration._
 
 ### Etymology
 

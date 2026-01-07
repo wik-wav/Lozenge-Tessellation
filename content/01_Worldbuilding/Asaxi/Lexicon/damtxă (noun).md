@@ -37,7 +37,7 @@ IPA: /damtʰaɪ/
 
 ### Example sentence
 
-Vazè, să damtxă hùwo, wo xő xijo.
+Vazè, să damtxă hùwo, wo xő ijo.
 In the past, one decade ago, I saw him.
 
 ### Alternative forms

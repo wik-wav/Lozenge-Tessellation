@@ -46,6 +46,15 @@ To publish changes:
 npx quartz sync
 ```
 
-### License
+## License & Protocol
 
-This project uses Quartz, which is licensed under the MIT License.
+### The Asaxi Language (Content)
+The **Asaxi language**, worldbuilding lore, and all documentation within the `content/` directory are dedicated to the public domain under the **Creative Commons Zero v1.0 Universal (CC0)** waiver.
+
+This means Asaxi is designed as an open **protocol**:
+* **Permissionless:** You are free to speak, write, modify, remix, and build upon this linguistic system for any purpose (including commercial) without asking for permission.
+* **Attribution:** While not legally required, attribution to **wik_wav** is appreciated as it helps track the lineage of the protocol.
+* **Compatibility:** To maintain intelligibility with the core framework, please refer to the grammar documentation in this repository.
+
+### The Engine (Software)
+The underlying source code for this site generator (Quartz) remains under the **MIT License** (see `LICENSE.txt`).

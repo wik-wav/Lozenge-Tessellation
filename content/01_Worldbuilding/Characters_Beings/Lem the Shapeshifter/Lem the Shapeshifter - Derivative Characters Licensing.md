@@ -8,7 +8,7 @@ tags:
 ---
 # Licensing
 
-This document outlines the licensing framework for character designs and visual artworks derived from the **Lem Visual Protocol**.
+This document outlines the licensing framework for character designs and visual artworks derived from the **[[Lem the Shapeshifter - Visual Protocol|Lem the Shapeshifter - Visual Protocol]]**.
 
 By utilizing the visual traits and configuration rules defined in the Lem Protocol, creators produce "Derivative Characters." This document clarifies the ownership, licensing, and usage rights associated with these independent creations.
 

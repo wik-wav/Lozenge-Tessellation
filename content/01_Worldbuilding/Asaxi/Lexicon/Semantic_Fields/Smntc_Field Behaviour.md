@@ -16,7 +16,9 @@ Navigation:
 - - -
 
 - [[ů (verb)]] - be, act
-- [[sătamni (noun)]] - 
+- [[fdåmë (verb)]] - to withhold, to not send, to conceal
+- [[dåmë (verb)]] - to send, to show, to display
+- [[sătamni (noun)]] - unison, unanimity
 - [[tamni (noun)]] - together as a pair
 - [[dătáka (noun)]] - war, armed conflict, warfare
 - [[fkamnýj (adjective)]] - domesticated, dependent, reliant, not self-sufficient, tame

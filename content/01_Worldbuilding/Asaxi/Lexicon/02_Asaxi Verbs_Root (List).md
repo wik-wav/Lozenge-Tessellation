@@ -22,6 +22,8 @@ This is a list of all [[The Asaxi Language|Asaxi]] root verbs and their meanings
 - - -
 
 - [[ijo (verb)]] - to see
+- [[fdåmë (verb)]] - to not show, to withhold, to conceal, to not send
+- [[dåmë (verb)]] - to send, to show, to display
 - [[fůcőma (verb)]] - to have without appreciation
 - [[fůcèma (verb)]] - to take for granted
 - [[pxỏpxỏ (verb)]] - to blow

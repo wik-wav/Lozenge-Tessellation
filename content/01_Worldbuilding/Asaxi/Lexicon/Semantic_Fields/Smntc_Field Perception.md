@@ -16,6 +16,8 @@ Navigation:
 - - -
 
 - [[ijo (verb)]] - to see
+- [[fdåmë (verb)]] - to withhold, to not send, to conceal
+- [[dåmë (verb)]] - to send, to show, to display
 - [[fůcőma (verb)]] - to have without appreciation
 - [[pjonă (adjective)]] - bright
 - [[txenă (adjective)]] - translucent

@@ -12,6 +12,14 @@ words to add for the conlang sentence list:
 - word for "creature of whimsy", which encompasses creatures like unicorns, fae, wyverns, pegasi,
 - word for tulpa (imaginary friend)
 - word for egregore
+- word for video
+- word for movie
+- character (as in, original character, an imaginary being one creates for purposes of fiction) - făfjo
+- hugely important character of one's own making (similar to xoxonăno, but for characters) - xonătăfjo - etym. don't-go-character; a character one doesn't let go of
+- anthro bunny character - pỏdăgoshá
+- artstyle - tăbikxe (etym. plus, line, shape)
+- to ponder with another - tăŕi - etym. tă (addition) + shortened form of ŕimå (thought)
+- later - temporal marker for "time immediately after (that which came before in context)" (used at the start of a sentence) — pozå, etym: pa (future) + o- locative + zå "then"
 
 - - -
 

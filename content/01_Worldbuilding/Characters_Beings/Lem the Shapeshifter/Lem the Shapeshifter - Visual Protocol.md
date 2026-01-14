@@ -18,6 +18,10 @@ You may refer to these rules to create derivative Lem forms. Check here for lice
 
 Lem's body type is usually slim, unathletic and non-muscular. Some of his forms do feature more muscle, but it's never well-defined. There's some softness around his midsection and limbs. He has a relatively flat chest. The height varies, but most forms are below average for whatever he appears to be.
 
+### Nose
+
+Lem's nose is light pink or peach.
+
 ### Hair
 
 - colour: light orange

@@ -23,7 +23,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /hɯɦaɦaɕbibau̯bau̯/
+IPA: /xɯɦaɦaɕbibau̯bau̯/
 
 ### Translations
 

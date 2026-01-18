@@ -21,7 +21,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /ɪhɪnaɪ/
+IPA: /ɪxɪnaɪ/
 
 ### Semantic Field
 

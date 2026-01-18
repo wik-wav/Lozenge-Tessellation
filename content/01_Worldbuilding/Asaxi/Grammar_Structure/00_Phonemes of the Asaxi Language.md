@@ -32,7 +32,7 @@ Below you will find a table which contains the Arpabet phoneme (\_Arpa), IPA (\_
 | f                                   | f       | f                             |                                                                           |
 | g                                   | ɡ       | g                             |                                                                           |
 | hh                                  | ɦ       | x                             |                                                                           |
-| h                                   | h       | h                             |                                                                           |
+| h                                   | x       | h                             |                                                                           |
 | jh                                  | d̠ʒ     | jh                            |                                                                           |
 | k                                   | k       | k                             |                                                                           |
 | l                                   | l       | l                             |                                                                           |

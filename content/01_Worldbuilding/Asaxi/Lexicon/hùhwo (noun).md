@@ -24,7 +24,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /hɯhʷo/
+IPA: /xɯxʷo/
 
 ### Semantic field
 

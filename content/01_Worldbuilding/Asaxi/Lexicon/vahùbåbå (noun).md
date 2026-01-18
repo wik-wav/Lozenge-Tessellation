@@ -20,7 +20,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /vahɯbau̯bau̯/
+IPA: /vaxɯbau̯bau̯/
 
 ### Semantic field
 

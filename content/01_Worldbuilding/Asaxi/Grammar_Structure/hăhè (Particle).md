@@ -35,7 +35,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /haɪhə/ (The `h` is retained to distinguish the two particles clearly).
+IPA: /xaɪxə/ (The `x` is retained to distinguish the two particles clearly).
 
 ### Etymology
 

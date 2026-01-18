@@ -31,7 +31,7 @@ Used for laws, safety warnings, strict rules, or angry commands. It implies that
 
 ### Pronunciation
 
-IPA: /nɑɦaɪhə/
+IPA: /nɑɦaɪxə/
 
 ### Example sentence
 

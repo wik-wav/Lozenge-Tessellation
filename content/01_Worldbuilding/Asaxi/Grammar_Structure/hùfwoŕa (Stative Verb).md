@@ -21,7 +21,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /hɯwfʷoɾa/
+IPA: /xɯwfʷoɾa/
 
 ### Semantic field
 

@@ -20,7 +20,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /hə/
+IPA: /xə/
 
 ### Alternative Forms
 

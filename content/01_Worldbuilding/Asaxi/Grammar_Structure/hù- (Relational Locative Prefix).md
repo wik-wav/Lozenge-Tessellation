@@ -29,7 +29,7 @@ Attaches to the front of the noun.
 
 ### Pronunciation
 
-IPA: /hɯ/
+IPA: /xɯ/
 
 ### Example sentence
 

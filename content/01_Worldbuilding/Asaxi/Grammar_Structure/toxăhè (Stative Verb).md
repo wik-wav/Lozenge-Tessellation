@@ -22,7 +22,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /t̪oɦaɪhə/
+IPA: /t̪oɦaɪxə/
 
 ### Semantic field
 

@@ -27,7 +27,7 @@ Used as a standalone command to initiate an action or event. It can also functio
 
 ### Pronunciation
 
-IPA: /ɲihə/
+IPA: /ɲixə/
 *Phonotactics:* The `h` is retained because `ni` ends in a pure vowel.
 
 ### Example sentence

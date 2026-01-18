@@ -39,7 +39,7 @@ A complex fusion of four particles creating a "Imperative of Negative Force."
 
 ### Pronunciation
 
-IPA: /nɑɦaɪbaɪhə/ 
+IPA: /nɑɦaɪbaɪxə/ 
 
 ### Example sentence
 

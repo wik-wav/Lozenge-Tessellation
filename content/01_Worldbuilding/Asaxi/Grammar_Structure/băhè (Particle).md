@@ -29,7 +29,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /baɪhə/ 
+IPA: /baɪxə/ 
 
 ### Etymology
 

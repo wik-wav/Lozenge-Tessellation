@@ -35,7 +35,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /ɦohɯ/
+IPA: /ɦoxɯ/
 
 ### Translations
 

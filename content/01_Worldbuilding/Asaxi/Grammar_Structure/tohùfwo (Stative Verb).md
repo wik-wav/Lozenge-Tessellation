@@ -22,7 +22,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /t̪ohuu̯fʷo/
+IPA: /t̪oxuu̯fʷo/
 
 ### Semantic field
 

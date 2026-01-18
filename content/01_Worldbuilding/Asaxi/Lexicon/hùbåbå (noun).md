@@ -20,7 +20,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /hɯbau̯bau̯/
+IPA: /xɯbau̯bau̯/
 
 ### Semantic field
 

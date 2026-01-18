@@ -26,7 +26,7 @@ Used to command someone to stop their current action and immediately begin a new
 
 ### Pronunciation
 
-IPA: /nau̯hə/
+IPA: /nau̯xə/
 
 ### Example sentence
 

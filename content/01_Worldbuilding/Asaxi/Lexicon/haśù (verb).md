@@ -35,7 +35,7 @@ takes two, e.g. _He(1) kicked the ball(2)._
 
 ### Pronunciation
 
-IPA: /haɕɯ/
+IPA: /xaɕɯ/
 
 ### Translations
 

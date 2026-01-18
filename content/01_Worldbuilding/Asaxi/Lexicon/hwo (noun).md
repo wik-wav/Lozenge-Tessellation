@@ -20,7 +20,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /hʷo/
+IPA: /xʷo/
 
 ### Semantic field
 

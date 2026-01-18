@@ -21,7 +21,7 @@ title: ýhýshá (noun) - mouse, rodent
 
 ### Pronunciation
 
-IPA: /ɪhɪʃɑ/
+IPA: /ɪxɪʃɑ/
 
 ### Semantic field
 

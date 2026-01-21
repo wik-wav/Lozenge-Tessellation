@@ -7,7 +7,7 @@ tags:
   - character
   - lem
 ---
-# Lem Lem / Lemma / Remu Remu
+# Lem Lem / Lem.ma / Remu Remu
 
 Character created by wik_wav
 
@@ -40,7 +40,7 @@ Japanese name: 澪夢レム （れむれむ）
 
 #### Name Meaning
 
-The name "Lem" bridges two concepts. It references the **lemma** found in linguistics and mathematics—a root form, premise, or stepping stone. Its Japanese spelling, **澪夢** (_remu remu_), translates to "dream of a wake," referring to the ripples left in the water by a passing ship.
+The name "Lem" bridges two concepts. It references the **lemma** found in linguistics and mathematics—a root form, premise, or stepping stone. Its Japanese spelling, **澪夢** (_remu remu_), translates to "dream of a wake," referring to the ripples left in the water by a passing ship. In Asaxi, Lem's name is "Lem.ma"  
 
 #### Quirks
 

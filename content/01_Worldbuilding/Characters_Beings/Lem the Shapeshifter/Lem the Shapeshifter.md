@@ -7,7 +7,7 @@ tags:
   - character
   - lem
 ---
-# Lem Lem
+# Lem Lem / Lemma / Remu Remu
 
 Character created by wik_wav
 
@@ -16,7 +16,7 @@ _sex: N/A_
 _mammal_
 
 Japanese name: 澪夢レム （れむれむ） 
-#### Knowns:
+### Knowns:
 
 - Physical traits: Weight and height vary. Seems to prefer small shapes.  
     Tail has a brush tip regardless of the form he takes. Has a persistent, heart-shaped, light fur patch on chest. Life expectancy unknown.
@@ -35,11 +35,17 @@ Japanese name: 澪夢レム （れむれむ）
 - Has vivid, nonsensical dreams. Prominent themes are video-games he used to play in childhood, the time before midnight, unfamiliar places, foreign languages, mischief, windy or rainy weather, animals, songs. Very often they are stylized peculiarly; this is also how he sees when he’s tired.
 - Scared of the dark.
 
-#### Trivia
+- - -
+### Trivia
 
-The one thing he knows is shapes. He loves shapes. He is a shape, after all. As such he admires every shape.
+#### Name Meaning
 
-His smell has been described as “fresh electric blue paint on metal fence railing on a playground on a hot summer's early afternoon soon after it had rained”. Enjoys concave gamepad buttons.
+The name "Lem" bridges two concepts. It references the **lemma** found in linguistics and mathematics—a root form, premise, or stepping stone. Its Japanese spelling, **澪夢** (_remu remu_), translates to "dream of a wake," referring to the ripples left in the water by a passing ship.
+
+#### Quirks
+
+1. The one thing he knows is shapes. He loves shapes. He is a shape, after all. As such he admires every shape.
+2. His smell has been described as “fresh electric blue paint on metal fence railing on a playground on a hot summer's early afternoon soon after it had rained”. Enjoys concave gamepad buttons.
 
 - - -
 

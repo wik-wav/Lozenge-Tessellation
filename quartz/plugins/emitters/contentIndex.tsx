@@ -66,7 +66,7 @@ function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string
   }
 
   // Filter Logic: Exclude specific folders
-  const excludedFolders = ["Lexicon", "Grammar_Structure", "Idioms_Expressions"]
+  const excludedFolders = ["00_Templates", "Wip"]
 
   const urls = Array.from(idx)
     .filter(([_, content]) => {

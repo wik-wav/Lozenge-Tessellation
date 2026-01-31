@@ -41,25 +41,49 @@ const defaultOptions: Options = {
 
 function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string {
   const base = cfg.baseUrl ?? ""
-  // Ensure 'slug' is defined as the first argument here
-  const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<url>
-    <loc>https://${joinSegments(base, encodeURI(slug))}</loc>
-    ${content.date && `<lastmod>${content.date.toISOString()}</lastmod>`}
-  </url>`
+  
+  const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => {
+    // URL Encoding Fix: Encode standard URI chars, then manually encode parens
+    // to satisfy strict validators that choke on "(" or ")" in URLs
+    const encodedSlug = encodeURI(slug)
+      .replace(/\(/g, '%28')
+      .replace(/\)/g, '%29')
+      
+    const loc = `https://${joinSegments(base, encodedSlug)}`
+    
+    // Date Fix: Convert to ISO, strip milliseconds (.000), and append +00:00
+    // Example: 2025-12-19T08:20:06.000Z -> 2025-12-19T08:20:06+00:00
+    let lastModTag = ""
+    if (content.date) {
+      const cleanDate = content.date.toISOString().split('.')[0] + "+00:00"
+      lastModTag = `<lastmod>${cleanDate}</lastmod>`
+    }
 
-  const excludedFolders = ["Lexicon", "Grammar_Structure", "Idioms_Expressions", "00_Templates"]
+    return `<url>
+    <loc>${loc}</loc>
+    ${lastModTag}
+  </url>`
+  }
+
+  // Filter Logic: Exclude specific folders
+  const excludedFolders = ["Lexicon", "Grammar_Structure", "Idioms_Expressions"]
 
   const urls = Array.from(idx)
-    // We use "_" for the first argument because we don't need the slug for filtering, only the content
     .filter(([_, content]) => {
+       // Return false if the file path matches any excluded folder
       return !excludedFolders.some(folder => content.filePath.includes(folder))
     })
-    // We MUST use "[slug, content]" here so 'slug' is defined for the next line
     .map(([slug, content]) => createURLEntry(simplifySlug(slug), content))
     .join("")
 
+  // Schema Fix: Add full namespace and schemaLocation attributes
   return `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${urls}</urlset>`
+<urlset 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    ${urls}
+</urlset>`
 }
 
 function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndexMap, limit?: number): string {

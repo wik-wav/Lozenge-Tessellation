@@ -47,7 +47,7 @@ function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string
     ${content.date && `<lastmod>${content.date.toISOString()}</lastmod>`}
   </url>`
 
-  const excludedFolders = ["Lexicon", "Grammar_Structure", "Idioms_Expressions"]
+  const excludedFolders = ["Lexicon", "Grammar_Structure", "Idioms_Expressions", "00_Templates"]
 
   const urls = Array.from(idx)
     // We use "_" for the first argument because we don't need the slug for filtering, only the content

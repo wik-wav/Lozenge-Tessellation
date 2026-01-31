@@ -41,14 +41,23 @@ const defaultOptions: Options = {
 
 function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string {
   const base = cfg.baseUrl ?? ""
+  // Ensure 'slug' is defined as the first argument here
   const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<url>
     <loc>https://${joinSegments(base, encodeURI(slug))}</loc>
     ${content.date && `<lastmod>${content.date.toISOString()}</lastmod>`}
   </url>`
+
+  const excludedFolders = ["Lexicon", "Grammar_Structure", "Idioms_Expressions"]
+
   const urls = Array.from(idx)
+    // We use "_" for the first argument because we don't need the slug for filtering, only the content
+    .filter(([_, content]) => {
+      return !excludedFolders.some(folder => content.filePath.includes(folder))
+    })
+    // We MUST use "[slug, content]" here so 'slug' is defined for the next line
     .map(([slug, content]) => createURLEntry(simplifySlug(slug), content))
     .join("")
-  // The edit below adds the XML header
+
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${urls}</urlset>`
 }

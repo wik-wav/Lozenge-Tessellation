@@ -3,6 +3,12 @@
 This is a work in progress note for wik_wav's own benefit. Do not take it as an official part of the Asaxi Language. Any contents herein are subject to change!
 words to add for the conlang sentence list:
 
+## Cool sound clusters
+
+These are a selection of cool sounding syllables for which I have as of yet not ascribed any meaning. 
+
+tenchå
+
 - - - 
 ## Some words
 
@@ -20,6 +26,8 @@ words to add for the conlang sentence list:
 - artstyle - tăbikxe (etym. plus, line, shape)
 - to ponder with another - tăŕi - etym. tă (addition) + shortened form of ŕimå (thought)
 - later - temporal marker for "time immediately after (that which came before in context)" (used at the start of a sentence) — pozå, etym: pa (future) + o- locative + zå "then"
+- lately - temporal noun for "period of time which has recently passed", similar ågă (noun) - sometime, eventually - but it refers to a longer period of time in the recent past, meaning: "for a while now..."; 
+- åo (noun) - now, used when referring to "now" as a concept
 
 - - -
 

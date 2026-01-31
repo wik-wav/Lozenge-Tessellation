@@ -109,7 +109,7 @@ Appears at the end of the first clause to link it to the next .
     - **`vå`:** "When" .
     - **`zå`:** "Then", "Next" .
     - **`nivå`:** "While", "During" .
-    - **`månixåkam`:** "By the time that" .
+    - **`måniåkam`:** "By the time that" .
     - **`chě`:** "If" .
     - **`chěxa`:** "Even if", "Although" .
     - **`chěná`:** "Unless" .

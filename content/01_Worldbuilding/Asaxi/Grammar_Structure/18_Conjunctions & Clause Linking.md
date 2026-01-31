@@ -72,12 +72,12 @@ These particles locate the action in time relative to the moment of speech, the 
 
 Used to link two specific events in time.
 
-| Particle      | Meaning          | Logic    | Structure                                 |
-| ------------- | ---------------- | -------- | ----------------------------------------- |
-| **månixåkam** | By the time that | Limit    | `[Limit Clause] månixåkam, [Main Clause]` |
-| **vå**        | When             | Inside   | `[Event A] vå, [Event B]`                 |
-| **zå**        | Then / Next      | Sequence | `[Event A] zå, [Event B]`                 |
-| **nivå**      | While / During   | Duration | `[Event A] nivå, [Event B]`               |
+| Particle     | Meaning          | Logic    | Structure                                 |
+| ------------ | ---------------- | -------- | ----------------------------------------- |
+| **måniåkam** | By the time that | Limit    | `[Limit Clause] månixåkam, [Main Clause]` |
+| **vå**       | When             | Inside   | `[Event A] vå, [Event B]`                 |
+| **zå**       | Then / Next      | Sequence | `[Event A] zå, [Event B]`                 |
+| **nivå**     | While / During   | Duration | `[Event A] nivå, [Event B]`               |
 
 #### B. Temporal Aspect (The `-nå` Matrix)
 

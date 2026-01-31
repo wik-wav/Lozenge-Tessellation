@@ -85,7 +85,7 @@ Modifiers stack from the **outside in**. The outermost prefix has the widest sco
 
 **The Sentence:**
 
-> **Månixåkam xő pazènánixèshěsonů.** _"By the time, he **will not have started trying to read**."_
+> **Måniåkam xő pazènánixèshěsonů.** _"By the time, he **will not have started trying to read**."_
 
 ---
 

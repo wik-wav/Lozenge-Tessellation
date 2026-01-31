@@ -1,5 +1,5 @@
 ---
-title: månixåkam (particle) - by the time that...
+title: måniåkam (particle) - by the time that...
 Word (Asaxi): månixåkam
 trnsltion. En: by the time that...
 tags:
@@ -7,11 +7,11 @@ tags:
   - language
   - grammar
 ---
-# månixåkam ([[01_Function words in Asaxi (list)]])
+# måniåkam ([[01_Function words in Asaxi (list)]])
 
 - - -
 
-<span class="asaxi-script">månixåkam</span>
+<span class="asaxi-script">måniåkam</span>
 
 ### Grammatical function
 
@@ -29,7 +29,7 @@ Used to introduce a clause that sets a **definite deadline** or a specific termi
 
 ### Example sentence
 
-** Ko pazèshěsonů månixåkam, xő pazèxoxo.** _By the time (moment) she will have read, he will have departed._
+** Ko pazèshěsonů måniåkam, xő pazèxoxo.** _By the time (moment) she will have read, he will have departed._
 
 ### Alternative forms
 
@@ -37,7 +37,7 @@ Used to introduce a clause that sets a **definite deadline** or a specific termi
 
 ### Etymology
 
-A fusion of the compound particle **måni** (Until - from `måmåni`) + **-x-** (Epenthetic bridge) + **[[åkam (noun)]]** (Specific moment/Time-structure). _Lit: Until-the-moment._
+A fusion of the compound particle **måni** (Until - from `måmåni`) + **-x-** (Epenthetic bridge) + **[[åkamm (noun)|åkamm (noun) - moment]]** (Specific moment/Time-structure). _Lit: Until-the-moment._
 
 ### Synonyms
 

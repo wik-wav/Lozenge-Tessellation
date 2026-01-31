@@ -8,7 +8,7 @@ tags:
   - language
   - noun
 ---
-# åkam ([[01_Asaxi Nouns (List)]])
+# åkamm ([[01_Asaxi Nouns (List)]])
 
 - - -
 
@@ -34,7 +34,7 @@ IPA: /au̯kam̩/
 
 ### Example sentence
 
-**Månixåkam ko pazèshěsonů, xő pazèxoxo.** _By the time (moment) she will have read, he will have departed._
+**Åo sè anő xoxo åkamm.** _Now is the time of departure._
 
 ### Alternative forms
 
@@ -54,4 +54,4 @@ x
 
 ### Derived terms
 
-- **månixåkam** (Conjunction: By the time that...).
+- **måniåkam** (Conjunction: By the time that...).

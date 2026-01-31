@@ -44,4 +44,4 @@ IPA: /mau̯mau̯ɲi/
 ### Derived terms
 
 - **måni** (Contraction): Used primarily for temporal limits ("Until").
-- **månixåkam** (Conjunction): "By the time that..."])]
+- **måniåkam** (Conjunction): "By the time that..."

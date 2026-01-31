@@ -283,7 +283,7 @@ _These function as Case Markers._
 
 **Temporal Conjunctions**
 
-- **[[månixåkam (particle)]]** - By the time that...
+- **[[måniåkam (particle)]]** - By the time that...
 
 ### Subjective Epistemic Markers (To-Predicates)
 

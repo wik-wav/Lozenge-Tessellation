@@ -52,13 +52,17 @@ Navigation:
 | **TOP**      | Topic / Passive Patient                 | _dhè_        |
 | **REF**      | About / Concerning                      | _ăni_        |
 
-### Determiners
+### Determiners & Demonstratives
 
 |Code|Meaning|Asaxi|
 |---|---|---|
 |**DEF**|Definite Article|_onă, onýj_|
 |**INDEF**|Indefinite Article|_anő_|
 |**SPEC**|Specific Indefinite ("A certain")|_ponă, ponýj_|
+|**PROX**|Proximal Demonstrative (This/Here)|_o-_|
+|**MED**|Medial Demonstrative (That/There)|_no-_|
+|**DIST**|Distal Demonstrative (Yonder)|_ko-_|
+|**ABS**|Absent/Missing Demonstrative (That missing...)|_gă-_|
 
 ### Pronouns
 
@@ -107,6 +111,25 @@ Navigation:
 | **POT**    | Potential (Can)                  | _ken_                           |
 | **SUBJNC** | Subjunctive (Would/Hypothetical) | _xăxă_                          |
 | **COND**   | Conditional (If)                 | _chě_                           |
+
+### Relational Locative Prefixes (Spatial Roots)
+
+_These roots function as prefixes on nouns to define location, or as roots for Spatial Verbs._
+
+**Note on Homophony:** Several spatial roots share forms with Tense/Aspect prefixes (e.g., `pa-` is both _Front_ and _Future_; `na-` is both _On_ and _Iterative_; `hù-` is both _Behind_ and _Pluperfect_). Gloss based on context: if attached to a noun, it is likely Locative; if attached to a verb stack, it is Tense/Aspect.
+
+|Code|Meaning|Asaxi|
+|---|---|---|
+|**LOC.IN**|Inside / Enter|_va-_|
+|**LOC.OUT**|Outside / Exit|_pă-_|
+|**LOC.ON**|On / Cover|_na-_|
+|**LOC.BEHIND**|Behind|_hù-_|
+|**LOC.MID**|Middle|_ỏ-_|
+|**LOC.BESIDE**|Beside / Flank|_ba-_|
+|**LOC.FRONT**|Front|_pa-_|
+|**LOC.ABOVE**|Above / Hover|_xa-_|
+|**LOC.BELOW**|Below / Underlie|_pù-_|
+|**LOC.WAND**|Somewhere / Wander|_gă-_|
 
 ### Verbal Derivation (Bridges)
 

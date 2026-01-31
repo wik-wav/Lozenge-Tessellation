@@ -33,7 +33,7 @@ IPA: /kʰetʰaʃɑ/
 
 ### Example sentence
 
-Lem kxetxashá xiŕa sèwo, hwo izo shivëkxe ni ŕăijokxe zèchåtxanů.
+Lem.ma kxetxashá xiŕa sèwo, hwo izo shivëkxe ni ŕăijokxe zèchåtxanů.
 Because Lem is a shapeshifter, yesterday (he) completely changed from civet-form into lion-form.
 
 ### Alternative forms

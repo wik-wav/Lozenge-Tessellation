@@ -34,7 +34,7 @@ Used to express an action that _will be completed_ at a specific point in the fu
 - **Logic:** Future (`pa`) + Past (`zè`). "In the future, looking back at the past."
 - **Structure:** `pa` (Outer Frame) + `zè` (Inner Aspect) + `[Verb]`.
 
->  **Ko pazèshěsonů månixåkam, xő pazèxoxo.** 
+>  **Ko pazèshěsonů måniåkam, xő pazèxoxo.** 
 >  `she` `FUT-PAST-read``UNTIL-TIME` , `he` `FUT-PAST-depart` 
 >  _"By the time she will have read, he will have departed."_])]
 

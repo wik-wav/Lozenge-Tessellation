@@ -141,13 +141,13 @@ The construction follows the standard Noun Phrase order, with the locative prefi
 
 | Asaxi          | Gloss                     | Free Translation     | Meaning                                  |
 | -------------- | ------------------------- | -------------------- | ---------------------------------------- |
-| **onă shá**    | DEF.WARM person           | The person           | Specific person (neutral)                |
-| **onă o-shá**  | DEF.WARM PROX-person      | The here-person      | This person (right here)                 |
-| **onă no-shá** | DEF.WARM MED-person       | The near-person      | That person (there)                      |
-| **onă ko-shá** | DEF.WARM DIST-person      | The far-person       | That person (over yonder)                |
+| **onă shá**    | DEF.W person           | The person           | Specific person (neutral)                |
+| **onă o-shá**  | DEF.W PROX-person      | The here-person      | This person (right here)                 |
+| **onă no-shá** | DEF.W MED-person       | The near-person      | That person (there)                      |
+| **onă ko-shá** | DEF.W DIST-person      | The far-person       | That person (over yonder)                |
 | **anő gă-shá** | INDEF LOC.INDEF-person    | A somewhere-person   | A person somewhere                       |
-| **onă gă shá** | DEF.WARM LOC.INDEF-person | The somewhere-person | The missing person (The one who is lost) |
-| **anő shá**    | NDEF person               | A person             | Some person                              |
+| **onă gă shá** | DEF.W LOC.INDEF-person | The somewhere-person | The missing person (The one who is lost) |
+| **anő shá**    | INDEF person               | A person             | Some person                              |
 
 # Relational Locative Prefixes
 
@@ -167,7 +167,7 @@ Static spatial relationships can be converted into **Transitive Actions** using 
 | **pă** | **pănů** | To be outside / To exit.             |
 | **na** | **nanů** | To be on / To cover.                 |
 | **hù** | **hùnů** | To be behind.                        |
-| **ỏ** | **ỏnů** | To be in the middle.                 |
+| **ỏ**  | **ỏnů**  | To be in the middle.                 |
 | **ba** | **banů** | To be beside / To flank.             |
 | **pa** | **panů** | To be in front of.                   |
 | **xa** | **xanů** | To be above / To hover.              |

@@ -55,4 +55,4 @@ x
 
 ### Derived terms
 
-- **månixåkam** (Conjunction: Until the moment that... _Note: In this specific fusion, the meaning shifts slightly back towards specific time due to the context of a limit, but the root remains ågă_).
+- **måniåkam** (Conjunction: Until the moment that... _Note: In this specific fusion, the meaning shifts slightly back towards specific time due to the context of a limit, but the root remains ågă_).

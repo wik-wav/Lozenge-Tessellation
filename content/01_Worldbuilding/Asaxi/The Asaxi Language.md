@@ -13,7 +13,8 @@ aliases:
 This is the Asaxi Language Index page. Here you will find general information on the language as well as links to useful pages.
 
 Navigation
-- [[index|Back to Index - The Main Homepage]]
+- [[index|Back to Index - The Wiki Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/Asaxi)
 
 ## The Asaxi Wiki
 

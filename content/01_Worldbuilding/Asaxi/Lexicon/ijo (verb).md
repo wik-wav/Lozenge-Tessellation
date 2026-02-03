@@ -44,6 +44,10 @@ monotransitive verb
 
 IPA: /iꞲo/
 
+### Alternate forms
+
+- **xijo**: In pronunciation has /ɦ/ for emphasis. Common in song lyrics.
+
 ### Translations
 
 - **English:** see, watch

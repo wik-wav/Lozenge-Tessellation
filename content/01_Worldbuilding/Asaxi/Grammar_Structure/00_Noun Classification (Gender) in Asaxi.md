@@ -14,6 +14,7 @@ tags:
 ---
 Navigation:
 - [[00_Structural Sets in Asaxi| Back to Structural Sets in Asaxi]]
+-  Back to [wik_wav's site](https://wik-wav.neocities.org/Asaxi)
  
 - - - 
 

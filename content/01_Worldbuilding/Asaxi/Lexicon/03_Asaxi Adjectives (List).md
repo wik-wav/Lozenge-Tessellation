@@ -14,7 +14,8 @@ This is a list of all [[The Asaxi Language|Asaxi]] adjectives with the first mea
 
 Navigation:
 - [[The Asaxi Language|The Asaxi Language Index]]
-- [[index|Index - Homepage]]
+- [[index|Asaxi Wiki - Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/Asaxi)
 
 - - -
 

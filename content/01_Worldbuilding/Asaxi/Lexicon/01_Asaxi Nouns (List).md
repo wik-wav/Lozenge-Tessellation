@@ -16,6 +16,7 @@ This is a list of all [[The Asaxi Language|Asaxi]] nouns with the meaning in Eng
 Navigation:
 - [[The Asaxi Language|The Asaxi Language Index]]
 - [[index|Index - Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
 
 - - -
 

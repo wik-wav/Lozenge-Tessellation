@@ -10,7 +10,7 @@ This is a list of structural sets within the [[The Asaxi Language]] — elements
 Navigation:
 - [[The Asaxi Language|The Asaxi Language Index]]
 - [[index|Asaxi Wiki - Homepage]]
-- Back to [wik_wav's site](https://wik-wav.neocities.org/Asaxi)
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
 
 # Function words
 

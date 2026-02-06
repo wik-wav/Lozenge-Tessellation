@@ -14,7 +14,7 @@ This is the Asaxi Language Index page. Here you will find general information on
 
 Navigation
 - [[index|Back to Index - The Wiki Homepage]]
-- Back to [wik_wav's site](https://wik-wav.neocities.org/Asaxi)
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
 
 ## The Asaxi Wiki
 

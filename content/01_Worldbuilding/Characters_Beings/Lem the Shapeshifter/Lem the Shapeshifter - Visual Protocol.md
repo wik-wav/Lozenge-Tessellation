@@ -63,3 +63,7 @@ Lem’s wardrobe is dictated by a hyper-acute sensory profile rather than aesthe
 	    * Oversized silhouettes composed of heavyweight, fluid synthetics.
 	    * Must possess sufficient mass to succumb to gravity immediately, preventing "fluttering" or light-touch sensations.
 	    * Objective: To replicate the sensation of a weighted covering.
+
+Lem persistently wears the following items:
+1. A headband alternating two colours in a triangle pattern.
+2. A bowtie on his tail.

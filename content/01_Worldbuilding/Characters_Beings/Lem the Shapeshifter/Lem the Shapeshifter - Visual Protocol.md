@@ -45,8 +45,11 @@ Lem's fur patterns change; in each form they appear in different arrangements. H
 
 Lem’s wardrobe is dictated by a hyper-acute sensory profile rather than aesthetic tradition. Adherence to these material parameters is critical for the subject's stability. In the absence of environmental necessity, the subject defaults to a state of total nudity to eliminate tactile interference.
 
-1. Material Exclusion Criteria (Prohibited)
-	* **Metallics:** Total exclusion of ferrous and non-ferrous alloys. The subject exhibits an extreme aversion to both the olfactory signature and thermal conductivity of metal. Zippers, buttons, eyelets, and aglets must be composed exclusively of plastic, rubber, or silicone.
+1. Material Exclusion Criteria
+	* **Metallics (Restricted Exception):** Direct contact between the subject's fur or epidermis and any ferrous or non-ferrous alloy is strictly prohibited due to adverse thermal conductivity. External metallic hardware (e.g., belt buckles, spiked collars, decorative clasps) is permissible solely under the following conditions:
+		- **Tactile Isolation:** An approved synthetic polymer substrate must provide a continuous, impenetrable barrier between the metallic element and the subject.
+		- **Olfactory Neutralization:** Due to the subject's extreme aversion to the olfactory signature of metal, all permitted metallic components must be hermetically sealed, clear-coated, or otherwise treated to prevent the emission of metallic odors.
+		- _Default Directive:_ If these isolation parameters cannot be guaranteed, all zippers, buttons, eyelets, and aglets must be composed exclusively of plastic, rubber, or silicone.
 	* **Rigid Cellulose:** Denial of denim, canvas, or starched linens. These textures are registered as abrasive.
 	* **Variable Friction ("Tickly" Textures):** High-loft fibers with low density (e.g., mohair, sherpa, raw wool) are prohibited. The subject rejects "wispy" tactile feedback.
 2. Approved Textile Composition

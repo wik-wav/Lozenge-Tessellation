@@ -13,4 +13,5 @@ tags:
 
 <span class="asaxi-script">Word (Asaxi)</span>
 
+<span class="asaxi-script-alpha">Word (Asaxi)</span>
 "x number" stands for the number x.

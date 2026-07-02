@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nigja</span>
 
+<span class="asaxi-script-alpha">nigja</span>
 ### Grammatical function
 
 - **Type:** Reflexive Pronoun

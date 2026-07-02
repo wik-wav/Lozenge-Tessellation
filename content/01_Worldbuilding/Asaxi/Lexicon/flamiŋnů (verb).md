@@ -6,7 +6,7 @@ trnsltion. Pl: pozować
 tags:
   - Asaxi
   - language
-  - noun
+  - verb
 ---
 # flamiŋnů ([[02_Asaxi Verbs_ů (List)]])
 
@@ -14,49 +14,46 @@ tags:
 
 <span class="asaxi-script">flamiŋnů</span>
 
-### Transitivity / Valency
-
-**Intransitive**
-
-### Lexical Aspect
-
-**Activity / State:** Maintaining a posture.
-
-### Grammatical Note
-
-Derived from **[[flaminŋshá (noun)|flaminŋ]]** (Flamingo) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
-* *Logic:* "To do the flamingo." (Referencing the bird's famous habit of standing perfectly still on one leg).
-
-### Semantic Field
-
-[[Smntc_Field Behaviour]] / Posture
-
+<span class="asaxi-script-alpha">flamiŋnů</span>
 ### Pronunciation
-
 IPA: /fla.miŋ.nuu̯/
 
-### Translations
+### Semantic Field
+[[Smntc_Field Behaviour]] / Posture
 
+### Translations
 - English: to pose, to strike a pose, to hold a posture, to stand still for display
 - Polish: pozować, przybierać pozę
 
 ### Example sentence
-
 **To sháma flamiŋnů.**
 _The people are posing._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 "To perform as a flamingo."
 
 ### Synonyms
-
 - **[Stand]** (TBD).
 
 ### Antonyms
-
 - x
 
-### Derived terms
-
+### Root Noun
 Null
+
+### Derived terms
+- **flamiŋnůshá** (agent noun) *(potential)*
+
+### Transitivity / Valency
+**Intransitive**
+
+### Lexical Aspect
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
+
+### Grammatical Note
+Derived from **[[flaminŋshá (noun)|flaminŋ]]** (Flamingo) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+* *Logic:* "To do the flamingo." (Referencing the bird's famous habit of standing perfectly still on one leg).

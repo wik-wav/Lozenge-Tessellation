@@ -14,28 +14,45 @@ tags:
 
 <span class="asaxi-script">hjihjină</span>
 
-### Grammatical function
-- **Type:** Qualitative Adjective (`-nă`)
-- **Source Agreement:** **Warm**
+<span class="asaxi-script-alpha">hjihjină</span>
+## Warm/Cold
+
+class:
+- warm
+animate?
+- 
+other class equivalent:
+-
 
 ### Pronunciation
-
 IPA: /çjiçjinaɪ/
 
 ### Semantic Field
-
 [[Smntc_Field The Body]] / Aesthetics
 
 ### Translations
-
 - English: thin and cute, petite, kawaii, slender
 - Polish: drobny, filigranowy
 
 ### Example sentence
-
 **To ko hjihjină shá xiŕa.**
 _She is a petite/cute person._
 
-### Antonyms
+### Alternative Forms
+Null
 
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Root Noun
+- [[hjihji (noun)|hjihji]]
+
+### Antonyms
 - **[[båbånă (adjective)|båbånă]]** (Muscular / Hunky / Rugged).
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nă`)
+- **Source Agreement:** **Warm**

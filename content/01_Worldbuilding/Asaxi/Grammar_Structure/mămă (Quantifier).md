@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">mămă</span>
 
+<span class="asaxi-script-alpha">mămă</span>
 ### Pronunciation
 
 **IPA:** /maɪmaɪ/

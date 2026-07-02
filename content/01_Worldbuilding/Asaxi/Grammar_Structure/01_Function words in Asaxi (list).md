@@ -68,7 +68,7 @@ Navigation:
 
 ### Potential Mood Particles (Sentence Final)
 
-- **[[ken (Particle)]]** - can / able to
+- **[[ken (particle)]]** - can / able to
 - **[[ken.ná (particle)]]** - cannot / unable to
 
 ### Subjunctive & Desiderative Particles (Sentence Final)
@@ -204,9 +204,9 @@ _These appear **before** the verb or noun they modify._
 - **[[chěná (UNLESS Conditional Compound)|chěná]]** - unless / except if
 - **[[ximă (Particle)]]** - daily / every day
 - **[[åmă (Particle)]]** - every time
-- **[[ămă (Particle)]]** - the right time
+- **[[ămă (noun)]]** - the right time
 - **[[ămăni (Particle)]]** - at your leisure / whenever you like
-- **[[gămă (Particle)]]** - whenever / at any time
+- **[[gămă (particle)]]** - whenever / at any time
 - **[[izånixå (Particle)]]** - from time to time / occasionally
 - **[[găxăni (Particle)]]** - forever / for an eternity
 
@@ -296,10 +296,10 @@ _These function as Case Markers._
 ### [[07_Describing Location in Asaxi|Proximal Locative Prefixes]]
 
 - Proximal: **[[o (Proximal Locative Prefix)|o]]**- (here)
-- Medial: **[[no (Proximal Locative Prefix)|no]]**- (there)
-- Distal: **[[ko (Proximal Locative Prefix)|ko]]**- (yonder)
-- Locative: **[[gă (Proximal Locative Prefix)|gă]]**- ("Somewhere/Missing")
-- Attainable: **[[ono  (Proximal Locative Prefix)|ono]]**- A specific place ("not here but accessible")
+- Medial: **[[no (Medial Locative Prefix)|no]]**- (there)
+- Distal: **[[ko (Distal Locative Prefix)|ko]]**- (yonder)
+- Locative: **[[gă (Indefinite Locative Prefix)|gă]]**- ("Somewhere/Missing")
+- Attainable: **[[ono (Attainable Locative Prefix)|ono]]**- A specific place ("not here but accessible")
 
 ### List of Relational Locative Prefixes
 
@@ -382,3 +382,8 @@ _Markers for counting, frequency, and mathematical operations._
 
 - **[[śchi (Unit Noun)|śchi]]** - centimeter
 - **[[ŋo (Unit Noun)|ŋo]]** - kilogram
+
+## Additive & Quantity
+
+- **[[xa (Additive Particle)]]** - also, too, even (post-positioned)
+- **[[kăgo (Interrogative Quantifier)]]** - how much?, how many?

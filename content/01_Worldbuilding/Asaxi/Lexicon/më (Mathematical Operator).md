@@ -13,11 +13,13 @@ tags:
 
 <span class="asaxi-script">më</span>
 
+<span class="asaxi-script-alpha">më</span>
 ### Grammatical function
-
 - **Type:** Mathematical Operator
 - **Meaning:** Minus, subtract.
 
 ### Pronunciation
-
 IPA: /meɪ/
+
+### Derived terms
+- [[mëka (verb)|mëka]] - to separate, to part ways, to divorce, to split up

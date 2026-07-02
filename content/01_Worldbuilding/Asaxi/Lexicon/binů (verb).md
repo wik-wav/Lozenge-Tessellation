@@ -15,32 +15,45 @@ tags:
 
 <span class="asaxi-script">binů</span>
 
+<span class="asaxi-script-alpha">binů</span>
 ### Transitivity / Valency
-
 **Transitive**
 
-### Grammatical Note
-
-Derived from **[[bi (noun)|bi]]** (Line) + **-n-** + **-ů**.
-
-### Pronunciation
-
-IPA: /binuu̯/
+### Lexical Aspect
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Shapes & Dimensions]] / Organization
 
-### Translations
+### Pronunciation
+IPA: /binuu̯/
 
+### Translations
 - English: to align, to straighten, to queue, to line up
 - Polish: wyrównać, ustawić w linii
 
 ### Example sentence
-
 **To wo shěsa binů.**
 _I align the books._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 "To use/make a line."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Root Noun
+- [[bi (noun)|bi]]
+
+### Derived terms
+Null
+
+### Grammatical Note
+Derived from **[[bi (noun)|bi]]** (Line) + **-n-** + **-ů**.

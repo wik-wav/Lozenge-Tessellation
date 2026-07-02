@@ -17,6 +17,8 @@ Asaxi possesses a "closed class" of **Root Verbs** (primitive words like `xoxo`,
 
 This system converts Nouns into Verbs using the suffix **-ů**. It transforms a static "thing" into the dynamic act of "performing," "using," or "being like" that thing.
 
+**`-ů` also durativizes a root verb.** Attached to a punctual root, it yields that event's ongoing process — **ijo** (spot) → **ijonů** (to watch). Whatever ends in `-ů` is a durative Activity, whether built from a noun or a root (see [[16_Verbs_Aspectual Distinction (Root vs. Ů)]]).
+
 ---
 
 ## 1. Modes of Verbalization (The `-ů` System)

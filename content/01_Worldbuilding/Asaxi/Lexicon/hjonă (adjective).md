@@ -14,38 +14,49 @@ tags:
 
 <span class="asaxi-script">hjonă</span>
 
-### Grammatical function
+<span class="asaxi-script-alpha">hjonă</span>
+## Warm/Cold
 
-- **Type:** Qualitative Adjective (`-nă`)
-- **Source Agreement:** **Warm** (Root `hjo` is Warm).
+class:
+- warm
+animate?
+- 
+other class equivalent:
+-
 
 ### Pronunciation
-
 IPA: /çonaɪ/
 
 ### Semantic Field
-
 [[Smntc_Field Perception]] / Value
 
 ### Translations
-
 - English: bright, shiny, eye-catching, interesting, noteworthy
 - Polish: jasny, lśniący, interesujący, ciekawe
 
-### Usage Note
-
-Combines physical brightness with the concept of "drawing attention" or being "of interest."
-
 ### Example sentence
-
 **Toonă o-shěso hjonă xiŕa.**
 _This book is interesting._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[hjo (noun)|hjo]]** (Star) + **-nă**.
 *Lit:* "Star-like."
 
-### Antonyms
+### Synonyms
+Null
 
+### Root Noun
+- [[hjo (noun)|hjo]]
+
+### Antonyms
 - **[Dull/Boring]** (TBD).
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nă`)
+- **Source Agreement:** **Warm** (Root `hjo` is Warm).
+
+### Usage Note
+Combines physical brightness with the concept of "drawing attention" or being "of interest."

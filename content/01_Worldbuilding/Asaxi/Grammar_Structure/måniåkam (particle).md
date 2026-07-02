@@ -1,6 +1,6 @@
 ---
 title: måniåkam (particle) - by the time that...
-Word (Asaxi): månixåkam
+Word (Asaxi): måniåkam
 trnsltion. En: by the time that...
 tags:
   - Asaxi
@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">måniåkam</span>
 
+<span class="asaxi-script-alpha">måniåkam</span>
 ### Grammatical function
 
 - **Part of Speech:** **Temporal Conjunction** / Adverbial
@@ -49,4 +50,5 @@ A fusion of the compound particle **måni** (Until - from `måmåni`) + **-x-** 
 
 ### Derived terms
 
-Null
+- [[måmå (Relational Particle)|måmå]] - until (base)
+- [[måmåni (Relational Particle Compound)|måmåni]] - (kin compound)

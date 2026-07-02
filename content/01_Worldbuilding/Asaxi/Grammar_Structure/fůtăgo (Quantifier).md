@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">fůtăgo</span>
 
+<span class="asaxi-script-alpha">fůtăgo</span>
 ### Noun class (warm / cold)
 
 **Cold**
@@ -55,4 +56,4 @@ _Some books are on the table._
 
 ### Derived terms
 
-Null
+- **-go** quantifier family: [[dăgo (Quantifier)|dăgo]] (many), [[hjigo (Quantifier)|hjigo]] (few)

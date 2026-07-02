@@ -14,48 +14,45 @@ tags:
 
 <span class="asaxi-script">pavwo</span>
 
+<span class="asaxi-script-alpha">pavwo</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
-### Grammatical function
-
-- **Type:** Temporal Noun
-- **Meaning:** The day after today, tomorrow, the next day.
-
 ### Pronunciation
-
 IPA: /pavʷo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]]
 
 ### Translations
-
 - English: tomorrow, the next day
 - Polish: jutro, następny dzień
 
-### Usage Note
-
-Functions as a synonym for **[[pwo (noun)|pwo]]**, but emphasizes the sequence relative to "Today" (`vwo`), whereas `pwo` relates to the abstract "Future" (`pa`).
-* **pwo:** Tomorrow (The future-day).
-* **pavwo:** The day after today (Relative sequence).
-
 ### Example sentence
-
 **Pavwo, to wo pashěsonů.**
 _Tomorrow (the day after today), I will read._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[pa- (Relational Locative Prefix)|pa]]** (Front) + **[[vwo (noun)|vwo]]** (Today).
 *Lit:* "Front-Today."
 
 ### Synonyms
-
 - **[[pwo (noun)|pwo]]** (Tomorrow).
 
 ### Antonyms
-
 - **[[hwo (noun)|hwo]]** (Yesterday).
+
+### Derived terms
+Null
+
+### Grammatical function
+- **Type:** Temporal Noun
+- **Meaning:** The day after today, tomorrow, the next day.
+
+### Usage Note
+Functions as a synonym for **[[pwo (noun)|pwo]]**, but emphasizes the sequence relative to "Today" (`vwo`), whereas `pwo` relates to the abstract "Future" (`pa`).
+* **pwo:** Tomorrow (The future-day).
+* **pavwo:** The day after today (Relative sequence).

@@ -1,40 +1,27 @@
----
-title: 0_Smntc_Field Animals
-tags:
-  - semantic_field
-  - language
-  - Asaxi
----
-# Animals Semantic Field
 
-This is a page with a list of all Asaxi words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **animals**.
+- [[pomo (noun)]] - dove, pigeon
 
-Navigation:
-- [[The Asaxi Language|The Asaxi Language Index]]
-- [[index|Index - Homepage]]
-
-- - -
-
-- [[dăshá (noun)]] - elephant
-- [[pxỏpxỏshá (noun)]] - living inflatable
-- [[shásshá (noun)]] - hostage, captive, property (person)
-- [[fkamshá (noun)]] - domesticated animal, pet, dependent creature
-- [[ispăshá (noun)]] - wild animal
-- [[mmråhjá (noun)]] - kitten
-- [[hjá (noun) - as in child]] - child, young one, offspring, baby, kid
-- [[mmråshá (noun)]] - cat, feline
-- [[hjishá (noun)]] - damselfly
-- [[dănă (adjective)]] - big, huge
-- [[gadă (noun)]] - immensity
-- [[gajýnnshá (noun)]] - were-hyena
-- [[jýnnshá (noun)]] - hyena
-- [[sivëshá (noun)]] - civet
-- [[ŕimshá (noun)]] - lemur
-- [[flaminŋshá (noun)]] - flamingo
-- [[ŕănabishá (noun)]] - gazelle
-- [[ŕăijoshá (noun)]] - lion
-- [[gabåbåshá (noun)]] - muscular being, bodybuilder, hulk, muscle-beast, hunk
-- [[gabwoshá (noun)]] - fat being, obese person, fatty (creature), fattened animal
-- [[gabåbwoshá (noun)]] - strongman, powerlifter, brute, bear (physique)
-- [[ýhýshá (noun)]] - mouse, rodent, prey animal
-- [[ŕèzishá (noun)]] - lizard, reptile, skink
+- [[mùù (noun)]] - cow
+- [[mùko (noun)]] - bull, ox
+- [[mèmè (noun)]] - goat
+- [[bèbè (noun)]] - sheep
+- [[kùkù (noun)]] - chicken, hen
+- [[gaga (noun)]] - duck
+- [[vishá (noun)]] - deer (grass-creature)
+- [[mjeje (noun)]] - bear (Ru. *medved*)
+- [[hùhù (noun)]] - wolf
+- [[fùfo (noun)]] - fox
+- [[pỏpỏ (noun)]] - rabbit, hare
+- [[kiki (noun)]] - monkey, ape
+- [[vjèbŕù (noun)]] - camel (Ru. *verblyud*)
+- [[kŕoshá (noun)]] - crocodile (jaw-creature)
+- [[poposhá (noun)]] - turtle (shell-creature)
+- [[xajaŕă (noun)]] - eagle (high-bird)
+- [[ùhù (noun)]] - owl
+- [[kika (noun)]] - crow
+- [[kùsokùki (noun)]] - fly (lit. faeces-insect)
+- [[kùgù (noun)]] - ant
+- [[zizi (noun)]] - mosquito
+- [[ŋoŋo (noun)]] - snail
+- [[dăŕoshá (noun)]] - whale (great-water-creature)
+- [[maoshá (noun)]] - bat (night-creature)

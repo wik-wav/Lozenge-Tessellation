@@ -14,37 +14,37 @@ tags:
 
 <span class="asaxi-script">gámŕo</span>
 
+<span class="asaxi-script-alpha">gámŕo</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
 ### Pronunciation
-
 IPA: /ɡɑmɾo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Materials]] / Arts
 
 ### Translations
-
 - English: acrylic paint, paint (viscous), liquid gum
 - Polish: farba akrylowa, farba
 
 ### Example sentence
-
 **To wo pigùmenn zá ŕoŕo naŕonů.** _"I **am mixing** (multiplying) the pigment with water."_ (Physical process).
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[gámm (noun)|gámm]]** (Gum) + **[[ŕoŕo (noun)|ŕo(ŕo)]]** (Water).
 *Lit:* "Gum-Water." (Referring to the suspension of pigment in a polymer emulsion).
 *Morphology:* `gámm` + `ŕo` $\rightarrow$ **gámŕo** (Reduction of `mm` before consonant).
 
 ### Synonyms
-
 - **iŕo** (Colour/Light - Abstract).
 
-### Derived terms
+### Antonyms
+Null
 
+### Derived terms
+- [[gámŕonů (verb)|gámŕonů]] (to paint)
 - **gámŕonů** (To paint / To apply paint).

@@ -67,7 +67,7 @@ Without the locative prefixes (`va-` or `ni-`), these words function as standard
 
 **Standard Past:**
 
-> **Vazè, yomåsháwa zèvivinů.** _"In the past, humans lived."_
+> **Vazè, jomåsháwa zèvivinů.** _"In the past, humans lived."_
 
 **Immediate Past (Fusion):**
 

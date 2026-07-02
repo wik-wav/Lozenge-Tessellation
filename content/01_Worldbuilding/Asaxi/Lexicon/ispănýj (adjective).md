@@ -14,37 +14,48 @@ tags:
 
 <span class="asaxi-script">ispănýj</span>
 
-### Grammatical function
+<span class="asaxi-script-alpha">ispănýj</span>
+## Warm/Cold
 
-- **Type:** Qualitative Adjective (`-nýj`)
-- **Source Agreement:** **Cold** (Root `ispă` is Cold).
+class:
+- cold
+animate?
+- 
+other class equivalent:
+-
 
 ### Pronunciation
-
 IPA: /ispanɪj/
 
 ### Semantic Field
-
 [[Smntc_Field Emotion]] / Personality
 
 ### Translations
-
 - English: wild, untamed, intense, raw, feral (positive)
 - Polish: dziki, nieokiełznany
 
-### Usage Note
-
-More intense than **[[frěnă (adjective)|frěnă]]** (Free). While `frënă` implies liberty, **ispănýj** implies a raw, unrefined, or powerful nature. It is a positive trait in the Lozenge Tessellation.
-
 ### Example sentence
-
 **To ko ispănýj shá xiŕa.**
 _She is a wild (intense/untamed) person._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[ispă (noun)|ispă]]** (Wilderness) + **-nýj**.
 
-### Antonyms
+### Synonyms
+Null
 
+### Root Noun
+- [[ispă (noun)|ispă]]
+
+### Antonyms
 - **[[fkamnýj (adjective)]]** - domesticated, dependent, reliant, not self-sufficient, tame
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nýj`)
+- **Source Agreement:** **Cold** (Root `ispă` is Cold).
+
+### Usage Note
+More intense than **[[frënă (adjective)|frënă]]** (Free). While `frënă` implies liberty, **ispănýj** implies a raw, unrefined, or powerful nature. It is a positive trait in the Lozenge Tessellation.

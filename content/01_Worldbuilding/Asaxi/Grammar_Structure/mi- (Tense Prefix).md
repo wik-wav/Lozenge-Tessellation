@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">mi-</span>
 
+<span class="asaxi-script-alpha">mi-</span>
 ### Grammatical function
 
 - **Type:** Tense Prefix
@@ -51,4 +52,4 @@ Sound symbolism for internal/soft state (Nasals). Parallel to **[[sỏ (Tense Pr
 
 ### Derived terms
 
-Null
+- [[sỏ (Tense Prefix)|sỏ-]] - subjective/memoric past (its past counterpart)

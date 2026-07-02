@@ -14,31 +14,38 @@ tags:
 
 <span class="asaxi-script">tètáko</span>
 
+<span class="asaxi-script-alpha">tètáko</span>
 ### Noun class (warm / cold)
-
 **Warm** (Event)
 
 ### Pronunciation
-
 IPA: /t̪ət̪ɑko/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Behaviour]] / Conflict
 
 ### Translations
-
 - English: a fight, a battle, a brawl
 - Polish: walka
 
-### Plural Form
-
-**tètáka** (Fights).
-
 ### Example sentence
+**Sháma tètáko táka.**
+_The people wage a fight._
 
-**To tètáko dănă xiŕa.** _The fight is huge._
+### Alternative Forms
+Null
 
 ### Etymology
-
 Derived from **[[tètá (noun)|tètá]]** (Pain). _Lit:_ "Pain-event."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null
+
+### Plural Form
+**tètáka** (Fights).

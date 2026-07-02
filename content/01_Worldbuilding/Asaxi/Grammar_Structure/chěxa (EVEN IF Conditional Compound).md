@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">chěxa</span>
 
+<span class="asaxi-script-alpha">chěxa</span>
 ### Grammatical function
 
 - **Type:** Conditional Compound
@@ -33,7 +34,7 @@ Placed at the **end** of the concessive clause.
 
 ### Pronunciation
 
-IPA: /tʃɚha/
+IPA: /tʃɚɦa/
 
 ### Example sentence
 

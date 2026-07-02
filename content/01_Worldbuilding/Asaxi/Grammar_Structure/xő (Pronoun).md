@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">xő</span>
 
+<span class="asaxi-script-alpha">xő</span>
 ### Grammatical function
 
 The pronoun `xő` (he) is a **third-person singular masculine nominative** pronoun.

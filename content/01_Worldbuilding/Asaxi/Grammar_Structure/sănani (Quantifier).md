@@ -13,6 +13,7 @@ title: sănani (Quantifier) - "Some", "Several", "A few (positive)", "More than 
 
 <span class="asaxi-script">sănani</span>
 
+<span class="asaxi-script-alpha">sănani</span>
 ### Noun class (warm / cold)
 
 **Cold**
@@ -47,4 +48,5 @@ _Several (some) people arrive._
 - **[[fůtăgo (Quantifier)]]** (Some / Unknown positive amount).
 
 ### Derived terms
-Null
+
+- **să**-family: [[săni (Quantifier)|săni]] (most), [[săsă (Quantifier)|săsă]] (all of)

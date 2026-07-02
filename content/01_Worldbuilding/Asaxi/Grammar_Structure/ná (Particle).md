@@ -1,6 +1,6 @@
 ---
 title: ná (Particle) - no, not
-Word (Asaxi): ná (Particle)
+Word (Asaxi): ná
 trnsltion. En: no, not
 tags:
   - Asaxi
@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">ná</span>
 
+<span class="asaxi-script-alpha">ná</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle]] (Polarity)

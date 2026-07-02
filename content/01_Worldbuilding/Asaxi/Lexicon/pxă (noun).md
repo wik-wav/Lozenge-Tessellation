@@ -14,50 +14,40 @@ tags:
 
 <span class="asaxi-script">pxă</span>
 
+<span class="asaxi-script-alpha">pxă</span>
 ### Noun class (warm / cold)
-
 Cold (Time unit)
 
 ### Pronunciation
-
 IPA: /pʰaɪ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]] / [[Smntc_Field Numerals]]
 
 ### Translations
-
 - English: month
 - Polish: miesiąc
 
 ### Plural Form
-
 **pxăa** (months).
 
 ### Example sentence
-
 To wo pxăa hùwo zèxoxo.
 I departed months ago.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 **p(a)** (Front/Future?) or **p(ù)** (Part/Fraction) + **xă** (Cycle/True).
 Logic: A "Partial Cycle" of the year.
 *Phonotactics:* **p** + **x** → **/pʰ/** (Aspirated P).
 
 ### Synonyms
-
 - **[[mao (noun)|mao]]** (Moon - poetic usage for month).
 
 ### Antonyms
-
-Null
+- **fůpxă** (absence of month) *(potential)*
 
 ### Derived terms
-
 - **pxămă** (Monthly).

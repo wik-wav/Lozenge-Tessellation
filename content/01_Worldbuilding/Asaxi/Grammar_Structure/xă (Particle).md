@@ -1,6 +1,6 @@
 ---
 title: xă (Particle) - yes, affirmative, yea
-Word (Asaxi): xă (Particle)
+Word (Asaxi): xă
 trnsltion. En: yes, affirmative, yea
 tags:
   - Asaxi
@@ -16,6 +16,7 @@ aliases:
 
 <span class="asaxi-script">xă</span>
 
+<span class="asaxi-script-alpha">xă</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle]] (Polarity / Emphasis)

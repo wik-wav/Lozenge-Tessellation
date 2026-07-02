@@ -14,44 +14,35 @@ tags:
 
 <span class="asaxi-script">jágo</span>
 
+<span class="asaxi-script-alpha">jágo</span>
 ### Noun class (warm / cold)
-
 warm
 - reasoning: blueberries are from living organisms (like blueberry bushes)
 
 ### Pronunciation
-
 IPA: /Ʝɑɡo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Environment]]
 
 ### Translations
-
 - English: blueberry
 - Polish: jagoda
 
 ### Example sentence
-
 Jágo kjèro izoŕa.
 Berries grow in the forest. (Berries are from the woods)
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 From polish "jagoda"
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůjágo** (absence of blueberry) *(potential)*
 
 ### Derived terms
-
-Null
+- **jágonă / jágonýj** (adjectival forms) *(potential)*

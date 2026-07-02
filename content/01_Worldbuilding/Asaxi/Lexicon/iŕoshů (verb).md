@@ -15,36 +15,45 @@ tags:
 
 <span class="asaxi-script">iŕoshů</span>
 
+<span class="asaxi-script-alpha">iŕoshů</span>
 ### Transitivity / Valency
-
 **Transitive** or **Intransitive**
 
 ### Lexical Aspect
-
-**Process:** Fading or dimming.
-
-### Grammatical Note
-
-Derived from **[[iŕo (noun)|iŕo]]** (Colour) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative Mode) + **-ů**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Colours]] / Physics
 
 ### Pronunciation
-
 IPA: /iɾoʃuu̯/
 
 ### Translations
-
 - English: to desaturate, to dim down, to fade (light), to lose vibrance
 - Polish: odbarwiać się (światło), przygasać, tracić nasycenie
 
 ### Example sentence
-
 **To pjo iŕoshů.**
 _The light is dimming (losing its color intensity)._
 
-### Antonyms
+### Alternative Forms
+Null
 
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Antonyms
 - **iŕoŕů** (To generate colour / shine).
+
+### Root Noun
+Null
+
+### Derived terms
+Null
+
+### Grammatical Note
+Derived from **[[iŕo (noun)|iŕo]]** (Colour) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative Mode) + **-ů**.

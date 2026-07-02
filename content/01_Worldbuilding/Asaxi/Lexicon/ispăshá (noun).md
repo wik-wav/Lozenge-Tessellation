@@ -14,28 +14,35 @@ title: ispăshá (noun) - wild animal
 
 <span class="asaxi-script">ispăshá</span>
 
+<span class="asaxi-script-alpha">ispăshá</span>
 ### Noun class (warm / cold)
-
 **Warm**
 
 ### Pronunciation
-
 IPA: /ispaɪʃɑ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Animals]]
 
 ### Translations
-
 - English: wild animal
 - Polish: dzikie zwierzę
 
 ### Example sentence
-
 **To ispăshá frënů.**
 _The wild animal acts freely._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[ispă (noun)|ispă]]** (Wilderness) + **[[shá (noun)|shá]]** (Creature).
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null

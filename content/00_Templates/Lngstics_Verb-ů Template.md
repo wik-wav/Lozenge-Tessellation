@@ -15,6 +15,7 @@ tags:
 
 <span class="asaxi-script">Word (Asaxi)</span>
 
+<span class="asaxi-script-alpha">Word (Asaxi)</span>
 ### Transitivity / Valency
 
 _intransitive verb_ 
@@ -26,6 +27,11 @@ takes two, e.g. _He(1) kicked the ball(2)._
 _ditransitive verb_ 
 takes three, e.g. _He(1) gave her(2) a flower(3)._
 
+
+### Lexical Aspect
+
+- **Durative (Activity)** — `-ů` verbs unfold over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
 
@@ -44,8 +50,7 @@ IPA: //
 
 x
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology

@@ -1,12 +1,12 @@
 ---
-Word (Asaxi): -w-
+Word (Asaxi): -x-
 trnsltion. En: To do X to (someone)
 tags:
   - Asaxi
   - language
   - grammar
 aliases:
-  - -w-
+  - -x-
 ---
 # -x- ([[06_Verbs in Asaxi]])
 

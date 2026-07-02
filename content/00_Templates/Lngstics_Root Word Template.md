@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">Word (Asaxi)</span>
 
+<span class="asaxi-script-alpha">Word (Asaxi)</span>
 ### Grammatical function
 
 Adds the "x" meaning to nouns it appears in

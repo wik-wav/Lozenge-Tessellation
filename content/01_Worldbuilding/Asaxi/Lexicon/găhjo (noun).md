@@ -7,58 +7,53 @@ tags:
   - Asaxi
   - language
   - noun
+  - ga-noun
 ---
-# găhjo ([[01_Asaxi Nouns (List)]])
+# găhjo ([[00_Ga-noun Compounds in Asaxi (list)]])
 
 - - -
 
 <span class="asaxi-script">găhjo</span>
 
+<span class="asaxi-script-alpha">găhjo</span>
 ### Noun class (warm / cold)
-
 **Warm** (Condition) or **Cold** (Structure)
 - **Class:** **Cold** (Bone is Cold).
     - *Note:* However, when applied to a person (`găhjoshá`), the compound becomes **Warm**.
 
 ### Pronunciation
-
 IPA: /ɡaɪço/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]] / Health
 
 ### Translations
-
 - English: emaciation, boniness, gauntness, skin and bones
 - Polish: wychudzenie, kościstość
 
-### Usage Note
-
-Stronger than **[[hjihji (noun)|hjihji]]** (Thinness).
-* **hjihji:** Slender, slight, frail.
-* **găhjo:** Skeletal, starved, unhealthy.
-
 ### Example sentence
+**Găhjo chỏ băŕa.**
+_Emaciation is caused by hunger._
 
-**To wo găhjo ijo.**
-_I see emaciation (bones showing)._
+### Alternative Forms
+Null
 
 ### Etymology
-
 **[[ga (Fusing Particle)|ga]]** (Type) + **[[ihjo (noun)|ihjo]]** (Bone).
-*Fusion:* `ga` + `i` $\rightarrow$ **gă**.
+*Fusion:* `ga` + `i` $\rightarrow$ **[[gă (noun)|gă]]**.
 *Lit:* "Bone-type."
 
 ### Synonyms
-
 - **hjihji** (Thinness - milder).
 
 ### Antonyms
-
 - **[[gabwo (noun)|gabwo]]** (Obesity / Fatness).
 
 ### Derived terms
-
 - **găhjoshá** (Emaciated person).
 - **găhjonă** (Bony / Emaciated - Adjective).
+
+### Usage Note
+Stronger than **[[hjihji (noun)|hjihji]]** (Thinness).
+* **hjihji:** Slender, slight, frail.
+* **găhjo:** Skeletal, starved, unhealthy.

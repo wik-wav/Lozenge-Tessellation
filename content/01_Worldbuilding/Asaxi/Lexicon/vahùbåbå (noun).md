@@ -14,24 +14,35 @@ tags:
 
 <span class="asaxi-script">vahùbåbå</span>
 
+<span class="asaxi-script-alpha">vahùbåbå</span>
 ### Noun class (warm / cold)
-
 **Warm**
 
 ### Pronunciation
-
 IPA: /vaxɯbau̯bau̯/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: rhomboids, deep back muscles
 - Polish: mięśnie równoległoboczne
 
-### Etymology
+### Example sentence
+Null
 
+### Alternative Forms
+Null
+
+### Etymology
 **[[va- (Relational Locative Prefix)|va]]** (Inside/Deep) + **[[hùbåbå (noun)|hùbåbå]]** (Back muscle).
 *Lit:* "Inner-Back-Muscle."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null

@@ -14,41 +14,51 @@ tags:
 
 <span class="asaxi-script">båbånă</span>
 
-### Grammatical function
+<span class="asaxi-script-alpha">båbånă</span>
+## Warm/Cold
 
-- **Type:** Qualitative Adjective (`-nă`)
-- **Source Agreement:** **Warm** (Root `båbå` is Warm).
+class:
+- warm
+animate?
+- 
+other class equivalent:
+-
 
 ### Pronunciation
-
 IPA: /bau̯bau̯naɪ/
 
 ### Semantic Field
-
 [[Smntc_Field The Body]] / Aesthetics
 
 ### Translations
-
 - English: muscular, hunky, hulking, gymbro-like, rugged, rough
 - Polish: umięśniony, napakowany, krzepki
 
-### Usage Note (Aesthetic Positive)
-
-Describes a physique or manner that is visibly strong, rugged, or "buff." It is the aesthetic antonym to **hjihjină** (Petite/Delicate).
-
 ### Example sentence
-
 **To John båbånă shá xiŕa.**
 _John is a hunk (muscular person)._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[båbå (noun)|båbå]]** (Muscle) + **-nă**.
 
-### Antonyms
+### Synonyms
+Null
 
+### Root Noun
+- [[båbå (noun)|båbå]]
+
+### Antonyms
 - **[[hjihjină (adjective)|hjihjină]]** (Petite / Delicate / Cute-thin).
 
-### Derived terms
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nă`)
+- **Source Agreement:** **Warm** (Root `båbå` is Warm).
 
-Null
+### Usage Note (Aesthetic Positive)
+Describes a physique or manner that is visibly strong, rugged, or "buff." It is the aesthetic antonym to **hjihjină** (Petite/Delicate).
+
+### Derived terms
+- **båbånýj** (Cold-class form) *(potential)*

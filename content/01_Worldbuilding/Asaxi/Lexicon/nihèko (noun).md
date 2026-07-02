@@ -14,29 +14,40 @@ tags:
 
 <span class="asaxi-script">nihèko</span>
 
+<span class="asaxi-script-alpha">nihèko</span>
 ### Noun class (warm / cold)
-
 **Cold** (Event)
 
-### Grammatical function
-
-- **Type:** Event Noun
-- **Meaning:** "The start", "The beginning", "The commencement", "The go-ahead".
-
 ### Pronunciation
-
 IPA: /ɲihəko/
 
-### Example sentence
+### Semantic Field
+[[Smntc_Field Time]]
 
-**To nihèko dănă xiŕa.**
-_The beginning is huge (important)._
+### Translations
+- English: the start, the beginning
+- Polish: początek
+
+### Example sentence
+**Igùŕa nihèko ma.**
+_The game has a beginning._
+
+### Alternative Forms
+Null
 
 ### Etymology
-
-**[[nihè (Particle)|nihè]]** (Start! - Command) + **[[-ko (Nominal Suffix)|-ko]]** (Event Suffix).
+**[[nihè (Particle)|nihè]]** (Start! - Command) + **[[47_Morphological Reduction (Class Suffixes)|-ko]]** (Event Suffix).
 *Lit:* "The Start-Event."
 
-### Derived terms
-
+### Synonyms
 Null
+
+### Antonyms
+Null
+
+### Derived terms
+- **nihèkonă / nihèkonýj** (adjectival forms) *(potential)*
+
+### Grammatical function
+- **Type:** Event Noun
+- **Meaning:** "The start", "The beginning", "The commencement", "The go-ahead".

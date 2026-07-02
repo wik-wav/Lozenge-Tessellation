@@ -15,54 +15,44 @@ tags:
 
 <span class="asaxi-script">alănů</span>
 
+<span class="asaxi-script-alpha">alănů</span>
 ### Transitivity / Valency
-
 _transitive verb_
 takes an object (the thing being loosened).
 
 ### Lexical Aspect
-
-- **Accomplishment:** The process of releasing tension.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Manipulation]]
 [[Smntc_Field The Body]]
 
 ### Pronunciation
-
 IPA: /alaɪnuw/
 
 ### Translations
-
 - English: to loosen, to slacken, to untie, to relax (grip)
 - Polish: poluzować, rozluźnić
 
 ### Example sentence
-
 Sè wo ỏbwo alănů.
 (I) loosen my belly.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 [[ală (noun)|ală]] (Looseness) + [[06A_-n- (Morphological Infix)|-n-]] (Performance) + [[ů (verb)]].
 
 ### Synonyms
-
 - **[[fri (verb)|fri]]** (To set free / release).
 
 ### Antonyms
-
 - **[[tamo (noun)|tamo]]** (To block/tighten - verbalized).
 
 ### Root Noun
-
 - [[ală (noun)|ală]]
 
 ### Derived terms
-
-Null
+- **alănůshá** (agent noun) *(potential)*

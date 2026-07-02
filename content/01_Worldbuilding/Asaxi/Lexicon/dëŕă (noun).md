@@ -14,45 +14,36 @@ tags:
 
 <span class="asaxi-script">dëŕă</span>
 
+<span class="asaxi-script-alpha">dëŕă</span>
 ### Noun class (warm / cold)
-
 Warm
 
 ### Pronunciation
-
 IPA: /deɪɾaɪ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: tail
 - Polish: ogon
 
 ### Example sentence
-
 To John bwonă dëŕă ma.
 John has a beautiful tail.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 **[[dë (noun)|dë]]** (Limb) + **[[ŕă (Number)|ŕă]]** (Five).
 Logic: The tail is viewed as "the fifth limb" of a creature.
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
 - **[[těněn (noun)|těněn]]** (Head).
 
 ### Derived terms
-
-Null
+- **dëŕănă / dëŕănýj** (adjectival forms) *(potential)*

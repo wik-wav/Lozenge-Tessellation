@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">wănani</span>
 
+<span class="asaxi-script-alpha">wănani</span>
 ### Noun class (warm / cold)
 
 **Cold**

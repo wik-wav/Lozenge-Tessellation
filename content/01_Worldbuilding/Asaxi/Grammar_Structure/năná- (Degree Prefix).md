@@ -1,6 +1,6 @@
 ---
 title: năná- (Degree Prefix) - least
-Word (Asaxi): năna-
+Word (Asaxi): năná-
 trnsltion. En: least
 tags:
   - Asaxi
@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">năná-</span>
 
+<span class="asaxi-script-alpha">năná-</span>
 ### Grammatical function
 
 - **Type:** Superlative Prefix

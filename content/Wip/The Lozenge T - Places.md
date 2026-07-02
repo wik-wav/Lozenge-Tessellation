@@ -6,6 +6,11 @@ tags:
   - lozenge_t
 ---
 This is an account of the Places encountered in [[The Lozenge Tessellation]].
+
+# Sháŕo
+
+A savanna waterhole surrounded by pristine nature. Projections found in this zone are equally serene. They can be found enjoying sunbaths or pool parties in the warm, pleasant weather. An exceptional air of  calm and safety is felt near this tranquil body of water.
+
 # Platform 7
 
 This location manifests as an unpopular, often isolated railway station platform, typically perceived as being in a rural or indistinct area. True to its mundane appearance, trains here tend to arrive late, if at all. The atmosphere is often one of waiting, charged with a low, indistinct hum. Departure boards flicker with nonsensical destinations or cryptic messages, and the lighting can shift unpredictably. Despite its ordinary facade, Platform 7 is a place where the dreamscape's instability can readily manifest. Time might feel "folded" or "sticky," reality can momentarily unravel (like figures walking on walls), strange sounds can echo, and unexpected objects or entities might appear or vanish without explanation. It serves as a liminal space, a point of transition where the mundane meets the bizarre logic of the Tessellation.

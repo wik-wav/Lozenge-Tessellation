@@ -1,6 +1,6 @@
 ---
 title: nèŕa (Stative Particle) - nie być
-Word (Asaxi): nèŕa (Particle)
+Word (Asaxi): nèŕa
 trnsltion. En: not be
 trnsltion. Pl: nie być
 tags:
@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">nèŕa</span>
 
+<span class="asaxi-script-alpha">nèŕa</span>
 ### Usage
 
 `nèŕa` is the **Negative Validity Compound** for existence ("Is not" / "Does not exist"). It functions as the negative counterpart to **[[xiŕa (Particle)|xiŕa]]**.

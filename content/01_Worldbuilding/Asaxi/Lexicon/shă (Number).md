@@ -13,19 +13,16 @@ tags:
 
 <span class="asaxi-script">shă</span>
 
+<span class="asaxi-script-alpha">shă</span>
 ### Grammatical function
-
 - **Type:** Cardinal Number
 - **Value:** **7**
 
 ### Pronunciation
-
 IPA: /ʃaɪ/
 
 ### Example sentence
-
 **To wo shă apa ma.** _"I have seven apples."_
 
 ### Derived terms
-
 - **bishă** (7th)

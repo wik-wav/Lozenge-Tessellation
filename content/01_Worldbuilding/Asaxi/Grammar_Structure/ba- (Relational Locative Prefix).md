@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ba-</span>
 
+<span class="asaxi-script-alpha">ba-</span>
 ### Grammatical function
 
 - **Type:** Relational Locative Prefix

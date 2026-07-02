@@ -1,13 +1,14 @@
 ---
-title: toponů (verb) - to rain, to be placing
+title: toponů (verb) - to rain, to fall as drops
 Word (Asaxi): toponů
-trnsltion. En: to rain, to be placing
-trnsltion. Pl: padać, kłaść
-Transitivity: intransitive, monotransitive, ditransitive
+trnsltion. En: to rain, to fall as drops
+trnsltion. Pl: padać, kapać
+Transitivity: intransitive
 tags:
   - Asaxi
   - language
   - verb
+  - vocab_expansion
 ---
 # toponů ([[02_Asaxi Verbs_ů (List)]])
 
@@ -15,62 +16,42 @@ tags:
 
 <span class="asaxi-script">toponů</span>
 
+<span class="asaxi-script-alpha">toponů</span>
 ### Transitivity / Valency
+_intransitive_
 
-_intransitive verb_ 
-takes one argument, e.g. _He(1) sleeps._
-
-_monotransitive verb_ 
-takes two, e.g. _He(1) kicked the ball(2)._
-
-_ditransitive verb_ 
-takes three, e.g. _He(1) gave her(2) a flower(3)._
-
+### Lexical Aspect
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
-
+[[Smntc_Field Weather & Climate]]
 
 ### Pronunciation
-
-IPA: /t̪oponuu̯/
+IPA: /toponɯ/
 
 ### Translations
-
-- English: to be placing, to rain
-- Polish: kłaść
+- English: to rain, to fall as drops
+- Polish: padać, kapać
 
 ### Example sentence
+**Mëŕo izo mëjo toponů.**
+_Teardrops fall from the eyes._
 
-Ni tobo shěso toponů
-"(I am) putting the book on(to) the table."
-
-Topo izo o toponů.
-Rain is falling from the sky.
-
-Toponů.
-(it's raining)
-
-### Alternative forms
-
-x
+### Alternative Forms
+Null
 
 ### Etymology
-
-x
+**[[topo (noun)|topo]]** (rain) + **-nů**.
 
 ### Synonyms
-
-[[topù (verb)]] - to put (event)
+Null
 
 ### Antonyms
-
 Null
 
 ### Root Noun
-
-- [[topo (noun)]] + n + [[ů (verb)]], lit. be-raining (something)
+- [[topo (noun)|topo]]
 
 ### Derived terms
-
 Null

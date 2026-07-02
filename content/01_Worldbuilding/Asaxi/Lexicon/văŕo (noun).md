@@ -14,39 +14,42 @@ tags:
 
 <span class="asaxi-script">văŕo</span>
 
+<span class="asaxi-script-alpha">văŕo</span>
 ### Noun class (warm / cold)
 **Cold**
 - Reasoning: Location/Enclosure. Even though it contains life, it is a defined space/system.
 
 ### Pronunciation
-
 IPA: /vaɪɾo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Environment]]
 
 ### Translations
-
 - English: garden, greenhouse, conservatory, plantation, grove
 - Polish: ogród, szklarnia, plantacja
 
-### Usage Note
-
-Refers to a managed space for plants.
-* **văŕo** implies an enclosed or defined area (`ŕo`), unlike **ispă** (Wilderness).
-
 ### Example sentence
-
 **To văŕo hjonă xiŕa.**
 _The garden is beautiful._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[vă (noun)|vă]]** (Plant) + **[[ŕo (root word)]]** (Place/Enclosure).
 *Lit:* "Plant-Place."
 *Cognates:* **[[gaŕo (noun)|gaŕo]]** (City), **[[sháŕo (noun)|sháŕo]]** (Home).
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **văŕoshějýn** (Gardener - "Garden-Master/Teacher").
+
+### Usage Note
+Refers to a managed space for plants.
+* **văŕo** implies an enclosed or defined area (`ŕo`), unlike **ispă** (Wilderness).

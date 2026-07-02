@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ojano</span>
 
+<span class="asaxi-script-alpha">ojano</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|Particle Compound]] / Floating Quantifier
@@ -55,7 +56,7 @@ x
 
 ### Etymology
 
-A compound of **[[o (Proximal Locative Prefix)|o]]** (Here) + **[[ja (particle)|ja]]** (And) + **[[no (Proximal Locative Prefix)|no]]** (There). _Lit:_ "Here and there."
+A compound of **[[o (Proximal Locative Prefix)|o]]** (Here) + **[[ja (particle)|ja]]** (And) + **[[no (Medial Locative Prefix)|no]]** (There). _Lit:_ "Here and there."
 
 ### Synonyms
 
@@ -69,4 +70,4 @@ A compound of **[[o (Proximal Locative Prefix)|o]]** (Here) + **[[ja (particle)|
 
 ### Derived terms
 
-Null
+- [[okonoko (Particle)|okonoko]], [[jonojo (Particle)|jonojo]] - sibling distributive reduplications

@@ -7,7 +7,7 @@ tags:
 ---
 # Existence Semantic Field
 
-This is a page with a list of all Asaxi words belonging to the [[01_Semantic Fields (Verbs)|semantic field]] of **Existence**.
+This is a page with a list of all Asaxi words belonging to the [[02_Semantic Fields (Verbs)|semantic field]] of **Existence**.
 
 Navigation:
 - [[The Asaxi Language|The Asaxi Language Index]]
@@ -33,3 +33,10 @@ Navigation:
 - [[wao (noun)]] - world
 - [[tănů (verb)]] - to assemble, to gather, to collect, to add (to a pile), to join
 - [[mënů (verb)]] - to take away, to remove, to deduct, to subtract (from a pile)
+- [[xăcèno (noun)]] - truth, fact
+- [[ijoŕoshá (noun)]] - everyman, the common creature, ordinary folk
+- [[fri (verb)]] - to set free, to liberate, to release, to unleash
+- [[vivi (noun) - as in life]] - life, existence (biological), grass (concrete)
+- [[wëè (verb)]] - to require, to need
+- [[ůŕů (verb)]] - to produce, yield, emit, give off
+- [[banů (verb)]] - to be beside, be next to

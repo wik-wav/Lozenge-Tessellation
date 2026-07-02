@@ -15,40 +15,49 @@ tags:
 
 <span class="asaxi-script">ỏbwonů</span>
 
+<span class="asaxi-script-alpha">ỏbwonů</span>
 ### Transitivity / Valency
-
 **Transitive** or **Reciprocal**
 
 ### Lexical Aspect
-
-**Activity:** Continuous physical contact.
-
-### Grammatical Note
-
-Derived from **[[ỏbwo (noun)|ỏbwo]]** (Belly) + **-n-** + **-ů**.
-* *Logic:* "To belly." To press bellies/soft parts together.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Emotion]] / Contact
 
 ### Pronunciation
-
 IPA: /ou̯bʷonuu̯/
 
 ### Translations
-
 - English: to cuddle, to embrace, to snuggle
 - Polish: przytulać się
 
 ### Example sentence
-
 **To wa gőnigő ỏbwonů.**
 _We cuddle each other._
 
 **To wo no ỏbwonů.**
 _I cuddle you._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 "To perform the action of the belly" (Soft, warm contact).
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Root Noun
+- [[ỏbwo (noun)|ỏbwo]]
+
+### Derived terms
+Null
+
+### Grammatical Note
+Derived from **[[ỏbwo (noun)|ỏbwo]]** (Belly) + **-n-** + **-ů**.
+* *Logic:* "To belly." To press bellies/soft parts together.

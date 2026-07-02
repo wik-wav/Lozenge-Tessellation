@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">måmå</span>
 
+<span class="asaxi-script-alpha">måmå</span>
 ### Grammatical function
 
 - **Particle type:** [[15_NPCP and The Agglutinative Block|Relational Particle (NPCP)]]

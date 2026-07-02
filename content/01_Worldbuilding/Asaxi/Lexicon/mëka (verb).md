@@ -15,46 +15,47 @@ tags:
 
 <span class="asaxi-script">mëka</span>
 
+<span class="asaxi-script-alpha">mëka</span>
 ### Transitivity / Valency
-
 **Reciprocal**
 
 ### Lexical Aspect
-
-**Activity / Achievement:** The act of parting.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Grammatical Note
-
 **[[02_Asaxi Verbs_Root (List)]]:** Compound root verb.
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]] / Social
 
 ### Pronunciation
-
 IPA: /meɪka/
 
 ### Translations
-
 - English: to separate, to part ways, to divorce, to split up
 - Polish: rozdzielać się, rozstawać się
 
-### Usage Note
-
-Derived from **Subtraction** (`më`).
-* *Logic:* "To subtract from one another."
-
 ### Example sentence
-
 **To wa zèmëka.**
 _We separated / broke up._
 
-### Etymology
+### Alternative Forms
+Null
 
-**[[më (Mathematical Operator)|më]]** (Minus) + **[[-ka (Verbal Suffix)|-ka]]** (Reciprocal).
+### Etymology
+**[[më (Mathematical Operator)|më]]** (Minus) + **[[47_Morphological Reduction (Class Suffixes)|-ka]]** (Reciprocal).
 *Lit:* "Minus-Exchange."
 
-### Antonyms
+### Synonyms
+Null
 
+### Antonyms
 - **[[tăka (verb)]]** (To unite).
+
+### Derived terms
+Null
+
+### Usage Note
+Derived from **Subtraction** (`më`).
+* *Logic:* "To subtract from one another."

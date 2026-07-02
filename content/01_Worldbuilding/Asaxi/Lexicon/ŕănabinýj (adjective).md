@@ -14,17 +14,8 @@ tags:
 
 <span class="asaxi-script">ŕănabinýj</span>
 
+<span class="asaxi-script-alpha">ŕănabinýj</span>
 ## Warm/Cold
-
-### class:
-- cold
-- Reasoning: Derived from **[[ŕănabi (noun)|ŕănabi]]** (Speed - Abstract/Physics).
-
-### animate?
-- not
-
-### other class equivalent:
-- **[[ŕănabină (adjective)]]** (Warm - Biological/Gazelle-like).
 
 ### Pronunciation
 IPA: /ɾaɪnabinɪj/
@@ -33,7 +24,6 @@ IPA: /ɾaɪnabinɪj/
 [[Smntc_Field Motion]] / Physics
 
 ### Translations
-
 **As an adjective:**
 - English: fast, rapid, high-velocity, speedy
 - Polish: szybki, prędki
@@ -42,8 +32,35 @@ IPA: /ɾaɪnabinɪj/
 - English: rapidly, speedily, with high velocity
 - Polish: szybko, prędko
 
-### Example sentences:
+### Example sentence
+Null
 
+### Alternative Forms
+x
+
+### Etymology
+**[[ŕănabi (noun)|ŕănabi]]** (Speed) + **-nýj** (Cold Adjective Suffix).
+
+### Synonyms
+Null
+
+### Root Noun
+- **[[ŕănabi (noun)|ŕănabi]]**
+
+### Antonyms
+- **[Slow]** (TBD).
+
+### class
+- cold
+- Reasoning: Derived from **[[ŕănabi (noun)|ŕănabi]]** (Speed - Abstract/Physics).
+
+### animate
+- not
+
+### other class equivalent
+- **[[ŕănabină (adjective)]]** (Warm - Biological/Gazelle-like).
+
+### Example sentences
 **As an adjective:**
 - **Toonýj o-car ŕănabinýj xiŕa.**
   _This car is fast._
@@ -58,15 +75,3 @@ IPA: /ɾaɪnabinɪj/
 3. **Contrast (Adjective vs. Adverb):**
    - **To John ŕănabinýj [car] ma.** (John has a fast car).
    - **To John [car] ŕănabinýj ma.** (John holds the car rapidly? / John possesses the car quickly?).
-
-### Alternative forms
-x
-
-### Etymology
-**[[ŕănabi (noun)|ŕănabi]]** (Speed) + **-nýj** (Cold Adjective Suffix).
-
-### Root Noun
-- **[[ŕănabi (noun)|ŕănabi]]**
-
-### Antonyms
-- **[Slow]** (TBD).

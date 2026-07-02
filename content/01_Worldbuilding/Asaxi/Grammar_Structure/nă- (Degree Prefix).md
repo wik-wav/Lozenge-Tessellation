@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nă-</span>
 
+<span class="asaxi-script-alpha">nă-</span>
 ### Grammatical function
 
 - **Type:** Superlative Prefix

@@ -22,7 +22,7 @@ Navigation:
 - [[Smntc_Field Motion]]: 
 	- _run, walk, slide, swim, fly, arrive, depart._ (Note: distinct from "moving an object").
 - Manipulation (Contact): _hit, touch, rub, scratch, cut, break._
-- [[Smnt_Field Transfer]] (Giving/Taking): _give, take, steal, buy, sell, lend, borrow._
+- [[Smntc_Field Transfer]] (Giving/Taking): _give, take, steal, buy, sell, lend, borrow._
 - Creation/Destruction: _make, build, bake, destroy, ruin, annihilate._
 - Body Functions: _sleep, eat, drink, sneeze, cough, breathe._
 

@@ -1,6 +1,6 @@
 ---
 title: åmă (Particle) - every time
-Word (Asaxi): every time
+Word (Asaxi): åmă
 trnsltion. En: za każdym razem
 tags:
   - Asaxi
@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">åmă</span>
 
+<span class="asaxi-script-alpha">åmă</span>
 ### Gråmăammatical function
 
 - **Type:** Frequency Adverb
@@ -39,8 +40,8 @@ _I will read every time (I have the chance)._
 
 ### Synonyms
 
-- **[[onå (Particle)|onå]]** (Always/Forever - stronger/continuous).
+- **[[onå (FOREVER Aspectual Marker)|onå]]** (Always/Forever - stronger/continuous).
 
 ### Derived terms
 
-Null
+- **mă**-family: [[ximă (Particle)|ximă]] (daily), [[txămă (Particle)|txămă]] (yearly), [[gămă (particle)|gămă]] (whenever)

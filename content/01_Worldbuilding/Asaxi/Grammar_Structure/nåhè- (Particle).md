@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nåhè-</span>
 
+<span class="asaxi-script-alpha">nåhè-</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle Compound]]
@@ -47,4 +48,6 @@ x
 - **[Continue]** (TBD).
 
 ### Derived terms
-Null
+
+- [[hè (Particle)|hè]] - imperative base
+- [[nihè (Particle)|nihè]] - inchoative command (paradigm sibling)

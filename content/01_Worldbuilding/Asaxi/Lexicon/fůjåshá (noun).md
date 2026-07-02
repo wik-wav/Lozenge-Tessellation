@@ -14,31 +14,35 @@ tags:
 
 <span class="asaxi-script">fůjåshá</span>
 
+<span class="asaxi-script-alpha">fůjåshá</span>
 ### Noun class (warm / cold)
-
 **Warm**
 
 ### Pronunciation
-
 IPA: /fuu̯jau̯ʃɑ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Virtues & Failings]]
 
 ### Translations
-
 - English: a content creature, a wantless person, a sage
 - Polish: człowiek spełniony, mędzec
 
 ### Example sentence
-
 **To fůjåshá frë ma.**
 _The wantless person has freedom._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[fů (root word)|fů]]** (Lack) + **[[jå (verb)|jå]]** (Want) + **[[shá (noun)|shá]]** (Person).
+
+### Synonyms
+Null
 
 ### Antonyms
 - **[Greedy person]** x
+
+### Derived terms
+Null

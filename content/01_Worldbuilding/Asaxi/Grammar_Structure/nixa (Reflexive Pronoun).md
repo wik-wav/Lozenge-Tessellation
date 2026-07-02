@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nixa</span>
 
+<span class="asaxi-script-alpha">nixa</span>
 ### Grammatical function
 
 - **Type:** Reflexive Pronoun

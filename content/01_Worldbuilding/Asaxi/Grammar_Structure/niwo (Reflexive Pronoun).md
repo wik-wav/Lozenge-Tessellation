@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">niwo</span>
 
+<span class="asaxi-script-alpha">niwo</span>
 ### Grammatical function
 
 - **Type:** Reflexive Pronoun

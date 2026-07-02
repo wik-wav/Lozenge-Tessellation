@@ -6,7 +6,7 @@ trnsltion. Pl: płaczliwy, lamentujący, tragiczny
 tags:
   - Asaxi
   - language
-  - noun
+  - adjective
 ---
 # exenýj ([[03_Asaxi Adjectives (List)]])
 
@@ -14,37 +14,51 @@ tags:
 
 <span class="asaxi-script">exenýj</span>
 
-### Grammatical function
+<span class="asaxi-script-alpha">exenýj</span>
+## Warm/Cold
 
-- **Type:** Qualitative Adjective (`-nýj`)
-- **Source Agreement:** **Cold** (Root `exe` is Cold).
+class:
+- cold
+animate?
+- 
+other class equivalent:
+- 
 
 ### Pronunciation
-
 IPA: /eɦenɪj/
 
 ### Semantic Field
-
 [[Smntc_Field Emotion]] / Atmosphere
 
 ### Translations
-
 - English: weepy, wailing, tearful, tragic, sorrowful, lugubrious
 - Polish: płaczliwy, lamentujący, tragiczny
 
-### Usage Note
-
-Describes entities or situations characterized by wailing or deep sadness. When applied to a person, it often objectifies their state as "a tragedy" or "a weep-case."
-
 ### Example sentence
-
 **Toonă o-shá exenýj xiŕa.**
 _This person is weepy (a tragic figure)._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[exe (noun)|exe]]** (Crying/Wailing) + **-nýj**.
 
-### Antonyms
+### Synonyms
+Null
 
+### Root Noun
+- [[exe (noun)|exe]]
+
+### Antonyms
 - **[[axană (adjective)|axană]]** (Cheerful/Approachable).
+
+### Derived terms
+Null
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nýj`)
+- **Source Agreement:** **Cold** (Root `exe` is Cold).
+
+### Usage Note
+Describes entities or situations characterized by wailing or deep sadness. When applied to a person, it often objectifies their state as "a tragedy" or "a weep-case."

@@ -14,31 +14,39 @@ tags:
 
 <span class="asaxi-script">opa</span>
 
+<span class="asaxi-script-alpha">opa</span>
 ### Noun class (warm / cold)
 **Cold**
 
-### Grammatical function
-
-- **Type:** Temporal Noun
-- **Meaning:** The Immediate Future, the brink, the verge.
-
 ### Pronunciation
-
 IPA: /opa/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]]
 
 ### Translations
-
 - English: the brink, the verge, the next moment
 - Polish: najbliższa przyszłość, krawędź (czasowa)
 
 ### Example sentence
-
 **Ńopa, to wa gavină pabůchů.** `in-imm-future`, `SUBJ` `1PL` `well` `FUT-feel` _"We will feel well in the immediate future."_ (Lit: In the brink, we will feel well).
+
+### Alternative Forms
+Null
 
 ### Etymology
 **[[o (Proximal Locative Prefix)|o-]]** (Here) + **[[pa (Noun)|pa]]** (Future).
 *Lit:* "The Here-Future."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null
+
+### Grammatical function
+- **Type:** Temporal Noun
+- **Meaning:** The Immediate Future, the brink, the verge.

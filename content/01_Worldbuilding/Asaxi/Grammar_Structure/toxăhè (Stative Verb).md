@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">toxăhè</span>
 
+<span class="asaxi-script-alpha">toxăhè</span>
 ### Grammatical function
 
 - **Type:** Epistemic Marker / Sentence Final Compound

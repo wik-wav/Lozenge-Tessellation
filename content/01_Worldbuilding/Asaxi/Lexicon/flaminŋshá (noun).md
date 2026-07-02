@@ -14,34 +14,37 @@ tags:
 
 <span class="asaxi-script">flaminŋshá</span>
 
+<span class="asaxi-script-alpha">flaminŋshá</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: Animate bird.
 
 ### Pronunciation
-
 IPA: /fla.mi.ŋ̍ʃɑ/
 *Note:* The final `nŋ` functions as a syllabic nucleus.
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Animals]]
 
 ### Translations
-
 - English: flamingo
 - Polish: flaming
 
 ### Example sentence
-
 **To flaminŋshá gavină ůjů.**
 _The flamingo looks good._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 Borrowed from Polish **"flaming"**, adapted to Asaxi phonotactics with the syllabic nasal.
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **flamiŋnů** (To pose).

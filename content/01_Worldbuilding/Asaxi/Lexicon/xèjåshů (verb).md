@@ -15,41 +15,49 @@ tags:
 
 <span class="asaxi-script">xèjåshů</span>
 
+<span class="asaxi-script-alpha">xèjåshů</span>
 ### Transitivity / Valency
-
 **Intransitive**
 
 ### Lexical Aspect
-
-**Achievement:** Loss of will.
-
-### Grammatical Note
-
-Derived from the concept noun **[[xèjå (verb)|xèjå]]** (An attempt/Try) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative) + **-ů**.
-* *Lit:* "To strip the attempt." / "To de-try."
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]] / Volition
 
 ### Pronunciation
-
 IPA: /ɦəjau̯ʃuu̯/
 
 ### Translations
-
 - English: to stop trying, to lose heart, to give up (on a goal)
 - Polish: przestać próbować, zrezygnować
 
-### Usage Note
-
-Focuses on the loss of **Will/Desire** (`jå`), whereas `tètáshů` focuses on the cessation of **Suffering**.
-
 ### Example sentence
-
 **To wo xèjåshů.**
 _I stop trying._
 
-### Antonyms
+### Alternative Forms
+Null
 
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Antonyms
 - **xèjå** (To try).
+
+### Root Noun
+Null
+
+### Derived terms
+Null
+
+### Grammatical Note
+Derived from the concept noun **[[xèjå (verb)|xèjå]]** (An attempt/Try) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative) + **-ů**.
+* *Lit:* "To strip the attempt." / "To de-try."
+
+### Usage Note
+Focuses on the loss of **Will/Desire** (`jå`), whereas `tètáshů` focuses on the cessation of **Suffering**.

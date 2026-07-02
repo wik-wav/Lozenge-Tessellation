@@ -15,37 +15,46 @@ tags:
 
 <span class="asaxi-script">cőtájýnů</span>
 
+<span class="asaxi-script-alpha">cőtájýnů</span>
 ### Transitivity / Valency
-
 **Reciprocal** (Argue with each other) or **Intransitive** (Argue).
 
 ### Lexical Aspect
-
-**Activity:** Continuous dispute.
-
-### Grammatical Note
-
-Derived from **[[cőtájýn (noun)|cőtájýn]]** (Argument) + **-ů**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]]
 [[Smntc_Field Conflict]]
 
 ### Pronunciation
-
 IPA: /t͡soɪt̪ɑꞲɪnuu̯/
 
 ### Translations
-
 - English: to argue, to dispute, to quarrel
 - Polish: kłócić się, spierać się
 
 ### Example sentence
-
 **To Tom zá John zècőtájýnů.**
 _Tom and John argued._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 "To perform an argument."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Root Noun
+- [[cőtájýn (noun)|cőtájýn]]
+
+### Derived terms
+Null
+
+### Grammatical Note
+Derived from **[[cőtájýn (noun)|cőtájýn]]** (Argument) + **-ů**.

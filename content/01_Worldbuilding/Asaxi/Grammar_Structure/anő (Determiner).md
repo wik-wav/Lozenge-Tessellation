@@ -14,9 +14,10 @@ tags:
 
 <span class="asaxi-script">anő</span>
 
+<span class="asaxi-script-alpha">anő</span>
 ### Grammatical function
 
-[[09_Asaxi Determiners (List)|Determiner]]. An [[02_Definiteness in Asaxi|indefinite]] noun marker for [[00_Noun Classification (Gender) in Asaxi|all nouns]].
+[[05_Determiners in Asaxi|Determiner]]. An [[02_Definiteness in Asaxi|indefinite]] noun marker for [[00_Noun Classification (Gender) in Asaxi|all nouns]].
 - Pronoun
   That (indefinite)
 - As an Indefinite Determiner

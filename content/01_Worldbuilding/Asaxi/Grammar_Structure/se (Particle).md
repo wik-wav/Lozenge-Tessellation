@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">se</span>
 
+<span class="asaxi-script-alpha">se</span>
 ### Grammatical function
 
 - **Particle type:** Connective Particle (Nominal Coordinator)
@@ -51,4 +52,4 @@ x
 
 ### Derived terms
 
-Null
+- [[si (OR Logical Clause Connector)|si]] - clausal "or" (counterpart)

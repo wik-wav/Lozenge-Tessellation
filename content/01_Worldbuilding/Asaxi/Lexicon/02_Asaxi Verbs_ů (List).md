@@ -19,6 +19,24 @@ Navigation:
 
 - - -
 
+- [[ŕochỏŕů (verb)]] - to be thirsty (lit. to generate thirst)
+- [[chỏŕů (verb)]] - to be hungry (lit. to generate hunger)
+- [[aiŕů (verb)]] - to grieve, to sorrow from within (lit. to generate sorrow)
+- [[săaŕů (verb)]] - to radiate heat, to be feverish-hot (lit. to generate heat)
+- [[săaaiŕů (verb)]] - to run a fever (lit. to generate heat-pain)
+- [[zhýchů (verb)]] - to be cold, to feel the cold
+- [[săachů (verb)]] - to feel hot (the heat of the world, not one's own)
+- [[aichů (verb)]] - to be pained by, to feel hurt at (something external)
+
+- [[ŕochỏchů (verb)]] - to thirst, to feel thirsty
+
+- [[dokùxů (verb)]] - to heal, to treat, to medicate
+- [[săaxů (verb)]] - to cook, to bake
+- [[kiŕonů (verb)]] - to cut (with a blade)
+- [[kamŕů (verb)]] - to build, to construct
+- [[såŕånů (verb)]] - to sing
+- [[shěsoŕů (verb)]] - to write, to author (a work)
+
 - [[ů (verb)]] - be (active)
 - [[fnonů (verb)]] - to move, to drift
 - [[pxỏŕů (verb)]] - to inflate, to blow up, to pump up, to swell (transitive)
@@ -30,7 +48,7 @@ Navigation:
 - [[zèvoshů (verb)]] - to defame
 - [[zèvonů (verb)]] - to name
 - [[mëjonů (verb)]] - to look, to use one's eyes, to gaze
-- [[ŕèzinů (verb)]] - to be proud (stoically), to prowl, to carry oneself with confidence, to hold one's ground
+- [[ŕèzinů (verb)]] - to be proud overtly, to carry oneself with confidence, to hold one's ground
 - [[cőtájýnů (verb)]] - to argue, to dispute, to quarrel
 - [[ůná (verb)]] - not be (active)
 - [[pănů (verb)]] - to go outside
@@ -51,7 +69,7 @@ Navigation:
 - [[ůŕů (verb)]] - to create
 - [[ůshů (verb)]] - to remove
 - [[ŕoŕonů (verb)]] - to drink
-- [[ronů (noun)]] - to lift weights
+- [[ronů (verb)]] - to lift weights
 - [[xèronů (verb)]] - to weight-train
 - [[båbaŕů (verb)]] - to gain muscle mass
 - [[båbashů (verb)]] - to lose muscle mass
@@ -87,3 +105,81 @@ Navigation:
 - [[ŋoŕů (verb)]] - to add weight, to weigh down, to burden, to weigh upon (metaphorical)
 - [[xaŋonů (verb)]] - to weigh (in tonnes)
 - [[śchinů (verb)]] - to measure (in cm), to be (X cm) tall/long
+- [[chỏnů (verb)]] - chomp, cut, eat
+- [[flamiŋshů (verb)]] - to hide, to conceal, to camouflage, to blend in, to stop showing off
+- [[itănů (verb)]] - to tense up, to tighten, to flex (stiffly), to stress, to strain
+- [[shěsonů (verb)]] - to read
+- [[toponů (verb)]] - to rain, to be placing
+- [[vivinů (verb)]] - to live, to be alive, to thrive
+- [[ỏbåbåŕů (verb)]] - to harden (body)
+- [[ỏnů (verb)]] - to be in the middle of, to center, to bisect
+- [[kiŕonů (verb)]] - to cut, sever, slice
+- [[hkanů (verb)]] - to protect, shield, guard, defend
+- [[xokŕonů (verb)]] - to lean on, lean against, prop against
+- [[ånů (verb)]] - to tell the time, to time
+- [[ŋèxů (verb)]] - to overshadow, occlude, eclipse
+- [[toponů (verb)]] - to rain, to fall as drops
+- [[banů (verb)]] - to be beside, be next to
+- [[mënů (verb)]] - to lessen, reduce, diminish
+- [[chỏnů (verb)]] - to eat, consume, devour
+
+- [[gokanů (verb)]] - to hammer (use a hammer)
+- [[gùŕkanů (verb)]] - to net, to catch in a net
+- [[këokanů (verb)]] - to hook
+- [[pỏbinů (verb)]] - to sew, to stitch
+- [[nozhènů (verb)]] - to knife, to cut with a blade
+- [[cùkonů (verb)]] - to build, to construct (in brick)
+- [[sigonů (verb)]] - to count, to tally
+- [[ijoŕonů (verb)]] - to dream
+- [[tètájýnů (verb)]] - to complain, to grumble
+- [[aishů (verb)]] - to comfort, to console (strip sorrow)
+- [[chiŕů (verb)]] - to bleed (produce blood)
+- [[ŕoshů (verb)]] - to leak (shed water)
+- [[haosů (verb)]] - to echo (sound-like a bark)
+- [[mùśonů (verb)]] - to rot, to moulder
+- [[pivaŕů (verb)]] - to bloom, to flower
+- [[vèshů (verb)]] - to wither, to shed leaves
+- [[kaeŕů (verb)]] - to ripen, to bear fruit
+- [[ŕasonů (verb)]] - to evaporate, to steam off
+- [[ckanů (verb)]] - to dig, to shovel
+- [[cpỏkanů (verb)]] - to sweep
+- [[sxëkanů (verb)]] - to shear, to cut with shears
+- [[kjèkanů (verb)]] - to saw
+- [[kemkanů (verb)]] - to unlock, to key
+- [[fŕonů (verb)]] - to map, to chart
+- [[gámŕonů (verb)]] - to paint
+- [[pjononů (verb)]] - to picture, to depict
+- [[ŕobinů (verb)]] - to wire, to string up
+- [[shágoŕů (verb)]] - to sculpt, to carve a figure
+- [[cùgoŕů (verb)]] - to throw pottery, to mould clay
+- [[vènoŕů (verb)]] - to do woodwork, to carpenter
+- [[kŕùŕů (verb)]] - to rust, to corrode
+- [[ŕagonů (verb)]] - to char, to make charcoal
+- [[komonů (verb)]] - to eat a meal, to dine
+- [[chănů (verb)]] - to have tea
+- [[vinonů (verb)]] - to drink wine
+- [[sèŕèŕů (verb)]] - to make cheese
+- [[vigopỏŕů (verb)]] - to mill flour
+- [[miagoxů (verb)]] - to sweeten
+- [[gosixů (verb)]] - to salt
+- [[ŕăvixů (verb)]] - to spice, to season
+- [[bwoŕonů (verb)]] - to oil, to grease
+- [[mýdonů (verb)]] - to soap, to wash with soap
+- [[săanoŕů (verb)]] - to bake bread
+- [[ŕonoxů (verb)]] - to serve a drink to
+- [[kùsoŋů (verb)]] - to stink, to smell foul
+- [[miazhů (verb)]] - to taste sweet
+- [[pivaŋů (verb)]] - to be fragrant, to smell sweet
+- [[gosů (verb)]] - to clatter, to sound stony
+- [[ihjopů (verb)]] - to feel bony, to feel hard
+- [[mmråwů (verb)]] - to act catlike, to be sly/graceful
+- [[dăchů (verb)]] - to feel huge, to feel mighty
+- [[goků (verb)]] - to petrify, to turn to stone
+- [[ŕăků (verb)]] - to set ablaze, to turn into fire
+- [[cùpỏshů (verb)]] - to dust off, to clear of dust
+
+- [[apojů (verb)]] - to look like an apple (visual mode)
+- [[axanů (verb)]] - to laugh, to be laughing
+- [[frënů (verb)]] - to act freely, to be at liberty
+- [[gădăŕů (verb)]] - to enlarge, to make big
+- [[ỏbånů (verb)]] - to flex, to tense the core

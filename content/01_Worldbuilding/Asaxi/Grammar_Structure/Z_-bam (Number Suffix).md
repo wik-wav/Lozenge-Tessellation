@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">-bam</span>
 
+<span class="asaxi-script-alpha">-bam</span>
 ### Grammatical function
 
 - **Type:** Number Suffix

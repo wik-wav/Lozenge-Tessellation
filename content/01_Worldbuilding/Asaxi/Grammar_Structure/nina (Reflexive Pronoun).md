@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nina</span>
 
+<span class="asaxi-script-alpha">nina</span>
 ### Grammatical function
 
 - **Type:** Reflexive Pronoun

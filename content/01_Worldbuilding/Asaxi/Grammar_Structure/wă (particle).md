@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">wă</span>
 
+<span class="asaxi-script-alpha">wă</span>
 ### Grammatical function
 
 - **Type:** Mood Particle (Sentence Final)

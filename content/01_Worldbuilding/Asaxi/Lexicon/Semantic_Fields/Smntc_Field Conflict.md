@@ -26,3 +26,4 @@ Navigation:
 - [[fůkő (noun)]] - hatred, un-empathy
 - [[ijoka (noun)]] - sights (of a gun), scope, crosshairs, aiming device
 - [[tètáshů (verb)]] - to give up, to surrender, to quit, to yield
+- [[hkanů (verb)]] - to protect, shield, guard, defend

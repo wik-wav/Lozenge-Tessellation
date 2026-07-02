@@ -15,54 +15,43 @@ tags:
 
 <span class="asaxi-script">topů</span>
 
+<span class="asaxi-script-alpha">topů</span>
 ### Transitivity / Valency
-
 _ditransitive verb_ 
 takes three, e.g. _He(1) gave her(2) a flower(3)._
 
-### Lexical Aspect 
-
-- **Accomplishment:** Process with an end point (build a house, paint a picture).
-- **Achievement:** Instantaneous event, often repeated (knock, sneeze, flash).
+### Lexical Aspect
+- **Punctual (Achievement)** — happens in a single moment.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully" · **-ů** "make it ongoing".
 
 ### Grammatical Note
-
-- **[[02_Asaxi Verbs_Root (List)]]:** This belongs to the closed class of primitive verbs. It is a root verb and does not utilize the Universal Verbalizer _-ů_ suffix.
+- **[[02_Asaxi Verbs_Root (List)]]:** This belongs to the closed class of primitive verbs. It is a root verb and may take **-ů** to derive a durative reading, and `na-`/`tå-`/`ni-`/`chå-` for other aspects.
 
 ### Semantic Field
-
 x
 
 ### Pronunciation
-
-IPA: /t̪opuu̯/
+IPA: /t̪opɯ/
 
 ### Translations
-
 - English: to put, to place
 - Polish: położyć
 
 ### Example sentence
-
 Ni tobo shěso topù
 "(I) put the book on(to) the table."
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Loosely based on the Asaxi word for rain [[topo (noun)]].
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůtopù** (to put without its essence (privative)) *(potential)*
 
 ### Derived terms
-
-Null
+- **topùshá** (agent noun) *(potential)*

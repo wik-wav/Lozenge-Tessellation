@@ -1,6 +1,6 @@
 ---
 title: sè (Relational Particle) - sè (Particle)
-Word (Asaxi): sè (Particle)
+Word (Asaxi): sè
 trnsltion. En: of X, belonging to X
 tags:
   - Asaxi
@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">sè</span>
 
+<span class="asaxi-script-alpha">sè</span>
 ### Grammatical function
 
 - **Particle type:** [[15_NPCP and The Agglutinative Block|Relational Particle (NPCP)]]

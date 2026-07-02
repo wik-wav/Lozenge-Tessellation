@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">pxỏmă fůmă</span>
 
+<span class="asaxi-script-alpha">pxỏmă fůmă</span>
 ### Grammatical function
 
 - **Type:** Phrasal Idiom / Philosophical Maxim

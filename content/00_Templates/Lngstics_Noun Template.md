@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">Word (Asaxi)</span>
 
+<span class="asaxi-script-alpha">Word (Asaxi)</span>
 ### Noun class (warm / cold)
 
 x
@@ -22,7 +23,7 @@ x
 
 IPA: //
 
-### Semantic field
+### Semantic Field
 
 x
 
@@ -35,8 +36,7 @@ x
 
 x
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology

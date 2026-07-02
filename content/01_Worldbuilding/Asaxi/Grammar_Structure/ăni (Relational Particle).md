@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">ăni</span>
 
+<span class="asaxi-script-alpha">ăni</span>
 ### Grammatical function
 
 - **Particle type:** Relational Particle (NPCP)

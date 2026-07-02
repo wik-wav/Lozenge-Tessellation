@@ -14,46 +14,37 @@ tags:
 
 <span class="asaxi-script">ită</span>
 
+<span class="asaxi-script-alpha">ită</span>
 ### Noun class (warm / cold)
-
 Cold
 - Reasoning: Tension restricts energy and flow; it is a static or binding force. The polar opposite of **[[ală (noun)|ală]]** (Looseness/Warm).
 
 ### Pronunciation
-
 IPA: /itaɪ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Physics]] / [[Smntc_Field Emotion]]
 
 ### Translations
-
 - English: tension, stress, tautness, anxiety, tightness
 - Polish: napięcie, stres, sztywność
 
 ### Example sentence
-
 Wo ită paniŕa.
 I will become anxious. (Lit: I am destined for/becoming tension).
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 From japanese 痛い (painful)
 
 ### Synonyms
-
 - **[[tamo (noun)|tamo]]** (Limit/Blockage).
 
 ### Antonyms
-
 - **[[ală (noun)|ală]]** (Looseness).
 
 ### Derived terms
-
 - **itănýj** (Tensed / Anxious).
 - **itănů** (To tense up).

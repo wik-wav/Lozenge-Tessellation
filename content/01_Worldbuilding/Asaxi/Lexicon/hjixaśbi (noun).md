@@ -14,49 +14,39 @@ tags:
 
 <span class="asaxi-script">hjixaśbi</span>
 
+<span class="asaxi-script-alpha">hjixaśbi</span>
 ### Noun class (warm / cold)
-
 Warm
 
 ### Pronunciation
-
 IPA: /çiɦaɕbi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: toe, digit (foot)
 - Polish: palec (u nogi)
 
 ### Plural Form
-
 **hjixaśbia** (Toes).
 
 ### Example sentence
-
 To hjixaśbi tètáŕů.
 The toe hurts.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 **[[hji (noun)|hji]]** (Smallness/Slightness) + a reduction of **[[aśobi (noun)|aśobi]]** (Leg).
 Logic: "Small-Legs."
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůhjixaśbi** (absence of toe) *(potential)*
 
 ### Derived terms
-
-Null
+- **hjixaśbină / hjixaśbinýj** (adjectival forms) *(potential)*

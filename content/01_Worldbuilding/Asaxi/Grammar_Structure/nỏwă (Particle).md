@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nỏwă</span>
 
+<span class="asaxi-script-alpha">nỏwă</span>
 ### Grammatical function
 
 - **Type:** Mood Particle (Sentence Final)

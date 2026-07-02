@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">pa</span>
 
+<span class="asaxi-script-alpha">pa</span>
 ### Grammatical function
 
 - **Type:** Tense Prefix

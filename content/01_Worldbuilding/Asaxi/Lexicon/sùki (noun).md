@@ -14,40 +14,42 @@ tags:
 
 <span class="asaxi-script">sùki</span>
 
+<span class="asaxi-script-alpha">sùki</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: Emotion, internal fire/energy.
 
 ### Pronunciation
-
 IPA: /sɯki/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Emotion]]
 
 ### Translations
-
 - English: love, affection, liking, preference
 - Polish: miłość, sympatia, upodobanie
 
-### Usage Note
-
-Distinct from the verb **[[sùki (verb)|sùki]]** (To like).
-* **Verb:** `Wo no sùki.` (I like you).
-* **Noun:** `To sùki gavină xiŕa.` (Love is good).
-
 ### Example sentence
+**Wo då no sùki ůchů.**
+_I feel love for you._
 
-**Toonă sùki dănă xiŕa.**
-_The love is huge._
+### Alternative Forms
+Null
 
 ### Etymology
+Nominalization of the root **[[sùkixů (verb)|sùki]]**.
 
-Nominalization of the root **[[sùki (verb)|sùki]]**.
+### Synonyms
+Null
+
+### Antonyms
+Null
 
 ### Derived terms
-
 - **[[sùkină (adjective)]]** (Beloved).
 - **[[sùkixů (verb)]]** (To love / "Big-like").
+
+### Usage Note
+Distinct from the verb **[[sùkixů (verb)|sùki]]** (To like).
+* **Verb:** `Wo no sùki.` (I like you).
+* **Noun:** `To sùki gavină xiŕa.` (Love is good).

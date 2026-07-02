@@ -15,41 +15,46 @@ tags:
 
 <span class="asaxi-script">śchinů</span>
 
+<span class="asaxi-script-alpha">śchinů</span>
 ### Transitivity / Valency
-
 **Intransitive** (Measure)
 Used with a numeric complement.
 
 ### Lexical Aspect
-
-**State:** Having a specific length/height.
-
-### Grammatical Note
-
-Derived from **[[śchi (Unit Noun)|śchi]]** (Centimeter) + **-n-** + **-ů**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field The Body]] / Physics
 
 ### Pronunciation
-
 IPA: /ɕt͡ɕʲinuw/
 
 ### Translations
-
 - English: to measure (in cm), to be (X cm) tall/long
 - Polish: mierzyć (ileś cm), mieć wzrost
 
 ### Example sentence
-
 **To wo dasă ŕă śchinů.**
 _I am 105cm tall._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 "To perform centimeters."
 
-### Derived terms
-
+### Synonyms
 Null
+
+### Antonyms
+Null
+
+### Root Noun
+Null
+
+### Derived terms
+- **śchinůshá** (agent noun) *(potential)*
+
+### Grammatical Note
+Derived from **[[śchi (Unit Noun)|śchi]]** (Centimeter) + **-n-** + **-ů**.

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">vi</span>
 
+<span class="asaxi-script-alpha">vi</span>
 ### Grammatical function
 
 - **Type:** Interjection / Discourse Particle

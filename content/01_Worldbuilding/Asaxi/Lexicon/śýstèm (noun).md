@@ -14,40 +14,35 @@ tags:
 
 <span class="asaxi-script">śýstèm</span>
 
+<span class="asaxi-script-alpha">śýstèm</span>
 ### Noun class (warm / cold)
-
 warm
 - reasoning: systems often exude energy in the form of heat
 
 ### Pronunciation
-
 IPA: /ɕɪst̪em/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The City]]
 
 ### Translations
-
 - English: system
 - Polish: system
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 - śýstèmm
 
 ### Etymology
-
 Adaptation of システム to Asaxi orthography.
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůśýstèm** (absence of system) *(potential)*
 
 ### Derived terms
-
-Null
+- [[jośýstèm (noun)|jośýstèm]] - social system

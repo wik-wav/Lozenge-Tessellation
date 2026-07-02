@@ -15,44 +15,49 @@ tags:
 
 <span class="asaxi-script">xova</span>
 
+<span class="asaxi-script-alpha">xova</span>
 ### Transitivity / Valency
-
 **Ambitransitive**
 * **Intransitive:** To move inside (Active entry).
 * **Transitive:** To insert, to put in, to load.
 
 ### Lexical Aspect
-
-**Activity:** Inward motion.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Grammatical Note
-
 **[[02_Asaxi Verbs_Root (List)]]:** Compound root verb.
 
 ### Semantic Field
-
 [[Smntc_Field Motion]]
 
 ### Pronunciation
-
 IPA: /ɦova/
 
 ### Translations
-
 - English: to insert, to enter (actively), to put in
 - Polish: wkładać, wchodzić
 
-### Usage Note
-
-Distinct from **[[vanů (Spatial Verb)|vanů]]** (To be inside/inhabit).
-* **xova:** The act of moving across the threshold.
-* **vanů:** The state of occupying the interior.
-
 ### Example sentence
-
 **To wo [key] xova.**
 _I insert the key._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **xo** (Move) + **[[va- (Relational Locative Prefix)|va]]** (In).
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null
+
+### Usage Note
+Distinct from **[[vanů (Spatial Verb)|vanů]]** (To be inside/inhabit).
+* **xova:** The act of moving across the threshold.
+* **vanů:** The state of occupying the interior.

@@ -1,0 +1,50 @@
+---
+title: goka (noun) - hammer
+Word (Asaxi): goka
+trnsltion. En: hammer
+trnsltion. Pl: młotek
+tags:
+  - Asaxi
+  - language
+  - noun
+  - vocab_expansion
+---
+# goka ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">goka</span>
+
+<span class="asaxi-script-alpha">goka</span>
+### Noun class (warm / cold)
+**Cold**
+
+### Pronunciation
+IPA: /goka/
+
+### Semantic Field
+[[Smntc_Field Tools]]
+
+### Translations
+- English: hammer
+- Polish: młotek
+
+### Example sentence
+**Bă goka wo bakam kamŕů.**
+_I build the wall with a hammer._
+
+### Alternative Forms
+Null
+
+### Etymology
+**[[go (noun)|go]]** (rock) + **-ka** (device; cf. *ijoka* sights) — „rock-device”.
+
+### Synonyms
+- [[go (noun)|go]] (related: rock)
+
+### Antonyms
+- [[ihjá (noun)|ihjá]] (counterpart: the sharp to its blunt)
+
+### Derived terms
+- [[gokanů (verb)|gokanů]] (to hammer (use a hammer))
+- **gokanů** (to hammer) *(potential)*

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">no</span>
 
+<span class="asaxi-script-alpha">no</span>
 ### Grammatical function
 
 The pronoun `no` is a **second-person** singular nominative pronoun.

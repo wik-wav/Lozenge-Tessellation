@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">pjonă</span>
 
+<span class="asaxi-script-alpha">pjonă</span>
 ## Warm/Cold
 
 class:
@@ -24,15 +25,12 @@ other class equivalent:
 - (None - Light is inherently Warm)
 
 ### Pronunciation
-
 IPA: /pʲonaɪ/
 
 ### Semantic Field
-
 [[Smntc_Field Perception]] / [[Smntc_Field Physics]]
 
 ### Translations
-
 **As an adjective:**
 - English: bright, luminous, radiant, shining, intense (visually)
 - Polish: jasny, świetlisty, promienny
@@ -41,8 +39,7 @@ IPA: /pʲonaɪ/
 - English: brightly, radiantly
 - Polish: jaśnie, świetliście
 
-### Example sentence:
-
+### Example sentence
 **As an adjective:**
 - Toonă o-pjo pjonă xiŕa.
 The light here is bright.
@@ -51,23 +48,18 @@ The light here is bright.
 - To hjo pjonă pjoŕů.
 The star shines brightly.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
-[[pjo (noun)|pjo]] (Light) + [[-nă]].
+[[pjo (noun)|pjo]] (Light) + [[09_Adjectives_Forming Adjectives in Asaxi|-nă]].
 Logic: "Light-like." Possessing the essential quality of light.
 
 ### Synonyms
-
 - **[[hjonă (adjective)|hjonă]]** (Bright/Shiny - more focus on "sparkle" or "interest").
 
 ### Root Noun
-
 - [[pjo (noun)|pjo]]
 
 ### Antonyms
-
 - **[[iŕoshů (verb)|iŕoshů]]** (Dimmed / Desaturated - *Participial Adjective usage*).

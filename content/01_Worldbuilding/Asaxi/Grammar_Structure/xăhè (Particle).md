@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">xăhè</span>
 
+<span class="asaxi-script-alpha">xăhè</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle Compound]]

@@ -14,37 +14,40 @@ tags:
 
 <span class="asaxi-script">ŕèzishá</span>
 
+<span class="asaxi-script-alpha">ŕèzishá</span>
 ### Noun class (warm / cold)
 **Warm**
 - Reasoning: Animate reptile.
 
 ### Pronunciation
-
 IPA: /ɾəz̪iʃɑ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Animals]]
 
 ### Translations
-
 - English: lizard, reptile, skink
 - Polish: jaszczurka
 
-### Usage Note (Root Reduction)
-
-Drops **-shá** in derivation.
-* **Root:** **ŕèzi**.
-
 ### Example sentence
-
 **To ŕèzishá go nanů.**
 _The lizard sits on (occupies) the rock._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **ŕèzi** ([Lizzy's Personal Army](https://songs4lizards.bandcamp.com/album/all-lizards-go-to-heaven)) + **[[shá (noun)|shá]]** (Creature).
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **[[ŕèzinů (verb)]]** (To be proud / To prowl).
+
+### Usage Note (Root Reduction)
+Drops **-shá** in derivation.
+* **Root:** **ŕèzi**.

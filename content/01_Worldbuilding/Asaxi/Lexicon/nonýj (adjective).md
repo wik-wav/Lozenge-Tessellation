@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">nonýj</span>
 
+<span class="asaxi-script-alpha">nonýj</span>
 ## Warm/Cold
 
 class:
@@ -24,15 +25,12 @@ other class equivalent:
 - N/A (The concept is inherently inanimate)
 
 ### Pronunciation
-
 IPA: /nonɪꞲ/
 
 ### Semantic Field
-
 [[Smntc_Field Physics]], [[Smntc_Field Materials]]
 
 ### Translations
-
 **As an adjective:**
 - English: material, object-like, physical (tangible), substantive
 - Polish: materialny, przedmiotowy, fizyczny, rzeczowy
@@ -41,8 +39,25 @@ IPA: /nonɪꞲ/
 - English: materially, physically, in an object-like manner
 - Polish: materialnie, fizycznie, przedmiotowo
 
-### Example Sentences
+### Example sentence
+Null
 
+### Alternative Forms
+- **nonă** (Incorrect/Hypercorrection: **no** is a Cold noun, so it takes the **-nýj** suffix).
+
+### Etymology
+Derived from the root noun **[[no (Pronoun)|no]]** (thing) + the cold adjectival suffix **-nýj**.
+
+### Synonyms
+- [[kamm (noun)|kamm (noun)]]  - building (structural - in some contexts)
+
+### Root Noun
+- [[nono (noun)|nono (noun)]]  - thing, object
+
+### Antonyms
+- [[fjonýj (adjective)]] - concept-like
+
+### Example sentences
 **As an adjective:**
 - **Apa nonýj nona xiŕa.**
 	_Apples are material objects._ (referring to physical quality of the things which apples are).*
@@ -56,23 +71,3 @@ IPA: /nonɪꞲ/
 2. Transitive (Object separation)
 	**Xő nona nonýj ůpů.**
 	_He touches things physically_
-
-### Alternative Forms
-
-- **nonă** (Incorrect/Hypercorrection: **no** is a Cold noun, so it takes the **-nýj** suffix).
-
-### Etymology
-
-Derived from the root noun **[[no]]** (thing) + the cold adjectival suffix **-nýj**.
-
-### Synonyms
-
-- [[kamm (noun)|kamm (noun)]]  - building (structural - in some contexts)
-
-### Root Noun
-
-- [[nono (noun)|nono (noun)]]  - thing, object
-
-### Antonyms
-
-- [[fjonýj (adjective)]] - concept-like

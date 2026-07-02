@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">shánă</span>
 
+<span class="asaxi-script-alpha">shánă</span>
 ## Warm/Cold
 
 class:
@@ -22,35 +23,31 @@ animate?
 - yes
 other class equivalent:
 - [[shěsonýj (adjective)]]
-### Pronunciation
 
+### Pronunciation
 IPA: /ʃɑnaɪ/
 
 ### Semantic Field
-
 x
 
 ### Translations
-
 - English: wise, fallible
 - Polish: mądry, zawodny, omylny
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 x
 
 ### Etymology
-
 x
 
 ### Synonyms
-
 x
 
 ### Root Noun
-
 - [[shá (noun)]]
 
 ### Antonyms
-
 x

@@ -13,11 +13,10 @@ tags:
 
 <span class="asaxi-script">pùŕo</span>
 
+<span class="asaxi-script-alpha">pùŕo</span>
 ### Grammatical function
-
 - **Type:** Mathematical Operator
 - **Meaning:** Divided by.
 
 ### Etymology
-
 **[[pù- (Relational Locative Prefix)|pù]]** (Below) + **[[ŕo (root word)|ŕo]]** (Place). _Lit:_ "Lowering places" or "Base places."

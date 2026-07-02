@@ -14,49 +14,39 @@ tags:
 
 <span class="asaxi-script">pxỏpxỏshá</span>
 
+<span class="asaxi-script-alpha">pxỏpxỏshá</span>
 ### Noun class (warm / cold)
-
 Warm
 
 ### Pronunciation
-
 IPA: /pʰou̯pʰou̯ʃɑ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Animals]]
 
 ### Translations
-
 - English: living inflatable, balloon-creature
 - Polish: żywy dmuchaniec, dmuchana istota
 
 ### Plural Form
-
 **pxỏpxỏsháma** (Living inflatables).
 
 ### Example sentence
-
 Lem ni pxỏpxỏshá ůků ken.
 Lem can transform into a living inflatable.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 **[[pxỏpxỏ (verb)|pxỏpxỏ]]** (To blow/puff) + **[[shá (noun)|shá]]** (Creature).
 Logic: "Puff-puff-creature."
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
 x
 
 ### Derived terms
-
 - **[[pxỏpxỏnă (adjective)|pxỏpxỏnă]]** (Fragile / Inflatable-like).

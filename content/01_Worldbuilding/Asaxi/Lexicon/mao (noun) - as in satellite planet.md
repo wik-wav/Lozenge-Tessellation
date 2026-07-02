@@ -14,10 +14,10 @@ tags:
 
 <span class="asaxi-script">mao</span>
 
+<span class="asaxi-script-alpha">mao</span>
 ### Noun class (warm / cold)
 
-cold
-
+**Cold**
 ### Pronunciation
 
 IPA: /ma.o/
@@ -36,8 +36,7 @@ IPA: /ma.o/
 xamao ijo.
 (I) see the moon above.
 
-### Alternative forms
-
+### Alternative Forms
 - må in compound nouns
 
 ### Etymology
@@ -51,11 +50,12 @@ x
 
 ### Antonyms
 
-Null
+- **fůmao** (absence of moon) *(potential)*
 
 ### Derived terms
 
-Null
+- [[omao (noun)|omao]] - tonight
+- [[gamaowo (noun)|gamaowo]] - night sky
 
 ### Dot object!
 

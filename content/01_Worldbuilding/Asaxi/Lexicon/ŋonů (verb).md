@@ -15,37 +15,46 @@ tags:
 
 <span class="asaxi-script">ŋonů</span>
 
+<span class="asaxi-script-alpha">ŋonů</span>
 ### Transitivity / Valency
-
 **Intransitive** (Measure)
 Used with a numeric complement.
 
 ### Lexical Aspect
-
-**State:** Having a specific weight (in kilograms).
-
-### Grammatical Note
-
-Derived from **[[ŋo (Unit Noun)|ŋo]]** (Weight) + **[[06A_-n- (Morphological Infix)|-n-]]** (Function/State) + **-ů**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field The Body]] / Physics
 
 ### Pronunciation
-
 IPA: /ŋonuu̯/
 
 ### Translations
-
 - English: to weigh (in kilograms)
 - Polish: ważyć (w kilogramach)
 
 ### Example sentence
-
 **To wo dasă ŕă ŋonů.**
 _I weigh 105 kilos._
 
-### Derived terms
-
+### Alternative Forms
 Null
+
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Root Noun
+Null
+
+### Derived terms
+- [[xaŋonů (verb)|xaŋonů]] - to weigh (in tonnes)
+
+### Grammatical Note
+Derived from **[[ŋo (Unit Noun)|ŋo]]** (Weight) + **[[06A_-n- (Morphological Infix)|-n-]]** (Function/State) + **-ů**.

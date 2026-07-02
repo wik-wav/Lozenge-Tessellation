@@ -213,4 +213,4 @@ In rare cases, multiple particles may stack to express complex nuances, such as 
 
 - **ná** (Not) + **bă** (Instrumental) + **xiŕa** (Exist) → **nábăŕa**.
 
-> **Yośýstèm yomåsháma nábăŕa.** _"The societal system is not made by humans._
+> **Jośýstèm jomåsháma nábăŕa.** _"The societal system is not made by humans._

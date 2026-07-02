@@ -1,12 +1,12 @@
 ---
-Word (Asaxi): -x-
+Word (Asaxi): -w-
 trnsltion. En: Do X to / Force
 tags:
   - Asaxi
   - language
   - grammar
 aliases:
-  - -x-
+  - -w-
 ---
 # -w- ([[06_Verbs in Asaxi]])
 

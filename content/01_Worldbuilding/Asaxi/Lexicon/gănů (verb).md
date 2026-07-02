@@ -15,43 +15,48 @@ tags:
 
 <span class="asaxi-script">gănů</span>
 
+<span class="asaxi-script-alpha">gănů</span>
 ### Transitivity / Valency
-
 **Intransitive**
 
 ### Lexical Aspect
-
-**Activity:** Ongoing process without a specific destination.
-
-### Grammatical Note
-
-Derived from the Proximal Prefix **[[gă (Proximal Locative Prefix)|gă-]]** (Somewhere/Indefinite) + **-n-** + **[[ů (verb)|ů]]**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]]
 
 ### Pronunciation
-
 IPA: /ɡaɪ.nuu̯/
 
 ### Translations
-
 - English: to wander, to roam, to go somewhere (non-specific), to get lost
 - Polish: błąkać się, wędrować, iść gdzieś
 
-### Usage Note
-
-Distinct from `pănů` (Exit). `gănů` implies movement without a defined target or movement towards an unknown location.
-
 ### Example sentence
-
 **To wo gănů.**
 _I am wandering / I am going somewhere._
 
-### Antonyms
+### Alternative Forms
+Null
 
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Antonyms
 - **[[ni (Relational Particle)|ni]]** + \[Target\] (Going specifically to X).
 
+### Root Noun
+- [[gă (noun)|gă]]
+
 ### Derived terms
-Null
+- **gănůshá** (agent noun) *(potential)*
+
+### Grammatical Note
+Derived from the Proximal Prefix **[[gă (Indefinite Locative Prefix)|gă-]]** (Somewhere/Indefinite) + **-n-** + **[[ů (verb)|ů]]**.
+
+### Usage Note
+Distinct from `pănů` (Exit). `gănů` implies movement without a defined target or movement towards an unknown location.

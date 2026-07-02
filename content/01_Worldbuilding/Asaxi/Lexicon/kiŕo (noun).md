@@ -14,43 +14,35 @@ tags:
 
 <span class="asaxi-script">kiŕo</span>
 
+<span class="asaxi-script-alpha">kiŕo</span>
 ### Noun class (warm / cold)
-
 cold
 
 ### Pronunciation
-
 IPA: /kiɾo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Tools]]
 
 ### Translations
-
 - English: pickaxe
 - Polish: kilof
 
-### Example sentence:
-
+### Example sentence
 x
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 From Pl. kilof - pickaxe
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůkiŕo** (absence of pickaxe) *(potential)*
 
 ### Derived terms
-
 - [[kjèkiŕo (noun)]]
+- [[kiŕonů (verb)|kiŕonů]] - to cut, sever, slice

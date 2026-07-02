@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">alănă</span>
 
+<span class="asaxi-script-alpha">alănă</span>
 ## Warm/Cold
 
 class:
@@ -24,15 +25,12 @@ other class equivalent:
 - (None)
 
 ### Pronunciation
-
 IPA: /alaɪnaɪ/
 
 ### Semantic Field
-
 [[Smntc_Field Physics]] / [[Smntc_Field Creature Descriptors]]
 
 ### Translations
-
 **As an adjective:**
 - English: loose, relaxed, carefree, slack, baggy
 - Polish: luźny, swobodny, beztroski
@@ -41,28 +39,22 @@ IPA: /alaɪnaɪ/
 - English: loosely, freely
 - Polish: luźno, swobodnie
 
-### Example sentence:
-
+### Example sentence
 **As an adjective:**
 - John alănă shá xiŕa.
 John is a loose (carefree) person.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
-[[ală (noun)|ală]] (Looseness) + [[-nă]] (Warm Adjective Suffix).
+[[ală (noun)|ală]] (Looseness) + [[09_Adjectives_Forming Adjectives in Asaxi|-nă]] (Warm Adjective Suffix).
 
 ### Synonyms
-
 - **[[vină (adjective)|vină]]** (Okay/Fine - relaxed state).
 
 ### Root Noun
-
 - [[ală (noun)|ală]]
 
 ### Antonyms
-
 - **[[gonýj (adjective)|gonýj]]** (Hard/Rigid).

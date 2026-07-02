@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nipa</span>
 
+<span class="asaxi-script-alpha">nipa</span>
 ### Grammatical function
 
 - **Type:** Temporal Noun (Locative)

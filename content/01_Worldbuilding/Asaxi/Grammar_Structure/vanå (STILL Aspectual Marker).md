@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">vanå</span>
 
+<span class="asaxi-script-alpha">vanå</span>
 ### Grammatical function
 
 - **Type:** Temporal Particle / Aspectual Marker

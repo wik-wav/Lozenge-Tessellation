@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">vivi</span>
 
+<span class="asaxi-script-alpha">vivi</span>
 ### Noun class (warm / cold)
 
 **Warm**
@@ -32,25 +33,32 @@ IPA: /vivi/
 - English: life, existence (biological), grass (concrete)
 - Polish: życie, trawa
 
-### Usage Note (Metaphor)
-
-In Asaxi, "Grass" and "Life" are the same word. Greenery represents the fundamental force of living.
-
 ### Example sentence
 
 **To vivi gavină xiŕa.**
 _Life is good._])]
 
-### Alternative forms
-
+### Alternative Forms
 - **vi** (Shortened form). Used in rapid speech or poetic meter.
 
 ### Etymology
 
 Related to Latin *vivus* (alive) or *viridi* (green).
 
+### Synonyms
+
+Null
+
+### Antonyms
+
+Null
+
 ### Derived terms
 
 - **[[vivinů (verb)]]** (To live).
 - **[[gavi (noun)|gavi]]** (Green/Goodness).
 - **[[izovivi (Adverb)]]** (With utmost effort).
+
+### Usage Note (Metaphor)
+
+In Asaxi, "Grass" and "Life" are the same word. Greenery represents the fundamental force of living.

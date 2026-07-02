@@ -13,27 +13,24 @@ tags:
 
 <span class="asaxi-script">shě</span>
 
+<span class="asaxi-script-alpha">shě</span>
 ### Grammatical function
-
 Adds the "of or related to books" meaning to nouns it appears in
 
 ### Pronunciation
-
 IPA: /ɹ̠̊ɚ/
 
 ### Alternative Forms
-
 x
 
 ### Antonyms
-
-Null
+- **fůshě** (absence of '"of or related to books"') *(potential)*
 
 ### Derived terms
-
 - [[shějýn (noun)]]
 - [[shěso (noun)]]
 - [[shějýnshá (noun)]]
 - [[shěsokam (noun)]]
 - [[shěsonů (verb)]]
 - [[shěsonýj (adjective)]]
+- [[shěno (noun)|shěno]] - paper

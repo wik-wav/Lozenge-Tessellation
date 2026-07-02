@@ -81,7 +81,7 @@ The Relative Clause can contain its own internal particles (Negative, Tense, Cau
 
 **1. Context: Identifying a specific item.**
 
-> **Onýj \[To John zètopu\] shěso ksi?**
+> **Onýj \[To John zètopù\] shěso ksi?**
 > _"Where is the book **that John dropped**?"_
 
 **2. Context: Conditional Consequence.**

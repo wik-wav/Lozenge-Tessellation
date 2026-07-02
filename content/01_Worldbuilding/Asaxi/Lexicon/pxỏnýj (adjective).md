@@ -14,47 +14,39 @@ tags:
 
 <span class="asaxi-script">pxỏnýj</span>
 
+<span class="asaxi-script-alpha">pxỏnýj</span>
 ## Warm/Cold
 
 class:
 - cold
 
 ### Pronunciation
-
 IPA: /pʰou̯nɪj/
 
 ### Semantic Field
-
 [[Smntc_Field Shapes & Dimensions]]
 
 ### Translations
-
 **As an adjective:**
 - English: round, spherical, ball-shaped
 - Polish: okrągły, kulisty
 
-### Example sentence:
-
+### Example sentence
 **As an adjective:**
 - To apo pxỏnýj xiŕa.
 The apple is round.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
-[[pxỏ (noun)|pxỏ]] (Ball) + [[-nýj]].
+[[pxỏ (noun)|pxỏ]] (Ball) + [[09_Adjectives_Forming Adjectives in Asaxi|-nýj]].
 
 ### Synonyms
-
 x
 
 ### Root Noun
-
 - [[pxỏ (noun)|pxỏ]]
 
 ### Antonyms
-
-- **[[sëonă (adjective)|sëonă]]** (Sharp/Pointed - nail).
+- **[[sëonă (noun)|sëonă]]** (Sharp/Pointed - nail).

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ksi</span>
 
+<span class="asaxi-script-alpha">ksi</span>
 ### Grammatical function
 
 - **Type:** Interrogative Adverb (Spatial)

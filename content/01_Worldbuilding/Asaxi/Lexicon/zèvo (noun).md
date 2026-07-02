@@ -14,37 +14,31 @@ tags:
 
 <span class="asaxi-script">zèvo</span>
 
+<span class="asaxi-script-alpha">zèvo</span>
 ### Noun class (warm / cold)
-
 Cold
 
 ### Pronunciation
-
 IPA: /zəvo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Communication]]
 
 ### Translations
-
 - English: name, title, designation, identifier
 - Polish: imię, nazwa, tytuł
 
 ### Example sentence
-
 To sè no zèvo kjo xiŕa?
 What is your name? (Lit: As for your name, what is it?)
 
 Zèvo tte kjo?
 What (do you call) the name? (What is the name?)
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 [[zè (Tense Prefix)|zè]] (Past) + [[vwo (noun)|vwo]] (Today/Current Identity).
 
 **External Connection:** Sounds similar to Russian "зовут" (*zovut* - "they call") or "завуд".
@@ -52,15 +46,12 @@ x
 Logic: "That which comes from the past." A name is a historical identifier given previously that defines the entity now.
 
 ### Synonyms
-
 - **[[shějýn (noun)|shějýn]]** (Title/Role - distinct from personal name)
 
 ### Antonyms
-
-Null
+- **fůzèvo** (absence of name) *(potential)*
 
 ### Derived terms
-
 - **zèvonů** (verb): To name.
 - **zèvonýj** (adjective): Esteemed.
 - **zèvoshů** (verb): To defame.

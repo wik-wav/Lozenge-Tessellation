@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">gănå</span>
 
+<span class="asaxi-script-alpha">gănå</span>
 ### Grammatical function
 
 - **Type:** Frequency Particle / Adverb
@@ -25,7 +26,7 @@ IPA: /ɡaɪnau̯/
 
 ### Logic & Etymology
 
-**[[gă (Proximal Locative Prefix)|gă]]** (Somewhere/Indefinite) + **[[nå (NOW Aspectual Marker)|nå]]** (Now).
+**[[gă (Indefinite Locative Prefix)|gă]]** (Somewhere/Indefinite) + **[[nå (NOW Aspectual Marker)|nå]]** (Now).
 
 - _Lit:_ "Somewhere-time."
 - _Logic:_ A point in time that exists "somewhere" but is not fixed. Unlike `ågă` (which is a Noun), `gănå` functions as an adverbial particle.

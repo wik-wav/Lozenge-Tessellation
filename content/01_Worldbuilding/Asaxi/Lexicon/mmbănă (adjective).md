@@ -14,21 +14,23 @@ tags:
 
 <span class="asaxi-script">mmbănă</span>
 
-### Grammatical function
+<span class="asaxi-script-alpha">mmbănă</span>
+## Warm/Cold
 
-- **Type:** Qualitative Adjective (`-nă`)
-- **Source Agreement:** **Warm** (Root `mmbă` is Warm).
+class:
+- warm
+animate?
+- 
+other class equivalent:
+-
 
 ### Pronunciation
-
 IPA: /m̩.baɪ.naɪ/
 
 ### Semantic Field
-
 [[Smntc_Field Emotion]]
 
 ### Translations
-
 **As an adjective:**
 - English: happy, joyful, giddy, excited, delighted, cheerful
 - Polish: szczęśliwy, radosny, podekscytowany
@@ -37,8 +39,29 @@ IPA: /m̩.baɪ.naɪ/
 - English: happily, joyfully, with excitement, gleefully
 - Polish: radośnie, wesoło
 
-### Example sentences
+### Example sentence
+Null
 
+### Alternative Forms
+Null
+
+### Etymology
+**[[mmbă (noun)|mmbă]]** (Joy/Butterflies) + **-nă**.
+
+### Synonyms
+Null
+
+### Root Noun
+- [[mmbă (noun)|mmbă]]
+
+### Antonyms
+- **[Sad/Depressed]** (TBD).
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nă`)
+- **Source Agreement:** **Warm** (Root `mmbă` is Warm).
+
+### Example sentences
 **Adjective:**
 **To John mmbănă shá xiŕa.**
 _John is a happy (cheerful) person._
@@ -46,11 +69,3 @@ _John is a happy (cheerful) person._
 **Adverb (Manner):**
 **To wo mmbănă shěsonů.**
 _I read happily (with joy)._
-
-### Etymology
-
-**[[mmbă (noun)|mmbă]]** (Joy/Butterflies) + **-nă**.
-
-### Antonyms
-
-- **[Sad/Depressed]** (TBD).

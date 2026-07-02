@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">o</span>
 
+<span class="asaxi-script-alpha">o</span>
 ### Grammatical function
 
 - **Type:** Tense Modifier Prefix
@@ -28,4 +29,4 @@ Stacks on top of Tense prefixes.
 
 ### Example sentence
 
-**To wo ozètopu.** _I just dropped (it)._
+**To wo ozètopù.** _I just dropped (it)._

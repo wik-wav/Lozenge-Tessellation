@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">na</span>
 
+<span class="asaxi-script-alpha">na</span>
 ### Grammatical function
 
 The pronoun `na` (you (all)) is a third-person plural nominative pronoun.

@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">si</span>
 
+<span class="asaxi-script-alpha">si</span>
 ### Grammatical function
 
 - **Type:** Logical Clause Connector

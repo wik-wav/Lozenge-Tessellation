@@ -14,29 +14,36 @@ tags:
 
 <span class="asaxi-script">kamshárokam</span>
 
+<span class="asaxi-script-alpha">kamshárokam</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
 ### Pronunciation
-
 IPA: /kamʃɑrokam/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The City]] / Fitness
 
 ### Translations
-
 - English: gym, fitness center
 - Polish: siłownia
 
 ### Example sentence
-
 **To wo kamshárokam vanů.**
 _I am in the gym._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[kamshá (noun)|kamshá]]** (Body) + **[[rokam (noun)]]** (Prison).
 *Lit:* "Body-Prison."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null

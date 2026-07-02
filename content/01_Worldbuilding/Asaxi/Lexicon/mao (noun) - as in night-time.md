@@ -14,10 +14,10 @@ tags:
 
 <span class="asaxi-script">mao</span>
 
+<span class="asaxi-script-alpha">mao</span>
 ### Noun class (warm / cold)
 
-cold
-
+**Cold**
 ### Pronunciation
 
 IPA: /ma.o/
@@ -36,8 +36,7 @@ IPA: /ma.o/
 John **bă mao** shěsonů.
 John reads **through** the night.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
@@ -50,11 +49,12 @@ x
 
 ### Antonyms
 
-Null
+- **fůmao** (absence of night-time) *(potential)*
 
 ### Derived terms
 
-Null
+- [[omao (noun)|omao]] - tonight
+- [[gamaowo (noun)|gamaowo]] - night sky
 
 ### Dot object!
 

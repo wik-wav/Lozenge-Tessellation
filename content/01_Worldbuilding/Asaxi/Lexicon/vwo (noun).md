@@ -14,27 +14,34 @@ tags:
 
 <span class="asaxi-script">vwo</span>
 
+<span class="asaxi-script-alpha">vwo</span>
 ### Noun class (warm / cold)
-
 **Cold** (Time unit)
 
 ### Pronunciation
-
 IPA: /vʷo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]]
 
 ### Translations
-
 - English: today
 - Polish: dzisiaj
 
 ### Example sentence
-
 **To wo vwo shěsonů.** _I read today._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[va- (Relational Locative Prefix)|va]]** (Inside) + **[[o (noun)|o]]** (Sky). _Lit:_ "The Sky Inside." (The current sky we are in).
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+- [[pavwo (noun)|pavwo]] - tomorrow, the next day

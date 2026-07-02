@@ -3,6 +3,18 @@
 This is a work in progress note for wik_wav's own benefit. Do not take it as an official part of the Asaxi Language. Any contents herein are subject to change!
 words to add for the conlang sentence list:
 
+## Concepts for words: Formalize these words
+
+#### swëbivimă: the Asaxi writing system; "letters" as in, characters for writing words
+
+etymology:
+swë (from dragon - swëshá) + bi (line) + vimă (the sum of all things accepted)
+- reasoning: 
+	- saying this word aloud feels like writing the letters themselves
+	- Given that they are  an invention of one sole entity, they serve as an abstract representation of what it finds beautiful. They are the sum of all shapes their inventor finds ideal.
+
+- - -
+
 ## Cool sound clusters
 
 These are a selection of cool sounding syllables for which I have as of yet not ascribed any meaning. 

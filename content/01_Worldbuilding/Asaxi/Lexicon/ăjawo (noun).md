@@ -14,33 +14,36 @@ tags:
 
 <span class="asaxi-script">ăjawo</span>
 
+<span class="asaxi-script-alpha">ăjawo</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: Biological sound.
 
 ### Pronunciation
-
 IPA: /aɪjawo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Behaviour]] / Sound
 
 ### Translations
-
 - English: a shout, a scream, a yell, a cry
 - Polish: krzyk, wołanie
 
 ### Example sentence
+**Xa ăjawo zèminů.**
+_They heard a scream._
 
-**To ăjawo dănă xiŕa.**
-_The shout is huge (loud)._
+### Alternative Forms
+Null
 
 ### Etymology
-
 **[[ăja (verb)|ăja]]** (Shout) + **-wo** (Nominal Suffix / or related to `wo` "I" - Individual Shout).
 
-### Derived terms
-
+### Synonyms
 Null
+
+### Antonyms
+Null
+
+### Derived terms
+- **ăjawonă / ăjawonýj** (adjectival forms) *(potential)*

@@ -1,6 +1,6 @@
 ---
 title: båbaŕů (verb) - to gain muscle mass
-Word (Asaxi): båbarů
+Word (Asaxi): båbaŕů
 trnsltion. En: to gain muscle mass
 trnsltion. Pl: nabierać masy mięśniowej
 Transitivity: intransitive
@@ -15,36 +15,45 @@ tags:
 
 <span class="asaxi-script">båbaŕů</span>
 
+<span class="asaxi-script-alpha">båbaŕů</span>
 ### Transitivity / Valency
-
 **Intransitive**
 
 ### Lexical Aspect
-
-**Accomplishment:** The process of growing.
-
-### Grammatical Note
-
-Derived from **[[båbå (noun)|båba]]** (Muscles - Plural) + **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** (Generative) + **-ů**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field The Body]] / Fitness
 
 ### Pronunciation
-
 IPA: /bau̯baɾu̯/
 
 ### Translations
-
 - English: to gain muscle mass, to build muscle, to hypertrophy
 - Polish: nabierać masy mięśniowej
 
 ### Example sentence
-
 **Wo båbaŕů.**
 _I am gaining muscle mass._
 
-### Antonyms
+### Alternative Forms
+Null
 
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Antonyms
 - **[[båbashů (verb)]]**.
+
+### Root Noun
+Null
+
+### Derived terms
+Null
+
+### Grammatical Note
+Derived from **[[båbå (noun)|båba]]** (Muscles - Plural) + **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** (Generative) + **-ů**.

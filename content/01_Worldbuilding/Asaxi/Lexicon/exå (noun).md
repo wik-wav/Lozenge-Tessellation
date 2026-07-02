@@ -14,49 +14,40 @@ tags:
 
 <span class="asaxi-script">exå</span>
 
+<span class="asaxi-script-alpha">exå</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: Facial expression, biological, emotional.
 
 ### Pronunciation
-
 IPA: /eɦau̯/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Emotion]] / [[Smntc_Field Behaviour]]
 
 ### Translations
-
 - English: smile
 - Polish: uśmiech
 
 ### Example sentence
-
 **To wo exå ma.**
 _I have a smile._ (I am smiling).
 
 **To ko exånů.**
 _She smiles._
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Derived from Japanese **笑顔** (*egao* - smiling face).
 *Phonological Shift:* /g/ $\rightarrow$ /ɦ/ (`x`).
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
 - x
 
 ### Derived terms
-
 - **[[exånů (verb)]]** (To smile).

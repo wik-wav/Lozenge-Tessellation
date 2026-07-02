@@ -1,13 +1,14 @@
 ---
-title: mënů (verb) - to take away, to remove
+title: mënů (verb) - to lessen, reduce, diminish
 Word (Asaxi): mënů
-trnsltion. En: to take away, to remove, to deduct, to subtract (from a pile)
-trnsltion. Pl: odejmować, zabierać, usuwać
-Transitivity: transitive
+trnsltion. En: to lessen, reduce, diminish
+trnsltion. Pl: zmniejszać, ujmować
+Transitivity: monotransitive
 tags:
   - Asaxi
   - language
   - verb
+  - vocab_expansion
 ---
 # mënů ([[02_Asaxi Verbs_ů (List)]])
 
@@ -15,41 +16,42 @@ tags:
 
 <span class="asaxi-script">mënů</span>
 
+<span class="asaxi-script-alpha">mënů</span>
 ### Transitivity / Valency
-
-**Transitive**
+_monotransitive_
 
 ### Lexical Aspect
-
-**Activity:** Taking things away.
-
-### Grammatical Note
-
-Derived from **[[më (Mathematical Operator)|më]]** (Minus) + **-n-** + **-ů**.
-* *Logic:* "To perform subtraction" / "To minus."
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
-[[Smntc_Field Existence]] / Possession
+[[Smntc_Field Logic]]
 
 ### Pronunciation
-
-IPA: /meɪnuu̯/
+IPA: /mənɯ/
 
 ### Translations
-
-- English: to take away, to remove, to deduct, to subtract (from a pile)
-- Polish: odejmować, zabierać, usuwać
+- English: to lessen, reduce, diminish
+- Polish: zmniejszać, ujmować
 
 ### Example sentence
+**Zhý săa mënů.**
+_Cold lessens the heat._
 
-**To wo apo mënů.**
-_I take the apple (away)._ (I minus the apple).
+### Alternative Forms
+Null
+
+### Etymology
+Reductive **më-** + **-nů**; the antonym of **[[tănů (verb)|tănů]]** (to add).
+
+### Synonyms
+Null
 
 ### Antonyms
+Null
 
-- **tănů** (To gather / add).
+### Root Noun
+- —
 
 ### Derived terms
-
 Null

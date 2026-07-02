@@ -1,5 +1,5 @@
 ---
-title: 0_Smntc_Field (which?)
+title: Smntc_Field (which?)
 tags:
   - semantic_field
   - language

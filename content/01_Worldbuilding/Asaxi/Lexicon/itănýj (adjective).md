@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">itănýj</span>
 
+<span class="asaxi-script-alpha">itănýj</span>
 ## Warm/Cold
 
 class:
@@ -24,16 +25,13 @@ other class equivalent:
 - (None)
 
 ### Pronunciation
-
 IPA: /itaɪnɪj/
 
 ### Semantic Field
-
 [[Smntc_Field Physics]] 
 [[Smntc_Field Creature Descriptors]]
 
 ### Translations
-
 **As an adjective:**
 - English: tensed up, taut, tight, anxious, stressed, stiff
 - Polish: napięty, spięty, zdenerwowany
@@ -42,28 +40,22 @@ IPA: /itaɪnɪj/
 - English: tensely, stiffly, anxiously
 - Polish: w napięciu, sztywno
 
-### Example sentence:
-
+### Example sentence
 **As an adjective:**
 - Sè wo tëa itănýj ů.
 My hands are tensed up.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
-[[ită (noun)|ită]] (Tension) + [[-nýj]] (Cold Adjective Suffix).
+[[ită (noun)|ită]] (Tension) + [[09_Adjectives_Forming Adjectives in Asaxi|-nýj]] (Cold Adjective Suffix).
 
 ### Synonyms
-
 x
 
 ### Root Noun
-
 - [[ită (noun)|ită]]
 
 ### Antonyms
-
 - **[[alănă (adjective)|alănă]]** (Loose / Relaxed).

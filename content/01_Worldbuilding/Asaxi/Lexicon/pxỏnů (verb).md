@@ -15,54 +15,44 @@ tags:
 
 <span class="asaxi-script">pxỏnů</span>
 
+<span class="asaxi-script-alpha">pxỏnů</span>
 ### Transitivity / Valency
-
 _intransitive verb_
 To move by turning over and over.
 
 ### Lexical Aspect
-
-- **Activity:** The continuous motion of rolling.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Motion]]
 
 ### Pronunciation
-
 IPA: /pʰou̯nuu̯/
 
 ### Translations
-
 - English: to roll, to trundle
 - Polish: toczyć się
 
 ### Example sentence
-
 To pxỏ pxỏnů.
 The ball rolls.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
-[[pxỏ (noun)|pxỏ]] (Ball) + [[-n-]] (Performance) + [[-ů]].
+[[pxỏ (noun)|pxỏ]] (Ball) + [[06A_-n- (Morphological Infix)|-n-]] (Performance) + [[06_Verbs in Asaxi|-ů]].
 Logic: "To do a ball" / "To ball-move."
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
 - **[[aśù (verb)|aśù]]** (To walk - step motion).
 
 ### Root Noun
-
 - [[pxỏ (noun)|pxỏ]]
 
 ### Derived terms
-
-Null
+- **pxỏnůshá** (agent noun) *(potential)*

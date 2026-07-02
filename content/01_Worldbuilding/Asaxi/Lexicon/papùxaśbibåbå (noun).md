@@ -14,22 +14,35 @@ tags:
 
 <span class="asaxi-script">papùxaśbibåbå</span>
 
+<span class="asaxi-script-alpha">papùxaśbibåbå</span>
 ### Noun class (warm / cold)
 **Warm**
 
-### Semantic field
-
-[[Smntc_Field The Body]]
-
 ### Pronunciation
-
 IPA: /papɯɦaɕbibau̯bau̯/
 
-### Translations
+### Semantic Field
+[[Smntc_Field The Body]]
 
+### Translations
 - English: tibialis anterior, shin muscle
 - Polish: mięsień piszczelowy przedni
+
+### Example sentence
+Null
+
+### Alternative Forms
+Null
 
 ### Etymology
 **[[pa- (Relational Locative Prefix)|pa]]** (Front) + **[[pùxaśbi (noun)|pùxaśbi]]** (Lower Leg) + **[[båbå (noun)|båbå]]** (Muscle).
 *Lit:* "Front-LowerLeg-Muscle."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null

@@ -14,34 +14,37 @@ tags:
 
 <span class="asaxi-script">pjovi</span>
 
+<span class="asaxi-script-alpha">pjovi</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: Concentrated energy/light.
 
 ### Pronunciation
-
 IPA: /pʲovi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Tools]] / Physics / Weapons
 
 ### Translations
-
 - English: laser, beam, ray
 - Polish: laser, promień
 
 ### Example sentence
-
 **To pjovi hjonă xiŕa.**
 _The laser is bright._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[pjo (noun)|pjo]]** (Light) + **[[gavi (noun)]]** (Green/Life - Shortened).
 *Lit:* "Green-Light."
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **[[pjovină (adjective)]]** (Laser-like / Unwavering).

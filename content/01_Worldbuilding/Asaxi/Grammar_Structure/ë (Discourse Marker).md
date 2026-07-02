@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ë</span>
 
+<span class="asaxi-script-alpha">ë</span>
 ### Grammatical function
 
 Used when the speaker assumes the listener agrees or knows the fact already. (equivalent to "right?").

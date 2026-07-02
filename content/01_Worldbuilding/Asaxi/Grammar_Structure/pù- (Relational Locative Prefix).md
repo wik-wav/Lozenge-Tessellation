@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">pù-</span>
 
+<span class="asaxi-script-alpha">pù-</span>
 ### Grammatical function
 
 - **Type:** Degree / Comparative Prefix

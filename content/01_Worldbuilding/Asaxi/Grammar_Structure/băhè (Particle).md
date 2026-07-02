@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">băhè</span>
 
+<span class="asaxi-script-alpha">băhè</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle Compound]] (Imperative Prefix)
@@ -49,4 +50,4 @@ A fusion of **[[bă (Relational Particle)|bă]]** (Means/Instrument/Cause) and *
 
 ### Derived terms
 
-Null
+- [[náxăbăhè (particle)|náxăbăhè]] - to explicitly prohibit (its negation)

@@ -1,6 +1,6 @@
 ---
 title: kjèpo (noun) - tree
-Word (Asaxi): kjè
+Word (Asaxi): kjèpo
 trnsltion. En: tree
 trnsltion. Pl: drzewo
 tags:
@@ -14,40 +14,35 @@ tags:
 
 <span class="asaxi-script">kjèpo</span>
 
+<span class="asaxi-script-alpha">kjèpo</span>
 ### Noun class (warm / cold)
-
 warm
 - reasoning: trees are living organisms
 
 ### Pronunciation
-
 IPA: /kʲəpo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Environment]]
 
 ### Translations
-
 - English: tree
 - Polish: drzewo
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 x
 
 ### Etymology
-
 A blend of 木 + [[apo (noun)]]
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůkjèpo** (absence of tree) *(potential)*
 
 ### Derived terms
-
-Null
+- **kjèponă / kjèponýj** (adjectival forms) *(potential)*

@@ -7,6 +7,7 @@ tags:
   - Asaxi
   - language
   - noun
+  - ga-noun
 ---
 # gahji ([[00_Ga-noun Compounds in Asaxi (list)|00_Ga-noun Compounds in Asaxi (list)]])
 
@@ -14,38 +15,37 @@ tags:
 
 <span class="asaxi-script">gahji</span>
 
+<span class="asaxi-script-alpha">gahji</span>
 ### Noun class (warm / cold)
-
 **Cold**
 - Reasoning: Dimensional concept.
 
 ### Pronunciation
-
 IPA: /ɡaçi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]
 
 ### Translations
-
 - English: smallness, minuteness, insignificance, compactness
 - Polish: małość
 
 ### Example sentence
-
 **Toonă gahjigă gavină ůjů.**
 _This small place looks good._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[ga (Fusing Particle)|ga]]** (Type) + **[[hji (noun)|hji]]** (Slightness).
 *Lit:* "Slight-type."
 
-### Antonyms
+### Synonyms
+Null
 
+### Antonyms
 - **[[gadă (noun)|gadă]]** (Immensity / Hugeness).
 
 ### Derived terms
-
-Null
+- **gahjină / gahjinýj** (adjectival forms) *(potential)*

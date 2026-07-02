@@ -19,7 +19,7 @@ Toonă shěsonýj shá shěso shěsonů ő.
 SUBJ DEF.WARM book-ADJ.COLD person book book-EPEN-ACT.BE DM.ASSERT
 "The knowledgeable person is reading a book, I tell you!"
 
-To yomåshá shěsonůná sèwo, xő shěsonýj nèŕa. 
+To jomåshá shěsonůná sèwo, xő shěsonýj nèŕa. 
 SUBJ human read-NEG SINCE, 3SG-M/F wise NEG-EXIST 
 Because the human does not read, they are not wise.
 

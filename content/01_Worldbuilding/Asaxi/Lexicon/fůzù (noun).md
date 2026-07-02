@@ -14,44 +14,35 @@ tags:
 
 <span class="asaxi-script">fůzù</span>
 
+<span class="asaxi-script-alpha">fůzù</span>
 ### Noun class (warm / cold)
-
 Cold
 
 ### Pronunciation
-
 IPA: /fuu̯zɯ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Virtues & Failings]]
 
 ### Translations
-
 - English: lack of skill, incompetence, clumsiness, inability
 - Polish: brak umiejętności, niekompetencja
 
 ### Example sentence
-
 To wo fůzù ůchů.
 I feel incompetence (I feel unskilled).
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 [[fů (root word)|fů]] (Lack/Privative) + [[zù (noun)|zù]] (Skill).
 
 ### Synonyms
-
 - **[[fůŕăijo (noun)|fůŕăijo]]** (Weakness/Powerlessness).
 
 ### Antonyms
-
 - **[[zù (noun)|zù]]** (Skill).
 
 ### Derived terms
-
 - **fůzùnýj** (adjective): Unskilled.

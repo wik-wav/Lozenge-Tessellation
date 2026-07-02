@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">izånixå</span>
 
+<span class="asaxi-script-alpha">izånixå</span>
 ### Grammatical function
 
 - **Type:** Frequency Adverb (Floating)
@@ -26,7 +27,7 @@ Functions as a **Floating Adverb**, typically placed in the **Pre-Verbal** slot.
 
 ### Pronunciation
 
-IPA: /izau̯ɲihau̯/
+IPA: /izau̯ɲiɦau̯/
 
 ### Example sentence
 
@@ -49,4 +50,4 @@ A fusion of **[[izo (Relational Particle)|izo]]** (From) + **[[å (noun)|å]]** 
 
 ### Derived terms
 
-Null
+- [[gănå (SOMETIME Aspectual Marker)|gănå]] - sometime (related)

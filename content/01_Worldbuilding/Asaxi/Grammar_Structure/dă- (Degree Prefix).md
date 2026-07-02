@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">dă-</span>
 
+<span class="asaxi-script-alpha">dă-</span>
 ### Grammatical function
 - **Type:** Augmentative Prefix
 - **Function:** **Magnitude / Volume**

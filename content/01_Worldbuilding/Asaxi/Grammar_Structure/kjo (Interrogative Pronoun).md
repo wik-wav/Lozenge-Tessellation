@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">kjo</span>
 
+<span class="asaxi-script-alpha">kjo</span>
 ### Grammatical function
 
 - **Type:** Interrogative Pronoun (Inanimate)

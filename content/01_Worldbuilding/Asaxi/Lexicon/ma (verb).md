@@ -15,54 +15,54 @@ tags:
 
 <span class="asaxi-script">ma</span>
 
+<span class="asaxi-script-alpha">ma</span>
 ### Transitivity / Valency
-
 _monotransitive verb_ 
 takes two, e.g. _He(1) kicked the ball(2)._
 
-### Lexical Aspect 
-
-- **Activity:** Ongoing process, no defined end (run, swim, push).
-- **State:** Unchanging (know, love, be). 
+### Lexical Aspect
+- **Punctual (Achievement)** — happens in a single moment.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully" · **-ů** "make it ongoing".
 
 ### Grammatical Note
-
-- **[[02_Asaxi Verbs_Root (List)]]:** This belongs to the closed class of primitive verbs. It is a root verb and does not utilize the Universal Verbalizer _-ů_ suffix.
+- **[[02_Asaxi Verbs_Root (List)]]:** This belongs to the closed class of primitive verbs. It is a root verb and may take **-ů** to derive a durative reading, and `na-`/`tå-`/`ni-`/`chå-` for other aspects.
 
 ### Semantic Field
-
-[[Smnt_Field Transfer]]
+[[Smntc_Field Transfer]]
 
 ### Pronunciation
-
 IPA: /ma/
 
 ### Translations
-
 - English: to have, to possess
 - Polish: mieć
 
 ### Example sentence
-
 John gapowapo ma.
 John has a red apple.
 
-### Alternative forms
-
+### Alternative Forms
 - sometimes appears as `må` in compound nouns if before consonants
 
 ### Etymology
-
 Borrowed from Polish "ma" (mieć)
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůma** (to have without its essence (privative)) *(potential)*
 
 ### Derived terms
-
-Null
+- [[mao (noun) - as in night-time|mao]] - night-time
+- [[mao (noun) - as in satellite planet|mao]] - moon
+- [[kma (verb)|kma]] - to hold
+- [[maka (noun)|maka]] - container
+- [[omao (noun)|omao]] - tonight
+- [[tỏma (verb)|tỏma]] - to receive
+- [[ŕima (verb)|ŕima]] - to meditate
+- [[maaśù (verb)|maaśù]] - to carry
+- [[fůcèma (verb)|fůcèma]] - to take for granted
+- [[fůcőma (verb)|fůcőma]] - to have without appreciation
+- [[fůkőma (verb)|fůkőma]] - to take understanding for granted
+- [[maxogă (verb)|maxogă]] - to bring

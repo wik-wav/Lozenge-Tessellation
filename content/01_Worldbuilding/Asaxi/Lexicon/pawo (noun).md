@@ -14,29 +14,36 @@ tags:
 
 <span class="asaxi-script">pawo</span>
 
+<span class="asaxi-script-alpha">pawo</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
 ### Pronunciation
-
 IPA: /pawo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Geography (Topography)]]
 
 ### Translations
-
 - English: the front, the foreground, the lead
 - Polish: przód
 
 ### Example sentence
-
 **To John pawo vanů.**
 _John occupies the front._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[pa- (Relational Locative Prefix)|pa]]** (Front) + **-w-** + **[[o (Proximal Locative Prefix)|o]]** (Here).
 *Lit:* "The Front-Here."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null

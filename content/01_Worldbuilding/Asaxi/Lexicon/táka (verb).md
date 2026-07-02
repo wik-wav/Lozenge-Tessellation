@@ -15,48 +15,50 @@ tags:
 
 <span class="asaxi-script">táka</span>
 
+<span class="asaxi-script-alpha">táka</span>
 ### Transitivity / Valency
-
 **Reciprocal** (Warring with each other) or **Transitive** (Waging war on X).
 
 ### Lexical Aspect
-
-**Activity / State:** A prolonged state of conflict.
+- **State** — an ongoing condition, not an event.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Grammatical Note
-
 **[[02_Asaxi Verbs_Root (List)]]:** Compound root verb.
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]]
 [[Smntc_Field Conflict]]
 
 ### Pronunciation
-
 IPA: /t̪ɑka/
 
 ### Translations
-
 - English: to be at war, to wage war, to battle (large scale)
 - Polish: wojować, toczyć wojnę
 
-### Usage Note
-
-Distinct from **[[tètáka (verb)|tètáka]]** (To fight/brawl).
-* **tètáka:** Personal, physical, involves pain.
-* **táka:** Strategic, large scale, involves factions.
-
 ### Example sentence
-
 **To gaŕa zá păgaŕa táka.**
 _Cities wage war against other cities._
 
-### Etymology
+### Alternative Forms
+Null
 
-**[[tá (root word)|tá]]** (Clash/Opposition) + **-ka** (Exchange).
+### Etymology
+**[[tá (Root Word)|tá]]** (Clash/Opposition) + **-ka** (Exchange).
 *Lit:* "Clash-Exchange."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
 
 ### Derived terms
 - **dătáka** (War - Noun).
 - **tákasi** (Fallout).
+
+### Usage Note
+Distinct from **[[tètáka (verb)|tètáka]]** (To fight/brawl).
+* **tètáka:** Personal, physical, involves pain.
+* **táka:** Strategic, large scale, involves factions.

@@ -15,6 +15,23 @@ Navigation:
  
 - - - 
 
+- [[baxů (verb)]] - to help, to assist
+
+- [[tỏma (verb)]] - to receive, to obtain, to get
+- [[maaśù (verb)]] - to carry
+- [[maxogă (verb)]] - to bring
+- [[daonidao (verb)]] - to trade, to exchange
+- [[kma (verb)]] - to hold, to grip
+- [[gùmë (verb)]] - to grab, to seize, to snatch
+- [[txo (verb)]] - to throw, to cast, to hurl
+- [[dzo' (verb)]] - to break, to snap
+- [[cèdao (verb)]] - to teach
+- [[nicè (verb)]] - to learn, to study
+- [[ŕăaxaśù (verb)]] - to dance
+- [[këjù (verb)]] - to ask
+- [[năjù (verb)]] - to answer, to reply
+- [[dăxijù (verb)]] - to pray, to invoke
+
 Root verbs are verbs not derived from nouns, and as such they don't have the `ů` active verb ending, while still acting as verbs. Because they are not derived from physical objects, they often describe **Achievements**: instantaneous changes of state that have no duration.
 
 This is a list of all [[The Asaxi Language|Asaxi]] root verbs and their meanings.
@@ -75,3 +92,161 @@ This is a list of all [[The Asaxi Language|Asaxi]] root verbs and their meanings
 - [[xova (verb)]] - to insert, to enter (actively), to put in
 - [[xopă (verb)]] - to eject, to extract, to take out, to move out
 - [[xowỏ (verb)]] - to center, to converge, to align to middle
+- [[fůkőma (verb)]] - to take understanding for granted
+- [[xohù (verb)]] - to retreat, to withdraw, to back up, to reverse
+- [[xopù (verb)]] - to move downward, to descend, to sink, to drop (oneself)
+- [[wëè (verb)]] - to require, to need
+- [[xè (verb)]] - to toil, labour, exert oneself
+- [[xo (verb)]] - to move, to go
+- [[fùcù (verb)]] - to clean, wash, cleanse
+- [[ůŕů (verb)]] - to produce, yield, emit, give off
+- [[ůshů (verb)]] - to clear, dig, sweep, work a tool through
+
+- [[txa (verb)]] - to morph, to change state
+
+- [[vůwù (verb)]] - to swim
+- [[ŋawa (verb)]] - to crawl
+- [[kapù (verb)]] - to kick
+- [[sholù (verb)]] - to slide, to slip
+- [[ochi (verb)]] - to sink, to drop (Jp. *ochiru*)
+- [[ŕoŕă (verb)]] - to turn, to rotate
+- [[fŕăfŕă (verb)]] - to spin, to whirl
+- [[kobù (verb)]] - to bend, to curve
+- [[fŕefŕe (verb)]] - to shake, to tremble
+- [[wexe (verb)]] - to wave
+- [[doko (verb)]] - to nod
+- [[kŕopù (verb)]] - to kneel
+- [[xobù (verb)]] - to bow, to stoop
+- [[kŕepù (verb)]] - to stumble, to trip
+- [[kŕaga (verb)]] - to drag, to haul
+- [[kŕama (verb)]] - to march, to tramp
+- [[pỏpù (verb)]] - to hop
+- [[waxa (verb)]] - to sway, to swing
+- [[dopù (verb)]] - to fall (drop down)
+- [[kolù (verb)]] - to limp
+- [[swaa (verb)]] - to glide
+- [[kùpù (verb)]] - to tumble, to topple
+- [[ŕopa (verb)]] - to wade
+- [[vexe (verb)]] - to shiver
+- [[tapù (verb)]] - to take, to grab
+- [[kapa (verb)]] - to catch
+- [[fopù (verb)]] - to drop, to let fall
+- [[pùxa (verb)]] - to push, to shove
+- [[kixa (verb)]] - to pull, to draw
+- [[paka (verb)]] - to hit, to strike
+- [[toko (verb)]] - to knock, to rap
+- [[mùxa (verb)]] - to squeeze, to clench
+- [[pexa (verb)]] - to press, to push down
+- [[saza (verb)]] - to rub, to scrub
+- [[fùsa (verb)]] - to wipe
+- [[kŕasa (verb)]] - to scratch, to scrape
+- [[ŕoka (verb)]] - to twist, to wring
+- [[xaka (verb)]] - to hang, to suspend
+- [[xapo (verb)]] - to lift, to raise
+- [[pùto (verb)]] - to lower, to set down
+- [[ŕopù (verb)]] - to pour
+- [[vata (verb)]] - to fill
+- [[vasha (verb)]] - to empty, to drain
+- [[gùko (verb)]] - to tie, to bind, to knot
+- [[pỏka (verb)]] - to wrap, to bundle
+- [[kùfa (verb)]] - to fold
+- [[capù (verb)]] - to stab, to pierce
+- [[cùxa (verb)]] - to bury, to plant in soil
+- [[taŕa (verb)]] - to listen
+- [[cèka (verb)]] - to remember, to recall
+- [[cèva (verb)]] - to believe, to hold true
+- [[cèpù (verb)]] - to guess, to suppose
+- [[cèxo (verb)]] - to wonder, to ponder
+- [[ijpù (verb)]] - to notice, to spot
+- [[ijcè (verb)]] - to recognise
+- [[ŕimo (verb)]] - to imagine, to envision
+- [[cèxa (verb)]] - to realise, to grasp suddenly
+- [[tăpù (verb)]] - to decide, to resolve
+- [[tăxo (verb)]] - to choose, to pick
+- [[cètá (verb)]] - to judge, to evaluate
+- [[ŕimpù (verb)]] - to plan, to devise
+- [[ănăka (verb)]] - to expect, to await
+- [[ŕimxa (verb)]] - to focus, to concentrate
+- [[ijsha (verb)]] - to ignore, to overlook
+- [[bika (verb)]] - to compare
+- [[cőka (verb)]] - to solve, to work out
+- [[cèwo (verb)]] - to assume, to take as given
+- [[jåka (verb)]] - to intend, to mean to
+- [[ijoŕima (verb)]] - to examine, to study closely
+- [[ijwo (verb)]] - to perceive, to sense
+- [[ijùdao (verb)]] - to tell (say-give)
+- [[ăka (verb)]] - to call, to summon
+- [[sùsù (verb)]] - to whisper
+- [[dåka (verb)]] - to promise, to vow
+- [[táxo (verb)]] - to greet, to hail
+- [[mibo (verb)]] - to thank
+- [[xăja (verb)]] - to warn, to alert
+- [[xùja (verb)]] - to command, to order
+- [[cődao (verb)]] - to explain (understanding-give)
+- [[kxejù (verb)]] - to describe
+- [[ăjdao (verb)]] - to announce, to proclaim
+- [[nása (verb)]] - to refuse, to deny
+- [[tỏva (verb)]] - to accept, to consent
+- [[gavijù (verb)]] - to praise, to commend
+- [[tètájù (verb)]] - to blame, to scold
+- [[axajù (verb)]] - to mock, to ridicule
+- [[jåjù (verb)]] - to beg, to plead
+- [[kůxo (verb)]] - to hate, to loathe
+- [[zhåka (verb)]] - to fear, to dread
+- [[sùka (verb)]] - to like, to be fond of
+- [[itáka (verb)]] - to worry, to fret
+- [[cèkma (verb)]] - to trust, to rely on
+- [[jåxo (verb)]] - to envy, to covet
+- [[mmbja (verb)]] - to admire, to marvel at
+- [[friká (verb)]] - to forgive, to pardon
+- [[xogna (verb)]] - to meet, to encounter
+- [[tamka (verb)]] - to marry, to wed
+- [[baka (verb)]] - to befriend
+- [[nikxa (verb)]] - to betray, to turn on
+- [[xùva (verb)]] - to obey, to heed
+- [[xowa (verb)]] - to lead, to guide
+- [[xèva (verb)]] - to serve, to attend
+- [[tákpa (verb)]] - to attack, to assault
+- [[tákvi (verb)]] - to win, to triumph
+- [[tákshù (verb)]] - to lose, to be defeated
+- [[mwoka (verb)]] - to kill, to slay
+- [[aixa (verb)]] - to hurt, to wound, to harm
+- [[zhåxa (verb)]] - to scare, to frighten
+- [[sùva (verb)]] - to care for, to cherish
+- [[aiva (verb)]] - to pity, to feel for
+- [[nùnù (verb)]] - to sleep, to slumber
+- [[kŕaa (verb)]] - to wake, to awaken
+- [[fwùxa (verb)]] - to breathe
+- [[kŕoma (verb)]] - to bite
+- [[chaja (verb)]] - to chew, to gnaw
+- [[ŋùpù (verb)]] - to swallow, to gulp
+- [[lëŕë (verb)]] - to lick
+- [[mùa (verb)]] - to kiss
+- [[exù (verb)]] - to cry, to weep
+- [[axù (verb)]] - to laugh
+- [[xăpù (verb)]] - to yawn
+- [[kxoko (verb)]] - to cough
+- [[hacù (verb)]] - to sneeze
+- [[mëpù (verb)]] - to blink
+- [[săŕù (verb)]] - to sweat, to perspire
+- [[vivá (verb)]] - to be born
+- [[vivká (verb)]] - to grow, to grow up
+- [[aimù (verb)]] - to die, to perish
+- [[ănù (verb)]] - to rest, to repose
+- [[fŕopù (verb)]] - to faint, to collapse
+- [[tëŕù (verb)]] - to stretch (the body)
+- [[niŕù (verb)]] - to become, to turn into
+- [[nihèka (verb)]] - to begin, to start
+- [[vùŕù (verb)]] - to melt, to liquefy
+- [[shýŕù (verb)]] - to freeze
+- [[ŕăxa (verb)]] - to burn, to be ablaze
+- [[bùbù (verb)]] - to boil, to bubble
+- [[xùsa (verb)]] - to dry, to parch
+- [[ŕoxo (verb)]] - to flow, to stream
+- [[ŕopxa (verb)]] - to splash, to spatter
+- [[jýŋù (verb)]] - to ring, to resound
+- [[jëvù (verb)]] - to sprout, to bud
+- [[ŕovù (verb)]] - to dissolve
+- [[pjova (verb)]] - to glow
+- [[dzopù (verb)]] - to crack, to snap
+- [[ŕăpxa (verb)]] - to explode, to burst

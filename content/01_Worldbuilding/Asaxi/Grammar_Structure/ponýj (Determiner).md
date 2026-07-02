@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ponýj</span>
 
+<span class="asaxi-script-alpha">ponýj</span>
 ### Grammatical function
 
 - **Type:** Determiner (Specific Indefinite)

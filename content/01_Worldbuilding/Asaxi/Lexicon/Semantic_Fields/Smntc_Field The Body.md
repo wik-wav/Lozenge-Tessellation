@@ -62,7 +62,7 @@ Navigation:
 - [[babåbå (noun)]] - obliques
 - [[pùbåbå (noun)]] - glutes
 - [[kamshá (noun)]] - body
-- [[ronů (noun)]] - to lift weights
+- [[ronů (verb)]] - to lift weights
 - [[xèronů (verb)]] - to weight train
 - [[båbaŕů (verb)]] - to gain muscle mass
 - [[båbashů (verb)]] - to lose muscle mass
@@ -93,3 +93,50 @@ Navigation:
 - [[xaŋobwonă (adjective)]] - morbidly obese, dangerously fat, grotesque
 - [[ŋonů (verb)]] - to weigh x kilograms (have a weight of)
 - [[śchinů (verb)]] - to measure (in cm), to be (X cm) tall/long
+- [[baai (noun)]] - the right side (the pain-flank)
+- [[bafwă (noun)]] - the left side (the painless flank)
+- [[ŕochỏŕů (verb)]] - to be thirsty
+- [[chỏŕů (verb)]] - to be hungry
+- [[săaŕů (verb)]] - to radiate heat, to be feverish-hot
+- [[zhýchů (verb)]] - to be cold, to feel the cold
+- [[săachů (verb)]] - to feel hot
+- [[aichů (verb)]] - to be pained by, to feel hurt at
+- [[chi (noun)]] - blood
+- [[kamnawo (noun)]] - skin, hide
+- [[těpỏ (noun)]] - hair
+- [[chỏmihjo (noun)]] - tooth
+- [[bwonă (adjective)]] - curvy (fat), beautiful, voluptuous, healthy-looking
+- [[båbå (noun)]] - muscle
+- [[chỏ (noun)]] - muzzle, maw, hunger
+- [[chỏnů (verb)]] - chomp, cut, eat
+- [[tètá (noun)]] - pain, suffering, hurt, ache
+- [[tëbi (noun)]] - arm
+- [[ỏbåbåŕů (verb)]] - to harden (body)
+
+- [[kogo (noun)]] - knee
+- [[tëŋo (noun)]] - elbow
+- [[paba (noun)]] - lip
+- [[laŕa (noun)]] - tongue
+- [[jëbo (noun)]] - chin
+- [[kege (noun)]] - cheek
+- [[mëfo (noun)]] - forehead
+- [[mëbi (noun)]] - eyebrow
+- [[mobo (noun)]] - heart
+- [[cőno (noun)]] - brain
+- [[fùvù (noun)]] - lung
+- [[chỏbo (noun)]] - stomach (organ)
+- [[baihjo (noun)]] - rib
+- [[chỏŋo (noun)]] - jaw
+- [[tëko (noun)]] - fist
+- [[aśko (noun)]] - heel
+- [[aśŋo (noun)]] - ankle
+- [[tëkù (noun)]] - wrist
+- [[tëva (noun)]] - palm
+- [[pùko (noun)]] - hip
+- [[săfwù (noun)]] - breath (heat-wind)
+- [[săŕo (noun)]] - sweat
+- [[mëŕo (noun)]] - tear
+- [[tësëo (noun)]] - fingernail
+- [[kùso (noun)]] - faeces, dung
+
+- [[ỏbånů (verb)]] - to flex

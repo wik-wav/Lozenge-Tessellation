@@ -61,3 +61,12 @@ Navigation:
 - [[tăbiŕů (verb)]] - to draw, to sketch
 - [[ýhýnă (adjective)]] - quietly (timidly), cowardly, nervously, inconspicuously
 - [[tamỏbwoxatëbibåbå (noun)]] - biceps (brachii), the two-headed muscle
+- [[baxů (verb)]] - to help, to assist
+- [[jýn (noun)]] - talk, chat
+- [[mëjonů (verb)]] - to look, to use one's eyes, to gaze
+- [[nỏcèŕů (verb)]] - to write (notes), to journal, to record, to jot down
+- [[tètáko (noun)]] - a fight
+- [[xè (verb)]] - to toil, labour, exert oneself
+
+- [[pxůmănýj (adjective)]] - disagreeable
+- [[frënů (verb)]] - to act freely

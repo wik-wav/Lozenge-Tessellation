@@ -14,38 +14,42 @@ tags:
 
 <span class="asaxi-script">iŕo</span>
 
+<span class="asaxi-script-alpha">iŕo</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: Colour is light/energy (active physics).
 
 ### Pronunciation
-
 IPA: /iɾo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Colours]] / Physics
 
 ### Translations
-
 - English: colour (light), hue, spectrum
 - Polish: kolor (światło), barwa
 
-### Usage Note
-
-Strictly refers to colour as **projected or reflected light** (e.g., a screen, a star, a prism). For physical paint or dye, use **[[pigùmenn (noun)|pigùmenn]]**.
-
 ### Example sentence
+**Mëjo iŕo ijo.**
+_The eye sees colour._
 
-**Toonă iŕo gavină xiŕa.**
-_The colour (light) is good._
+### Alternative Forms
+Null
 
 ### Etymology
-
 Sound symbolism or related to **[[ijo (verb)|ijo]]** (See). *Lit:* "Visible-quality."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
 
 ### Derived terms
 - **[[iŕoŕů (verb)]]** (To generate colour / shine).
 - **[[iŕoshů (verb)]]** (To desaturate / dim).
 - **[[iŕonů (verb)]]** (To enjoy oneself / "Be colourful").
+- [[găxiŕo (noun)|găxiŕo]] - vibrancy, vividness, intense color, psychedelia
+- [[iŕonă (adjective)|iŕonă]] - colorful, multi-coloured, chromatic, vibrant
+### Usage Note
+Strictly refers to colour as **projected or reflected light** (e.g., a screen, a star, a prism). For physical paint or dye, use **[[pigùmenn (noun)|pigùmenn]]**.

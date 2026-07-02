@@ -14,29 +14,45 @@ tags:
 
 <span class="asaxi-script">shásnýj</span>
 
-### Grammatical function
+<span class="asaxi-script-alpha">shásnýj</span>
+## Warm/Cold
 
-- **Type:** Qualitative Adjective (`-nýj`)
-- **Source Agreement:** **Cold** (Root `shásè` is Cold).
+class:
+- cold
+animate?
+- 
+other class equivalent:
+-
 
 ### Pronunciation
-
 IPA: /ʃɑsnɪj/
 
 ### Semantic Field
-
 [[Smntc_Field Emotion]]
 
 ### Translations
-
 - English: lonely, stuck, trapped, isolated, captive (feeling)
 - Polish: samotny, uwięziony
 
 ### Example sentence
-
 **To wo shásnýj ůchů.**
 _I feel lonely/trapped._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[shásè (noun)|shás(è)]]** (Imprisonment) + **-nýj**.
+
+### Synonyms
+Null
+
+### Root Noun
+Null
+
+### Antonyms
+Null
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nýj`)
+- **Source Agreement:** **Cold** (Root `shásè` is Cold).

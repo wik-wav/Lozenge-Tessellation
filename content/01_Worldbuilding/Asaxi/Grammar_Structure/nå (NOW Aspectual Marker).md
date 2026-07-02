@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">nå</span>
 
+<span class="asaxi-script-alpha">nå</span>
 ### Grammatical function
 
 - **Type:** Temporal Particle / Adverb
@@ -52,5 +53,5 @@ IPA: /nau̯/ (Based on `å` = /au̯/)
 
 ### Derived terms
 
-- **[[panå (Particle)|panå]]** (Not yet / Front-now).
+- **[[panå (NOT YET Aspectual Marker)|panå]]** (Not yet / Front-now).
 - **[[ninå (THEREFORE Logical Clause Connector)|ninå]]** (Therefore / To-now).

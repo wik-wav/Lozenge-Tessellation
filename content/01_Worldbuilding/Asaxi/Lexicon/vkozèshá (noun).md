@@ -1,0 +1,49 @@
+---
+title: vkozèshá (noun) - elder, grandparent, person of the old days
+Word (Asaxi): vkozèshá
+trnsltion. En: elder, grandparent, person of the old days
+trnsltion. Pl: starszy; dziadek, babcia
+tags:
+  - Asaxi
+  - language
+  - noun
+  - vocab_expansion
+---
+# vkozèshá ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">vkozèshá</span>
+
+<span class="asaxi-script-alpha">vkozèshá</span>
+### Noun class (warm / cold)
+**Warm**
+
+### Pronunciation
+IPA: /fkozəʃɑ/
+
+### Semantic Field
+[[Smntc_Field Family]]
+
+### Translations
+- English: elder, grandparent, person of the old days
+- Polish: starszy; dziadek, babcia
+
+### Example sentence
+**To xő vkozèshá xiŕa.**
+_He is an elder._
+
+### Alternative Forms
+Null
+
+### Etymology
+**[[vkozè (Temporal Noun)|vkozè]]** (the distant past) + **-shá** (person, [[47_Morphological Reduction (Class Suffixes)]]) — „person of the distant past”.
+
+### Synonyms
+- [[vkozè (Temporal Noun)|vkozè]] (related: the distant past)
+
+### Antonyms
+- [[hjá (noun) - as in child|hjá]] (the young)
+
+### Derived terms
+- **vkozèshánă** (elderly, venerable) *(potential)*

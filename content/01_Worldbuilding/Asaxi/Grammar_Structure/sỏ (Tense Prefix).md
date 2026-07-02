@@ -13,7 +13,7 @@ tags:
 
 <span class="asaxi-script">sỏ</span>
 
-
+<span class="asaxi-script-alpha">sỏ</span>
 Alternate form of `zè`. See [[zè (Tense Prefix)]]
 
 **Example:** **To wo sỏshěsonů.** 

@@ -5,7 +5,7 @@ trnsltion. En: number
 tags:
   - Asaxi
   - language
-  - grammar
+  - noun
 ---
 # sigo ([[01_Asaxi Nouns (List)]])
 
@@ -13,45 +13,37 @@ tags:
 
 <span class="asaxi-script">sigo</span>
 
+<span class="asaxi-script-alpha">sigo</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
 - Reasoning: Abstract mathematical concept.
 
 ### Pronunciation
-
 IPA: /ɕiɡo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Numerals]]
 
 ### Translations
-
 - English: number, digit, figure
 - Polish: liczba, cyfra, numer
 
 ### Example sentence
-
 **To wo sigo dzeŕo ijo.** "I see number zero"
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 **[[gasi (noun)|si]]** (White) + **go** (Number - from Japanese 号 _gō_). _Lit:_ "White number""
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůsigo** (absence of number) *(potential)*
 
 ### Derived terms
-
-Null
+- [[sigonů (verb)|sigonů]] (to count, to tally)
+- **sigonă / sigonýj** (adjectival forms) *(potential)*

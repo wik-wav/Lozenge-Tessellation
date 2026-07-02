@@ -45,7 +45,7 @@ While normally used as Clause Connectors (appearing _between_ clauses), the logi
 
 - **ox** ("Oh!")
     - _Meaning:_ Emotional emphasis, longing, realization (Similar to Polish _och_).
-    - _Pronunciation:_ /oh/ (or /oɦ/)
+    - _Pronunciation:_ /oɦ/ (or /oɦ/)
     - _Example:_ **Ox, to wo no jåijo måmåni onå.** ()"Oh, how I want to see you forever.")
 
 ---
@@ -72,7 +72,7 @@ Grammatically optional, but pragmatically vital. A sentence without a marker fee
     - **[[jỏ (Discourse Marker)|jỏ]]** ("Yo" / "Hey").
     - _Function:_ Casual punctuation, calling attention, or adding a "street" vibe. Similar to English "Yo."
     - _Pronunciation:_ /jou̯/
-    - _Ex:_ **Shěsonů yỏ.** ("Reading, yo.")
+    - _Ex:_ **Shěsonů jỏ.** ("Reading, yo.")
 - **Skepticism / Challenge ("Is that so?"):**
     - **[[e (Discourse Marker)|e]]** (after Consonant) / **me** (after Vowel).
     - _Ex:_ `John shánă ů e?` ("John is being fallible, is he?").

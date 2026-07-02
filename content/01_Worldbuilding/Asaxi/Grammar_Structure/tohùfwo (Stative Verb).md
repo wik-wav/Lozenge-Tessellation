@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">tohùfwo</span>
 
+<span class="asaxi-script-alpha">tohùfwo</span>
 ### Grammatical function
 
 - **Type:** Epistemic Marker / Sentence Final Compound
@@ -22,7 +23,7 @@ tags:
 
 ### Pronunciation
 
-IPA: /t̪oxuu̯fʷo/
+IPA: /t̪oxɯfʷo/
 
 ### Semantic field
 

@@ -14,42 +14,39 @@ tags:
 
 <span class="asaxi-script">dăo</span>
 
+<span class="asaxi-script-alpha">dăo</span>
 ### Noun class (warm / cold)
-
 warm 
 - reasoning: (the sky radiates heat)
 
 ### Pronunciation
-
 IPA: /daɪ.o/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Weather & Climate]]
 
 ### Translations
-
 - English: aether, sky, azure
 - Polish: nieboskłon, firmament, niebo (sjp: pozorne sklepienie Ziemi) - tylko dosłownie
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 x
 
 ### Etymology
-
 great king 大王
 blue is the colour of kings (Błękitna krew)
 big blue
 dai ou
-### Synonyms
 
+### Synonyms
 [[o (noun)]]
 
 ### Antonyms
-
-Null
+- **fůdăo** (absence of aether) *(potential)*
 
 ### Derived terms
-
-Null
+- [[dăofwo (noun)|dăofwo]] - cloud
+- [[dăotamo (noun)|dăotamo]] - horizon

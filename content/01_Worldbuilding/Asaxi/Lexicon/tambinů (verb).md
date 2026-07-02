@@ -15,15 +15,13 @@ tags:
 
 <span class="asaxi-script">tambinů</span>
 
+<span class="asaxi-script-alpha">tambinů</span>
 ### Transitivity / Valency
 **Transitive** (Matching something) or **Reciprocal** (Matching each other).
 
 ### Lexical Aspect
-**State:** Being equal.
-
-### Grammatical Note
-Derived from **[[tambi (Mathematical Operator)|tambi]]** (Equals) + **-n-** + **-ů**.
-* *Logic:* "To perform equality" / "To equal."
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
 [[Smntc_Field Behaviour]] / Agreement
@@ -35,9 +33,6 @@ IPA: /t̪ambinuu̯/
 - English: to agree, to match, to balance, to be equal to
 - Polish: zgadzać się, pasować, równać się
 
-### Usage Note
-Used for settling debts ("We are equal") or reaching an agreement ("Our minds equal").
-
 ### Example sentence
 **To wo no tambinů.**
 _I agree with you._ / _I match you._ (Lit: I equal you).
@@ -45,8 +40,27 @@ _I agree with you._ / _I match you._ (Lit: I equal you).
 **To wa tambinů.**
 _We are even._
 
+### Alternative Forms
+Null
+
+### Etymology
+Null
+
+### Synonyms
+Null
+
 ### Antonyms
 - **[Differ/Clash]** (TBD).
 
-### Derived terms
+### Root Noun
 Null
+
+### Derived terms
+- **tambinůshá** (agent noun) *(potential)*
+
+### Grammatical Note
+Derived from **[[tambi (Mathematical Operator)|tambi]]** (Equals) + **-n-** + **-ů**.
+* *Logic:* "To perform equality" / "To equal."
+
+### Usage Note
+Used for settling debts ("We are equal") or reaching an agreement ("Our minds equal").

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">vozè</span>
 
+<span class="asaxi-script-alpha">vozè</span>
 ### Grammatical function
 
 - **Type:** Temporal Noun (Locative)

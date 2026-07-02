@@ -14,33 +14,41 @@ tags:
 
 <span class="asaxi-script">tëbi</span>
 
+<span class="asaxi-script-alpha">tëbi</span>
 ### Noun class (warm / cold)
-
 **Warm** (Compound)
 
 ### Pronunciation
-
 IPA: /t̪eɪbi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: arm, upper limb
 - Polish: ramię, ręka (cała)
 
 ### Example sentence
+**Bă tëbi hjá maaśù.**
+_I carry the child in my arms._
 
-**To tëbi dănă xiŕa.**
-_(His) arm is huge._
+### Alternative Forms
+Null
 
 ### Etymology
-
 **[[të (noun)|të]]** (Hand) + **[[bi (noun)|bi]]** (Line).
 *Lit:* "The hand-line." (The extension leading to the hand).
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **tëbibåbå** (Arm muscle).
+- [[tëbipỏ (noun)|tëbipỏ]] - sleeve
+- [[tëbipỏno (noun)|tëbipỏno]] - arm warmer
+- [[hjitëbi (noun)|hjitëbi]] - finger
+- [[pùtëbi (noun)|pùtëbi]] - forearm
+- [[xatëbi (noun)|xatëbi]] - shoulder

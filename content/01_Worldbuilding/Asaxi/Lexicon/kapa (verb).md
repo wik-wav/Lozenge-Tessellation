@@ -1,0 +1,57 @@
+---
+title: kapa (verb) - to catch
+Word (Asaxi): kapa
+trnsltion. En: to catch
+trnsltion. Pl: łapać
+Transitivity: monotransitive
+tags:
+  - Asaxi
+  - language
+  - verb
+  - vocab_expansion
+---
+# kapa ([[02_Asaxi Verbs_Root (List)]])
+
+- - -
+
+<span class="asaxi-script">kapa</span>
+
+<span class="asaxi-script-alpha">kapa</span>
+### Transitivity / Valency
+_monotransitive_
+
+### Lexical Aspect
+- **Punctual (Achievement)** — happens in a single moment.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully" · **-ů** "make it ongoing".
+
+### Grammatical Note
+- **[[02_Asaxi Verbs_Root (List)]]:** Root verb — may take **-ů** to derive a durative reading, and `na-`/`tå-`/`ni-`/`chå-` for other aspects.
+
+### Semantic Field
+[[Smntc_Field Manipulation]]
+
+### Pronunciation
+IPA: /kapa/
+
+### Translations
+- English: to catch
+- Polish: łapać
+
+### Example sentence
+**Wo pxỏ kapa.**
+_I catch the ball._
+
+### Alternative Forms
+Null
+
+### Etymology
+Native root verb, coined for this action.
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null

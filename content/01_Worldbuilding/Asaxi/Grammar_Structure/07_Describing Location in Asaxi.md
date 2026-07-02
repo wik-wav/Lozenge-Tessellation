@@ -31,10 +31,10 @@ This system distinguishes three degrees of distance (spatial deixis):
 | Prefix                                        | Concept             | Definition                                    |
 | --------------------------------------------- | ------------------- | --------------------------------------------- |
 | **[[o (Proximal Locative Prefix)\|o]]-**      | Proximal            | Immediate vicinity ("Here").                  |
-| **[[no (Proximal Locative Prefix)\|no]]-**    | Medial              | Middle distance / Near listener ("There").    |
-| **[[ko (Proximal Locative Prefix)\|ko]]-**    | Distal              | Far distance ("Yonder").                      |
-| **[[gă (Proximal Locative Prefix)\|gă]]-**    | Locative Indefinite | Unspecified location ("Somewhere/Missing").   |
-| **[[ono  (Proximal Locative Prefix)\|ono]]-** | Attainable          | A specific place ("not here but accessible"). |
+| **[[no (Medial Locative Prefix)\|no]]-**    | Medial              | Middle distance / Near listener ("There").    |
+| **[[ko (Distal Locative Prefix)\|ko]]-**    | Distal              | Far distance ("Yonder").                      |
+| **[[gă (Indefinite Locative Prefix)\|gă]]-**    | Locative Indefinite | Unspecified location ("Somewhere/Missing").   |
+| **[[ono (Attainable Locative Prefix)\|ono]]-** | Attainable          | A specific place ("not here but accessible"). |
 
 ## Rules
 
@@ -299,12 +299,12 @@ _Lit. The table "flanks" the book._
 ### Note on usage: Physicality constraint
 
 The Spacial Prefixes as well as verbs derived from them are only ever used to describe physical locations. They will not, for example, be used to say "Humans live in a society". 
-- incorrect: yomåshá yośýstèm vanů.
+- incorrect: jomåshá jośýstèm vanů.
 	Lit. Humans are inside a societal system. (Like, trapped inside a physical system?! Oh no...)
 - correct: 
-  1. To Yomåsháwa sèyośýstèm sháwa xiŕa.
+  1. To Jomåsháwa sèjośýstèm sháwa xiŕa.
      Lit. Humans are creatures belonging to a societal system.
-  2. To Yo băyomåshá śýstèm xiŕa.
+  2. To Jo băjomåshá śýstèm xiŕa.
      Society is a man-made system.
 
 For occupying in an abstract sense (Eg. being in a system, story, movie, dream etc.), use the appropriate NPCP. (See  [[15_NPCP and The Agglutinative Block]] for more information.)

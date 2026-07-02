@@ -14,17 +14,15 @@ tags:
 
 <span class="asaxi-script">jåhjo</span>
 
+<span class="asaxi-script-alpha">jåhjo</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: An active goal or desire; heat of the star.
 
 ### Pronunciation
-
 IPA: /Ʝau̯ço/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Motion]] / [[Smntc_Field Emotion]]
 
 ### Translations
@@ -32,7 +30,6 @@ IPA: /Ʝau̯ço/
 - Polish: cel, przeznaczenie (miejsce)
 
 ### Example sentence
-
 **To wo jåhjo xogă.**
 _I reach the destination._
 
@@ -40,10 +37,18 @@ _I reach the destination._
 **No sè wo jåhjo jo.** 
 _You are my guiding star._ (Lit: You \[are\] my want-star.)
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[jå (verb)|jå]]** (Want/Desire) + **[[hjo (noun)|hjo]]** (Star).
 *Lit:* "Want-Star" or "The star one desires/follows." (North Star metaphor).
 
-### Derived terms
+### Synonyms
 Null
+
+### Antonyms
+Null
+
+### Derived terms
+- [[fůjåhjo (noun)|fůjåhjo]] - deceptive aim

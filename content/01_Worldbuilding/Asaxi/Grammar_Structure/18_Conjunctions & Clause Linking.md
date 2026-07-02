@@ -149,7 +149,7 @@ The standard conditional particle **chě** can be modified by suffixes to alter 
 
 **2. Negative Conditional (`chěná`)**
 
-> **John chỏnů chěná, xő gadă panèniŕa.** 
+> **John chỏnů chěná, xő gadă panániŕa.** 
 > `John` `eat` `UNLESS`, `he` `immensity` `FUT-NEG-destined-for` _
 > "Unless John eats, he will not become immense/giant._
 

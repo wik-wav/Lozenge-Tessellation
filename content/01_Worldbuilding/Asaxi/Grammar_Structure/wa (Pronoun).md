@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">wa</span>
 
+<span class="asaxi-script-alpha">wa</span>
 ### Grammatical function
 
 The pronoun `wa` (we) is a third-person plural nominative pronoun.

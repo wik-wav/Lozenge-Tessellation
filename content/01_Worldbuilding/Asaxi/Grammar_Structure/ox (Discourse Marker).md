@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ox</span>
 
+<span class="asaxi-script-alpha">ox</span>
 ### Grammatical function
 
 - **Type:** Pre-Clausal Discourse Marker
@@ -25,7 +26,7 @@ Placed at the **start** of the sentence.
 
 ### Pronunciation
 
-IPA: /oh/ (or /oɦ/)
+IPA: /oɦ/ (or /oɦ/)
 
 *Note:* The final consonant is a soft glottal or voiced glottal fricative, representing a breathy sigh.
 
@@ -45,4 +46,4 @@ Borrowed from Polish **"Och"** or general universal sound symbolism for sighing.
 
 ### Derived terms
 
-Null
+- [[wå (Discourse Marker)|wå]] - awe (fellow exclamation)

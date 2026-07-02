@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">wë</span>
 
+<span class="asaxi-script-alpha">wë</span>
 ### Grammatical function
 
 - **Type:** Mood Particle (Sentence Final)

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">tonåjů</span>
 
+<span class="asaxi-script-alpha">tonåjů</span>
 ### Grammatical function
 
 - **Type:** Epistemic Marker / Sentence Final Compound

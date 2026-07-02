@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">toůchů</span>
 
+<span class="asaxi-script-alpha">toůchů</span>
 ### Grammatical function
 
 - **Type:** Epistemic Auxiliary / Stative Compound
@@ -51,8 +52,8 @@ IPA: /touu̯t͡ʃu/
 
 ### Antonyms
 
-Null
+- [[toxăhè (Stative Verb)|toxăhè]] - subjective certainty
 
 ### Derived terms
 
-Null
+- to-predicate family: [[tohùfwo (Stative Verb)|tohùfwo]] (doubt), [[tonåjů (Stative Verb)|tonåjů]], [[toxăhè (Stative Verb)|toxăhè]] (certainty)

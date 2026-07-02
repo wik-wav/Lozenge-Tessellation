@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">sháŕo ma</span>
 
+<span class="asaxi-script-alpha">sháŕo ma</span>
 ### Grammatical function
 
 - **Type:** Verbal Idiom

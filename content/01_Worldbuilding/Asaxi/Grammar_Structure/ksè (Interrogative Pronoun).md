@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ksè</span>
 
+<span class="asaxi-script-alpha">ksè</span>
 ### Grammatical function
 
 - **Type:** Interrogative Adverb (Causal)

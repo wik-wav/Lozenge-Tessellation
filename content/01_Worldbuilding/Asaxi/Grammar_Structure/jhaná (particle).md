@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">jhaná</span>
 
+<span class="asaxi-script-alpha">jhaná</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|Connective Particle]] (Coordinator)

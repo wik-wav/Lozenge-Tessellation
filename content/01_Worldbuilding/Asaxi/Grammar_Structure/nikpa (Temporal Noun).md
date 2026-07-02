@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nikpa</span>
 
+<span class="asaxi-script-alpha">nikpa</span>
 ### Grammatical function
 
 - **Type:** Temporal Noun (Locative)

@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">o</span>
 
+<span class="asaxi-script-alpha">o</span>
 ### Grammatical function
 
 - **Type:** Proximal Demonstrative Adverb / Prefix

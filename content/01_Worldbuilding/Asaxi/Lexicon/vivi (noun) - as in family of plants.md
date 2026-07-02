@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">vivi</span>
 
+<span class="asaxi-script-alpha">vivi</span>
 ### Noun class (warm / cold)
 
 **Warm**
@@ -38,8 +39,7 @@ Vivi gavi xiŕa. _Grass is green.
 
 John navivi aśù. _John is walking on grass._ (Lit: John walks the on-grass).
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
@@ -52,8 +52,9 @@ x
 
 ### Antonyms
 
-Null
+- **fůvivi** (absence of grass) *(potential)*
 
 ### Derived terms
 
 [[gavi (noun)]] (Green)
+- [[viŕo (noun)|viŕo]] - field

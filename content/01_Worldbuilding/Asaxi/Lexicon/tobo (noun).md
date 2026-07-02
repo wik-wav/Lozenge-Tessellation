@@ -14,40 +14,36 @@ tags:
 
 <span class="asaxi-script">tobo</span>
 
+<span class="asaxi-script-alpha">tobo</span>
 ### Noun class (warm / cold)
-
 cold
 
 ### Pronunciation
-
 IPA: /tobo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Housing & Shelter]]
 
 ### Translations
-
 - English: table
 - Polish: stół
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 x
 
 ### Etymology
-
 - **English:** **T**-a-**b**-l-e
 - **Russian/Polish:** S-**t**-**o**-l / S-t-ó-ł
 - \-o (slavic neuter suffix) = **Tobo**.
-### Synonyms
 
+### Synonyms
 x
 
 ### Antonyms
-
-Null
+- **fůtobo** (absence of table) *(potential)*
 
 ### Derived terms
-
-Null
+- **tobonă / tobonýj** (adjectival forms) *(potential)*

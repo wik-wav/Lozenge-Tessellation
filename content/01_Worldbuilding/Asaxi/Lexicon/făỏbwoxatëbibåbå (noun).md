@@ -14,32 +14,38 @@ tags:
 
 <span class="asaxi-script">făỏbwoxatëbibåbå</span>
 
+<span class="asaxi-script-alpha">făỏbwoxatëbibåbå</span>
 ### Noun class (warm / cold)
-
 **Warm**
 
 ### Pronunciation
-
 IPA: /faɪou̯bwoɦat̪eɪbibau̯bau̯/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: deltoids, shoulder muscles
 - Polish: mięśnie naramienne
 
-### Usage Note
-
-Often shortened to **făỏbwoxatëbi** ("The Three-Belly-Shoulder").
-
 ### Example sentence
-
 **To John făỏbwoxatëbibåba dănă ůjů.**
 _John's shoulder muscles look huge._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[fă (Number)|fă]]** (3) + **[[ỏbwo (noun)|ỏbwo]]** (Belly) + **[[xatëbi (noun)|xatëbi]]** (Shoulder) + **[[båbå (noun)|båbå]]** (Muscle).
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null
+
+### Usage Note
+Often shortened to **făỏbwoxatëbi** ("The Three-Belly-Shoulder").

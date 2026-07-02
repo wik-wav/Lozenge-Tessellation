@@ -123,7 +123,7 @@ Navigation:
 
 ## B1-B2 (intermediate)
 
-- [[Smnt_Field Professions & Occupations]]: 
+- [[Smntc_Field Professions & Occupations]]: 
 	- manual labor, 
 	- white-collar, 
 	- emergency services, 

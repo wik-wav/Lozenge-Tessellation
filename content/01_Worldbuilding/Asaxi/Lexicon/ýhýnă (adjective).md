@@ -6,7 +6,7 @@ trnsltion. Pl: mysi, malutki, płochliwy
 tags:
   - Asaxi
   - language
-  - noun
+  - adjective
 ---
 # ýhýnă ([[03_Asaxi Adjectives (List)]])
 
@@ -14,21 +14,23 @@ tags:
 
 <span class="asaxi-script">ýhýnă</span>
 
-### Grammatical function
+<span class="asaxi-script-alpha">ýhýnă</span>
+## Warm/Cold
 
-- **Type:** Qualitative Adjective (`-nă`)
-- **Source Agreement:** **Warm** (Root `ýhýshá` is Warm).
+class:
+- warm
+animate?
+- 
+other class equivalent:
+- 
 
 ### Pronunciation
-
 IPA: /ɪxɪnaɪ/
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]] / [[Smntc_Field Shapes & Dimensions]]
 
 ### Translations
-
 **As an adjective:**
 - English: mouse-like, tiny (cute/fragile), jittery, timid
 - Polish: mysi, malutki, płochliwy
@@ -37,11 +39,35 @@ IPA: /ɪxɪnaɪ/
 - English: quietly (timidly), cowardly, nervously, inconspicuously
 - Polish: cicho (nieśmiało), tchórzliwie
 
+### Example sentence
+Null
+
+### Alternative Forms
+Null
+
+### Etymology
+**ýhý** (Root of `ýhýshá` / Squeak) + **-nă**.
+
+### Synonyms
+- **[[hjinýj (adjective)|hjinýj]]** (Small - Abstract).
+
+### Root Noun
+Null
+
+### Antonyms
+- **[[ŕăijonă (adjective)|ŕăijonă]]** (Brave / Powerful).
+
+### Derived terms
+Null
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nă`)
+- **Source Agreement:** **Warm** (Root `ýhýshá` is Warm).
+
 ### Usage Note
 Derives directly from the root **ýhý** (the quality of the mouse), omitting the `shá` suffix for flow, similar to `ŕănabină` (Fast).
 
 ### Example sentences
-
 **Adjective:**
 **To John ýhýnă shá xiŕa.**
 _John is a cowardly (mouse-like) person._
@@ -49,15 +75,3 @@ _John is a cowardly (mouse-like) person._
 **Adverb (Manner):**
 **To wo ýhýnă aśù.**
 _I walk nervously/quietly (scurring)._
-
-### Etymology
-
-**ýhý** (Root of `ýhýshá` / Squeak) + **-nă**.
-
-### Synonyms
-
-- **[[hjinýj (adjective)|hjinýj]]** (Small - Abstract).
-
-### Antonyms
-
-- **[[ŕăijonă (adjective)|ŕăijonă]]** (Brave / Powerful).

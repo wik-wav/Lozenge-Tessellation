@@ -14,33 +14,45 @@ tags:
 
 <span class="asaxi-script">găxănă</span>
 
-### Grammatical function
+<span class="asaxi-script-alpha">găxănă</span>
+## Warm/Cold
 
-- **Type:** Qualitative Adjective (`-nă`)
-- **Source Agreement:** **Warm** (Root `găxă` is Warm).
+class:
+- warm
+animate?
+- 
+other class equivalent:
+-
 
 ### Pronunciation
-
 IPA: /ɡaɪɦaɪnaɪ/
 
 ### Semantic Field
-
 [[Smntc_Field Shapes & Dimensions]]
 
 ### Translations
-
 - English: infinite, endless, boundless
 - Polish: nieskończony
 
 ### Example sentence
-
 **To siŕo găxănă xiŕa.**
 _The Void is infinite._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[găxă (noun)|găxă]]** (Infinity) + **-nă**.
 
-### Antonyms
+### Synonyms
+Null
 
+### Root Noun
+- [[găxă (noun)|găxă]]
+
+### Antonyms
 - **tamonýj (adjective)** (Limited / Finite - derived from `tamo` Cold).
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nă`)
+- **Source Agreement:** **Warm** (Root `găxă` is Warm).

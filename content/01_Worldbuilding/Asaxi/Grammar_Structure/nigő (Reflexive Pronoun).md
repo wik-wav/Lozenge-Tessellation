@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nigő</span>
 
+<span class="asaxi-script-alpha">nigő</span>
 ### Grammatical function
 
 - **Type:** Reflexive Pronoun

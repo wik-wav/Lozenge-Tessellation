@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">náxăxăŕa</span>
 
+<span class="asaxi-script-alpha">náxăxăŕa</span>
 ### Grammatical function
 
 - **Type:** Stative Validity Verb (Negative) / Hypothetical Copula

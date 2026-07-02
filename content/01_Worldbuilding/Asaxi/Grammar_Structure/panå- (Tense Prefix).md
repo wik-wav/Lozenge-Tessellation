@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">panå-</span>
 
+<span class="asaxi-script-alpha">panå-</span>
 ### Grammatical function
 
 - **Type:** Tense & Aspect Prefix
@@ -23,7 +24,7 @@ tags:
 
 Indicates that the subject is immediately changing their course of action or plan.
 * **Structure:** `panå-[Verb]`.
-* **Distinction:** Distinct from the sentence-final particle **[[panå (Particle)|...panå]]** ("Not yet").
+* **Distinction:** Distinct from the sentence-final particle **[[panå (NOT YET Aspectual Marker)|...panå]]** ("Not yet").
 
 ### Pronunciation
 
@@ -44,4 +45,6 @@ _I will read now (instead of what I was doing)._
 - **[[opa- (Tense Prefix)|opa-]]** (Immediate Future - "About to", but less emphasis on *switching*).
 
 ### Derived terms
-Null
+
+- [[panå (NOT YET Aspectual Marker)|panå]] - homophonous aspectual marker
+- [[o (Tense Prefix)|o-]] - immediate tense (related)

@@ -71,7 +71,7 @@ https://cofl.github.io/conlang/resources/mirror/conlang-syntax-test-cases.html
 30. He will arrive soon.
     Ńopa, xő xogă.
 31. The baby's ball has rolled away.
-    Sè yomåhjá pxỏ zèpxỏnů.
+    Sè jomåhjá pxỏ zèpxỏnů.
 32. The two boys are working together.
 33. This mist will probably clear away.
 34. Lovely flowers are growing everywhere.

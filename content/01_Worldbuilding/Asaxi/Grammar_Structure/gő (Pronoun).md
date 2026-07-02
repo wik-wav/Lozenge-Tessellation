@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">gő</span>
 
+<span class="asaxi-script-alpha">gő</span>
 ### Grammatical function
 
 The pronoun `gő` (they) is a third-person singular nominative pronoun.

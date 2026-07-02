@@ -14,33 +14,36 @@ tags:
 
 <span class="asaxi-script">ỏno</span>
 
+<span class="asaxi-script-alpha">ỏno</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
 ### Pronunciation
-
 IPA: /ou̯no/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]
 
 ### Translations
-
 - English: diameter, width, thickness, girth
 - Polish: średnica, szerokość
 
 ### Example sentence
-
 **To  kjèpo ỏno ma.**
 _The tree has a diameter_. (That's what trees have)
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[ỏ- (Relational Locative Prefix)|ỏ]]** (Middle) + **-no**.
 *Lit:* "The middle-dimension" (Measurement across the center).
 
-### Derived terms
-
+### Synonyms
 Null
+
+### Antonyms
+Null
+
+### Derived terms
+- [[chỏno (noun)|chỏno]] - food

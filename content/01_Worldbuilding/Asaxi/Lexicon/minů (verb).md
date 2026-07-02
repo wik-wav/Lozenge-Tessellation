@@ -15,47 +15,48 @@ tags:
 
 <span class="asaxi-script">minů</span>
 
+<span class="asaxi-script-alpha">minů</span>
 ### Transitivity / Valency
-
 **Transitive**
 Takes an object (the sound/source).
 
 ### Lexical Aspect
-
-**Activity / State:** The process of auditory perception.
-
-### Grammatical Note
-
-Derived from **[[mimi (noun)|mimi]]** (Ear) + **[[06A_-n- (Morphological Infix)|-n-]]** (Function) + **-ů**.
-* **Morphological Rule (Reduplication):** If the root noun consists of a repeating syllable (`C1V1C1V1`), the second syllable is dropped before the infix is added.
-* *Logic:* `mimi` $\rightarrow$ `mi` + `n` + `ů` $\rightarrow$ **minů**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Perception]]
 
 ### Pronunciation
-
 IPA: /minuu̯/
 
 ### Translations
-
 - English: to hear, to listen to
 - Polish: słyszeć, słuchać
 
 ### Example sentence
+**John jýnů vå, ko minů.**
+_When John talks, she hears._
 
-**To wo jýno minů.**
-_I hear the sound._
+### Alternative Forms
+Null
 
 ### Etymology
-
 "To use the ear."
 
 ### Synonyms
-
 - **ůsů** (To sound like / To have the quality of sound - *Distinct from hearing*).
 
-### Derived terms
-
+### Antonyms
 Null
+
+### Root Noun
+Null
+
+### Derived terms
+- **minůshá** (agent noun) *(potential)*
+
+### Grammatical Note
+Derived from **[[mimi (noun)|mimi]]** (Ear) + **[[06A_-n- (Morphological Infix)|-n-]]** (Function) + **-ů**.
+* **Morphological Rule (Reduplication):** If the root noun consists of a repeating syllable (`C1V1C1V1`), the second syllable is dropped before the infix is added.
+* *Logic:* `mimi` $\rightarrow$ `mi` + `n` + `ů` $\rightarrow$ **minů**.

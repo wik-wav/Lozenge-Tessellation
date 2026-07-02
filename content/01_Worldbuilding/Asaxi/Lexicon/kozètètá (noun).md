@@ -14,38 +14,40 @@ tags:
 
 <span class="asaxi-script">kozètètá</span>
 
+<span class="asaxi-script-alpha">kozètètá</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: Internal emotion/sensation.
 
 ### Pronunciation
-
 IPA: /kozət̪ət̪ɑ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Emotion]]
 
 ### Translations
-
 - English: regret, remorse, lamentation, nostalgia (painful)
 - Polish: żal, skrucha, ubolewanie
 
-### Usage Note
-
-Literally "Pain of the Distant Past." It implies a sorrow for things that cannot be changed because they are too far gone (`kozè`), unlike a simple mistake in the immediate past (`ozè`).
-
 ### Example sentence
+**Kozètètá kozè izoŕa.**
+_Regret stems from the past._ (aphoristic)
 
-**To wo kozètètá ma.**
-_I have regret._
+### Alternative Forms
+Null
 
 ### Etymology
-
 **[[kozè (Noun)]]** (Distant Past) + **[[tètá (noun)|tètá]]** (Pain).
 *Lit:* "Ancient-Pain" or "Far-Past-Pain."
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **kozètètánů** (To regret).
+
+### Usage Note
+Literally "Pain of the Distant Past." It implies a sorrow for things that cannot be changed because they are too far gone (`kozè`), unlike a simple mistake in the immediate past (`ozè`).

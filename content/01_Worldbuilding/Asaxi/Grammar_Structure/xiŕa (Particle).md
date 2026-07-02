@@ -1,6 +1,6 @@
 ---
 title: xiŕa (Particle) - be
-Word (Asaxi): xiŕa (Particle)
+Word (Asaxi): xiŕa
 trnsltion. En: be
 trnsltion. Pl: być
 tags:
@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">xiŕa</span>
 
+<span class="asaxi-script-alpha">xiŕa</span>
 ### Usage
 
 `xiŕa` is the default **Validity Compound** for existence. It acts as the static "To Be" copula. Unlike active verbs, it does not conjugate for aspect; instead, it marks the sentence as a **Static Fact** or **Definition**.

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">zè</span>
 
+<span class="asaxi-script-alpha">zè</span>
 ### Grammatical function
 
 - **Type:** Tense Prefix

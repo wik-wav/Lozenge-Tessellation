@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">panå</span>
 
+<span class="asaxi-script-alpha">panå</span>
 ### Grammatical function
 
 - **Type:** Temporal Particle / Aspectual Marker

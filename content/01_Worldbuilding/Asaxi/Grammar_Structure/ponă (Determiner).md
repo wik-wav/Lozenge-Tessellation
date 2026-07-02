@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ponă</span>
 
+<span class="asaxi-script-alpha">ponă</span>
 ### Grammatical function
 
 - **Type:** Determiner (Specific Indefinite)

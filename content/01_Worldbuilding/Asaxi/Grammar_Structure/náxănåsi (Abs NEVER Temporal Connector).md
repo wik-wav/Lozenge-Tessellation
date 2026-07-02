@@ -13,6 +13,7 @@ title: náxănåsi (Abs NEVER Temporal Connector) - "Under no circumstances".
 
 <span class="asaxi-script">náxănåsi</span>
 
+<span class="asaxi-script-alpha">náxănåsi</span>
 ### Grammatical function
 
 - **Type:** Frequency Particle / Adverb

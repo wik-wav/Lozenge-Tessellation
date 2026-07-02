@@ -87,7 +87,7 @@ Asaxi constructs specific Interrogative Pronouns ("Wh-words") by attaching the i
 | **kshá**      | **Who**   | `shá` (Person) | "Question-Person?"                                            |
 | **kjo**       | **What**  | `jo` (It)      | "Question-Thing?"                                             |
 | **ksi**       | **Where** | `si` (Unknown) | "Question-Unknown?" (Derived from **[[siŕo (noun)]]           |
-| **kvå**       | **When**  | `vå` (When)    | "Question-Time?" (Derived from the conjunction **[[vå]]**).   |
+| **kvå**       | **When**  | `vå` (When)    | "Question-Time?" (Derived from the conjunction **[[vå (WHEN Temporal Connector)\|vå]]**).   |
 | **ksè**       | **Why**   | `sè` (Because) | "Question-Reason?" (Derived from **[[sèwo (BECAUSE Logical Clause Connector)]]**).               |
 | **ksá**       | **How**   | `zá` (With)    | "Question-Method?" (Derived from **[[zá (Relational Particle) |
 ### 2. Syntactic Position (In-Situ)

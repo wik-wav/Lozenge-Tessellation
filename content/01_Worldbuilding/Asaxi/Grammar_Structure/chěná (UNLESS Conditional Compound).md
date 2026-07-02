@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">chěná</span>
 
+<span class="asaxi-script-alpha">chěná</span>
 ### Grammatical function
 
 - **Type:** Conditional Compound

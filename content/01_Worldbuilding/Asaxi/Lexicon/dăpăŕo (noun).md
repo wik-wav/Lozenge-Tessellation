@@ -1,0 +1,50 @@
+---
+title: dăpăŕo (noun) - sea, ocean
+Word (Asaxi): dăpăŕo
+trnsltion. En: sea, ocean
+trnsltion. Pl: morze, ocean
+tags:
+  - Asaxi
+  - language
+  - noun
+  - vocab_expansion
+---
+# dăpăŕo ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">dăpăŕo</span>
+
+<span class="asaxi-script-alpha">dăpăŕo</span>
+### Noun class (warm / cold)
+**Cold**
+- Reasoning: Inanimate body of water.
+
+### Pronunciation
+IPA: /daɪpaɪɾo/
+
+### Semantic Field
+[[Smntc_Field Geography (Topography)]]
+
+### Translations
+- English: sea, ocean
+- Polish: morze, ocean
+
+### Example sentence
+**Ŕoshá dăpăŕo vanů.**
+_Fish move about in the sea._
+
+### Alternative Forms
+x
+
+### Etymology
+From **dă-** (giant) + **pă-** (external, cf. [[păwo (noun)|păwo]] 'the outside') + **ŕo** (water, combining form of [[ŕoŕo (noun)|ŕoŕo]]): the giant outer water.
+
+### Synonyms
+x
+
+### Antonyms
+- **fůdăpăŕo** (absence of sea) *(potential)*
+
+### Derived terms
+Null

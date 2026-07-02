@@ -14,38 +14,40 @@ tags:
 
 <span class="asaxi-script">kjèmbi</span>
 
+<span class="asaxi-script-alpha">kjèmbi</span>
 ### Noun class (warm / cold)
-
 **Cold**
 - Reasoning: Inanimate object.
 
 ### Pronunciation
-
 IPA: /kʲəmbi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Tools]] / Entertainment
 
 ### Translations
-
 - English: playing card, card
 - Polish: karta (do gry)
 
-### Plural Form
-
-**kjèmbiwa** (Cards).
-
 ### Example sentence
+**Hjá kjèmbi kjèmbinů.**
+_The child plays with cards._
 
-**To wo kjèmbiwa ma.**
-_I have cards._
+### Alternative Forms
+Null
 
 ### Etymology
-
 **[[kjè (root word)|kjè]]** (Tree) + **[[embi (noun)|embi]]** (Plane).
 *Lit:* "Tree-Plane." (Refers to the material origin of paper/cards).
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **kjèmbinů** (To play games / To scheme).
+
+### Plural Form
+**kjèmbiwa** (Cards).

@@ -1,6 +1,6 @@
 ---
 title: zá (Relational Particle) - with, accompanied by
-Word (Asaxi): zá (Particle)
+Word (Asaxi): zá
 trnsltion. En: with, accompanied by
 tags:
   - Asaxi
@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">zá</span>
 
+<span class="asaxi-script-alpha">zá</span>
 ### Grammatical function
 
 - **Particle type:** [[15_NPCP and The Agglutinative Block|Relational Particle (NPCP)]]

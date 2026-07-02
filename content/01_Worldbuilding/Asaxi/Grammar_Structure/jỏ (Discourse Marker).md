@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">jỏ</span>
 
+<span class="asaxi-script-alpha">jỏ</span>
 ### Grammatical function
 
 - **Type:** Post-Clausal Discourse Marker
@@ -46,4 +47,5 @@ Borrowed from English **"Yo"** or modified from Japanese **よ** (*yo*), adapted
 - **[Silence/Formal]**
 
 ### Derived terms
-Null
+
+- [[ăjo (Vocative Particle)|ăjo]] - formal vocative (related)

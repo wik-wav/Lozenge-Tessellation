@@ -14,44 +14,35 @@ tags:
 
 <span class="asaxi-script">itaŕi</span>
 
+<span class="asaxi-script-alpha">itaŕi</span>
 ### Noun class (warm / cold)
-
 Cold
 
 ### Pronunciation
-
 IPA: /it̪aɾi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Geography (Topography)]] / [[Smntc_Field Place Names]]
 
 ### Translations
-
 - English: Italy
 - Polish: Włochy
 
 ### Example sentence
-
 John ni Itaŕi nijală nå.
 John starts to fly to Italy now.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Phonetic adaptation of "Italy" / "Italia".
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůItaŕi** (absence of Italy) *(potential)*
 
 ### Derived terms
-
-Null
+- **Itaŕină / Itaŕinýj** (adjectival forms) *(potential)*

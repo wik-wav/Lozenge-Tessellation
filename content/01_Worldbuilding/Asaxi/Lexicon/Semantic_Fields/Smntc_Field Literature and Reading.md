@@ -18,3 +18,6 @@ Navigation:
 - [[shěso (noun)]] - book
 - [[shěsonů (verb)]] - to read
 - [[ijoŕaŕo (noun)]] - dream-place (library-temple, sanctuary)
+- [[ijùno (noun)]] - word, utterance
+- [[waojýn (noun)]] - story, tale
+- [[shěsoŕů (verb)]] - to write, to author (a work)

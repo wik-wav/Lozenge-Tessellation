@@ -32,3 +32,7 @@ Navigation:
 - [[fůzùnýj (adjective)]] - unskilled
 - [[ală (noun)]] - looseness
 - [[fůcèma (verb)]] - to take for granted
+- [[fůăvină (adjective)]] - incorrect, wrong, messed up, horribly, wrongly
+- [[gavină (adjective)]] - good, virtuous, well, skillfully
+
+- [[frënă (adjective)]] - free

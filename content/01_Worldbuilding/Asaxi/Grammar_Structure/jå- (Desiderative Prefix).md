@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">jå-</span>
 
+<span class="asaxi-script-alpha">jå-</span>
 ### Grammatical function
 
 - **Type:** Modal Prefix (Auxiliary Root)

@@ -1,0 +1,57 @@
+---
+title: chănů (verb) - to have tea
+Word (Asaxi): chănů
+trnsltion. En: to have tea
+trnsltion. Pl: pić herbatę
+Transitivity: intransitive
+tags:
+  - Asaxi
+  - language
+  - verb
+  - vocab_expansion
+---
+# chănů ([[02_Asaxi Verbs_ů (List)]])
+
+- - -
+
+<span class="asaxi-script">chănů</span>
+
+<span class="asaxi-script-alpha">chănů</span>
+### Transitivity / Valency
+_intransitive_
+
+### Lexical Aspect
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
+
+### Semantic Field
+[[Smntc_Field Food & Drink]]
+
+### Pronunciation
+IPA: /t̠ʃaɪnuu̯/
+
+### Translations
+- English: to have tea
+- Polish: pić herbatę
+
+### Example sentence
+**Wo chănů.**
+_I take tea._
+
+### Alternative Forms
+Null
+
+### Etymology
+Derived: **chă** + **-n-** (Performance, 'use') + **-ů**.
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Root Noun
+- [[chă (noun)|chă]]
+
+### Derived terms
+Null

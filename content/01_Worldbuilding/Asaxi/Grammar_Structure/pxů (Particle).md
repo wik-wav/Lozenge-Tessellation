@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">pxů</span>
 
+<span class="asaxi-script-alpha">pxů</span>
 ### Grammatical function
 
 - **Type:** Interjection / Discourse Particle
@@ -27,7 +28,7 @@ The casual/standard antonym to **[[vi (Particle)|vi]]** (OK/Good).
 
 ### Pronunciation
 
-IPA: /pɦuu̯/
+IPA: /pʰuu̯/
 
 ### Etymology
 

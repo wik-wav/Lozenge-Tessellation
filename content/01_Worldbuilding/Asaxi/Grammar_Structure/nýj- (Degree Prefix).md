@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nýj-</span>
 
+<span class="asaxi-script-alpha">nýj-</span>
 ### Grammatical function
 
 - **Type:** Superlative Prefix

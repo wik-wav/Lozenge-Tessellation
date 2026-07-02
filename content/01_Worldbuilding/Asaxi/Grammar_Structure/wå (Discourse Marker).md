@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">wå</span>
 
+<span class="asaxi-script-alpha">wå</span>
 ### Grammatical function
 
 - **Type:** Pre-Clausal Discourse Marker
@@ -42,4 +43,5 @@ Sound symbolism for opening the mouth in awe (a gape).
 - **ox** (Emotional emphasis - less shock, more feeling).
 
 ### Derived terms
-Null
+
+- [[ox (Discourse Marker)|ox]] - longing/realization (fellow exclamation)

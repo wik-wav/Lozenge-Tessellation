@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nijo</span>
 
+<span class="asaxi-script-alpha">nijo</span>
 ### Grammatical function
 
 - **Type:** Reflexive Pronoun

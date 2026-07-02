@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">vkozè</span>
 
+<span class="asaxi-script-alpha">vkozè</span>
 ### Grammatical function
 
 - **Type:** Temporal Noun (Locative)

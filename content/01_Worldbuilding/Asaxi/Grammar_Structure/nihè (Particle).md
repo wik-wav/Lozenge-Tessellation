@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nihè</span>
 
+<span class="asaxi-script-alpha">nihè</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle Compound]] (Imperative)
@@ -53,4 +54,6 @@ _You, start._
 - **[[tomo' (verb)|tomo' kă]]** (Please stop).
 
 ### Derived terms
-Null
+
+- [[ni- (Inceptive Prefix)|ni-]] - inceptive base
+- [[nåhè- (Particle)|nåhè-]] - immediate command (paradigm sibling)

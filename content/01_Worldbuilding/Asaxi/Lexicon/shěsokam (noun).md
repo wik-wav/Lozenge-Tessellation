@@ -14,39 +14,34 @@ tags:
 
 <span class="asaxi-script">shěsokam</span>
 
+<span class="asaxi-script-alpha">shěsokam</span>
 ### Noun class (warm / cold)
-
 cold
 
 ### Pronunciation
-
 IPA: /ɹ̠̊ɚsokam/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The City]]
 
 ### Translations
-
 - English: Library
 - Polish: Biblioteka
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 x
 
 ### Etymology
-
 [[shěso (noun)]] + [[kamm (noun)]]
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůshěsokam** (absence of library) *(potential)*
 
 ### Derived terms
-
-Null
+- **shěsokamnă / shěsokamnýj** (adjectival forms) *(potential)*

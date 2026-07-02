@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">hùfwoŕa</span>
 
+<span class="asaxi-script-alpha">hùfwoŕa</span>
 ### Grammatical function
 
 - **Type:** Stative Validity Verb
@@ -58,4 +59,4 @@ x
 
 ### Derived terms
 
-Null
+- [[tohùfwo (Stative Verb)|tohùfwo]] - subjective doubt (to-predicate built on it)

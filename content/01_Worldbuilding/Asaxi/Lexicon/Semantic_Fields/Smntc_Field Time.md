@@ -44,8 +44,15 @@ Navigation:
 - [[nikpa (Temporal Noun)]] - in the distant future
 - [[ănå (verb)]] - to wait
 - [[ănåno (noun)]] - a wait
-- [[oxi (noun)]] - today
+- [[oo (noun)]] - today
 - [[omao (noun)]] - this night, tonight
 - [[pavwo (noun)]] - tomorrow, the next day
 - [[hùhwo (noun)]] - the day before yesterday
 - [[papwo (noun)]] - the day after tomorrow
+- [[nihèko (noun)]] - the start, the beginning
+- [[txă (noun)]] - year, annual cycle, age (when used with subject)
+- [[ămă (noun)]] - the right time
+- [[ånů (verb)]] - to tell the time, to time
+
+- [[vaxi (noun)]] - date
+- [[åkam (noun)]] - deadline

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">bădå</span>
 
+<span class="asaxi-script-alpha">bădå</span>
 ### Grammatical function
 
 - **Type:** Relational Particle Compound

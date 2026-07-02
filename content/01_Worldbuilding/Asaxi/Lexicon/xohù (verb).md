@@ -15,42 +15,44 @@ tags:
 
 <span class="asaxi-script">xohù</span>
 
+<span class="asaxi-script-alpha">xohù</span>
 ### Transitivity / Valency
-
 **Ambitransitive**
 * **Intransitive:** To retreat, to move back.
 * **Transitive:** To pull back, to withdraw X.
 
 ### Lexical Aspect
-
-**Activity:** Backward motion.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Grammatical Note
-
 **[[02_Asaxi Verbs_Root (List)]]:** Compound root verb.
 
 ### Semantic Field
-
 [[Smntc_Field Motion]]
 
 ### Pronunciation
-
 IPA: /ɦoxɯ/
 
 ### Translations
-
 - English: to retreat, to withdraw, to back up, to reverse
 - Polish: cofać się, wycofywać
 
 ### Example sentence
-
 **To wo xohù.**
 _I move back._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **xo** (Move) + **[[hù- (Relational Locative Prefix)|hù]]** (Behind).
 
-### Antonyms
+### Synonyms
+Null
 
+### Antonyms
 - **xopa** (To advance).
+
+### Derived terms
+Null

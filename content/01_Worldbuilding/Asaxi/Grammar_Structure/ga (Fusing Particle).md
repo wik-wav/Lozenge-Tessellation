@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">ga</span>
 
+<span class="asaxi-script-alpha">ga</span>
 ### Grammatical function
 
 - **Particle type:** [[15_NPCP and The Agglutinative Block|Fusing Particle (Lexical)]]
@@ -28,8 +29,10 @@ aliases:
     - _Ga-Modifier:_ `Gajýnnshá` = "Hyena-person" (A specific species or hybrid).
 
 2. **Fusion Rules:** This particle **always** fuses with the following noun.
-    - **Before /a/:** Merges with the vowel (`ga` + `apo` = `gapo`).
-    - **Before other vowels:** Hiatus is allowed (`ga` + `o` = `gao`).
+    - **Before /a/:** Merges into `g-` (`ga` + `apo` = `gapo`).
+    - **Before /i/:** Coalesces to the diphthong **`gă`** (`ga` + `ihjo` → `găhjo`), following the i-coalescence rule of [[22_Phonotactics & Euphony]].
+    - **Before other vowels (except /i/):** Hiatus is allowed (`ga` + `o` = `gao`).
+3. **Warmth:** a ga-compound's class follows the **resulting concept**, not mechanically its root — substance/presence leans **warm** (`gabwo`, `gadă`, `gajýnnshá`); absence/diminishment leans **cold** (`gafůbåbå`, `gahji`, `găhjo`, `ganáfwa`).
 
 ### Pronunciation
 
@@ -46,7 +49,7 @@ IPA: /ɡa/
 
 ### Antonyms
 
-Null
+- [[50_Privative Derivation (The `fů-` Prefix)|fů-]] - privative prefix (presence ↔ absence of the attribute)
 
 ### Derived terms
 

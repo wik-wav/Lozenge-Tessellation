@@ -15,55 +15,45 @@ tags:
 
 <span class="asaxi-script">pxỏŕů</span>
 
+<span class="asaxi-script-alpha">pxỏŕů</span>
 ### Transitivity / Valency
-
 _transitive verb_
 Takes an object (the thing being inflated).
 
 ### Lexical Aspect
-
-- **Accomplishment:** The process of filling something until it reaches a state.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Manipulation]] / [[Smntc_Field Physics]]
 
 ### Pronunciation
-
 IPA: /pʰou̯ɾuu̯/
 
 ### Translations
-
 - English: to inflate, to blow up, to pump up, to swell (transitive)
 - Polish: nadmuchać, napompować
 
 ### Example sentence
-
 To wo pxỏ pxỏŕů.
 I inflate the ball.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 **[[pxỏ (noun)|pxỏ]]** (Ball/Inflated object) + **.[[06A_-ŕ- (Morphological Infix)]]** (To produce) + **[[ů (verb)]]** (verbalizer) 
 Logic: "To cause to become a ball" or "To make inflated."
 
 ### Synonyms
-
 - **[[gădăŕů (verb)|gădăŕů]]** (To enlarge / make big).
 
 ### Antonyms
-
 - **pxỏshů** (To deflate)
 - **[[iŕoshů (verb)|iŕoshů]]** (To dim/desaturate - metaphorical deflation)
 
 ### Root Noun
-
 - [[pxỏ (noun)|pxỏ]]
 
 ### Derived terms
-
-Null
+- **pxỏŕůshá** (agent noun) *(potential)*

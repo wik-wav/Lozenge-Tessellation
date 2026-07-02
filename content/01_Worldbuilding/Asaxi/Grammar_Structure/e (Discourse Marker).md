@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">e</span>
 
+<span class="asaxi-script-alpha">e</span>
 ### Grammatical function
 
 Used to turn a statement into a question of disbelief, implying the speaker wants to test its validity (take on a challenge). Pronounced with a rising 
@@ -31,4 +32,4 @@ IPA: /e/
 
 ### Derived terms
 
-Null
+- **me** - post-vocalic allomorph

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">pùni</span>
 
+<span class="asaxi-script-alpha">pùni</span>
 ### Grammatical function
 
 - **Type:** Comparative Coordinator

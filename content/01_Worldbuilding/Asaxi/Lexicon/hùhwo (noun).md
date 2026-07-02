@@ -14,37 +14,40 @@ tags:
 
 <span class="asaxi-script">hùhwo</span>
 
+<span class="asaxi-script-alpha">hùhwo</span>
 ### Noun class (warm / cold)
 **Cold**
 
-### Grammatical function
-
-- **Type:** Temporal Noun
-- **Meaning:** The day before yesterday.
-
 ### Pronunciation
-
 IPA: /xɯxʷo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]]
 
 ### Translations
-
 - English: the day before yesterday
 - Polish: przedwczoraj
 
 ### Example sentence
-
 **Vaxi hùhwo, to wo zèxoxo.**
 _On the day before yesterday, I departed._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[hù- (Relational Locative Prefix)|hù]]** (Behind) + **[[hwo (noun)|hwo]]** (Yesterday).
 *Lit:* "Yesterday's Behind."
 
-### Antonyms
+### Synonyms
+Null
 
+### Antonyms
 - **[[pavwo (noun)]]**
+
+### Derived terms
+Null
+
+### Grammatical function
+- **Type:** Temporal Noun
+- **Meaning:** The day before yesterday.

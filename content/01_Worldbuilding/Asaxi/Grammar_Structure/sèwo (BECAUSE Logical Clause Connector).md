@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">sèwo</span>
 
+<span class="asaxi-script-alpha">sèwo</span>
 ### Grammatical function
 
 - **Type:** Causal Connector

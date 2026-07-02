@@ -14,43 +14,35 @@ tags:
 
 <span class="asaxi-script">shějýn</span>
 
+<span class="asaxi-script-alpha">shějýn</span>
 ### Noun class (warm / cold)
-
 cold
 
 ### Pronunciation
-
 IPA: /ɹ̠̊ɚꞲɪn/
 
-### Semantic field
-
+### Semantic Field
 x
 
 ### Translations
-
 - English: education
 - Polish: nauka
 
 ### Example sentence
-
 x
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 [[shěso (noun)]] + [[jýn (noun)]] lit. book-chat
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůshějýn** (absence of education) *(potential)*
 
 ### Derived terms
-
-Null
+- [[shějýnkam (noun)|shějýnkam]] (school (education-structure))
+- [[shějýnshá (noun)|shějýnshá]] - teacher

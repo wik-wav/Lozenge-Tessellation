@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">onå</span>
 
+<span class="asaxi-script-alpha">onå</span>
 ### Grammatical function
 
 - **Type:** Temporal Particle / Adverb

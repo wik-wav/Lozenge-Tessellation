@@ -1,265 +1,215 @@
----
-title: 01_Asaxi Nouns (List)
-aliases:
-  - noun
-  - nouns
-tags:
-  - Asaxi
-  - language
-  - semantic_field
-  - noun
----
-# Nouns in Asaxi
 
-This is a list of all [[The Asaxi Language|Asaxi]] nouns with the meaning in English.
+- [[kŕù (noun)]] - rust, iron-oxide, red-ochre
+- [[mùśo (noun)]] - mould, lichen, mildew
+- [[popo (noun)]] - seashell, shell
+- [[pomo (noun)]] - dove, pigeon
+- [[ŕago (noun)]] - charcoal, cinder, ember-dark
 
-Navigation:
-- [[The Asaxi Language|The Asaxi Language Index]]
-- [[index|Index - Homepage]]
-- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
+- [[kogo (noun)]] - knee
+- [[tëŋo (noun)]] - elbow
+- [[paba (noun)]] - lip
+- [[laŕa (noun)]] - tongue
+- [[jëbo (noun)]] - chin
+- [[kege (noun)]] - cheek
+- [[mëfo (noun)]] - forehead
+- [[mëbi (noun)]] - eyebrow
+- [[mobo (noun)]] - heart
+- [[cőno (noun)]] - brain
+- [[fùvù (noun)]] - lung
+- [[chỏbo (noun)]] - stomach (organ)
+- [[baihjo (noun)]] - rib
+- [[chỏŋo (noun)]] - jaw
+- [[tëko (noun)]] - fist
+- [[aśko (noun)]] - heel
+- [[aśŋo (noun)]] - ankle
+- [[tëkù (noun)]] - wrist
+- [[tëva (noun)]] - palm
+- [[pùko (noun)]] - hip
+- [[săfwù (noun)]] - breath (heat-wind)
+- [[săŕo (noun)]] - sweat
+- [[mëŕo (noun)]] - tear
+- [[tësëo (noun)]] - fingernail
+- [[bỏhjá (noun)]] - son
+- [[mỏhjá (noun)]] - daughter
+- [[bỏtam (noun)]] - husband
+- [[mỏtam (noun)]] - wife
+- [[hjáhjá (noun)]] - baby, infant
+- [[bỏvko (noun)]] - grandfather
+- [[mỏvko (noun)]] - grandmother
+- [[bỏba (noun)]] - uncle
+- [[mỏba (noun)]] - aunt
+- [[babi (noun)]] - cousin
+- [[obishá (noun)]] - neighbour (near-person)
+- [[vashá (noun)]] - guest (one who enters)
+- [[siŕoshá (noun)]] - stranger (unknown-person)
+- [[tètáshá (noun)]] - enemy (pain-person)
+- [[kùŕù (noun)]] - king, chief (Pl. *król*)
+- [[xèshá (noun)]] - servant (toil-person)
+- [[mwoshá (noun)]] - hunter (meat-person)
+- [[sănoshá (noun)]] - cook (cooked-food person)
+- [[roshá (noun)]] - smith (iron-person)
+- [[bỏshá (noun)]] - man (adult male)
+- [[mỏshá (noun)]] - woman (adult female)
+- [[mùù (noun)]] - cow
+- [[mùko (noun)]] - bull, ox
+- [[mèmè (noun)]] - goat
+- [[bèbè (noun)]] - sheep
+- [[kùkù (noun)]] - chicken, hen
+- [[gaga (noun)]] - duck
+- [[vishá (noun)]] - deer (grass-creature)
+- [[mjeje (noun)]] - bear (Ru. *medved*)
+- [[hùhù (noun)]] - wolf
+- [[fùfo (noun)]] - fox
+- [[pỏpỏ (noun)]] - rabbit, hare
+- [[kiki (noun)]] - monkey, ape
+- [[vjèbŕù (noun)]] - camel (Ru. *verblyud*)
+- [[kŕoshá (noun)]] - crocodile (jaw-creature)
+- [[poposhá (noun)]] - turtle (shell-creature)
+- [[xajaŕă (noun)]] - eagle (high-bird)
+- [[ùhù (noun)]] - owl
+- [[kika (noun)]] - crow
+- [[kùsokùki (noun)]] - fly (lit. faeces-insect)
+- [[kùgù (noun)]] - ant
+- [[zizi (noun)]] - mosquito
+- [[ŋoŋo (noun)]] - snail
+- [[dăŕoshá (noun)]] - whale (great-water-creature)
+- [[maoshá (noun)]] - bat (night-creature)
+- [[viko (noun)]] - wheat
+- [[komo (noun)]] - rice (Jp. *kome*)
+- [[vako (noun)]] - maize, corn
+- [[fasá (noun)]] - bean (Pl. *fasola*)
+- [[cèbá (noun)]] - onion (Pl. *cebula*)
+- [[chosnè (noun)]] - garlic (Pl. *czosnek*)
+- [[maŕè (noun)]] - carrot (Pl. *marchew*)
+- [[kaŕtè (noun)]] - potato (Pl. *kartofel*)
+- [[gokae (noun)]] - nut (hard-fruit)
+- [[hjákae (noun)]] - berry (little-fruit)
+- [[vădo (noun)]] - herb (cure-plant)
+- [[ŕăvi (noun)]] - spice (fire-plant)
+- [[miago (noun)]] - sugar (honey-grain)
+- [[vigopỏ (noun)]] - flour (grain-powder)
+- [[bwoŕo (noun)]] - oil (fat-liquid)
+- [[maslo (noun)]] - butter (Pl. *masło*)
+- [[sèŕè (noun)]] - cheese (Ru. *syr*)
+- [[vino (noun)]] - wine (Pl. *wino*)
+- [[chă (noun)]] - tea (Jp. *cha*)
+- [[pivatxe (noun)]] - petal (flower-leaf)
+- [[vèbi (noun)]] - stem, stalk (plant-line)
+- [[vèso (noun)]] - straw, hay (dry plant)
+- [[văno (noun)]] - harvest, crop
+- [[kaeŕo (noun)]] - orchard (fruit-place)
+- [[ŕopùŕo (noun)]] - waterfall
+- [[ŕoizo (noun)]] - spring (water-source)
+- [[ŕocù (noun)]] - marsh, swamp
+- [[săkjèŕo (noun)]] - jungle (hot-forest)
+- [[hùsgo (noun)]] - dune (sand-mound)
+- [[ŕăgo (noun)]] - volcano (fire-rock)
+- [[gokŕo (noun)]] - crater (rock-hollow)
+- [[dăŕobi (noun)]] - bay, gulf (sea-edge)
+- [[hjáŕo (noun)]] - pond (little-water)
+- [[ŕopo (noun)]] - puddle (water-spot)
+- [[dăŕotxa (noun)]] - tide (sea-change)
+- [[dăŕoŕo (noun)]] - flood (great-water)
+- [[xinihè (noun)]] - dawn, sunrise
+- [[xipùŕo (noun)]] - dusk, sunset
+- [[ŋèxi (noun)]] - twilight (shadow-sun)
+- [[gotopo (noun)]] - hail (stone-rain)
+- [[hjáfwù (noun)]] - breeze (little-wind)
+- [[fwùŕă (noun)]] - tornado (wind-spin)
+- [[hjoxo (noun)]] - comet (star-streak)
+- [[hjopùŕo (noun)]] - meteor (falling star)
+- [[maoxi (noun)]] - eclipse (moon-sun)
+- [[ŕăpỏ (noun)]] - ash (fire-powder)
+- [[xagiro (noun)]] - copper (ember-metal)
+- [[rogi (noun)]] - bronze
+- [[rogo (noun)]] - steel (hard-iron)
+- [[sipỏ (noun)]] - silk (fine fibre)
+- [[vipỏ (noun)]] - cotton (plant-fluff)
+- [[kjèbwo (noun)]] - rubber (tree-sap stuff)
+- [[miabwo (noun)]] - wax (honey-fat)
+- [[mýdo (noun)]] - soap (Pl. *mydło*)
+- [[pỏbi (noun)]] - thread (cloth-line)
+- [[cùko (noun)]] - brick (baked clay)
+- [[gocù (noun)]] - cement, mortar (stone-soil)
+- [[iŕsùgo (noun)]] - gem, jewel (colour-crystal)
+- [[hjosùgo (noun)]] - diamond (star-crystal)
+- [[sùggo (noun)]] - marble (crystal-stone)
+- [[maogám (noun)]] - ink (black-gum)
+- [[gosipỏ (noun)]] - chalk (white-powder)
+- [[nozhè (noun)]] - knife (Ru. *nozh*)
+- [[lýshká (noun)]] - spoon (Ru. *lozhka*)
+- [[sëoka (noun)]] - fork (claw-tool)
+- [[chỏka (noun)]] - plate, dish (food-tool)
+- [[chỏmáka (noun)]] - bowl (food-vessel)
+- [[sămaka (noun)]] - pot (heat-vessel)
+- [[ihjáka (noun)]] - needle (quill-tool)
+- [[sxëka (noun)]] - scissors (sharp-tool)
+- [[kjèka (noun)]] - saw (wood-tool)
+- [[gùŕka (noun)]] - net (rope-tool)
+- [[këoka (noun)]] - hook (beak-tool)
+- [[sëobi (noun)]] - spear (point-rod)
+- [[katăa (noun)]] - sword, katana (Jp. *katana*)
+- [[pŕobi (noun)]] - bow (curve-rod)
+- [[ŕăbi (noun)]] - arrow (swift-rod)
+- [[hka (noun)]] - shield (cover-tool)
+- [[cka (noun)]] - shovel, spade (soil-tool)
+- [[cpỏka (noun)]] - broom (dust-tool)
+- [[ijnawo (noun)]] - mirror (sight-surface)
+- [[pjobi (noun)]] - candle (light-rod)
+- [[pùbo (noun)]] - chair (sit-thing)
+- [[pùgo (noun)]] - stool (sit-block)
+- [[dăpùbo (noun)]] - bench (long-chair)
+- [[nonawo (noun)]] - shelf (thing-surface)
+- [[nomáka (noun)]] - box (thing-vessel)
+- [[pỏmáka (noun)]] - bag, sack (cloth-vessel)
+- [[săpỏno (noun)]] - blanket (warm-cloth)
+- [[tată (noun)]] - mat (Jp. *tatami*)
+- [[pỏkŕo (noun)]] - rug, carpet (floor-fabric)
+- [[kempỏno (noun)]] - curtain (window-cloth)
+- [[åka (noun)]] - clock (time-tool)
+- [[xobi (noun)]] - stairs (climb-line)
+- [[xokŕo (noun)]] - ladder (climb-frame)
+- [[dănomáka (noun)]] - chest (big box)
+- [[vanawo (noun)]] - ceiling (inside-top)
+- [[ŕămáka (noun)]] - hearth, stove (fire-vessel)
+- [[joŕo (noun)]] - village (society-place)
+- [[waoŕo (noun)]] - country, land, nation
+- [[tákákam (noun)]] - castle (war-structure)
+- [[pỏnkam (noun)]] - tent (cloth-structure)
+- [[shákam (noun)]] - barn, stable (beast-structure)
+- [[vigokam (noun)]] - mill (grain-structure)
+- [[ŕogoŕo (noun)]] - well (water-cave)
+- [[shějýnkam (noun)]] - school (education-structure)
+- [[daokam (noun)]] - shop, store (trade-structure)
+- [[ŕonokam (noun)]] - inn, tavern (drink-structure)
+- [[dokùkam (noun)]] - hospital (medicine-structure)
+- [[ihjoŕo (noun)]] - tomb, grave (bone-place)
+- [[shágo (noun)]] - statue (creature-stone)
+- [[jogă (noun)]] - square, plaza (society-zone)
+- [[kamshosa (noun)]] - street (building-road)
+- [[vigoŕo (noun)]] - farm (crop-land)
+- [[ŕobo (noun)]] - bottle (liquid-holder)
+- [[cùmáka (noun)]] - jar (clay-vessel)
+- [[dămaka (noun)]] - barrel (big vessel)
+- [[ŕomako (noun)]] - bucket, pail (water-vessel)
+- [[jýŋgo (noun)]] - bell (sound-metal)
+- [[jýmbo (noun)]] - drum (sound-thing)
+- [[fwùno (noun)]] - horn (wind-sound)
+- [[kxepỏno (noun)]] - flag, banner (sign-cloth)
+- [[fŕo (noun)]] - map
+- [[rogùŕo (noun)]] - chain (iron-rope)
+- [[keŋgo (noun)]] - lock (door-metal)
+- [[dăbi (noun)]] - pole, post (long rod)
+- [[vèmbi (noun)]] - plank, board (wood-line)
+- [[gùŕko (noun)]] - knot (rope-tie)
+- [[ŕobi (noun)]] - wire (metal-line)
+- [[wỏbi (noun)]] - pipe, tube (cylinder-line)
+- [[ŕăŕo (noun)]] - magma
+- [[kùso (noun)]] - faeces, dung
 
-- - -
-
-- [[śchino (noun)]] - length, distance (linear), extent
-- [[sătamni (noun)]] - unison, unanimity
-- [[tamni (noun)]] - together as a pair
-- [[pxỏmă (noun)]] - sum of toil, total exertion, lifetime of effort, "every breath"
-- [[fno (noun)]] - eye floater, vitreous opacity, drifting speck, visual debris
-- [[nokam (noun)]] - storehouse, warehouse, repository, place of things
-- [[vimă (noun)]] - the accepted, the affirmed, collection of yeses, total approval
-- [[pxůmă (noun)]] - the sum of all rejections
-- [[xoxonăno (noun)]] - cherished object
-- [[găxiŕo (noun)]] - vibrancy, vividness
-- [[pxỏpxỏshá (noun)]] - living inflatable, balloon-creature
-- [[pxỏ (noun)]] - ball, sphere, orb
-- [[fjo (noun)]] - concept, idea, abstraction, non-object
-- [[nono (noun)|nono (noun) - thing, object]] - thing, object
-- [[yomåhjá (noun)]] - human child, kid
-- [[gă-gă (Compound Locative Noun)]] - somewhere
-- [[ko-gă (Compound Locative Noun)]] - over there
-- [[no-gă (Compound Locative Noun)]] - there (near you)
-- [[o-gă (Compound Locative Noun)]] - here
-- [[gámm (noun)]] - gum
-- [[ită (noun)]] - tension, stress
-- [[ală (noun)]] - looseness, slack, laxity, freedom from tension
-- [[txepỏ (noun)]] - feather
-- [[pỏ (noun)]] - fluff
-- [[këo (noun)]] - beak
-- [[jalăshá (noun)]] - bird, avian
-- [[txenshá (noun)]] - angel
-- [[swëshá (noun)]] - dragon
-- [[swë (noun)]] - scales
-- [[txe (noun)]] - wing
-- [[sxëbo (noun)]] - sharp claw, wicked claw, beastly nail, dangerous talon
-- [[kxetxashá (noun)]] - shapeshifter, polymorph, changeling
-- [[txa (noun)]] - change, mutation, alteration, shift
-- [[kxe (noun)]] - shape
-- [[wỏ (noun)]] - cylinder, primitive shape (cylindrical), roller
-- [[sëo (noun)]] - nail, claw, talon
-- [[fůzù (noun)]] - incompetence
-- [[zù (noun)]] - skill
-- [[hjixaśbi (noun)]] - toe
-- [[hjitëbi (noun)]] - finger
-- [[chỏmă (noun)]] - mouth
-- [[fù (noun)]] - nose
-- [[kxőŕo (noun)]] - throat
-- [[nodo (noun)]] - neck
-- [[dëŕă (noun)]] - tail
-- [[dë (noun)]] - limb
-- [[těněn (noun)]] - head
-- [[damtxă (noun)]] - decade
-- [[pxă (noun)]] - month
-- [[txă (noun)]] - year
-- [[zèvo (noun)]] - name
-- [[mëjo (noun)]] - eye
-- [[ijoŕaŕo (noun)]] - temple of quiet arts, library-temple, meditation hall, sanctuary, dream-place
-- [[văŕo (noun)]] - garden, conservatory, plantation
-- [[vă (noun)]] - plant, flora, vegetation, greenery
-- [[dătáwao (noun)]] - the natural world, nature, the physical universe, reality (physical)
-- [[tákasi (noun)]] - fallout, aftermath (of war), post-war desolation, ruins, ash-heap
-- [[dătáka (noun)]] - war, armed conflict, warfare
-- [[shásè (noun)]] - imprisonment, captivity, ownership (of a person), bondage
-- [[shásshá (noun)]] - hostage, captive, property (person)
-- [[fkamshá (noun)]] - domesticated animal, livestock, pet, dependent creature
-- [[ispăshá (noun)]] - wild animal
-- [[ispă (noun)]] - wilderness, the wild, the outside world, untamed lands
-- [[mmråhjá (noun)]] - kitten
-- [[hjá (noun) - as in child]] - child, young one, offspring, baby, kid
-- [[mmråshá (noun)]] - cat, feline
-- [[mmbă (noun)]] - happiness, joy, positive feeling
-- [[ŕèzishá (noun)]] - lizard, reptile, skink
-- [[ăjawo (noun)]] - a shout, a scream, a yell, a cry
-- [[ăjawa (noun)]] - war cry, battle cry, rallying cry, roar (of a crowd)
-- [[axa (noun)]] - laughter, laugh, mirth
-- [[exe (noun)]] - crying, a cry, wailing, sobbing, tears (conceptual)
-- [[fwocősiŕo (noun)]] - the dissonant void, the fog of compromised values, the space of cognitive dissonance, the retreat (mental)
-- [[cőtájýn (noun)]] - argument, dispute, verbal altercation, clash of views
-- [[fůkő (noun)]] - un-empathy, blind hatred, detestation, loathing, antipathy
-- [[fůcő (noun)]] - misunderstanding, confusion, lack of grasp, misinterpretation
-- [[cőcő (noun)]] - understanding, comprehension, grasp, empathy
-- [[fůăvi (noun)]] - incorrectness, wrongness, horror, monstrosity, mess
-- [[fůjåhjo (noun)]] - deceptive aim, anti-destiny, false idol, destructive drive, a leading-astray
-- [[fůjåshá (noun)]] - a content person, a wantless person, a sage
-- [[fůjå (noun)]] - wantlessness, contentment, freedom from desire, satisfaction
-- [[01_Worldbuilding/Asaxi/Lexicon/fůcè (noun)|fůcè (noun)]] - the unknown, ignorance, lack of knowledge
-- [[hjishá (noun)]] - damselfly, dragonfly (small), delicate insect
-- [[ëjo (noun)]] - fractal, self-similar pattern, recursive shape
-- [[fůŋono (noun)]] - weightlessness, zero gravity
-- [[fůŕăijo (noun)]] - weakness, powerlessness, frailty, impotence
-- [[ŋono (noun)]] - weight, mass, heaviness
-- [[dăno (noun)]] - size, magnitude, scale, dimensions
-- [[ỏno (noun)]] - diameter, width, thickness, girth
-- [[kjèno (noun)]] - height, stature, altitude, tallness
-- [[shá (noun)]] - person, creature
-- [[shěso (noun)]] - book
-- [[gă (noun)]] - place
-- [[siŕo (noun)]] - the great unknown 
-- [[shěsokam (noun)]] - the city
-- [[dăo (noun)]] - aether
-- [[apo (noun)]] - apple
-- [[dăshá (noun)]] - elephant
-- [[gadă (noun)]] - immensity
-- [[gao (noun)]] - blue
-- [[gapo (noun)]] - red
-- [[gasi (noun)]] - white
-- [[gavi (noun)]] - green
-- [[go (noun)]] - rock
-- [[kamm (noun)]] - bulding
-- [[o (noun)]] - sky
-- [[kjèpo (noun)]] - tree
-- [[shěsokam (noun)]] - library
-- [[tobo (noun)]] - table
-- [[śýstèm (noun)]] - system
-- [[kiŕo (noun)]] - pickaxe
-- [[gapo (noun)]] - city
-- [[ŕo (noun)]] - panel block
-- [[vivi (noun) - as in family of plants]] - grass
-- [[shějýnshá (noun)]] - teacher
-- [[shějýn (noun)]] - education,
-- [[jágo (noun)]] - blueberry
-- [[å (noun)]] - time
-- [[ågă (noun)]] - sometime
-- [[åkamm (noun)]] - moment
-- [[fwo (noun)]] - fog
-- [[xafwo (noun)]] - atmosphere
-- [[xaxăfwo (noun)]] - stratosphere
-- [[xăsiŕo (noun)]] - outer space
-- [[hùfwo (noun)]] - uncertainty
-- [[topobi (noun)]] - weather
-- [[náfwa (noun)]] - clear sky
-- [[hwo (noun)]] - yesterday
-- [[vwo (noun)]] - today
-- [[sigo (noun)]] - number
-- [[kő (noun)]] - understanding
-- [[bwo (noun)]] - fat (adipose tissue)
-- [[pùbwo (noun)]] - buttocks
-- [[ỏbwo (noun)]] - belly
-- [[ỏbỏ (noun)]] - cushion
-- [[båbå (noun)]] - muscle
-- [[ỏbåbå (noun)]] - abdominal muscle
-- [[të (noun)]] - hand
-- [[tëbi (noun)]] - arm
-- [[tëbibåbå (noun)]] - arm musculature
-- [[aśo (noun)]] - foot
-- [[aśobi (noun)]] - leg
-- [[aśbibåbå (noun)]] - leg musculature
-- [[xabåbå (noun)]] - pectorals
-- [[hùbåbå (noun)]] - back muscles
-- [[babåbå (noun)]] - obliques
-- [[pùbåbå (noun)]] - glutes
-- [[ŕoŕo (noun)]] - water
-- [[ijoŕo (noun)]] - dream
-- [[sháŕo (noun)]] - pool
-- [[kamshá (noun)]] - body
-- [[ro (noun)]] - iron (metal)
-- [[xèro (noun)]] - weights
-- [[goro (noun)]] - iron ore
-- [[rokam (noun)]] - prison
-- [[xi (noun)]] - day
-- [[ămă (noun)]] - the right time
-- [[xatëbi (noun)]] - shoulder
-- [[făỏbwoxatëbibåbå (noun)]] - deltoids
-- [[pùtëbi (noun)]] - forearm
-- [[pùtëbibåbå (noun)]] - forearm muscles
-- [[xahùbåbå (noun)]] - trapezius
-- [[vahùbåbå (noun)]] - rhomboids
-- [[xaxaśbi (noun)]] - thigh
-- [[pùxaśbi (noun)]] - shin
-- [[bamỏbwoxaxaśbibåbå (noun)]] - quadriceps femoris
-- [[hùxaxaśbibåbå (noun)]] - hamstrings
-- [[tamỏbwopùxaśbibåbå (noun)]] - gastrocneius
-- [[papùxaśbibåbå (noun)]] - tibialis anterior
-- [[tamo (noun)]] - limit
-- [[kem (noun)]] - door
-- [[kem.mo (noun)]] - possibility
-- [[frë (noun)]] - freedom
-- [[wao (noun)]] - world
-- [[owao (noun)]] - Earth (planet)
-- [[hùwo (noun)]] - behind
-- [[vawo (noun)]] - the inside
-- [[păwo (noun)]] - the outside
-- [[nawo (noun)]] - the surface
-- [[bawo (noun)]] - the side
-- [[pawo (noun)]] - the front
-- [[xawo (noun)]] - the heights
-- [[pùwo (noun)]] - the bottom
-- [[exå (noun)]] - smile
-- [[eśnå (noun)]] - grin
-- [[sivëshá (noun)]] - civet
-- [[ŕimshá (noun)]] - lemur
-- [[ŕimå (noun)]] - thought, idea
-- [[flaminŋshá (noun)]] - flamingo
-- [[ŕăno (noun)]] - stripe
-- [[ŕănabishá (noun)]] - gazelle
-- [[embi (noun)]] - plane (geometry)
-- [[kjèmbi (noun)]] - playing card
-- [[igùŕa (noun)]] - game
-- [[ŕănabi (noun)]] - speed
-- [[ŕăijo (noun)]] - strength
-- [[ŕăijoshá (noun)]] - lion
-- [[pa (Noun)]] - the future
-- [[zè (Noun)]] - the past
-- [[kopa (Noun)]] - the distant future
-- [[opa (Noun)]] - the immediate future
-- [[ozè (Tense Prefix)]] - the immediate past
-- [[kozè (Noun)]] - the distant past
-- [[sùki (noun)]] - love, affection, preference
-- [[bwonădăsùki (noun)]] - adoration, cherishing
-- [[jýno (noun)]] - sound
-- [[mimi (noun)]] - ear
-- [[jýnoŕănabi (noun)]] - speed of sound
-- [[jhecè (noun)]] - jet
-- [[nihèko (noun)]] - the start, the beginning
-- [[jůŕë (noun)]] - outer space, cosmos
-- [[hjo (noun)]] - star
-- [[jåhjo (noun)]] - destination
-- [[iŕo (noun)]] - colour
-- [[pjo (noun)]] - light (source)
-- [[găŕo (noun)]] - colorfulness, polychromy, having many colors
-- [[pigùmenn (noun)]] - pigment, raw color powder, dye (powder form)
-- [[gámŕo (noun)]] - acrylic paint, paint (viscous), liquid gum
-- [[pjovi (noun)]] - laser
-- [[kozètètá (noun)]] - regret
-- [[ozètètá (noun)]] - mistake
-- [[xè (noun)]] - effort
-- [[ănåno (noun)]] - a wait
-- [[păshá (noun)]] - another (person, creature)
-- [[oxi (noun)]] - this day, today
-- [[omao (noun)]] - tonight, this night
-- [[ijono (noun)]] - vision, eyesight, sight (faculty)
-- [[ijoka (noun)]] - sights (of a gun), scope, crosshairs, aiming device
-- [[ăvi (noun)]] - correctness, perfection, faultlessness, rightness, accuracy
-- [[nỏcè (noun)]] - note, memo, entry, record, reminder
-- [[tăbino (noun)]] - a drawing, sketch, a diagram, a blueprint
-- [[dăchỏchỏ (noun)]] - sexual attraction, desire, lust, arousal, excitement (libido)
-- [[jùni (noun)]] - university, college, academy
-- [[ihjo (noun)]] - bone, os
-- [[ihjokam (noun)]] - skeleton, skeleton, skeletal system, frame
-- [[hjihji (noun)]] - thinness, gauntness, scrawniness, lack of muscle
-- [[ýhýshá (noun)]] - mouse, rodent, prey animal
-- [[tamỏbwoxatëbibåbå (noun)]] - biceps (brachii), the two-headed muscle
-- [[găhjo (noun)]] - emaciation, boniness, gauntness, skin and bones
-- [[găhjoshá (noun)]] - emaciated person, walking skeleton, bag of bones, starving creature
-- [[ŋo (Unit Noun)]] - kilogram, kilo, unit of weight, weight (measure)
-- [[xaŋobwo (noun)]] - obesity, morbid obesity, excess weight
-- [[śchi (Unit Noun)]] - centimeter, cm, unit of length
+- [[kamshákam (noun)]] - gym, fitness centre
+- [[lă (noun)]] - looseness, slack, give
+- [[ńo (noun)]] - thing, object (clipped)
+- [[vaxi (noun)]] - the date, calendar day; on the day
+- [[åkam (noun)]] - deadline, appointed moment
+- [[gafůŋono (noun)]] - weightlessness, levitation

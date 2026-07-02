@@ -14,46 +14,50 @@ tags:
 
 <span class="asaxi-script">pxůmă</span>
 
+<span class="asaxi-script-alpha">pxůmă</span>
+### Noun class (warm / cold)
+**Cold**
+- Reasoning: abstract aggregate (the collection of refusals).
+
 ### Pronunciation
-
-**IPA:** /pɦuu̯maɪ/
-
-### Lexical Classification
-
-**Category:** Noun
-**Noun Class:** Cold (Inanimate/Negative)
+**IPA:** /pʰuu̯maɪ/
 
 ### Semantic Field
-
 [[Smntc_Field Virtues & Failings|Smntc_Field Virtues & Failings]]
 [[Smntc_Field Circumstance]]
 
-### Definition
-
-A collective noun representing the sum total of all things, ideas, or offers that an individual or group has rejected or said "no" to. It categorizes the weight of past decisions that closed off paths. Discarded possibilities.
-
-### Translation
-
+### Translations
 - English: everything denied, the collection of noes, rejected total, the sum of all rejections
 - Polish: wszystkie rzeczy odmówione, sprawy zamknięte, strwożone szanse
 
-### Etymology
+### Example sentence
+Null
 
+### Alternative Forms
+Null
+
+### Etymology
 A compound derived from the negative particle **pxů** (no, negation) and the quantifier **mă** (every, all).
 
-### Examples
-
-- **Pxůmă na dă niŕa.**
-- *The collection of rejected things is large.*
-
 ### Synonyms
-
 - x
 
 ### Antonyms
-
 - x
 
-### Derived Terms
+### Derived terms
+- [[pxůmănýj (adjective)|pxůmănýj]] - disagreeable, all-denying
+### Lexical Classification
+**Category:** Noun
+**Noun Class:** Cold (Inanimate/Negative)
 
-- x
+### Definition
+A collective noun representing the sum total of all things, ideas, or offers that an individual or group has rejected or said "no" to. It categorizes the weight of past decisions that closed off paths. Discarded possibilities.
+
+### Translation
+- English: everything denied, the collection of noes, rejected total, the sum of all rejections
+- Polish: wszystkie rzeczy odmówione, sprawy zamknięte, strwożone szanse
+
+### Examples
+- **Pxůmă na dă niŕa.**
+- *The collection of rejected things is large.*

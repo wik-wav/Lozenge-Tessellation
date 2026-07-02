@@ -13,11 +13,10 @@ tags:
 
 <span class="asaxi-script">tambi</span>
 
+<span class="asaxi-script-alpha">tambi</span>
 ### Grammatical function
-
 - **Type:** Mathematical Operator / Verb
 - **Meaning:** Equals, is equivalent to.
 
 ### Etymology
-
 **[[tam (Number)]]** (Two) + **[[bi (noun)|bi]]** (Line). _Lit:_ "Two lines" (=).

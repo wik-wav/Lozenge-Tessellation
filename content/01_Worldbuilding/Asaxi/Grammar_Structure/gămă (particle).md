@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">gămă</span>
 
+<span class="asaxi-script-alpha">gămă</span>
 ### Grammatical function
 
 - **Particle type:** Frequency Particle / Adverb
@@ -21,7 +22,7 @@ tags:
 
 ### Logic & Etymology
 
-**[[gă (Proximal Locative Prefix)|gă]]** (Somewhere/Indefinite) + **[[mă (Particle)|-mă]]** (Every).
+**[[gă (Indefinite Locative Prefix)|gă]]** (Somewhere/Indefinite) + **[[mă (Particle)|-mă]]** (Every).
 * *Lit:* "Every-somewhere" or "Every-indefinite-instance."
 * *Logic:* Since `gă` represents indefinite existence (concepts that are "somewhere" but not fixed), combining it with "Every" creates the concept of "Any/Every time."
 
@@ -46,4 +47,4 @@ _Whenever it rains, I read._
 
 ### Derived terms
 
-Null
+- **mă**-family: [[ximă (Particle)|ximă]] (daily), [[txămă (Particle)|txămă]] (yearly), [[åmă (Particle)|åmă]] (every time)

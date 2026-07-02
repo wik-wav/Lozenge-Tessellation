@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nixő</span>
 
+<span class="asaxi-script-alpha">nixő</span>
 ### Grammatical function
 
 - **Type:** Reflexive Pronoun

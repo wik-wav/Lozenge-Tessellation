@@ -15,34 +15,49 @@ tags:
 
 <span class="asaxi-script">vanů</span>
 
+<span class="asaxi-script-alpha">vanů</span>
 ### Transitivity / Valency
-
 **Transitive** (Spatial State) or **Intransitive** (Motion)
 
-### Lexical Aspect
-
-**Activity:** The ongoing state of being inside or the process of entering.
-
-### Grammatical Note
-
-Derived from the Relational Prefix **[[07_Describing Location in Asaxi|va-]]** (Inside) + **-n-** + **[[ů (verb)|ů]]**.
-* *See:* **[[07_Describing Location in Asaxi]]** (Spatial Verbs section).
-
 ### Semantic Field
-
 [[Smntc_Field Motion]]
 
 ### Pronunciation
-
 IPA: /vanuu̯/
 
 ### Translations
-
 - English: to be inside, to inhabit, to occupy, to enter
 - Polish: być w środku, zamieszkiwać, zajmować (przestrzeń), wchodzić
 
-### Example sentences
+### Example sentence
+Null
 
+### Alternative Forms
+x
+
+### Etymology
+**va-** (Inside) + **ů** (To be/do).
+
+### Synonyms
+x
+
+### Antonyms
+- **[[pănů (verb)|pănů]]** (To go outside / To be outside).])]
+
+### Root Noun
+Null
+
+### Derived terms
+- **vanůshá** (inhabitant, dweller, occupant) *(potential)*
+
+### Lexical Aspect
+**Activity:** The ongoing state of being inside or the process of entering.
+
+### Grammatical Note
+Derived from the Relational Prefix **[[07_Describing Location in Asaxi|va-]]** (Inside) + **-n-** + **[[ů (verb)|ů]]**.
+* *See:* **[[07_Describing Location in Asaxi]]** (Spatial Verbs section).
+
+### Example sentences
 **State (Transitive):**
 **To John kamm vanů.**
 _John is inside the building._ (Lit: John occupies-the-inside-of the building).
@@ -50,22 +65,3 @@ _John is inside the building._ (Lit: John occupies-the-inside-of the building).
 **Action (Intransitive):**
 **To wo vanů.**
 _I go inside._ / _I enter._
-
-### Alternative forms
-
-x
-
-### Etymology
-
-**va-** (Inside) + **ů** (To be/do).
-
-### Synonyms
-
-x
-
-### Antonyms
-
-- **[[pănů (verb)|pănů]]** (To go outside / To be outside).])]
-
-### Derived terms
-Null

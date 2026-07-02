@@ -14,28 +14,36 @@ tags:
 
 <span class="asaxi-script">xaxaśbi</span>
 
+<span class="asaxi-script-alpha">xaxaśbi</span>
 ### Noun class (warm / cold)
-
 **Warm**
 
 ### Pronunciation
-
 IPA: /ɦaɦaɕbi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: thigh, upper leg
 - Polish: udo
 
-### Etymology
+### Example sentence
+Null
 
+### Alternative Forms
+Null
+
+### Etymology
 **[[xa- (Relational Locative Prefix)|xa]]** (Above) + **-x-** (Bridge) + **[[aśobi (noun)|aśbi]]** (Leg - reduced).
 *Lit:* "Upper-Leg."
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **[[bamỏbwoxaxaśbibåbå (noun)]]** (Quadriceps).
+- [[hùxaxaśbibåbå (noun)|hùxaxaśbibåbå]] - hamstrings

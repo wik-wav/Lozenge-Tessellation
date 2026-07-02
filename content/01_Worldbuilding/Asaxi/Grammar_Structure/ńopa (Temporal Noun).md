@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ńopa</span>
 
+<span class="asaxi-script-alpha">ńopa</span>
 ### Grammatical function
 
 - **Type:** Temporal Noun (Locative)

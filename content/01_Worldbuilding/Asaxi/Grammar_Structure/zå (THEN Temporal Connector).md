@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">zå</span>
 
+<span class="asaxi-script-alpha">zå</span>
 ### Grammatical function
 
 - **Type:** Temporal Connector

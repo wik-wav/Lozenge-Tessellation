@@ -1,0 +1,52 @@
+---
+title: chosnè (noun) - garlic (Pl. *czosnek*)
+Word (Asaxi): chosnè
+trnsltion. En: garlic (Pl. *czosnek*)
+trnsltion. Pl: czosnek
+tags:
+  - Asaxi
+  - language
+  - noun
+  - vocab_expansion
+---
+# chosnè ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">chosnè</span>
+
+<span class="asaxi-script-alpha">chosnè</span>
+### Noun class (warm / cold)
+**Cold**
+
+### Pronunciation
+IPA: /t̠ʃo̞snə/
+
+### Semantic Field
+[[Smntc_Field Food & Drink]]
+
+### Translations
+- English: garlic (Pl. *czosnek*)
+- Polish: czosnek
+
+### Example sentence
+**Chosnè chỏno vanů.**
+_Garlic is in the food._
+
+### Alternative Forms
+Null
+
+### Etymology
+Coined for this concept — Pl. *czosnek*.
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null
+
+### Plural Form
+**chosna**

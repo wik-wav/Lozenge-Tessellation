@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">hjá</span>
 
+<span class="asaxi-script-alpha">hjá</span>
 ### Noun class (warm / cold)
 
 **Warm**
@@ -33,16 +34,13 @@ IPA: /çɑ/
 - English: child, young one, offspring, baby, kid
 - Polish: dziecko, młode (zwierzęcia)
 
-### Usage Note (Morphology)
-
-Functions as a **Suffix** to animal roots to denote their young.
-* **Structure:** `[Animal Root] + hjá`.
-* **Example:** `mmrå` (Cat) + `hjá` $\rightarrow$ **mmråhjá** (Kitten).
-
 ### Example sentence
 
 **To hjá ŕima.**
 _The child thinks._
+
+### Alternative Forms
+Null
 
 ### Etymology
 
@@ -62,3 +60,9 @@ _The child thinks._
 - **mmråhjá** (Kitten).
 - **jýnnhjá** (Hyena cub).
 - **shivëhjá** (Civet kit).
+
+### Usage Note (Morphology)
+
+Functions as a **Suffix** to animal roots to denote their young.
+* **Structure:** `[Animal Root] + hjá`.
+* **Example:** `mmrå` (Cat) + `hjá` $\rightarrow$ **mmråhjá** (Kitten).

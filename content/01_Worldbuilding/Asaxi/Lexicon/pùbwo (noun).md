@@ -14,46 +14,37 @@ title: pùbwo (noun) - buttocks, glutes
 
 <span class="asaxi-script">pùbwo</span>
 
+<span class="asaxi-script-alpha">pùbwo</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: Body part, living tissue.
 
 ### Pronunciation
-
 IPA: /pɯbʷo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: buttocks, glutes, bottom
 - Polish: tyłek, pośladki, zad
 
 ### Example sentence
-
 **To wo pùbwo nanů.**
 _I sit on my buttocks._ (Lit: I occupy-on the buttocks).
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 **[[pù- (Relational Locative Prefix)|pù]]** (Below) + **[[bwo (noun)|bwo]]** (Fat).
 *Lit:* "Low-fat" or "Bottom-fat."
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
 x
 
 ### Derived terms
-
-Null
+- **pùbwonă / pùbwonýj** (adjectival forms) *(potential)*

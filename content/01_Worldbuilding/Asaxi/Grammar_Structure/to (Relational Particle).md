@@ -1,6 +1,6 @@
 ---
 title: to (Relational Particle) - subject marker
-Word (Asaxi): to (Particle)
+Word (Asaxi): to
 trnsltion. En: subject marker
 tags:
   - Asaxi
@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">to</span>
 
+<span class="asaxi-script-alpha">to</span>
 ### Grammatical function
 
 - **Particle type:** [[15_NPCP and The Agglutinative Block|Relational Particle (NPCP)]]
@@ -63,7 +64,7 @@ The particle changes form to indicate the speaker's attitude or the specific foc
 
 ### Antonyms
 
-Null
+- [[ă (Relational Particle)|ă]] - subjective/felt subject marker (objective ↔ subjective counterpart)
 
 ### Derived terms
 

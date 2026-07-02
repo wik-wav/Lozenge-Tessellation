@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">shěsonýj</span>
 
+<span class="asaxi-script-alpha">shěsonýj</span>
 ## Warm/Cold
 
 class:
@@ -22,35 +23,31 @@ animate?
 - not
 other class equivalent:
 - [[shánă (adjective)]]
-### Pronunciation
 
+### Pronunciation
 IPA: /ɹ̠̊ɚsonɪj/
 
 ### Semantic Field
-
 [[Smntc_Field Literature and Reading]]
 
 ### Translations
-
 - English: knowledgeable, well-versed, booksmart
 - Polish: książkowy, dobrze obeznany
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 x
 
 ### Etymology
-
 Adjectival form of [[shěso (noun)]]
 
 ### Synonyms
-
 x
 
 ### Root Noun
-
 - [[shěsonýj (adjective)]]
 
 ### Antonyms
-
 x

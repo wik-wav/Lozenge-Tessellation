@@ -26,3 +26,4 @@ Navigation:
 - [[fůtăgo (Quantifier)]] - "Some", "A number of", "Several", "An unspecified amount (greater than zero)".
 - [[hjigo (Quantifier)]] - "Few", "Little", "Not many", "A small number of".
 - [[dăgo (Quantifier)]] - "Many", "A lot of", "Numerous", "A multitude".
+- [[ŋono (noun)]] - weight, mass, heaviness

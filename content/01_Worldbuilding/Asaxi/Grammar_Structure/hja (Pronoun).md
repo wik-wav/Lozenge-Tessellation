@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">hja</span>
 
+<span class="asaxi-script-alpha">hja</span>
 ### Grammatical function
 
 The pronoun `hja` (it (plural)) is a third-person plural nominative pronoun.

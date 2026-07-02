@@ -1,6 +1,6 @@
 ---
 title: izo (Relational Particle) - from, out of, since
-Word (Asaxi): izo (particle)
+Word (Asaxi): izo
 trnsltion. En: from, out of, since
 tags:
   - Asaxi
@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">izo</span>
 
+<span class="asaxi-script-alpha">izo</span>
 ### Grammatical function
 
 - **Particle type:** [[15_NPCP and The Agglutinative Block|Relational Particle (NPCP)]]

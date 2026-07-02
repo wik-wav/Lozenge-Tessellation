@@ -14,27 +14,34 @@ tags:
 
 <span class="asaxi-script">pwo</span>
 
+<span class="asaxi-script-alpha">pwo</span>
 ### Noun class (warm / cold)
-
 **Cold** (Time unit)
 
 ### Pronunciation
-
 IPA: /pʷo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]]
 
 ### Translations
-
 - English: tomorrow
 - Polish: jutro
 
 ### Example sentence
-
 **To wo pwo paxoxo.** _I will depart tomorrow._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[pa- (Relational Locative Prefix)|pa]]** (Front) + **[[o (noun)|o]]** (Sky). _Lit:_ "The Sky in Front."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+- [[papwo (noun)|papwo]] - The day after tomorrow, overmorrow.

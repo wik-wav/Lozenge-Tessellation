@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">náxăhè</span>
 
+<span class="asaxi-script-alpha">náxăhè</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle Compound]] (Suffix)

@@ -15,41 +15,46 @@ tags:
 
 <span class="asaxi-script">pjonů</span>
 
+<span class="asaxi-script-alpha">pjonů</span>
 ### Transitivity / Valency
-
 **Transitive** (Lighting up an object/space) or **Intransitive** (Turning on).
 
 ### Lexical Aspect
-
-**Activity:** The process of providing light.
-
-### Grammatical Note
-
-Derived from **[[pjo (noun)|pjo]]** (Light/Lamp) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance/Use) + **-ů**.
-* *Logic:* "To use light" or "To function as a light source upon X."
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Tools]] / Physics
 
 ### Pronunciation
-
 IPA: /pʲonuu̯/
 
 ### Translations
-
 - English: to light up, to illuminate, to turn on (a light), to brighten
 - Polish: oświetlać, zapalać (światło), rozjaśniać
 
 ### Example sentence
-
 **To wo xëjá pjonů.**
 _I light up the room._
 
-### Antonyms
+### Alternative Forms
+Null
 
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Antonyms
 - x
 
-### Derived terms
+### Root Noun
+- [[pjo (noun)|pjo]]
 
-Null
+### Derived terms
+- **pjonůshá** (agent noun) *(potential)*
+
+### Grammatical Note
+Derived from **[[pjo (noun)|pjo]]** (Light/Lamp) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance/Use) + **-ů**.
+* *Logic:* "To use light" or "To function as a light source upon X."

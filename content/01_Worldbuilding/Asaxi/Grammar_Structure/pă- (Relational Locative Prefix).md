@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">pă</span>
 
+<span class="asaxi-script-alpha">pă</span>
 ### Grammatical function
 
 - **Type:** Relational Locative Prefix

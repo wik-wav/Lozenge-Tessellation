@@ -14,43 +14,41 @@ tags:
 
 <span class="asaxi-script">papwo</span>
 
+<span class="asaxi-script-alpha">papwo</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
-### Grammatical function
-
-- **Type:** Temporal Noun
-- **Meaning:** The day after tomorrow, overmorrow.
-
 ### Pronunciation
-
 IPA: /papʷo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]]
 
 ### Translations
-
 - English: the day after tomorrow, overmorrow
 - Polish: pojutrze
 
 ### Example sentence
-
 **To wo papwo paxoxo.**
 _I will depart the day after tomorrow._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[pa- (Relational Locative Prefix)|pa]]** (Front) + **[[pwo (noun)|pwo]]** (Tomorrow).
 
 *Lit:* "Front-Tomorrow." (The day in front of tomorrow).
 
 ### Synonyms
-
 - **[Two days from now]** (`vaxi patam`).
 
 ### Antonyms
-
 - **[[hùhwo (noun)|hùhwo]]** (The day before yesterday).
+
+### Derived terms
+Null
+
+### Grammatical function
+- **Type:** Temporal Noun
+- **Meaning:** The day after tomorrow, overmorrow.

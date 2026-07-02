@@ -13,19 +13,18 @@ tags:
 
 <span class="asaxi-script">ŕă</span>
 
+<span class="asaxi-script-alpha">ŕă</span>
 ### Grammatical function
-
 - **Type:** Cardinal Number
 - **Value:** **5**
 
 ### Pronunciation
-
 IPA: /ɾaɪ/
 
 ### Example sentence
-
 **To wo ŕă apa ma.** _"I have five apples."_
 
 ### Derived terms
-
 - **biŕă** (5th)
+- [[dëŕă (noun)|dëŕă]] - tail (of an animal)
+- [[xiŕă (noun)|xiŕă]] - sunlight, sunshine

@@ -14,45 +14,36 @@ tags:
 
 <span class="asaxi-script">topobi</span>
 
+<span class="asaxi-script-alpha">topobi</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
 - Reasoning: Abstract system/data.
 
 ### Pronunciation
-
 IPA: /t̪opobi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Weather & Climate]]
 
 ### Translations
-
 - English: weather, climate, forecast
 - Polish: pogoda, klimat
 
 ### Example sentence
-
 **To topobi opùnågavi xiŕa.** _The weather is usually green (good)._
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 **[[topo (noun)|topo]]** (Rain) + **[[bi (noun)|bi]]** (Line/Graph). _Lit:_ "Rain-lines." (referring to isobars, rain charts, or the visual streaks of rain).
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůtopobi** (absence of weather) *(potential)*
 
 ### Derived terms
-
-Null
+- **topobină / topobinýj** (adjectival forms) *(potential)*

@@ -101,6 +101,10 @@ Just as `ni` (Towards) becomes `niŕa` (Becomes), the spatial prefixes fuse dire
 | **dåŕa**   | `då` (For)      | To be for             | "Exists for."        |
 | **băŕa**   | `bă` (By)       | To be caused by       | "Exists because of." |
 
+**`sèŕa` — the inclusion sense.** Beyond pure possession, **`sèŕa`** also marks **part-whole inclusion / belonging-to-a-set** — a bay belongs to a coast, a chapter to a book:
+
+> **Dăŕobiwa sè simama ksùŕa sèŕa ken.** _"Bays can belong to islands' coasts."_
+
 #### Contrast with Active Spatial Verbs (-nů)
 
 Asaxi employs **Active Spatial Verbs** using the universal verbalizer **`-nů`** (Location as function/occupation).
@@ -131,3 +135,21 @@ Because a "vicinity" is an abstract zone rather than a physical container, you g
     - _Lit:_ "The book inhabits the here-vicinity." (Implies the vicinity is a physical container like a box).
 
 > **Toonýj shěso no-gă ỏnů.** _"The book is around there."_
+
+
+---
+
+## Mutability: `-ŕa` (immutable) vs `-nů` / `ů` (mutable)
+
+The choice between the stative **`-ŕa`** verbs and the active **`-nů`** verbs — and between **`xiŕa`** and **`ů`/`bů`** — encodes whether a relation is an **immutable, defining fact** or a **mutable, current** one.
+
+- Use **`-ŕa`** / **`xiŕa`** only for relations that are **intrinsic, permanent, or definitional**, and only with a **specific, definite subject**. Saying `[generic noun] … -ŕa` defines the *category*, which is rarely what you mean (e.g. you cannot say "a lake is below the mountain" — that would define lakes; name a specific lake).
+- Use **`-nů`** / **`ů`** / **`bů`** for relations that are **temporary, positional, or changeable**.
+
+| Mutable (`-nů` / `ů`) | Immutable (`-ŕa` / `xiŕa`) |
+| --- | --- |
+| **Apo pùkŕo nanů.** — An apple is on the floor (it can be moved). | **Hèno cù vaŕa.** — A root sits in the soil (its place *is* the soil). |
+| **Mao dăotamo xanů.** — The moon is above the horizon (not always). | **Owao pxỏnýj xiŕa.** — The Earth is round (always). |
+| **Ŋè kjèpo pùnů.** — A shadow lies below the tree (move the light and it does not). | **Morskie oko tte fgăŕo jëga pùŕa.** — Morskie oko, a specific lake, is below the mountains. |
+
+Negation follows the same split: **Sè dătáwao cőcő bůná** ("there is no understanding of nature") uses the **mutable** negative — it leaves room for understanding to come; an `-ŕa` negative would assert it can *never* be understood. A generic claim likewise takes the mutable verb: **Vahùsoŕo, hùso dăgo bů** ("in the desert there is much sand") — `bů`, not `xiŕa`, because not every desert is sandy.

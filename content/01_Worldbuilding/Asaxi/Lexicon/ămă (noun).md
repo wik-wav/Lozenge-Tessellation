@@ -14,12 +14,40 @@ tags:
 
 <span class="asaxi-script">ămă</span>
 
+<span class="asaxi-script-alpha">ămă</span>
 ### Noun class (warm / cold)
-
 **cold**
 
-### Grammatical function
+### Pronunciation
+IPA: /aɪmaɪ/
 
+### Semantic Field
+[[Smntc_Field Time]]
+
+### Translations
+- English: the right time
+- Polish: we właściwy czas
+
+### Example sentence
+Null
+
+### Alternative Forms
+Null
+
+### Etymology
+**[[ă (Relational Particle)|ă]]** (Subjective/Internal) + **[[mă (Particle)|-mă]]** (Every/Instance).
+*Logic:* "Every subjective instance." The moments that align with the self.
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+- **[[ămăni (Particle)|ămăni]]** (At your leisure / Towards the right time).
+
+### Grammatical function
 - **Type:** Abstract Noun / Frequency Adverb
 - **Function:** **Subjective Timing**
 - **Meaning (Noun):** "The right time", "The subjective moment", "Kairos".
@@ -30,16 +58,3 @@ tags:
     * `To ămă paxiŕa.` ("It will be the right time").
 * **As Adverb:** Floating pre-verbal modifier.
     * `To wo ămă pashěsonů.` ("I will read **when the time is right** / **opportunely**.")
-
-### Pronunciation
-
-IPA: /aɪmaɪ/
-
-### Etymology
-
-**[[ă (Relational Particle)|ă]]** (Subjective/Internal) + **[[mă (Particle)|-mă]]** (Every/Instance).
-*Logic:* "Every subjective instance." The moments that align with the self.
-
-### Derived terms
-
-- **[[ămăni (Particle)|ămăni]]** (At your leisure / Towards the right time).

@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">chě</span>
 
+<span class="asaxi-script-alpha">chě</span>
 ### Grammatical function
 
 - **Type:** Conditional Particle

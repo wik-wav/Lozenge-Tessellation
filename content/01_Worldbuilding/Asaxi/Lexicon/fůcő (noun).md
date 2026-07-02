@@ -14,33 +14,36 @@ tags:
 
 <span class="asaxi-script">fůcő</span>
 
+<span class="asaxi-script-alpha">fůcő</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
 ### Pronunciation
-
 IPA: /fuu̯t͡soɪ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Perception]] / Cognition
 
 ### Translations
-
 - English: misunderstanding, confusion, lack of grasp, misinterpretation
 - Polish: nieporozumienie, niezrozumienie
 
 ### Example sentence
-
 **Toonă o-tètáko bă fůcő xiŕa.**
 _This fight is a misunderstanding._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[fů (root word)|fů]]** (Lack) + **[[cő (verb)|cő]]** (Understand - Root).
 *Lit:* "Understand-lessness."
 
-### Antonyms
+### Synonyms
+Null
 
+### Antonyms
 - **cőcő** (Understanding).
+
+### Derived terms
+- [[fůcőma (verb)|fůcőma]] - to have without appreciation

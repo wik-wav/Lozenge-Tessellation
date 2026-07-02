@@ -14,44 +14,36 @@ tags:
 
 <span class="asaxi-script">nodo</span>
 
+<span class="asaxi-script-alpha">nodo</span>
 ### Noun class (warm / cold)
-
 Warm
 
 ### Pronunciation
-
 IPA: /nodo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: neck
 - Polish: szyja
 
 ### Example sentence
-
 Sè xő nodo dăschi xiŕa.
 His neck is long. (Lit: Of him neck long-cm [is]).
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Borrowed from Japanese **喉** (*nodo* - throat/neck).
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůnodo** (absence of neck) *(potential)*
 
 ### Derived terms
-
-Null
+- **nodonă / nodonýj** (adjectival forms) *(potential)*
+- [[nodobi (noun)|nodobi]] - necklace

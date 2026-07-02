@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">nixå</span>
 
+<span class="asaxi-script-alpha">nixå</span>
 ### Grammatical function
 
 - **Particle type:** [[15_NPCP and The Agglutinative Block|Compound Relational Particle]]

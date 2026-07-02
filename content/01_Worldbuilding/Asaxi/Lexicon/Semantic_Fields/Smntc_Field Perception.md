@@ -52,3 +52,42 @@ Navigation:
 - [[cő (verb)]] - to understand, to comprehend, to get it, to grasp (mentally)
 - [[ijono (noun)]] - vision, eyesight
 - [[nỏcè (noun)]] - note, memo, entry, record, reminder
+- [[ŋè (noun)]] - shadow
+- [[ŋèxů (verb)]] - to overshadow, occlude, eclipse
+
+- [[taŕa (verb)]] - to listen
+- [[cèka (verb)]] - to remember, to recall
+- [[cèva (verb)]] - to believe, to hold true
+- [[cèpù (verb)]] - to guess, to suppose
+- [[cèxo (verb)]] - to wonder, to ponder
+- [[ijpù (verb)]] - to notice, to spot
+- [[ijcè (verb)]] - to recognise
+- [[ŕimo (verb)]] - to imagine, to envision
+- [[cèxa (verb)]] - to realise, to grasp suddenly
+- [[tăpù (verb)]] - to decide, to resolve
+- [[tăxo (verb)]] - to choose, to pick
+- [[cètá (verb)]] - to judge, to evaluate
+- [[ŕimpù (verb)]] - to plan, to devise
+- [[ănăka (verb)]] - to expect, to await
+- [[ŕimxa (verb)]] - to focus, to concentrate
+- [[ijsha (verb)]] - to ignore, to overlook
+- [[bika (verb)]] - to compare
+- [[cőka (verb)]] - to solve, to work out
+- [[cèwo (verb)]] - to assume, to take as given
+- [[jåka (verb)]] - to intend, to mean to
+- [[ijoŕima (verb)]] - to examine, to study closely
+- [[ijwo (verb)]] - to perceive, to sense
+- [[sigonů (verb)]] - to count, to tally
+- [[ijoŕonů (verb)]] - to dream
+- [[kùsoŋů (verb)]] - to stink, to smell foul
+- [[miazhů (verb)]] - to taste sweet
+- [[pivaŋů (verb)]] - to be fragrant, to smell sweet
+- [[gosů (verb)]] - to clatter, to sound stony
+- [[ihjopů (verb)]] - to feel bony, to feel hard
+- [[mmråwů (verb)]] - to act catlike, to be sly/graceful
+- [[dăchů (verb)]] - to feel huge, to feel mighty
+- [[goků (verb)]] - to petrify, to turn to stone
+- [[ŕăků (verb)]] - to set ablaze, to turn into fire
+- [[cùpỏshů (verb)]] - to dust off, to clear of dust
+
+- [[apojů (verb)]] - to look like

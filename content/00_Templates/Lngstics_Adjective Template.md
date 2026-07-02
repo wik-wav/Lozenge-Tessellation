@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">Word (Asaxi)</span>
 
+<span class="asaxi-script-alpha">Word (Asaxi)</span>
 ## Warm/Cold
 
 class:
@@ -40,7 +41,7 @@ x
 - English:
 - Polish:
 
-### Example sentence:
+### Example sentence
 
 **As an adjective:**
 - x
@@ -54,8 +55,7 @@ x
 3. Contrast (Adjective vs. Adverb)
 	- c
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology

@@ -15,48 +15,48 @@ tags:
 
 <span class="asaxi-script">hjonů</span>
 
+<span class="asaxi-script-alpha">hjonů</span>
 ### Transitivity / Valency
-
 **Intransitive** (Wishing) or **Transitive** (Wishing for X).
 
 ### Lexical Aspect
-
-**Activity:** Continuous state of longing.
-
-### Grammatical Note
-
-Derived from **[[hjo (noun)|hjo]]** (Star) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Emotion]] / Volition
 
 ### Pronunciation
-
 IPA: /çonuu̯/
 
 ### Translations
-
 - English: to wish for, to long for, to stargaze (metaphorical), to hope for
 - Polish: życzyć sobie, pragnąć, marzyć
 
-### Usage Note
-
-Implies "Wishful thinking" or looking upwards for an answer.
-
 ### Example sentence
-
 **To wo frë hjonů.**
 _I wish for freedom._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 "To use the stars" (i.e., to wish upon them).
 
 ### Synonyms
-
 - **[[jå (verb)|jå]]** (To want - more direct/active).
 
-### Derived terms
-
+### Antonyms
 Null
+
+### Root Noun
+- [[hjo (noun)|hjo]]
+
+### Derived terms
+- **hjonůshá** (agent noun) *(potential)*
+
+### Grammatical Note
+Derived from **[[hjo (noun)|hjo]]** (Star) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+
+### Usage Note
+Implies "Wishful thinking" or looking upwards for an answer.

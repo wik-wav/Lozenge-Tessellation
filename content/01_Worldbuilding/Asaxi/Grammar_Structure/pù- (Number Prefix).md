@@ -13,6 +13,7 @@ title: pù- (Number Prefix) - "Part of" "Divided by"
 
 <span class="asaxi-script">pù-</span>
 
+<span class="asaxi-script-alpha">pù-</span>
 ### Grammatical function
 
 - **Type:** Number Prefix

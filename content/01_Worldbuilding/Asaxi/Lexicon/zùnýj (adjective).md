@@ -14,6 +14,7 @@ title: zùnýj (adjective) - skilled, skillful
 
 <span class="asaxi-script">zùnýj</span>
 
+<span class="asaxi-script-alpha">zùnýj</span>
 ## Warm/Cold
 
 class:
@@ -24,15 +25,12 @@ other class equivalent:
 - (None)
 
 ### Pronunciation
-
 IPA: /zɯnɪj/
 
 ### Semantic Field
-
 [[Smntc_Field Virtues & Failings]]
 
 ### Translations
-
 **As an adjective:**
 - English: skilled, skillful, proficient, adept, good (at something)
 - Polish: wprawny, zręczny, biegły
@@ -41,8 +39,7 @@ IPA: /zɯnɪj/
 - English: skillfully, well, adeptly
 - Polish: wprawnie, zręcznie
 
-### Example sentence:
-
+### Example sentence
 **As an adverb (Manner):**
 - To John zùnýj shěsonů.
 John reads skillfully (John is skilled at reading).
@@ -51,22 +48,17 @@ John reads skillfully (John is skilled at reading).
 - To John zùnýj xiŕa.
 John is skilled.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 [[zù (noun)|zù]] (Skill) + \[-nýj\] (Cold Adjective Suffix).
 
 ### Synonyms
-
 - **[[gavină (adjective)|gavină]]** (Good - general).
 
 ### Root Noun
-
 - [[zù (noun)|zù]]
 
 ### Antonyms
-
 - **fůzùnýj** (Unskilled).

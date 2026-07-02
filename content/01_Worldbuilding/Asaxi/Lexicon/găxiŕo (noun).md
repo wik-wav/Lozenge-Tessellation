@@ -14,36 +14,39 @@ tags:
 
 <span class="asaxi-script">găxiŕo</span>
 
+<span class="asaxi-script-alpha">găxiŕo</span>
 ### Noun class (warm / cold)
-
 **Warm**
 
 ### Pronunciation
-
 IPA: /ɡaɦiɾo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Colours]]
 
 ### Translations
-
 - English: vibrancy, vividness, intense color, psychedelia
 - Polish: jaskrawość, żywość barw
 
-### Usage Note
-
-Implies an active, striking, or "forced" colourfulness.
-
 ### Example sentence
-
 **To hja gaxiŕo.**
 _The stars are vibrant._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[ga (Fusing Particle)|ga]]** (Type) + **-x-** (Bridge/Force) + **[[iŕo (noun)|iŕo]]** (Colour).
 *Lit:* "Forced-Colour-Type."
 
-### Derived terms
+### Synonyms
 Null
+
+### Antonyms
+Null
+
+### Derived terms
+- **găxiŕonă / găxiŕonýj** (adjectival forms) *(potential)*
+
+### Usage Note
+Implies an active, striking, or "forced" colourfulness.

@@ -14,40 +14,35 @@ tags:
 
 <span class="asaxi-script">dăshá</span>
 
+<span class="asaxi-script-alpha">dăshá</span>
 ### Noun class (warm / cold)
-
 warm
 
 ### Pronunciation
-
 IPA: /daɪʃɑ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Animals]]
 
 ### Translations
-
 - English: elephant
 - Polish: słoń
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 x
 
 ### Etymology
-
 x
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůdăshá** (absence of elephant) *(potential)*
 
 ### Derived terms
-
 - [[gadă (noun)]]
 - [[dănă (adjective)]]

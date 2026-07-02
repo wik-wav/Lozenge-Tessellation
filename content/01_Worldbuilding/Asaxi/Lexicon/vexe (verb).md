@@ -1,0 +1,57 @@
+---
+title: vexe (verb) - to shiver
+Word (Asaxi): vexe
+trnsltion. En: to shiver
+trnsltion. Pl: drżeć (z zimna)
+Transitivity: monotransitive
+tags:
+  - Asaxi
+  - language
+  - verb
+  - vocab_expansion
+---
+# vexe ([[02_Asaxi Verbs_Root (List)]])
+
+- - -
+
+<span class="asaxi-script">vexe</span>
+
+<span class="asaxi-script-alpha">vexe</span>
+### Transitivity / Valency
+_monotransitive_
+
+### Lexical Aspect
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
+
+### Grammatical Note
+- **[[02_Asaxi Verbs_Root (List)]]:** Root verb — may take **-ů** to derive a durative reading, and `na-`/`tå-`/`ni-`/`chå-` for other aspects.
+
+### Semantic Field
+[[Smntc_Field Motion]]
+
+### Pronunciation
+IPA: /b̪ve̞ɦe̞/
+
+### Translations
+- English: to shiver
+- Polish: drżeć (z zimna)
+
+### Example sentence
+**Wo zhýchů sèni, vexe.**
+_I am cold, so I shiver._
+
+### Alternative Forms
+Null
+
+### Etymology
+Native root verb, coined for this action.
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null

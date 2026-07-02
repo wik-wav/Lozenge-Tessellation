@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">hù-</span>
 
+<span class="asaxi-script-alpha">hù-</span>
 ### Grammatical function
 
 - **Type:** Relational Locative Prefix

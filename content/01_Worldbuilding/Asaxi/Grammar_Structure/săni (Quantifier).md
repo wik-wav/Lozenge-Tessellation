@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">săni</span>
 
+<span class="asaxi-script-alpha">săni</span>
 ### Noun class (warm / cold)
 
 Cold
@@ -56,4 +57,4 @@ Logic: "Towards the whole" (Approaching 100%).
 
 ### Derived terms
 
-Null
+- **să**-family: [[sănani (Quantifier)|sănani]] (some), [[săsă (Quantifier)|săsă]] (all of)

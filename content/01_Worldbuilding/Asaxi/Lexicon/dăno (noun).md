@@ -14,31 +14,36 @@ tags:
 
 <span class="asaxi-script">dăno</span>
 
+<span class="asaxi-script-alpha">dăno</span>
 ### Noun class (warm / cold)
 **Cold**
 
 ### Pronunciation
-
 IPA: /daɪno/
 
-### Semantic field
+### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]
 
 ### Translations
-
 - English: size, magnitude, scale, dimensions
 - Polish: rozmiar, wielkość
 
 ### Example sentence
-
 **To dăno sè shěso gahji xiŕa.**
 _The size of the book is smallness._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[dăshá (noun)|dă]]** (Elephant/Big) + **-no**.
 *Sound Symbolism:* Resembles "Dino" (Dinosaur/Huge).
 
-### Derived terms
-
+### Synonyms
 Null
+
+### Antonyms
+Null
+
+### Derived terms
+- **dănonă / dănonýj** (adjectival forms) *(potential)*

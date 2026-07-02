@@ -21,3 +21,4 @@ Navigation:
 - [[pxůmă (noun)]] - everything denied, the collection of noes
 - [[pxỏmă (noun)]] - sum of toil, total exertion
 - [[tamni (noun)]] - togetherness, together as a pair
+- [[lă (noun)]] - looseness

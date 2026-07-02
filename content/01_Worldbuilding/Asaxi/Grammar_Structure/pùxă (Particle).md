@@ -13,6 +13,7 @@ title: pùxă (Particle) - "I hope not", "God forbid", "Lest".
 
 <span class="asaxi-script">pùxă</span>
 
+<span class="asaxi-script-alpha">pùxă</span>
 ### Grammatical function
 
 - **Type:** Desiderative Particle (Sentence Final)

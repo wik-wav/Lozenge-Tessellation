@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">xăkă</span>
 
+<span class="asaxi-script-alpha">xăkă</span>
 ### Grammatical function
 
 - **Type:** Subjunctive Particle (Sentence Final)

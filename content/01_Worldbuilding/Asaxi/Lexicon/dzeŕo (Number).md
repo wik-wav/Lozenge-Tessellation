@@ -13,19 +13,16 @@ tags:
 
 <span class="asaxi-script">dzeŕo</span>
 
+<span class="asaxi-script-alpha">dzeŕo</span>
 ### Grammatical function
-
 - **Type:** Cardinal Number
 - **Value:** **0**
 
 ### Pronunciation
-
 IPA: /d̻͡z̪əɾo/
 
 ### Example sentence
-
 **To wo dzeŕo apo ma.** _"I have zero apples."_
 
 ### Derived terms
-
-Null
+- **dzeŕonă** (derived adjective) *(potential)*

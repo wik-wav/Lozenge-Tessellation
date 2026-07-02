@@ -14,38 +14,49 @@ tags:
 
 <span class="asaxi-script">vănýj</span>
 
-### Grammatical function
+<span class="asaxi-script-alpha">vănýj</span>
+## Warm/Cold
 
-- **Type:** Qualitative Adjective (`-nýj`)
-- **Source Agreement:** **Cold** (Root `vă` is Cold).
+class:
+- cold
+animate?
+- 
+other class equivalent:
+-
 
 ### Pronunciation
-
 IPA: /vaɪnɪj/
 
 ### Semantic Field
-
 [[Smntc_Field Time]] / Motion
 
 ### Translations
-
 - English: slow, sluggish, gradual, unhurried
 - Polish: wolny, powolny
 
-### Usage Note
-
-Implies a pace similar to plant growth—quiet, barely perceptible, or lacking urgency.
-
 ### Example sentence
-
 **To ŕèzishá vănýj ů.**
 _The lizard is slow._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[vă (noun)|vă]]** (Plant) + **-nýj**.
 *Lit:* "Plant-ish" or "Vegetative-pace."
 
-### Antonyms
+### Synonyms
+Null
 
+### Root Noun
+- [[vă (noun)|vă]]
+
+### Antonyms
 - x
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nýj`)
+- **Source Agreement:** **Cold** (Root `vă` is Cold).
+
+### Usage Note
+Implies a pace similar to plant growth—quiet, barely perceptible, or lacking urgency.

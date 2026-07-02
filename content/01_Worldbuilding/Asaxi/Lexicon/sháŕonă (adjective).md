@@ -14,38 +14,49 @@ tags:
 
 <span class="asaxi-script">sháŕonă</span>
 
-### Grammatical function
+<span class="asaxi-script-alpha">sháŕonă</span>
+## Warm/Cold
 
-- **Type:** Qualitative Adjective (`-nă`)
-- **Source Agreement:** **Warm** (Root `sháŕo` is Warm).
+class:
+- warm
+animate?
+- 
+other class equivalent:
+-
 
 ### Pronunciation
-
 IPA: /ʃɑɾonaɪ/
 
 ### Semantic Field
-
 [[Smntc_Field Emotion]] / Safety
 
 ### Translations
-
 - English: safe, secure, life-sustaining
 - Polish: bezpieczny
 
-### Usage Note (Cultural Metaphor)
-
-Derived from **[[sháŕo (noun)|sháŕo]]** (Waterhole/Pool).
-*Logic:* In the Lozenge Tessellation, the waterhole is where life gathers. It is the "Safe Zone" where creatures drink. Therefore, "Pool-like" means "Safe."
-
 ### Example sentence
-
 **To o-kamm sháŕonă xiŕa.**
 _This building is safe._
 
-### Etymology
+### Alternative Forms
+Null
 
-**sháŕo** (Pool) + **-nă**.
+### Etymology
+**[[sháŕo (noun)|sháŕo]]** (Pool) + **-nă**.
+
+### Synonyms
+Null
+
+### Root Noun
+- [[sháŕo (noun)|sháŕo]]
 
 ### Antonyms
-
 - **[Dangerous]** (TBD).
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nă`)
+- **Source Agreement:** **Warm** (Root `sháŕo` is Warm).
+
+### Usage Note (Cultural Metaphor)
+Derived from **[[sháŕo (noun)|sháŕo]]** (Waterhole/Pool).
+*Logic:* In the Lozenge Tessellation, the waterhole is where life gathers. It is the "Safe Zone" where creatures drink. Therefore, "Pool-like" means "Safe."

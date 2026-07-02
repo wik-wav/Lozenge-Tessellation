@@ -15,47 +15,51 @@ tags:
 
 <span class="asaxi-script">tètáshů</span>
 
+<span class="asaxi-script-alpha">tètáshů</span>
 ### Transitivity / Valency
-
 **Intransitive**
 
 ### Lexical Aspect
-
-**Achievement / Process:** The cessation of struggle.
-
-### Grammatical Note
-
-Derived from **[[tètá (noun)|tètá]]** (Pain) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative Mode) + **-ů**.
-* *Logic:* "To strip pain."
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]]
 [[Smntc_Field Conflict]]
 
 ### Pronunciation
-
 IPA: /t̪ət̪ɑʃuw/
 
 ### Translations
-
 - English: to give up, to surrender, to quit, to yield
 - Polish: poddać się, ustąpić
 
-### Usage Note (Cultural Metaphor)
-
-In Asaxi, "Giving Up" is linguistically framed as **"Pain Removal."** It implies that the struggle itself was the source of pain, and quitting is the act of relieving it. It can carry a nuance of relief rather than just failure, but this depends on context.
-
 ### Example sentence
-
 **To wo tètáshů.**
 _I give up (I end the pain)._
 
-### Synonyms
+### Alternative Forms
+Null
 
+### Etymology
+Null
+
+### Synonyms
 - **xèjåshů** (To stop trying).
 
 ### Antonyms
-
 - **izovivi [Verb]** (To do with utmost effort).
 - **tètáka** (To fight).
+
+### Root Noun
+Null
+
+### Derived terms
+Null
+
+### Grammatical Note
+Derived from **[[tètá (noun)|tètá]]** (Pain) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative Mode) + **-ů**.
+* *Logic:* "To strip pain."
+
+### Usage Note (Cultural Metaphor)
+In Asaxi, "Giving Up" is linguistically framed as **"Pain Removal."** It implies that the struggle itself was the source of pain, and quitting is the act of relieving it. It can carry a nuance of relief rather than just failure, but this depends on context.

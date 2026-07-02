@@ -13,6 +13,7 @@ title: nika (Reflexive Pronoun) - themselves (female group)
 
 <span class="asaxi-script">nika</span>
 
+<span class="asaxi-script-alpha">nika</span>
 ### Grammatical function
 
 - **Type:** Reflexive Pronoun

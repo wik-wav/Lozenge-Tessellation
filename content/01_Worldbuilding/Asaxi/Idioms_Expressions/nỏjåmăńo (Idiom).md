@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nỏjåmăńo</span>
 
+<span class="asaxi-script-alpha">nỏjåmăńo</span>
 ### Pronunciation
 
 **IPA:** /nou̯jau̯maɪɲo/

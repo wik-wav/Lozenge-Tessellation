@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">niwa</span>
 
+<span class="asaxi-script-alpha">niwa</span>
 ### Grammatical function
 
 - **Type:** Reflexive Pronoun

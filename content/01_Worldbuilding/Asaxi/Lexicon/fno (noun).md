@@ -14,34 +14,50 @@ tags:
 
 <span class="asaxi-script">fno</span>
 
-### Pronunciation
+<span class="asaxi-script-alpha">fno</span>
+### Noun class (warm / cold)
+**Cold**
+- Reasoning: inanimate visual phenomenon (a drifting speck).
 
+### Pronunciation
 **IPA:** /fno/
 
-### Lexical Classification
+### Semantic Field
+[[Smntc_Field The Body|Smntc_Field The Human Body]]
 
+### Translations
+- English: eye floater, vitreous opacity, drifting speck, visual debris
+- Polish: męt, męt ciałka szklistego, latająca muszka
+
+### Example sentence
+Null
+
+### Alternative Forms
+Null
+
+### Etymology
+Root word. Likely onomatopoeic or derived from archaic roots relating to drifting or haze.
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+- [[fnonů (verb)|fnonů]] - to move, to drift, to float about, to migrate (slowly)
+### Lexical Classification
 **Category:** Noun
 **Noun Class:** Cold (Inanimate/Distal)
 
-### Semantic Field
-
-[[Smntc_Field The Body|Smntc_Field The Human Body]] 
-
 ### Meanings & Translations
-
 **English:** eye floater, vitreous opacity, drifting speck, visual debris
 **Polish:** męt, męt ciałka szklistego, latająca muszka, pyłek w oku
 
 ### Definition
-
 A small, semi-transparent speck or string that drifts across one's field of vision (myodesopsia). In Asaxi thought, it is classified as "Cold" due to its intangible, ghostly nature and its lack of agency, despite its movement. It represents something that is always present but cannot be grasped or directly looked at.
 
-### Etymology
-
-Root word. Likely onomatopoeic or derived from archaic roots relating to drifting or haze.
-
-### Example Sentences
-
+### Example sentences
 - **Wo fna ma.**
   _I have eye floaters._
   _Mam męty ciałka szklistego._

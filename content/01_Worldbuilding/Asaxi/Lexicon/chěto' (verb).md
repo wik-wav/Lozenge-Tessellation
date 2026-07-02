@@ -15,22 +15,20 @@ tags:
 
 <span class="asaxi-script">chěto'</span>
 
+<span class="asaxi-script-alpha">chěto'</span>
 ### Transitivity / Valency
-
 **Ambitransitive**
 * **Intransitive:** To come to a standstill ("I stop walking").
 * **Transitive:** To arrest someone's motion ("I halt him").
 
 ### Lexical Aspect
-
-**Achievement:** Instantaneous event (The moment feet stop moving).
+- **Punctual (Achievement)** — happens in a single moment.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully" · **-ů** "make it ongoing".
 
 ### Grammatical Note
-
-**[[02_Asaxi Verbs_Root (List)]]:** This belongs to the closed class of primitive verbs. It is a root verb and does not utilize the Universal Verbalizer *-ů* suffix.
+**[[02_Asaxi Verbs_Root (List)]]:** Closed-class primitive verb, **punctual by default**. It may take **-ů** to derive a durative reading, and `na-`/`tå-`/`ni-`/`chå-` for other aspects.
 
 ### Semantic Field
-
 [[Smntc_Field Motion]]
 
 ### Pronunciation
@@ -40,18 +38,10 @@ IPA: /t̠ʃɚt̪oʔ/
 - English: to halt, to stop walking, to freeze, to arrest motion
 - Polish: stanąć, zatrzymać się
 
-### Usage Note
-**Specific to Ambulation.** Use this verb when the subject physically stops moving their legs or traveling.
-* *Command:* **Chěchohè!** ("Halt!" / "Freeze!"). (Note the glottal elision before `hè`).
+### Example sentence
+Null
 
-### Example sentences
-**John zèchěto'.**
-_John halted / stopped walking._
-
-**To wo John zèchěto'.**
-_I stopped John (physically blocked his path)._
-
-### Alternative forms
+### Alternative Forms
 x
 
 ### Etymology
@@ -65,4 +55,15 @@ x
 - **[[haśù (verb)]]** (To run).
 
 ### Derived terms
-Null
+- **chěto'shá** (agent noun) *(potential)*
+
+### Usage Note
+**Specific to Ambulation.** Use this verb when the subject physically stops moving their legs or traveling.
+* *Command:* **Chěchohè!** ("Halt!" / "Freeze!"). (Note the glottal elision before `hè`).
+
+### Example sentences
+**John zèchěto'.**
+_John halted / stopped walking._
+
+**To wo John zèchěto'.**
+_I stopped John (physically blocked his path)._

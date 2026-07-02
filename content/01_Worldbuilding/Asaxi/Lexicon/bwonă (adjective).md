@@ -14,32 +14,51 @@ tags:
 
 <span class="asaxi-script">bwonă</span>
 
-### Grammatical function
+<span class="asaxi-script-alpha">bwonă</span>
+## Warm/Cold
 
-- **Type:** Qualitative Adjective (`-nă`)
-- **Source Agreement:** **Warm** (Root `bwo`).
+class:
+- warm
+animate?
+- 
+other class equivalent:
+-
 
 ### Pronunciation
-
 IPA: /bʷonaɪ/
+
+### Semantic Field
+[[Smntc_Field The Body]]
 
 ### Translations
 - English: curvy (fat), beautiful, voluptuous, healthy-looking
 - Polish: krągły (gruby), piękny
 
-### Usage Note
-
-Culturally positive. Describes fatness as a pleasing, life-affirming trait (softness/warmth).
-
 ### Example sentence
-
 **To ko bwonă shá xiŕa.**
 _She is a beautiful (curvy) person._
 
-### Etymology
+### Alternative Forms
+Null
 
-**bwo** (Fat) + **-nă**.
+### Etymology
+**[[bwo (noun)|bwo]]** (Fat) + **-nă**.
+
+### Synonyms
+Null
+
+### Root Noun
+- [[bwo (noun)|bwo]]
 
 ### Antonyms
-
 - **\[Thin/Gaunt\]** (Likely derived from "Bone" or "Stick").
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nă`)
+- **Source Agreement:** **Warm** (Root `bwo`).
+
+### Usage Note
+Culturally positive. Describes fatness as a pleasing, life-affirming trait (softness/warmth).
+
+### Derived terms
+- [[bwonădăsùki (noun)|bwonădăsùki]] - adoration, cherishing

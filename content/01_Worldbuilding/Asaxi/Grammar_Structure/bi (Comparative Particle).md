@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">bi</span>
 
+<span class="asaxi-script-alpha">bi</span>
 ### Grammatical function
 
 - **Type:** Noun / Comparative Marker

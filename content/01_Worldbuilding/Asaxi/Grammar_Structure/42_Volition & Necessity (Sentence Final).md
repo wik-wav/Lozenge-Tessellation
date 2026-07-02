@@ -25,7 +25,7 @@ These particles wrap the entire proposition, indicating the speaker's internal d
 | **wë**   | Need / Require | **Necessitative**      | Internal requirement or lack of option.  |
 | **nỏwă** | Not want       | **Neg. Volitional**    | Active lack of desire.                   |
 | **nỏwë** | Not need       | **Neg. Necessitative** | Lack of necessity ("Don't have to").     |
-_(Note: "Must" is handled by the Coercive Voice **[[xăhè (Particle)|xăhè-]]**, which remains a prefix)._])]
+_(Note: "Must" is handled by the Coercive Voice **[[xăhè (Particle)|xăhè-]]**, which remains a prefix)._
 
 ### 2. Syntactic Structure (Head-Final)
 

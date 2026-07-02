@@ -14,33 +14,37 @@ tags:
 
 <span class="asaxi-script">nawo</span>
 
+<span class="asaxi-script-alpha">nawo</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
 ### Pronunciation
-
 IPA: /nawo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Geography (Topography)]]
 
 ### Translations
-
 - English: the surface, the top, the upper side
 - Polish: wierzch, powierzchnia
 
 ### Example sentence
-
 **To nawo gavi xiŕa.**
 _The surface is green._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[na- (Relational Locative Prefix)|na]]** (On) + **-w-** + **[[o (Proximal Locative Prefix)|o]]** (Here).
 *Lit:* "The On-Here."
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **nawonă** (Superficial / Surface-level).
+- [[kamnawo (noun)|kamnawo]] - skin, hide

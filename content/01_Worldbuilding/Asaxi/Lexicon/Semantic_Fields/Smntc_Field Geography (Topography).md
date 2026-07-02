@@ -35,3 +35,24 @@ Navigation:
 - [[pùwo (noun)]] - the bottom
 - [[ỏwo (noun)]] - the middle
 - [[jůŕë (noun)]] - outer space, cosmos
+- [[jëgo (noun)]] - mountain
+- [[fwovi (noun)]] - hill
+- [[dăpăŕo (noun)]] - sea, ocean
+- [[fgăŕo (noun)]] - lake
+- [[shosaŕo (noun)]] - river
+- [[sima (noun)]] - island
+- [[fwogă (noun)]] - valley
+- [[cù (noun)]] - dirt, soil, earth, ground
+- [[cùŕoŕo (noun)]] - mud
+- [[cùpỏ (noun)]] - dust
+- [[hùso (noun)]] - sand
+- [[hùsoŕo (noun)]] - desert
+- [[dăotamo (noun)]] - horizon
+- [[shùko (noun)]] - cliff / precipice
+- [[goŕo (noun)]] - cave
+- [[viŕo (noun)]] - field / meadow
+- [[ksùŕo (noun)]] - beach / shore
+- [[xago (noun)]] - peak / summit
+- [[ŕoŕobi (noun)]] - stream / brook
+- [[dăfwogă (noun)]] - canyon / gorge
+- [[stè (noun)]] - plain / steppe

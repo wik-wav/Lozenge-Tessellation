@@ -15,49 +15,43 @@ tags:
 
 <span class="asaxi-script">chåxa</span>
 
+<span class="asaxi-script-alpha">chåxa</span>
 ### Transitivity / Valency
-
 **Intransitive**
 
 ### Lexical Aspect
-
-**Achievement / Semelfactive:** An instantaneous burst of movement.
+- **Punctual (Achievement)** — happens in a single moment.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully" · **-ů** "make it ongoing".
 
 ### Grammatical Note
-
 **[[02_Asaxi Verbs_Root (List)]]:** Compound root verb.
 
 ### Semantic Field
-
 [[Smntc_Field Motion]]
 
 ### Pronunciation
-
 IPA: /t͡ʃau̯ɦa/
 
 ### Translations
-
 - English: to jump up, to leap, to spring, to bound
 - Polish: podskoczyć, wyskoczyć w górę
 
 ### Example sentence
-
 **To mmråhjá zèchåxa.**
 _The kitten jumped up._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[chå (Particle)|chå]]** (Completely/Burst) + **[[xa- (Relational Locative Prefix)|xa]]** (Up/Above).
 *Lit:* "Burst-Up" or "Completely-Up."
 
 ### Synonyms
-
 - x
 
 ### Antonyms
-
 - x
 
 ### Derived terms
-
-Null
+- **chåxashá** (agent noun) *(potential)*

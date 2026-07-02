@@ -14,27 +14,34 @@ tags:
 
 <span class="asaxi-script">hwo</span>
 
+<span class="asaxi-script-alpha">hwo</span>
 ### Noun class (warm / cold)
-
 **Cold** (Time unit)
 
 ### Pronunciation
-
 IPA: /xʷo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]]
 
 ### Translations
-
 - English: yesterday
 - Polish: wczoraj
 
 ### Example sentence
-
 **To wo hwo zèxoxo.** _I departed yesterday._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[hù- (Relational Locative Prefix)|hù]]** (Behind) + **[[o (noun)|o]]** (Sky). _Lit:_ "The Sky Behind." (The sky that has passed).
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+- [[hùhwo (noun)|hùhwo]] - the day before yesterday

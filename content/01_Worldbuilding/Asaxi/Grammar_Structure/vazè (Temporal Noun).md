@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">vazè</span>
 
+<span class="asaxi-script-alpha">vazè</span>
 ### Grammatical function
 
 - **Type:** Temporal Noun (Locative)

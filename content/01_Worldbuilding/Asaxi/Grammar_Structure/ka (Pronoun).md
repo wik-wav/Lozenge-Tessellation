@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ka</span>
 
+<span class="asaxi-script-alpha">ka</span>
 ### Grammatical function
 
 The pronoun `ka` (they (female)) is a third-person plural nominative pronoun.

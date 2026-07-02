@@ -18,3 +18,11 @@ Navigation:
 - [[tăbino (noun)]] - a drawing, a sketch
 - [[tăbiŕů (verb)]] - to draw, to sketch
 - [[zù (noun)]] - skill
+- [[såŕåshá (noun)]] - singer
+- [[såŕå (noun)]] - song, melody
+- [[såŕånů (verb)]] - to sing
+- [[jýnoka (noun)]] - musical instrument
+- [[ŕăaxaśù (verb)]] - to dance
+- [[pjono (noun)]] - image, picture
+- [[jovi (noun)]] - beauty
+- [[jovină (adjective)]] - beautiful

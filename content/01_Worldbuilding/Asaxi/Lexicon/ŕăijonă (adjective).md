@@ -14,21 +14,23 @@ tags:
 
 <span class="asaxi-script">ŕăijonă</span>
 
-### Grammatical function
+<span class="asaxi-script-alpha">ŕăijonă</span>
+## Warm/Cold
 
-- **Type:** Qualitative Adjective (`-nă`)
-- **Source Agreement:** **Warm** (Root `ŕăijoshá` is Warm).
+class:
+- warm
+animate?
+- 
+other class equivalent:
+-
 
 ### Pronunciation
-
 IPA: /ɾaɪ.iꞲonaɪ/
 
 ### Semantic Field
-
 [[Smntc_Field Emotion]] / Personality
 
 ### Translations
-
 **As an adjective:**
 - English: strong, powerful, stern, kingly, majestic
 - Polish: silny, potężny, królewski
@@ -37,8 +39,30 @@ IPA: /ɾaɪ.iꞲonaɪ/
 - English: powerfully, sternly, with authority, commandingly
 - Polish: potężnie, władczo
 
-### Example sentences
+### Example sentence
+Null
 
+### Alternative Forms
+Null
+
+### Etymology
+Derived from **[[ŕăijoshá (noun)|ŕăijo(shá)]]** (Lion) + **-nă**.
+*Lit:* "Lion-like."
+
+### Synonyms
+- x
+
+### Root Noun
+- [[ŕăijo (noun)|ŕăijo]]
+
+### Antonyms
+- x
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nă`)
+- **Source Agreement:** **Warm** (Root `ŕăijoshá` is Warm).
+
+### Example sentences
 **Adjective:**
 **To John ŕăijonă shá xiŕa.**
 _John is a powerful (kingly) person._
@@ -46,16 +70,3 @@ _John is a powerful (kingly) person._
 **Adverb:**
 **To John ŕăijonă jýnů.**
 _John speaks commandingly._
-
-### Etymology
-
-Derived from **[[ŕăijoshá (noun)|ŕăijo(shá)]]** (Lion) + **-nă**.
-*Lit:* "Lion-like."
-
-### Synonyms
-
-- x
-
-### Antonyms
-
-- x

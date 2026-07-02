@@ -15,6 +15,7 @@ tags:
 
 <span class="asaxi-script">mă</span>
 
+<span class="asaxi-script-alpha">mă</span>
 ### Grammatical function
 
 - **Type:** Frequency Suffix
@@ -70,4 +71,4 @@ x
 
 ### Derived terms
 
-- **[[ximă (adverb)|ximă]]** (Daily).
+- **[[ximă (Particle)|ximă]]** (Daily).

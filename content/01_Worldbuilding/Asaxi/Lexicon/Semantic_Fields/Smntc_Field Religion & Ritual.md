@@ -22,3 +22,6 @@ Navigation:
 - [[fůjåshá (noun)]] - a content creature, a wantless person, a sage
 - [[swëshá (noun)]] - dragon, scaled beast
 - [[nỏjåmăńo (Idiom)]] - unwise resolve, total obsession's folly (prayer for Dă Chỏ)
+- [[ijoŕokam (noun)]] - temple, shrine
+- [[dăxijù (verb)]] - to pray, to invoke
+- [[ijoŕaŕokamŕèn (noun)]] - temple keeper, librarian (of the dream-temple), curator, guardian of the sanctuary

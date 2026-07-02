@@ -15,54 +15,47 @@ tags:
 
 <span class="asaxi-script">mëjoxů</span>
 
+<span class="asaxi-script-alpha">mëjoxů</span>
 ### Transitivity / Valency
-
 _intransitive (copular) verb_
 Connects a subject to an adjective or adverbial complement describing its appearance.
 
-### Lexical Aspect
-
-- **State:** The continuous condition of appearing in a certain way.
-
 ### Semantic Field
-
 [[Smntc_Field Perception]]
 
 ### Pronunciation
-
 IPA: /meɪjoɦuu̯/
 
 ### Translations
-
 - English: to appear, to look (like), to seem (visually)
 - Polish: wyglądać, zdawać się (wizualnie)
 
 ### Example sentence
-
 To flaminŋshá gavină mëjoxů.
 The flamingo looks good.
 
 Toonă o-kamm dănă mëjoxů.
 This building appears huge.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
-[[mëjo (noun)|mëjo]] (Eye) + [[06A_-x- (Morphological Infix)|-x-]] (Interaction Mode) + [[ů (Verb)|-ů]].
+[[mëjo (noun)|mëjo]] (Eye) + [[06A_-x- (Morphological Infix)|-x-]] (Interaction Mode) + [[ů (verb)|-ů]].
 
 Logic: "To interact with the eye" or "To do-to-the-eye." Unlike [[ůjů (verb)|ůjů]] ("To look/seem" - internal semblance), *mëjoxů* implies an active visual projection or interaction with the observer's vision.
 
 ### Synonyms
-
 - **[[ůjů (verb)|ůjů]]** (To look/seem - visual mode).
 
-### Root Noun
+### Antonyms
+Null
 
+### Root Noun
 - [[mëjo (noun)|mëjo]]
 
 ### Derived terms
+- **mëjoxůnă / mëjoxůnýj** (adjectival forms) *(potential)*
 
-Null
+### Lexical Aspect
+- **State:** The continuous condition of appearing in a certain way.

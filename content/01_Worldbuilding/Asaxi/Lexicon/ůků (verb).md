@@ -15,31 +15,44 @@ tags:
 
 <span class="asaxi-script">ůků</span>
 
+<span class="asaxi-script-alpha">ůků</span>
 ### Transitivity / Valency
-
 **Intransitive** (Change of State) _Note: Used for self-transformation. For transitive transformation ("Turn X into Y"), use the noun-based form `gajýnn-k-ů`._
 
 ### Lexical Aspect
-
-**Process:** Metamorphosis.
-
-### Grammatical Note
-
-Derived from **[[ů (verb)|ů]]** + **[[06A_-k- (Morphological Infix)|-k-]]** (Transformative Mode) + **-ů**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Existence]]
 
 ### Pronunciation
-
 IPA: /uu̯kuu̯/
 
 ### Translations
-
 - English: to transform, to change form, to morph
 - Polish: zmieniać się, transformować
 
 ### Example sentence
-
 **To wo ůků.** _I am transforming._
+
+### Alternative Forms
+Null
+
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Root Noun
+Null
+
+### Derived terms
+Null
+
+### Grammatical Note
+Derived from **[[ů (verb)|ů]]** + **[[06A_-k- (Morphological Infix)|-k-]]** (Transformative Mode) + **-ů**.

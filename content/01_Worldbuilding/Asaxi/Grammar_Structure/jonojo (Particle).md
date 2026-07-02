@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">jonojo</span>
 
+<span class="asaxi-script-alpha">jonojo</span>
 ### Grammatical function
 
 - **Type:** Adverbial Particle / Aspectual Modifier
@@ -26,7 +27,7 @@ IPA: /ꞲonoꞲo/
 
 ### Etymology
 
-**[[jo (Pronoun)|jo]]** (It) + **[[no (Proximal Locative Prefix)|no]]** (There) + **jo** (It).
+**[[jo (Pronoun)|jo]]** (It) + **[[no (Medial Locative Prefix)|no]]** (There) + **jo** (It).
 *Lit:* "It... there... it." (Visualizing pointing at items in a line: "This one there, then this one").
 
 ### Example sentence

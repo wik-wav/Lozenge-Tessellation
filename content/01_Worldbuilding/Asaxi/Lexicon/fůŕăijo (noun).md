@@ -14,33 +14,36 @@ tags:
 
 <span class="asaxi-script">fůŕaijo</span>
 
+<span class="asaxi-script-alpha">fůŕaijo</span>
 ### Noun class (warm / cold)
-
 **Warm**
 
 ### Pronunciation
-
 IPA: /fuu̯ɾaɪiꞲo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Emotion]] / State
 
 ### Translations
-
 - English: weakness, powerlessness, frailty
 - Polish: słabość, niemoc
 
 ### Example sentence
-
 **To wo fůŕăijonů.**
 _I am weak._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[fů (root word)|fů]]** (Lack) + **[[ŕăijo (noun)|ŕăijo]]** (Power).
 *Lit:* "Powerlessness."
 
-### Antonyms
+### Synonyms
+Null
 
+### Antonyms
 - **[[ŕăijo (noun)|ŕăijo]]** (Power).
+
+### Derived terms
+- [[fůŕăijonă (adjective)|fůŕăijonă]] - weak, feeble

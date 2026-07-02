@@ -14,34 +14,39 @@ tags:
 
 <span class="asaxi-script">ozè</span>
 
+<span class="asaxi-script-alpha">ozè</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
-### Grammatical function
-
-- **Type:** Temporal Noun
-- **Meaning:** The Immediate Past, just now, a moment ago.
-
 ### Pronunciation
-
 IPA: /ozə/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]]
 
 ### Translations
-
 - English: just now, the immediate past
 - Polish: przed chwilą
 
 ### Example sentence
-
 **Vozè to wo zèxogă.**
 _I arrived (just) a moment ago._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[o (Proximal Locative Prefix)|o-]]** (Here) + **[[zè (Noun)|zè]]** (Past).
 *Lit:* "The Here-Past."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+- [[ozètètá (noun)|ozètètá]] - mistake, error
+### Grammatical function
+- **Type:** Temporal Noun
+- **Meaning:** The Immediate Past, just now, a moment ago.

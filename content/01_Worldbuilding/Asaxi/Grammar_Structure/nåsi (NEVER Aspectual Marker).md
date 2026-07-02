@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">nåsi</span>
 
+<span class="asaxi-script-alpha">nåsi</span>
 ### Grammatical function
 
 - **Type:** Frequency Particle / Adverb

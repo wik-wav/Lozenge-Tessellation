@@ -1,6 +1,6 @@
 ---
 title: topo (noun) - rain
-Word (Asaxi): topo (noun)
+Word (Asaxi): topo
 trnsltion. En: rain
 trnsltion. Pl: deszcz
 tags:
@@ -14,44 +14,38 @@ tags:
 
 <span class="asaxi-script">topo</span>
 
+<span class="asaxi-script-alpha">topo</span>
 ### Noun class (warm / cold)
-
 cold
 - reasoning: when rain falls, it feels cold
 
 ### Pronunciation
-
 IPA: /topo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Weather & Climate]]
 
 ### Translations
-
 - English: rain
 - Polish: deszcz
 
 ### Example sentence
-
 x
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Onomatopoeia: The sound of rain. 
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůtopo** (absence of rain) *(potential)*
 
 ### Derived terms
-
 [[toponů (verb)]]
+- [[dătopo (noun)|dătopo]] - storm, downpour
+- [[topobi (noun)|topobi]] - weather
+- [[zhýtopo (noun)|zhýtopo]] - snow

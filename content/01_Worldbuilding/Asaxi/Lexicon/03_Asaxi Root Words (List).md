@@ -27,3 +27,14 @@ This is a list of all [[The Asaxi Language|Asaxi]] root words with the word from
 - [[ŕo (root word)]] - x-place/country/area
 - [[fů (root word)]] - "Non-", "Un-", "-lessness", "Lack of"
 - [[tá (Root Word)]] - Clash, opposition, strike, friction, conflict
+- [[jë (root word)]] - early, first, foremost (in time)
+- [[sù (root word)]] - silica, glassy sand
+- [[vè (root word)]] - plant (weak form)
+- [[bå (root word)]] - muscle, brawn
+- [[kùki (root word)]] - small crawling creature
+- [[kxè (root word)]] - web-spinning creature
+- [[kxo (root word)]] - croak (echoic)
+- [[hao (root word)]] - bark (echoic)
+- [[pao (root word)]] - hoofed runner
+- [[kŕo (root word)]] - built construct / surface (unenterable)
+- [[ksù (root word)]] - slow erosion / wearing-down

@@ -13,19 +13,16 @@ tags:
 
 <span class="asaxi-script">wă</span>
 
+<span class="asaxi-script-alpha">wă</span>
 ### Grammatical function
-
 - **Type:** Cardinal Number
 - **Value:** **9**
 
 ### Pronunciation
-
 IPA: /waɪ/
 
 ### Example sentence
-
 **To wo wă apa ma.** _"I have nine apples."_
 
 ### Derived terms
-
 - **biwă** (9th)

@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">dănă</span>
 
+<span class="asaxi-script-alpha">dănă</span>
 ## Warm/Cold
 
 class:
@@ -23,15 +24,12 @@ animate?
 other class equivalent:
 - 
 ### Pronunciation
-
 IPA: /daɪnaɪ/
 
 ### Semantic Field
-
 [[Smntc_Field Animals]]
 
 ### Translations
-
 **As an adjective:**
 - English: big, huge, heavy, important
 - Polish: duży, wielki, ciężki, ważny
@@ -40,8 +38,7 @@ IPA: /daɪnaɪ/
 - Heavily, noticeably 
 - Ciężko, dobrze widocznie
 
-### Example sentence:
-
+### Example sentence
 **As an adjective:**
 - **To wo dănă apo ijo.**
   I see a big apple.
@@ -60,22 +57,17 @@ IPA: /daɪnaɪ/
 	  John sees the person **smartly** / analytically.
 
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 [[dăshá (noun)]] + nă
 
 ### Synonyms
-
 x
 
 ### Root Noun
-
 - [[dăshá (noun)]]
 
 ### Antonyms
-
 x

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nánaŕè</span>
 
+<span class="asaxi-script-alpha">nánaŕè</span>
 ### Grammatical function
 - **Type:** Mood Particle (Sentence Final)
 - **Function:** **Negative Obligative Mood**

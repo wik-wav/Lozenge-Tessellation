@@ -14,49 +14,39 @@ tags:
 
 <span class="asaxi-script">damtxă</span>
 
+<span class="asaxi-script-alpha">damtxă</span>
 ### Noun class (warm / cold)
-
 Cold (Time unit)
 
 ### Pronunciation
-
 IPA: /damtʰaɪ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]]
 
 ### Translations
-
 - English: decade
 - Polish: dekada
 
 ### Plural Form
-
 **damtxăa** (decades).
 
 ### Example sentence
-
 Vazè, să damtxă hùwo, wo xő ijo.
 In the past, one decade ago, I saw him.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 [[dam (Number)|dam]] (Ten) + [[txă (noun)|txă]] (Year).
 Logic: "Ten-Years."
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůdamtxă** (absence of decade) *(potential)*
 
 ### Derived terms
-
-Null
+- **damtxănă / damtxănýj** (adjectival forms) *(potential)*

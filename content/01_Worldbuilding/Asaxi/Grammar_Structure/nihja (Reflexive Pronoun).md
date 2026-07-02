@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nihja</span>
 
+<span class="asaxi-script-alpha">nihja</span>
 ### Grammatical function
 
 - **Type:** Reflexive Pronoun

@@ -15,41 +15,43 @@ tags:
 
 <span class="asaxi-script">ăja</span>
 
+<span class="asaxi-script-alpha">ăja</span>
 ### Transitivity / Valency
-
 **Intransitive** (Shouting) or **Transitive** (Shouting words).
 
 ### Lexical Aspect
-
-**Activity / Achievement:** The act of crying out.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Grammatical Note
-
 **[[02_Asaxi Verbs_Root (List)]]:** This functions as a primitive root verb.
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]] / Communication / Sound
 
 ### Pronunciation
-
 IPA: /aɪja/
 
 ### Translations
-
 - English: to shout, to yell, to cry out, to scream, to call out
 - Polish: krzyczeć, wołać, wrzeszczeć
 
 ### Example sentence
-
 **To săsháma zèxăja.**
 _All the people shouted._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[ă (Relational Particle)|ă]]** (Internal/Subjective) + **ja** (mimetic)
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **[[ăjawa (noun)]]** (War cry).
-- **[[ăjawo  (noun)]]** (A shout).
+- **[[ăjawo (noun)]]** (A shout).

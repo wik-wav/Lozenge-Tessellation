@@ -1,5 +1,5 @@
 ---
-title: txămă (Particle) - "Yearly", "Annually", "Every year".
+title: txămă (noun) - "Yearly", "Annually", "Every year".
 Word (Asaxi): txămă
 trnsltion. En: '"Yearly", "Annually", "Every year".'
 tags:
@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">txămă</span>
 
+<span class="asaxi-script-alpha">txămă</span>
 ### Grammatical function
 
 - Particle type: Frequency Adverb / Floating Modifier
@@ -38,4 +39,4 @@ x
 
 ### Derived terms
 
-Null
+- **mă**-family: [[ximă (Particle)|ximă]] (daily), [[åmă (Particle)|åmă]] (every time), [[gămă (particle)|gămă]] (whenever)

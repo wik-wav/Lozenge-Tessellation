@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">ŕa</span>
 
+<span class="asaxi-script-alpha">ŕa</span>
 ### Grammatical function
 
 - **Type:** Logical Clause Connector

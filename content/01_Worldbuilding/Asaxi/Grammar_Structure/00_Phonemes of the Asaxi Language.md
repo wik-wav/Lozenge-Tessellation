@@ -57,6 +57,7 @@ Below you will find a table which contains the Arpabet phoneme (\_Arpa), IPA (\_
 | cl (held stop, geminated consonant) | :       | `letter doubled over, eg. tt` |                                                                           |
 | q                                   | ʔ       | `'`                           |                                                                           |
 
+
 ## **Vowel Inventory**
 
 | V_arpa+jp | V_IPA    | V_rmnztion | notes                             |
@@ -74,7 +75,7 @@ Below you will find a table which contains the Arpabet phoneme (\_Arpa), IPA (\_
 | ax        | ə        | è          | Pure Vowel                        |
 | er        | ɚ / ɹ̩   | ě          | „R” coloured vowel, <br>Diphthong |
 | ey        | eɪ / e̞ɪ | ë          | Diphthong                         |
-| ow        | ou̯      | ỏ         | Diphthong                         |
+| ow        | ou̯      | ỏ          | Diphthong                         |
 | oy        | oɪ / o̞ɪ | ő          | Diphthong                         |
 | nn        | n        | nn         | Syllabic `n`                      |
 | mm        | m        | mm         | Syllabic `m`                      |

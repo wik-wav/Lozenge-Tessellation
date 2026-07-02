@@ -1,0 +1,57 @@
+---
+title: cèva (verb) - to believe, to hold true
+Word (Asaxi): cèva
+trnsltion. En: to believe, to hold true
+trnsltion. Pl: wierzyć
+Transitivity: monotransitive
+tags:
+  - Asaxi
+  - language
+  - verb
+  - vocab_expansion
+---
+# cèva ([[02_Asaxi Verbs_Root (List)]])
+
+- - -
+
+<span class="asaxi-script">cèva</span>
+
+<span class="asaxi-script-alpha">cèva</span>
+### Transitivity / Valency
+_monotransitive_
+
+### Lexical Aspect
+- **Punctual (Achievement)** — happens in a single moment.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully" · **-ů** "make it ongoing".
+
+### Grammatical Note
+- **[[02_Asaxi Verbs_Root (List)]]:** Root verb — may take **-ů** to derive a durative reading, and `na-`/`tå-`/`ni-`/`chå-` for other aspects.
+
+### Semantic Field
+[[Smntc_Field Perception]]
+
+### Pronunciation
+IPA: /t̻͡s̪əb̪va/
+
+### Translations
+- English: to believe, to hold true
+- Polish: wierzyć
+
+### Example sentence
+**Wo waojýn cèva.**
+_I believe the story._
+
+### Alternative Forms
+Null
+
+### Etymology
+Native root verb, coined for this action.
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null

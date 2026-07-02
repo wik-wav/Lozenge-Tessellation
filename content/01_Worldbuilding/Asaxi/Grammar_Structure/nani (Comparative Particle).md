@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nani</span>
 
+<span class="asaxi-script-alpha">nani</span>
 ### Grammatical function
 
 - **Type:** Comparative Coordinator

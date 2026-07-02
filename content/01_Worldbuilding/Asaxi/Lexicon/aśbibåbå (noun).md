@@ -14,29 +14,36 @@ tags:
 
 <span class="asaxi-script">aśbibåbå</span>
 
+<span class="asaxi-script-alpha">aśbibåbå</span>
 ### Noun class (warm / cold)
-
 **Warm** (Compound)
 
 ### Pronunciation
-
 IPA: /aɕbibau̯bau̯/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: leg musculature
 - Polish: mięśnie nóg
 
 ### Example sentence
-
 **Sè Xő aśbibåba dănă ůjů nå toxăhè.**
 _I'm sure that his leg muscles look huge._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[aśobi (noun)|aśobi]]** (Leg) + **[[båbå (noun)|båbå]]** (Muscle).
 *Reduction:* `aśobi` + `båbå` $\rightarrow$ **aśbibåbå**.
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null

@@ -1,0 +1,49 @@
+---
+title: dăjý (noun) - thunder
+Word (Asaxi): dăjý
+trnsltion. En: thunder
+trnsltion. Pl: grzmot
+tags:
+  - Asaxi
+  - language
+  - noun
+  - vocab_expansion
+---
+# dăjý ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">dăjý</span>
+
+<span class="asaxi-script-alpha">dăjý</span>
+### Noun class (warm / cold)
+**Warm**
+
+### Pronunciation
+IPA: /daɪjɪ/
+
+### Semantic Field
+[[Smntc_Field Weather & Climate]]
+
+### Translations
+- English: thunder
+- Polish: grzmot
+
+### Example sentence
+**Wå, dăjý!**
+_Woah — thunder!_
+
+### Alternative Forms
+Null
+
+### Etymology
+**dă-** (Augmentative, „big”) + **jý**, clipped from **[[jýno (noun)|jýno]]** (sound) — „big sound”.
+
+### Synonyms
+- [[jýno (noun)|jýno]] (sound)
+
+### Antonyms
+- **fůjýno** (silence) *(potential)*
+
+### Derived terms
+- **dăjýnů** (to thunder) *(potential)*

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nýjnè-</span>
 
+<span class="asaxi-script-alpha">nýjnè-</span>
 ### Grammatical function
 
 - **Type:** Superlative Prefix

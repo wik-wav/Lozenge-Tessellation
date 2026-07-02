@@ -14,32 +14,36 @@ tags:
 
 <span class="asaxi-script">kjèno</span>
 
+<span class="asaxi-script-alpha">kjèno</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
 ### Pronunciation
-
 IPA: /kʲəno/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]
 
 ### Translations
-
 - English: height, stature, altitude, tallness
 - Polish: wysokość, wzrost
 
 ### Example sentence
+**Sè jëgo kjèno gonýj.**
+_The mountain's height is great._
 
-**To wo kjèno ma.**
-_I have height (I am a physical being, and as such have height, in contrast to something like, say, a number or feeling)._
+### Alternative Forms
+Null
 
 ### Etymology
-
 **[[kjè (root word)|kjè]]** (Tree) + **-no**.
 *Lit:* "The tree-dimension." (Trees define upward growth).
 
-### Derived terms
+### Synonyms
 Null
+
+### Antonyms
+Null
+
+### Derived terms
+- **kjènonă / kjènonýj** (adjectival forms) *(potential)*

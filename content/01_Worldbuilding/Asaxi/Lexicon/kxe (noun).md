@@ -14,47 +14,38 @@ tags:
 
 <span class="asaxi-script">kxe</span>
 
+<span class="asaxi-script-alpha">kxe</span>
 ### Noun class (warm / cold)
-
 Cold
 
 ### Pronunciation
-
 IPA: /kʰe/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Shapes & Dimensions]] / [[Smntc_Field Appearance]]
 
 ### Translations
-
 - English: shape, form, figure, geometry
 - Polish: kształt, forma, figura
 
 ### Example sentence
-
 To kxe dănă xiŕa.
 The shape is big.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Aspirated Root.
 *Phonotactics:* **k** + **x** → **/kʰ/**.
 
 ### Synonyms
-
 - **[[dăno (noun)|dăno]]** (Dimensions/Size).
 
 ### Antonyms
-
 - **[[siŕo (noun)|siŕo]]** (Formlessness/Void).
 
 ### Derived terms
-
 - **[[kxetxashá (noun)|kxetxashá]]** (Shapeshifter).
 - **shivëkxe** (Civet-form).
 - **ŕăijokxe** (Lion-form).

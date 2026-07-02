@@ -15,44 +15,46 @@ tags:
 
 <span class="asaxi-script">jýnů</span>
 
+<span class="asaxi-script-alpha">jýnů</span>
 ### Transitivity / Valency
-
 **Intransitive** (Chatting) or **Transitive** (Discussing a topic).
 
 ### Lexical Aspect
-
-**Activity:** Continuous communication.
-
-### Grammatical Note
-
-Derived from **[[jýn (noun)|jýn]]** (Chat/Talk) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]] / Communication
 
 ### Pronunciation
-
 IPA: /Ʝɪnuu̯/
 
 ### Translations
-
 - English: to talk, to chat, to converse, to chatter
 - Polish: rozmawiać, gadać
 
 ### Example sentence
-
 **To John zá kjèpa jýnů.**
 _John is talking with the trees._
 
-### Etymology
+### Alternative Forms
+Null
 
-**jýn** (Talk/Chat) + **-n-** + **-ů**.
+### Etymology
+**[[jýn (noun)|jýn]]** (Talk/Chat) + **-n-** + **-ů**.
 *Root:* **[[jýnnshá (noun)|jýnn]]** (Hyena).
 
 ### Synonyms
-
 - **[[ijù (verb)]]** (Say).
 
-### Derived terms
+### Antonyms
 Null
+
+### Root Noun
+- [[jýn (noun)|jýn]]
+
+### Derived terms
+- [[cőtájýnů (verb)|cőtájýnů]] - to argue
+
+### Grammatical Note
+Derived from **[[jýn (noun)|jýn]]** (Chat/Talk) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.

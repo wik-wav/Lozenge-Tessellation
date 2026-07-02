@@ -1,7 +1,7 @@
 ---
 title: tamỏbwopùxaśbibåbå (noun) - gastrocnemius, calf muscle
 Word (Asaxi): tamỏbwopùxaśbibåbå
-trnsltion. En: gastrocneius
+trnsltion. En: gastrocnemius, calf muscle
 trnsltion. Pl: mięsień brzuchaty łydki
 tags:
   - Asaxi
@@ -14,22 +14,34 @@ tags:
 
 <span class="asaxi-script">tamỏbwopùxaśbibåbå</span>
 
+<span class="asaxi-script-alpha">tamỏbwopùxaśbibåbå</span>
 ### Noun class (warm / cold)
-
 **Warm**
 
-### Semantic field
-
-[[Smntc_Field The Body]]
-
 ### Pronunciation
-
 IPA: /t̪amou̯bʷopɯɦaɕbibau̯bau̯/
 
-### Translations
+### Semantic Field
+[[Smntc_Field The Body]]
 
+### Translations
 - English: gastrocnemius, calf muscle
 - Polish: mięsień brzuchaty łydki
 
+### Example sentence
+Null
+
+### Alternative Forms
+Null
+
 ### Etymology
 **[[tam (Number)|tam]]** (2) + **[[ỏbwo (noun)|ỏbwo]]** (Belly) + **[[pùxaśbi (noun)|pùxaśbi]]** (Lower Leg) + **[[båbå (noun)|båbå]]** (Muscle).
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null

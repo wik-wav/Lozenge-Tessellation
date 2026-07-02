@@ -9,6 +9,7 @@ tags:
 
 <span class="asaxi-script">dă chỏ</span>
 
+<span class="asaxi-script-alpha">dă chỏ</span>
 # Dă Chỏ - Deity of food and desire
 
 Dă Chỏ is a deity heeded by the inhabitants of the [[The Lozenge Tessellation|Lozenge T.]] He is often depicted as a giant mammoth. 

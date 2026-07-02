@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">xa-</span>
 
+<span class="asaxi-script-alpha">xa-</span>
 ### Grammatical function
 
 - **Type:** Relational Locative Prefix

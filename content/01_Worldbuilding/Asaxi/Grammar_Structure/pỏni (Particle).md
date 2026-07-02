@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">pỏni</span>
 
+<span class="asaxi-script-alpha">pỏni</span>
 ### Grammatical function
 
 - **Type:** Aspectual Particle / Prefix / Suffix

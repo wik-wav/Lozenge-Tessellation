@@ -15,37 +15,46 @@ tags:
 
 <span class="asaxi-script">ůsů</span>
 
+<span class="asaxi-script-alpha">ůsů</span>
 ### Transitivity / Valency
-
 **Intransitive** (Copular) Connects a Subject to an Adverbial Complement.
 
 ### Lexical Aspect
-
-**State:** Auditory impression.
-
-### Grammatical Note
-
-Derived from **[[ů (verb)|ů]]** (Be/Act) + **[[06A_-s- (Morphological Infix)|-s-]]** (Auditory Mode) + **[[ů (verb)|-ů]]**.
-
-- _Lit:_ "To soundly be."
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Perception]]
 
 ### Pronunciation
-
 IPA: /uu̯suu̯/
 
 ### Translations
-
 - English: to sound, to sound like
 - Polish: brzmieć
 
 ### Example sentence
-
 **To xő jýnă ůsů.** _He sounds chatty (hyena-like)._
 
-### Derived terms
-
+### Alternative Forms
 Null
+
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Root Noun
+Null
+
+### Derived terms
+- **ůsůshá** (agent noun) *(potential)*
+
+### Grammatical Note
+Derived from **[[ů (verb)|ů]]** (Be/Act) + **[[06A_-s- (Morphological Infix)|-s-]]** (Auditory Mode) + **[[ů (verb)|-ů]]**.
+
+- _Lit:_ "To soundly be."

@@ -14,39 +14,39 @@ tags:
 
 <span class="asaxi-script">xè</span>
 
+<span class="asaxi-script-alpha">xè</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: Biological energy, exertion, heat of effort.
 
 ### Pronunciation
-
 IPA: /ɦə/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Behaviour]] / Action
 
 ### Translations
-
 - English: effort, exertion, strain, try, attempt
 - Polish: wysiłek, trud, próba
 
 ### Example sentence
+**Anő xèronů xè wëè.**
+_Weight-training requires effort._
 
-**To xè dănă xiŕa.**
-_The effort is huge._
-
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Sound symbolism for a sharp exhale or grunt of physical strain.
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **xèjå** (To try / Effort-Want).
 - **xèro** (Weights / Effort-Iron).
 - **xèjåshů** (To give up / Strip the attempt).
+- [[păxè (verb)|păxè]] - to spread out, to unfurl, to extend (wings/arms), to open up

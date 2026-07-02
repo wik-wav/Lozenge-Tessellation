@@ -7,12 +7,13 @@ tags:
   - language
   - grammar
 ---
-# na ([[16_Verbs_Aspectual Distinction (Root vs. ů)]])
+# na ([[16_Verbs_Aspectual Distinction (Root vs. Ů)]])
 
 - - -
 
 <span class="asaxi-script">na</span>
 
+<span class="asaxi-script-alpha">na</span>
 ### Grammatical function
 
 - **Type:** Aspectual Prefix

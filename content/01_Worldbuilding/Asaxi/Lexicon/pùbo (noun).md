@@ -1,0 +1,52 @@
+---
+title: pùbo (noun) - chair (sit-thing)
+Word (Asaxi): pùbo
+trnsltion. En: chair (sit-thing)
+trnsltion. Pl: krzesło
+tags:
+  - Asaxi
+  - language
+  - noun
+  - vocab_expansion
+---
+# pùbo ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">pùbo</span>
+
+<span class="asaxi-script-alpha">pùbo</span>
+### Noun class (warm / cold)
+**Cold**
+
+### Pronunciation
+IPA: /pɯbo̞/
+
+### Semantic Field
+[[Smntc_Field Housing & Shelter]]
+
+### Translations
+- English: chair (sit-thing)
+- Polish: krzesło
+
+### Example sentence
+**Pùbo tobo banů.**
+_A chair is beside the table._
+
+### Alternative Forms
+Null
+
+### Etymology
+Coined for this concept — sit-thing.
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null
+
+### Plural Form
+**pùba**

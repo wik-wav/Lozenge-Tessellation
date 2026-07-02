@@ -1,0 +1,52 @@
+---
+title: pỏkŕo (noun) - rug, carpet (floor-fabric)
+Word (Asaxi): pỏkŕo
+trnsltion. En: rug, carpet (floor-fabric)
+trnsltion. Pl: dywan
+tags:
+  - Asaxi
+  - language
+  - noun
+  - vocab_expansion
+---
+# pỏkŕo ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">pỏkŕo</span>
+
+<span class="asaxi-script-alpha">pỏkŕo</span>
+### Noun class (warm / cold)
+**Cold**
+
+### Pronunciation
+IPA: /pou̯kɾo̞/
+
+### Semantic Field
+[[Smntc_Field Housing & Shelter]]
+
+### Translations
+- English: rug, carpet (floor-fabric)
+- Polish: dywan
+
+### Example sentence
+**Pỏkŕo pùkŕo nanů.**
+_A rug is on the floor._
+
+### Alternative Forms
+Null
+
+### Etymology
+Coined for this concept — floor-fabric.
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null
+
+### Plural Form
+**pỏkŕa**

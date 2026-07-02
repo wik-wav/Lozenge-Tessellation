@@ -14,28 +14,36 @@ tags:
 
 <span class="asaxi-script">xatëbi</span>
 
+<span class="asaxi-script-alpha">xatëbi</span>
 ### Noun class (warm / cold)
-
 **Warm**
 
 ### Pronunciation
-
 IPA: /ɦat̪eɪbi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: shoulder (anatomical), upper arm joint
 - Polish: ramię (bark), staw barkowy
 
-### Etymology
+### Example sentence
+Null
 
+### Alternative Forms
+Null
+
+### Etymology
 **[[xa- (Relational Locative Prefix)|xa]]** (Above) + **[[tëbi (noun)|tëbi]]** (Arm).
 *Lit:* "Upper-Arm."
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **[[făỏbwoxatëbibåbå (noun)]]** (Deltoids).
+- [[tamỏbwoxatëbibåbå (noun)|tamỏbwoxatëbibåbå]] - biceps (brachii), the two-headed muscle

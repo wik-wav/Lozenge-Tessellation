@@ -1,0 +1,50 @@
+---
+title: săaai (noun) - fever
+Word (Asaxi): săaai
+trnsltion. En: fever
+trnsltion. Pl: gorączka
+tags:
+  - Asaxi
+  - language
+  - noun
+  - vocab_expansion
+---
+# săaai ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">săaai</span>
+
+<span class="asaxi-script-alpha">săaai</span>
+### Noun class (warm / cold)
+**Warm**
+
+### Pronunciation
+IPA: /saɪa.ai/
+
+### Semantic Field
+[[Smntc_Field Health & Medicine]]
+
+### Translations
+- English: fever
+- Polish: gorączka
+
+### Example sentence
+**Ă wo săaaiŕů.**
+_I am running a fever. (lit. I generate heat-pain — see [[65_Expressing States & Sensations (Source Doctrine)]])_
+
+### Alternative Forms
+Null
+
+### Etymology
+**[[săa (noun)|săa]]** (heat) + **[[ai (noun)|ai]]** (pain) — „heat-pain”.
+
+### Synonyms
+- [[jami (noun)|jami]] (related: illness)
+
+### Antonyms
+- [[vigavi (noun)|vigavi]] (related-opposite: health)
+
+### Derived terms
+- [[săaaiŕů (verb)|săaaiŕů]] - to run a fever
+- **săaaină** (feverish) *(potential)*

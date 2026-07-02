@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">chå</span>
 
+<span class="asaxi-script-alpha">chå</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle]] (Aspectual)
@@ -56,4 +57,4 @@ Likely derived from the root **[[chěcho' (verb)|chěcho']]** (To close/shut) + 
 
 ### Derived terms
 
-Null
+- [[săsă (Quantifier)|săsă]] - the whole of (nominal counterpart)

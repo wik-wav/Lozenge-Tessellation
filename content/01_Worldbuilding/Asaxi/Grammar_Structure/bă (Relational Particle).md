@@ -1,6 +1,6 @@
 ---
 title: bă (Relational Particle) - by means of, by, through, by (during)
-Word (Asaxi): bă (Particle)
+Word (Asaxi): bă
 trnsltion. En: by means of, by, through, by (during)
 tags:
   - Asaxi
@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">bă</span>
 
+<span class="asaxi-script-alpha">bă</span>
 ### Grammatical function
 
 - **Particle type:** [[15_NPCP and The Agglutinative Block|Relational Particle (NPCP)]]
@@ -51,7 +52,7 @@ x
 
 ### Antonyms
 
-Null
+- [[dhè (Relational Particle)|dhè]] - topic/patient marker (agent ↔ patient counterpart)
 
 ### Derived terms
 

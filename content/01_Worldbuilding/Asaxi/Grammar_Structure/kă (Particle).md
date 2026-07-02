@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">kă</span>
 
+<span class="asaxi-script-alpha">kă</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle]] (Suffix/Prefix)

@@ -20,6 +20,7 @@ Navigation:
 
 - [[00_Phonemes of the Asaxi Language]]: The consonant and vowel inventories; orthography.
 - [[22_Phonotactics & Euphony]]: Syllable structure, bridges, and forbidden sounds.
+- [[61_Prosody, Stress & Intonation]]: Mora timing, the Root Peak, and sentence melody. *(proposed)*
 
 ## Morphology
 
@@ -55,6 +56,7 @@ Navigation:
 - [[08_Minimal Sentence]]: Pro-drop rules and implied subjects.
 - [[12_Discourse Markers in Asaxi]] - non-syntactic particles used to indicate the speaker's attitude
 - [[13_Pronouns in Asaxi]]: Personal pronouns and poetic prefixing.
+- [[60_Negation in Asaxi]]: The polarity system (`ná`, `fů-`, `panå`/`nåsi`); answering negative questions. *(proposed)*
 
 ### Nouns & Case
 
@@ -68,11 +70,12 @@ Navigation:
 - [[21_Existential Logic & The Validity System]]: The internal structure of "To Be" (`xi-ŕa`) and its modifications.
 - [[14_Future & Complex Tenses]]: Past (`zè-`), Future (`pa-`), and spatial tense logic.
 - [[19_Master Tense Reference]]: Comprehensive prefix stacking order.
-- [[16_Verbs_Aspectual Distinction (Root vs. ů)]]: Aspectual difference between Root and Derived verbs.
+- [[16_Verbs_Aspectual Distinction (Root vs. Ů)]]: Aspectual difference between Root and Derived verbs.
 - [[44_Switching Actions]]: "Instead of X, do Y"
 - [[46_Temporal Nouns]]: Setting the Time of an action via nouns
 - [[56_Relative Time Specification]]: Expressing relative time: "Ago", "From now", etc.
 - [[37_Nominalization (Gerunds)]]: Turning Verbs into Nouns
+- [[65_Expressing States & Sensations (Source Doctrine)]]: states by source — generate (`-ŕ-`), feel (`-ch-`), carry (`ma`).
 
 ### Adjectives & Adverbs
 
@@ -105,6 +108,12 @@ Navigation:
 ### Interrogatives
 
 - [[25_Interrogative Pronouns (Wh-Words)]]: The Question Particle (`kè`) and wh-words, Who, What, Where, etc.
+
+### Social Language (Pragmatics)
+
+- [[62_Vocatives & Interjections in Asaxi]]: Addressing people (`ăjo`) and exclaiming (`tètá`, `wå`, `ox`). *(proposed)*
+- [[63_Social Formulae (Greetings & Everyday Speech)]]: Hello (`nőjo`), goodbye (`måmå natăka`), thanks (`fůjå ma`), apologies, introductions. *(proposed)*
+- [[64_Conversational Repair & Exchange]]: "And you?" (`dhè no`), repair (`năjùkă`), hailing (`ăjo!`), help (`baxůkă`), hortative (`-hèwa`), directions (`baai`/`bafwă`), additive `xa`, quantity `kăgo`.
 
 ### Grammatical Mood (Speaker Attitude)
 

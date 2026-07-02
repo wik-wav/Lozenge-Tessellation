@@ -76,7 +76,7 @@ Used to express actions that are immediately adjacent to the present moment ("Ri
 
 **A. Immediate Past (`ozè-`)** "Just now" / "Just finished."
 - **Structure:** `o` + `zè` + `[Verb]`.
-- **Example:** **To wo ozètopu.** ("I **just** dropped (it).")
+- **Example:** **To wo ozètopù.** ("I **just** dropped (it).")
 
 **B. Immediate Future (`opa-`)** "About to" / "On the verge of."
 - **Structure:** `o` + `pa` + `[Verb]`.
@@ -106,7 +106,7 @@ Used to express an action that started in the past and continues into the presen
 
 Used to place actions in a timeframe that feels disconnected or far removed from the present reality ("Yonder").
 
-- **Logic:** **[[ko (Proximal Locative Prefix)|ko]]** (Yonder/Distal) modifies the Tense Prefix.
+- **Logic:** **[[ko (Distal Locative Prefix)|ko]]** (Yonder/Distal) modifies the Tense Prefix.
 
 **A. The Mythic Past (`kozè-`)** "Long ago," "In ancient times," "Once upon a time."
 
@@ -122,7 +122,7 @@ Used to place actions in a timeframe that feels disconnected or far removed from
 
 Used for memories, nostalgia, or events that exist primarily in the speaker's mind ("It felt like...", "I remember..."). It softens the factual edge of the past tense.
 
-- **Logic:** **[[ỏ- (Relational Locative Prefix)|ỏ]]** (Middle) + **[[06A_s- (Morphological Infix)|s]]** (Auditory/Sense) or derived from `zè` → `sỏ`.
+- **Logic:** **[[ỏ- (Relational Locative Prefix)|ỏ]]** (Middle) + **[[06A_-s- (Morphological Infix)|s]]** (Auditory/Sense) or derived from `zè` → `sỏ`.
 - **Structure:** `sỏ-[Verb]`
 - **Example:** **To wo sỏshěsonů.** ("I remember reading / I was reading \[in my memory\].")
 

@@ -15,45 +15,49 @@ tags:
 
 <span class="asaxi-script">sivëshů</span>
 
+<span class="asaxi-script-alpha">sivëshů</span>
 ### Transitivity / Valency
-
 **Intransitive**
 
 ### Lexical Aspect
-
-**Activity / State:** Behavioral state.
-
-### Grammatical Note
-
-Derived from **[[sivëshá (noun)|sivë]]** (Civet/Pride) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative Mode) + **-ů**.
-* *Logic:* "To strip the civet (pride)." To remove confidence.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]] / [[Smntc_Field Emotion]]
 
 ### Pronunciation
-
 IPA: /ɕiveɪʃuu̯/
 
 ### Translations
-
 - English: to act shyly, to cower, to shrink away, to be timid
 - Polish: kulić się, wstydzić się, być nieśmiałym
 
-### Usage Note
-
-Implies a loss of presence or a desire to be unseen (the opposite of the flashy civet).
-
 ### Example sentence
-
 **To wo sivëshů.**
 _I am acting shyly / I cower._
 
-### Antonyms
+### Alternative Forms
+Null
 
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Antonyms
 - **sivënů** (To show off).
 
-### Derived terms
-
+### Root Noun
 Null
+
+### Derived terms
+- **sivëshůshá** (agent noun) *(potential)*
+
+### Grammatical Note
+Derived from **[[sivëshá (noun)|sivë]]** (Civet/Pride) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative Mode) + **-ů**.
+* *Logic:* "To strip the civet (pride)." To remove confidence.
+
+### Usage Note
+Implies a loss of presence or a desire to be unseen (the opposite of the flashy civet).

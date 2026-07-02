@@ -15,49 +15,40 @@ tags:
 
 <span class="asaxi-script">haśù</span>
 
+<span class="asaxi-script-alpha">haśù</span>
 ### Transitivity / Valency
-
 _monotransitive verb_ 
 takes two, e.g. _He(1) kicked the ball(2)._
 
-### Lexical Aspect 
-
-- **Activity:** Ongoing process, no defined end (run, swim, push).
-- **Accomplishment:** Process with an end point (build a house, paint a picture).
+### Lexical Aspect
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Grammatical Note
-
-- **[[02_Asaxi Verbs_Root (List)]]:** This belongs to the closed class of primitive verbs. It is a root verb and does not utilize the Universal Verbalizer _-ů_ suffix.
+- **[[02_Asaxi Verbs_Root (List)]]:** This belongs to the closed class of primitive verbs. It is a root verb and may take **-ů** to derive a durative reading, and `na-`/`tå-`/`ni-`/`chå-` for other aspects.
 
 ### Semantic Field
-
 [[Smntc_Field Motion]]
 
 ### Pronunciation
-
 IPA: /xaɕɯ/
 
 ### Translations
-
 - English: run
 - Polish: biec
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 x
 
 ### Etymology
-
-
-
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůhaśù** (to run without its essence (privative)) *(potential)*
 
 ### Derived terms
-
-Null
+- **haśùshá** (agent noun) *(potential)*

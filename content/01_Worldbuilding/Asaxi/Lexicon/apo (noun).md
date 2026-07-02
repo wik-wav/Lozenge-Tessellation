@@ -14,40 +14,36 @@ tags:
 
 <span class="asaxi-script">apo</span>
 
+<span class="asaxi-script-alpha">apo</span>
 ### Noun class (warm / cold)
-
 warm
 - reasoning: apples are from living organisms (like apple trees)
 
 ### Pronunciation
-
 IPA: /apo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Food & Drink]]
 
 ### Translations
-
 - English: apple
 - Polish: jabłko
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 x
 
 ### Etymology
-
 Arrived at from a mispronunciation of pronunciation of "apple".
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůapo** (absence of apple) *(potential)*
 
 ### Derived terms
-
 [[gapo (noun)]]
+- [[apojů (verb)|apojů]] - to look like an apple (visual mode)

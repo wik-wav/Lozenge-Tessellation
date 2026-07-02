@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">panő</span>
 
+<span class="asaxi-script-alpha">panő</span>
 ### Grammatical function
 
 - **Type:** Determiner (Specific Indefinite)

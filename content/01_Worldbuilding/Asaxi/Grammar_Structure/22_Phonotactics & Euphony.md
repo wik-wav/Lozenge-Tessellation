@@ -125,7 +125,7 @@ When the diphthongs appear at the end of a phrase or word (common in imperatives
 ### B. Liquid Constraints (`r` / `l`)
 
 - **The `l` Rule:** The liquid `l` must be adjacent to **Pure Vowels** (`a, i, u, e, o`) only.
-    - _Invalid:_ `ýl`, `lý`.
+    - _Invalid:_ `ýl` (i.e. `l` **after** an impure vowel). An onset `l` **before** an impure vowel is permitted — see the Constraint below (`lýshko` OK).
     - _Constraint:_ `l` may appear at the onset of a syllable with impure vowels, but may not _follow_ them (e.g., `lýshko` OK; `lýlo` NO).
 - **The `r` Rule:**
     - **Rarity:** `r` is exceedingly rare.
@@ -133,6 +133,7 @@ When the diphthongs appear at the end of a phrase or word (common in imperatives
     - **Vowel Restriction:** `r` may **never** be followed by `i`.
         - _Sole Exception:_ **fri** (Valid).
     - **Glide Restriction:** `r` never appears with glides (`w, j`).
+    - **Onset after a syllabic nasal (by design):** `r` (/ɹ/) is licensed as a plain syllable **onset** immediately after a syllabic-nasal nucleus (`mm`, `nn`) — as in *mmrå-* ("meow", mimetic; see [[mmråshá (noun)|mmråshá]]). The nasal is its own syllable, so this is an onset, not a forbidden cluster.
 
 ## Special Phenomena
 
@@ -153,6 +154,27 @@ Vowels between voiceless consonants may devoice, creating syllabic fricatives.
 
 - **Example:** `shěso` → **\[ʃ̩so\]**.
 
+## Glide Formation (ů → w)
+
+When **ů** meets a following vowel inside a compound, it weakens to the glide **w**, and the resulting vowel sequence resolves normally (e.g. coalescence of *a+i* → *ă*):
+
+- **fů** + **ai** → **fwă** — as in **bafwă** (the left side, "painless flank") ← `ba-` + `fů` + `ai`.
+
+This keeps the privative `fů-` available before vowel-initial roots without hiatus.
+
+## Haplology in Derivation
+
+When derivation or compounding would place **identical morae** side by side (true repetition of the same CV unit, as in reduplicated roots), the repetition is **reduced to a single mora** in the derived term. The etymology is unaffected — the full root remains the source.
+
+- **vivi** (life) + **gavi** (goodness) → **vigavi** (health), not *vivigavi*.
+- **ŕoŕo** (water) + **-no** (thing) → **ŕono** (beverage), not *ŕoŕono*.
+- **vivi** (grass) + **go** (rock) → **vigo** (grain).
+
+**Exceptions:**
+
+- **Grammatical reduplication is immune:** the reciprocal frame `X-ni-X` (*gőnigő*, *daonidao*) and emphatic doubling keep their repetition — it carries meaning.
+- **Non-identical morae are not reduced:** *ỏbỏ* + *-ŕo* → *ỏbỏŕo* (bed) stands, because *ỏ* and *bỏ* are different morae.
+
 ## Particle Contraction (Rapid Speech)
 
 In casual or rapid speech, disyllabic compound particles often undergo **Vowel Elision**, where the first vowel is dropped to create a consonant cluster. This is permissible only if the resulting cluster follows Asaxi phonotactic constraints.
@@ -170,3 +192,22 @@ In casual or rapid speech, disyllabic compound particles often undergo **Vowel E
 | **hùnå** | Already        | **h'nå**    | /hnau̯/ |
 | **vanå** | Still          | **v'nå**    | /vnau̯/ |
 **Usage Note:** These contractions are **optional** and register-dependent (Casual/Fast). In formal writing or poetry, the full form is preferred for clarity and meter.
+
+---
+
+## Vowel Co-occurrence & the Warm/Cold System (No Vowel Harmony)
+
+Asaxi has **no vowel harmony**. Vowels do not assimilate in backness, rounding, or tenseness across a word, and there is **no harmonic domain**.
+
+- **Roots may freely mix vowel qualities.** Bright and dark vowels co-occur without repair: **hùso** (ù+o), **vèno** (è+o), **cùgo**, **cőcő**, **dåmëno**. Roughly a quarter of roots are "disharmonic" in this sense — and that is normal, not an error.
+- **Affix vowels are invariant.** Suffixes and prefixes keep a fixed vowel regardless of the root: creature **-shá**, place **-ŕo**, thing **-no**, verbaliser **-ů**, plural **-a**, **ga-**, **fů-**, and all tense/locative prefixes never alternate to "match" the stem.
+- **The warm/cold alternation is morphological concord, not harmony.** The only vowel-alternating morphemes (adjective **-nă/-nýj**, determiner **onă/onýj**, **ponă/ponýj**, degree **nă-/nýj-**) agree with the head noun's **grammatical class** ([[00_Noun Classification (Gender) in Asaxi]]), which is fixed by meaning — not by the stem's vowels (**ihjo** "bone" is all-bright yet selects cold **-nýj**).
+- **The warm/cold *vowel lean* is sound symbolism.** A cold word may lean to `ý/è/ù/ě` and a warm word to `a/i/e/o`, but this is an **optional phonaesthetic tendency**, never a constraint that repairs or blocks anything.
+- **A mild same-vowel preference shapes *new* roots.** Coiners lean toward one repeated vowel-colour (`gogo`, `ŕoŕo`, `mimi`, `vivi`, `cőcő`) — the reduplicative aesthetic generalised — but this is a creation tendency, not a synchronic constraint; existing and borrowed roots need not obey it.
+- **The real vowel processes** are hiatus/prosody, not harmony: coalescence (`ga+i -> gă`, `zè+ijù -> zëjù`), glide formation (`ů -> w`), haplology, and the phrase-final backing **/a/ -> [ɑ]** ([[61_Prosody, Stress & Intonation]]).
+
+> Full typological analysis: [[Asaxi_VowelHarmony_Phonological_Critique]].
+
+## Back-vowel + `aa` Dissimilation
+
+When **any vowel other than a plain `a`** is immediately followed by two `a` nuclei, the **penultimate `a` raises to `á`** (spelling and speech): `no`+`maka` → **nomáka**, `cù`+`maka` → **cùmáka**, `chỏ`+`maka` → **chỏmáka**. More: `ŕă`+`maka` → **ŕămáka**, `táka`+`kam` → **tákákam**. A euphonic dissimilation that breaks the `…V-a-a` monotony.

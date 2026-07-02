@@ -14,36 +14,38 @@ tags:
 
 <span class="asaxi-script">ëjo</span>
 
+<span class="asaxi-script-alpha">ëjo</span>
 ### Noun class (warm / cold)
-
 **Cold**
 - Reasoning: Mathematical concept.
 
 ### Pronunciation
-
 IPA: /eɪjo/
 
-### Semantic field
+### Semantic Field
 [[Smntc_Field Shapes & Dimensions]] / Math
 
 ### Translations
-
 - English: fractal, self-similar pattern, recursive shape
 - Polish: fraktal
 
 ### Example sentence
-
 **To ëjo fůśchino xiŕa.**
 _Fractals are lengthless (lack-length)._
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Unknown/Root. Possibly related to **[[jo (Pronoun)|jo]]** (Thing) or **[[ijo (verb)|ijo]]** (See).
 
-### Derived terms
-
+### Synonyms
 Null
+
+### Antonyms
+Null
+
+### Derived terms
+- [[mëjo (noun)|mëjo]] - eye
+- [[mëjonů (verb)|mëjonů]] - to look
+- [[mëjoxů (noun)|mëjoxů]] - to appear

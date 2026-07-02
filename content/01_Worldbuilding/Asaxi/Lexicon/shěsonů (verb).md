@@ -15,47 +15,41 @@ tags:
 
 <span class="asaxi-script">shěsonů</span>
 
+<span class="asaxi-script-alpha">shěsonů</span>
 ### Transitivity / Valency
-
 **monotransitive verb** Takes two arguments, but the object can be omitted if the action is general (e.g. _He reads_).
 
 ### Lexical Aspect
-
-- **Activity:** Ongoing process, no defined end (run, swim, push).
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 - **[[Smntc_Field Literature and Reading]]**
 
 ### Pronunciation
-
 IPA: /ʃəsonuw/
 
 ### Translations
-
-- **English:** to read, uczyć się
+- **English:** to read
 - **Polish:** czytać, uczyć się
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 - x
 
 ### Etymology
-
 - Derived from **[[shěso (noun)]]** (Book) + **-n-** (epenthetic consonant) + **ů** (Universal Verbalizer/Active Verb).
 
 ### Synonyms
-
-- x    
+- x
 
 ### Antonyms
-
 - **shěsonůná** (verb) — _to not read / to refuse to read_.
 
 ### Root Noun
-
 - [[shěso (noun)]]
 
 ### Derived terms
-
-- 
+-

@@ -14,16 +14,14 @@ tags:
 
 <span class="asaxi-script">ŋono</span>
 
+<span class="asaxi-script-alpha">ŋono</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
 ### Pronunciation
-
 IPA: /ŋono/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Numerals]] / Physics
 
 ### Translations
@@ -31,18 +29,20 @@ IPA: /ŋono/
 - Polish: waga (ciężar), masa
 
 ### Example sentence
-
 **Vawo-gă, to Tom nădănă ŋono ma onă shá.**
 Tom is the heaviest person in here. (lit. _In here, Tom is a person who has the largest weight._)
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[ŋo (Unit Noun)|ŋo]]** (Kilo) + **-no**.
 
 ### Synonyms
-
 - **[Heaviness]** (TBD).
 
-### Derived terms
-
+### Antonyms
 Null
+
+### Derived terms
+- [[fůŋono (noun)|fůŋono]] - weightlessness

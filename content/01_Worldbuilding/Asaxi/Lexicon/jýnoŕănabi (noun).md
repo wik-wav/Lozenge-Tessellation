@@ -14,33 +14,37 @@ tags:
 
 <span class="asaxi-script">jýnoŕănabi</span>
 
+<span class="asaxi-script-alpha">jýnoŕănabi</span>
 ### Noun class (warm / cold)
 **Cold**
 - Reasoning: Abstract physical concept.
 
 ### Pronunciation
-
 IPA: /Ʝɪnoɾaɪnabi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Motion]] / Physics
 
 ### Translations
-
 - English: speed of sound, sonic speed, Mach 1
 - Polish: prędkość dźwięku
 
 ### Example sentence
-
 **To jhecè jýnoŕănabi xogă.**
 _The jet reaches the speed of sound._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[jýno (noun)|jýno]]** (Sound) + **[[ŕănabi (noun)|ŕănabi]]** (Speed).
 *Lit:* "Sound-Speed."
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **jýnoŕănabinýj** (Supersonic / Sonic-speed-like).

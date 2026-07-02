@@ -15,49 +15,44 @@ tags:
 
 <span class="asaxi-script">em.mo</span>
 
+<span class="asaxi-script-alpha">em.mo</span>
 ### Transitivity / Valency
-
 **Ambitransitive**
 * **Transitive:** To open something.
 * **Intransitive:** To become open.
 
 ### Lexical Aspect
-
-**Achievement:** Instantaneous change of state.
+- **Punctual (Achievement)** — happens in a single moment.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully" · **-ů** "make it ongoing".
 
 ### Grammatical Note
-
 **[[02_Asaxi Verbs_Root (List)]]:** Compound/Irregular Root Verb.
 
 ### Semantic Field
-
 [[Smntc_Field Motion]] / Action
 
 ### Pronunciation
-
 IPA: /em.mo/ (Two distinct syllables).
 
 ### Translations
-
 - English: to open, to unseal, to unlock
 - Polish: otwierać, otworzyć
 
 ### Example sentence
-
 **To wo kem em.mo.**
 _I open the door._
 
-### Etymology
+### Alternative Forms
+Null
 
-Related to the sound of **kem** (Door) but emphasizing the outward flow.
+### Etymology
+Related to the sound of **[[kem (noun)|kem]]** (Door) but emphasizing the outward flow.
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
 - **[[memm (verb)]]** (To close).
 
 ### Derived terms
-Null
+- [[kem.mo (noun)|kem.mo]] - possibility

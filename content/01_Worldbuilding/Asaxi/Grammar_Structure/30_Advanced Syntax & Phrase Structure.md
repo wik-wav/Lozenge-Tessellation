@@ -145,4 +145,4 @@ When pronouns are dropped, Asaxi relies on **Strict Position**.
 
 **Example:**
 
-> **Onýj [zètopu] shěsa toponů.** `DEF` `[PAST-drop]` `books` `raining/falling` _Analysis:_ `Zètopu` is inside the phrase started by `Onýj`, so it is a modifier. `Toponů` is the main verb. _Meaning:_ "The books that were dropped are falling."
+> **Onýj [zètopù] shěsa toponů.** `DEF` `[PAST-drop]` `books` `raining/falling` _Analysis:_ `Zètopù` is inside the phrase started by `Onýj`, so it is a modifier. `Toponů` is the main verb. _Meaning:_ "The books that were dropped are falling."

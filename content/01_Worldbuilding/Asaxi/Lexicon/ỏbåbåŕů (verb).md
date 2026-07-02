@@ -15,41 +15,46 @@ tags:
 
 <span class="asaxi-script">ỏbåbåŕů</span>
 
+<span class="asaxi-script-alpha">ỏbåbåŕů</span>
 ### Transitivity / Valency
-
 **Intransitive**
 
 ### Lexical Aspect
-
-**Accomplishment:** The process of developing definition.
-
-### Grammatical Note
-
-Derived from **[[ỏbåbå (noun)|ỏbåbå]]** (Abs) + **[[-ŕ- (Morphological Infix)|-ŕ-]]** (Generative Mode) + **[[ů (verb)|-ů]]**.
-* *Logic:* "To generate abs."
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field The Body]] / Fitness
 
 ### Pronunciation
-
 IPA: /ou̯bau̯bau̯ɾuu̯/
 
 ### Translations
-
 - English: to harden (body), to get ripped, to attain definition, to tone up
 - Polish: wyrzeźbić się, nabrać rzeźby
 
 ### Example sentence
-
 **To John niỏbåbåŕů.**
 _John is starting to get ripped._
 
-### Antonyms
+### Alternative Forms
+Null
 
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Antonyms
 - **[[ỏbỏŕů (verb)|ỏbỏŕů]]** (To get soft / lose definition).
 
-### Derived terms
-
+### Root Noun
 Null
+
+### Derived terms
+- **ỏbåbåŕůshá** (agent noun) *(potential)*
+
+### Grammatical Note
+Derived from **[[ỏbåbå (noun)|ỏbåbå]]** (Abs) + **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** (Generative Mode) + **[[ů (verb)|-ů]]**.
+* *Logic:* "To generate abs."

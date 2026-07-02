@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">okonoko</span>
 
+<span class="asaxi-script-alpha">okonoko</span>
 ### Grammatical function
 
 - **Type:** Adverbial Particle / Aspectual Modifier
@@ -26,7 +27,7 @@ IPA: /okonoko/
 
 ### Etymology
 
-A reduplicative chain of proximal locatives: **[[o (Proximal Locative Prefix)|o]]** (Here) + **[[ko (Proximal Locative Prefix)|ko]]** (Yonder) + **[[no (Proximal Locative Prefix)|no]]** (There) + **ko** (Yonder).
+A reduplicative chain of proximal locatives: **[[o (Proximal Locative Prefix)|o]]** (Here) + **[[ko (Distal Locative Prefix)|ko]]** (Yonder) + **[[no (Medial Locative Prefix)|no]]** (There) + **ko** (Yonder).
 *Lit:* "Here-yonder-there-yonder."
 
 ### Example sentence

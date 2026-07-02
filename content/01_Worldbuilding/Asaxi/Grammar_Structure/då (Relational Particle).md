@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">då</span>
 
+<span class="asaxi-script-alpha">då</span>
 ### Grammatical function
 
 - **Particle type:** [[15_NPCP and The Agglutinative Block|Relational Particle (NPCP)]]
@@ -64,7 +65,7 @@ x
 
 ### Antonyms
 
-Null
+- [[izo (Relational Particle)|izo]] - ablative source (recipient ↔ source counterpart)
 
 ### Derived terms
 

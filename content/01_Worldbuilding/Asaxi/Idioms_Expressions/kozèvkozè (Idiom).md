@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">kozèvkozè</span>
 
+<span class="asaxi-script-alpha">kozèvkozè</span>
 ### Grammatical function
 
 - **Type:** Temporal Adverb / Idiom
@@ -35,4 +36,4 @@ IPA: /kozəfkozə/
 
 ### Synonyms
 
-- **[[kozè (Temporal Noun)|vkozè]]** (In the distant past - standard).
+- **[[kozè (Noun)|vkozè]]** (In the distant past - standard).

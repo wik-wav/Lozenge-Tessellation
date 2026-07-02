@@ -15,40 +15,45 @@ tags:
 
 <span class="asaxi-script">eśnånů</span>
 
+<span class="asaxi-script-alpha">eśnånů</span>
 ### Transitivity / Valency
-
 **Intransitive**
 
 ### Lexical Aspect
-
-**Activity:** Maintaining a grin.
-
-### Grammatical Note
-
-Derived from **[[eśnå (noun)|eśnå]]** (Grin) + **-n-** + **-ů**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]]
 
 ### Pronunciation
-
 IPA: /eɕnau̯nuu̯/
 
 ### Translations
-
 - English: to grin, to smirk
 - Polish: szczerzyć się, uśmiechać się szeroko
 
 ### Example sentence
-
 **To gajýnnshá eśnånů.**
 _The were-hyena grins._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **eśnå** (Grin) + **-n-** + **-ů**.
 
-### Derived terms
-
+### Synonyms
 Null
+
+### Antonyms
+Null
+
+### Root Noun
+- [[eśnå (noun)|eśnå]]
+
+### Derived terms
+- **eśnånůshá** (agent noun) *(potential)*
+
+### Grammatical Note
+Derived from **[[eśnå (noun)|eśnå]]** (Grin) + **-n-** + **-ů**.

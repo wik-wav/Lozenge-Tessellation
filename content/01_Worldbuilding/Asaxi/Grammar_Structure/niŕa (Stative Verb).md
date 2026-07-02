@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">niŕa</span>
 
+<span class="asaxi-script-alpha">niŕa</span>
 ### Grammatical function
 
 - **Type:** Stative Verb
@@ -40,4 +41,4 @@ _We will become hyenas._
 
 ### Derived terms
 
-Null
+- **nániŕa** - to not become (negated form; see [[ná (Particle)]])

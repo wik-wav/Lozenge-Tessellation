@@ -15,47 +15,39 @@ tags:
 
 <span class="asaxi-script">gavi</span>
 
+<span class="asaxi-script-alpha">gavi</span>
 ### Noun class (warm / cold)
-
 warm
 - reasoning: (colour is light, light is energy)
 
 ### Pronunciation
-
 IPA: /ɡavi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Colours]]
 [[Smntc_Field Emotion]]
 
 ### Translations
-
 - English: green (colour), goodness, positivity, virtue
 - Polish: zieleń, dobroć, dobro
 
 ### Example sentence
-
 **To topobi opùnågavi xiŕa.** _The weather is usually green (good)._
 
 **Vivi gavi xiŕa.** Grass is green
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 **[[ga (Fusing Particle)|ga]]** (Type) + **[[vivi (noun) - as in family of plants|vivi]]** (Grass). _Lit:_ "Grass-type." _Metaphor:_ That which promotes life and growth is good.
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůgavi** (absence of green) *(potential)*
 
 ### Derived terms
-
 **gavină** (Good / Well).
+- [[vigavi (noun)|vigavi]] - health

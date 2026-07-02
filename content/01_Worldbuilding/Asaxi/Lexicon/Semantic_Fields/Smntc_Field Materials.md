@@ -1,27 +1,21 @@
----
-title: Smntc_Field Materials
-tags:
-  - semantic_field
-  - language
-  - Asaxi
----
-# Materials Semantic Field
 
-This is a page with a list of all Asaxi words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **materials**.
+- [[kŕù (noun)]] - rust
+- [[popo (noun)]] - seashell
+- [[ŕago (noun)]] - charcoal
 
-Navigation:
-- [[The Asaxi Language|The Asaxi Language Index]]
-- [[index|Index - Homepage]]
-
-- - -
-
-- [[ro (noun)]] - iron (metal)
-- [[nonýj (adjective)]] - material, object-like
-- [[nono (noun)]] - thing, object
-- [[txepỏ (noun)]] - feather
-- [[pỏ (noun)]] - fluff
-- [[goro (noun)]] - iron ore
-- [[pigùmenn (noun)]] - pigment, raw color powder, dye (powder form)
-- [[gámŕo (noun)]] - acrylic paint, paint (viscous), liquid gum
-- [[naŕo (verb)]] - to mix, to multiply
-- [[naŕonů (verb)]] - to mix, to combine, to blend, to compound, to multiply (action)
+- [[xagiro (noun)]] - copper (ember-metal)
+- [[rogi (noun)]] - bronze
+- [[rogo (noun)]] - steel (hard-iron)
+- [[sipỏ (noun)]] - silk (fine fibre)
+- [[vipỏ (noun)]] - cotton (plant-fluff)
+- [[kjèbwo (noun)]] - rubber (tree-sap stuff)
+- [[miabwo (noun)]] - wax (honey-fat)
+- [[mýdo (noun)]] - soap (Pl. *mydło*)
+- [[pỏbi (noun)]] - thread (cloth-line)
+- [[cùko (noun)]] - brick (baked clay)
+- [[gocù (noun)]] - cement, mortar (stone-soil)
+- [[iŕsùgo (noun)]] - gem, jewel (colour-crystal)
+- [[hjosùgo (noun)]] - diamond (star-crystal)
+- [[sùggo (noun)]] - marble (crystal-stone)
+- [[maogám (noun)]] - ink (black-gum)
+- [[gosipỏ (noun)]] - chalk (white-powder)

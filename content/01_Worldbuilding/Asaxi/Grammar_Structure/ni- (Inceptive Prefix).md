@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ni-</span>
 
+<span class="asaxi-script-alpha">ni-</span>
 ### Grammatical function
 
 - **Type:** Modal Prefix (Auxiliary Root)

@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">săsă</span>
 
+<span class="asaxi-script-alpha">săsă</span>
 ### Grammatical function
 
 - **Type:** Quantifier / Prefix
@@ -44,4 +45,5 @@ _I ate the entire apple._
 
 ### Derived terms
 
-Null
+- [[sătamni (noun)|sătamni]] - unison (să- + tamni)
+- **să**-family: [[săni (Quantifier)|săni]], [[sănani (Quantifier)|sănani]]

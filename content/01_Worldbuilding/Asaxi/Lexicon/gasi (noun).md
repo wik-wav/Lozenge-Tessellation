@@ -15,40 +15,35 @@ tags:
 
 <span class="asaxi-script">gasi</span>
 
+<span class="asaxi-script-alpha">gasi</span>
 ### Noun class (warm / cold)
-
 warm 
 - reasoning: (colour is light, light is energy)
 
 ### Pronunciation
-
 IPA: /ɡaʃɪ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Colours]]
 
 ### Translations
-
 - English: white (colour)
 - Polish: biel
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 x
 
 ### Etymology
-
 [[ga (Fusing Particle)|ga]] + [[siŕo (noun)]]
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůgasi** (absence of white (noun)) *(potential)*
 
 ### Derived terms
-
-Null
+- **gasină / gasinýj** (adjectival forms) *(potential)*

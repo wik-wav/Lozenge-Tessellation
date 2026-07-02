@@ -46,7 +46,7 @@ This structure (O-S-V) shifts the focus to _what happened to the object_, rather
 
 **2. Agentless Passive (Unknown Doer)**
 
-> **Dhè shěso zètopu.** `TOP` `book` `PAST-drop` _"The book was dropped."_
+> **Dhè shěso zètopù.** `TOP` `book` `PAST-drop` _"The book was dropped."_
 
 **3. Reflexive Passive**
 

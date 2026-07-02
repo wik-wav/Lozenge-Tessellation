@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">náxăkă</span>
 
+<span class="asaxi-script-alpha">náxăkă</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle Compound]] (Suffix)
@@ -50,4 +51,4 @@ x
 
 ### Derived terms
 
-Null
+- prohibition family: [[náxăbăhè (particle)|náxăbăhè]] (explicit), **náxăhè** (absolute) *(no entry yet)*

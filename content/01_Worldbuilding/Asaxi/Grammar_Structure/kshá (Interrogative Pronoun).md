@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">kshá</span>
 
+<span class="asaxi-script-alpha">kshá</span>
 ### Grammatical function
 
 - **Type:** Interrogative Pronoun (Animate)

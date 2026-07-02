@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nỏ</span>
 
+<span class="asaxi-script-alpha">nỏ</span>
 ### Grammatical function
 
 - **Type:** Polarity Particle Variant

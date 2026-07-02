@@ -13,6 +13,7 @@ title: sỏni (Particle) - "Once", "Former", "Ex-", "Used to be".
 
 <span class="asaxi-script">sỏni</span>
 
+<span class="asaxi-script-alpha">sỏni</span>
 ### Grammatical function
 
 - **Type:** Aspectual Particle / Prefix / Suffix

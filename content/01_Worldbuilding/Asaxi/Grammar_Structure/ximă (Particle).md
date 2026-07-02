@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ximă</span>
 
+<span class="asaxi-script-alpha">ximă</span>
 ### Grammatical function
 - **Type:** Frequency Adverb
 - **Function:** **Daily Frequency**
@@ -37,4 +38,6 @@ _I lift at the gym every day._
 x
 
 ### Derived terms
-Null
+
+- [[xi (noun)|xi]] - sun, day (base noun)
+- **mă**-family: [[txămă (Particle)|txămă]], [[åmă (Particle)|åmă]], [[gămă (particle)|gămă]]

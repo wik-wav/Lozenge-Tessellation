@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">xădăchỏxă</span>
 
+<span class="asaxi-script-alpha">xădăchỏxă</span>
 ### Grammatical function
 
 - **Type:** Desiderative Particle (Sentence Final)

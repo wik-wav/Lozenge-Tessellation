@@ -15,37 +15,32 @@ tags:
 
 <span class="asaxi-script">niŕo</span>
 
+<span class="asaxi-script-alpha">niŕo</span>
 ### Transitivity / Valency
-
 **Intransitive** (Self-immersion) or **Transitive** (Immersing an object).
 
 ### Lexical Aspect
-
-**Activity / Accomplishment:** The process of entering liquid or depth.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Grammatical Note
-
 **[[02_Asaxi Verbs_Root (List)]]:** Compound root verb.
 
 ### Semantic Field
-
 [[Smntc_Field Environment]]
 
 ### Pronunciation
-
 IPA: /ɲiɾo/
 
 ### Translations
-
 - English: to immerse, to submerge, to dip, to dive into
 - Polish: zanurzać, pławić
 
 ### Example sentence
-
 **To wo [body] niŕo.**
 _I submerge (my) body._
 
-### Alternative forms
+### Alternative Forms
 - **niŕoŕo** (Full compound: `ni` + `ŕoŕo`). Used for emphasis or poetic rhythm.
 
 ### Etymology
@@ -59,4 +54,4 @@ x
 - **[[păŕo (verb)|păŕo]]** (To emerge / come out of water).
 
 ### Derived terms
-Null
+- **niŕoshá** (agent noun) *(potential)*

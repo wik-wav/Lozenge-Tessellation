@@ -1,0 +1,53 @@
+---
+title: oo (noun) - today, this day
+Word (Asaxi): oo
+trnsltion. En: today, this day
+trnsltion. Pl: dziś, ten dzień
+tags:
+  - Asaxi
+  - language
+  - noun
+---
+# oo ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">oo</span>
+
+<span class="asaxi-script-alpha">oo</span>
+### Noun class (warm / cold)
+**Cold** (Time unit)
+- Reasoning: A temporal unit built on **[[o (noun)|o]]** (Sky); patterns with the Cold time-units [[vwo (noun)|vwo]] / [[pwo (noun)|pwo]].
+
+### Pronunciation
+IPA: /oo/
+
+### Semantic Field
+[[Smntc_Field Time]]
+
+### Translations
+- English: today, this day
+- Polish: dziś, ten dzień
+
+### Example sentence
+**To oo gavină xiŕa.**
+_Today (this day) is good._
+
+### Alternative Forms
+Null
+
+### Etymology
+**[[o (Proximal Locative Prefix)|o-]]** (Here / Proximal deixis) + **[[o (noun)|o]]** (Sky). *Lit:* "The Sky Here." Patterns with [[vwo (noun)|vwo]] ("The Sky Inside") and [[pwo (noun)|pwo]] ("The Sky in Front") — the locative-prefix-plus-*o* time series.
+
+### Synonyms
+- **[[vwo (noun)|vwo]]** (Today — Abstract/Calendar).
+
+### Antonyms
+Null
+
+### Derived terms
+Null
+
+### Grammatical function
+- **Type:** Temporal Noun / Adverb
+- **Meaning:** Today, this day, the current daylight period.

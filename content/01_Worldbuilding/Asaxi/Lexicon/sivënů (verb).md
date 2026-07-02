@@ -15,41 +15,46 @@ tags:
 
 <span class="asaxi-script">sivënů</span>
 
+<span class="asaxi-script-alpha">sivënů</span>
 ### Transitivity / Valency
-
 **Intransitive**
 
 ### Lexical Aspect
-
-**Activity:** Continuous behavior.
-
-### Grammatical Note
-
-Derived from **[[sivëshá (noun)|sivë]]** (Civet) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
-* *Logic:* "To perform the civet." (Cultural metaphor: Civets are viewed as proud, flashy, or strutting creatures).
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]] / [[Smntc_Field Emotion]]
 
 ### Pronunciation
-
 IPA: /ɕiveɪnuu̯/
 
 ### Translations
-
 - English: to show off, to display confidence
 - Polish: popisywać się, puszyć się
 
 ### Example sentence
-
 **To John sivënů.**
 _John is showing off._
 
-### Antonyms
+### Alternative Forms
+Null
 
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Antonyms
 - **sivëshů** (To cower / act shyly).
 
-### Derived terms
-
+### Root Noun
 Null
+
+### Derived terms
+- **sivënůshá** (agent noun) *(potential)*
+
+### Grammatical Note
+Derived from **[[sivëshá (noun)|sivë]]** (Civet) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+* *Logic:* "To perform the civet." (Cultural metaphor: Civets are viewed as proud, flashy, or strutting creatures).

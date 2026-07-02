@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">nivå</span>
 
+<span class="asaxi-script-alpha">nivå</span>
 ### Grammatical function
 
 - **Type:** Temporal Connector

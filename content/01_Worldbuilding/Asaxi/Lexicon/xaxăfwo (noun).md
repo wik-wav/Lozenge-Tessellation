@@ -14,43 +14,34 @@ tags:
 
 <span class="asaxi-script">xaxăfwo</span>
 
+<span class="asaxi-script-alpha">xaxăfwo</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
 ### Pronunciation
-
 IPA: /ɦaɦaɪfʷo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Geography (Topography)]]
 
 ### Translations
-
 - English: stratosphere, upper atmosphere, high heavens
 - Polish: stratosfera
 
 ### Example sentence
-
 x
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 **[[xa- (Relational Locative Prefix)|xa]]** (Above) + **[[xă (Particle)|xă]]** (Emphasis/Indeed) + **[[fwo (noun)|fwo]]** (Fog). _Lit:_ The Above-Indeed-Fog.
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
 x
 
 ### Derived terms
-
-Null
+- **xaxăfwonă / xaxăfwonýj** (adjectival forms) *(potential)*

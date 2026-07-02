@@ -15,43 +15,50 @@ tags:
 
 <span class="asaxi-script">ŕoŕonů</span>
 
+<span class="asaxi-script-alpha">ŕoŕonů</span>
 ### Transitivity / Valency
-
 **Transitive**
 Takes an object (liquid).
 
 ### Lexical Aspect
-**Activity:** Consuming liquid.
-
-### Grammatical Note
-
-Derived from **[[ŕoŕo (noun)|ŕoŕo]]** (Water) + **-n-** + **[[ů (verb)|-ů]]**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Food & Drink]] / Body Functions
 
 ### Pronunciation
-
 IPA: /ɾoɾonuu̯/
 
 ### Translations
-
 - English: to drink, to imbibe
 - Polish: pić
 
 ### Example sentence
-
 **To wo ŕoŕo ŕoŕonů.**
 _I drink water._
 
 **Wo ijoŕo zèŕoŕonů.**
 _I dreamt (drank) a dream._
 
-### Etymology
+### Alternative Forms
+Null
 
-**ŕoŕo** (Water) + **-n-** (Use/Function) + **-ů**.
+### Etymology
+**[[ŕoŕo (noun)|ŕoŕo]]** (Water) + **-n-** (Use/Function) + **-ů**.
 *Lit:* "To water."
 
-### Derived terms
+### Synonyms
 Null
+
+### Antonyms
+Null
+
+### Root Noun
+- [[ŕoŕo (noun)|ŕoŕo]]
+
+### Derived terms
+- **ŕoŕonůshá** (agent noun) *(potential)*
+
+### Grammatical Note
+Derived from **[[ŕoŕo (noun)|ŕoŕo]]** (Water) + **-n-** + **[[ů (verb)|-ů]]**.

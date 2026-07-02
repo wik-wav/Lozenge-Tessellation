@@ -15,40 +15,35 @@ tags:
 
 <span class="asaxi-script">gapo</span>
 
+<span class="asaxi-script-alpha">gapo</span>
 ### Noun class (warm / cold)
-
 warm
 - reasoning: (colour is light, light is energy)
 
 ### Pronunciation
-
 IPA: /ɡapo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Colours]]
 
 ### Translations
-
 - English: red (colour), redness
 - Polish: czerwień (kolor)
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 x
 
 ### Etymology
-
 [[ga (Fusing Particle)|ga]] + [[apo (noun)]]
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůgapo** (absence of red) *(potential)*
 
 ### Derived terms
-
-Null
+- **gaponă / gaponýj** (adjectival forms) *(potential)*

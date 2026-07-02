@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">me-</span>
 
+<span class="asaxi-script-alpha">me-</span>
 ### Grammatical function
 
 - **Type:** Degree Prefix

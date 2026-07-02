@@ -1,6 +1,6 @@
 ---
 title: kxőŕo (noun) - throat, pharynx
-Word (Asaxi): kőŕo
+Word (Asaxi): kxőŕo
 trnsltion. En: throat, pharynx, voice box (poetic)
 trnsltion. Pl: gardło
 tags:
@@ -14,45 +14,36 @@ tags:
 
 <span class="asaxi-script">kxőŕo</span>
 
+<span class="asaxi-script-alpha">kxőŕo</span>
 ### Noun class (warm / cold)
-
 Warm
 
 ### Pronunciation
-
 IPA: /kʰoɪɾo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]] / [[Smntc_Field Communication]]
 
 ### Translations
-
 - English: throat, pharynx, voice box (poetic)
 - Polish: gardło
 
 ### Example sentence
-
 Sè wo kxőŕo tètáŕů.
 My throat hurts. (Lit: Of me throat pain-generates).
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 **[[kő (noun)|kő]]** (Empathy/Understanding) + **[[sháŕo (noun)|sháŕo]]** (Pool/Source). The initial consonant's aspiration symbolizes throatness.
 Logic: "The pool of understanding." It is the physical place where sounds are generated, enabling communication and thus understanding between beings.
 
 ### Synonyms
-
 - **[[nodo (noun)|nodo]]** (Neck - anatomical exterior).
 
 ### Antonyms
-
-Null
+- **fůkxőŕo** (absence of throat) *(potential)*
 
 ### Derived terms
-
-Null
+- **kxőŕonă / kxőŕonýj** (adjectival forms) *(potential)*

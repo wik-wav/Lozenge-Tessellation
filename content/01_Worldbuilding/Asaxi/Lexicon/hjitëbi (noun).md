@@ -14,49 +14,40 @@ tags:
 
 <span class="asaxi-script">hjitëbi</span>
 
+<span class="asaxi-script-alpha">hjitëbi</span>
 ### Noun class (warm / cold)
-
 Warm
 
 ### Pronunciation
-
 IPA: /çit̪eɪbi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: finger, digit (hand)
 - Polish: palec (u ręki)
 
 ### Plural Form
-
 **hjitëbiwa** (Fingers).
 
 ### Example sentence
-
 To wo ŕă hjitëbiwa ma.
 I have five fingers.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 **[[hji (noun)|hji]]** (Smallness/Slightness) + **[[tëbi (noun)|tëbi]]** (Arm/Upper Limb).
 Logic: "Small-Arms" or "Micro-Limbs."
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůhjitëbi** (absence of finger) *(potential)*
 
 ### Derived terms
-
-Null
+- **hjitëbină / hjitëbinýj** (adjectival forms) *(potential)*
+- [[htëno (noun)|htëno]] - ring

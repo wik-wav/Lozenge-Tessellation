@@ -15,41 +15,49 @@ tags:
 
 <span class="asaxi-script">tambiwů</span>
 
+<span class="asaxi-script-alpha">tambiwů</span>
 ### Transitivity / Valency
-
 **Transitive**
 
 ### Lexical Aspect
-
-**Activity:** Behavior.
-
-### Grammatical Note
-
-Derived from **[[tambi (Mathematical Operator)|tambi]]** (Equals) + **[[06A_-w- (Morphological Infix)|-w-]]** (Semblance) + **-ů**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]] / Deception
 
 ### Pronunciation
-
 IPA: /t̪ambiwuu̯/
 
 ### Translations
-
 - English: to imitate, to mimic, to copy, to emulate
 - Polish: naśladować, imitować
 
-### Usage Note
-
-* *Logic:* "To act as an equal" or "To behave identically to."
-* *Contrast:* **tambinů** (To agree/match - Functional) vs **tambiwů** (To mimic - Behavioral).
-
 ### Example sentence
-
 **To wo no tambiwů.**
 _I am imitating you._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 "To perform semblance of equality."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Root Noun
+Null
+
+### Derived terms
+Null
+
+### Grammatical Note
+Derived from **[[tambi (Mathematical Operator)|tambi]]** (Equals) + **[[06A_-w- (Morphological Infix)|-w-]]** (Semblance) + **-ů**.
+
+### Usage Note
+* *Logic:* "To act as an equal" or "To behave identically to."
+* *Contrast:* **tambinů** (To agree/match - Functional) vs **tambiwů** (To mimic - Behavioral).

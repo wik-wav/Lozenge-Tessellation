@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">găxăni</span>
 
+<span class="asaxi-script-alpha">găxăni</span>
 ### Grammatical function
 
 - **Type:** Temporal Adverb / Phrase
@@ -49,4 +50,4 @@ _I want to see you for eternity._ (Lit: I want to see you into-infinity).
 
 ### Derived terms
 
-Null
+- [[onå (FOREVER Aspectual Marker)|onå]] - forever (aspectual counterpart)

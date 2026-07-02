@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">xè-</span>
 
+<span class="asaxi-script-alpha">xè-</span>
 ### Grammatical function
 
 - **Type:** Modal Prefix (Auxiliary Root)

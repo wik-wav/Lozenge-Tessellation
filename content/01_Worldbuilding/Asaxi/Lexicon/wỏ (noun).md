@@ -14,44 +14,35 @@ tags:
 
 <span class="asaxi-script">wỏ</span>
 
+<span class="asaxi-script-alpha">wỏ</span>
 ### Noun class (warm / cold)
-
 Cold
 
 ### Pronunciation
-
 IPA: /wou̯/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Shapes & Dimensions]] / [[Smntc_Field Tools]]
 
 ### Translations
-
 - English: cylinder, primitive shape (cylindrical), roller
 - Polish: walec, cylinder
 
 ### Example sentence
-
 To wo wỏ ijo.
 I see the cylinder.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Mimetic of rolling or roundness.
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
 x
 
 ### Derived terms
-
-Null
+- [[xowỏ (verb)|xowỏ]] - to center

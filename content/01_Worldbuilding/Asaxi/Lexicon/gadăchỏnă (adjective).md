@@ -14,17 +14,23 @@ tags:
 
 <span class="asaxi-script">gadăchỏnă</span>
 
-### Grammatical function
+<span class="asaxi-script-alpha">gadăchỏnă</span>
+## Warm/Cold
 
-- **Type:** Qualitative Adjective (`-nă`)
-- **Source Agreement:** **Warm** (Root `chỏ` / `gadăchỏ` is Warm).
+class:
+- warm
+animate?
+- 
+other class equivalent:
+-
 
 ### Pronunciation
-
 IPA: /ɡadaɪt̠ʃou̯naɪ/
 
-### Translations
+### Semantic Field
+[[Smntc_Field Food & Drink]]
 
+### Translations
 **As an adjective:**
 - English: ravenous, insatiable, immensely hungry
 - Polish: wygłodniały, nienasycony
@@ -33,8 +39,30 @@ IPA: /ɡadaɪt̠ʃou̯naɪ/
 - English: ravenously, hungrily, with immense appetite
 - Polish: żarłocznie, wilczo
 
-### Example sentences
+### Example sentence
+Null
 
+### Alternative Forms
+Null
+
+### Etymology
+**[[gadă (noun)|gadă]]** (Immensity) + **[[chỏ (noun)|chỏ]]** (Maw/Hunger) + **-nă**.
+*Lit:* "Immense-Maw-Like."
+
+### Synonyms
+Null
+
+### Root Noun
+Null
+
+### Antonyms
+- x
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nă`)
+- **Source Agreement:** **Warm** (Root `chỏ` / `gadăchỏ` is Warm).
+
+### Example sentences
 **Adjective (Attribute):**
 **To John gadăchỏnă shá xiŕa.**
 _John is a ravenous person._
@@ -43,14 +71,5 @@ _John is a ravenous person._
 **To wo shěso gadăchỏnă shěsonů.**
 _I read the book ravenously._ (Lit: I read with elephant-maw hunger).
 
-### Etymology
-
-**[[gadă (noun)|gadă]]** (Immensity) + **[[chỏ (noun)|chỏ]]** (Maw/Hunger) + **-nă**.
-*Lit:* "Immense-Maw-Like."
-
-### Antonyms
-
-- x
-
 ### Derived terms
-Null
+- **gadăchỏnýj** (Cold-class form) *(potential)*

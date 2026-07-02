@@ -14,42 +14,41 @@ tags:
 
 <span class="asaxi-script">mimi</span>
 
+<span class="asaxi-script-alpha">mimi</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: Body part, living tissue.
 
 ### Pronunciation
-
 IPA: /mimi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]] / [[Smntc_Field Perception]]
 
 ### Translations
-
 - English: ear
 - Polish: ucho
 
-### Plural Form
-
-**mima** (Ears).
-*Rule:* Reduplicated Syllable Reduction (`mimi` + `a` $\rightarrow$ `mima`).
-
 ### Example sentence
+**Mimi aichů.**
+_(My) ears hurt._
 
-**To wo tam mima ma.**
-_I have two ears._
-
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Borrowed from Japanese **耳** (*mimi*).
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **[[minů (verb)]]** (To hear).
+- [[mibi (noun)|mibi]] - earring
+
+### Plural Form
+**mima** (Ears).
+*Rule:* Reduplicated Syllable Reduction (`mimi` + `a` $\rightarrow$ `mima`).

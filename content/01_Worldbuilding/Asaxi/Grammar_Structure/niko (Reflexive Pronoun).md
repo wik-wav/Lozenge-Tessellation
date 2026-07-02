@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">niko</span>
 
+<span class="asaxi-script-alpha">niko</span>
 ### Grammatical function
 
 - **Type:** Reflexive Pronoun

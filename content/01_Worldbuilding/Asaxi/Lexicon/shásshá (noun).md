@@ -14,28 +14,35 @@ tags:
 
 <span class="asaxi-script">shásshá</span>
 
+<span class="asaxi-script-alpha">shásshá</span>
 ### Noun class (warm / cold)
-
 **Warm**
 
 ### Pronunciation
-
 IPA: /ʃɑsʃɑ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Animals]]
 
 ### Translations
-
 - English: hostage, captive, property (person)
 - Polish: zakładnik, jeniec
 
-### Etymology
+### Example sentence
+Null
 
+### Alternative Forms
+Null
+
+### Etymology
 **[[shá (noun)|shá]]** (Creature) + **[[sè (Relational Particle)|s(è)]]** (Of) + **[[shá (noun)|shá]]** (Creature).
 *Lit:* "Creature-of-Creature." (A person owned by another).
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **shásè** (Imprisonment).

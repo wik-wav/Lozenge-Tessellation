@@ -14,34 +14,37 @@ tags:
 
 <span class="asaxi-script">bwonădăsùki</span>
 
+<span class="asaxi-script-alpha">bwonădăsùki</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: Emotion.
 
 ### Pronunciation
-
 IPA: /bʷonaɪdaɪsɯki/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Emotion]]
 
 ### Translations
-
 - English: adoration, cherishing, romantic interest, beautiful love
 - Polish: uwielbienie, adoracja
 
 ### Example sentence
+**Wo då hjá bwonădăsùki ma.**
+_I have adoration for the child._
 
-**To wo bwonădăsùki ma.**
-_I have adoration._
+### Alternative Forms
+Null
 
 ### Etymology
-
 **[[bwonă (adjective)|bwonă]]** (Beautiful/Curvy) + **[[sùkixů (verb)|dăsùki]]** (Love).
 *Lit:* "Beautiful-Love."
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **[[năbwonădăsùkină (adjective)]]** (Most beloved).

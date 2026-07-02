@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">dăgo</span>
 
+<span class="asaxi-script-alpha">dăgo</span>
 ### Noun class (warm / cold)
 
 **Cold**
@@ -58,4 +59,4 @@ _Many people shouted twice._]), ăja (verb).md]
 
 ### Derived terms
 
-Null
+- **-go** quantifier family: [[hjigo (Quantifier)|hjigo]] (few), [[fůtăgo (Quantifier)|fůtăgo]] (some)

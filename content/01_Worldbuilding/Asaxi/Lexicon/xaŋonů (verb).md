@@ -15,32 +15,45 @@ tags:
 
 <span class="asaxi-script">xaŋonů</span>
 
+<span class="asaxi-script-alpha">xaŋonů</span>
 ### Transitivity / Valency
-
 **Intransitive**
 
 ### Lexical Aspect
-
-**State:** Having a weight in the metric tonnage range.
-
-### Grammatical Note
-
-Derived from **[[xaŋo (Unit Noun)|xaŋo]]** (Ton) + **-n-** + **-ů**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Numerals]] / Physics
 
-### Translations
+### Pronunciation
+IPA: /ɦaŋonuu̯/
 
+### Translations
 - English: to weigh (in tonnes)
 - Polish: ważyć (w tonach)
 
 ### Example sentence
-
 **To kamm xatam daŕă damŕă ŕă xaŋonů.**
 _The building weighs 2555 tonnes._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[xa- (Number Prefix)|xa-]]** (Thousand) + **[[ŋo (Unit Noun)|ŋo]]** (Kilo) + **-n-** + **-ů**.
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Root Noun
+Null
+
+### Derived terms
+Null
+
+### Grammatical Note
+Derived from **[[xaŋo (Unit Noun)|xaŋo]]** (Ton) + **-n-** + **-ů**.

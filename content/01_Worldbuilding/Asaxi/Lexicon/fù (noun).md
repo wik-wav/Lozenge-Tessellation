@@ -14,44 +14,35 @@ tags:
 
 <span class="asaxi-script">fù</span>
 
+<span class="asaxi-script-alpha">fù</span>
 ### Noun class (warm / cold)
-
 Warm
 
 ### Pronunciation
-
 IPA: /fɯ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: nose, snout
 - Polish: nos
 
 ### Example sentence
-
 Sè wo fù fùnýj ůŋů.
 My nose smells (perceives scent) well (skillfully).
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 The letter **f** in the Asaxi script visually resembles a nose.
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůfù** (absence of nose) *(potential)*
 
 ### Derived terms
-
 - **[[ůŋů (verb)|ůŋů]]** (To smell - related concept).

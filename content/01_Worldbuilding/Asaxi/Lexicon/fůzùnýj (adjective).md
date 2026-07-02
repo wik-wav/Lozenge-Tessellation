@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">fůzùnýj</span>
 
+<span class="asaxi-script-alpha">fůzùnýj</span>
 ## Warm/Cold
 
 class:
@@ -24,15 +25,12 @@ other class equivalent:
 - (None)
 
 ### Pronunciation
-
 IPA: /fuu̯zɯnɪꞲ/
 
 ### Semantic Field
-
 [[Smntc_Field Virtues & Failings]]
 
 ### Translations
-
 **As an adjective:**
 - English: unskilled, incompetent, clumsy, inept
 - Polish: niewprawny, niekompetentny
@@ -41,28 +39,22 @@ IPA: /fuu̯zɯnɪꞲ/
 - English: clumsily, without skill, poorly
 - Polish: niezdarnie, bez wprawy
 
-### Example sentence:
-
+### Example sentence
 **As an adverb:**
 - To wo fůzùnýj aśù.
 I walk clumsily (without skill).
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
-[[fůzù (noun)|fůzù]] (Lack of skill) + [[-nýj]].
+[[fůzù (noun)|fůzù]] (Lack of skill) + [[09_Adjectives_Forming Adjectives in Asaxi|-nýj]].
 
 ### Synonyms
-
 - **[[fůŕăijonă (adjective)|fůŕăijonă]]** (Weakly).
 
 ### Root Noun
-
 - [[zù (noun)|zù]]
 
 ### Antonyms
-
 - **zùnýj** (Skilled).

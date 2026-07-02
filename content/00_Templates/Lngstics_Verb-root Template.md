@@ -15,6 +15,7 @@ tags:
 
 <span class="asaxi-script">Word (Asaxi)</span>
 
+<span class="asaxi-script-alpha">Word (Asaxi)</span>
 ### Transitivity / Valency
 
 _intransitive verb_ 
@@ -26,16 +27,14 @@ takes two, e.g. _He(1) kicked the ball(2)._
 _ditransitive verb_ 
 takes three, e.g. _He(1) gave her(2) a flower(3)._
 
-### Lexical Aspect 
+### Lexical Aspect
 
-- **Activity:** Ongoing process, no defined end (run, swim, push).
-- **Accomplishment:** Process with an end point (build a house, paint a picture).
-- **Achievement:** Instantaneous event, often repeated (knock, sneeze, flash).
-- **State:** Unchanging (know, love, be). 
+- **Punctual (Achievement)** — happens in a single moment. *(or **Durative (Activity)** / **State**, per the verb)*
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully" · **-ů** "make it ongoing" *(punctual roots)*.
 
 ### Grammatical Note
 
-- **[[02_Asaxi Verbs_Root (List)]]:** This belongs to the closed class of primitive verbs. It is a root verb and does not utilize the Universal Verbalizer _-ů_ suffix.
+- **[[02_Asaxi Verbs_Root (List)]]:** Closed-class primitive verb, **punctual by default**. It may take **-ů** to derive a durative/processual reading, and `na-`/`tå-`/`ni-`/`chå-` for other aspects.
 
 ### Semantic Field
 
@@ -54,8 +53,7 @@ IPA: //
 
 x
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology

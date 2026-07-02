@@ -14,44 +14,44 @@ tags:
 
 <span class="asaxi-script">pjo</span>
 
+<span class="asaxi-script-alpha">pjo</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: Radiates energy/light (like `hjo`, `xi`).
 
 ### Pronunciation
-
 IPA: /pʲo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Housing & Shelter]] / [[Smntc_Field Tools]]
 
 ### Translations
-
 - English: light (source), lamp, bulb, shiner
 - Polish: światło (źródło), lampa, świecidełko
 
 ### Example sentence
-
 **To pjo hjonă xiŕa.**
 _The light is bright._
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Front **[[pa- (Relational Locative Prefix)]]** + **[[hjo (noun)|hjo]]** (Star).
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
 - x
 
 ### Derived terms
-Null
+- [[pjobi (noun)|pjobi]] (candle (light-rod))
+- [[pjono (noun)|pjono]] - image
+- [[pjonă (adjective)|pjonă]] - bright
+- [[pjonů (verb)|pjonů]] - to light up
+- [[pjovi (noun)|pjovi]] - laser
+- [[pjoŕů (verb)|pjoŕů]] - to shine
+- [[hjopjo (noun)|hjopjo]] - lightning
+- [[pjokem (noun)|pjokem]] - window
+- [[pjovină (adjective)|pjovină]] - direct

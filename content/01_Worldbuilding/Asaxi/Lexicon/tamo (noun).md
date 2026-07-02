@@ -14,52 +14,44 @@ tags:
 
 <span class="asaxi-script">tamo</span>
 
+<span class="asaxi-script-alpha">tamo</span>
 ### Noun class (warm / cold)
-
 **Cold**
 - Reasoning: Abstract concept, static boundary.
 
 ### Pronunciation
-
 IPA: /t̪amo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Shapes & Dimensions]] / [[Smntc_Field Geography (Topography)]]
 
 ### Translations
-
 - English: limit, end, boundary, edge, terminus, line (finish)
 - Polish: kres, granica, koniec
 
 ### Usage Note
-
 Used for both physical edges (where the road stops) and abstract limits (end of patience, end of a process).
 
 ### Example sentence
-
 **To shosa tamo ma.**
 _The road has an end._
 
 **Sè John anő shěsonů tamo zèxogăni.**
 John's reading reached (the) limit. (John finished reading.)
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Related to the verb **[[tomo' (verb)|tomo']]** (To stop). It represents the physical point where "stopping" happens.
 *Polish Connection:* *Tamować* (to block/staunch).
 
 ### Synonyms
-
 - x
 
 ### Antonyms
-
 - **\[Start\]**
 
 ### Derived terms
-Null
+- **tamonă / tamonýj** (adjectival forms) *(potential)*
+- [[dăotamo (noun)|dăotamo]] - horizon

@@ -14,31 +14,36 @@ tags:
 
 <span class="asaxi-script">vawo</span>
 
+<span class="asaxi-script-alpha">vawo</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
 ### Pronunciation
 IPA: /vawo/
 
-### Semantic field
+### Semantic Field
 [[Smntc_Field Geography (Topography)]] / [[Smntc_Field Housing & Shelter]]
 
 ### Translations
-
 - English: the inside, the interior, the contents
 - Polish: wnętrze
 
 ### Example sentence
+**Apo kjèmaka vawo vanů.**
+_An apple is in the inside of the basket._
 
-**To vawo dănă xiŕa.**
-_The interior is huge._
+### Alternative Forms
+Null
 
 ### Etymology
-
 **[[va- (Relational Locative Prefix)|va]]** (Inside) + **-w-** (Bridge) + **[[o (Proximal Locative Prefix)|o]]** (Here).
 *Lit:* "The Inside-Here."
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **vawonă** (Internal / Inner - Adjective).

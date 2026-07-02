@@ -14,15 +14,14 @@ tags:
 
 <span class="asaxi-script">pùwo</span>
 
+<span class="asaxi-script-alpha">pùwo</span>
 ### Noun class (warm / cold)
 **Cold**
 
 ### Pronunciation
-
 IPA: /pɯwo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Geography (Topography)]]
 
 ### Translations
@@ -33,6 +32,18 @@ IPA: /pɯwo/
 **To pùwo siŕo ni.**
 _The bottom is towards the unknown._
 
+### Alternative Forms
+Null
+
 ### Etymology
 **[[pù- (Relational Locative Prefix)|pù]]** (Below) + **-w-** + **[[o (Proximal Locative Prefix)|o]]** (Here).
 *Lit:* "The Below-Here."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null

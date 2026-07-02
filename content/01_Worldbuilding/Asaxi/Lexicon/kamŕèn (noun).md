@@ -14,34 +14,36 @@ tags:
 
 <span class="asaxi-script">kamŕèn</span>
 
+<span class="asaxi-script-alpha">kamŕèn</span>
 ### Noun class (warm / cold)
-
 **Warm**
 
 ### Pronunciation
-
 IPA: /kamɾən/
 
-### Semantic field
-
-[[Smnt_Field Professions & Occupations]]
+### Semantic Field
+[[Smntc_Field Professions & Occupations]]
 
 ### Translations
-
 - English: keeper, warden, caretaker, janitor (in a high status sense), steward
 - Polish: zarządca, dozorca, strażnik
 
-### Etymology
-
-**[[kamm (noun)|kamm]]** (Building) + **ŕèn** (Person/Official suffix - distinct from `shá`).
-*Lit:* "Building-Steward."
-
 ### Example sentence
-
 **To ijoŕaŕokamŕèn vănýj aśù.** 
 _The temple keeper walks slowly._
 
-### Derived Terms
+### Alternative Forms
+Null
 
-- x
+### Etymology
+**[[kamm (noun)|kamm]]** (Building) + **ŕèn** (Person/Official suffix - distinct from `shá`).
+*Lit:* "Building-Steward."
 
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+- [[ijoŕaŕokamŕèn (noun)|ijoŕaŕokamŕèn]] - temple keeper, librarian (of the dream-temple), curator, guardian of the sanctuary

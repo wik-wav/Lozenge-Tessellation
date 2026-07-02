@@ -13,20 +13,18 @@ tags:
 
 <span class="asaxi-script">dam</span>
 
+<span class="asaxi-script-alpha">dam</span>
 ### Grammatical function
-
 - **Type:** Cardinal Number
 - **Value:** **10**
 
 ### Pronunciation
-
 IPA: /d̪am/
 
 ### Example sentence
-
 **To wo dam apa ma.** _"I have ten apples."_
 
 ### Derived terms
-
 - **dambam** (10 times)
 - **damsă** (11)
+- [[damtxă (noun)|damtxă]] - decade

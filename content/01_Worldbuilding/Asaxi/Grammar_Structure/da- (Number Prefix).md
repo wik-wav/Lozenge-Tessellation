@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">da-</span>
 
+<span class="asaxi-script-alpha">da-</span>
 ### Grammatical function
 
 - **Type:** Number Prefix

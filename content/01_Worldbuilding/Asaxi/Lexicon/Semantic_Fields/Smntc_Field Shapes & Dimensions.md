@@ -34,3 +34,9 @@ Navigation:
 - [[gahji (noun)]] - smallness, minuteness, insignificance, compactness
 - [[hjinýj (adjective)]] - small, little, tiny, minute, compact
 - [[ýhýnă (adjective)]] - mouse-like, tiny (cute/fragile)
+- [[baai (noun)]] - the right side
+- [[bafwă (noun)]] - the left side
+- [[obi (noun)]] - nearness
+- [[kobi (noun)]] - farness
+- [[găxă (noun)]] - infinity, eternity, boundlessness, the infinite
+- [[pŕo (noun)]] - torus / hoop

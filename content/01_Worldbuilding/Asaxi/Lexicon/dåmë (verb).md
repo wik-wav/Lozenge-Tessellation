@@ -1,75 +1,58 @@
 ---
-title: dåmë (verb) - to send, to show, to display
+title: dåmë (verb) - to show, indicate, reveal, point out
 Word (Asaxi): dåmë
-trnsltion. En: to send, to show, to display
-trnsltion. Pl: wysyłać, pokazywać
-Transitivity: transitive
+trnsltion. En: to show, indicate, reveal, point out
+trnsltion. Pl: pokazywać, wskazywać
+Transitivity: ditransitive
 tags:
   - Asaxi
   - language
   - verb
+  - vocab_expansion
 ---
-# dåmë ([[02_Asaxi Verbs_Root (List)|02_Asaxi Verbs_Root (List)]])
+# dåmë ([[02_Asaxi Verbs_Root (List)]])
 
----
+- - -
 
 <span class="asaxi-script">dåmë</span>
 
+<span class="asaxi-script-alpha">dåmë</span>
 ### Transitivity / Valency
+_ditransitive_
 
-_transitive verb_
-
-### Semantic Field
-
-[[Smntc_Field Perception]]
-[[Smntc_Field Behaviour|Smntc_Field Behavior]]
-
-### Usage Note
-
-- **Dual Meaning:** The concept of "sending" in Asaxi is intrinsically linked to "showing." To send a message or an image is to make it visible to the recipient.
-- **Context:** Often used for digital transfers, mail, or revealing physical traits (like a doctor's examination).
+### Lexical Aspect
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Grammatical Note
+- **[[02_Asaxi Verbs_Root (List)]]:** Root verb — may take **-ů** to derive a durative reading, and `na-`/`tå-`/`ni-`/`chå-` for other aspects.
 
-- **[[02_Asaxi Verbs_Root (List)]]:** This belongs to the closed class of primitive verbs. It is a root verb and does not utilize the Universal Verbalizer _-ů_ suffix.
+### Semantic Field
+[[Smntc_Field Communication]]
 
 ### Pronunciation
-
-IPA: /dau̯meɪ/
+IPA: /dau̯mə/
 
 ### Translations
-
-- English:
-	1. To send (digital, visual, or information transmission). 
-	2. To show / To display (literally "to place for the eye").
-- Polish: 
-	1. wysyłać (cyfrowo, wizualnie, lub przekazując informacje)
-	2. pokazywać (dosłownie robić "dla oka")
+- English: to show, indicate, reveal, point out
+- Polish: pokazywać, wskazywać
 
 ### Example sentence
+**Fŕo shosa dåmë.**
+_A map shows the way._
 
-**John tăbino då wo zèdåmë.** _John sent me a drawing._
-
-|Asaxi|**John**|**tăbino**|**då**|**wo**|**zè-dåmë**|
-|---|---|---|---|---|---|
-|**Morphemes**|John|tăbino|då|wo|zè - dåmë|
-|**Gloss**|John|drawing|DAT|1SG|PST-send|
-
-**Sè wo vachỏmă dåmë.** _(I) show my oral cavity._
-
-| Asaxi         | **Sè** | **wo** | **vachỏmă**  | **dåmë** |
-| ------------- | ------ | ------ | ------------ | -------- |
-| **Morphemes** | sè     | wo     | va-chỏmă     | dåmë     |
-| **Gloss**     | GEN    | 1SG    | LOC.in-mouth | show     |
+### Alternative Forms
+Null
 
 ### Etymology
-
-**[[då (Relational Particle)|då]]** (For / To) + **[[mëjo (noun)|mëjo (noun) - eye]]** (Eye). _Literal Translation:_ "For the eye."
+Native root.
 
 ### Synonyms
-
-- **[[ijo (verb)|ijo]]** (See - related sensory root).
+Null
 
 ### Antonyms
+Null
 
-- **[[fdåmë (verb)|fdåmë]]** (To withhold, to keep from sending).
+### Derived terms
+- [[dåmëno (noun)|dåmëno]] - message, letter
+- [[fdåmë (verb)|fdåmë]] - to withhold, to not send, to conceal, to not show (deliberately)

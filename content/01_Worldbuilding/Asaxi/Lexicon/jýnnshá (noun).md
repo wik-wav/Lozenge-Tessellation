@@ -14,44 +14,36 @@ tags:
 
 <span class="asaxi-script">jýnnshá</span>
 
+<span class="asaxi-script-alpha">jýnnshá</span>
 ### Noun class (warm / cold)
-
 warm
 
 ### Pronunciation
-
 IPA: /Ʝɪ.n̩.ʃɑ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Animals]]
 
 ### Translations
-
 - English: hyena
 - Polish: hiena
 
 ### Example sentence
-
 x
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Pronunciation: En: Hyena -> Yeen -> Asaxi word + [[shá (noun)]] (creature)
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůjýnnshá** (absence of hyena) *(potential)*
 
 ### Derived terms
-
 [[jýnă (adjective)]]
 [[jýn (noun)]]
+- [[gajýnnshá (noun)|gajýnnshá]] - were-hyena, gnoll, hyena-man

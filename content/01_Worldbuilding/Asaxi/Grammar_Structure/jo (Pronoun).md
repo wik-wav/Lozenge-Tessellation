@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">jo</span>
 
+<span class="asaxi-script-alpha">jo</span>
 ### Noun class (warm / cold)
 
 Warm OR Cold

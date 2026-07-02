@@ -14,54 +14,45 @@ tags:
 
 <span class="asaxi-script">txă</span>
 
+<span class="asaxi-script-alpha">txă</span>
 ### Noun class (warm / cold)
-
 Cold (Time unit)
 
 ### Pronunciation
-
 IPA: /tʰaɪ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]] / [[Smntc_Field Numerals]]
 
 ### Translations
-
 - English: year, annual cycle, age (when used with subject)
 - Polish: rok, lata (wiek)
 
 ### Plural Form
-
 **txăa** (years).
 Rule: Nouns ending in a standard consonant or diphthong append -a
 
 ### Example sentence
-
 To wo tamdam să txăa.
 I am 23 years old. (Lit: I [am] 23 years).
 
 Să hùtxă.
 One year ago.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 **tă** (addition) + **Xi** (Sun) - An addition of the solar (cycle). 
-Logic: A "Complete Time" or a "True Cycle." Or possibly related to **xi** (Sun) + **xă** (Emphasis).
+Logic: A "Complete Time" or a "True Cycle." Or possibly related to **[[xi (noun)|xi]]** (Sun) + **xă** (Emphasis).
 
 ### Synonyms
-
 - **[[å (noun)|å]]** (Time - general).
 
 ### Antonyms
-
-Null
+- **fůtxă** (absence of year) *(potential)*
 
 ### Derived terms
-
 - **txămă** (Particle): Yearly / Annually.
 - **txănů** (verb): To age / To pass a year.
+- [[damtxă (noun)|damtxă]] - decade

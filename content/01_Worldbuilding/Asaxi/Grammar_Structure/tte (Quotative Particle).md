@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">tte</span>
 
+<span class="asaxi-script-alpha">tte</span>
 ### Grammatical function
 
 - **Type:** Low Binding Particle (Clause Final)
@@ -35,4 +36,4 @@ Borrowed from Japanese **って** (_tte_).
 
 ### Derived terms
 
-Null
+- *(no compounds attested)* — see [[43_Quotative & Casual Topic]]

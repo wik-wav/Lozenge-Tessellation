@@ -14,37 +14,39 @@ tags:
 
 <span class="asaxi-script">tăbino</span>
 
+<span class="asaxi-script-alpha">tăbino</span>
 ### Noun class (warm / cold)
-
 **Cold**
 - Reasoning: Inanimate representation/object.
 
 ### Pronunciation
-
 IPA: /t̪aɪbino/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Arts]] / Perception
 
 ### Translations
-
 - English: a drawing, a sketch, a diagram, a blueprint
 - Polish: rysunek, szkic, schemat
 
-### Usage Note
-
-Refers to the physical result of drawing.
-
 ### Example sentence
-
 **To wo tăbino tăbiŕů.**
 _I draw a drawing._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **tăbi** (Line-assembly / Drawing root) + **-no**
 
-### Derived terms
-
+### Synonyms
 Null
+
+### Antonyms
+Null
+
+### Derived terms
+- **tăbinonă / tăbinonýj** (adjectival forms) *(potential)*
+
+### Usage Note
+Refers to the physical result of drawing.

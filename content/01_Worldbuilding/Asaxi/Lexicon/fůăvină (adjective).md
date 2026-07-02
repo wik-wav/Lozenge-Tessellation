@@ -14,16 +14,23 @@ tags:
 
 <span class="asaxi-script">fůăvină</span>
 
-### Grammatical function
-- **Type:** Qualitative Adjective (`-nă`)
-- **Source Agreement:** **Warm**
+<span class="asaxi-script-alpha">fůăvină</span>
+## Warm/Cold
+
+class:
+- warm
+animate?
+- 
+other class equivalent:
+-
 
 ### Pronunciation
-
 IPA: /fuu̯aɪvinaɪ/
 
-### Translations
+### Semantic Field
+[[Smntc_Field Virtues & Failings]]
 
+### Translations
 **As an adjective:**
 - English: incorrect, wrong, messed up, horrible, not good, terrible
 - Polish: niepoprawny, okropny, zły
@@ -33,10 +40,24 @@ IPA: /fuu̯aɪvinaɪ/
 - Polish: okropnie, źle
 
 ### Example sentence
-
 **To wo fůăvină zèbůchů.**
 _I felt horrible._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[fůăvi (noun)|fůăvi]]** (Wrongness) + **-nă**.
+
+### Synonyms
+Null
+
+### Root Noun
+- [[fůăvi (noun)|fůăvi]]
+
+### Antonyms
+Null
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nă`)
+- **Source Agreement:** **Warm**

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ỏ-</span>
 
+<span class="asaxi-script-alpha">ỏ-</span>
 ### Grammatical function
 
 - **Type:** Relational Locative Prefix

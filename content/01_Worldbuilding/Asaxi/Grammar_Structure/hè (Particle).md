@@ -1,6 +1,6 @@
 ---
 title: hè (Particle) - do! (imperative)
-Word (Asaxi): hè (Particle)
+Word (Asaxi): hè
 trnsltion. En: do! (imperative)
 tags:
   - Asaxi
@@ -14,6 +14,7 @@ tags:
 
 <span class="asaxi-script">hè</span>
 
+<span class="asaxi-script-alpha">hè</span>
 ### Grammatical function
 
 [[11_Imperatives & Causatives|imperative]] particle. Makes clause into a command.
@@ -33,4 +34,9 @@ x
 
 ### Derived terms
 
-Null
+- [[xăhè (Particle)|xăhè]] - coercive imperative
+- [[băhè (Particle)|băhè]] - permissive
+- [[hăhè (Particle)|hăhè]] - (compound)
+- [[nihè (Particle)|nihè]] - inchoative command
+- [[nåhè- (Particle)|nåhè-]] - immediate command
+- **náxăhè** (absolute prohibition) *(no entry yet)*

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">hùnå</span>
 
+<span class="asaxi-script-alpha">hùnå</span>
 ### Grammatical function
 
 - **Type:** Temporal Particle / Aspectual Adverb

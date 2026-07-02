@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">iŕè</span>
 
+<span class="asaxi-script-alpha">iŕè</span>
 ### Grammatical function
 
 Used to indicate shock, disbelief, or refusal to accept a situation. It implies the speaker believes the outcome can still be changed or is factually wrong.
@@ -27,4 +28,4 @@ IPA: /iɾə/
 
 ### Derived terms
 
-Null
+- [[aŕa (Discourse Marker)|aŕa]] - resignation (paradigm counterpart)

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">náxăbăhè</span>
 
+<span class="asaxi-script-alpha">náxăbăhè</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle Compound]] (Imperative Prefix)
@@ -52,4 +53,4 @@ IPA: /nɑɦaɪbaɪxə/
 
 ### Derived terms
 
-Null
+- prohibition family: [[náxăkă (Particle)|náxăkă]] (polite), **náxăhè** (absolute) *(no entry yet)*

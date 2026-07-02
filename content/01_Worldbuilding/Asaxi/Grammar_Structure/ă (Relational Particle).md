@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ă</span>
 
+<span class="asaxi-script-alpha">ă</span>
 ### Grammatical function
 
 Alternate form of `to`. See [[to (Relational Particle)]]

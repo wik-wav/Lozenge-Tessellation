@@ -22,3 +22,31 @@ Navigation:
 - [[kem (noun)]] - door
 - [[vawo (noun)]] - the inside
 - [[pjo (noun)]] - light (source)
+- [[waokam (noun)]] - home
+- [[vakam (noun)]] - room, chamber
+- [[bakam (noun)]] - wall
+- [[xakam (noun)]] - roof
+- [[pjokem (noun)]] - window
+- [[kemka (noun)]] - key
+- [[ỏbỏŕo (noun)]] - bed
+- [[pùkŕo (noun)]] - floor
+- [[bikŕo (noun)]] - fence
+- [[gokam (noun)]] - tower / keep
+- [[xăto (noun)]] - hut / cabin
+
+- [[pùbo (noun)]] - chair (sit-thing)
+- [[pùgo (noun)]] - stool (sit-block)
+- [[dăpùbo (noun)]] - bench (long-chair)
+- [[nonawo (noun)]] - shelf (thing-surface)
+- [[nomáka (noun)]] - box (thing-vessel)
+- [[pỏmáka (noun)]] - bag, sack (cloth-vessel)
+- [[săpỏno (noun)]] - blanket (warm-cloth)
+- [[tată (noun)]] - mat (Jp. *tatami*)
+- [[pỏkŕo (noun)]] - rug, carpet (floor-fabric)
+- [[kempỏno (noun)]] - curtain (window-cloth)
+- [[åka (noun)]] - clock (time-tool)
+- [[xobi (noun)]] - stairs (climb-line)
+- [[xokŕo (noun)]] - ladder (climb-frame)
+- [[dănomáka (noun)]] - chest (big box)
+- [[vanawo (noun)]] - ceiling (inside-top)
+- [[ŕămáka (noun)]] - hearth, stove (fire-vessel)

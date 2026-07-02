@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">wăpùni</span>
 
+<span class="asaxi-script-alpha">wăpùni</span>
 ### Noun class (warm / cold)
 
 **Cold**

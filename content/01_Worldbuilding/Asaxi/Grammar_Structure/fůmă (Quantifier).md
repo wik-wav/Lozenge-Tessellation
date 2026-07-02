@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">fůmă</span>
 
+<span class="asaxi-script-alpha">fůmă</span>
 ### Pronunciation
 
 **IPA:** /fuu̯maɪ/

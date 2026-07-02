@@ -1,6 +1,6 @@
 ---
 title: ni (Relational Particle) - To, towards
-Word (Asaxi): ni (particle)
+Word (Asaxi): ni
 trnsltion. En: To, towards
 tags:
   - Asaxi
@@ -16,6 +16,7 @@ aliases:
 
 <span class="asaxi-script">ni</span>
 
+<span class="asaxi-script-alpha">ni</span>
 ### Grammatical function
 
 - **Particle type:** [[15_NPCP and The Agglutinative Block|Relational Particle (NPCP)]]

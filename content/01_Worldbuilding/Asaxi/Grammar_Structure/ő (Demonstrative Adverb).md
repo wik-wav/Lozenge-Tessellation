@@ -1,7 +1,7 @@
 ---
 title: ő (Demonstrative Adverb) - Like this, In this way, Thus
 trnsltion. En: Like this, In this way, Thus
-Word (Asaxi): ő (Demonstrative Adverb)
+Word (Asaxi): ő
 tags:
   - Asaxi
   - language
@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ő</span>
 
+<span class="asaxi-script-alpha">ő</span>
 ### Grammatical function
 - **Type:** Demonstrative Adverb
 - **Function:** **Proximal Manner**
@@ -40,4 +41,6 @@ Likely derived from **[[o (Proximal Locative Prefix)|o]]** (Here) + a manner suf
 x
 
 ### Derived terms
-Null
+
+- [[o (Proximal Locative Prefix)|o-]] - proximal base
+- [[ő (Discourse Marker)|ő]] - homophonous assertion marker

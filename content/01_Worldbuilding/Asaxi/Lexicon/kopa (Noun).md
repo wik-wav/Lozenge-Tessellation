@@ -14,34 +14,40 @@ tags:
 
 <span class="asaxi-script">kopa</span>
 
+<span class="asaxi-script-alpha">kopa</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
-### Grammatical function
-
-- **Type:** Temporal Noun
-- **Meaning:** The Distant Future, the far future.
-
 ### Pronunciation
-
 IPA: /kopa/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]] / Sci-Fi
 
 ### Translations
-
 - English: the far future, deep time
 - Polish: daleka przyszłość
 
 ### Example sentence
-
 **To kopa siŕo xiŕa.**
 _The distant future is the unknown._
 
-### Etymology
+### Alternative Forms
+Null
 
-**[[ko (Proximal Locative Prefix)|ko-]]** (Yonder) + **[[pa (Noun)|pa]]** (Future).
+### Etymology
+**[[ko (Distal Locative Prefix)|ko-]]** (Yonder) + **[[pa (Noun)|pa]]** (Future).
 *Lit:* "The Yonder-Future."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null
+
+### Grammatical function
+- **Type:** Temporal Noun
+- **Meaning:** The Distant Future, the far future.

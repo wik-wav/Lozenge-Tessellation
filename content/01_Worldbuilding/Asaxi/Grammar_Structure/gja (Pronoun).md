@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">gja</span>
 
+<span class="asaxi-script-alpha">gja</span>
 ### Grammatical function
 
 The pronoun `gja` (they (NB, plural)) is a third-person plural nominative pronoun.

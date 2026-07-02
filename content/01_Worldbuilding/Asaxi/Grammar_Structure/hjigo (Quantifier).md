@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">hjigo</span>
 
+<span class="asaxi-script-alpha">hjigo</span>
 ### Noun class (warm / cold)
 
 **Cold**
@@ -57,4 +58,5 @@ _Few people shouted._
 - **[[dăgo (Quantifier)|dăgo]]** (Many / Big-Number).
 
 ### Derived terms
-Null
+
+- **-go** quantifier family: [[dăgo (Quantifier)|dăgo]] (many), [[fůtăgo (Quantifier)|fůtăgo]] (some)

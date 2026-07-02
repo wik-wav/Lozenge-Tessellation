@@ -14,29 +14,36 @@ tags:
 
 <span class="asaxi-script">babåbå</span>
 
+<span class="asaxi-script-alpha">babåbå</span>
 ### Noun class (warm / cold)
-
 **Warm** (Compound)
 
 ### Pronunciation
-
 IPA: /babau̯bau̯/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: obliques, side muscles, serratus
 - Polish: mięśnie skośne
 
 ### Example sentence
+**Sè wo babåbå itănů.**
+_I flex my obliques._
 
-**To babåba dănă xiŕa.**
-_The obliques are big._
+### Alternative Forms
+Null
 
 ### Etymology
-
 **[[ba- (Relational Locative Prefix)|ba]]** (Beside) + **[[båbå (noun)|båbå]]** (Muscle).
 *Lit:* "The muscles beside (the center)."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null

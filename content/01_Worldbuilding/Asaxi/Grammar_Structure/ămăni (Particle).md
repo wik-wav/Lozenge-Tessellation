@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ămăni</span>
 
+<span class="asaxi-script-alpha">ămăni</span>
 ### Grammatical function
 
 - **Type:** Temporal Adverb / Phrase
@@ -34,13 +35,13 @@ _Please read whenever you feel like it._])]
 
 ### Etymology
 
-**[[ămă (Particle)|ămă]]** (Right Time) + **[[ni (Relational Particle)|ni]]** (Towards).
+**[[ămă (noun)|ămă]]** (Right Time) + **[[ni (Relational Particle)|ni]]** (Towards).
 *Lit:* "Towards the right time." (Move towards the moment that feels right to you).
 
 ### Synonyms
 
-- **[[gămă (Particle)|gămă]]** (Whenever / At any time - more neutral/random).
+- **[[gămă (particle)|gămă]]** (Whenever / At any time - more neutral/random).
 
 ### Derived terms
 
-Null
+- [[ămă (noun)|ămă]] - base particle

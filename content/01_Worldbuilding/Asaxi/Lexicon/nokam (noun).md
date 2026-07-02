@@ -14,34 +14,51 @@ tags:
 
 <span class="asaxi-script">nokam</span>
 
-### Pronunciation
+<span class="asaxi-script-alpha">nokam</span>
+### Noun class (warm / cold)
+**Cold**
+- Reasoning: inanimate structure (`-kam`, storehouse).
 
+### Pronunciation
 **IPA:** /no.kam/
 
-### Lexical Classification
+### Semantic Field
+[[Smntc_Field Environment|Smntc_Field Environment]]
 
+### Translations
+- English: storehouse, warehouse, place of things
+- Polish: magazyn, skład, miejsce na rzeczy
+
+### Example sentence
+Null
+
+### Alternative Forms
+Null
+
+### Etymology
+A compound of the root **[[nono (noun)|nono (noun) - thing, object]]** and the noun **[[kamm (noun)|kamm (noun) - building]]**.
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null
+
+### Lexical Classification
 **Category:** Noun
 **Noun Class:** Cold (Inanimate)
 
-### Semantic Field
-
-[[Smntc_Field Environment|Smntc_Field Environment]] 
-
 ### Meanings & Translations
-
 **English:** storehouse, warehouse, repository
 **Polish:** magazyn, skład, składnica
 
 ### Definition
-
 A designated structure or place used for storing inanimate objects ("things"). It implies a static location where items are kept.
 
-### Etymology
-
-A compound of the root **[[nono (noun)|nono (noun) - thing, object]]** and the noun **[[kamm (noun)|kamm (noun) - building]]**.
-
-### Example Sentences
-
+### Example sentences
 - **nokam dănă xiŕa.**
 - *The storehouse is large.*
 - *Magazyn jest duży.*

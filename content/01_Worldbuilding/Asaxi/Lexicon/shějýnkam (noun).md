@@ -1,0 +1,52 @@
+---
+title: shějýnkam (noun) - school (education-structure)
+Word (Asaxi): shějýnkam
+trnsltion. En: school (education-structure)
+trnsltion. Pl: szkoła
+tags:
+  - Asaxi
+  - language
+  - noun
+  - vocab_expansion
+---
+# shějýnkam ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">shějýnkam</span>
+
+<span class="asaxi-script-alpha">shějýnkam</span>
+### Noun class (warm / cold)
+**Cold**
+
+### Pronunciation
+IPA: /ʃɚjɪnkam/
+
+### Semantic Field
+[[Smntc_Field The City]]
+
+### Translations
+- English: school (education-structure)
+- Polish: szkoła
+
+### Example sentence
+**Nicèshá shějýnkam vanů.**
+_Students are in the school._
+
+### Alternative Forms
+Null
+
+### Etymology
+Coined for this concept — education-structure.
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null
+
+### Plural Form
+**shějýnkama**

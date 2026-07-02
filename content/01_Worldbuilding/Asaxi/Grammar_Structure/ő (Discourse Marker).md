@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ő</span>
 
+<span class="asaxi-script-alpha">ő</span>
 ### Grammatical function
 
 Used when telling the listener something they don't know, often with a tone of "I am informing you" or "Listen here" (equivalent to Japanese _yo_). Also used when the speaker feels the statement should be obvious to the listener.
@@ -30,4 +31,5 @@ IPA: /oɪ/
 
 ### Derived terms
 
-Null
+- **wő** - post-vocalic allomorph
+- [[ő (Demonstrative Adverb)|ő]] - homophonous demonstrative adverb

@@ -14,46 +14,37 @@ tags:
 
 <span class="asaxi-script">txa</span>
 
+<span class="asaxi-script-alpha">txa</span>
 ### Noun class (warm / cold)
-
 Cold
 
 ### Pronunciation
-
 IPA: /tʰa/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Existence]] / [[Smntc_Field Time]]
 
 ### Translations
-
 - English: change, mutation, alteration, shift
 - Polish: zmiana, przemiana
 
 ### Example sentence
-
 To txa xogă.
 Change arrives.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Aspirated Root.
 *Phonotactics:* **t** + **x** → **/tʰ/**.
 
 ### Synonyms
-
 - **[[ůků (verb)|ůků]]** (Transformation - Verb).
 
 ### Antonyms
-
 - **[[tamo (noun)|tamo]]** (Limit/Stasis).
 
 ### Derived terms
-
 - **[[txanů (verb)|txanů]]** (To change).
 - **[[kxetxashá (noun)|kxetxashá]]** (Shapeshifter).

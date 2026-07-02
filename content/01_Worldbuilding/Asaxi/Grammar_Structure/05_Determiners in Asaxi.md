@@ -30,7 +30,7 @@ The form of the definite article is determined by the **Warmth** of the target n
 
 - **Emphasis:** Determiners are often optional. They are used when specificity is required or to distinguish "The X" from "An X."
 - **Structure:** `[Determiner] + (Locative Prefix)-[Noun]`
-- **Harmony:** The ending of the definite article (`-nă` / `-nýj`) rhymes with the Adjective Suffix required for that noun class.
+- **Concord (class agreement):** The ending of the definite article (`-nă` / `-nýj`) matches the Adjective Suffix required for that noun class — grammatical-gender agreement, **not** vowel harmony (see [[00_Noun Classification (Gender) in Asaxi]]).
 
 **Examples:**
 

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">xăkă</span>
 
+<span class="asaxi-script-alpha">xăkă</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle Compound]]
@@ -46,4 +47,5 @@ x
 
 ### Derived terms
 
-Null
+- [[kă (Particle)|kă]] - solicitative base
+- [[náxăkă (Particle)|náxăkă]] - polite prohibition (its negation)

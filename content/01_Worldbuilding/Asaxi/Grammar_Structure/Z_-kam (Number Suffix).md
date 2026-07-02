@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">-kam</span>
 
+<span class="asaxi-script-alpha">-kam</span>
 ### Grammatical function
 
 - **Type:** Number Suffix

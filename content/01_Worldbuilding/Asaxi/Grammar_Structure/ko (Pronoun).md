@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ko</span>
 
+<span class="asaxi-script-alpha">ko</span>
 ### Grammatical function
 
 The pronoun `ko` (she) is a third-person singular nominative pronoun.

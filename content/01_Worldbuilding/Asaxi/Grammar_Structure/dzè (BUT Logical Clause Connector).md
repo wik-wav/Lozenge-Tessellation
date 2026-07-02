@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">dzè</span>
 
+<span class="asaxi-script-alpha">dzè</span>
 ### Grammatical function
 
 - **Type:** Logical Clause Connector

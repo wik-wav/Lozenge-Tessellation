@@ -15,15 +15,13 @@ tags:
 
 <span class="asaxi-script">båbashů</span>
 
+<span class="asaxi-script-alpha">båbashů</span>
 ### Transitivity / Valency
-
 **Intransitive**
 
 ### Lexical Aspect
-**Process:** Atrophy.
-
-### Grammatical Note
-Derived from **[[båbå (noun)|båba]]** (Muscles - Plural) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative) + **-ů**.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
 [[Smntc_Field The Body]] / Fitness
@@ -32,15 +30,30 @@ Derived from **[[båbå (noun)|båba]]** (Muscles - Plural) + **[[06A_-sh- (Morp
 IPA: /bau̯baʃuu̯/
 
 ### Translations
-
 - English: to lose muscle mass, to atrophy, to shrink (muscles)
 - Polish: tracić mięśnie
 
 ### Example sentence
-
 **Sèwo haśùná, sè wo aśbibåbå båbashů.**
 _Because I don't run, my leg muscles are atrophying._
 
-### Antonyms
+### Alternative Forms
+Null
 
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Antonyms
 - **[[båbaŕů (verb)]]**.
+
+### Root Noun
+Null
+
+### Derived terms
+Null
+
+### Grammatical Note
+Derived from **[[båbå (noun)|båba]]** (Muscles - Plural) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative) + **-ů**.

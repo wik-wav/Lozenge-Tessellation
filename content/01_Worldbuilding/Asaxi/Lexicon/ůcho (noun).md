@@ -14,53 +14,43 @@ tags:
 
 <span class="asaxi-script">ůcho</span>
 
+<span class="asaxi-script-alpha">ůcho</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: Internal subjective experience, emotion, living sensation.
 
 ### Pronunciation
-
 IPA: /uu̯t͡ʃo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Emotion]]
 
 ### Translations
-
 - English: feeling, sensation, hunch, vibe, sentiment
 - Polish: czucie, uczucie, przeczucie
 
 ### Plural Form
-
 **ůcha** (Feelings).
 
 ### Example sentence
-
 **To wo gavină ůcho ma.**
 _I have a good feeling._
 
 **To ůcha wo fri.** `SUBJ` `feelings` `1SG` `free` 
 _The feelings set me free._
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Derived from the root of **[[ůchů (verb)|ůchů]]** (To feel/sense).
 *Structure:* `ů` + `ch` (Feel) + `o` (Noun suffix).
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
 - x (TBD).
 
 ### Derived terms
-
 - **ůchonů** (To sense / To vibe - if distinct from `ůchů`).

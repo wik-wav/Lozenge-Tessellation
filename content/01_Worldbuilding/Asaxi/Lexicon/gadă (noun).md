@@ -7,6 +7,7 @@ tags:
   - Asaxi
   - language
   - noun
+  - ga-noun
 ---
 # gadă ([[00_Ga-noun Compounds in Asaxi (list)]])
 
@@ -14,40 +15,36 @@ tags:
 
 <span class="asaxi-script">gadă</span>
 
+<span class="asaxi-script-alpha">gadă</span>
 ### Noun class (warm / cold)
-
 warm
 - reason: derived from a warm noun - [[dăshá (noun)]]
 
 ### Pronunciation
-
 IPA: /ɡadaɪ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Animals]]
 
 ### Translations
-
 - English: giant, immensity (noun)
 - Polish: ogrom, wielkość
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 x
 
 ### Etymology
-
 [[ga (Fusing Particle)|ga]] +  [[dăshá (noun)]]
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůgadă** (absence of immensity (noun)) *(potential)*
 
 ### Derived terms
-
-Null
+- [[gadăchỏnă (adjective)|gadăchỏnă]] - ravenous
+- [[gădăŕů (verb)|gădăŕů]] - to enlarge, to make big

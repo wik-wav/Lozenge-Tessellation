@@ -13,43 +13,48 @@ tags:
 
 - - -
 
-<span class="asaxi-script">axånů</span>
+<span class="asaxi-script">exånů</span>
 
+<span class="asaxi-script-alpha">exånů</span>
 ### Transitivity / Valency
-
 **Intransitive** (Behavior) or **Transitive** (Smiling at someone? No, usually `ni` + person).
 
 ### Lexical Aspect
-
-**Activity:** Continuous state of smiling.
-
-### Grammatical Note
-
-Derived from **[[exå (noun)|exå]]** (Smile) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
-* *Logic:* "To perform a smile."
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]] / Emotion
 
 ### Pronunciation
-
 IPA: /eɦau̯nuu̯/
 
 ### Translations
-
 - English: to smile, to beam
 - Polish: uśmiechać się
 
 ### Example sentence
-
 **To wo ni no exånů.**
 _I smile at you._
 
-### Etymology
+### Alternative Forms
+Null
 
-**exå** (Smile) + **-n-** + **-ů**.
+### Etymology
+**[[exå (noun)|exå]]** (Smile) + **-n-** + **-ů**.
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Root Noun
+- [[exå (noun)|exå]]
 
 ### Derived terms
+- **exånůshá** (agent noun) *(potential)*
 
-Null
+### Grammatical Note
+Derived from **[[exå (noun)|exå]]** (Smile) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+* *Logic:* "To perform a smile."

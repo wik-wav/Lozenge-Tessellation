@@ -14,29 +14,36 @@ tags:
 
 <span class="asaxi-script">tëbibåbå</span>
 
+<span class="asaxi-script-alpha">tëbibåbå</span>
 ### Noun class (warm / cold)
-
 **Warm** (Compound)
 
 ### Pronunciation
-
 IPA: /t̪eɪbibaubau/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: arm musculature
 - Polish: mięśnie ramion
 
 ### Example sentence
-
 **To John tëbibåba gavină zèỏbåbåŕů.**
 _John's arm muscles are well defined._ (Lit: John's arm-muscles have hardened well).
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[tëbi (noun)|tëbi]]** (Arm) + **[[båbå (noun)|båbå]]** (Muscle).
 *Lit:* "Arm-muscle."
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Derived terms
+Null

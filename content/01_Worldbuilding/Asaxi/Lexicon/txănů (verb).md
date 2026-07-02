@@ -15,55 +15,45 @@ tags:
 
 <span class="asaxi-script">txănů</span>
 
+<span class="asaxi-script-alpha">txănů</span>
 ### Transitivity / Valency
-
 _intransitive verb_
 takes one argument, e.g. *He(1) ages.*
 
 ### Lexical Aspect
-
-- **Process:** The continuous accumulation of years.
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field The Body]] / [[Smntc_Field Time]]
 
 ### Pronunciation
-
-IPA: /tɦaɪnuu̯/
+IPA: /tʰaɪnuu̯/
 
 ### Translations
-
 - English: to age, to grow older, to pass a year
 - Polish: starzeć się, przybywać lat
 
 ### Example sentence
-
 To wo txănů.
 I am aging.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 [[txă (noun)|txă]] (Year) + [[06A_-n- (Morphological Infix)|-n-]] (Performance/Function) + [[ů (verb)|-ů]].
 
 Logic: "To perform years" or "To do the year."
 
 ### Synonyms
-
 - **[[vivinů (verb)|vivinů]]** (To live).
 
 ### Antonyms
-
-Null
+- **fůtxănů** (to age without its essence (privative)) *(potential)*
 
 ### Root Noun
-
 - [[txă (noun)|txă]]
 
 ### Derived terms
-
-Null
+- **txănůshá** (agent noun) *(potential)*

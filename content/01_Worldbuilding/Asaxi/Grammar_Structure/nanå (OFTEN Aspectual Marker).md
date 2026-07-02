@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nanå</span>
 
+<span class="asaxi-script-alpha">nanå</span>
 ### Grammatical function
 
 - **Type:** Frequency Particle / Adverb

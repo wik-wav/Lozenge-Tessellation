@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">xă-</span>
 
+<span class="asaxi-script-alpha">xă-</span>
 ### Grammatical function
 
 - **Type:** Degree Prefix

@@ -1,6 +1,6 @@
 ---
 title: sů (Particle) - "Continue!", "Keep going!", "Carry on!", "Maintain!".
-Word (Asaxi): su
+Word (Asaxi): sů
 trnsltion. En: '"Continue!", "Keep going!", "Carry on!", "Maintain!".'
 tags:
   - Asaxi
@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">sů</span>
 
+<span class="asaxi-script-alpha">sů</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle]] (Prefix/Suffix)

@@ -15,36 +15,46 @@ tags:
 
 <span class="asaxi-script">iŕoŕů</span>
 
+<span class="asaxi-script-alpha">iŕoŕů</span>
 ### Transitivity / Valency
-
 **Transitive**
 
 ### Lexical Aspect
-
-**Accomplishment:** Creating/adding colour.
-
-### Grammatical Note
-Derived from **[[iŕo (noun)|iŕo]]** (Colour) + **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** (Generative Mode) + **-ů**.
-* *Lit:* "To generate colour."
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Colours]] / Arts
 
 ### Pronunciation
-
 IPA: /iɾoɾuu̯/
 
 ### Translations
-
 - English: to colour, to paint, to dye, to tint
 - Polish: kolorować, malować, barwić
 
 ### Example sentence
-
 **To wo hjo gapo iŕorů.**
 _The star shines red_ (Lit. The star generates red colour)
 
-### Antonyms
+### Alternative Forms
+Null
 
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Antonyms
 - **iŕoshů** (To bleach).
+
+### Root Noun
+Null
+
+### Derived terms
+Null
+
+### Grammatical Note
+Derived from **[[iŕo (noun)|iŕo]]** (Colour) + **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** (Generative Mode) + **-ů**.
+* *Lit:* "To generate colour."

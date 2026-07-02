@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">kvå</span>
 
+<span class="asaxi-script-alpha">kvå</span>
 ### Grammatical function
 
 - **Type:** Interrogative Adverb (Temporal)

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nino</span>
 
+<span class="asaxi-script-alpha">nino</span>
 ### Grammatical function
 
 - **Type:** Reflexive Pronoun

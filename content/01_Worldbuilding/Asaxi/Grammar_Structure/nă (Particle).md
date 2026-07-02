@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">nă</span>
 
+<span class="asaxi-script-alpha">nă</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle]] (Prefix/Suffix)

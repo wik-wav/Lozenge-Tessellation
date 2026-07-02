@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">gőnigő</span>
 
+<span class="asaxi-script-alpha">gőnigő</span>
 ### Grammatical function
 
 - **Type:** Reciprocal Pronoun

@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">kè</span>
 
+<span class="asaxi-script-alpha">kè</span>
 ### Grammatical function
 
 - **Particle type:** [[02_Particles in Asaxi|Low Binding Particle]] (Clause Modifier)

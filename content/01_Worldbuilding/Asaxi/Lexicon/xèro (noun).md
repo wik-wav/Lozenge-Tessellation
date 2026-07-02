@@ -14,28 +14,35 @@ tags:
 
 <span class="asaxi-script">xèro</span>
 
+<span class="asaxi-script-alpha">xèro</span>
 ### Noun class (warm / cold)
-
 **Cold**
 
 ### Pronunciation
-
 IPA: /ɦəɹo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Tools]] / Fitness
 
 ### Translations
-
 - English: weights, dumbbell, barbell
 - Polish: ciężary, hantle
 
-### Etymology
+### Example sentence
+Null
 
-**[[xè- (Modal Prefix)|xè]]** (Exertion/Try) + **[[ro (noun)|ro]]** (Iron).
+### Alternative Forms
+Null
+
+### Etymology
+**[[xè- (Conative Prefix)|xè]]** (Exertion/Try) + **[[ro (noun)|ro]]** (Iron).
 *Lit:* "Effort-Iron."
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **[[xèronů (verb)]]** (To weight-train).

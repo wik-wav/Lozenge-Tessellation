@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">dhè</span>
 
+<span class="asaxi-script-alpha">dhè</span>
 ### Grammatical function
 
 - **Particle type:** [[15_NPCP and The Agglutinative Block|Relational Particle (NPCP)]]
@@ -33,7 +34,7 @@ IPA: /ðə/
 
 **Standard Passive:** **Dhè kjèpo Tom zèchỏnů.** _The tree was chopped by Tom._ (Lit: As for the tree, Tom chopped).
 
-**Agentless Passive:** **Dhè shěso zètopu.** _The book was dropped._
+**Agentless Passive:** **Dhè shěso zètopù.** _The book was dropped._
 
 ### Alternative forms
 
@@ -53,4 +54,4 @@ x
 
 ### Derived terms
 
-Null
+- *(no compounds attested)* — see [[38_Passive & Topicalization (`dhè`)]]

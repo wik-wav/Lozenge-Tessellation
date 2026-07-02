@@ -14,31 +14,37 @@ tags:
 
 <span class="asaxi-script">aśobi</span>
 
+<span class="asaxi-script-alpha">aśobi</span>
 ### Noun class (warm / cold)
-
 **Warm** (Compound)
 
 ### Pronunciation
-
 IPA: /aɕobi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field The Body]]
 
 ### Translations
-
 - English: leg, lower limb
 - Polish: noga (cała)
 
 ### Example sentence
-
 **Aśobi dănă ůjů.**
 _(the) leg looks huge._
+
+### Alternative Forms
+Null
 
 ### Etymology
 **[[aśo (noun)|aśo]]** (Foot) + **[[bi (noun)|bi]]** (Line).
 *Lit:* "The foot-line." (The extension leading to the foot).
 
+### Synonyms
+Null
+
+### Antonyms
+Null
+
 ### Derived terms
 - **aśbibåbå** (Quadriceps / Leg muscle)
+- [[aśbipỏ (noun)|aśbipỏ]] - trousers

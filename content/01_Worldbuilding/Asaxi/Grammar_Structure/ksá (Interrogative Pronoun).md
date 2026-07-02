@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">ksá</span>
 
+<span class="asaxi-script-alpha">ksá</span>
 ### Grammatical function
 
 - **Type:** Interrogative Adverb (Modal)

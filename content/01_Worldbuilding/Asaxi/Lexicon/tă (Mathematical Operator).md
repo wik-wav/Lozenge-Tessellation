@@ -13,11 +13,14 @@ tags:
 
 <span class="asaxi-script">tă</span>
 
+<span class="asaxi-script-alpha">tă</span>
 ### Grammatical function
-
 - **Type:** Mathematical Operator
 - **Meaning:** Plus, add.
 
 ### Pronunciation
-
 IPA: /t̪aɪ/
+
+### Derived terms
+- [[tăbiŕů (verb)|tăbiŕů]] - to draw, to sketch, to draft, to diagram
+- [[tăka (verb)|tăka]] - to unite, to join forces, to merge, to ally

@@ -1,6 +1,6 @@
 ---
 title: gao (noun) - azure, blue (colour)
-Word (Asaxi): gao (noun)
+Word (Asaxi): gao
 trnsltion. En: azure, blue (noun)
 trnsltion. Pl: błękit
 tags:
@@ -15,40 +15,35 @@ tags:
 
 <span class="asaxi-script">gao</span>
 
+<span class="asaxi-script-alpha">gao</span>
 ### Noun class (warm / cold)
-
 warm
 - reasoning: (colour is light, light is energy)
 
 ### Pronunciation
-
 IPA: /ɡa.o/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Colours]]
 
 ### Translations
-
 - English: azure, blue (colour) (noun)
 - Polish: błękit (kolor), niebieski, niebieskość
 
-### Alternative forms
+### Example sentence
+Null
 
+### Alternative Forms
 x
 
 ### Etymology
-
 [[ga (Fusing Particle)|ga]] + [[o (noun)]]
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůgao** (absence of azure) *(potential)*
 
 ### Derived terms
-
-Null
+- **gaonă / gaonýj** (adjectival forms) *(potential)*

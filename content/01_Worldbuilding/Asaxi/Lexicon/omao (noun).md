@@ -14,45 +14,43 @@ tags:
 
 <span class="asaxi-script">omao</span>
 
+<span class="asaxi-script-alpha">omao</span>
 ### Noun class (warm / cold)
-
 **Cold**
 - Reasoning: Derived from **[[mao (noun) - as in night-time|mao]]** (Night - Cold).
 
 ### Pronunciation
-
 IPA: /oma.o/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]]
 
 ### Translations
-
 - English: tonight, this night
 - Polish: dziś w nocy, ta noc
 
 ### Example sentence
-
 **Omao, to wa ŕimako ma.**
 _Tonight, we have a meditation session._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **[[o (Proximal Locative Prefix)|o-]]** (Here/This) + **[[mao (noun) - as in night-time|mao]]** (Night).
 *Lit:* "This-Night."
 
-### Alternate Forms
+### Synonyms
+- x
 
+### Antonyms
+Null
+
+### Derived terms
+- **omaonă / omaonýj** (adjectival forms) *(potential)*
+
+### Alternate forms
 - o-må
 - omå
 - omao
 - o-mao
-
-### Synonyms
-
-- x
-
-### Derived terms
-
-Null

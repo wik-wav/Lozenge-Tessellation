@@ -15,37 +15,46 @@ tags:
 
 <span class="asaxi-script">ůwů</span>
 
+<span class="asaxi-script-alpha">ůwů</span>
 ### Transitivity / Valency
-
 **Intransitive** (Copular)
 
 ### Lexical Aspect
-
-**Activity:** Behavior or semblance.
-
-### Grammatical Note
-
-Derived from **[[ů (verb)|ů]]** + **[[06A_-w- (Morphological Infix)|-w-]]** (Semblance Mode) + **-ů**.
-
-- _Lit:_ "To be-like."
+- **Durative (Activity)** — unfolds over time.
+- **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]]
 
 ### Pronunciation
-
 IPA: /uu̯.wuu̯/
 
 ### Translations
-
 - English: to act like, to seem, to behave as, to pretend
 - Polish: udawać, zachowywać się jak
 
 ### Example sentence
-
 **To John shějýnshá ůwů.** _John acts like a teacher._ (He behaves in that manner, regardless of reality).
 
-### Derived terms
-
+### Alternative Forms
 Null
+
+### Etymology
+Null
+
+### Synonyms
+Null
+
+### Antonyms
+Null
+
+### Root Noun
+Null
+
+### Derived terms
+- **ůwůshá** (agent noun) *(potential)*
+
+### Grammatical Note
+Derived from **[[ů (verb)|ů]]** + **[[06A_-w- (Morphological Infix)|-w-]]** (Semblance Mode) + **-ů**.
+
+- _Lit:_ "To be-like."

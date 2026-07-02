@@ -14,43 +14,32 @@ tags:
 
 <span class="asaxi-script">shějýnshá</span>
 
+<span class="asaxi-script-alpha">shějýnshá</span>
 ### Noun class (warm / cold)
-
 warm
 
 ### Pronunciation
-
 IPA: /ɹ̠̊ɚꞲɪnʃɑ/
 
-### Semantic field
-
-
-
+### Semantic Field
 ### Translations
- 
 - English: teacher
 - Polish: nauczyciel
 
 ### Example sentence
-
 x
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 [[shějýn (noun)]] + [[shá (noun)]]
 
 ### Synonyms
-
 x
 
 ### Antonyms
-
-Null
+- **fůshějýnshá** (absence of teacher) *(potential)*
 
 ### Derived terms
-
-Null
+- **shějýnshánă / shějýnshánýj** (adjectival forms) *(potential)*

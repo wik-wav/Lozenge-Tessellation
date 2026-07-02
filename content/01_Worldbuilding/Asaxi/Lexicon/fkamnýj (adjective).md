@@ -14,37 +14,52 @@ tags:
 
 <span class="asaxi-script">fkamnýj</span>
 
-### Grammatical function
+<span class="asaxi-script-alpha">fkamnýj</span>
+## Warm/Cold
 
-- **Type:** Qualitative Adjective (`-nýj`)
-- **Source Agreement:** **Cold** (Root `kamm` / `fkam` is Cold).
+class:
+- cold
+animate?
+- 
+other class equivalent:
+-
 
 ### Pronunciation
-
 IPA: /fkamnɪj/
 
 ### Semantic Field
-
 [[Smntc_Field Behaviour]] / Personality
 
 ### Translations
-
 - English: domesticated, dependent, reliant, not self-sufficient, tame
 - Polish: udomowiony, zależny, niesamodzielny
 
-### Usage Note
-
-Often carries a nuance of "Safe but weak" or "Reliant on others." Can mean "Easily persuaded."
-
 ### Example sentence
-
 **To John fkamnýj shá xiŕa.**
 _John is a dependent (domesticated) person._
 
-### Etymology
+### Alternative Forms
+Null
 
+### Etymology
 **fkam(m)** (In-building) + **-nýj**.
 
 Antonyms
 
 - **[[ispănýj (adjective)]]** - wild, untamed, intense, raw, feral (positive)
+
+### Synonyms
+Null
+
+### Root Noun
+Null
+
+### Antonyms
+Null
+
+### Grammatical function
+- **Type:** Qualitative Adjective (`-nýj`)
+- **Source Agreement:** **Cold** (Root `kamm` / `fkam` is Cold).
+
+### Usage Note
+Often carries a nuance of "Safe but weak" or "Reliant on others." Can mean "Easily persuaded."

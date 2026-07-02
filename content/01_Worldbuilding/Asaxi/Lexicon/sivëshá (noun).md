@@ -14,38 +14,37 @@ tags:
 
 <span class="asaxi-script">sivëshá</span>
 
+<span class="asaxi-script-alpha">sivëshá</span>
 ### Noun class (warm / cold)
-
 **Warm**
 - Reasoning: Animate animal.
 
 ### Pronunciation
-
 IPA: /ɕiveɪʃɑ/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Animals]]
 
 ### Translations
-
 - English: civet, genet
 - Polish: cyweta, żeneta
 
 ### Example sentence
-
 **To sivëshá dănă ů.**
 _The civet is being big (puffing itself up)._
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Borrowed from English **"Civet"**, adapted to Asaxi phonotactics (`c` $\rightarrow$ `s`, `et` $\rightarrow$ `ë`). + [[shá (noun)]] (creature)
 
-### Derived terms
+### Synonyms
+Null
 
+### Antonyms
+Null
+
+### Derived terms
 - **sivënů** (To show off).
 - **sivëshů** (To cower).

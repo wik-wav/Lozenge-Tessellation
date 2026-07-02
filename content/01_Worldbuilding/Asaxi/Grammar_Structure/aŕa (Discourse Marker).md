@@ -13,6 +13,7 @@ tags:
 
 <span class="asaxi-script">aŕa</span>
 
+<span class="asaxi-script-alpha">aŕa</span>
 ### Grammatical function
 
 - **Type:** Post-Clausal Discourse Marker
@@ -46,4 +47,4 @@ Sound symbolism for a sigh or release of tension. Possibly related to **[[ă (Re
 
 ### Derived terms
 
-Null
+- [[iŕè (Discourse Marker)|iŕè]] - contention (paradigm counterpart)

@@ -14,46 +14,40 @@ tags:
 
 <span class="asaxi-script">ŕăno</span>
 
+<span class="asaxi-script-alpha">ŕăno</span>
 ### Noun class (warm / cold)
-
 **Cold**
 - Reasoning: Inanimate pattern/shape.
 
 ### Pronunciation
-
 IPA: /ɾaɪno/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Shapes & Dimensions]] / [[Smntc_Field Colours]]
 
 ### Translations
-
 - English: stripe, band, streak, bar (of color)
 - Polish: pas, pręga, smuga
 
-### Plural Form
-
-**ŕăna** (Stripes).
-
 ### Example sentence
-
 **To \[tiger\] ŕăna ma.**
 _The tiger has stripes._
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology
-
 Sound symbolism for a streak or dash.
 
 ### Synonyms
-
 - **[[bi (noun)|bi]]** (Line - geometric).
 
-### Derived terms
+### Antonyms
+Null
 
+### Derived terms
 - **ŕănabishá** (Gazelle).
 - **ŕănabină** (Fast).
+
+### Plural Form
+**ŕăna** (Stripes).

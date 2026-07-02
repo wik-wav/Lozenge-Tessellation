@@ -15,6 +15,7 @@ aliases:
 
 <span class="asaxi-script">sèni</span>
 
+<span class="asaxi-script-alpha">sèni</span>
 ### Grammatical function
 
 - **Type:** Causal Connector (Fused)

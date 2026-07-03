@@ -158,7 +158,7 @@ Vowels between voiceless consonants may devoice, creating syllabic fricatives.
 
 When **ů** meets a following vowel inside a compound, it weakens to the glide **w**, and the resulting vowel sequence resolves normally (e.g. coalescence of *a+i* → *ă*):
 
-- **fů** + **ai** → **fwă** — as in **bafwă** (the left side, "painless flank") ← `ba-` + `fů` + `ai`.
+- **fů** + **ai** → **fwă** — as in **bafwai** (the left side, "painless flank") ← `ba-` + `fů` + `ai`.
 
 This keeps the privative `fů-` available before vowel-initial roots without hiatus.
 

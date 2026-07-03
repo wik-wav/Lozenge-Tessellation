@@ -126,7 +126,7 @@ That a creature suffix is always `-shá` (never \**-shè* after a dark root), a 
 The real vowel interactions at morpheme boundaries are **hiatus resolution**, feature-blind:
 
 - **Coalescence** `a + i → ă` (**ga + i → gă**), and prefix-V + `i`-root → diphthong (**zè + ijù → zëjù**, **no + ijo → nőjo**) — `22 §C`.
-- **Glide formation** `ů → w` before a vowel (**fů + ai → fwă**, *bafwă*) — `22`.
+- **Glide formation** `ů → w` before a vowel (**fů + ai → fwă**, *bafwai*) — `22`.
 - **Haplology** of identical morae (**vivi + gavi → vigavi**; **ŕoŕo + -no → ŕono**) — `22`.
 
 These target **syllable well-formedness** (avoid hiatus / identical-mora sequences); they are indifferent to warm/cold and do not propagate any feature. They are exactly what a language *without* harmony uses instead.

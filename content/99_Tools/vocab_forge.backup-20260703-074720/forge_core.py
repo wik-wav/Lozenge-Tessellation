@@ -30,42 +30,7 @@ def load_config():
     cfg["_root"] = root
     cfg["_lexicon"] = root / cfg["lexicon_dir"]
     cfg["_fields"] = root / cfg["semantic_fields_dir"]
-    cfg["_idioms"] = root / cfg["idioms_dir"] if cfg.get("idioms_dir") else None
     return cfg
-
-
-def entry_search_dirs(cfg):
-    """All dirs that hold entry notes: the lexicon plus the idioms dir."""
-    dirs = [cfg["_lexicon"]]
-    idi = cfg.get("_idioms")
-    if idi and Path(idi).is_dir():
-        dirs.append(idi)
-    return dirs
-
-
-def all_entry_files(cfg):
-    """Every entry .md across all entry dirs."""
-    files = []
-    for d in entry_search_dirs(cfg):
-        files.extend(d.glob("*.md"))
-    return files
-
-
-def dir_for_type(cfg, wtype):
-    """Directory a NEW entry of this type should be written to."""
-    if wtype == "idiom" and cfg.get("_idioms"):
-        return cfg["_idioms"]
-    return cfg["_lexicon"]
-
-
-def entry_file(cfg, stem):
-    """Path to entry <stem>.md in whichever entry dir holds it (defaults to the
-    lexicon dir when it does not exist yet)."""
-    for d in entry_search_dirs(cfg):
-        pp = d / (stem + ".md")
-        if pp.exists():
-            return pp
-    return cfg["_lexicon"] / (stem + ".md")
 
 
 # ------------------------------------------------------------- phonology
@@ -288,13 +253,6 @@ WORD_TYPES = {
         "list_link": "39_Numerals & Mathematics|Number",
         "tags": ["Asaxi", "language", "number"],
     },
-    "idiom": {
-        "label": "Idiom / expression",
-        "suffix": "Idiom",
-        "list": None,
-        "list_link": "45_Idioms & Fixed Expressions",
-        "tags": ["Asaxi", "language", "idiom"],
-    },
 }
 
 FIELD_SPECS = {
@@ -336,21 +294,17 @@ class Lexicon:
         self._load()
 
     def _load(self):
-        paths = []
-        for d in entry_search_dirs(self.cfg):
-            paths.extend(sorted(d.glob("*.md")))
-        for p in paths:
+        lex = self.cfg["_lexicon"]
+        for p in sorted(lex.glob("*.md")):
             m = FILENAME_RE.match(p.name)
             if not m:
                 continue
             if m.group("type").lower() in ("list",) or m.group("word")[0].isdigit():
                 continue
             e = {"word": m.group("word"), "type_raw": m.group("type").lower(),
-                 "path": str(p), "gloss_en": "", "gloss_pl": "", "fields": [],
-                 "id": None}
+                 "path": str(p), "gloss_en": "", "gloss_pl": "", "fields": []}
             try:
                 text = p.read_text(encoding="utf-8")
-                e["id"] = read_entry_id(text)
                 fm = re.search(r"^trnsltion\. En:\s*(.+)$", text, re.M)
                 if fm:
                     e["gloss_en"] = fm.group(1).strip()
@@ -442,11 +396,10 @@ def validate(lex: Lexicon, data: dict):
         errors.append(f"Unknown word type: {wtype!r}. Valid: {', '.join(WORD_TYPES)}")
         return {"errors": errors, "warnings": warnings, "info": info, "ipa_suggestion": ""}
 
-    if wtype != "idiom":
-        bad = check_charset(word)
-        if bad:
-            errors.append("Characters outside the Asaxi romanization alphabet: "
-                          + " ".join(repr(c) for c in bad))
+    bad = check_charset(word)
+    if bad:
+        errors.append("Characters outside the Asaxi romanization alphabet: "
+                      + " ".join(repr(c) for c in bad))
 
     # exact duplicates
     for e in lex.find_exact(word):
@@ -466,18 +419,19 @@ def validate(lex: Lexicon, data: dict):
     # homophones via IPA
     ipa = suggest_ipa(word)
 
-    # phonotactics + single-word shape checks (skipped for multi-word idioms)
-    if wtype != "idiom":
-        ph_e, ph_w, ph_i = check_phonotactics(word, wtype, (data.get("root_noun") or "").strip())
-        errors += ph_e
-        warnings += ph_w
-        info += ph_i
-        if wtype == "verb-u" and not word.endswith("ů"):
-            warnings.append("Verb (-ů) words normally end in ů.")
-        if wtype == "verb-root" and word.endswith("ů"):
-            warnings.append("Root verbs normally do NOT end in ů (that's the -ů class).")
-        if wtype == "ga-noun" and not word.startswith("ga"):
-            warnings.append("Ga-noun compounds normally start with ga-.")
+    # phonotactics
+    ph_e, ph_w, ph_i = check_phonotactics(word, wtype, (data.get("root_noun") or "").strip())
+    errors += ph_e
+    warnings += ph_w
+    info += ph_i
+
+    # type-specific shape checks
+    if wtype == "verb-u" and not word.endswith("ů"):
+        warnings.append("Verb (-ů) words normally end in ů.")
+    if wtype == "verb-root" and word.endswith("ů"):
+        warnings.append("Root verbs normally do NOT end in ů (that's the -ů class).")
+    if wtype == "ga-noun" and not word.startswith("ga"):
+        warnings.append("Ga-noun compounds normally start with ga-.")
     if not data.get("gloss_en"):
         warnings.append("English translation is empty.")
 
@@ -666,18 +620,6 @@ def build_entry(lex: Lexicon, d: dict):
         body = (f"# {word} number ([[39_Numerals & Mathematics|Number]])\n\n- - -\n\n{script}\n\n"
                 f'"{word}" stands for the number {nv}.\n\n'
                 f"### Pronunciation\n\nIPA: {ipa}")
-    elif d["type"] == "idiom":
-        idx = (d.get("index_page") or "").strip() or t.get("list_link") or "45_Idioms & Fixed Expressions"
-        gf = (d.get("grammatical_function") or "").strip() or "Fixed Expression"
-        struct = (d.get("structure") or "").strip() or "x"
-        body = (f"# {word} ([[{idx}]])\n\n- - -\n\n{script}\n\n"
-                f"### Grammatical function\n\n- **Type:** {gf}\n- **Meaning:** {gl_en or 'x'}\n\n"
-                f"### Structure\n\n{struct}\n\n"
-                f"### Pronunciation\n\nIPA: {ipa}\n\n"
-                f"### Example sentence\n\n{example}\n\n"
-                f"### Etymology\n\n{ety}\n\n"
-                f"### Synonyms\n\n{syn}\n\n"
-                f"### Antonyms\n\n{ant}")
     else:
         raise ValueError(d["type"])
 
@@ -774,7 +716,7 @@ def preview(lex: Lexicon, d: dict, force=False):
     plans = plan_list_update(lex, d) + plan_derived_updates(lex, d)
     return {"ok": True, "validation": v,
             "entry": {"filename": filename,
-                      "path": str(dir_for_type(lex.cfg, d["type"]) / filename),
+                      "path": str(lex.cfg["_lexicon"] / filename),
                       "markdown": md},
             "list_updates": plans}
 
@@ -915,7 +857,7 @@ def _etymology_links(lex, text):
             continue
         for name in LINK_RE.findall(text[s:e]):
             name = name.strip()
-            fp = entry_file(lex.cfg, name)
+            fp = Path(lex.cfg["_lexicon"]) / f"{name}.md"
             if fp.exists():
                 out.append((name, fp, section))
     return out
@@ -1196,16 +1138,14 @@ def entry_score(text, absent=()):
 
 
 def _anki_index(cfg):
-    """One directory scan -> {entry-id: {'image','a1','a2'}}.
-    Filenames are <id>-asaxi-<word>-<slot>.<ext>; the id is the first token and
-    the slot is read from the tail, so the cosmetic word never matters."""
+    """One directory scan -> {asset-basename: {'image','a1','a2'}}."""
     d = cfg["_root"] / "anki-assets"
     idx = {}
     if d.is_dir():
         for f in d.iterdir():
             if not f.is_file():
                 continue
-            m = re.match(r"^([A-Za-z0-9]+)-.*-(image|a1|a2)\.[A-Za-z0-9]+$", f.name)
+            m = re.match(r"^(asaxi-.+)-(image|a1|a2)\.[A-Za-z0-9]+$", f.name)
             if m:
                 idx.setdefault(m.group(1), set()).add(m.group(2))
     return idx
@@ -1224,7 +1164,7 @@ def browse(lex, q="", type_f="", field_f=""):
         if ql and ql not in e["word"].lower() and ql not in e["gloss_en"].lower() \
            and ql not in e.get("gloss_pl", "").lower():
             continue
-        parts = anki.get(e.get("id"), set()) if e.get("id") else set()
+        parts = anki.get(asset_basename(e["word"]), set())
         au = e.get("audit") or {"missing": [], "nonstandard": [], "case": []}
         out.append({"word": e["word"], "type": e["type_raw"], "audit": au,
                     "gloss": e["gloss_en"], "stem": Path(e["path"]).stem,
@@ -1237,7 +1177,7 @@ def browse(lex, q="", type_f="", field_f=""):
 
 def get_entry(cfg, name):
     """Load an entry for editing: frontmatter glosses + raw sections."""
-    fp = entry_file(cfg, name)
+    fp = cfg["_lexicon"] / f"{name}.md"
     if not fp.exists():
         return {"ok": False, "error": f"No such entry: {name}"}
     text = fp.read_text(encoding="utf-8")
@@ -1247,7 +1187,6 @@ def get_entry(cfg, name):
     audit = field_audit(cfg, name, text)
     sc = entry_score(text, audit.get("missing_from_template") or [])
     return {"ok": True, "name": name, "audit": audit,
-            "id": read_entry_id(text),
             "gloss_en": fmval(r"trnsltion\. En") or "",
             "gloss_pl": fmval(r"trnsltion\. Pl"),
             "word_asaxi": fmval(r"Word \(Asaxi\)") or "",
@@ -1300,7 +1239,7 @@ def update_entry(cfg, name, fm_updates=None, section_updates=None, dry_run=False
                  order=None):
     """Surgical edit: replace only the given frontmatter values / section bodies.
     Unknown sections are appended at the end. Gloss changes sync list lines."""
-    fp = entry_file(cfg, name)
+    fp = cfg["_lexicon"] / f"{name}.md"
     if not fp.exists():
         return {"ok": False, "error": f"No such entry: {name}"}
     text = fp.read_text(encoding="utf-8")
@@ -1381,7 +1320,7 @@ def update_entry(cfg, name, fm_updates=None, section_updates=None, dry_run=False
         new_gloss = fm_updates["gloss_en"].strip()
         line_pat = re.compile(r"^(-\s*\[\[" + re.escape(name) +
                               r"(?:\|[^\]]*)?\]\]\s*-\s*).*$", re.M)
-        targets = all_entry_files(cfg) + list(cfg["_fields"].glob("*.md"))
+        targets = list(cfg["_lexicon"].glob("*.md")) + list(cfg["_fields"].glob("*.md"))
         for lf in targets:
             if lf.name == f"{name}.md":
                 continue
@@ -1424,184 +1363,45 @@ def check_links(cfg, names):
     return out
 
 
-# --------------------------------------------- stable entry IDs
-# Each entry gets a permanent, filename-safe id the FIRST time an Anki asset is
-# attached to it (see ensure_entry_id). Assets are named  <id>-asaxi-<word>-<slot>.<ext>
-# so the link survives renaming the word / the entry file. The id lives in the
-# entry's front matter as  `id: <id>`  and never changes once assigned.
-
-ID_PREFIX = "ax"                       # marks these as Asaxi vocab ids; guarantees non-numeric
-ID_ALPHABET = "0123456789abcdefghijklmnopqrstuvwxyz"
-ID_BODY_LEN = 7                        # 36**7 ~ 78 billion, plus an explicit collision check
-_ID_RE = re.compile(r"(?m)^id:[ \t]*([A-Za-z0-9][A-Za-z0-9_-]*)[ \t]*$")
-SLOTS = ("image", "a1", "a2")
-
-
-def read_entry_id(text):
-    """The `id:` value from an entry's front matter, or None."""
-    m = _ID_RE.search(text)
-    return m.group(1) if m else None
-
-
-def _gen_id():
-    import secrets
-    return ID_PREFIX + "".join(secrets.choice(ID_ALPHABET) for _ in range(ID_BODY_LEN))
-
-
-def entry_ids_in_use(cfg):
-    """Every id currently claimed anywhere - front matter and asset filenames -
-    so a freshly minted id can never collide."""
-    used = set()
-    for p in all_entry_files(cfg):
-        try:
-            i = read_entry_id(p.read_text(encoding="utf-8"))
-            if i:
-                used.add(i)
-        except Exception:
-            pass
-    d = cfg["_root"] / "anki-assets"
-    if d.is_dir():
-        for f in d.iterdir():
-            if f.is_file() and "-" in f.name:
-                used.add(f.name.split("-", 1)[0])
-    return used
-
-
-def new_unique_id(cfg):
-    used = entry_ids_in_use(cfg)
-    while True:
-        i = _gen_id()
-        if i not in used:
-            return i
-
-
-def _insert_entry_id(text, idval):
-    """Put `id: <idval>` as the first key inside the opening front-matter block.
-    If the note has no front matter, create a minimal one."""
-    m = re.match(r"^---[ \t]*\r?\n", text)
-    if m:
-        return text[:m.end()] + f"id: {idval}\n" + text[m.end():]
-    return f"---\nid: {idval}\n---\n\n" + text
-
-
-def word_from_stem(stem):
-    """'ai (noun)' -> 'ai'  (strip the trailing ' (type)')."""
-    return re.sub(r"\s*\([^)]*\)\s*$", "", stem).strip()
-
-
-def resolve_entry(cfg, name="", word=""):
-    """Locate an entry file. Prefer an explicit stem ('ai (noun)'); otherwise
-    look it up by headword. Returns {'ok', 'stem'} or an error (assets can only
-    attach to a SAVED entry, since the id lives in its front matter)."""
-    name = (name or "").strip()
-    word = (word or "").strip()
-    dirs = entry_search_dirs(cfg)
-    if name:
-        if any((d / f"{name}.md").exists() for d in dirs):
-            return {"ok": True, "stem": name}
-        return {"ok": False, "error": f"No such entry: {name}"}
-    if word:
-        hits = sorted({p.stem for d in dirs for p in d.glob("*.md")
-                       if word_from_stem(p.stem).lower() == word.lower()})
-        if not hits:
-            return {"ok": False,
-                    "error": f"No saved entry for '{word}' - "
-                             "save the entry first, then attach assets from the Edit tab."}
-        if len(hits) > 1:
-            return {"ok": False, "stems": sorted(hits),
-                    "error": "Several entries share this word - open the one you "
-                             "want from the Edit tab so the right file gets the asset."}
-        return {"ok": True, "stem": hits[0]}
-    return {"ok": False, "error": "no entry specified"}
-
-
-def ensure_entry_id(cfg, stem):
-    """Return the entry's id, minting + writing one into its front matter the
-    first time (this is the ONLY place an id is created)."""
-    fp = entry_file(cfg, stem)
-    if not fp.exists():
-        return {"ok": False, "error": f"No such entry: {stem}"}
-    text = fp.read_text(encoding="utf-8")
-    cur = read_entry_id(text)
-    if cur:
-        return {"ok": True, "id": cur, "stem": stem, "created": False}
-    idval = new_unique_id(cfg)
-    fp.write_text(_insert_entry_id(text, idval), encoding="utf-8")
-    return {"ok": True, "id": idval, "stem": stem, "created": True}
-
-
-# --------------------------------------------- anki assets (keyed by entry id)
-
 def anki_dir(cfg):
     d = cfg["_root"] / "anki-assets"
     d.mkdir(exist_ok=True)
     return d
 
 
-def safe_word(word):
-    return re.sub(r"[\\/:*?\"<>|]", "", (word or "").strip())
+def asset_basename(word):
+    w = re.sub(r"[\\/:*?\"<>|]", "", word.strip())
+    return f"asaxi-{w}"
 
 
-def asset_name(idval, word, slot, ext):
-    """<id>-asaxi-<word>-<slot>.<ext>  (word is cosmetic; matching is by id+slot)."""
-    ext = (ext or "").lstrip(".") or "bin"
-    return f"{idval}-asaxi-{safe_word(word)}-{slot}.{ext}"
-
-
-def _assets_for_id(cfg, idval):
-    """{slot: filename} present on disk for an id (ignores the cosmetic word)."""
-    out = {s: None for s in SLOTS}
-    if not idval:
-        return out
+def anki_status(cfg, word):
     d = anki_dir(cfg)
-    for slot in SLOTS:
-        hits = sorted(d.glob(f"{idval}-*-{slot}.*"))
-        if hits:
-            out[slot] = hits[0].name
-    return out
+    base = asset_basename(word)
+    out = {}
+    for key, kind in (("image", "image"), ("a1", "a1"), ("a2", "a2")):
+        hits = sorted(d.glob(f"{base}-{kind}.*"))
+        out[key] = hits[0].name if hits else None
+    return {"base": base, **out}
 
 
-def anki_status(cfg, name="", word=""):
-    """Asset presence for an entry, looked up by its stable id."""
-    r = resolve_entry(cfg, name=name, word=word)
-    if not r.get("ok"):
-        return {"ok": False, "error": r.get("error"), "stems": r.get("stems"),
-                "id": None, "image": None, "a1": None, "a2": None}
-    stem = r["stem"]
-    idval = read_entry_id((entry_file(cfg, stem)).read_text(encoding="utf-8"))
-    return {"ok": True, "stem": stem, "id": idval, **_assets_for_id(cfg, idval)}
-
-
-def save_asset(cfg, name="", word="", slot="", ext="", data=b""):
-    """Attach an asset to an entry. Mints the entry's id if it doesn't have one
-    yet, then writes  <id>-asaxi-<word>-<slot>.<ext>  (replacing any prior file in
-    that id+slot, even if the word has since changed)."""
-    if slot not in SLOTS:
-        return {"ok": False, "error": f"bad slot: {slot!r} (expected one of {SLOTS})"}
-    r = resolve_entry(cfg, name=name, word=word)
-    if not r.get("ok"):
-        return {"ok": False, "error": r.get("error"), "stems": r.get("stems")}
-    stem = r["stem"]
-    idr = ensure_entry_id(cfg, stem)
-    if not idr.get("ok"):
-        return idr
-    idval = idr["id"]
-    hw = word_from_stem(stem)          # always name after the current headword
+def save_asset(cfg, filename, data):
+    filename = re.sub(r"[\\/:*?\"<>|]", "", filename)
+    if not filename.startswith("asaxi-"):
+        return {"ok": False, "error": "asset names must start with asaxi-"}
     d = anki_dir(cfg)
-    for old in d.glob(f"{idval}-*-{slot}.*"):   # one file per id+slot
+    # one file per slot: remove stale versions with other extensions
+    stem = filename.rsplit(".", 1)[0]
+    for old in d.glob(stem + ".*"):
         old.unlink()
-    fname = asset_name(idval, hw, slot, ext)
-    (d / fname).write_bytes(data)
-    return {"ok": True, "saved": fname, "bytes": len(data),
-            "id": idval, "id_created": idr["created"], "stem": stem}
+    (d / filename).write_bytes(data)
+    return {"ok": True, "saved": filename, "bytes": len(data)}
 
 
 def delete_asset(cfg, filename):
-    """Remove one asset slot (any extension of the same stem). The entry keeps
-    its id, so re-adding an asset reuses the same stable id."""
+    """Remove one anki asset slot (any extension of the same stem)."""
     filename = re.sub(r"[\\/:*?\"<>|]", "", filename)
-    if not re.match(r"^[A-Za-z0-9]+-asaxi-.*-(?:image|a1|a2)\.[A-Za-z0-9]+$", filename):
-        return {"ok": False, "error": "not a recognized anki asset filename"}
+    if not filename.startswith("asaxi-"):
+        return {"ok": False, "error": "not an asaxi asset"}
     stem = filename.rsplit(".", 1)[0]
     removed = []
     for f in anki_dir(cfg).glob(stem + ".*"):
@@ -1613,13 +1413,13 @@ def delete_asset(cfg, filename):
 def delete_entry(cfg, name, dry_run=True):
     """Delete an entry file and scrub its '- [[name...]]' lines from list and
     semantic-field files. Other inline links are left (they'll show as broken)."""
-    fp = entry_file(cfg, name)
+    fp = cfg["_lexicon"] / f"{name}.md"
     if not fp.exists():
         return {"ok": False, "error": f"No such entry: {name}"}
     line_pat = re.compile(r"^[ \t]*-\s*\[\[" + re.escape(name) +
                           r"(?:\|[^\]]*)?\]\].*$\n?", re.M)
     scrubbed = []
-    targets = all_entry_files(cfg) + list(cfg["_fields"].glob("*.md"))
+    targets = list(cfg["_lexicon"].glob("*.md")) + list(cfg["_fields"].glob("*.md"))
     for lf in targets:
         if lf.name == f"{name}.md":
             continue
@@ -1630,7 +1430,7 @@ def delete_entry(cfg, name, dry_run=True):
             if not dry_run:
                 lf.write_text(nt, encoding="utf-8")
     refs = []
-    for q in all_entry_files(cfg):
+    for q in cfg["_lexicon"].glob("*.md"):
         if q.name != f"{name}.md" and f"[[{name}" in q.read_text(encoding="utf-8"):
             refs.append(q.stem)
     if not dry_run:
@@ -1651,7 +1451,6 @@ _TPL_FILES = {
     "ga-noun": "Lngstics_Ga-noun Template.md",
     "particle": "Lngstics_Grammar Particle.md",
     "number": "Lngstic_Number Template.md",
-    "idiom": "Lngstics_Idiom Template.md",
 }
 
 
@@ -1761,7 +1560,7 @@ def field_audit(cfg, name, text):
 def add_missing_sections(cfg, name, dry_run=False):
     """Append every template section the entry lacks, using the template's
     own placeholder content. Appended at the end (surgical, nothing else moves)."""
-    fp = entry_file(cfg, name)
+    fp = cfg["_lexicon"] / f"{name}.md"
     if not fp.exists():
         return {"ok": False, "error": f"No such entry: {name}"}
     text = fp.read_text(encoding="utf-8")

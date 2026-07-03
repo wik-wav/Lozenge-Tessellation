@@ -295,8 +295,7 @@ class Handler(BaseHTTPRequestHandler):
         if u.path == "/api/entry":
             return self._send(core.get_entry(cfg, q.get("name", "")))
         if u.path == "/api/anki_status":
-            return self._send(core.anki_status(cfg, name=q.get("name", ""),
-                                               word=q.get("word", "")))
+            return self._send(core.anki_status(cfg, q.get("word", "")))
         if u.path == "/api/asset":
             fname = re.sub(r"[\\/]", "", q.get("name", ""))
             fp = core.anki_dir(cfg) / fname
@@ -317,15 +316,13 @@ class Handler(BaseHTTPRequestHandler):
         cfg = self.cfg
         if self.path.startswith("/api/asset_upload"):
             from urllib.parse import urlparse, parse_qs, unquote
-            qs = {k: unquote(v[0]) for k, v in
-                  parse_qs(urlparse(self.path).query).items()}
+            qs = parse_qs(urlparse(self.path).query)
+            fname = unquote(qs.get("name", [""])[0])
             n = int(self.headers.get("Content-Length", 0))
-            if n <= 0 or n > 50_000_000:
+            if not fname or n <= 0 or n > 50_000_000:
                 return self._send({"ok": False, "error": "bad upload"}, 400)
             data = self.rfile.read(n)
-            return self._send(core.save_asset(
-                cfg, name=qs.get("name", ""), word=qs.get("word", ""),
-                slot=qs.get("slot", ""), ext=qs.get("ext", ""), data=data))
+            return self._send(core.save_asset(cfg, fname, data))
         try:
             body = self._body()
         except Exception:

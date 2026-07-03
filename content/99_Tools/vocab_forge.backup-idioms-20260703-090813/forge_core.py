@@ -30,42 +30,7 @@ def load_config():
     cfg["_root"] = root
     cfg["_lexicon"] = root / cfg["lexicon_dir"]
     cfg["_fields"] = root / cfg["semantic_fields_dir"]
-    cfg["_idioms"] = root / cfg["idioms_dir"] if cfg.get("idioms_dir") else None
     return cfg
-
-
-def entry_search_dirs(cfg):
-    """All dirs that hold entry notes: the lexicon plus the idioms dir."""
-    dirs = [cfg["_lexicon"]]
-    idi = cfg.get("_idioms")
-    if idi and Path(idi).is_dir():
-        dirs.append(idi)
-    return dirs
-
-
-def all_entry_files(cfg):
-    """Every entry .md across all entry dirs."""
-    files = []
-    for d in entry_search_dirs(cfg):
-        files.extend(d.glob("*.md"))
-    return files
-
-
-def dir_for_type(cfg, wtype):
-    """Directory a NEW entry of this type should be written to."""
-    if wtype == "idiom" and cfg.get("_idioms"):
-        return cfg["_idioms"]
-    return cfg["_lexicon"]
-
-
-def entry_file(cfg, stem):
-    """Path to entry <stem>.md in whichever entry dir holds it (defaults to the
-    lexicon dir when it does not exist yet)."""
-    for d in entry_search_dirs(cfg):
-        pp = d / (stem + ".md")
-        if pp.exists():
-            return pp
-    return cfg["_lexicon"] / (stem + ".md")
 
 
 # ------------------------------------------------------------- phonology
@@ -288,13 +253,6 @@ WORD_TYPES = {
         "list_link": "39_Numerals & Mathematics|Number",
         "tags": ["Asaxi", "language", "number"],
     },
-    "idiom": {
-        "label": "Idiom / expression",
-        "suffix": "Idiom",
-        "list": None,
-        "list_link": "45_Idioms & Fixed Expressions",
-        "tags": ["Asaxi", "language", "idiom"],
-    },
 }
 
 FIELD_SPECS = {
@@ -336,10 +294,8 @@ class Lexicon:
         self._load()
 
     def _load(self):
-        paths = []
-        for d in entry_search_dirs(self.cfg):
-            paths.extend(sorted(d.glob("*.md")))
-        for p in paths:
+        lex = self.cfg["_lexicon"]
+        for p in sorted(lex.glob("*.md")):
             m = FILENAME_RE.match(p.name)
             if not m:
                 continue
@@ -442,11 +398,10 @@ def validate(lex: Lexicon, data: dict):
         errors.append(f"Unknown word type: {wtype!r}. Valid: {', '.join(WORD_TYPES)}")
         return {"errors": errors, "warnings": warnings, "info": info, "ipa_suggestion": ""}
 
-    if wtype != "idiom":
-        bad = check_charset(word)
-        if bad:
-            errors.append("Characters outside the Asaxi romanization alphabet: "
-                          + " ".join(repr(c) for c in bad))
+    bad = check_charset(word)
+    if bad:
+        errors.append("Characters outside the Asaxi romanization alphabet: "
+                      + " ".join(repr(c) for c in bad))
 
     # exact duplicates
     for e in lex.find_exact(word):
@@ -466,18 +421,19 @@ def validate(lex: Lexicon, data: dict):
     # homophones via IPA
     ipa = suggest_ipa(word)
 
-    # phonotactics + single-word shape checks (skipped for multi-word idioms)
-    if wtype != "idiom":
-        ph_e, ph_w, ph_i = check_phonotactics(word, wtype, (data.get("root_noun") or "").strip())
-        errors += ph_e
-        warnings += ph_w
-        info += ph_i
-        if wtype == "verb-u" and not word.endswith("ů"):
-            warnings.append("Verb (-ů) words normally end in ů.")
-        if wtype == "verb-root" and word.endswith("ů"):
-            warnings.append("Root verbs normally do NOT end in ů (that's the -ů class).")
-        if wtype == "ga-noun" and not word.startswith("ga"):
-            warnings.append("Ga-noun compounds normally start with ga-.")
+    # phonotactics
+    ph_e, ph_w, ph_i = check_phonotactics(word, wtype, (data.get("root_noun") or "").strip())
+    errors += ph_e
+    warnings += ph_w
+    info += ph_i
+
+    # type-specific shape checks
+    if wtype == "verb-u" and not word.endswith("ů"):
+        warnings.append("Verb (-ů) words normally end in ů.")
+    if wtype == "verb-root" and word.endswith("ů"):
+        warnings.append("Root verbs normally do NOT end in ů (that's the -ů class).")
+    if wtype == "ga-noun" and not word.startswith("ga"):
+        warnings.append("Ga-noun compounds normally start with ga-.")
     if not data.get("gloss_en"):
         warnings.append("English translation is empty.")
 
@@ -666,18 +622,6 @@ def build_entry(lex: Lexicon, d: dict):
         body = (f"# {word} number ([[39_Numerals & Mathematics|Number]])\n\n- - -\n\n{script}\n\n"
                 f'"{word}" stands for the number {nv}.\n\n'
                 f"### Pronunciation\n\nIPA: {ipa}")
-    elif d["type"] == "idiom":
-        idx = (d.get("index_page") or "").strip() or t.get("list_link") or "45_Idioms & Fixed Expressions"
-        gf = (d.get("grammatical_function") or "").strip() or "Fixed Expression"
-        struct = (d.get("structure") or "").strip() or "x"
-        body = (f"# {word} ([[{idx}]])\n\n- - -\n\n{script}\n\n"
-                f"### Grammatical function\n\n- **Type:** {gf}\n- **Meaning:** {gl_en or 'x'}\n\n"
-                f"### Structure\n\n{struct}\n\n"
-                f"### Pronunciation\n\nIPA: {ipa}\n\n"
-                f"### Example sentence\n\n{example}\n\n"
-                f"### Etymology\n\n{ety}\n\n"
-                f"### Synonyms\n\n{syn}\n\n"
-                f"### Antonyms\n\n{ant}")
     else:
         raise ValueError(d["type"])
 
@@ -774,7 +718,7 @@ def preview(lex: Lexicon, d: dict, force=False):
     plans = plan_list_update(lex, d) + plan_derived_updates(lex, d)
     return {"ok": True, "validation": v,
             "entry": {"filename": filename,
-                      "path": str(dir_for_type(lex.cfg, d["type"]) / filename),
+                      "path": str(lex.cfg["_lexicon"] / filename),
                       "markdown": md},
             "list_updates": plans}
 
@@ -915,7 +859,7 @@ def _etymology_links(lex, text):
             continue
         for name in LINK_RE.findall(text[s:e]):
             name = name.strip()
-            fp = entry_file(lex.cfg, name)
+            fp = Path(lex.cfg["_lexicon"]) / f"{name}.md"
             if fp.exists():
                 out.append((name, fp, section))
     return out
@@ -1237,7 +1181,7 @@ def browse(lex, q="", type_f="", field_f=""):
 
 def get_entry(cfg, name):
     """Load an entry for editing: frontmatter glosses + raw sections."""
-    fp = entry_file(cfg, name)
+    fp = cfg["_lexicon"] / f"{name}.md"
     if not fp.exists():
         return {"ok": False, "error": f"No such entry: {name}"}
     text = fp.read_text(encoding="utf-8")
@@ -1300,7 +1244,7 @@ def update_entry(cfg, name, fm_updates=None, section_updates=None, dry_run=False
                  order=None):
     """Surgical edit: replace only the given frontmatter values / section bodies.
     Unknown sections are appended at the end. Gloss changes sync list lines."""
-    fp = entry_file(cfg, name)
+    fp = cfg["_lexicon"] / f"{name}.md"
     if not fp.exists():
         return {"ok": False, "error": f"No such entry: {name}"}
     text = fp.read_text(encoding="utf-8")
@@ -1381,7 +1325,7 @@ def update_entry(cfg, name, fm_updates=None, section_updates=None, dry_run=False
         new_gloss = fm_updates["gloss_en"].strip()
         line_pat = re.compile(r"^(-\s*\[\[" + re.escape(name) +
                               r"(?:\|[^\]]*)?\]\]\s*-\s*).*$", re.M)
-        targets = all_entry_files(cfg) + list(cfg["_fields"].glob("*.md"))
+        targets = list(cfg["_lexicon"].glob("*.md")) + list(cfg["_fields"].glob("*.md"))
         for lf in targets:
             if lf.name == f"{name}.md":
                 continue
@@ -1452,7 +1396,7 @@ def entry_ids_in_use(cfg):
     """Every id currently claimed anywhere - front matter and asset filenames -
     so a freshly minted id can never collide."""
     used = set()
-    for p in all_entry_files(cfg):
+    for p in cfg["_lexicon"].glob("*.md"):
         try:
             i = read_entry_id(p.read_text(encoding="utf-8"))
             if i:
@@ -1493,16 +1437,16 @@ def resolve_entry(cfg, name="", word=""):
     """Locate an entry file. Prefer an explicit stem ('ai (noun)'); otherwise
     look it up by headword. Returns {'ok', 'stem'} or an error (assets can only
     attach to a SAVED entry, since the id lives in its front matter)."""
+    lexdir = cfg["_lexicon"]
     name = (name or "").strip()
     word = (word or "").strip()
-    dirs = entry_search_dirs(cfg)
     if name:
-        if any((d / f"{name}.md").exists() for d in dirs):
+        if (lexdir / f"{name}.md").exists():
             return {"ok": True, "stem": name}
         return {"ok": False, "error": f"No such entry: {name}"}
     if word:
-        hits = sorted({p.stem for d in dirs for p in d.glob("*.md")
-                       if word_from_stem(p.stem).lower() == word.lower()})
+        hits = [p.stem for p in lexdir.glob("*.md")
+                if word_from_stem(p.stem).lower() == word.lower()]
         if not hits:
             return {"ok": False,
                     "error": f"No saved entry for '{word}' - "
@@ -1518,7 +1462,7 @@ def resolve_entry(cfg, name="", word=""):
 def ensure_entry_id(cfg, stem):
     """Return the entry's id, minting + writing one into its front matter the
     first time (this is the ONLY place an id is created)."""
-    fp = entry_file(cfg, stem)
+    fp = cfg["_lexicon"] / f"{stem}.md"
     if not fp.exists():
         return {"ok": False, "error": f"No such entry: {stem}"}
     text = fp.read_text(encoding="utf-8")
@@ -1568,7 +1512,7 @@ def anki_status(cfg, name="", word=""):
         return {"ok": False, "error": r.get("error"), "stems": r.get("stems"),
                 "id": None, "image": None, "a1": None, "a2": None}
     stem = r["stem"]
-    idval = read_entry_id((entry_file(cfg, stem)).read_text(encoding="utf-8"))
+    idval = read_entry_id((cfg["_lexicon"] / f"{stem}.md").read_text(encoding="utf-8"))
     return {"ok": True, "stem": stem, "id": idval, **_assets_for_id(cfg, idval)}
 
 
@@ -1613,13 +1557,13 @@ def delete_asset(cfg, filename):
 def delete_entry(cfg, name, dry_run=True):
     """Delete an entry file and scrub its '- [[name...]]' lines from list and
     semantic-field files. Other inline links are left (they'll show as broken)."""
-    fp = entry_file(cfg, name)
+    fp = cfg["_lexicon"] / f"{name}.md"
     if not fp.exists():
         return {"ok": False, "error": f"No such entry: {name}"}
     line_pat = re.compile(r"^[ \t]*-\s*\[\[" + re.escape(name) +
                           r"(?:\|[^\]]*)?\]\].*$\n?", re.M)
     scrubbed = []
-    targets = all_entry_files(cfg) + list(cfg["_fields"].glob("*.md"))
+    targets = list(cfg["_lexicon"].glob("*.md")) + list(cfg["_fields"].glob("*.md"))
     for lf in targets:
         if lf.name == f"{name}.md":
             continue
@@ -1630,7 +1574,7 @@ def delete_entry(cfg, name, dry_run=True):
             if not dry_run:
                 lf.write_text(nt, encoding="utf-8")
     refs = []
-    for q in all_entry_files(cfg):
+    for q in cfg["_lexicon"].glob("*.md"):
         if q.name != f"{name}.md" and f"[[{name}" in q.read_text(encoding="utf-8"):
             refs.append(q.stem)
     if not dry_run:
@@ -1651,7 +1595,6 @@ _TPL_FILES = {
     "ga-noun": "Lngstics_Ga-noun Template.md",
     "particle": "Lngstics_Grammar Particle.md",
     "number": "Lngstic_Number Template.md",
-    "idiom": "Lngstics_Idiom Template.md",
 }
 
 
@@ -1761,7 +1704,7 @@ def field_audit(cfg, name, text):
 def add_missing_sections(cfg, name, dry_run=False):
     """Append every template section the entry lacks, using the template's
     own placeholder content. Appended at the end (surgical, nothing else moves)."""
-    fp = entry_file(cfg, name)
+    fp = cfg["_lexicon"] / f"{name}.md"
     if not fp.exists():
         return {"ok": False, "error": f"No such entry: {name}"}
     text = fp.read_text(encoding="utf-8")

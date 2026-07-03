@@ -47,14 +47,10 @@ Null
 ### Derived terms
 - **[[ămăni (Particle)|ămăni]]** (At your leisure / Towards the right time).
 
-### Grammatical function
-- **Type:** Abstract Noun / Frequency Adverb
-- **Function:** **Subjective Timing**
-- **Meaning (Noun):** "The right time", "The subjective moment", "Kairos".
-- **Meaning (Adverb):** "Opportunely", "At the right moments", "When it feels right".
+### Usage Note
 
-### Syntax
 * **As Noun:** Functions as a subject or object.
     * `To ămă paxiŕa.` ("It will be the right time").
 * **As Adverb:** Floating pre-verbal modifier.
     * `To wo ămă pashěsonů.` ("I will read **when the time is right** / **opportunely**.")
+

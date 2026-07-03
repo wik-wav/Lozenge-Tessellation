@@ -217,16 +217,6 @@
       <input type="text" id="number_value">
     </div>
 
-    <div id="idiomRow" style="display:none">
-      <label>Structure (literal breakdown)</label>
-      <input type="text" id="structure" class="wiki" placeholder="e.g. [Subject (dropped)] fůjå ma">
-      <label>Index page (header link)</label>
-      <select id="index_page">
-        <option value="45_Idioms &amp; Fixed Expressions">45 — Idioms &amp; Fixed Expressions</option>
-        <option value="63_Social Formulae (Greetings &amp; Everyday Speech)">63 — Social Formulae (greetings, thanks, apologies)</option>
-      </select>
-    </div>
-
     <label>Semantic fields</label>
     <div class="suggest-box">
       <input type="text" id="fieldInput" placeholder="Smntc_Field" autocomplete="off">
@@ -484,10 +474,9 @@ function typeSpecific(){
   $("animateWrap").style.display = t==="adjective" ? "" : "none";
   $("verbRow").style.display = ["verb-root","verb-u"].includes(t) ? "" : "none";
   $("aspectWrap").style.display = t==="verb-root" ? "" : "none";
-  $("gfRow").style.display = ["root-word","particle","idiom"].includes(t) ? "" : "none";
+  $("gfRow").style.display = ["root-word","particle"].includes(t) ? "" : "none";
   $("ptWrap").style.display = t==="particle" ? "" : "none";
   $("numRow").style.display = t==="number" ? "" : "none";
-  $("idiomRow").style.display = t==="idiom" ? "" : "none";
   $("rootNounRow").style.display = ["adjective","verb-u"].includes(t) ? "" : "none";
 }
 
@@ -505,8 +494,6 @@ function payload(){
     grammatical_function: $("grammatical_function").value.trim(),
     particle_type: $("particle_type").value.trim(),
     number_value: $("number_value").value.trim(),
-    structure: $("structure").value.trim(),
-    index_page: $("index_page").value,
     semantic_fields: chipValues("semantic_fields"),
     example: $("example").value.trim(),
     example_gloss: $("example_gloss").value.trim(),
@@ -1169,80 +1156,6 @@ const ed = { name: null, orig: null };
   });
 }
 
-function makeSection(header, content){
-    const wrap = document.createElement("div");
-    wrap.className = "sec-wrap";
-    wrap.dataset.header = header;
-    const head = document.createElement("div"); head.className = "sec-head";
-    const lab = document.createElement("label");
-    lab.textContent = header;
-    lab.dataset.header = header;
-    const del = document.createElement("button");
-    del.type = "button"; del.className = "small secondary"; del.textContent = "✕";
-    del.title = "Mark this section for deletion — applied only when you press Save changes";
-    del.onclick = ()=>{
-      wrap.classList.toggle("pending-del");
-      const on = wrap.classList.contains("pending-del");
-      del.textContent = on ? "↩" : "✕";
-      del.title = on ? "Undo the pending deletion" : "Mark this section for deletion — applied only when you press Save changes";
-      const t = wrap.querySelector("textarea");
-      if(t) t.disabled = on;
-      edDirty();
-    };
-    const ren = document.createElement("button");
-    ren.type = "button"; ren.className = "small secondary"; ren.textContent = "✎";
-    ren.title = "Rename this section header — applied only when you press Save changes";
-    ren.onclick = ()=>{
-      const cur = wrap.dataset.renameTo || header;
-      const nv = prompt("Rename section header:", cur);
-      if(nv === null) return;
-      const v = nv.trim().replace(/^#+\s*/, "");
-      if(!v || v === header) delete wrap.dataset.renameTo;
-      else wrap.dataset.renameTo = v;
-      edDirty();
-    };
-    const grip = document.createElement("span");
-    grip.className = "grip"; grip.textContent = "≡";
-    grip.title = "Drag the header to rearrange sections (saved when you press Save changes)";
-    head.title = "Drag to rearrange sections";
-    // the whole header row is the drag handle (buttons excluded)
-    head.addEventListener("mousedown", e=>{
-      if(e.target.tagName !== "BUTTON") wrap.draggable = true;
-    });
-    wrap.addEventListener("dragstart", e=>{
-      _dragWrap = wrap;
-      wrap.classList.add("dragging");
-      if(e.dataTransfer){
-        e.dataTransfer.effectAllowed = "move";
-        try{ e.dataTransfer.setData("text/plain", header); }catch(_){}
-      }
-    });
-    wrap.addEventListener("dragend", ()=>{
-      wrap.classList.remove("dragging");
-      wrap.draggable = false;
-      _dragWrap = null;
-      edDirty();
-    });
-    head.appendChild(grip); head.appendChild(del); head.appendChild(ren); head.appendChild(lab);
-    const ta = document.createElement("textarea");
-    ta.className = "wiki";
-    ta.value = content;
-    ta.dataset.header = header;
-    const ll = document.createElement("div"); ll.className = "linkline";
-    let llT = null;
-    const autoGrow = ()=>{ ta.style.height = "auto"; ta.style.height = Math.min(600, ta.scrollHeight + 4) + "px"; };
-    ta.addEventListener("input", ()=>{ autoGrow(); edDirty(); clearTimeout(llT); llT = setTimeout(()=>linkLine(ll, ta.value), 400); });
-    requestAnimationFrame(autoGrow);
-    attachWiki(ta);
-    wrap.appendChild(head); wrap.appendChild(ta); wrap.appendChild(ll);
-    linkLine(ll, content);
-    if(header === "Synonyms" || header === "Antonyms"){
-      wrap.appendChild(buildRelatedTools(header === "Synonyms" ? "synonyms" : "antonyms", ta));
-    }
-
-    return wrap;
-}
-
 async function loadEntry(stem){
   const r = await api("/api/entry?name="+encodeURIComponent(stem));
   if(!r || !r.ok){
@@ -1260,7 +1173,78 @@ async function loadEntry(stem){
   $("edGlossPl").disabled = r.gloss_pl === null && false;
   const host = $("edSections");
   host.innerHTML = "";
-  r.sections.forEach(s=>{ host.appendChild(makeSection(s.header, s.content)); });
+  r.sections.forEach(s=>{
+    const wrap = document.createElement("div");
+    wrap.className = "sec-wrap";
+    wrap.dataset.header = s.header;
+    const head = document.createElement("div"); head.className = "sec-head";
+    const lab = document.createElement("label");
+    lab.textContent = s.header;
+    lab.dataset.header = s.header;
+    const del = document.createElement("button");
+    del.type = "button"; del.className = "small secondary"; del.textContent = "✕";
+    del.title = "Mark this section for deletion — applied only when you press Save changes";
+    del.onclick = ()=>{
+      wrap.classList.toggle("pending-del");
+      const on = wrap.classList.contains("pending-del");
+      del.textContent = on ? "↩" : "✕";
+      del.title = on ? "Undo the pending deletion" : "Mark this section for deletion — applied only when you press Save changes";
+      const t = wrap.querySelector("textarea");
+      if(t) t.disabled = on;
+      edDirty();
+    };
+    const ren = document.createElement("button");
+    ren.type = "button"; ren.className = "small secondary"; ren.textContent = "✎";
+    ren.title = "Rename this section header — applied only when you press Save changes";
+    ren.onclick = ()=>{
+      const cur = wrap.dataset.renameTo || s.header;
+      const nv = prompt("Rename section header:", cur);
+      if(nv === null) return;
+      const v = nv.trim().replace(/^#+\s*/, "");
+      if(!v || v === s.header) delete wrap.dataset.renameTo;
+      else wrap.dataset.renameTo = v;
+      edDirty();
+    };
+    const grip = document.createElement("span");
+    grip.className = "grip"; grip.textContent = "≡";
+    grip.title = "Drag the header to rearrange sections (saved when you press Save changes)";
+    head.title = "Drag to rearrange sections";
+    // the whole header row is the drag handle (buttons excluded)
+    head.addEventListener("mousedown", e=>{
+      if(e.target.tagName !== "BUTTON") wrap.draggable = true;
+    });
+    wrap.addEventListener("dragstart", e=>{
+      _dragWrap = wrap;
+      wrap.classList.add("dragging");
+      if(e.dataTransfer){
+        e.dataTransfer.effectAllowed = "move";
+        try{ e.dataTransfer.setData("text/plain", s.header); }catch(_){}
+      }
+    });
+    wrap.addEventListener("dragend", ()=>{
+      wrap.classList.remove("dragging");
+      wrap.draggable = false;
+      _dragWrap = null;
+      edDirty();
+    });
+    head.appendChild(grip); head.appendChild(del); head.appendChild(ren); head.appendChild(lab);
+    const ta = document.createElement("textarea");
+    ta.className = "wiki";
+    ta.value = s.content;
+    ta.dataset.header = s.header;
+    const ll = document.createElement("div"); ll.className = "linkline";
+    let llT = null;
+    const autoGrow = ()=>{ ta.style.height = "auto"; ta.style.height = Math.min(600, ta.scrollHeight + 4) + "px"; };
+    ta.addEventListener("input", ()=>{ autoGrow(); edDirty(); clearTimeout(llT); llT = setTimeout(()=>linkLine(ll, ta.value), 400); });
+    requestAnimationFrame(autoGrow);
+    attachWiki(ta);
+    wrap.appendChild(head); wrap.appendChild(ta); wrap.appendChild(ll);
+    linkLine(ll, s.content);
+    if(s.header === "Synonyms" || s.header === "Antonyms"){
+      wrap.appendChild(buildRelatedTools(s.header === "Synonyms" ? "synonyms" : "antonyms", ta));
+    }
+    host.appendChild(wrap);
+  });
   ed.origOrder = r.sections.map(s=>s.header);
   $("edAddUsage").style.display = r.sections.some(s=>s.header.startsWith("Usage Note")) ? "none" : "";
   $("edResult").innerHTML = "";
@@ -1414,12 +1398,17 @@ $("edGlossEn").addEventListener("input", edDirty);
 $("edGlossPl").addEventListener("input", edDirty);
 
 $("edAddUsage").onclick = ()=>{
-  const wrap = makeSection("Usage Note", "");
-  $("edSections").appendChild(wrap);
+  const host = $("edSections");
+  const lab = document.createElement("label");
+  lab.textContent = "Usage Note"; lab.dataset.header = "Usage Note";
+  const ta = document.createElement("textarea");
+  ta.className = "wiki"; ta.dataset.header = "Usage Note";
+  ta.placeholder = "Add context which explains how this word is used in Asaxi. Cultural notes, etc. go here.";
+  ta.addEventListener("input", ()=>edDirty());
+  attachWiki(ta);
+  host.appendChild(lab); host.appendChild(ta);
   $("edAddUsage").style.display = "none";
-  const ta = wrap.querySelector("textarea");
-  if(ta){ ta.placeholder = "Add context which explains how this word is used in Asaxi. Cultural notes, etc. go here."; ta.focus(); }
-  edDirty();
+  ta.focus();
 };
 
 $("edSave").onclick = async ()=>{
@@ -1616,13 +1605,7 @@ function encodeMp3(audioBuffer){
   return new Blob(chunks, {type:"audio/mpeg"});
 }
 
-function buildAnkiPanel(host, getId){
-  function ident(){ const x = (getId && getId()) || {}; return {name: x.name || "", word: x.word || ""}; }
-  function haveTarget(){ const i = ident(); return !!(i.name || i.word); }
-  function idQuery(){ const i = ident();
-    if(i.name) return "name=" + encodeURIComponent(i.name);
-    if(i.word) return "word=" + encodeURIComponent(i.word);
-    return ""; }
+function buildAnkiPanel(host, getWord){
   const el = (tag, cls, txt)=>{ const e = document.createElement(tag); if(cls) e.className = cls; if(txt!==undefined) e.textContent = txt; return e; };
   const check = el("button","small secondary","Check Anki assets");
   check.type = "button";
@@ -1672,10 +1655,10 @@ function buildAnkiPanel(host, getId){
 
   let last = {image:null, a1:null, a2:null};
   async function refresh(){
-    if(!haveTarget()){ note.textContent = "enter/select a word first"; return; }
-    const st = await api("/api/anki_status?" + idQuery());
-    last = st || {image:null, a1:null, a2:null};
-    if(st && st.ok === false) note.textContent = st.error || "";
+    const w = getWord();
+    if(!w){ note.textContent = "enter/select a word first"; return; }
+    const st = await api("/api/anki_status?word=" + encodeURIComponent(w));
+    last = st;
     const put = (statusEl, val, playEl)=>{
       statusEl.innerHTML = val ? `<span class="ok">✓ ${val}</span>` : `<span class="no">✗ none</span>`;
       if(playEl){
@@ -1704,17 +1687,17 @@ function buildAnkiPanel(host, getId){
     }catch(e){}
   }
   check.onclick = async ()=>{
-    if(!haveTarget()){ note.textContent = "enter/select a word first"; panel.style.display = ""; return; }
+    if(!getWord()){ note.textContent = "enter/select a word first"; panel.style.display = ""; return; }
     panel.style.display = "";
     note.textContent = "";
     await refresh(); populateMics();
   };
   // keep statuses in sync if the source word changes while the panel is open
-  let lastKey = null;
+  let lastWord = null;
   setInterval(()=>{
     if(panel.style.display === "none") return;
-    const k = idQuery();
-    if(k && k !== lastKey){ lastKey = k; refresh(); }
+    const w = getWord();
+    if(w && w !== lastWord){ lastWord = w; refresh(); }
   }, 1200);
   async function removeAsset(name, what){
     if(!name) return;
@@ -1729,8 +1712,8 @@ function buildAnkiPanel(host, getId){
 
   imgBtn.onclick = ()=>imgFile.click();
   imgFile.addEventListener("change", async ()=>{
-    const f = imgFile.files[0];
-    if(!f || !haveTarget()) return;
+    const f = imgFile.files[0], w = getWord();
+    if(!f || !w) return;
     let blob = f;
     if(f.type !== "image/jpeg"){
       try{
@@ -1745,16 +1728,17 @@ function buildAnkiPanel(host, getId){
       }catch(e){ blob = null; }
       if(!blob){ note.textContent = "couldn't convert this image format"; return; }
     }
-    const r = await fetch("/api/asset_upload?" + idQuery() + "&slot=image&ext=jpg", {method:"POST", body: blob}).then(x=>x.json());
+    const name = "asaxi-" + w + "-image.jpg";
+    const r = await fetch("/api/asset_upload?name=" + encodeURIComponent(name), {method:"POST", body: blob}).then(x=>x.json());
     note.textContent = r.ok ? `saved ${r.saved} (${Math.round(r.bytes/1024)} KB${blob!==f?", converted to JPEG 90%":""})` : r.error;
     refresh(); imgFile.value = "";
   });
 
   async function toggleRecord(slotObj){
-    const btn = slotObj.rec, slot = slotObj.slot;
+    const btn = slotObj.rec, slot = slotObj.slot, w = getWord();
     if(recState && recState.rec.state === "recording" && recState.btn === btn){ recState.rec.stop(); return; }
     if(recState) return;
-    if(!haveTarget()){ note.textContent = "enter/select a word first"; return; }
+    if(!w){ note.textContent = "enter/select a word first"; return; }
     if(!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia){
       note.textContent = "This browser doesn't support recording."; return;
     }
@@ -1780,7 +1764,8 @@ function buildAnkiPanel(host, getId){
           ac.close();
         }catch(e){ outBlob = raw; ext = (rec.mimeType.includes("ogg") ? "ogg" : "webm"); }
       } else { outBlob = raw; ext = (rec.mimeType.includes("ogg") ? "ogg" : "webm"); }
-      const r = await fetch("/api/asset_upload?" + idQuery() + "&slot=" + slot + "&ext=" + ext, {method:"POST", body: outBlob}).then(x=>x.json());
+      const name = `asaxi-${w}-${slot}.${ext}`;
+      const r = await fetch("/api/asset_upload?name=" + encodeURIComponent(name), {method:"POST", body: outBlob}).then(x=>x.json());
       note.textContent = r.ok
         ? `saved ${r.saved} (${Math.round(r.bytes/1024)} KB${ext!=="mp3" ? " — mp3 encoder unavailable, kept " + ext : ""})`
         : r.error;
@@ -1794,8 +1779,8 @@ function buildAnkiPanel(host, getId){
   a2.rec.onclick = ()=>toggleRecord(a2);
   return { reset: ()=>{ panel.style.display = "none"; note.textContent = ""; } };
 }
-const ankiEdit = buildAnkiPanel($("ankiEditHost"), ()=>({name: ed.name || "", word: edWord()}));
-const ankiAdd = buildAnkiPanel($("ankiAddHost"), ()=>({name: "", word: $("word").value.trim()}));
+const ankiEdit = buildAnkiPanel($("ankiEditHost"), edWord);
+const ankiAdd = buildAnkiPanel($("ankiAddHost"), ()=>$("word").value.trim());
 
 // ---- init
 (async ()=>{

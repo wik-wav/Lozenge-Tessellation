@@ -53,12 +53,8 @@ Null
 ### Antonyms
 - **\[Thin/Gaunt\]** (Likely derived from "Bone" or "Stick").
 
-### Grammatical function
-- **Type:** Qualitative Adjective (`-nă`)
-- **Source Agreement:** **Warm** (Root `bwo`).
-
 ### Usage Note
 Culturally positive. Describes fatness as a pleasing, life-affirming trait (softness/warmth).
 
-### Derived terms
+### Related Terms
 - [[bwonădăsùki (noun)|bwonădăsùki]] - adoration, cherishing

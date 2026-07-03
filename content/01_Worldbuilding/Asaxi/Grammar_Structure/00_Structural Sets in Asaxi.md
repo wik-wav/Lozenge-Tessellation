@@ -113,7 +113,7 @@ Navigation:
 
 - [[62_Vocatives & Interjections in Asaxi]]: Addressing people (`ăjo`) and exclaiming (`tètá`, `wå`, `ox`). *(proposed)*
 - [[63_Social Formulae (Greetings & Everyday Speech)]]: Hello (`nőjo`), goodbye (`måmå natăka`), thanks (`fůjå ma`), apologies, introductions. *(proposed)*
-- [[64_Conversational Repair & Exchange]]: "And you?" (`dhè no`), repair (`năjùkă`), hailing (`ăjo!`), help (`baxůkă`), hortative (`-hèwa`), directions (`baai`/`bafwă`), additive `xa`, quantity `kăgo`.
+- [[64_Conversational Repair & Exchange]]: "And you?" (`dhè no`), repair (`năjùkă`), hailing (`ăjo!`), help (`baxůkă`), hortative (`-hèwa`), directions (`baai`/`bafwai`), additive `xa`, quantity `kăgo`.
 
 ### Grammatical Mood (Speaker Attitude)
 

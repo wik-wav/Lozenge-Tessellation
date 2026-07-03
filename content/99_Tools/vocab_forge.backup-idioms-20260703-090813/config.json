@@ -1,7 +1,6 @@
 {
   "vault_root": null,
   "lexicon_dir": "01_Worldbuilding/Asaxi/Lexicon",
-  "idioms_dir": "01_Worldbuilding/Asaxi/Idioms_Expressions",
   "semantic_fields_dir": "01_Worldbuilding/Asaxi/Lexicon/Semantic_Fields",
   "templates_dir": "00_Templates",
   "server": {

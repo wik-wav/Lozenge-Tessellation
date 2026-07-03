@@ -28,12 +28,11 @@ POST /api/entry_delete               {name, dry_run} -> removes file + scrubs li
 POST /api/linkcheck                  {names:[..]} -> which [[targets]] exist in the vault
 POST /api/llm_refine                 {text, lang} -> reverse-dictionary word options (local LLM)
 POST /api/llm_related                {mode: synonyms|antonyms, gloss_en, gloss_pl} -> LLM words matched to lexicon
-GET  /api/anki_status?name=<stem>    image/a1/a2 asset presence (or ?word=)  ·  GET /api/asset?name=  serves them
-POST /api/asset_upload?name=<stem>&slot={image|a1|a2}&ext=<ext>   raw-body upload; on first use the
-                     server stamps a permanent `id:` into the entry's front matter and writes <id>-asaxi-<word>-<slot>.<ext>
+GET  /api/anki_status?word=          image/a1/a2 asset presence   ·   GET /api/asset?name=  serves them
+POST /api/asset_upload?name=asaxi-<word>-{image.jpg|a1.mp3|a2.mp3}   raw-body upload
 ```
 `get_entry` responses include an `audit` (nonstandard sections vs the type template).
-Deck building: `python build_anki_deck.py --out Asaxi.apkg` (requires genanki). Cards are keyed by the entry `id` (falls back to word+type when absent), so word renames update the same card.
+Deck building: `python build_anki_deck.py --out Asaxi.apkg` (requires genanki).
 `entry_update` rewrites only the given sections (unknown headers are appended); a gloss_en change
 auto-syncs the entry's lines in list/semantic-field files. Always dry_run first.
 `/api/links` powers Obsidian-style [[link]] completion (vault-wide note stems).
@@ -56,8 +55,7 @@ auto-syncs the entry's lines in list/semantic-field files. Always dry_run first.
 }
 ```
 
-Types: noun | verb-root | verb-u | adjective | root-word | ga-noun | particle | number | idiom.
-Idioms are saved to `Idioms_Expressions/` (scanned alongside the Lexicon); charset/phonotactic checks are skipped for them. Idiom payloads may add `structure` and `index_page` (header-link target, e.g. `45_Idioms & Fixed Expressions` or `63_Social Formulae ...`).
+Types: noun | verb-root | verb-u | adjective | root-word | ga-noun | particle | number.
 
 ## Required workflow
 

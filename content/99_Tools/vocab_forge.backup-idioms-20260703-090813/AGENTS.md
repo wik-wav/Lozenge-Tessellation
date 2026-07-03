@@ -56,8 +56,7 @@ auto-syncs the entry's lines in list/semantic-field files. Always dry_run first.
 }
 ```
 
-Types: noun | verb-root | verb-u | adjective | root-word | ga-noun | particle | number | idiom.
-Idioms are saved to `Idioms_Expressions/` (scanned alongside the Lexicon); charset/phonotactic checks are skipped for them. Idiom payloads may add `structure` and `index_page` (header-link target, e.g. `45_Idioms & Fixed Expressions` or `63_Social Formulae ...`).
+Types: noun | verb-root | verb-u | adjective | root-word | ga-noun | particle | number.
 
 ## Required workflow
 

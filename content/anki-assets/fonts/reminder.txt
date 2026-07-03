@@ -1,0 +1,5 @@
+font names have to be:
+AsaxiAbugida.ttf
+AsaxiAlpha.ttf
+
+put in this folder

@@ -93,12 +93,12 @@ Joint-action proposals attach the 1PL pronoun **wa** *after* the mood particle:
 
 Built from the locative system plus the flank nouns (see their entries for the cultural background):
 
-| Word | Meaning | Derivation |
-| --- | --- | --- |
-| **[[baai (noun)\|baai]]** | the right side | `ba-` (flank) + `ai` (pain) — "the pain-flank" |
-| **[[bafwă (noun)\|bafwă]]** | the left side | `ba-` + `fů` + `ai`, contracted — "the painless flank" |
-| **[[obi (noun)\|obi]]** | nearness, vicinity | `o-` (PROX) + `bi` (line) — "this side of the line" |
-| **[[kobi (noun)\|kobi]]** | farness, distance | `ko-` (DIST) + `bi` — "beyond the line" |
+| Word                        | Meaning            | Derivation                                             |
+| --------------------------- | ------------------ | ------------------------------------------------------ |
+| **[[baai (noun)\|baai]]**   | the right side     | `ba-` (flank) + `ai` (pain) — "the pain-flank"         |
+| **[[bafwai (noun)\|bafwai]]** | the left side      | `ba-` + `fů` + `ai`, contracted — "the painless flank" |
+| **[[obi (noun)\|obi]]**     | nearness, vicinity | `o-` (PROX) + `bi` (line) — "this side of the line"    |
+| **[[kobi (noun)\|kobi]]**   | farness, distance  | `ko-` (DIST) + `bi` — "beyond the line"                |
 
 > **Ni baai aśùhè, zå pjovină.** — "Walk to the right, then straight." (*pjovină* = direct, unwavering)
 > **Daoŕo obi xiŕa.** — "The market is near."

@@ -217,16 +217,6 @@
       <input type="text" id="number_value">
     </div>
 
-    <div id="idiomRow" style="display:none">
-      <label>Structure (literal breakdown)</label>
-      <input type="text" id="structure" class="wiki" placeholder="e.g. [Subject (dropped)] fůjå ma">
-      <label>Index page (header link)</label>
-      <select id="index_page">
-        <option value="45_Idioms &amp; Fixed Expressions">45 — Idioms &amp; Fixed Expressions</option>
-        <option value="63_Social Formulae (Greetings &amp; Everyday Speech)">63 — Social Formulae (greetings, thanks, apologies)</option>
-      </select>
-    </div>
-
     <label>Semantic fields</label>
     <div class="suggest-box">
       <input type="text" id="fieldInput" placeholder="Smntc_Field" autocomplete="off">
@@ -484,10 +474,9 @@ function typeSpecific(){
   $("animateWrap").style.display = t==="adjective" ? "" : "none";
   $("verbRow").style.display = ["verb-root","verb-u"].includes(t) ? "" : "none";
   $("aspectWrap").style.display = t==="verb-root" ? "" : "none";
-  $("gfRow").style.display = ["root-word","particle","idiom"].includes(t) ? "" : "none";
+  $("gfRow").style.display = ["root-word","particle"].includes(t) ? "" : "none";
   $("ptWrap").style.display = t==="particle" ? "" : "none";
   $("numRow").style.display = t==="number" ? "" : "none";
-  $("idiomRow").style.display = t==="idiom" ? "" : "none";
   $("rootNounRow").style.display = ["adjective","verb-u"].includes(t) ? "" : "none";
 }
 
@@ -505,8 +494,6 @@ function payload(){
     grammatical_function: $("grammatical_function").value.trim(),
     particle_type: $("particle_type").value.trim(),
     number_value: $("number_value").value.trim(),
-    structure: $("structure").value.trim(),
-    index_page: $("index_page").value,
     semantic_fields: chipValues("semantic_fields"),
     example: $("example").value.trim(),
     example_gloss: $("example_gloss").value.trim(),
@@ -1169,80 +1156,6 @@ const ed = { name: null, orig: null };
   });
 }
 
-function makeSection(header, content){
-    const wrap = document.createElement("div");
-    wrap.className = "sec-wrap";
-    wrap.dataset.header = header;
-    const head = document.createElement("div"); head.className = "sec-head";
-    const lab = document.createElement("label");
-    lab.textContent = header;
-    lab.dataset.header = header;
-    const del = document.createElement("button");
-    del.type = "button"; del.className = "small secondary"; del.textContent = "✕";
-    del.title = "Mark this section for deletion — applied only when you press Save changes";
-    del.onclick = ()=>{
-      wrap.classList.toggle("pending-del");
-      const on = wrap.classList.contains("pending-del");
-      del.textContent = on ? "↩" : "✕";
-      del.title = on ? "Undo the pending deletion" : "Mark this section for deletion — applied only when you press Save changes";
-      const t = wrap.querySelector("textarea");
-      if(t) t.disabled = on;
-      edDirty();
-    };
-    const ren = document.createElement("button");
-    ren.type = "button"; ren.className = "small secondary"; ren.textContent = "✎";
-    ren.title = "Rename this section header — applied only when you press Save changes";
-    ren.onclick = ()=>{
-      const cur = wrap.dataset.renameTo || header;
-      const nv = prompt("Rename section header:", cur);
-      if(nv === null) return;
-      const v = nv.trim().replace(/^#+\s*/, "");
-      if(!v || v === header) delete wrap.dataset.renameTo;
-      else wrap.dataset.renameTo = v;
-      edDirty();
-    };
-    const grip = document.createElement("span");
-    grip.className = "grip"; grip.textContent = "≡";
-    grip.title = "Drag the header to rearrange sections (saved when you press Save changes)";
-    head.title = "Drag to rearrange sections";
-    // the whole header row is the drag handle (buttons excluded)
-    head.addEventListener("mousedown", e=>{
-      if(e.target.tagName !== "BUTTON") wrap.draggable = true;
-    });
-    wrap.addEventListener("dragstart", e=>{
-      _dragWrap = wrap;
-      wrap.classList.add("dragging");
-      if(e.dataTransfer){
-        e.dataTransfer.effectAllowed = "move";
-        try{ e.dataTransfer.setData("text/plain", header); }catch(_){}
-      }
-    });
-    wrap.addEventListener("dragend", ()=>{
-      wrap.classList.remove("dragging");
-      wrap.draggable = false;
-      _dragWrap = null;
-      edDirty();
-    });
-    head.appendChild(grip); head.appendChild(del); head.appendChild(ren); head.appendChild(lab);
-    const ta = document.createElement("textarea");
-    ta.className = "wiki";
-    ta.value = content;
-    ta.dataset.header = header;
-    const ll = document.createElement("div"); ll.className = "linkline";
-    let llT = null;
-    const autoGrow = ()=>{ ta.style.height = "auto"; ta.style.height = Math.min(600, ta.scrollHeight + 4) + "px"; };
-    ta.addEventListener("input", ()=>{ autoGrow(); edDirty(); clearTimeout(llT); llT = setTimeout(()=>linkLine(ll, ta.value), 400); });
-    requestAnimationFrame(autoGrow);
-    attachWiki(ta);
-    wrap.appendChild(head); wrap.appendChild(ta); wrap.appendChild(ll);
-    linkLine(ll, content);
-    if(header === "Synonyms" || header === "Antonyms"){
-      wrap.appendChild(buildRelatedTools(header === "Synonyms" ? "synonyms" : "antonyms", ta));
-    }
-
-    return wrap;
-}
-
 async function loadEntry(stem){
   const r = await api("/api/entry?name="+encodeURIComponent(stem));
   if(!r || !r.ok){
@@ -1260,7 +1173,78 @@ async function loadEntry(stem){
   $("edGlossPl").disabled = r.gloss_pl === null && false;
   const host = $("edSections");
   host.innerHTML = "";
-  r.sections.forEach(s=>{ host.appendChild(makeSection(s.header, s.content)); });
+  r.sections.forEach(s=>{
+    const wrap = document.createElement("div");
+    wrap.className = "sec-wrap";
+    wrap.dataset.header = s.header;
+    const head = document.createElement("div"); head.className = "sec-head";
+    const lab = document.createElement("label");
+    lab.textContent = s.header;
+    lab.dataset.header = s.header;
+    const del = document.createElement("button");
+    del.type = "button"; del.className = "small secondary"; del.textContent = "✕";
+    del.title = "Mark this section for deletion — applied only when you press Save changes";
+    del.onclick = ()=>{
+      wrap.classList.toggle("pending-del");
+      const on = wrap.classList.contains("pending-del");
+      del.textContent = on ? "↩" : "✕";
+      del.title = on ? "Undo the pending deletion" : "Mark this section for deletion — applied only when you press Save changes";
+      const t = wrap.querySelector("textarea");
+      if(t) t.disabled = on;
+      edDirty();
+    };
+    const ren = document.createElement("button");
+    ren.type = "button"; ren.className = "small secondary"; ren.textContent = "✎";
+    ren.title = "Rename this section header — applied only when you press Save changes";
+    ren.onclick = ()=>{
+      const cur = wrap.dataset.renameTo || s.header;
+      const nv = prompt("Rename section header:", cur);
+      if(nv === null) return;
+      const v = nv.trim().replace(/^#+\s*/, "");
+      if(!v || v === s.header) delete wrap.dataset.renameTo;
+      else wrap.dataset.renameTo = v;
+      edDirty();
+    };
+    const grip = document.createElement("span");
+    grip.className = "grip"; grip.textContent = "≡";
+    grip.title = "Drag the header to rearrange sections (saved when you press Save changes)";
+    head.title = "Drag to rearrange sections";
+    // the whole header row is the drag handle (buttons excluded)
+    head.addEventListener("mousedown", e=>{
+      if(e.target.tagName !== "BUTTON") wrap.draggable = true;
+    });
+    wrap.addEventListener("dragstart", e=>{
+      _dragWrap = wrap;
+      wrap.classList.add("dragging");
+      if(e.dataTransfer){
+        e.dataTransfer.effectAllowed = "move";
+        try{ e.dataTransfer.setData("text/plain", s.header); }catch(_){}
+      }
+    });
+    wrap.addEventListener("dragend", ()=>{
+      wrap.classList.remove("dragging");
+      wrap.draggable = false;
+      _dragWrap = null;
+      edDirty();
+    });
+    head.appendChild(grip); head.appendChild(del); head.appendChild(ren); head.appendChild(lab);
+    const ta = document.createElement("textarea");
+    ta.className = "wiki";
+    ta.value = s.content;
+    ta.dataset.header = s.header;
+    const ll = document.createElement("div"); ll.className = "linkline";
+    let llT = null;
+    const autoGrow = ()=>{ ta.style.height = "auto"; ta.style.height = Math.min(600, ta.scrollHeight + 4) + "px"; };
+    ta.addEventListener("input", ()=>{ autoGrow(); edDirty(); clearTimeout(llT); llT = setTimeout(()=>linkLine(ll, ta.value), 400); });
+    requestAnimationFrame(autoGrow);
+    attachWiki(ta);
+    wrap.appendChild(head); wrap.appendChild(ta); wrap.appendChild(ll);
+    linkLine(ll, s.content);
+    if(s.header === "Synonyms" || s.header === "Antonyms"){
+      wrap.appendChild(buildRelatedTools(s.header === "Synonyms" ? "synonyms" : "antonyms", ta));
+    }
+    host.appendChild(wrap);
+  });
   ed.origOrder = r.sections.map(s=>s.header);
   $("edAddUsage").style.display = r.sections.some(s=>s.header.startsWith("Usage Note")) ? "none" : "";
   $("edResult").innerHTML = "";
@@ -1414,12 +1398,17 @@ $("edGlossEn").addEventListener("input", edDirty);
 $("edGlossPl").addEventListener("input", edDirty);
 
 $("edAddUsage").onclick = ()=>{
-  const wrap = makeSection("Usage Note", "");
-  $("edSections").appendChild(wrap);
+  const host = $("edSections");
+  const lab = document.createElement("label");
+  lab.textContent = "Usage Note"; lab.dataset.header = "Usage Note";
+  const ta = document.createElement("textarea");
+  ta.className = "wiki"; ta.dataset.header = "Usage Note";
+  ta.placeholder = "Add context which explains how this word is used in Asaxi. Cultural notes, etc. go here.";
+  ta.addEventListener("input", ()=>edDirty());
+  attachWiki(ta);
+  host.appendChild(lab); host.appendChild(ta);
   $("edAddUsage").style.display = "none";
-  const ta = wrap.querySelector("textarea");
-  if(ta){ ta.placeholder = "Add context which explains how this word is used in Asaxi. Cultural notes, etc. go here."; ta.focus(); }
-  edDirty();
+  ta.focus();
 };
 
 $("edSave").onclick = async ()=>{

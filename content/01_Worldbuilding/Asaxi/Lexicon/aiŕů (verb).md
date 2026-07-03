@@ -42,7 +42,8 @@ _She grieves. (the sorrow wells from within)_
 Null
 
 ### Etymology
-**[[ai (noun)|ai]]** + **-ŕ-** + **-ů** (Universal Verbalizer).
+
+**[[ai (noun)|ai]]** + **[[06A_-ŕ- (Morphological Infix)|ŕ]]** + **-ů** (Universal Verbalizer).
 
 ### Synonyms
 - [[kozètètánů (verb)|kozètètánů]] (to regret)
@@ -55,6 +56,3 @@ Null
 
 ### Derived terms
 - *(see the root noun's family)*
-
-### Source Doctrine
-Bridge **-ŕ- (Generative)** — see [[65_Expressing States & Sensations (Source Doctrine)]].

@@ -56,6 +56,3 @@ x
 - [[haśù (verb)|haśù]] - to run
 - [[maaśù (verb)|maaśù]] - to carry
 - [[ŕăaxaśù (verb)|ŕăaxaśù]] - to dance
-
-### Root Noun
-- x

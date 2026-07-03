@@ -12,7 +12,7 @@ A local form UI + API for adding vocabulary to the Asaxi lexicon without breakin
 
 Three tabs: **Add new** (the full form), **Edit** (open any existing entry, edit per section), and **Search** (browse the whole corpus with filters for word type and semantic field, free-text search over words and translations, and sorting A→Z / Z→A / least- or most-complete-first / by type). Every entry gets a **completion score**: the share of its fields holding real content rather than `x`/`Null`/empty — the Search tab shows it as a bar, the Edit tab lists exactly which fields are missing. Edits are surgical (only changed sections are rewritten; the rest of the note is untouched) and changing an English translation auto-syncs the entry's line in list files and semantic-field pages.
 
-- **Form per word type** — noun, root verb, -ů verb, adjective, root word, ga-noun, particle, number, and **idiom / fixed expression**; fields mirror `00_Templates` exactly. Idioms are multi-word, so the Asaxi-alphabet and phonotactic checks are skipped for them; new idioms are saved to `01_Worldbuilding/Asaxi/Idioms_Expressions/` (the tool scans that folder alongside the Lexicon) and flow into the Anki deck like any other entry.
+- **Form per word type** — noun, root verb, -ů verb, adjective, root word, ga-noun, particle, number; fields mirror `00_Templates` exactly.
 - **Live validation** — Asaxi alphabet check (no plain u/y/q…), duplicate blocking, near-duplicate warnings, and full **phonotactics from `22_Phonotactics & Euphony`**: no plosive codas, no word-final `lv`/`lm`, `l` never after impure vowels, `r` cluster rules (only after ch/jh/k/f/p, never before i except *fri*, never with glides), vowel-nucleus requirement, `-nýj` coda allowed, and the Rule 22.A `-n-` bridge check for noun→-ů-verb derivations. A rule-breaking word can still be added deliberately via the override checkbox (recorded with `--force` semantics).
 - **Obsidian-style links** — type `[[` in any text field to get vault-wide note completion, exactly like in Obsidian (arrows + Enter/Tab, Esc to cancel).
 - **Auto-IPA** — the `auto` button fills the IPA field from the romanization (palatalization/labialization/gemination rules applied); edit freely afterwards.
@@ -33,3 +33,8 @@ Three tabs: **Add new** (the full form), **Edit** (open any existing entry, edit
 ## Files
 
 `vocab_forge.py` (server+CLI) · `forge_core.py` (engine) · `ui.html` (form) · `thesaurus.json` (EN/PL synonym & antonym data — extend freely) · `config.json` · `AGENTS.md`
+
+## Notes
+
+- Lexicon is re-indexed per request; edits made in Obsidian are picked up immediately.
+- Known corpus anomalies the validator would reject today: `kupù` (plain u), `mỳdo`/`mỳdonů`/`xỳ` (ỳ), `dok` (plosive coda), `mëjox` (x coda) — plus filename-type inconsistencies like `(Noun)`, `(nouns)`, `(Root Word)`. Left untouched; rename them if/when you wish.

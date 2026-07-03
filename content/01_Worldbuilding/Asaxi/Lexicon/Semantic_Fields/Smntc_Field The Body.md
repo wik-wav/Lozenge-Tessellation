@@ -94,7 +94,7 @@ Navigation:
 - [[ŋonů (verb)]] - to weigh x kilograms (have a weight of)
 - [[śchinů (verb)]] - to measure (in cm), to be (X cm) tall/long
 - [[baai (noun)]] - the right side (the pain-flank)
-- [[bafwă (noun)]] - the left side (the painless flank)
+- [[bafwai (noun)]] - the left side (the painless flank)
 - [[ŕochỏŕů (verb)]] - to be thirsty
 - [[chỏŕů (verb)]] - to be hungry
 - [[săaŕů (verb)]] - to radiate heat, to be feverish-hot

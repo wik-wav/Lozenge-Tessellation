@@ -141,7 +141,7 @@ def main():
     for e in sorted(lex.entries, key=lambda x: x["word"].lower()):
         if not e["gloss_en"]:
             continue
-        st = core.anki_status(cfg, name=Path(e["path"]).stem)
+        st = core.anki_status(cfg, e["word"])
         if args.require_audio and not st["a1"]:
             continue
         text = Path(e["path"]).read_text(encoding="utf-8")
@@ -161,8 +161,7 @@ def main():
         note = genanki.Note(model=MODEL, fields=[
             e["word"], ipa, e["gloss_en"], e.get("gloss_pl", ""),
             sent, sgloss, img, a1, a2, e["type_raw"]],
-            guid=genanki.guid_for(e.get("id") or
-                                  ("asaxi::" + e["word"] + "::" + e["type_raw"])))
+            guid=genanki.guid_for("asaxi::" + e["word"] + "::" + e["type_raw"]))
         deck.add_note(note)
         n += 1
         if args.limit and n >= args.limit:

@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: dåmëno (noun) - message, letter
 Word (Asaxi): dåmëno
 trnsltion. En: message, letter

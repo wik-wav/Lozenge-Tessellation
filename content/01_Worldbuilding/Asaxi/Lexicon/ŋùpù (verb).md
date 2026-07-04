@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: ŋùpù (verb) - to swallow, to gulp
 Word (Asaxi): ŋùpù
 trnsltion. En: to swallow, to gulp

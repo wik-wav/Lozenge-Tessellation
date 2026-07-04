@@ -1,4 +1,5 @@
 ---
+freq: 37
 title: ëjo (noun) - fractal, self-similar pattern
 Word (Asaxi): ëjo
 trnsltion. En: fractal, self-similar pattern, recursive shape

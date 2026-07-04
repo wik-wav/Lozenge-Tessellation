@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: sù (root word) - silica, glassy sand
 Word (Asaxi): sù
 trnsltion. En: 'silica, glassy sand'

@@ -25,6 +25,10 @@ GET  /api/infixes                    morphological infixes from the 06A_ notes
 POST /api/validate /api/preview /api/commit /api/thesaurus /api/suggest /api/morphcheck
 POST /api/entry_update               surgical edit: {name, frontmatter:{gloss_en,gloss_pl}, sections:[{header,content} | {header,delete:true}], dry_run} -> includes resulting "text"
 POST /api/entry_delete               {name, dry_run} -> removes file + scrubs list lines; ALWAYS dry_run first, needs human approval
+POST /api/entry_rename               {name, new_name, dry_run} -> renames the file + repoints every [[backlink]] vault-wide (target + matching alias) and fixes the note's own title/heading/Word/script spans; ALWAYS dry_run first
+POST /api/rebuild_lists               {dry_run} -> fill + Latin-sort every category List; ga-noun list grouped by the ga-literal/ga-idiomatic tag. CLI: `python vocab_forge.py rebuild-lists [--dry-run]`
+POST /api/rank_frequency              {dry_run} -> stamp freq: (1-100) on entries lacking it via wordfreq on single-word glosses (Swadesh/LJ boosted); never overwrites. CLI: `python vocab_forge.py rank-frequency [--dry-run]`
+POST /api/llm_frequency               {gloss_en, gloss_pl, usage_note} -> {freq} everyday-frequency estimate (1-100) from the local model
 POST /api/linkcheck                  {names:[..]} -> which [[targets]] exist in the vault
 POST /api/llm_refine                 {text, lang} -> reverse-dictionary word options (local LLM)
 POST /api/llm_related                {mode: synonyms|antonyms, gloss_en, gloss_pl} -> LLM words matched to lexicon
@@ -52,6 +56,8 @@ auto-syncs the entry's lines in list/semantic-field files. Always dry_run first.
   "etymology": "From [[mmbă (noun)|mmbă]] + [[ŕo (root word)|ŕo]]",
   "alt_forms": "", "root_noun": "", "usage_note": "",
   "synonyms": [], "antonyms": [], "derived": [],
+  "ga_kind": "Literal|Idiomatic",  // ga-noun only -> adds ga-literal/ga-idiomatic tag
+  // freq: 1-100 lives in front matter (deck/sort order); set via Edit tab or rank-frequency, editable by hand
   "vocab_expansion_tag": true
 }
 ```

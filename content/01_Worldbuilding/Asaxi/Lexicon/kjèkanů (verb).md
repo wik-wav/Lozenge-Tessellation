@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: kjèkanů (verb) - to saw
 Word (Asaxi): kjèkanů
 trnsltion. En: to saw

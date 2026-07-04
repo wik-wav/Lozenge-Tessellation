@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ŕăa (noun) - fire, flame
 Word (Asaxi): ŕăa
 trnsltion. En: fire, flame

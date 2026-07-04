@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: hkanů (verb) - to protect, shield, guard, defend
 Word (Asaxi): hkanů
 trnsltion. En: to protect, shield, guard, defend

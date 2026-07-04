@@ -1,4 +1,5 @@
 ---
+freq: 71
 title: ŕo (root word) - "-place", "-city", "-country"
 Word (Asaxi): ŕo
 trnsltion. En: '"-place", "-city", "-country"'

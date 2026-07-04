@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: vină (adjective) - okay, alright
 Word (Asaxi): vină
 trnsltion. En: okay, alright, fine

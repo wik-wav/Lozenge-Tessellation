@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: kobù (verb) - to bend, to curve
 Word (Asaxi): kobù
 trnsltion. En: to bend, to curve

@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: ŕăvixů (verb) - to spice, to season
 Word (Asaxi): ŕăvixů
 trnsltion. En: to spice, to season

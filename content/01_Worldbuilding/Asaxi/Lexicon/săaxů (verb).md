@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: săaxů (verb) - to cook, to bake
 Word (Asaxi): săaxů
 trnsltion. En: to cook, to bake

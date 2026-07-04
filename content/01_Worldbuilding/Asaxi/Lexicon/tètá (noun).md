@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: tètá (noun) - pain, suffering
 Word (Asaxi): tètá
 trnsltion. En: pain, suffering, hurt, ache

@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: kika (noun) - crow
 Word (Asaxi): kika
 trnsltion. En: crow

@@ -1,4 +1,5 @@
 ---
+freq: 40
 title: gădăŕů (verb) - to enlarge, to make big
 Word (Asaxi): gădăŕů
 trnsltion. En: to enlarge, to make big

@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: pỏpỏ (noun) - rabbit, hare
 Word (Asaxi): pỏpỏ
 trnsltion. En: rabbit, hare

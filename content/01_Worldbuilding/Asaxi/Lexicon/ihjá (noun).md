@@ -1,4 +1,5 @@
 ---
+freq: 39
 title: ihjá (noun) - quill (e.g. a porcupine's), spine, needle
 Word (Asaxi): ihjá
 trnsltion. En: quill (e.g. a porcupine's), spine, needle

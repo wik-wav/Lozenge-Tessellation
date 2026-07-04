@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: ochi (verb) - to sink, to drop (Jp. *ochiru*)
 Word (Asaxi): ochi
 trnsltion. En: to sink, to drop (Jp. *ochiru*)

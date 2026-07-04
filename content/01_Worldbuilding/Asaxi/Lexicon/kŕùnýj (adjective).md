@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: kŕùnýj (adjective) - rusty, oxide-red, dull cold-red
 Word (Asaxi): kŕùnýj
 trnsltion. En: rusty, oxide-red, dull cold-red

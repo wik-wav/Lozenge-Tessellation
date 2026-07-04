@@ -1,4 +1,5 @@
 ---
+freq: 31
 title: kiŕo (noun) - pickaxe
 Word (Asaxi): kiŕo
 trnsltion. En: pickaxe

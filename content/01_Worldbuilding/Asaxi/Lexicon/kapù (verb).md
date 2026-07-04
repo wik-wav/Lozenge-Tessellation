@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: kapù (verb) - to kick
 Word (Asaxi): kapù
 trnsltion. En: to kick

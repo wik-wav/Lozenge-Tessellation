@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: gavijù (verb) - to praise, to commend
 Word (Asaxi): gavijù
 trnsltion. En: to praise, to commend

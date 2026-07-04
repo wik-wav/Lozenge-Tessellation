@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: văŕo (noun) - garden, conservatory
 Word (Asaxi): văŕo
 trnsltion. En: garden, conservatory, plantation

@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: chỏmă (noun) - mouth, oral cavity
 Word (Asaxi): chỏmă
 trnsltion. En: mouth, oral cavity

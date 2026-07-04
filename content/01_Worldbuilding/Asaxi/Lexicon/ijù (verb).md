@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ijù (verb) - to say, to utter
 Word (Asaxi): ijù
 trnsltion. En: to say, to utter, to tell, to pronounce

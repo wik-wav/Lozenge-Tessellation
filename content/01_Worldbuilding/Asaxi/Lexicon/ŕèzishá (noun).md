@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: ŕèzishá (noun) - lizard, reptile
 Word (Asaxi): ŕèzishá
 trnsltion. En: lizard, reptile, skink

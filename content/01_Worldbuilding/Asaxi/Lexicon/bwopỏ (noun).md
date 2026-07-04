@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: bwopỏ (noun) - shirt / tunic
 Word (Asaxi): bwopỏ
 trnsltion. En: shirt / tunic

@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: pavwo (noun) - tomorrow, the next day
 Word (Asaxi): pavwo
 trnsltion. En: tomorrow, the next day

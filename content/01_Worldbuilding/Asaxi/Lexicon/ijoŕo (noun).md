@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: ijoŕo (noun) - dream (sleeping)
 Word (Asaxi): ijoŕo
 trnsltion. En: dream (sleeping)

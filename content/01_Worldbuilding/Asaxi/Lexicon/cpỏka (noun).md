@@ -1,4 +1,5 @@
 ---
+freq: 43
 title: cpỏka (noun) - broom (dust-tool)
 Word (Asaxi): cpỏka
 trnsltion. En: broom (dust-tool)

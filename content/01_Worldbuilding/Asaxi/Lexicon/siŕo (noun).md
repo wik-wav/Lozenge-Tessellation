@@ -1,4 +1,5 @@
 ---
+freq: 33
 title: siŕo (noun) - the great unknown, somewhere uncharted
 Word (Asaxi): siŕo
 trnsltion. En: the great unknown, somewhere uncharted

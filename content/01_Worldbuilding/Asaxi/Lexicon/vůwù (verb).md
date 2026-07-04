@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: vůwù (verb) - to swim
 Word (Asaxi): vůwù
 trnsltion. En: to swim

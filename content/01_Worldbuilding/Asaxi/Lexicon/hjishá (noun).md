@@ -1,4 +1,5 @@
 ---
+freq: 33
 title: hjishá (noun) - damselfly
 Word (Asaxi): hjishá
 trnsltion. En: damselfly

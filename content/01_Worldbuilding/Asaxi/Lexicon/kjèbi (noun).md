@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: kjèbi (noun) - stick / twig
 Word (Asaxi): kjèbi
 trnsltion. En: stick / twig

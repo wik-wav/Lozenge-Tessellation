@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: táxo (verb) - to greet, to hail
 Word (Asaxi): táxo
 trnsltion. En: to greet, to hail

@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: mỏvko (noun) - grandmother
 Word (Asaxi): mỏvko
 trnsltion. En: grandmother

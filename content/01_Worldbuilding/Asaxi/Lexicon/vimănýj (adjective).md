@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: vimănýj (adjective) - agreeable
 Word (Asaxi): vimănýj
 trnsltion. En: agreeable, acceptable, pleasant (compliant)

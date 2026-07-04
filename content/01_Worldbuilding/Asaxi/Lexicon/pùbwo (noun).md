@@ -1,4 +1,5 @@
 ---
+freq: 53
 Word (Asaxi): pùbwo
 trnsltion. En: buttocks, glutes
 trnsltion. Pl: tyłek

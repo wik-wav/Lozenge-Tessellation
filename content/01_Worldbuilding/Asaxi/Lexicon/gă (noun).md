@@ -1,4 +1,5 @@
 ---
+freq: 72
 title: gă (noun) - place, someplace
 Word (Asaxi): gă
 trnsltion. En: place, someplace

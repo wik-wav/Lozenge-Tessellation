@@ -1,4 +1,5 @@
 ---
+freq: 15
 title: păxè (verb) - to spread out, to unfurl
 Word (Asaxi): păxè
 trnsltion. En: to spread out, to unfurl, to extend (wings/arms), to open up

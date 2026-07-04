@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: kamshákam (noun) - gym, fitness centre
 Word (Asaxi): kamshákam
 trnsltion. En: gym, fitness centre

@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: vădo (noun) - herb (cure-plant)
 Word (Asaxi): vădo
 trnsltion. En: herb (cure-plant)

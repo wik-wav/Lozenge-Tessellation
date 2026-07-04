@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: pùto (verb) - to lower, to set down
 Word (Asaxi): pùto
 trnsltion. En: to lower, to set down

@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: xogă (verb) - to arrive, to reach, to attain
 Word (Asaxi): xogă
 trnsltion. En: to arrive

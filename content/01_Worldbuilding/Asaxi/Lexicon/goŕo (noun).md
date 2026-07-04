@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: goŕo (noun) - cave
 Word (Asaxi): goŕo
 trnsltion. En: cave

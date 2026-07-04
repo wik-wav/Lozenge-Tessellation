@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: kùgù (noun) - ant
 Word (Asaxi): kùgù
 trnsltion. En: ant

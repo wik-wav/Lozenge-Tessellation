@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: tăpù (verb) - to decide, to resolve
 Word (Asaxi): tăpù
 trnsltion. En: to decide, to resolve

@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: kjèbwo (noun) - rubber (tree-sap stuff)
 Word (Asaxi): kjèbwo
 trnsltion. En: rubber (tree-sap stuff)

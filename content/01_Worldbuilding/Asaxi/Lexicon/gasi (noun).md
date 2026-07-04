@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: gasi (noun) - white (colour)
 Word (Asaxi): gasi
 trnsltion. En: white (noun)
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
 ---
 # gasi ([[00_Ga-noun Compounds in Asaxi (list)]])
 

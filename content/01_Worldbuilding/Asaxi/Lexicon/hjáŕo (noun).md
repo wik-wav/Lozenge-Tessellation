@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: hjáŕo (noun) - pond (little-water)
 Word (Asaxi): hjáŕo
 trnsltion. En: pond (little-water)

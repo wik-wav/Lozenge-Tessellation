@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: viko (noun) - wheat
 Word (Asaxi): viko
 trnsltion. En: wheat

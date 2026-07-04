@@ -1,4 +1,5 @@
 ---
+freq: 26
 title: fůchỏ (noun) - satiation, fullness
 Word (Asaxi): fůchỏ
 trnsltion. En: satiation, fullness, satisfaction, un-hunger

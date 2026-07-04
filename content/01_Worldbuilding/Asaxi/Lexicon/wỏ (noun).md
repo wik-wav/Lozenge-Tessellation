@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: wỏ (noun) - cylinder, primitive shape
 Word (Asaxi): wỏ
 trnsltion. En: cylinder, primitive shape (cylindrical), roller

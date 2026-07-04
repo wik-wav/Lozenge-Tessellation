@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: ŕănabină (adjective) - fast, swift
 Word (Asaxi): ŕănabină
 trnsltion. En: fast

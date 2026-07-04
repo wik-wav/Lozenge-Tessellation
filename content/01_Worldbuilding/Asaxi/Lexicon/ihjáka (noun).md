@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: ihjáka (noun) - needle (quill-tool)
 Word (Asaxi): ihjáka
 trnsltion. En: needle (quill-tool)

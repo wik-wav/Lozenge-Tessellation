@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: aśko (noun) - heel
 Word (Asaxi): aśko
 trnsltion. En: heel

@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: jýŋù (verb) - to ring, to resound
 Word (Asaxi): jýŋù
 trnsltion. En: to ring, to resound

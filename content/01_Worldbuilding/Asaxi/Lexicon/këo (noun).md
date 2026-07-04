@@ -1,4 +1,5 @@
 ---
+freq: 43
 title: këo (noun) - beak
 Word (Asaxi): këo
 trnsltion. En: beak

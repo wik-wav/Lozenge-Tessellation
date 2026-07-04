@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: nodobi (noun) - necklace
 Word (Asaxi): nodobi
 trnsltion. En: necklace

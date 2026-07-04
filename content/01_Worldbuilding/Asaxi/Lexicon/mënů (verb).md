@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: mënů (verb) - to lessen, reduce, diminish
 Word (Asaxi): mënů
 trnsltion. En: to lessen, reduce, diminish

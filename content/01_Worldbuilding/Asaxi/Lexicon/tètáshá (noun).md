@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: tètáshá (noun) - enemy (pain-person)
 Word (Asaxi): tètáshá
 trnsltion. En: enemy (pain-person)

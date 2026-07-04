@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: hùhù (noun) - wolf
 Word (Asaxi): hùhù
 trnsltion. En: wolf

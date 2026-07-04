@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: fopù (verb) - to drop, to let fall
 Word (Asaxi): fopù
 trnsltion. En: to drop, to let fall

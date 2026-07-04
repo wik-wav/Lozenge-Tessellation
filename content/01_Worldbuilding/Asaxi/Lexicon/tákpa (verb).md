@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: tákpa (verb) - to attack, to assault
 Word (Asaxi): tákpa
 trnsltion. En: to attack, to assault

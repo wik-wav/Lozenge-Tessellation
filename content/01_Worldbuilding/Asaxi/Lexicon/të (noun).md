@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: të (noun) - hand, palm
 Word (Asaxi): të
 trnsltion. En: hand

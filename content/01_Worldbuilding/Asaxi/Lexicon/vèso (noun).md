@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: vèso (noun) - straw, hay (dry plant)
 Word (Asaxi): vèso
 trnsltion. En: straw, hay (dry plant)

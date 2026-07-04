@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: obishá (noun) - neighbour (near-person)
 Word (Asaxi): obishá
 trnsltion. En: neighbour (near-person)

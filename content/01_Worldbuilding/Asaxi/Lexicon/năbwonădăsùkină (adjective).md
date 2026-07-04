@@ -1,4 +1,5 @@
 ---
+freq: 26
 title: năbwonădăsùkină (adjective) - most beloved, dearest
 Word (Asaxi): năbwonădăsùkină
 trnsltion. En: most beloved, dearest

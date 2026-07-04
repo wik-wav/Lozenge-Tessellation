@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: kùsokùki (noun) - fly (lit. faeces-insect)
 Word (Asaxi): kùsokùki
 trnsltion. En: fly (lit. faeces-insect)

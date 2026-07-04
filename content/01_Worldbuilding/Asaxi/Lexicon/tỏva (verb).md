@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: tỏva (verb) - to accept, to consent
 Word (Asaxi): tỏva
 trnsltion. En: to accept, to consent

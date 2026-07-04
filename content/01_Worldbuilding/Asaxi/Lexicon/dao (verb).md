@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: dao (verb) - to give
 Word (Asaxi): dao
 trnsltion. En: to give

@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: vènă (adjective) - verdant, leafy-green, lush
 Word (Asaxi): vènă
 trnsltion. En: verdant, leafy-green, lush

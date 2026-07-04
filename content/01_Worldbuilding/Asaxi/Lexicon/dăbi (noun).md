@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: dăbi (noun) - pole, post (long rod)
 Word (Asaxi): dăbi
 trnsltion. En: pole, post (long rod)

@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: ihjoŕo (noun) - tomb, grave (bone-place)
 Word (Asaxi): ihjoŕo
 trnsltion. En: tomb, grave (bone-place)

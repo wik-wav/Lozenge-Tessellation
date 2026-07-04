@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: pùbo (noun) - chair (sit-thing)
 Word (Asaxi): pùbo
 trnsltion. En: chair (sit-thing)

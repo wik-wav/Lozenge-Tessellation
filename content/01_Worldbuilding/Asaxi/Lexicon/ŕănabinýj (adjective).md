@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: ŕănabinýj (adjective) - fast, rapid
 Word (Asaxi): ŕănabinýj
 trnsltion. En: fast, rapid, high-velocity, speedy

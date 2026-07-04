@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: vivinů (verb) - to live, to be alive,
 Word (Asaxi): vivinů
 trnsltion. En: to live, to be alive, to thrive

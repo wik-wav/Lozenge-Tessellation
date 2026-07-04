@@ -1,4 +1,5 @@
 ---
+freq: 36
 title: kùso (noun) - faeces, dung
 Word (Asaxi): kùso
 trnsltion. En: faeces, dung

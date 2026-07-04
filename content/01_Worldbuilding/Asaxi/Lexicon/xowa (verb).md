@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: xowa (verb) - to lead, to guide
 Word (Asaxi): xowa
 trnsltion. En: to lead, to guide

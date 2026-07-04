@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: ùhù (noun) - owl
 Word (Asaxi): ùhù
 trnsltion. En: owl

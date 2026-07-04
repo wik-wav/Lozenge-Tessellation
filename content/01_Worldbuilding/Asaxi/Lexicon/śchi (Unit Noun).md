@@ -1,4 +1,5 @@
 ---
+freq: 36
 title: śchi (Unit Noun) - centimeter, cm, unit of length
 Word (Asaxi): śchi
 trnsltion. En: centimeter, cm, unit of length

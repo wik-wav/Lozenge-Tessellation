@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: pa (Noun) - the future
 Word (Asaxi): pa
 trnsltion. En: the future

@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: nonawo (noun) - shelf (thing-surface)
 Word (Asaxi): nonawo
 trnsltion. En: shelf (thing-surface)

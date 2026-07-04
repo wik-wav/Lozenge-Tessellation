@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: kiki (noun) - monkey, ape
 Word (Asaxi): kiki
 trnsltion. En: monkey, ape

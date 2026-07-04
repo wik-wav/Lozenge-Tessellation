@@ -1,4 +1,5 @@
 ---
+freq: 39
 title: bwonădăsùki (noun) - adoration, cherishing
 Word (Asaxi): bwonădăsùki
 trnsltion. En: adoration, cherishing

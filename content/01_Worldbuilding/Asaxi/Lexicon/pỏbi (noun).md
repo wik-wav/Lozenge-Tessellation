@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: pỏbi (noun) - thread (cloth-line)
 Word (Asaxi): pỏbi
 trnsltion. En: thread (cloth-line)

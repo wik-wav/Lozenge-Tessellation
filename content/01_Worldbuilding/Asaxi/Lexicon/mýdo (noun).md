@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: mýdo (noun) - soap (Pl. *mydło*)
 Word (Asaxi): mýdo
 trnsltion. En: soap (Pl. *mydło*)

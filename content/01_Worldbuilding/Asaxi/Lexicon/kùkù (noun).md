@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: kùkù (noun) - chicken, hen
 Word (Asaxi): kùkù
 trnsltion. En: chicken, hen

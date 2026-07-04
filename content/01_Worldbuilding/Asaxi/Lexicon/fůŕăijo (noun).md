@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: fůŕăijo (noun) - weakness, powerlessness
 Word (Asaxi): fůŕăijo
 trnsltion. En: weakness, powerlessness, frailty

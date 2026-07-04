@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: gùko (verb) - to tie, to bind, to knot
 Word (Asaxi): gùko
 trnsltion. En: to tie, to bind, to knot

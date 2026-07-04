@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: xawo (noun) - the heights, the space above
 Word (Asaxi): xawo
 trnsltion. En: the heights, the space above, the above

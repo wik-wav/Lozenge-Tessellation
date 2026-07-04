@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: dăchỏchỏ (noun) - sexual attraction, desire
 Word (Asaxi): dăchỏchỏ
 trnsltion. En: sexual attraction, desire, lust, arousal, excitement (libido)

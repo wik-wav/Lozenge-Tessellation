@@ -1,4 +1,5 @@
 ---
+freq: 32
 title: pŕo (noun) - torus / hoop
 Word (Asaxi): pŕo
 trnsltion. En: torus / hoop

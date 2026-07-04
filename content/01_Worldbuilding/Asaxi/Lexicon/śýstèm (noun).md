@@ -1,4 +1,5 @@
 ---
+freq: 70
 title: śýstèm (noun) - system
 Word (Asaxi): śýstèm
 trnsltion. En: system

@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: ŕoizo (noun) - spring (water-source)
 Word (Asaxi): ŕoizo
 trnsltion. En: spring (water-source)

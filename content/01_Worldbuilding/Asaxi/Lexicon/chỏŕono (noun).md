@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: chỏŕono (noun) - soup, broth
 Word (Asaxi): chỏŕono
 trnsltion. En: soup, broth

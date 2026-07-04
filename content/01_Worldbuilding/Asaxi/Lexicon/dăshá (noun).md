@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: dăshá (noun) - elephant
 Word (Asaxi): dăshá
 trnsltion. En: elephant

@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: daogo (noun) - money, currency
 Word (Asaxi): daogo
 trnsltion. En: money, currency

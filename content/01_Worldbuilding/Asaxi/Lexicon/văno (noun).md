@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: văno (noun) - harvest, crop
 Word (Asaxi): văno
 trnsltion. En: harvest, crop

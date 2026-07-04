@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: aixa (verb) - to hurt, to wound, to harm
 Word (Asaxi): aixa
 trnsltion. En: to hurt, to wound, to harm

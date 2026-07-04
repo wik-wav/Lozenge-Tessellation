@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: chỏmáka (noun) - bowl (food-vessel)
 Word (Asaxi): chỏmáka
 trnsltion. En: bowl (food-vessel)

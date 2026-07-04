@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: săaai (noun) - fever
 Word (Asaxi): săaai
 trnsltion. En: fever

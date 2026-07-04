@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: gotopo (noun) - hail (stone-rain)
 Word (Asaxi): gotopo
 trnsltion. En: hail (stone-rain)

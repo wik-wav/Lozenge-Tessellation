@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: tëŕo (noun) - pocket
 Word (Asaxi): tëŕo
 trnsltion. En: pocket

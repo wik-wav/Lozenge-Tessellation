@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: tambi (Mathematical Operator) - Equals, is equivalent to.
 Word (Asaxi): tambi
 trnsltion. En: equals

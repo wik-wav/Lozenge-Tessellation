@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: mwoka (verb) - to kill, to slay
 Word (Asaxi): mwoka
 trnsltion. En: to kill, to slay

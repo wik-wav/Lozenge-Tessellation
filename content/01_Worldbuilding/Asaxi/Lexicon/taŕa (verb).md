@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: taŕa (verb) - to listen
 Word (Asaxi): taŕa
 trnsltion. En: to listen

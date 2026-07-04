@@ -1,4 +1,5 @@
 ---
+freq: 14
 title: iŕoshů (verb) - to desaturate, to dim down
 Word (Asaxi): iŕoshů
 trnsltion. En: to desaturate, to dim down, to fade (light), to lose vibrance

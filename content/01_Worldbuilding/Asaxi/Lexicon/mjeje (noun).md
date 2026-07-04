@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: mjeje (noun) - bear (Ru. *medved*)
 Word (Asaxi): mjeje
 trnsltion. En: bear (Ru. *medved*)

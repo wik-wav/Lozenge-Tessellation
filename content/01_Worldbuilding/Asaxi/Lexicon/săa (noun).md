@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: săa (noun) - heat, warmth (energy)
 Word (Asaxi): săa
 trnsltion. En: heat, warmth (energy)

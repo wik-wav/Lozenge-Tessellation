@@ -1,4 +1,5 @@
 ---
+freq: 34
 title: dăo (noun) - aether, sky
 Word (Asaxi): dăo
 trnsltion. En: aether, sky

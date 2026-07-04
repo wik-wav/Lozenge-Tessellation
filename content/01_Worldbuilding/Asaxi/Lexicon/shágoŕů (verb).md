@@ -1,4 +1,5 @@
 ---
+freq: 35
 title: shágoŕů (verb) - to sculpt, to carve a figure
 Word (Asaxi): shágoŕů
 trnsltion. En: to sculpt, to carve a figure

@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: pỏso (noun) - moss
 Word (Asaxi): pỏso
 trnsltion. En: moss

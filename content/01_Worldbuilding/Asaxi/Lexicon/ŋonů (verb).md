@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: ŋonů (verb) - to weigh (in kilograms)
 Word (Asaxi): ŋonů
 trnsltion. En: to weigh (in kilograms)

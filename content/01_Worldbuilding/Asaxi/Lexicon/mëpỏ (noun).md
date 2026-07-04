@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: mëpỏ (noun) - mask
 Word (Asaxi): mëpỏ
 trnsltion. En: mask

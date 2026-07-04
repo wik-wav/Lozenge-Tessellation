@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: båbå (noun) - muscle
 Word (Asaxi): båbå
 trnsltion. En: muscle

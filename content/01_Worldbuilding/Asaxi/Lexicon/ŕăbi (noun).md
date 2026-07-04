@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: ŕăbi (noun) - arrow (swift-rod)
 Word (Asaxi): ŕăbi
 trnsltion. En: arrow (swift-rod)

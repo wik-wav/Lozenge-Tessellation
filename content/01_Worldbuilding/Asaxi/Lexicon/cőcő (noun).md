@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: cőcő (noun) - understanding, comprehension
 Word (Asaxi): cőcő
 trnsltion. En: understanding, comprehension, grasp, empathy

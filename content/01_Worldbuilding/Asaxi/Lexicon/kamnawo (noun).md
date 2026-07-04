@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: kamnawo (noun) - skin, hide
 Word (Asaxi): kamnawo
 trnsltion. En: skin, hide

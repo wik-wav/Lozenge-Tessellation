@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: nỏcèŕů (verb) - to write (notes), to journal
 Word (Asaxi): nỏcèŕů
 trnsltion. En: to write (notes), to journal, to record, to jot down

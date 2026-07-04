@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: fjo (noun) - concept, idea
 Word (Asaxi): fjo
 trnsltion. En: concept, idea, abstraction, non-object

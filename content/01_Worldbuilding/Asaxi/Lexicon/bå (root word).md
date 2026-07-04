@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: bå (root word) - muscle, brawn
 Word (Asaxi): bå
 trnsltion. En: 'muscle, brawn'

@@ -1,4 +1,5 @@
 ---
+freq: 26
 title: itănů (verb) - to tense up, to tighten
 Word (Asaxi): itănů
 trnsltion. En: to tense up, to tighten, to flex (stiffly), to stress, to strain

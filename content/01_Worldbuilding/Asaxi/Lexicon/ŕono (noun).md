@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: ŕono (noun) - beverage, a drink
 Word (Asaxi): ŕono
 trnsltion. En: beverage, a drink

@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: chină (adjective) - blood-red, livid, flushed
 Word (Asaxi): chină
 trnsltion. En: blood-red, livid, flushed

@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: chă (noun) - tea (Jp. *cha*)
 Word (Asaxi): chă
 trnsltion. En: tea (Jp. *cha*)

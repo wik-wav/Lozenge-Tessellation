@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: cka (noun) - shovel, spade (soil-tool)
 Word (Asaxi): cka
 trnsltion. En: shovel, spade (soil-tool)

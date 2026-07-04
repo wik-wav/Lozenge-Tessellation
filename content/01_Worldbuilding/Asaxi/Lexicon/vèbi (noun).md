@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: vèbi (noun) - stem, stalk (plant-line)
 Word (Asaxi): vèbi
 trnsltion. En: stem, stalk (plant-line)

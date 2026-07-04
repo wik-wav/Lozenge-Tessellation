@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: gamao (noun) - black
 Word (Asaxi): gamao
 trnsltion. En: black
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
   - vocab_expansion
 ---
 # gamao ([[00_Ga-noun Compounds in Asaxi (list)]])

@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: sëobi (noun) - spear (point-rod)
 Word (Asaxi): sëobi
 trnsltion. En: spear (point-rod)

@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: shěsokam (noun) - Library
 Word (Asaxi): shěsokam
 trnsltion. En: library

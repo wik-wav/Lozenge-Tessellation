@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: xinihè (noun) - dawn, sunrise
 Word (Asaxi): xinihè
 trnsltion. En: dawn, sunrise

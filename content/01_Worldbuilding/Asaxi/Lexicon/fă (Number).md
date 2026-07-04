@@ -1,4 +1,5 @@
 ---
+freq: 74
 title: fă (Number) - 3, three
 Word (Asaxi): fă, 3
 trnsltion. En: 3, three

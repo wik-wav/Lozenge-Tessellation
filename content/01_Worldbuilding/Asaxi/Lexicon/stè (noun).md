@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: stè (noun) - plain / steppe
 Word (Asaxi): stè
 trnsltion. En: plain / steppe

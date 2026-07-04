@@ -1,4 +1,5 @@
 ---
+freq: 34
 title: ŋèxů (verb) - to overshadow, occlude, eclipse
 Word (Asaxi): ŋèxů
 trnsltion. En: to overshadow, occlude, eclipse

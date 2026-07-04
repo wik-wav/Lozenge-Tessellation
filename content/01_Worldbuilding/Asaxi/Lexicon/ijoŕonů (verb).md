@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: ijoŕonů (verb) - to dream
 Word (Asaxi): ijoŕonů
 trnsltion. En: to dream

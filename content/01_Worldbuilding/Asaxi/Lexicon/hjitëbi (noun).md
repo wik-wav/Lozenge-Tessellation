@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: hjitëbi (noun) - finger
 Word (Asaxi): hjitëbi
 trnsltion. En: finger

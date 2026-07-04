@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: minů (verb) - to hear, to listen to
 Word (Asaxi): minů
 trnsltion. En: to hear

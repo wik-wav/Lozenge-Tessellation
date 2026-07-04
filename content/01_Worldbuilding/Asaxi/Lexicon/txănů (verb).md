@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: txănů (verb) - to age, to grow older
 Word (Asaxi): txănů
 trnsltion. En: to age, to grow older, to pass a year

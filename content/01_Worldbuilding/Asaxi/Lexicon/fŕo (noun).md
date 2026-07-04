@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: fŕo (noun) - map
 Word (Asaxi): fŕo
 trnsltion. En: map

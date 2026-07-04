@@ -1,4 +1,5 @@
 ---
+freq: 38
 title: xè (verb) - to toil, labour, exert oneself
 Word (Asaxi): xè
 trnsltion. En: to toil, labour, exert oneself

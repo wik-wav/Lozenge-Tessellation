@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: gapo (noun) - red (colour), redness
 Word (Asaxi): gapo
 trnsltion. En: red
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
 ---
 # gapo ([[00_Ga-noun Compounds in Asaxi (list)]])
 

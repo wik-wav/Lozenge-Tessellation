@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: ỏbỏ (noun) - cushion
 Word (Asaxi): ỏbỏ
 trnsltion. En: cushion

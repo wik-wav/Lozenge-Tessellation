@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: bao (noun) - egg
 Word (Asaxi): bao
 trnsltion. En: egg

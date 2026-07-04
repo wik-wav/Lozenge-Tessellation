@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: hùsoŕo (noun) - desert
 Word (Asaxi): hùsoŕo
 trnsltion. En: desert

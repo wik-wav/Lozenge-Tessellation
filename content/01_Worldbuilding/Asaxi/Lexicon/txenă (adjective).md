@@ -1,4 +1,5 @@
 ---
+freq: 40
 title: txenă (adjective) - translucent
 Word (Asaxi): txenă
 trnsltion. En: translucent

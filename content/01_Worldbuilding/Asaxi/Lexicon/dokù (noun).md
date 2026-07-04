@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: dokù (noun) - medicine, remedy, drug (curative)
 Word (Asaxi): dokù
 trnsltion. En: medicine, remedy, drug (curative)

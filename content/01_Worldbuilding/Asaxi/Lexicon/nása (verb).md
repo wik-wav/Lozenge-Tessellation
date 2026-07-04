@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: nása (verb) - to refuse, to deny
 Word (Asaxi): nása
 trnsltion. En: to refuse, to deny

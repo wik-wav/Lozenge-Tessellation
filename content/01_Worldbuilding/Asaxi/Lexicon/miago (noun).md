@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: miago (noun) - sugar (honey-grain)
 Word (Asaxi): miago
 trnsltion. En: sugar (honey-grain)

@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: vipỏ (noun) - cotton (plant-fluff)
 Word (Asaxi): vipỏ
 trnsltion. En: cotton (plant-fluff)

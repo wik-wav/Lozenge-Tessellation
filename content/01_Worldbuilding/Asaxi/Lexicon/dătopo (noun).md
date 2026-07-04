@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: dătopo (noun) - storm, downpour
 Word (Asaxi): dătopo
 trnsltion. En: storm, downpour

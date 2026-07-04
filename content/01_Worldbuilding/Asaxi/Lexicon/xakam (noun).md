@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: xakam (noun) - roof
 Word (Asaxi): xakam
 trnsltion. En: roof

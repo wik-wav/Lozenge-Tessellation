@@ -1,4 +1,5 @@
 ---
+freq: 40
 title: kŕopù (verb) - to kneel
 Word (Asaxi): kŕopù
 trnsltion. En: to kneel

@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: xăja (verb) - to warn, to alert
 Word (Asaxi): xăja
 trnsltion. En: to warn, to alert

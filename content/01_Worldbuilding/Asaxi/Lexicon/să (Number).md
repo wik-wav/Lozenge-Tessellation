@@ -1,4 +1,5 @@
 ---
+freq: 75
 title: să (Number) - 1, one
 Word (Asaxi): să, 1
 trnsltion. En: 1, one

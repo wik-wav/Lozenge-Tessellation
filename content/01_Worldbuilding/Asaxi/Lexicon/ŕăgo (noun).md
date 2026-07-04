@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: ŕăgo (noun) - volcano (fire-rock)
 Word (Asaxi): ŕăgo
 trnsltion. En: volcano (fire-rock)

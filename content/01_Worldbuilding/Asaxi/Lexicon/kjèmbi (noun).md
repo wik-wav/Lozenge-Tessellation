@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: kjèmbi (noun) - playing card
 Word (Asaxi): kjèmbi
 trnsltion. En: playing card, card

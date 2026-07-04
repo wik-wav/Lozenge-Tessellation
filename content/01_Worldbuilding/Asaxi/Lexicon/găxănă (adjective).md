@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: găxănă (adjective) - infinite, endless
 Word (Asaxi): găxănă
 trnsltion. En: infinite, endless, boundless

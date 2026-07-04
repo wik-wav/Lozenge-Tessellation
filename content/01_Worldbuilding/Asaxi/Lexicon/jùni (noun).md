@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: jùni (noun) - university, college
 Word (Asaxi): jùni
 trnsltion. En: university, college, uni, academy

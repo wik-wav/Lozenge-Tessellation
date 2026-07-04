@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: tákshù (verb) - to lose, to be defeated
 Word (Asaxi): tákshù
 trnsltion. En: to lose, to be defeated

@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: mmråshá (noun) - cat, feline
 Word (Asaxi): mmråshá
 trnsltion. En: cat, feline

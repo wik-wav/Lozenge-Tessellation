@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: mwo (noun) - meat, flesh (as food)
 Word (Asaxi): mwo
 trnsltion. En: meat, flesh (as food)

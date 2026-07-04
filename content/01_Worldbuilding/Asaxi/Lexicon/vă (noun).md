@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: vă (noun) - plant, flora, vegetation
 Word (Asaxi): vă
 trnsltion. En: plant, flora, vegetation, greenery

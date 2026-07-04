@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: såŕåshá (noun) - singer
 Word (Asaxi): såŕåshá
 trnsltion. En: singer

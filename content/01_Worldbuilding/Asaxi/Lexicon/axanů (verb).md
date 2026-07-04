@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: axanů (verb) - to laugh, to be laughing
 Word (Asaxi): axanů
 trnsltion. En: to laugh, to be laughing

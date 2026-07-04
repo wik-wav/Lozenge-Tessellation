@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: shosaŕo (noun) - river
 Word (Asaxi): shosaŕo
 trnsltion. En: river

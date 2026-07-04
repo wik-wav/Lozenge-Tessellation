@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: iŕonă (adjective) - colorful, multi-coloured
 Word (Asaxi): iŕonă
 trnsltion. En: colorful, multi-coloured, chromatic, vibrant

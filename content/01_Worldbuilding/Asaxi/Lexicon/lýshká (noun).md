@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: lýshká (noun) - spoon (Ru. *lozhka*)
 Word (Asaxi): lýshká
 trnsltion. En: spoon (Ru. *lozhka*)

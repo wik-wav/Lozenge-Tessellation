@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: cèxo (verb) - to wonder, to ponder
 Word (Asaxi): cèxo
 trnsltion. En: to wonder, to ponder

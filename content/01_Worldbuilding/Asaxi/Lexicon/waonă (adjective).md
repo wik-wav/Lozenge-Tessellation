@@ -1,4 +1,5 @@
 ---
+freq: 36
 title: waonă (adjective) - homely, familiar
 Word (Asaxi): waonă
 trnsltion. En: homely, familiar, cozy, worldly (in a belonging sense)

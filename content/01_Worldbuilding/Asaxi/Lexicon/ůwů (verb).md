@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: ůwů (verb) - to act like, to seem
 Word (Asaxi): ůwů
 trnsltion. En: to act like

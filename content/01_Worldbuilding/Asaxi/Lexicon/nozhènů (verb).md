@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: nozhènů (verb) - to knife, to cut with a blade
 Word (Asaxi): nozhènů
 trnsltion. En: to knife, to cut with a blade

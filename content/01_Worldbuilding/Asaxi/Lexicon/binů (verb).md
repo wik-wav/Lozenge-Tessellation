@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: binů (verb) - to align, to straighten
 Word (Asaxi): binů
 trnsltion. En: to align, to straighten, to queue, to line up

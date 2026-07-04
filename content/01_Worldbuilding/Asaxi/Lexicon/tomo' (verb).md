@@ -1,4 +1,5 @@
 ---
+freq: 69
 title: tomo' (verb) - stop, cease
 Word (Asaxi): tomo'
 trnsltion. En: stop, cease, end, quit

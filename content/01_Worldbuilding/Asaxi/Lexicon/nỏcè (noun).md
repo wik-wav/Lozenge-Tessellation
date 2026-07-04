@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: nỏcè (noun) - note, memo
 Word (Asaxi): nỏcè
 trnsltion. En: note, memo, entry, record, reminder

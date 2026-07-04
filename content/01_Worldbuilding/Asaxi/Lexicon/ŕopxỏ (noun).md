@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: ŕopxỏ (noun) - bubble / foam
 Word (Asaxi): ŕopxỏ
 trnsltion. En: bubble / foam

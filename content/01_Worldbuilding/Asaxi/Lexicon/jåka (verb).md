@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: jåka (verb) - to intend, to mean to
 Word (Asaxi): jåka
 trnsltion. En: to intend, to mean to

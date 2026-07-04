@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: aśù (verb) - walk on foot, ambulate
 Word (Asaxi): aśù
 trnsltion. En: walk on foot, ambulate

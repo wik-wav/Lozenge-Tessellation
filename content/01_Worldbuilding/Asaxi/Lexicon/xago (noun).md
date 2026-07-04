@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: xago (noun) - peak / summit
 Word (Asaxi): xago
 trnsltion. En: peak / summit

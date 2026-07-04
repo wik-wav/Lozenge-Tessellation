@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: shákam (noun) - barn, stable (beast-structure)
 Word (Asaxi): shákam
 trnsltion. En: barn, stable (beast-structure)

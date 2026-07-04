@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: cùkonů (verb) - to build, to construct (in brick)
 Word (Asaxi): cùkonů
 trnsltion. En: to build, to construct (in brick)

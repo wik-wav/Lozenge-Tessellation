@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: vigavină (adjective) - healthy, hale
 Word (Asaxi): vigavină
 trnsltion. En: healthy, hale
@@ -52,6 +53,3 @@ Null
 
 ### Antonyms
 - [[jaminýj (adjective)|jamină]] (sick)
-
-### Derived terms
-- **vigavinýj** (cold-class equivalent) *(potential)*

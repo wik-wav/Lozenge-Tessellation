@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: fùcù (verb) - to clean, wash, cleanse
 Word (Asaxi): fùcù
 trnsltion. En: to clean, wash, cleanse

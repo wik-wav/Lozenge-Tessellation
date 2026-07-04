@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: rogo (noun) - steel (hard-iron)
 Word (Asaxi): rogo
 trnsltion. En: steel (hard-iron)

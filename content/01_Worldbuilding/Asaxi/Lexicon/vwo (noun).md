@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: vwo (noun) - today
 Word (Asaxi): vwo
 trnsltion. En: today

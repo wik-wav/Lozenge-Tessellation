@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: zèvonýj (adjective) - esteemed, worthy of a name
 Word (Asaxi): zèvonýj
 trnsltion. En: esteemed, worthy of a name, highly praised, reputable, titled, famous

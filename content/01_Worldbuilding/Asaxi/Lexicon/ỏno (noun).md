@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: ỏno (noun) - diameter, width
 Word (Asaxi): ỏno
 trnsltion. En: diameter, width, thickness, girth

@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: tăxo (verb) - to choose, to pick
 Word (Asaxi): tăxo
 trnsltion. En: to choose, to pick

@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: maka (noun) - container, vessel
 Word (Asaxi): maka
 trnsltion. En: container, vessel

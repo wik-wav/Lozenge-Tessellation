@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: ŋoŋo (noun) - snail
 Word (Asaxi): ŋoŋo
 trnsltion. En: snail

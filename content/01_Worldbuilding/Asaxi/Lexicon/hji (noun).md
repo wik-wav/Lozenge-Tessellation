@@ -1,4 +1,5 @@
 ---
+freq: 29
 title: hji (noun) - introversion, shyness
 Word (Asaxi): hji
 trnsltion. En: introversion, shyness, quietness, withdrawal, slightness

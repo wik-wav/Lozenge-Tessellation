@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: fnè (noun) - boat
 Word (Asaxi): fnè
 trnsltion. En: boat

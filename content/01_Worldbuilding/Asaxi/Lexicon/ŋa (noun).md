@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: ŋa (noun) - mushroom, fungus
 Word (Asaxi): ŋa
 trnsltion. En: mushroom, fungus

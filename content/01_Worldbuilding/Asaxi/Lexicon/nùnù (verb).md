@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: nùnù (verb) - to sleep, to slumber
 Word (Asaxi): nùnù
 trnsltion. En: to sleep, to slumber

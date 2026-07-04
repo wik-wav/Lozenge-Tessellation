@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: vako (noun) - maize, corn
 Word (Asaxi): vako
 trnsltion. En: maize, corn

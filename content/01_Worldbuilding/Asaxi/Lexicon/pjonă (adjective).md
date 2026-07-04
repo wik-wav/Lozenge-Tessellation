@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: pjonă (adjective) - bright, luminous, radiant
 Word (Asaxi): pjonă
 trnsltion. En: bright, luminous, radiant, shining, intense (visually)

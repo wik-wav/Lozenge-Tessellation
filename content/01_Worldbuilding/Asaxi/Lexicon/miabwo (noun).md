@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: miabwo (noun) - wax (honey-fat)
 Word (Asaxi): miabwo
 trnsltion. En: wax (honey-fat)

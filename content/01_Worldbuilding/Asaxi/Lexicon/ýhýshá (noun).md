@@ -1,4 +1,5 @@
 ---
+freq: 54
 Word (Asaxi): ýhýshá
 trnsltion. En: mouse, rodent, prey animal
 trnsltion. Pl: mysz

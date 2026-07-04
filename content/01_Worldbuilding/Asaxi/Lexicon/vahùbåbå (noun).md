@@ -1,4 +1,5 @@
 ---
+freq: 18
 title: vahùbåbå (noun) - rhomboids
 Word (Asaxi): vahùbåbå
 trnsltion. En: rhomboids

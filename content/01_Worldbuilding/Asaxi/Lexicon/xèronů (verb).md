@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: xèronů (verb) - to weight-train, to bulk
 Word (Asaxi): xèronů
 trnsltion. En: to weight-train, to bulk, to lift weights (for mass)

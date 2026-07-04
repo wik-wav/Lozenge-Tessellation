@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: mëfo (noun) - forehead
 Word (Asaxi): mëfo
 trnsltion. En: forehead

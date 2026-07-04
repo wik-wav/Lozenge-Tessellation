@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: hjáhjá (noun) - baby, infant
 Word (Asaxi): hjáhjá
 trnsltion. En: baby, infant

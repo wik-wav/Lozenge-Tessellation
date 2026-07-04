@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: paka (verb) - to hit, to strike
 Word (Asaxi): paka
 trnsltion. En: to hit, to strike

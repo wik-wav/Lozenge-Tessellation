@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: rogi (noun) - bronze
 Word (Asaxi): rogi
 trnsltion. En: bronze

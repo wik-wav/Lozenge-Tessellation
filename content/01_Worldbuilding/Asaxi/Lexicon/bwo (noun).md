@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: bwo (noun) - fat (adipose tissue), blubber
 Word (Asaxi): bwo
 trnsltion. En: fat (adipose tissue), blubber

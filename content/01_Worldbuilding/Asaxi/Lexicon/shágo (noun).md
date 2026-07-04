@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: shágo (noun) - statue (creature-stone)
 Word (Asaxi): shágo
 trnsltion. En: statue (creature-stone)

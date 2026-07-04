@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: gao (noun) - azure, blue (colour)
 Word (Asaxi): gao
 trnsltion. En: azure, blue (noun)
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
 ---
 # gao ([[00_Ga-noun Compounds in Asaxi (list)]])
 

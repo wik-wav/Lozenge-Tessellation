@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: kő (noun) - understanding
 Word (Asaxi): kő
 trnsltion. En: understanding

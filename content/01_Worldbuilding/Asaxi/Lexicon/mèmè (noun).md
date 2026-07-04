@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: mèmè (noun) - goat
 Word (Asaxi): mèmè
 trnsltion. En: goat

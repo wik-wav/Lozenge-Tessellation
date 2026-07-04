@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: těmpỏ (noun) - hat
 Word (Asaxi): těmpỏ
 trnsltion. En: hat

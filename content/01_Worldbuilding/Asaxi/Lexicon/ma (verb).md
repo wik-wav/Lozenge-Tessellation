@@ -1,4 +1,5 @@
 ---
+freq: 84
 title: ma (verb) - to have
 Word (Asaxi): ma
 trnsltion. En: to have

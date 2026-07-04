@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: tapù (verb) - to take, to grab
 Word (Asaxi): tapù
 trnsltion. En: to take, to grab

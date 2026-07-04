@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: tată (noun) - mat (Jp. *tatami*)
 Word (Asaxi): tată
 trnsltion. En: mat (Jp. *tatami*)

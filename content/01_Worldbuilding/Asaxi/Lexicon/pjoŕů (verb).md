@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: pjoŕů (verb) - to shine, to beam
 Word (Asaxi): pjoŕů
 trnsltion. En: to shine, to beam, to emanate light, to radiate

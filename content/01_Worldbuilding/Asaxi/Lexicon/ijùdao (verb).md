@@ -1,4 +1,5 @@
 ---
+freq: 69
 title: ijùdao (verb) - to tell (say-give)
 Word (Asaxi): ijùdao
 trnsltion. En: to tell (say-give)

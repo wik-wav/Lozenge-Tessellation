@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: gabwo (noun) - fatness, obesity
 Word (Asaxi): gabwo
 trnsltion. En: fatness, obesity, fatty (constitution)
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-literal
 ---
 # gabwo ([[00_Ga-noun Compounds in Asaxi (list)|00_Ga-noun Compounds in Asaxi (list)]])
 

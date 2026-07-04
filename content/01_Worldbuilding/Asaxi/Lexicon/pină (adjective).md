@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: pină (adjective) - rosy, dainty-pink, blushing
 Word (Asaxi): pină
 trnsltion. En: rosy, dainty-pink, blushing

@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: zèvo (noun) - name
 Word (Asaxi): zèvo
 trnsltion. En: name

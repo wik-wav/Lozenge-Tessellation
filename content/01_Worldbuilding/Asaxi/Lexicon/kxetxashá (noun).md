@@ -1,4 +1,5 @@
 ---
+freq: 30
 title: kxetxashá (noun) - shapeshifter, polymorph
 Word (Asaxi): kxetxashá
 trnsltion. En: shapeshifter, polymorph, changeling

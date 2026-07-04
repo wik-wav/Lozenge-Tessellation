@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: pùko (noun) - hip
 Word (Asaxi): pùko
 trnsltion. En: hip

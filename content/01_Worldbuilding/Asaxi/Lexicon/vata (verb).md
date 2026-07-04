@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: vata (verb) - to fill
 Word (Asaxi): vata
 trnsltion. En: to fill

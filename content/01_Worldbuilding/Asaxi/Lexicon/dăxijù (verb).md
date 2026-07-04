@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: dăxijù (verb) - to pray, to invoke
 Word (Asaxi): dăxijù
 trnsltion. En: to pray, to invoke

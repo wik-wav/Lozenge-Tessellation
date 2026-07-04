@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: ozètètá (noun) - mistake, error
 Word (Asaxi): ozètètá
 trnsltion. En: mistake, error

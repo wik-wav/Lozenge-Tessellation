@@ -1,4 +1,5 @@
 ---
+freq: 43
 title: kŕepù (verb) - to stumble, to trip
 Word (Asaxi): kŕepù
 trnsltion. En: to stumble, to trip

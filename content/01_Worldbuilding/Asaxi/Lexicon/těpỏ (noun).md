@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: těpỏ (noun) - hair
 Word (Asaxi): těpỏ
 trnsltion. En: hair

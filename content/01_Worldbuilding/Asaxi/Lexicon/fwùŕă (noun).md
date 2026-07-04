@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: fwùŕă (noun) - tornado (wind-spin)
 Word (Asaxi): fwùŕă
 trnsltion. En: tornado (wind-spin)

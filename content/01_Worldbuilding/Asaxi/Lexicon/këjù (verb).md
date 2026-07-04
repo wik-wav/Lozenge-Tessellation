@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: këjù (verb) - to ask
 Word (Asaxi): këjù
 trnsltion. En: to ask

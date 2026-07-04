@@ -1,4 +1,5 @@
 ---
+freq: 38
 title: xăpù (verb) - to yawn
 Word (Asaxi): xăpù
 trnsltion. En: to yawn

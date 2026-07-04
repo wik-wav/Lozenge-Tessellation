@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: fůŕăijonă (adjective) - weak, feeble
 Word (Asaxi): fůŕăijonă
 trnsltion. En: weak, feeble

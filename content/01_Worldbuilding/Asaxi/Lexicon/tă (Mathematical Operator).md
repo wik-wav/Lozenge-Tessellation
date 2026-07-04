@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: tă (Mathematical Operator) - Plus, add
 Word (Asaxi): tă
 trnsltion. En: Plus

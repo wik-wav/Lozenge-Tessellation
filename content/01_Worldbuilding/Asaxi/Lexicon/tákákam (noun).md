@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: tákákam (noun) - castle (war-structure)
 Word (Asaxi): tákákam
 trnsltion. En: castle (war-structure)

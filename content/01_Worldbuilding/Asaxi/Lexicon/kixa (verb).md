@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: kixa (verb) - to pull, to draw
 Word (Asaxi): kixa
 trnsltion. En: to pull, to draw

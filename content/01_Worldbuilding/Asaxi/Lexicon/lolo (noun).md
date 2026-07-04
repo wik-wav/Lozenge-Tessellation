@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: lolo (noun) - wave
 Word (Asaxi): lolo
 trnsltion. En: wave

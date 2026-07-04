@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: gadă (noun) - immensity
 Word (Asaxi): gadă
 trnsltion. En: immensity (noun)
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
 ---
 # gadă ([[00_Ga-noun Compounds in Asaxi (list)]])
 

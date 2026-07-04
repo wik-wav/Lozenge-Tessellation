@@ -1,4 +1,5 @@
 ---
+freq: 28
 title: sháŕo (noun) - waterhole
 Word (Asaxi): sháŕo
 trnsltion. En: waterhole, watering hole, pool, tarn

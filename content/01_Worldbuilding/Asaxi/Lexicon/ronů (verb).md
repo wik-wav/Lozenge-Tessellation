@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: ronů (verb) - to lift weights
 Word (Asaxi): ronů
 trnsltion. En: to lift weights

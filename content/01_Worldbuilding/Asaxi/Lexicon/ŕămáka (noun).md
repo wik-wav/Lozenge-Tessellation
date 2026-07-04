@@ -1,4 +1,5 @@
 ---
+freq: 39
 title: ŕămáka (noun) - hearth, stove (fire-vessel)
 Word (Asaxi): ŕămáka
 trnsltion. En: hearth, stove (fire-vessel)

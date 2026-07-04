@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: gùŕo (noun) - rope, cord
 Word (Asaxi): gùŕo
 trnsltion. En: rope, cord

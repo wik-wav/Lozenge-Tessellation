@@ -1,4 +1,5 @@
 ---
+freq: 68
 title: kamshá (noun) - body
 Word (Asaxi): kamshá
 trnsltion. En: body

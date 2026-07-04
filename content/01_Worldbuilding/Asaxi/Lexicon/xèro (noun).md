@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: xèro (noun) - weights, dumbbell
 Word (Asaxi): xèro
 trnsltion. En: weights (dumbells)

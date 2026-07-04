@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: ŕopù (verb) - to pour
 Word (Asaxi): ŕopù
 trnsltion. En: to pour

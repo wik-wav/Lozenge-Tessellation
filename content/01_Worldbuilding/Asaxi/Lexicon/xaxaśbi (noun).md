@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: xaxaśbi (noun) - thigh, upper leg
 Word (Asaxi): xaxaśbi
 trnsltion. En: thigh

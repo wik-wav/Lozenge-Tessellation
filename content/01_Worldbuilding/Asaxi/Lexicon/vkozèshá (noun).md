@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: vkozèshá (noun) - elder, grandparent, person of the old days
 Word (Asaxi): vkozèshá
 trnsltion. En: elder, grandparent, person of the old days

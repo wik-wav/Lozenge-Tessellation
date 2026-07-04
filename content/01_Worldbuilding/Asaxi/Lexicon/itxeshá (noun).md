@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: itxeshá (noun) - butterfly
 Word (Asaxi): itxeshá
 trnsltion. En: butterfly

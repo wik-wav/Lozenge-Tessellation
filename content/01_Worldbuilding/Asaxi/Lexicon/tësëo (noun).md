@@ -1,4 +1,5 @@
 ---
+freq: 40
 title: tësëo (noun) - fingernail
 Word (Asaxi): tësëo
 trnsltion. En: fingernail

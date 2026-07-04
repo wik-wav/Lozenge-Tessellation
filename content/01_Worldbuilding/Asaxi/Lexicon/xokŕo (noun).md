@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: xokŕo (noun) - ladder (climb-frame)
 Word (Asaxi): xokŕo
 trnsltion. En: ladder (climb-frame)

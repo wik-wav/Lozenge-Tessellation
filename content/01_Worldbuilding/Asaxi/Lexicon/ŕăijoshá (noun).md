@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: ŕăijoshá (noun) - lion
 Word (Asaxi): ŕăijoshá
 trnsltion. En: lion

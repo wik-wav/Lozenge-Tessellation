@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: aśpỏno (noun) - shoe
 Word (Asaxi): aśpỏno
 trnsltion. En: shoe

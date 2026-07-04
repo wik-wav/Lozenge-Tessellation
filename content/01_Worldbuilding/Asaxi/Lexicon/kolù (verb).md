@@ -1,4 +1,5 @@
 ---
+freq: 43
 title: kolù (verb) - to limp
 Word (Asaxi): kolù
 trnsltion. En: to limp

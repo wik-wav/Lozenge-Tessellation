@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: vănýj (adjective) - slow, sluggish
 Word (Asaxi): vănýj
 trnsltion. En: slow, sluggish, gradual, unhurried

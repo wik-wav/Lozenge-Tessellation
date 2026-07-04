@@ -1,20 +1,74 @@
-
-- [[ihjonýj (adjective)]] - bony, thin, skeletal
-- [[vènonă (adjective)]] - chestnut, warm-brown, woody
-- [[kŕùnýj (adjective)]] - rusty, oxide-red, dull cold-red
-- [[mùśonýj (adjective)]] - mouldy, dank-green, mildewed
-- [[poponýj (adjective)]] - ashen-pink, pale shell-pink, wan-rose
-- [[pomonă (adjective)]] - dove-grey, soft warm-grey
-- [[ŕagonă (adjective)]] - charcoal-dark, rich warm-black, smouldering-dark
-- [[hùsonýj (adjective)]] - pale yellow, wan, sallow
-- [[sxëbonýj (adjective)]] - sharp, keen, cutting
-- [[miană (adjective)]] - sweet
-
-- [[zhýnýj (adjective)]] - cold, chilly
-
+- [[alănă (adjective)]] - loose, relaxed, carefree, slack, baggy
+- [[axană (adjective)]] - approachable, friendly, cheerful, jolly, good-natured
+- [[båbånă (adjective)]] - muscular, hunky, hulking, gymbro-like, rugged, rough
+- [[bwonă (adjective)]] - curvy (fat), beautiful, voluptuous, healthy-looking
+- [[chină (adjective)]] - blood-red, livid, flushed
+- [[cùnýj (adjective)]] - earthy, drab-brown, dun
+- [[dănă (adjective)]] - big, huge
+- [[exenýj (adjective)]] - weepy, wailing, tearful, tragic, sorrowful, lugubrious
 - [[fjonýj (adjective)]] - abstract, conceptual, concept-like
+- [[fkamnýj (adjective)]] - domesticated, dependent, reliant, not self-sufficient, tame
 - [[frënă (adjective)]] - free, at liberty
-- [[fůsëonă (adjective)]] - non-essential, trivial, inessential
+- [[fůăvină (adjective)]] - incorrect, wrong, messed up, horribly, wrongly
 - [[fůŕăijonă (adjective)]] - weak, feeble
+- [[fůsëonă (adjective)]] - non-essential, trivial, inessential
+- [[fůzùnýj (adjective)]] - unskilled
+- [[gadăchỏnă (adjective)]] - ravenous, insatiable, ravenously, hungrily
+- [[gavină (adjective)]] - good, virtuous, well, skillfully
+- [[găxănă (adjective)]] - infinite, endless, boundless
+- [[gonýj (adjective)]] - big, huge, rock-like
+- [[hjihjină (adjective)]] - thin and cute, petite, kawaii, slender (aesthetic)
+- [[hjină (adjective)]] - shy, introverted, private, boundary-respecting
+- [[hjinýj (adjective)]] - small, little, tiny, minute, compact
+- [[hjonă (adjective)]] - bright, shiny, interesting
+- [[hùsonýj (adjective)]] - pale yellow, wan, sallow, washed-out
+- [[ihjonýj (adjective)]] - bony, thin, skeletal
+- [[iŕonă (adjective)]] - colorful, multi-coloured, chromatic, vibrant
+- [[ispănýj (adjective)]] - wild, untamed, intense, raw, feral (positive)
+- [[itănýj (adjective)]] - tensed up, taut, tight, anxious, stressed, stiff
+- [[jaminýj (adjective)]] - sick, ailing, ill
+- [[jovină (adjective)]] - beautiful
+- [[jýnă (adjective)]] - talkative
+- [[kŕùnýj (adjective)]] - rusty, oxide-red, dull cold-red
+- [[miană (adjective)]] - sweet
+- [[mmbănă (adjective)]] - happy, joyful, giddy, excited, delighted, cheerful
+- [[mùśonýj (adjective)]] - mouldy, dank-green, mildewed
+- [[năbwonădăsùkină (adjective)]] - most beloved, dearest
+- [[ŋènýj (adjective)]] - shadowy, dark, grim, gloomy
+- [[nonýj (adjective)]] - material, object-like, physical, tangible
+- [[pină (adjective)]] - rosy, dainty-pink, blushing
+- [[pjonă (adjective)]] - bright, luminous, radiant, shining, intense (visually)
+- [[pjovină (adjective)]] - direct, straight, focused, unwavering
+- [[pomonă (adjective)]] - dove-grey, soft warm-grey
+- [[poponýj (adjective)]] - ashen-pink, pale shell-pink, wan-rose
+- [[pxỏnýj (adjective)]] - round, spherical, ball-shaped
+- [[pxỏpxỏnă (adjective)]] - fragile, delicate, pop-able, taut, squeaky, smooth, bulging (like an inflated balloon)
 - [[pxůmănýj (adjective)]] - disagreeable, all-denying
+- [[ŕăană (adjective)]] - hot, fiery, burning
+- [[ŕagonă (adjective)]] - charcoal-dark, rich warm-black, smouldering-dark
+- [[ŕăijonă (adjective)]] - strong, powerful
+- [[ŕănă (adjective)]] - fiery, red-hot, fervid
+- [[ŕănabină (adjective)]] - fast
+- [[ŕănabinýj (adjective)]] - fast, rapid, high-velocity, speedy
+- [[shánă (adjective)]] - wise, fallible
+- [[sháŕonă (adjective)]] - safe, secure, life-sustaining
+- [[shásnýj (adjective)]] - lonely, stuck, trapped, isolated, captive (feeling)
+- [[shěsonýj (adjective)]] - knowledgeable, well-versed, booksmart
+- [[sonýj (adjective)]] - smoky, hazy-grey, murky
+- [[sùkină (adjective)]] - beloved, dear, loved, favorite
+- [[sxëbonýj (adjective)]] - sharp, keen, cutting
 - [[tètánă (adjective)]] - painful, hurtful
+- [[txenă (adjective)]] - translucent
+- [[vănýj (adjective)]] - slow, sluggish, gradual, unhurried
+- [[vènă (adjective)]] - verdant, leafy-green, lush
+- [[vènonă (adjective)]] - chestnut, warm-brown, woody
+- [[vigavină (adjective)]] - healthy, hale
+- [[vimănýj (adjective)]] - agreeable, acceptable, pleasant (compliant)
+- [[vină (adjective)]] - okay, alright, fine
+- [[waonă (adjective)]] - homely, familiar, cozy, worldly (in a belonging sense)
+- [[xaŋobwonă (adjective)]] - morbidly obese, dangerously fat, grotesque
+- [[xină (adjective)]] - sunny, golden, radiant
+- [[ýhýnă (adjective)]] - mouse-like, tiny (cute/fragile), jittery, timid, quietly (timidly), cowardly, nervously, inconspicuously
+- [[zèvonýj (adjective)]] - esteemed, worthy of a name, highly praised, reputable, titled, famous
+- [[zhýnýj (adjective)]] - cold, chilly, frigid
+- [[zùnýj (adjective)]] - skilled, skillful, proficient, adept, good (at something)

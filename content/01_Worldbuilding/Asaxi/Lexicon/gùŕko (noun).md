@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: gùŕko (noun) - knot (rope-tie)
 Word (Asaxi): gùŕko
 trnsltion. En: knot (rope-tie)

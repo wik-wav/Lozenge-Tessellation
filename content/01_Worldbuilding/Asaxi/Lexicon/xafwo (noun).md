@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: xafwo (noun) - atmosphere, sky-layer
 Word (Asaxi): xafwo
 trnsltion. En: atmosphere

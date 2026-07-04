@@ -1,4 +1,5 @@
 ---
+freq: 30
 title: sxëbo (noun) - sharp claw, wicked claw
 Word (Asaxi): sxëbo
 trnsltion. En: sharp claw, wicked claw, beastly nail, dangerous talon

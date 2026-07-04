@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: gavină xogă (Idiom) - Welcome (lit. well arrived)
 Word (Asaxi): gavină xogă
 trnsltion. En: Welcome (lit. well arrived)

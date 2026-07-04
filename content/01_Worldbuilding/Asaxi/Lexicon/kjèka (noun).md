@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: kjèka (noun) - saw (wood-tool)
 Word (Asaxi): kjèka
 trnsltion. En: saw (wood-tool)

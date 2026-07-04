@@ -1,4 +1,5 @@
 ---
+freq: 14
 title: găŕo (noun) - colorfulness, polychromy
 Word (Asaxi): găŕo
 trnsltion. En: colorfulness, polychromy, having many colours

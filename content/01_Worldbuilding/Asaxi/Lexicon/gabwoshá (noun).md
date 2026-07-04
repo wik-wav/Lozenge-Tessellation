@@ -8,6 +8,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-literal
 ---
 # gabwoshá ([[00_Ga-noun Compounds in Asaxi (list)|00_Ga-noun Compounds in Asaxi (list)]])
 

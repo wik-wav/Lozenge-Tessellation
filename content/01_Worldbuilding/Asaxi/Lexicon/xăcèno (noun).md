@@ -1,4 +1,5 @@
 ---
+freq: 68
 title: xăcèno (noun) - truth, fact
 Word (Asaxi): xăcèno
 trnsltion. En: truth, fact

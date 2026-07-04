@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: siŕoshá (noun) - stranger (unknown-person)
 Word (Asaxi): siŕoshá
 trnsltion. En: stranger (unknown-person)

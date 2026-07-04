@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: bỏbå (noun) - father
 Word (Asaxi): bỏbå
 trnsltion. En: father

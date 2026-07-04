@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: chi (noun) - blood
 Word (Asaxi): chi
 trnsltion. En: blood

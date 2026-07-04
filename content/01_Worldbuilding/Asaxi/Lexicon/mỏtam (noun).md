@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: mỏtam (noun) - wife
 Word (Asaxi): mỏtam
 trnsltion. En: wife

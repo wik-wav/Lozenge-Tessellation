@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: nokam (noun) - storehouse, warehouse
 Word (Asaxi): nokam
 trnsltion. En: storehouse, warehouse, place of things

@@ -1,4 +1,5 @@
 ---
+freq: 38
 title: vexe (verb) - to shiver
 Word (Asaxi): vexe
 trnsltion. En: to shiver

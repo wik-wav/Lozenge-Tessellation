@@ -1,4 +1,5 @@
 ---
+freq: 69
 title: mao (noun) - (disambiguation)
 Word (Asaxi): mao
 trnsltion. En: night-time; moon (see senses)

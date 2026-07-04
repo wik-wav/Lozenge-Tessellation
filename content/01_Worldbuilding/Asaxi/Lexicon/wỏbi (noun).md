@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: wỏbi (noun) - pipe, tube (cylinder-line)
 Word (Asaxi): wỏbi
 trnsltion. En: pipe, tube (cylinder-line)

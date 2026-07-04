@@ -1,4 +1,5 @@
 ---
+freq: 15
 title: fno (noun) - eye floater, vitreous opacity
 Word (Asaxi): fno
 trnsltion. En: eye floater, vitreous opacity, drifting speck, visual debris

@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: gavi (noun) - green (colour), goodness, positivity, virtue
 Word (Asaxi): gavi
 trnsltion. En: green, goodness, positivity, virtue
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
 ---
 # gavi ([[00_Ga-noun Compounds in Asaxi (list)]])
 

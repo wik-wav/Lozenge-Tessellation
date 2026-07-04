@@ -1,4 +1,5 @@
 ---
+freq: 39
 title: jëvè (noun) - sprout / bud
 Word (Asaxi): jëvè
 trnsltion. En: sprout / bud

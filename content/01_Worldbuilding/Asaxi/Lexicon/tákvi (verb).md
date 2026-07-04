@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: tákvi (verb) - to win, to triumph
 Word (Asaxi): tákvi
 trnsltion. En: to win, to triumph

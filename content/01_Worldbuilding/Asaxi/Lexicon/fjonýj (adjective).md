@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: fjonýj (adjective) - abstract, conceptual, concept-like
 Word (Asaxi): fjonýj
 trnsltion. En: abstract, conceptual, concept-like

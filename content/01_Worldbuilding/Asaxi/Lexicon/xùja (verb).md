@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: xùja (verb) - to command, to order
 Word (Asaxi): xùja
 trnsltion. En: to command, to order

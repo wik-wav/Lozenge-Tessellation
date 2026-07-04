@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: jalăshá (noun) - bird, avian
 Word (Asaxi): jalăshá
 trnsltion. En: bird, avian

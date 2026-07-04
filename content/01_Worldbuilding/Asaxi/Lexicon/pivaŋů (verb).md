@@ -1,4 +1,5 @@
 ---
+freq: 36
 title: pivaŋů (verb) - to be fragrant, to smell sweet
 Word (Asaxi): pivaŋů
 trnsltion. En: to be fragrant, to smell sweet

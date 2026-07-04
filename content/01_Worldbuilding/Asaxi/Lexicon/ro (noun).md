@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: ro (noun) - iron (metal)
 Word (Asaxi): ro
 trnsltion. En: iron (metal)

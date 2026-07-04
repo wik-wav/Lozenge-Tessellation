@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: dokùshá (noun) - doctor (general)
 Word (Asaxi): dokùshá
 trnsltion. En: doctor (general)

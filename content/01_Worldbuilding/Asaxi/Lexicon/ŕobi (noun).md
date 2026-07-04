@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: ŕobi (noun) - wire (metal-line)
 Word (Asaxi): ŕobi
 trnsltion. En: wire (metal-line)

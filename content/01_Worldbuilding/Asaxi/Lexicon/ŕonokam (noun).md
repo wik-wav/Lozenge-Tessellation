@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: ŕonokam (noun) - inn, tavern (drink-structure)
 Word (Asaxi): ŕonokam
 trnsltion. En: inn, tavern (drink-structure)

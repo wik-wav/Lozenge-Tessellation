@@ -1,4 +1,5 @@
 ---
+freq: 38
 title: cùnýj (adjective) - earthy, drab-brown, dun
 Word (Asaxi): cùnýj
 trnsltion. En: earthy, drab-brown, dun

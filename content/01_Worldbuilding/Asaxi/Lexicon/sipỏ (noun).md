@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: sipỏ (noun) - silk (fine fibre)
 Word (Asaxi): sipỏ
 trnsltion. En: silk (fine fibre)

@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: ŕobo (noun) - bottle (liquid-holder)
 Word (Asaxi): ŕobo
 trnsltion. En: bottle (liquid-holder)

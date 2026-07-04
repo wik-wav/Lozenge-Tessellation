@@ -1,4 +1,5 @@
 ---
+freq: 24
 title: pjonů (verb) - to light up, to illuminate
 Word (Asaxi): pjonů
 trnsltion. En: to light up, to illuminate, to turn on (a light), to brighten

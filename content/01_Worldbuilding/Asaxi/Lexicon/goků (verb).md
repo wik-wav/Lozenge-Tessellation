@@ -1,4 +1,5 @@
 ---
+freq: 21
 title: goků (verb) - to petrify, to turn to stone
 Word (Asaxi): goků
 trnsltion. En: to petrify, to turn to stone

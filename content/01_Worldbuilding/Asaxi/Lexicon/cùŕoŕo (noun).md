@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: cùŕoŕo (noun) - mud
 Word (Asaxi): cùŕoŕo
 trnsltion. En: mud

@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: shásnýj (adjective) - lonely, stuck
 Word (Asaxi): shásnýj
 trnsltion. En: lonely, stuck, trapped, isolated, captive (feeling)

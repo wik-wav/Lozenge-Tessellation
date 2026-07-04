@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: vanawo (noun) - ceiling (inside-top)
 Word (Asaxi): vanawo
 trnsltion. En: ceiling (inside-top)

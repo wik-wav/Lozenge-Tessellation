@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: fnonů (verb) - to move (perpetually/drifting)
 Word (Asaxi): fnonů
 trnsltion. En: to move, to drift, to float about, to migrate (slowly)

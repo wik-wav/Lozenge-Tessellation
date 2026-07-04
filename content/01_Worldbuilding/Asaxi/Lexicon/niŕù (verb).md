@@ -1,4 +1,5 @@
 ---
+freq: 68
 title: niŕù (verb) - to become, to turn into
 Word (Asaxi): niŕù
 trnsltion. En: to become, to turn into

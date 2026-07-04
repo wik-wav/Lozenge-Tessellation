@@ -1,4 +1,5 @@
 ---
+freq: 68
 title: jýnů (verb) - to talk, to chat
 Word (Asaxi): jýnů
 trnsltion. En: to talk, to chat, to converse, to chatter

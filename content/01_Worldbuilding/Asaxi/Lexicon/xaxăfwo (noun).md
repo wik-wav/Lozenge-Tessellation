@@ -1,4 +1,5 @@
 ---
+freq: 36
 title: xaxăfwo (noun) - stratosphere, upper atmosphere
 Word (Asaxi): xaxăfwo
 trnsltion. En: stratosphere, upper atmosphere, high heavens

@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: kamŕèn (noun) - warden, caretaker
 Word (Asaxi): kamŕèn
 trnsltion. En: warden, caretaker, janitor (in a high status sense)

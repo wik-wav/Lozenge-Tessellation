@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: năjù (verb) - to answer, to reply
 Word (Asaxi): năjù
 trnsltion. En: to answer, to reply

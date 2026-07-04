@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: em.mo (verb) - to open something
 Word (Asaxi): em.mo
 trnsltion. En: to open something

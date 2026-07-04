@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: åka (noun) - clock (time-tool)
 Word (Asaxi): åka
 trnsltion. En: clock (time-tool)

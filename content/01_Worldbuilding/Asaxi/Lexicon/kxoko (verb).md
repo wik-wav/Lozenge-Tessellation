@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: kxoko (verb) - to cough
 Word (Asaxi): kxoko
 trnsltion. En: to cough

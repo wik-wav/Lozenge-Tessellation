@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: pxỏpxỏ (verb) - to blow
 Word (Asaxi): pxỏpxỏ
 trnsltion. En: to blow

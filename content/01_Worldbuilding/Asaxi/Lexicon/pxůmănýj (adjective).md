@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: pxůmănýj (adjective) - disagreeable, all-denying
 Word (Asaxi): pxůmănýj
 trnsltion. En: disagreeable, all-denying

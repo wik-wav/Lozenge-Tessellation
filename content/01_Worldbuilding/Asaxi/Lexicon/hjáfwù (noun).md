@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: hjáfwù (noun) - breeze (little-wind)
 Word (Asaxi): hjáfwù
 trnsltion. En: breeze (little-wind)

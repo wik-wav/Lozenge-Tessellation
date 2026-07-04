@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: zè (Noun) - the past
 Word (Asaxi): zè
 trnsltion. En: the past

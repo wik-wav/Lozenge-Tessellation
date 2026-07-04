@@ -1,4 +1,5 @@
 ---
+freq: 34
 title: gadăchỏnă (adjective) - ravenous, insatiable
 Word (Asaxi): gadăchỏnă
 trnsltion. En: ravenous, insatiable, ravenously, hungrily

@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: mëjoxů (noun) - to appear, to look (like)
 Word (Asaxi): mëjoxů
 trnsltion. En: to appear, to look (like), to seem (visually)

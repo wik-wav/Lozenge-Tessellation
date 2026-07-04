@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: tètáŕo (noun) - wound, injury
 Word (Asaxi): tètáŕo
 trnsltion. En: wound, injury

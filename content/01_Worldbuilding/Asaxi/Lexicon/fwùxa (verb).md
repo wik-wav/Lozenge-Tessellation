@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: fwùxa (verb) - to breathe
 Word (Asaxi): fwùxa
 trnsltion. En: to breathe

@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: vino (noun) - wine (Pl. *wino*)
 Word (Asaxi): vino
 trnsltion. En: wine (Pl. *wino*)

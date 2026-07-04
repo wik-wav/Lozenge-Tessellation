@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: jală (verb) - to fly, to soar
 Word (Asaxi): jală
 trnsltion. En: to fly, to soar

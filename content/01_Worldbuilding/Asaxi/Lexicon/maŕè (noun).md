@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: maŕè (noun) - carrot (Pl. *marchew*)
 Word (Asaxi): maŕè
 trnsltion. En: carrot (Pl. *marchew*)

@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: fwùno (noun) - horn (wind-sound)
 Word (Asaxi): fwùno
 trnsltion. En: horn (wind-sound)

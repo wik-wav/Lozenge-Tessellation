@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: kŕasa (verb) - to scratch, to scrape
 Word (Asaxi): kŕasa
 trnsltion. En: to scratch, to scrape

@@ -1,4 +1,5 @@
 ---
+freq: 68
 title: waoŕo (noun) - country, land, nation
 Word (Asaxi): waoŕo
 trnsltion. En: country, land, nation

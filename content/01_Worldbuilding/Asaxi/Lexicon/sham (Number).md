@@ -1,4 +1,5 @@
 ---
+freq: 70
 title: sham (Number) - 6, six
 Word (Asaxi): sham, 6
 trnsltion. En: 6, six

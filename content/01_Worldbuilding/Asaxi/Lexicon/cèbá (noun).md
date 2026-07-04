@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: cèbá (noun) - onion (Pl. *cebula*)
 Word (Asaxi): cèbá
 trnsltion. En: onion (Pl. *cebula*)

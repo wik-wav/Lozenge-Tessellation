@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: haoshá (noun) - dog, hound
 Word (Asaxi): haoshá
 trnsltion. En: dog, hound

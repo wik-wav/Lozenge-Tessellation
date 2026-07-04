@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: mỏhjá (noun) - daughter
 Word (Asaxi): mỏhjá
 trnsltion. En: daughter

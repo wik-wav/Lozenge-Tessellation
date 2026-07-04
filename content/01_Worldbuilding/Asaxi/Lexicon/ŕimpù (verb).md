@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: ŕimpù (verb) - to plan, to devise
 Word (Asaxi): ŕimpù
 trnsltion. En: to plan, to devise

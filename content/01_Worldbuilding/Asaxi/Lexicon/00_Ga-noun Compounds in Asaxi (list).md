@@ -21,33 +21,32 @@ This is a list of all **Ga-noun Idiomatic Compounds** in Asaxi, with their close
 - - -
 
 ### Literal Ga-noun Compounds in Asaxi
-- [[gajýnnshá (noun)]] - were-hyena, gnoll
-- [[gamaowo (noun)]] - the night sky (lit. moon-type sky)
-- [[gabåbåshá (noun)]] - muscular being, bodybuilder
-- [[gabåbwoshá (noun)]] - strongman, powerlifter
-- [[gabwo (noun)]] - fatness, obesity
-- [[gabwoshá (noun)]] - fat being, obese person
+- [[gabåbåshá (noun)]] - muscular being, bodybuilder, hulk, muscle-beast, hunk
+- [[gabåbwoshá (noun)]] - strongman, powerlifter, brute, one with a bear-like physique
+- [[gabwo (noun)]] - fatness, obesity, fatty (constitution)
+- [[gabwoshá (noun)]] - fat being, obese person, fatty (creature), fattened animal
 - [[gafůbåbå (noun)]] - atrophy, the state of having no muscle
+- [[gajýnnshá (noun)]] - were-hyena, gnoll, hyena-man
+- [[gamaowo (noun)]] - night sky
 
-- - - 
+- - -
 
 ### Idiomatic Ga-noun Compounds in Asaxi
-- [[gadă (noun)]] - immensity, giant (from "elephant")
-- [[gao (noun)]] - azure (from "sky")
-- [[gapo (noun)]] - red (from "apple")
-- [[gasi (noun)]] - white (from "the great unknown")
-- [[gavi (noun)]] - green (from "grass" / "life")
-- [[gahji (noun)]] - smallness, minuteness, insignificance, compactness
-- [[ganáfwa (noun)]]  - clarity, transparency
-- [[găhjo (noun)]] - emaciation, gauntness (from "bone")
-- [[gaxaŋobwo (noun)]] - morbid obesity (from "obesity")
-- [[gamao (noun)]] - black
-- [[gaso (noun)]] - grey
-- [[gaxi (noun)]] - yellow
 - [[gacù (noun)]] - brown
-- [[gaxagi (noun)]] - orange
-- [[gapiva (noun)]] - pink
-- [[gaxiro (noun)]] - golden
+- [[gadă (noun)]] - immensity (noun)
+- [[gafůŋono (noun)]] - weightlessness, levitation, zero-gravity
+- [[gahji (noun)]] - smallness, minuteness, insignificance, compactness
+- [[găhjo (noun)]] - emaciation, boniness, gauntness, skin and bones
+- [[gamao (noun)]] - black
 - [[gamaoro (noun)]] - silvery
-
-- [[gafůŋono (noun)]] - weightlessness, levitation
+- [[ganáfwa (noun)]] - clarity, transparency, cloudlessness (the quality)
+- [[gao (noun)]] - azure, blue (noun)
+- [[gapiva (noun)]] - pink
+- [[gapo (noun)]] - red
+- [[gasi (noun)]] - white (noun)
+- [[gaso (noun)]] - grey
+- [[gavi (noun)]] - green, goodness, positivity, virtue
+- [[gaxagi (noun)]] - orange
+- [[gaxaŋobwo (noun)]] - morbid obesity, clinical obesity (constitutional)
+- [[gaxi (noun)]] - yellow
+- [[gaxiro (noun)]] - golden

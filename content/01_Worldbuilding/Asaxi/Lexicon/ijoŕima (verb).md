@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: ijoŕima (verb) - to examine, to study closely
 Word (Asaxi): ijoŕima
 trnsltion. En: to examine, to study closely

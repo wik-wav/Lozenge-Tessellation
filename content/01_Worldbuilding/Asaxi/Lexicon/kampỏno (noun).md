@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: kampỏno (noun) - clothing, clothes
 Word (Asaxi): kampỏno
 trnsltion. En: clothing, clothes

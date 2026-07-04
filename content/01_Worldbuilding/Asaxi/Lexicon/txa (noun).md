@@ -1,4 +1,5 @@
 ---
+freq: 69
 title: txa (noun) - change, mutation
 Word (Asaxi): txa
 trnsltion. En: change, mutation, alteration, shift

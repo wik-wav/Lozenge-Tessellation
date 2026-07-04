@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: săŕo (noun) - sweat
 Word (Asaxi): săŕo
 trnsltion. En: sweat

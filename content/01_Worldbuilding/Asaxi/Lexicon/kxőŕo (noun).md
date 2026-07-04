@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: kxőŕo (noun) - throat, pharynx
 Word (Asaxi): kxőŕo
 trnsltion. En: throat, pharynx, voice box (poetic)

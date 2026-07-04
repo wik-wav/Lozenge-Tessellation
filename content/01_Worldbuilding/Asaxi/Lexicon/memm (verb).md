@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: memm (verb) - to close, to shut
 Word (Asaxi): memm
 trnsltion. En: to close, to shut, to seal

@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: fůcő (noun) - misunderstanding, confusion
 Word (Asaxi): fůcő
 trnsltion. En: misunderstanding, confusion, lack of grasp, misinterpretation

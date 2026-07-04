@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: kjèswë (noun) - bark
 Word (Asaxi): kjèswë
 trnsltion. En: bark

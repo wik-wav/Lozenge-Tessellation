@@ -1,4 +1,5 @@
 ---
+freq: 37
 title: jýnă (adjective) - talkative
 Word (Asaxi): jýnă
 trnsltion. En: talkative

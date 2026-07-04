@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: no-gă (Compound Locative Noun) - there (near listener), that place
 Word (Asaxi): no-gă
 trnsltion. En: there (near listener), that place, your vicinity

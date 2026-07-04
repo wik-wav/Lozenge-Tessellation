@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: ŕochỏ (noun) - thirst
 Word (Asaxi): ŕochỏ
 trnsltion. En: thirst

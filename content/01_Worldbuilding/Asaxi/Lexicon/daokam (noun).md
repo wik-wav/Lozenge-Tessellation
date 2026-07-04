@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: daokam (noun) - shop, store (trade-structure)
 Word (Asaxi): daokam
 trnsltion. En: shop, store (trade-structure)

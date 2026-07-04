@@ -351,6 +351,7 @@ class Lexicon:
             try:
                 text = p.read_text(encoding="utf-8")
                 e["id"] = read_entry_id(text)
+                e["freq"] = read_freq(text)
                 fm = re.search(r"^trnsltion\. En:\s*(.+)$", text, re.M)
                 if fm:
                     e["gloss_en"] = fm.group(1).strip()
@@ -565,6 +566,12 @@ def build_entry(lex: Lexicon, d: dict):
     tags = list(t["tags"])
     if d.get("vocab_expansion_tag"):
         tags.append("vocab_expansion")
+    if d["type"] == "ga-noun":
+        _gk = (d.get("ga_kind") or "").strip().lower()
+        if _gk.startswith("lit"):
+            tags.append("ga-literal")
+        elif _gk.startswith("idi"):
+            tags.append("ga-idiomatic")
     tag_block = "\n".join(f"  - {x}" for x in tags)
     filename = f'{word} ({t["suffix"]}).md'
     title = f"{word} ({t['suffix']}) - {gl_en}" if gl_en else f"{word} ({t['suffix']})"
@@ -576,7 +583,18 @@ def build_entry(lex: Lexicon, d: dict):
     if d["type"] in ("verb-root", "verb-u"):
         fm_extra = f"\nTransitivity: {d.get('transitivity') or ''}"
 
-    fm = (f"---\ntitle: {_fm_escape(title)}\nWord (Asaxi): {word}\n"
+    _fr = d.get("freq")
+    freq_val = None
+    if _fr is not None and str(_fr).strip() != "":
+        try:
+            freq_val = max(1, min(100, int(float(_fr))))
+        except (ValueError, TypeError):
+            freq_val = None
+    if freq_val is None:
+        freq_val = wordfreq_rating(gl_en, gl_pl)   # auto-rate single-word glosses
+    fm_freq = f"freq: {freq_val}\n" if freq_val else ""
+
+    fm = (f"---\n{fm_freq}title: {_fm_escape(title)}\nWord (Asaxi): {word}\n"
           f"trnsltion. En: {_fm_escape(gl_en)}{fm_pl}{fm_extra}\ntags:\n{tag_block}\n---")
 
     script = (f'<span class="asaxi-script">{word}</span>\n\n'
@@ -1182,6 +1200,10 @@ def entry_score(text, absent=()):
         ok = bool(m and _filled(m.group(1)))
         filled += ok
         detail.append((label, ok))
+    total += 1                              # frequency rating counts toward completion
+    _fr_ok = read_freq(text) is not None
+    filled += _fr_ok
+    detail.append(("Frequency", _fr_ok))
     for s in split_sections(text):
         total += 1
         ok = _filled(s["content"])
@@ -1228,6 +1250,7 @@ def browse(lex, q="", type_f="", field_f=""):
         au = e.get("audit") or {"missing": [], "nonstandard": [], "case": []}
         out.append({"word": e["word"], "type": e["type_raw"], "audit": au,
                     "gloss": e["gloss_en"], "stem": Path(e["path"]).stem,
+                    "freq": e.get("freq") or 0,
                     "score": e.get("score", 0), "filled": e.get("score_filled", 0),
                     "total": e.get("score_total", 0), "fields": e["fields"],
                     "anki": {"image": "image" in parts, "a1": "a1" in parts,
@@ -1248,6 +1271,9 @@ def get_entry(cfg, name):
     sc = entry_score(text, audit.get("missing_from_template") or [])
     return {"ok": True, "name": name, "audit": audit,
             "id": read_entry_id(text),
+            "freq": read_freq(text),
+            "ga_kind": ga_kind_of(text),
+            "is_ga": "Ga-noun Compounds" in text,
             "gloss_en": fmval(r"trnsltion\. En") or "",
             "gloss_pl": fmval(r"trnsltion\. Pl"),
             "word_asaxi": fmval(r"Word \(Asaxi\)") or "",
@@ -1305,6 +1331,31 @@ def update_entry(cfg, name, fm_updates=None, section_updates=None, dry_run=False
         return {"ok": False, "error": f"No such entry: {name}"}
     text = fp.read_text(encoding="utf-8")
     changes = []
+
+    _gk = (fm_updates or {}).get("ga_kind")
+    if _gk:
+        _tag = "ga-literal" if _gk.strip().lower().startswith("lit") else \
+               ("ga-idiomatic" if _gk.strip().lower().startswith("idi") else None)
+        if _tag:
+            t2 = re.sub(r"(?m)^[ \t]*-[ \t]*ga-(?:literal|idiomatic)[ \t]*\n", "", text)
+            if not re.search(r"(?m)^[ \t]*-[ \t]*" + _tag + r"[ \t]*$", t2):
+                if re.search(r"(?m)^([ \t]*-[ \t]*ga-noun[ \t]*)$", t2):
+                    t2 = re.sub(r"(?m)^([ \t]*-[ \t]*ga-noun[ \t]*)$", r"\1\n  - " + _tag, t2, count=1)
+                else:
+                    t2 = re.sub(r"(?s)^(---.*?\n)(---)", r"\1  - " + _tag + r"\n\2", t2, count=1)
+            if t2 != text:
+                text = t2
+                changes.append("frontmatter: ga_kind")
+
+    _freq = (fm_updates or {}).get("freq")
+    if _freq is not None and str(_freq).strip() != "":
+        try:
+            nt = set_freq_text(text, int(float(_freq)))
+            if nt != text:
+                text = nt
+                changes.append("frontmatter: freq")
+        except (ValueError, TypeError):
+            pass
 
     old_gloss = None
     for key, val in (fm_updates or {}).items():
@@ -1638,6 +1689,434 @@ def delete_entry(cfg, name, dry_run=True):
     return {"ok": True, "deleted": name, "dry_run": dry_run,
             "list_lines_removed": scrubbed,
             "remaining_references": refs[:20]}
+
+
+
+def _vault_note_files(cfg):
+    """Every .md in the vault except the tool/obsidian dirs (vault-wide link ops)."""
+    out = []
+    for q in cfg["_root"].rglob("*.md"):
+        sq = str(q)
+        if ".obsidian" in sq or "99_Tools" in sq:
+            continue
+        out.append(q)
+    return out
+
+
+_STEM_RE = re.compile(r"^(?P<word>.+?) \((?P<type>[^)]+)\)$")
+
+
+def rename_entry(cfg, old_name, new_name, dry_run=True):
+    """Rename an entry file and repoint every [[backlink]] to it across the vault
+    (Obsidian-style), keeping the note itself consistent. Always dry_run first."""
+    old_name = (old_name or "").strip()
+    new_name = (new_name or "").strip()
+    if not new_name:
+        return {"ok": False, "error": "New name is empty."}
+    if re.search(r'[\\/:*?"<>|]', new_name):
+        return {"ok": False, "error": "New name has an illegal filename character."}
+    old_fp = entry_file(cfg, old_name)
+    if not old_fp.exists():
+        return {"ok": False, "error": f"No such entry: {old_name}"}
+    if new_name == old_name:
+        return {"ok": False, "error": "New name is the same as the current name."}
+    mn = _STEM_RE.match(new_name)
+    if not mn:
+        return {"ok": False, "error": "New name must look like  word (type)  - e.g. 'ai (noun)'."}
+    mo = _STEM_RE.match(old_name)
+    old_word = mo.group("word") if mo else old_name
+    new_word = mn.group("word")
+    for d in entry_search_dirs(cfg) + [cfg["_fields"]]:
+        if (d / f"{new_name}.md").exists():
+            return {"ok": False, "error": f"A note named '{new_name}' already exists."}
+    new_fp = old_fp.parent / f"{new_name}.md"
+    word_changed = old_word != new_word
+
+    esc_old = re.escape(old_name)
+    link_re = re.compile(r"\[\[" + esc_old + r"(#[^\]|]+)?(\|[^\]]+)?\]\]")
+
+    def rewrite(m):
+        heading = m.group(1) or ""
+        alias = m.group(2)
+        if alias is not None:
+            atext = alias[1:]
+            if word_changed and atext == old_word:
+                atext = new_word
+            newalias = "|" + atext
+        else:
+            newalias = ""
+        return f"[[{new_name}{heading}{newalias}]]"
+
+    text = old_fp.read_text(encoding="utf-8")
+    self_edits = []
+    tpat = re.compile(r"^(title:[ \t]*)" + esc_old + r"(.*)$", re.M)
+    if tpat.search(text):
+        text = tpat.sub(lambda m: m.group(1) + new_name + m.group(2), text, count=1)
+        self_edits.append("title")
+    if word_changed:
+        wpat = re.compile(r"^(Word \(Asaxi\):[ \t]*)" + re.escape(old_word) + r"[ \t]*$", re.M)
+        if wpat.search(text):
+            text = wpat.sub(lambda m: m.group(1) + new_word, text, count=1)
+            self_edits.append("Word (Asaxi)")
+        hpat = re.compile(r"^(#[ \t]+)" + re.escape(old_word) + r"(?=[ (\n])", re.M)
+        if hpat.search(text):
+            text = hpat.sub(lambda m: m.group(1) + new_word, text, count=1)
+            self_edits.append("heading")
+        for cls in ("asaxi-script", "asaxi-script-alpha"):
+            spat = re.compile(r'(<span class="' + cls + r'">)' + re.escape(old_word) + r"(</span>)")
+            if spat.search(text):
+                text = spat.sub(lambda m: m.group(1) + new_word + m.group(2), text)
+                self_edits.append(cls + " span")
+    text = link_re.sub(rewrite, text)
+
+    backlinks = []
+    total = 0
+    for q in _vault_note_files(cfg):
+        if q.resolve() == old_fp.resolve():
+            continue
+        qt = q.read_text(encoding="utf-8")
+        if "[[" + old_name not in qt:
+            continue
+        nt, n = link_re.subn(rewrite, qt)
+        if n:
+            backlinks.append({"file": str(q.relative_to(cfg["_root"])), "count": n})
+            total += n
+            if not dry_run:
+                q.write_text(nt, encoding="utf-8")
+
+    if not dry_run:
+        new_fp.write_text(text, encoding="utf-8")
+        old_fp.unlink()
+
+    return {"ok": True, "dry_run": dry_run, "old_name": old_name, "new_name": new_name,
+            "dir": old_fp.parent.name, "self_edits": self_edits,
+            "backlink_files": backlinks[:200], "backlink_file_count": len(backlinks),
+            "backlink_edit_count": total, "id": read_entry_id(text)}
+
+
+
+# ------------------------------------ list files (fill + Latin-alphabetical sort)
+
+_LIST_CATEGORIES = {
+    "noun": "01_Asaxi Nouns (List)",
+    "verb-root": "02_Asaxi Verbs_Root (List)",
+    "verb-u": "02_Asaxi Verbs_ů (List)",
+    "adjective": "03_Asaxi Adjectives (List)",
+    "root word": "03_Asaxi Root Words (List)",
+}
+_VOCAB_LINE_RE = re.compile(
+    r"(?im)^[ \t]*-[ \t]*\[\[[^\]|#]*\((?:noun|verb|adjective|root word|particle|number|idiom)\)"
+    r"(?:#[^\]|]*)?(?:\|[^\]]*)?\]\].*\n?")
+
+
+def list_sort_key(word):
+    """Latin-alphabetical key: fold Asaxi diacritics onto their base letter."""
+    w = (word or "").lower().replace("ŋ", "ng").replace("'", "")
+    w = unicodedata.normalize("NFD", w)
+    w = "".join(c for c in w if not unicodedata.combining(c))
+    return (w, (word or "").lower())
+
+
+def ga_kind_of(text):
+    """'Literal' / 'Idiomatic' from a ga-noun's tags, else None."""
+    if re.search(r"(?m)^[ \t]*-[ \t]*ga-literal[ \t]*$", text):
+        return "Literal"
+    if re.search(r"(?m)^[ \t]*-[ \t]*ga-idiomatic[ \t]*$", text):
+        return "Idiomatic"
+    return None
+
+
+def _list_line(stem, gloss):
+    return f"- [[{stem}]] - {gloss}" if (gloss or "").strip() else f"- [[{stem}]]"
+
+
+def _preamble(text):
+    return re.sub(r"\n{3,}", "\n\n", text).strip("\n")
+
+
+def rebuild_lists(cfg, dry_run=False):
+    """Fill each category List with every entry of that category, Latin-sorted,
+    preserving the file's frontmatter/prose/nav. The ga-noun list is grouped by
+    the ga-literal / ga-idiomatic tag. Idempotent / re-runnable."""
+    from collections import defaultdict
+    lex = Lexicon(cfg)
+    cat = defaultdict(list)
+    ga = {"Literal": [], "Idiomatic": [], None: []}
+    for e in lex.entries:
+        stem = Path(e["path"]).stem
+        text = Path(e["path"]).read_text(encoding="utf-8")
+        key = template_key_for(stem, text)
+        rec = (stem, e["word"], e.get("gloss_en", ""))
+        if key == "ga-noun":
+            ga[ga_kind_of(text)].append(rec)
+        elif key in _LIST_CATEGORIES:
+            cat[key].append(rec)
+
+    lexdir = cfg["_lexicon"]
+    report = []
+    for key, lname in _LIST_CATEGORIES.items():
+        fp = lexdir / f"{lname}.md"
+        if not fp.exists():
+            report.append({"list": lname, "error": "missing"})
+            continue
+        text = fp.read_text(encoding="utf-8")
+        was = len(_VOCAB_LINE_RE.findall(text))
+        skeleton = _preamble(_VOCAB_LINE_RE.sub("", text))
+        recs = sorted(cat.get(key, []), key=lambda r: list_sort_key(r[1]))
+        body = "\n".join(_list_line(s, g) for s, w, g in recs)
+        newtext = (skeleton + "\n\n" + body + "\n") if skeleton else (body + "\n")
+        if not dry_run:
+            fp.write_text(newtext, encoding="utf-8")
+        report.append({"list": lname, "category": key, "was": was, "now": len(recs)})
+
+    gname = WORD_TYPES["ga-noun"]["list"]
+    gfp = lexdir / gname
+    if gfp.exists():
+        gtext = gfp.read_text(encoding="utf-8")
+        mfirst = re.search(r"(?m)^###[ \t]+", gtext)
+        pre = _preamble(gtext[:mfirst.start()]) if mfirst else _preamble(gtext)
+        hlit = re.search(r"(?m)^###[ \t]+(.*[Ll]iteral.*)$", gtext)
+        hidi = re.search(r"(?m)^###[ \t]+(.*[Ii]diomatic.*)$", gtext)
+        lit_hdr = hlit.group(1).strip() if hlit else "Literal Ga-noun Compounds in Asaxi"
+        idi_hdr = hidi.group(1).strip() if hidi else "Idiomatic Ga-noun Compounds in Asaxi"
+        lit = sorted(ga["Literal"], key=lambda r: list_sort_key(r[1]))
+        idi = sorted(ga["Idiomatic"] + ga[None], key=lambda r: list_sort_key(r[1]))
+        gbody = (pre + "\n\n"
+                 + f"### {lit_hdr}\n" + "\n".join(_list_line(s, g) for s, w, g in lit) + "\n\n"
+                 + "- - -\n\n"
+                 + f"### {idi_hdr}\n" + "\n".join(_list_line(s, g) for s, w, g in idi) + "\n")
+        if not dry_run:
+            gfp.write_text(gbody, encoding="utf-8")
+        report.append({"list": gname[:-3], "category": "ga-noun",
+                       "literal": len(lit), "idiomatic": len(idi), "untagged": len(ga[None])})
+    return {"ok": True, "dry_run": dry_run, "report": report}
+
+
+
+# ------------------------------------ frequency ratings (1-100)
+# Higher = more frequent -> sorts to the top of the Anki deck. Stored per entry
+# as `freq:` in front matter (hand-editable). Fallback chain (see effective_freq):
+#   stored freq:  ->  wordfreq of a single-word gloss  ->  0 (end of deck).
+
+# Core cross-linguistic vocabulary (Swadesh / Leipzig-Jakarta, bare English forms).
+# Any single-word gloss matching this set is floored near the top.
+CORE_MEANINGS = {
+    "i", "you", "we", "he", "she", "they", "this", "that", "who", "what", "not",
+    "all", "many", "some", "few", "other", "one", "two", "three", "four", "five",
+    "big", "long", "wide", "thick", "heavy", "small", "short", "narrow", "thin",
+    "good", "bad", "new", "old", "cold", "warm", "hot", "full", "round", "dry",
+    "wet", "far", "near", "right", "left", "black", "white", "red", "green",
+    "yellow", "blue", "name", "water", "fire", "sun", "moon", "star", "sky",
+    "wind", "rain", "cloud", "smoke", "ash", "snow", "ice", "stone", "sand",
+    "earth", "ground", "soil", "dust", "mountain", "sea", "lake", "river",
+    "road", "path", "salt", "night", "day", "year", "tree", "leaf", "root",
+    "bark", "seed", "flower", "grass", "fruit", "skin", "flesh", "meat", "blood",
+    "bone", "fat", "egg", "horn", "tail", "feather", "hair", "head", "ear",
+    "eye", "nose", "mouth", "tooth", "tongue", "claw", "nail", "foot", "leg",
+    "knee", "hand", "arm", "wing", "belly", "guts", "neck", "back", "breast",
+    "heart", "liver", "man", "woman", "person", "child", "husband", "wife",
+    "mother", "father", "animal", "fish", "bird", "dog", "louse", "snake",
+    "worm", "drink", "eat", "bite", "chew", "suck", "spit", "vomit", "blow",
+    "breathe", "laugh", "see", "hear", "know", "think", "smell", "fear",
+    "sleep", "live", "die", "kill", "fight", "hunt", "hit", "cut", "split",
+    "stab", "scratch", "dig", "swim", "fly", "walk", "come", "go", "lie",
+    "sit", "stand", "turn", "fall", "give", "hold", "squeeze", "rub", "wash",
+    "wipe", "pull", "push", "throw", "tie", "sew", "count", "say", "speak",
+    "sing", "play", "float", "flow", "freeze", "swell", "run", "burn", "cook",
+    "work", "want", "love", "hate", "make", "do", "take", "find", "grow",
+    "buy", "sell", "help", "learn", "teach", "read", "write", "yes", "no",
+    "here", "there", "now", "then", "today", "sun", "hello", "goodbye",
+    "thanks", "please", "sorry", "food", "house", "home", "friend", "enemy",
+    "king", "god", "money", "time", "word", "true", "empty", "clean", "dirty",
+    "sharp", "dull", "smooth", "wet", "heavy", "young", "many", "big",
+}
+
+_FREQ_RE = re.compile(r"(?m)^freq:[ \t]*(\d{1,3})[ \t]*$")
+
+
+def _wordfreq_ok():
+    try:
+        import wordfreq  # noqa: F401
+        return True
+    except Exception:
+        return False
+
+
+def _gloss_head(gloss):
+    """First single English/Polish word of a gloss, or None for a multiword gloss.
+    Takes the first synonym, drops parentheticals and a leading 'to '/article."""
+    if not gloss:
+        return None
+    seg = re.split(r"[;,/]", gloss.strip())[0]
+    seg = re.sub(r"\([^)]*\)", "", seg).strip()
+    seg = re.sub(r"^(?:to |a |an |the )", "", seg, flags=re.I).strip()
+    seg = seg.strip(".\"'")
+    if not seg or " " in seg:
+        return None
+    return seg
+
+
+def wordfreq_rating(gloss_en, gloss_pl=""):
+    """1-100 rating from a SINGLE-word gloss via wordfreq (English and/or Polish),
+    boosted for core vocabulary. None if no single-word gloss or wordfreq is absent."""
+    try:
+        from wordfreq import zipf_frequency
+    except Exception:
+        return None
+    cands = []
+    he = _gloss_head(gloss_en)
+    hp = _gloss_head(gloss_pl)
+    if he:
+        cands.append((he, "en"))
+    if hp:
+        cands.append((hp, "pl"))
+    if not cands:
+        return None
+    z = max(zipf_frequency(w, lang) for w, lang in cands)
+    if z <= 0:
+        return None
+    rating = max(1, min(100, round(z * 12.5)))
+    if he and he.lower() in CORE_MEANINGS:
+        rating = max(rating, 88)
+    return rating
+
+
+def read_freq(text):
+    m = _FREQ_RE.search(text or "")
+    if not m:
+        return None
+    return max(1, min(100, int(m.group(1))))
+
+
+def set_freq_text(text, val):
+    """Insert or update `freq: <val>` in the front matter."""
+    val = max(1, min(100, int(val)))
+    if _FREQ_RE.search(text):
+        return _FREQ_RE.sub(f"freq: {val}", text, count=1)
+    m = re.search(r"(?m)^id:.*$", text)
+    if m:
+        return text[:m.end()] + f"\nfreq: {val}" + text[m.end():]
+    m2 = re.match(r"^﻿?---[ \t]*\r?\n", text)
+    if m2:
+        return text[:m2.end()] + f"freq: {val}\n" + text[m2.end():]
+    return f"---\nfreq: {val}\n---\n\n" + text
+
+
+def gloss_zipf(gloss_en, gloss_pl=""):
+    """Raw wordfreq Zipf (0-8) of a single-word gloss — a fine-grained tiebreak so
+    words sharing the same 1-100 rating still order by their true frequency. 0 if
+    unavailable."""
+    try:
+        from wordfreq import zipf_frequency
+    except Exception:
+        return 0.0
+    cands = []
+    he = _gloss_head(gloss_en)
+    hp = _gloss_head(gloss_pl)
+    if he:
+        cands.append((he, "en"))
+    if hp:
+        cands.append((hp, "pl"))
+    if not cands:
+        return 0.0
+    return max(zipf_frequency(w, lang) for w, lang in cands)
+
+
+def effective_freq(text, gloss_en="", gloss_pl=""):
+    """Stored freq -> single-word wordfreq -> 0 (end of deck)."""
+    f = read_freq(text)
+    if f is not None:
+        return f
+    wf = wordfreq_rating(gloss_en, gloss_pl)
+    return wf if wf is not None else 0
+
+
+def words_at_freq(cfg, value, exclude="", type_filter="", limit=8):
+    """Up to `limit` (8) random corpus words of the SAME word type carrying exactly
+    this freq rating — shown under the Frequency field to gauge calibration.
+    `type_filter` accepts a filename suffix ('verb', 'noun') or a WORD_TYPES key
+    ('verb-root', 'ga-noun'), which is normalized to the suffix before matching."""
+    try:
+        v = max(1, min(100, int(str(value).strip())))
+    except (ValueError, TypeError):
+        return {"ok": False, "error": "bad value"}
+    import random
+    exclude = (exclude or "").strip()
+    tf = (type_filter or "").strip().lower()
+    if tf in WORD_TYPES:                       # a type key -> its filename suffix
+        tf = WORD_TYPES[tf]["suffix"].lower()
+    matches = []
+    for d in entry_search_dirs(cfg):
+        for p in d.glob("*.md"):
+            m = FILENAME_RE.match(p.name)
+            if not m or m.group("type").lower() == "list" or m.group("word")[0].isdigit():
+                continue
+            if p.stem == exclude:
+                continue
+            if tf and m.group("type").lower() != tf:
+                continue
+            try:
+                text = p.read_text(encoding="utf-8")
+            except Exception:
+                continue
+            if read_freq(text) != v:
+                continue
+            ge = re.search(r"^trnsltion\. En:\s*(.+)$", text, re.M)
+            matches.append({"word": m.group("word"), "type": m.group("type").lower(),
+                            "gloss": (ge.group(1).strip()[:40] if ge else "")})
+    random.shuffle(matches)
+    return {"ok": True, "value": v, "count": len(matches), "words": matches[:limit]}
+
+
+def freq_prompt(gloss_en, gloss_pl="", usage_note=""):
+    """Prompt for a small local model to estimate everyday frequency (1-100)."""
+    return (
+        "You rate how often a word is used in everyday language.\n\n"
+        "You are given ONE vocabulary item: its English translation(s), optional Polish\n"
+        "translation(s), and an optional usage note. The translations all describe the\n"
+        "SAME single concept. Judge how often an ordinary speaker would use a word with\n"
+        "this meaning in daily life.\n\n"
+        "Reply with ONE integer from 1 to 100 and NOTHING else - no words, no\n"
+        "punctuation. Higher = more frequent.\n\n"
+        "Guide:\n"
+        "  90-100  basic/function words: I, you, water, go, not, big, good, hello, thanks\n"
+        "  70-89   common everyday words: house, run, cold, friend, eat, road\n"
+        "  40-69   ordinary words: shell, elbow, charcoal, dove, whisper\n"
+        "  10-39   uncommon/specific: atrophy, ember, silvery\n"
+        "  1-9     rare, poetic, or highly technical\n"
+        "If the meaning is core basic vocabulary (Swadesh / Leipzig-Jakarta type), rate it high.\n\n"
+        f"English: {gloss_en or '(none)'}\n"
+        f"Polish: {gloss_pl or '(none)'}\n"
+        f"Usage note: {usage_note or '(none)'}\n\n"
+        "Answer (1-100):")
+
+
+def rank_frequency(cfg, dry_run=False):
+    """Stamp `freq:` on entries that lack it, using wordfreq on single-word glosses.
+    Never overwrites an existing rating (manual or LLM). Idempotent."""
+    lex = Lexicon(cfg)
+    filled = 0
+    already = 0
+    no_single = 0
+    samples = []
+    for e in lex.entries:
+        fp = Path(e["path"])
+        text = fp.read_text(encoding="utf-8")
+        if read_freq(text) is not None:
+            already += 1
+            continue
+        wf = wordfreq_rating(e.get("gloss_en", ""), e.get("gloss_pl", ""))
+        if wf is None:
+            no_single += 1
+            continue
+        if not dry_run:
+            fp.write_text(set_freq_text(text, wf), encoding="utf-8")
+        filled += 1
+        if len(samples) < 10:
+            samples.append({"word": e["word"], "gloss": (e.get("gloss_en", "") or "")[:32], "freq": wf})
+    return {"ok": True, "dry_run": dry_run, "wordfreq_available": _wordfreq_ok(),
+            "filled": filled, "already_rated": already,
+            "no_single_word_gloss": no_single, "samples": samples}
 
 
 # ------------------------------------ template comparison (standard fields)

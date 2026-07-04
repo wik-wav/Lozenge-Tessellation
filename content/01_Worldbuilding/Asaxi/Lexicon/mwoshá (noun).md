@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: mwoshá (noun) - hunter (meat-person)
 Word (Asaxi): mwoshá
 trnsltion. En: hunter (meat-person)

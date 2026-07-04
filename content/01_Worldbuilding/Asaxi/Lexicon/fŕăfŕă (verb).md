@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: fŕăfŕă (verb) - to spin, to whirl
 Word (Asaxi): fŕăfŕă
 trnsltion. En: to spin, to whirl

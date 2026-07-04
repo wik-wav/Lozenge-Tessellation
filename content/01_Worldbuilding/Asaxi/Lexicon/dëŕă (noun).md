@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: dëŕă (noun) - tail (of an animal)
 Word (Asaxi): dëŕă
 trnsltion. En: tail (of an animal)

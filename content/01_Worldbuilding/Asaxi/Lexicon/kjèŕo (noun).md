@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: kjèŕo (noun) - forest, grove
 Word (Asaxi): kjèŕo
 trnsltion. En: forest, grove

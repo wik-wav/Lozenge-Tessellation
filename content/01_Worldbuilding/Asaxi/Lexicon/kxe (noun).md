@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: kxe (noun) - shape, form
 Word (Asaxi): kxe
 trnsltion. En: shape, form, figure, geometry

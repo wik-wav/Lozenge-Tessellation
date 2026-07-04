@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: pùkŕo (noun) - floor
 Word (Asaxi): pùkŕo
 trnsltion. En: floor

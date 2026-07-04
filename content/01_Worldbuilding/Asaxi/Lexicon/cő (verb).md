@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: cő (verb) - to understand, to comprehend
 Word (Asaxi): cő
 trnsltion. En: to understand, to comprehend, to get it, to grasp (mentally)

@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: gokam (noun) - tower / keep
 Word (Asaxi): gokam
 trnsltion. En: tower / keep

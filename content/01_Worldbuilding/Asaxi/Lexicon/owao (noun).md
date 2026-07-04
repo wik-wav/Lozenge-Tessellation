@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: owao (noun) - Earth (planet)
 Word (Asaxi): owao
 trnsltion. En: Earth (planet)

@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: memno (noun) - button
 Word (Asaxi): memno
 trnsltion. En: button

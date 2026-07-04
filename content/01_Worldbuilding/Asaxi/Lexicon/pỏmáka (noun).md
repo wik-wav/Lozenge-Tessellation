@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: pỏmáka (noun) - bag, sack (cloth-vessel)
 Word (Asaxi): pỏmáka
 trnsltion. En: bag, sack (cloth-vessel)

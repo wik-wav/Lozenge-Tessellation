@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: pùŕonů (verb) - to share, to split
 Word (Asaxi): pùŕonů
 trnsltion. En: to share, to split, to distribute, to divide

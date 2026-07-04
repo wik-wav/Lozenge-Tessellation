@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: kjèmaka (noun) - basket
 Word (Asaxi): kjèmaka
 trnsltion. En: basket

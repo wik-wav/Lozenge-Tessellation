@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: kŕù (noun) - rust, iron-oxide, red-ochre
 Word (Asaxi): kŕù
 trnsltion. En: rust, iron-oxide, red-ochre

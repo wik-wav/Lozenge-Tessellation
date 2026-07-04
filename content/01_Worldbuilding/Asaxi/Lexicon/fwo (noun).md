@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: fwo (noun) - fog
 Word (Asaxi): fwo
 trnsltion. En: fog

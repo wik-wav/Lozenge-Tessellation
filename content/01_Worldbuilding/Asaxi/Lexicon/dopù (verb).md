@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: dopù (verb) - to fall (drop down)
 Word (Asaxi): dopù
 trnsltion. En: to fall (drop down)

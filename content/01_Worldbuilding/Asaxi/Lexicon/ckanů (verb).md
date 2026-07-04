@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ckanů (verb) - to dig, to shovel
 Word (Asaxi): ckanů
 trnsltion. En: to dig, to shovel

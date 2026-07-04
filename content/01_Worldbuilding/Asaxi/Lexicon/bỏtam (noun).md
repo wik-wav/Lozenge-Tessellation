@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: bỏtam (noun) - husband
 Word (Asaxi): bỏtam
 trnsltion. En: husband

@@ -1,4 +1,5 @@
 ---
+freq: 68
 title: jýn (noun) - talk, chat
 Word (Asaxi): jýn
 trnsltion. En: talk, chat

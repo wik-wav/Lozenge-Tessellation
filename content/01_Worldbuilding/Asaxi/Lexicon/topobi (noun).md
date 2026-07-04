@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: topobi (noun) - weather, climate
 Word (Asaxi): topobi
 trnsltion. En: weather

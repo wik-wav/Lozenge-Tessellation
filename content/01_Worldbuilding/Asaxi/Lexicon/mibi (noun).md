@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: mibi (noun) - earring
 Word (Asaxi): mibi
 trnsltion. En: earring

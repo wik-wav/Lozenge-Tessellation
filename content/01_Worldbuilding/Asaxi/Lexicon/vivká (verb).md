@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: vivká (verb) - to grow, to grow up
 Word (Asaxi): vivká
 trnsltion. En: to grow, to grow up

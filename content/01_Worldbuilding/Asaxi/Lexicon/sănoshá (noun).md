@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: sănoshá (noun) - cook (cooked-food person)
 Word (Asaxi): sănoshá
 trnsltion. En: cook (cooked-food person)

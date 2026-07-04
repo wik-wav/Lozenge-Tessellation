@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: dăŕăa (noun) - blaze / bonfire
 Word (Asaxi): dăŕăa
 trnsltion. En: blaze / bonfire

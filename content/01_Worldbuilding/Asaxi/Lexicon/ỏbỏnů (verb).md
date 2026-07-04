@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: ỏbỏnů (verb) - to cushion, to buffer
 Word (Asaxi): ỏbỏnů
 trnsltion. En: to cushion, to buffer, to soften (a blow), to pad

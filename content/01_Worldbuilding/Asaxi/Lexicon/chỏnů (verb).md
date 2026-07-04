@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: chỏnů (verb) - to eat, consume, devour
 Word (Asaxi): chỏnů
 trnsltion. En: to eat, consume, devour

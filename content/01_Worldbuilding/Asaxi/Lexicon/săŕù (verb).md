@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: săŕù (verb) - to sweat, to perspire
 Word (Asaxi): săŕù
 trnsltion. En: to sweat, to perspire

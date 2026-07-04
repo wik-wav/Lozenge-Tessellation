@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: tănů (verb) - to assemble, to gather
 Word (Asaxi): tănů
 trnsltion. En: to assemble, to gather, to collect, to add (to a pile), to join

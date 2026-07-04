@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: shýŕo (noun) - ice
 Word (Asaxi): shýŕo
 trnsltion. En: ice

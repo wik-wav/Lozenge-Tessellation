@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: gacù (noun) - brown
 Word (Asaxi): gacù
 trnsltion. En: brown
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
   - vocab_expansion
 ---
 # gacù ([[00_Ga-noun Compounds in Asaxi (list)]])

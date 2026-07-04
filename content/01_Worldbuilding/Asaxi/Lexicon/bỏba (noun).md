@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: bỏba (noun) - uncle
 Word (Asaxi): bỏba
 trnsltion. En: uncle

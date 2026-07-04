@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: o-gă (Compound Locative Noun) - here, this place
 Word (Asaxi): o-gă
 trnsltion. En: here, this place, hither

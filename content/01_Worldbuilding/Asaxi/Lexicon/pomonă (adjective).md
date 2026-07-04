@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: pomonă (adjective) - dove-grey, soft warm-grey
 Word (Asaxi): pomonă
 trnsltion. En: dove-grey, soft warm-grey

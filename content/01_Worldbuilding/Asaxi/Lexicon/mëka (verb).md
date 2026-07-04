@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: mëka (verb) - to separate, to part ways
 Word (Asaxi): mëka
 trnsltion. En: to separate, to part ways, to divorce, to split up

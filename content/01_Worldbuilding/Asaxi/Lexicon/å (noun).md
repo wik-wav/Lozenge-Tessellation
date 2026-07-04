@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: å (noun) - time
 Word (Asaxi): å
 trnsltion. En: time

@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: bỏvko (noun) - grandfather
 Word (Asaxi): bỏvko
 trnsltion. En: grandfather

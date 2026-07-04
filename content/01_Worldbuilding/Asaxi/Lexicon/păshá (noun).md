@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: păshá (noun) - another (person, creature), the other
 Word (Asaxi): păshá
 trnsltion. En: another (person, creature), the other, someone else, a stranger, an outsider

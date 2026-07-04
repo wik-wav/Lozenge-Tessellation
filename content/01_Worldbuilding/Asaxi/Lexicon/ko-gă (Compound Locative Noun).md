@@ -1,4 +1,5 @@
 ---
+freq: 76
 title: ko-gă (Compound Locative Noun) - over there, yonder
 Word (Asaxi): ko-gă
 trnsltion. En: over there

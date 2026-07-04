@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: ŕoshů (verb) - to leak (shed water)
 Word (Asaxi): ŕoshů
 trnsltion. En: to leak (shed water)

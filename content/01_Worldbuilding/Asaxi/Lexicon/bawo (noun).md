@@ -1,4 +1,5 @@
 ---
+freq: 69
 title: bawo (noun) - the side
 Word (Asaxi): bawo
 trnsltion. En: the side

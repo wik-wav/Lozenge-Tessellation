@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: ită (noun) - tension, stress
 Word (Asaxi): ită
 trnsltion. En: tension, stress, tautness, anxiety, tightness

@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: bahjá (noun) - sibling, brother, sister
 Word (Asaxi): bahjá
 trnsltion. En: sibling, brother, sister

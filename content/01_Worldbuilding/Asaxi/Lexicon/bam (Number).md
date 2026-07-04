@@ -1,4 +1,5 @@
 ---
+freq: 72
 title: bam (Number) - 4, four
 Word (Asaxi): bam, 4
 trnsltion. En: 4, four

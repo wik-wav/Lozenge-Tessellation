@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: pawo (noun) - the front, the foreground
 Word (Asaxi): pawo
 trnsltion. En: the front, the foreground, the lead

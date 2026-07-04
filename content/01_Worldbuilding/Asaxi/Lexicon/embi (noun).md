@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: embi (noun) - plane
 Word (Asaxi): embi
 trnsltion. En: plane (geometry), flat surface, level, platform, zone

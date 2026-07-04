@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: fwè (noun) - mist / haze
 Word (Asaxi): fwè
 trnsltion. En: mist / haze

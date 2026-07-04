@@ -1,4 +1,5 @@
 ---
+freq: 69
 title: ågă (noun) - sometime, eventually
 Word (Asaxi): ågă
 trnsltion. En: sometime

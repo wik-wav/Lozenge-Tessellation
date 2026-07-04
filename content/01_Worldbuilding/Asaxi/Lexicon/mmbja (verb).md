@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: mmbja (verb) - to admire, to marvel at
 Word (Asaxi): mmbja
 trnsltion. En: to admire, to marvel at

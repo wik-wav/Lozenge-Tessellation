@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: aimù (verb) - to die, to perish
 Word (Asaxi): aimù
 trnsltion. En: to die, to perish

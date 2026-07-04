@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: xină (adjective) - sunny, golden, radiant
 Word (Asaxi): xină
 trnsltion. En: sunny, golden, radiant

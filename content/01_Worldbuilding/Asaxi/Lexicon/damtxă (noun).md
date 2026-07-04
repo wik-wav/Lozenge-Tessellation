@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: damtxă (noun) - decade
 Word (Asaxi): damtxă
 trnsltion. En: decade

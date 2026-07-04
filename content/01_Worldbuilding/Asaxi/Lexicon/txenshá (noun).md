@@ -1,4 +1,5 @@
 ---
+freq: 56
 Word (Asaxi): txenshá
 trnsltion. En: angel
 trnsltion. Pl: anioł

@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: igùŕa (noun) - game (video/board/card)
 Word (Asaxi): igùŕa
 trnsltion. En: game (video/board/card), match, sport

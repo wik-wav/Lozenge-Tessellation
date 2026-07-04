@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: tëbi (noun) - arm, upper limb
 Word (Asaxi): tëbi
 trnsltion. En: arm

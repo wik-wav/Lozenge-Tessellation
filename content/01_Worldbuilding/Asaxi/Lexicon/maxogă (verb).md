@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: maxogă (verb) - to bring
 Word (Asaxi): maxogă
 trnsltion. En: to bring

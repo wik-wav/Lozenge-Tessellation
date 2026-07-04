@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: maslo (noun) - butter (Pl. *masło*)
 Word (Asaxi): maslo
 trnsltion. En: butter (Pl. *masło*)

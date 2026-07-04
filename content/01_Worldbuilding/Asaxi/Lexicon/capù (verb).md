@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: capù (verb) - to stab, to pierce
 Word (Asaxi): capù
 trnsltion. En: to stab, to pierce

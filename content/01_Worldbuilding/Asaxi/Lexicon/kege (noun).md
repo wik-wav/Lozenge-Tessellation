@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: kege (noun) - cheek
 Word (Asaxi): kege
 trnsltion. En: cheek

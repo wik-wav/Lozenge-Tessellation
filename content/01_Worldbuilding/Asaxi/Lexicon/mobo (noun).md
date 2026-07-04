@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: mobo (noun) - heart
 Word (Asaxi): mobo
 trnsltion. En: heart

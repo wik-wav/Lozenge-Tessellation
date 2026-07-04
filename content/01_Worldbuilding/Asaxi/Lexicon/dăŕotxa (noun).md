@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: dăŕotxa (noun) - tide (sea-change)
 Word (Asaxi): dăŕotxa
 trnsltion. En: tide (sea-change)

@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: gă-gă (Compound Locative Noun) - somewhere
 Word (Asaxi): gă-gă
 trnsltion. En: somewhere

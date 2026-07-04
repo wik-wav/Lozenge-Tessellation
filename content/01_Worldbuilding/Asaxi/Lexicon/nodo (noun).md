@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: nodo (noun) - neck
 Word (Asaxi): nodo
 trnsltion. En: neck

@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: wexe (verb) - to wave
 Word (Asaxi): wexe
 trnsltion. En: to wave

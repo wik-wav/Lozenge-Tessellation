@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ŕăpỏ (noun) - ash (fire-powder)
 Word (Asaxi): ŕăpỏ
 trnsltion. En: ash (fire-powder)

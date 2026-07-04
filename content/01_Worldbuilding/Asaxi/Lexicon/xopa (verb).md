@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: xopa (verb) - to advance, to proceed
 Word (Asaxi): xopa
 trnsltion. En: to advance, to proceed, to move forward, to propel

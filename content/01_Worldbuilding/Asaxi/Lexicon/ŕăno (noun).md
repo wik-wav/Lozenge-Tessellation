@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: ŕăno (noun) - stripe, band,
 Word (Asaxi): ŕăno
 trnsltion. En: stripe, band, streak, bar (of color)

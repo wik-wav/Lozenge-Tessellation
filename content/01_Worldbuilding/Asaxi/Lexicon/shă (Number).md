@@ -1,4 +1,5 @@
 ---
+freq: 69
 title: shă (Number) - 7, seven
 Word (Asaxi): shă, 7
 trnsltion. En: 7, seven

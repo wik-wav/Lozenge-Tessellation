@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: kjèno (noun) - height, stature
 Word (Asaxi): kjèno
 trnsltion. En: height, stature, altitude, tallness

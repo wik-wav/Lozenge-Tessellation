@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: ihjokam (noun) - skeleton, skeletal system
 Word (Asaxi): ihjokam
 trnsltion. En: skeleton, skeletal system, frame

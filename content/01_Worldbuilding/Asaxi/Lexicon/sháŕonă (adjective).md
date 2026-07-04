@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: sháŕonă (adjective) - safe, secure
 Word (Asaxi): sháŕonă
 trnsltion. En: safe, secure, life-sustaining

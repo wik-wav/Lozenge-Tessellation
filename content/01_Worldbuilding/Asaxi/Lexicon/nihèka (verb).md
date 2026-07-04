@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: nihèka (verb) - to begin, to start
 Word (Asaxi): nihèka
 trnsltion. En: to begin, to start

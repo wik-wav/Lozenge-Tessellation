@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: kjègo (noun) - trunk / log
 Word (Asaxi): kjègo
 trnsltion. En: trunk / log

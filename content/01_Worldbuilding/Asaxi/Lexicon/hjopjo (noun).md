@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: hjopjo (noun) - lightning
 Word (Asaxi): hjopjo
 trnsltion. En: lightning

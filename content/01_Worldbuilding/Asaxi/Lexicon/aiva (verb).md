@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: aiva (verb) - to pity, to feel for
 Word (Asaxi): aiva
 trnsltion. En: to pity, to feel for

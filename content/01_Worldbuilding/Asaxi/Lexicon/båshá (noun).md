@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: båshá (noun) - hog, pig
 Word (Asaxi): båshá
 trnsltion. En: hog, pig

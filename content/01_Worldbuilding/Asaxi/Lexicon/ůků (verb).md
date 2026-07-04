@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: ůků (verb) - to transform, to change form
 Word (Asaxi): ůků
 trnsltion. En: to transform, to change form, to morph

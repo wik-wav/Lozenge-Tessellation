@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: shosa (noun) - path, way, road
 Word (Asaxi): shosa
 trnsltion. En: path, way, road, chaussee

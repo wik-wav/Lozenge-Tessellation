@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: pxỏnýj (adjective) - round, spherical
 Word (Asaxi): pxỏnýj
 trnsltion. En: round, spherical, ball-shaped

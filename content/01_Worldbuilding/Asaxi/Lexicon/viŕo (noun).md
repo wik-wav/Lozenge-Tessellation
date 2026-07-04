@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: viŕo (noun) - field / meadow
 Word (Asaxi): viŕo
 trnsltion. En: field / meadow

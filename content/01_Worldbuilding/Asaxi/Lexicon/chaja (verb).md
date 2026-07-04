@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: chaja (verb) - to chew, to gnaw
 Word (Asaxi): chaja
 trnsltion. En: to chew, to gnaw

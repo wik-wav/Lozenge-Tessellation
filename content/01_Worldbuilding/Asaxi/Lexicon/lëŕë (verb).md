@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: lëŕë (verb) - to lick
 Word (Asaxi): lëŕë
 trnsltion. En: to lick

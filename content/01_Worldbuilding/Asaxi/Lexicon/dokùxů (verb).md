@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: dokùxů (verb) - to heal, to treat, to medicate
 Word (Asaxi): dokùxů
 trnsltion. En: to heal, to treat, to medicate

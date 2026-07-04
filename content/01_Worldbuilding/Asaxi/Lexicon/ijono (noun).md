@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: ijono (noun) - vision, eyesight
 Word (Asaxi): ijono
 trnsltion. En: vision, eyesight, sight (faculty)

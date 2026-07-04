@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: cődao (verb) - to explain (understanding-give)
 Word (Asaxi): cődao
 trnsltion. En: to explain (understanding-give)

@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: haosů (verb) - to echo (sound-like a bark)
 Word (Asaxi): haosů
 trnsltion. En: to echo (sound-like a bark)

@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: bèbè (noun) - sheep
 Word (Asaxi): bèbè
 trnsltion. En: sheep

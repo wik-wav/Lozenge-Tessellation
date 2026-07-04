@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: jůŕë (noun) - outer space, cosmos
 Word (Asaxi): jůŕë
 trnsltion. En: outer space, cosmos

@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: gamaoro (noun) - silvery
 Word (Asaxi): gamaoro
 trnsltion. En: silvery
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
   - vocab_expansion
 ---
 # gamaoro ([[00_Ga-noun Compounds in Asaxi (list)]])

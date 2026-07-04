@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: këokanů (verb) - to hook
 Word (Asaxi): këokanů
 trnsltion. En: to hook

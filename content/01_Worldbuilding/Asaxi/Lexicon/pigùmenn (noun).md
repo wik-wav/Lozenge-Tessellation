@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: pigùmenn (noun) - pigment, raw color powder
 Word (Asaxi): pigùmenn
 trnsltion. En: pigment, raw color powder, dye (powder form)

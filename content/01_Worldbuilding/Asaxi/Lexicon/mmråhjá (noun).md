@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: mmråhjá (noun) - kitten
 Word (Asaxi): mmråhjá
 trnsltion. En: kitten

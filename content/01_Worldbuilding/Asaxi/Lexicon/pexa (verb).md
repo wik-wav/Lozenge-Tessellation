@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: pexa (verb) - to press, to push down
 Word (Asaxi): pexa
 trnsltion. En: to press, to push down

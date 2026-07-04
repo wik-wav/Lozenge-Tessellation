@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: cùmáka (noun) - jar (clay-vessel)
 Word (Asaxi): cùmáka
 trnsltion. En: jar (clay-vessel)

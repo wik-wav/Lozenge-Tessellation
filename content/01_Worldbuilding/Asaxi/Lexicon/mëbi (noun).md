@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: mëbi (noun) - eyebrow
 Word (Asaxi): mëbi
 trnsltion. En: eyebrow

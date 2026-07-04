@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: ken.ná (particle) - cannot
 Word (Asaxi): ken.ná
 trnsltion. En: cannot, unable to

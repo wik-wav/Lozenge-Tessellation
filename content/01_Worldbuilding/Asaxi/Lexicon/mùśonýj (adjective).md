@@ -1,4 +1,5 @@
 ---
+freq: 30
 title: mùśonýj (adjective) - mouldy, dank-green, mildewed
 Word (Asaxi): mùśonýj
 trnsltion. En: mouldy, dank-green, mildewed

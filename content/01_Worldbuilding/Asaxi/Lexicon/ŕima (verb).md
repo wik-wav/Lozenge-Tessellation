@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: ŕima (verb) - to meditate, to think
 Word (Asaxi): ŕima
 trnsltion. En: to meditate, to think

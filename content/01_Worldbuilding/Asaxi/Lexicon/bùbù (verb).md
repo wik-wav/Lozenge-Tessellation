@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: bùbù (verb) - to boil, to bubble
 Word (Asaxi): bùbù
 trnsltion. En: to boil, to bubble

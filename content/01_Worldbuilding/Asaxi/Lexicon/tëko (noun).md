@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: tëko (noun) - fist
 Word (Asaxi): tëko
 trnsltion. En: fist

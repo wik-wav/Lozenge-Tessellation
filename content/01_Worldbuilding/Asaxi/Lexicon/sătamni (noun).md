@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: sătamni (noun) - unison, unanimity
 Word (Asaxi): sătamni
 trnsltion. En: unison, unanimity

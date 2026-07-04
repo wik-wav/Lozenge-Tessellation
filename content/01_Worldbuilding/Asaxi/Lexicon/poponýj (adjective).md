@@ -1,4 +1,5 @@
 ---
+freq: 31
 title: poponýj (adjective) - ashen-pink, pale shell-pink, wan-rose
 Word (Asaxi): poponýj
 trnsltion. En: ashen-pink, pale shell-pink, wan-rose

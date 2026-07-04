@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: bashá (noun) - friend, companion
 Word (Asaxi): bashá
 trnsltion. En: friend, companion

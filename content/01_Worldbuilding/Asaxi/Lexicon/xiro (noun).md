@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: xiro (noun) - gold
 Word (Asaxi): xiro
 trnsltion. En: gold

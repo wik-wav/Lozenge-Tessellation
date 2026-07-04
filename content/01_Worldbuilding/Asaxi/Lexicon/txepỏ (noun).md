@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: txepỏ (noun) - feather
 Word (Asaxi): txepỏ
 trnsltion. En: feather

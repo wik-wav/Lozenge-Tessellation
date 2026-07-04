@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: toponů (verb) - to rain, to fall as drops
 Word (Asaxi): toponů
 trnsltion. En: to rain, to fall as drops

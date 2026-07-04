@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: sholù (verb) - to slide, to slip
 Word (Asaxi): sholù
 trnsltion. En: to slide, to slip

@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: pomo (noun) - dove, pigeon
 Word (Asaxi): pomo
 trnsltion. En: dove, pigeon

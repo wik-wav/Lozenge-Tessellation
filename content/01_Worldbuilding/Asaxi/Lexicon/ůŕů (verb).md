@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: ůŕů (verb) - to produce, yield, emit, give off
 Word (Asaxi): ůŕů
 trnsltion. En: to produce, yield, emit, give off

@@ -1,4 +1,5 @@
 ---
+freq: 32
 title: ŕimshá (noun) - lemur
 Word (Asaxi): ŕimshá
 trnsltion. En: lemur

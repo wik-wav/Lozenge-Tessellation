@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: hùhwo (noun) - the day before yesterday
 Word (Asaxi): hùhwo
 trnsltion. En: the day before yesterday

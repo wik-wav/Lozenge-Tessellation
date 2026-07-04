@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: ŕaso (noun) - steam / vapor
 Word (Asaxi): ŕaso
 trnsltion. En: steam / vapor

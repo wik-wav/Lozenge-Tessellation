@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: chỏno (noun) - food
 Word (Asaxi): chỏno
 trnsltion. En: food

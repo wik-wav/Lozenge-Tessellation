@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: kŕo (root word) - built construct / surface (suffix)
 Word (Asaxi): kŕo
 trnsltion. En: '"-construct", "-surface" (an unenterable built thing)'

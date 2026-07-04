@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: vawo (noun) - the inside
 Word (Asaxi): vawo
 trnsltion. En: the inside

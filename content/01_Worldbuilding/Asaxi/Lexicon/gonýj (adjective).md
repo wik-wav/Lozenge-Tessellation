@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: gonýj (adjective) - big, huge, rock-like
 Word (Asaxi): gonýj
 trnsltion. En: big, huge, rock-like

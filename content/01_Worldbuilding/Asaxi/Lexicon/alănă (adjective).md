@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: alănă (adjective) - loose, relaxed
 Word (Asaxi): alănă
 trnsltion. En: loose, relaxed, carefree, slack, baggy

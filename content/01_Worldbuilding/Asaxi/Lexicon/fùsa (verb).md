@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: fùsa (verb) - to wipe
 Word (Asaxi): fùsa
 trnsltion. En: to wipe

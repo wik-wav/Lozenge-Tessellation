@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: gănů (verb) - to wander, to roam
 Word (Asaxi): gănů
 trnsltion. En: to wander, to roam, to go somewhere (non-specific), to get lost

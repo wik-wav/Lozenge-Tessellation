@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: doko (verb) - to nod
 Word (Asaxi): doko
 trnsltion. En: to nod

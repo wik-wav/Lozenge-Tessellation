@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: xaŋobwo (noun) - obesity, morbid obesity
 Word (Asaxi): xaŋobwo
 trnsltion. En: obesity, morbid obesity, excess weight

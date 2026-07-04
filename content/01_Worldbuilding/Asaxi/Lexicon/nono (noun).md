@@ -1,4 +1,5 @@
 ---
+freq: 72
 title: nono (noun) - thing, object
 Word (Asaxi): nono
 trnsltion. En: thing, object, item, article, entity (inanimate)

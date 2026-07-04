@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: exe (noun) - crying, a cry, wailing
 Word (Asaxi): exe
 trnsltion. En: crying, a cry, wailing, sobbing

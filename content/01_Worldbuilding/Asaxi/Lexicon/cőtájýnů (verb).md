@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: cőtájýnů (verb) - to argue, to dispute
 Word (Asaxi): cőtájýnů
 trnsltion. En: to argue, to dispute, to quarrel

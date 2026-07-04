@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: joŕo (noun) - village (society-place)
 Word (Asaxi): joŕo
 trnsltion. En: village (society-place)

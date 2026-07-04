@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ŕăxa (verb) - to burn, to be ablaze
 Word (Asaxi): ŕăxa
 trnsltion. En: to burn, to be ablaze

@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: zù (noun) - skill, proficiency
 Word (Asaxi): zù
 trnsltion. En: skill, proficiency, technique, knack

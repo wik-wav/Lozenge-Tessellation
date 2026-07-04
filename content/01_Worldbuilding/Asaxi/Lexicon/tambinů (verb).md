@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: tambinů (verb) - to agree, to match
 Word (Asaxi): tambinů
 trnsltion. En: to agree, to match, to balance, to be equal to, to settle

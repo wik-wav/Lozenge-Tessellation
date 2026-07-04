@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: ănăka (verb) - to expect, to await
 Word (Asaxi): ănăka
 trnsltion. En: to expect, to await

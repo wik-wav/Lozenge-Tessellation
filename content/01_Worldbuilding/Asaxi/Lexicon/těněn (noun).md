@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: těněn (noun) - head
 Word (Asaxi): těněn
 trnsltion. En: head

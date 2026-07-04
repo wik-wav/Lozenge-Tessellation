@@ -1,4 +1,5 @@
 ---
+freq: 71
 title: kemtamni (noun) - family, household
 Word (Asaxi): kemtamni
 trnsltion. En: family, household

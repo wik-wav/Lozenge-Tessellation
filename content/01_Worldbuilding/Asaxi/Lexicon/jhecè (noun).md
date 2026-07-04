@@ -1,4 +1,5 @@
 ---
+freq: 54
 Word (Asaxi): jhecè
 trnsltion. En: jet
 trnsltion. Pl: odrzutowiec

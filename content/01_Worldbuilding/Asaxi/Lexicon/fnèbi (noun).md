@@ -1,4 +1,5 @@
 ---
+freq: 36
 title: fnèbi (noun) - oar / paddle
 Word (Asaxi): fnèbi
 trnsltion. En: oar / paddle

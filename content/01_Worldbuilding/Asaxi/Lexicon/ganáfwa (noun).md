@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: ganáfwa (noun) - clarity, transparency
 Word (Asaxi): ganáfwa
 trnsltion. En: clarity, transparency, cloudlessness (the quality)
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
 ---
 # ganáfwa ([[00_Ga-noun Compounds in Asaxi (list)|00_Ga-noun Compounds in Asaxi (list)]]
 

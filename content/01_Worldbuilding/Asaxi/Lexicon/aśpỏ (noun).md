@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: aśpỏ (noun) - sock
 Word (Asaxi): aśpỏ
 trnsltion. En: sock

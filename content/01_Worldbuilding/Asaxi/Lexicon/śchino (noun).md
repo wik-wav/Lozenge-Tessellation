@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: śchino (noun) - length, distance (linear)
 Word (Asaxi): śchino
 trnsltion. En: length, distance (linear), extent

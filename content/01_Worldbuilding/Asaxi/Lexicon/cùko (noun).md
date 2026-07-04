@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: cùko (noun) - brick (baked clay)
 Word (Asaxi): cùko
 trnsltion. En: brick (baked clay)

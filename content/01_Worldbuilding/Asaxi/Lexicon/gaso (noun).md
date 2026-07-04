@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: gaso (noun) - grey
 Word (Asaxi): gaso
 trnsltion. En: grey
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
   - vocab_expansion
 ---
 # gaso ([[00_Ga-noun Compounds in Asaxi (list)]])

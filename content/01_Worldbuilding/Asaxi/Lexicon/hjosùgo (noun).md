@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: hjosùgo (noun) - diamond (star-crystal)
 Word (Asaxi): hjosùgo
 trnsltion. En: diamond (star-crystal)

@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: dokùkam (noun) - hospital (medicine-structure)
 Word (Asaxi): dokùkam
 trnsltion. En: hospital (medicine-structure)

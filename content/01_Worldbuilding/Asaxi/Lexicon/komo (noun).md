@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: komo (noun) - rice (Jp. *kome*)
 Word (Asaxi): komo
 trnsltion. En: rice (Jp. *kome*)

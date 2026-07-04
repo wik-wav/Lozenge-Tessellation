@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: gùŕoshá (noun) - snake, serpent
 Word (Asaxi): gùŕoshá
 trnsltion. En: snake, serpent

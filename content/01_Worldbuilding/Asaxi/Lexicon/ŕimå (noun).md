@@ -1,4 +1,5 @@
 ---
+freq: 70
 title: ŕimå (noun) - thought, idea
 Word (Asaxi): ŕimå
 trnsltion. En: thought, idea

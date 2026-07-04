@@ -1,4 +1,5 @@
 ---
+freq: 68
 title: wă (Number) - 9, nine
 Word (Asaxi): wă, 9
 trnsltion. En: 9, nine

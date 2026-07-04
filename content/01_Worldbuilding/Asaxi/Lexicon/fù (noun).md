@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: fù (noun) - nose, snout
 Word (Asaxi): fù
 trnsltion. En: nose

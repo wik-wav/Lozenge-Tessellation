@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: miană (adjective) - sweet
 Word (Asaxi): miană
 trnsltion. En: sweet

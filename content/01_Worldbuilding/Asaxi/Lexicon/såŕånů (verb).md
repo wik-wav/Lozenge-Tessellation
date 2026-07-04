@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: såŕånů (verb) - to sing
 Word (Asaxi): såŕånů
 trnsltion. En: to sing

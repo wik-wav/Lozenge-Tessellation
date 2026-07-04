@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: dåka (verb) - to promise, to vow
 Word (Asaxi): dåka
 trnsltion. En: to promise, to vow

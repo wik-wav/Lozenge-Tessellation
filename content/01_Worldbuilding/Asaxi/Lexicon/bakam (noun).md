@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: bakam (noun) - wall
 Word (Asaxi): bakam
 trnsltion. En: wall

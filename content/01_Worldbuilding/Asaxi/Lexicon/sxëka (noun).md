@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: sxëka (noun) - scissors (sharp-tool)
 Word (Asaxi): sxëka
 trnsltion. En: scissors (sharp-tool)

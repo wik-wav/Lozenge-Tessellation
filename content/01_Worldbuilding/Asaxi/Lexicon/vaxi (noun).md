@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: vaxi (noun) - the date, calendar day; on the day
 Word (Asaxi): vaxi
 trnsltion. En: the date, calendar day; on the day

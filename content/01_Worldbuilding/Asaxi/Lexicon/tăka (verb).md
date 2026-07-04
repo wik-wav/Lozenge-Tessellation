@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: tăka (verb) - to unite, to join forces
 Word (Asaxi): tăka
 trnsltion. En: to unite, to join forces, to merge, to ally

@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: eśnå (noun) - grin, smirk
 Word (Asaxi): eśnå
 trnsltion. En: grin, smirk

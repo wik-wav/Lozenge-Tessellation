@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ŕoxo (verb) - to flow, to stream
 Word (Asaxi): ŕoxo
 trnsltion. En: to flow, to stream

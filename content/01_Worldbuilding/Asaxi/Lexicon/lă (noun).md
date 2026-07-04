@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: lă (noun) - looseness, slack, give
 Word (Asaxi): lă
 trnsltion. En: looseness, slack, give

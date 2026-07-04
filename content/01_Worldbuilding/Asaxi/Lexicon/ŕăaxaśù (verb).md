@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: ŕăaxaśù (verb) - to dance
 Word (Asaxi): ŕăaxaśù
 trnsltion. En: to dance

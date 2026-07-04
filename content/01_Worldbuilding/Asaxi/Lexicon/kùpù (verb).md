@@ -1,4 +1,5 @@
 ---
+freq: 43
 title: kùpù (verb) - to tumble, to topple
 Word (Asaxi): kùpù
 trnsltion. En: to tumble, to topple

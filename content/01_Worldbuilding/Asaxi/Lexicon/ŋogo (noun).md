@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: ŋogo (noun) - anchor
 Word (Asaxi): ŋogo
 trnsltion. En: anchor

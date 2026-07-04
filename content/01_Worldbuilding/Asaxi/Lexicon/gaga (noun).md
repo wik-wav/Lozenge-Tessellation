@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: gaga (noun) - duck
 Word (Asaxi): gaga
 trnsltion. En: duck

@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: těmxapỏ (noun) - hood
 Word (Asaxi): těmxapỏ
 trnsltion. En: hood

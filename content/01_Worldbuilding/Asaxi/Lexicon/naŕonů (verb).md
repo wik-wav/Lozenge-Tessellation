@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: naŕonů (verb) - to mix, to combine
 Word (Asaxi): naŕonů
 trnsltion. En: to mix, to combine, to blend, to compound, to multiply (action)

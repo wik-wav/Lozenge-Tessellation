@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: roshá (noun) - smith (iron-person)
 Word (Asaxi): roshá
 trnsltion. En: smith (iron-person)

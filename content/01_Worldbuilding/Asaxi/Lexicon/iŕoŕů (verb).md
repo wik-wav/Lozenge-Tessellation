@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: iŕoŕů (verb) - to colour, to generate colour
 Word (Asaxi): iŕoŕů
 trnsltion. En: to colour, to generate colour

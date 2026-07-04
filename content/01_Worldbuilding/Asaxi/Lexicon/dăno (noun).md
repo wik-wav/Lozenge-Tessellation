@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: dăno (noun) - size, magnitude
 Word (Asaxi): dăno
 trnsltion. En: size, magnitude, scale, dimensions

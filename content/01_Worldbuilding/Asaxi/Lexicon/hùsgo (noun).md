@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: hùsgo (noun) - dune (sand-mound)
 Word (Asaxi): hùsgo
 trnsltion. En: dune (sand-mound)

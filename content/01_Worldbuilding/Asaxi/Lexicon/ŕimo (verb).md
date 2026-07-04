@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: ŕimo (verb) - to imagine, to envision
 Word (Asaxi): ŕimo
 trnsltion. En: to imagine, to envision

@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: kamm (noun) - building
 Word (Asaxi): kamm
 trnsltion. En: building

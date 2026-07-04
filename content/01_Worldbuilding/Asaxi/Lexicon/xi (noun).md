@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: xi (noun) - sun, day
 Word (Asaxi): xi
 trnsltion. En: sun, day

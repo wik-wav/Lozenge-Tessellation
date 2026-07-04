@@ -1,4 +1,5 @@
 ---
+freq: 68
 title: shěso (noun) - book
 Word (Asaxi): shěso
 trnsltion. En: book

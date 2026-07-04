@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: cè (verb) - to know, to be aware of
 Word (Asaxi): cè
 trnsltion. En: to know, to be aware of

@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: vashá (noun) - guest (one who enters)
 Word (Asaxi): vashá
 trnsltion. En: guest (one who enters)

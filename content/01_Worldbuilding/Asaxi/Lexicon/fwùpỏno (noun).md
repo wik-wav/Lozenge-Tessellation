@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: fwùpỏno (noun) - sail
 Word (Asaxi): fwùpỏno
 trnsltion. En: sail

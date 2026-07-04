@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: kjèpo (noun) - tree
 Word (Asaxi): kjèpo
 trnsltion. En: tree

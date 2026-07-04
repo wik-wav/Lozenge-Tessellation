@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: ýhýnă (adjective) - mouse-like, tiny (cute/fragile), jittery
 Word (Asaxi): ýhýnă
 trnsltion. En: mouse-like, tiny (cute/fragile), jittery, timid, quietly (timidly), cowardly, nervously, inconspicuously

@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: ănå (verb) - to wait, to bide time
 Word (Asaxi): ănå
 trnsltion. En: to wait, to bide time, to anticipate, to expect

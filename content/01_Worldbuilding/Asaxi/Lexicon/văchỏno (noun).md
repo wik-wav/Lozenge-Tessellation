@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: văchỏno (noun) - vegetable
 Word (Asaxi): văchỏno
 trnsltion. En: vegetable

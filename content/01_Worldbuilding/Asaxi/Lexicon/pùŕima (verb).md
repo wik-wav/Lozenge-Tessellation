@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: pùŕima (verb) - to suspect, to doubt
 Word (Asaxi): pùŕima
 trnsltion. En: to suspect, to doubt, to be unsure, to reckon (weakly), to suppose

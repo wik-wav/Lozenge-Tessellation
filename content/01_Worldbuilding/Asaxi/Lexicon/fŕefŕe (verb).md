@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: fŕefŕe (verb) - to shake, to tremble
 Word (Asaxi): fŕefŕe
 trnsltion. En: to shake, to tremble

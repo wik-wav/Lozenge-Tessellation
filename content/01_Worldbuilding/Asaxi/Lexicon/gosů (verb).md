@@ -1,4 +1,5 @@
 ---
+freq: 33
 title: gosů (verb) - to clatter, to sound stony
 Word (Asaxi): gosů
 trnsltion. En: to clatter, to sound stony

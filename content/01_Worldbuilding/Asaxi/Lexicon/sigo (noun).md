@@ -1,4 +1,5 @@
 ---
+freq: 70
 title: sigo (noun) - number, digit
 Word (Asaxi): sigo
 trnsltion. En: number

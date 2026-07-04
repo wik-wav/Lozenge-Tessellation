@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: dănomáka (noun) - chest (big box)
 Word (Asaxi): dănomáka
 trnsltion. En: chest (big box)

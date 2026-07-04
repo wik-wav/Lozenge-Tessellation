@@ -1,4 +1,5 @@
 ---
+freq: 43
 title: xipùŕo (noun) - dusk, sunset
 Word (Asaxi): xipùŕo
 trnsltion. En: dusk, sunset

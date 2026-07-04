@@ -1,4 +1,5 @@
 ---
+freq: 20
 title: găhjo (noun) - emaciation, boniness, gauntness, skin and bones
 Word (Asaxi): găhjo
 trnsltion. En: emaciation, boniness, gauntness, skin and bones
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
 ---
 # găhjo ([[00_Ga-noun Compounds in Asaxi (list)]])
 

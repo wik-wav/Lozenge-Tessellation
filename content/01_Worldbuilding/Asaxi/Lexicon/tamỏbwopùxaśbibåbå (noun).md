@@ -1,4 +1,5 @@
 ---
+freq: 20
 title: tamỏbwopùxaśbibåbå (noun) - gastrocnemius, calf muscle
 Word (Asaxi): tamỏbwopùxaśbibåbå
 trnsltion. En: gastrocnemius, calf muscle

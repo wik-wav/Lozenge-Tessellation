@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: shějýn (noun) - education
 Word (Asaxi): shějýn
 trnsltion. En: education

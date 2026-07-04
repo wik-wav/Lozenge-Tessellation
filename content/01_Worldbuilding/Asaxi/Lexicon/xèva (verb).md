@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: xèva (verb) - to serve, to attend
 Word (Asaxi): xèva
 trnsltion. En: to serve, to attend

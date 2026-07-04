@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: kùŕù (noun) - king, chief (Pl. *król*)
 Word (Asaxi): kùŕù
 trnsltion. En: king, chief (Pl. *król*)

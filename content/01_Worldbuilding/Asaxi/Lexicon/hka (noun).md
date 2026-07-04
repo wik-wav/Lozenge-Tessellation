@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: hka (noun) - shield (cover-tool)
 Word (Asaxi): hka
 trnsltion. En: shield (cover-tool)

@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: kùkishá (noun) - insect, bug
 Word (Asaxi): kùkishá
 trnsltion. En: insect, bug

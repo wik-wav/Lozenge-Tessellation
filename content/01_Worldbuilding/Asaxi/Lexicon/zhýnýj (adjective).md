@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: zhýnýj (adjective) - cold, chilly
 Word (Asaxi): zhýnýj
 trnsltion. En: cold, chilly, frigid

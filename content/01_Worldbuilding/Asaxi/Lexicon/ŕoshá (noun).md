@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ŕoshá (noun) - fish
 Word (Asaxi): ŕoshá
 trnsltion. En: fish

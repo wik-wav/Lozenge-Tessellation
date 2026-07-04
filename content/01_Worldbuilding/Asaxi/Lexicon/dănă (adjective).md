@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: dănă (adjective) - big, huge
 Word (Asaxi): dănă
 trnsltion. En: big, huge

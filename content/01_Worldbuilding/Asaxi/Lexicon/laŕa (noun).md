@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: laŕa (noun) - tongue
 Word (Asaxi): laŕa
 trnsltion. En: tongue

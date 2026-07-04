@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: pjobi (noun) - candle (light-rod)
 Word (Asaxi): pjobi
 trnsltion. En: candle (light-rod)

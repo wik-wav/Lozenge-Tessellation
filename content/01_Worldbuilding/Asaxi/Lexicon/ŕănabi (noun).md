@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: ŕănabi (noun) - speed, velocity
 Word (Asaxi): ŕănabi
 trnsltion. En: speed, velocity, pace, rapidity

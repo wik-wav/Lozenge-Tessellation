@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: xatëbi (noun) - shoulder
 Word (Asaxi): xatëbi
 trnsltion. En: shoulder

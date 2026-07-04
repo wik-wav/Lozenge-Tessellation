@@ -1,4 +1,5 @@
 ---
+freq: 39
 title: axană (adjective) - approachable, friendly
 Word (Asaxi): axană
 trnsltion. En: approachable, friendly, cheerful, jolly, good-natured

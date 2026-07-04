@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: dăŕoŕo (noun) - flood (great-water)
 Word (Asaxi): dăŕoŕo
 trnsltion. En: flood (great-water)

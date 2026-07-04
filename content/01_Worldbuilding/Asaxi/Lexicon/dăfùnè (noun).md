@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: dăfùnè (noun) - ship
 Word (Asaxi): dăfùnè
 trnsltion. En: ship

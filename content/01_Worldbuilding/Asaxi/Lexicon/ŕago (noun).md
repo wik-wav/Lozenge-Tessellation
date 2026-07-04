@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: ŕago (noun) - charcoal, cinder, ember-dark
 Word (Asaxi): ŕago
 trnsltion. En: charcoal, cinder, ember-dark

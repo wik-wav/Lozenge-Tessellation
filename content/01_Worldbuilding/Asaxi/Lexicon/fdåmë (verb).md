@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: fdåmë (verb) - to not show, to withhold, to conceal, to not send
 Word (Asaxi): fdåmë
 trnsltion. En: to withhold, to not send, to conceal, to not show (deliberately)

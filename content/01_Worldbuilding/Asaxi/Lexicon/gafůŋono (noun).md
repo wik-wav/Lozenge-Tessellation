@@ -1,4 +1,5 @@
 ---
+freq: 30
 title: gafůŋono (noun) - weightlessness, levitation
 Word (Asaxi): gafůŋono
 trnsltion. En: weightlessness, levitation, zero-gravity
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
   - vocab_expansion
 ---
 # gafůŋono ([[00_Ga-noun Compounds in Asaxi (list)]])

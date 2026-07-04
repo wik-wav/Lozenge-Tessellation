@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: ksùŕo (noun) - beach / shore
 Word (Asaxi): ksùŕo
 trnsltion. En: beach / shore

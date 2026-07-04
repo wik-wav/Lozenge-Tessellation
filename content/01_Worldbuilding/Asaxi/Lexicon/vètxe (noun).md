@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: vètxe (noun) - leaf
 Word (Asaxi): vètxe
 trnsltion. En: leaf

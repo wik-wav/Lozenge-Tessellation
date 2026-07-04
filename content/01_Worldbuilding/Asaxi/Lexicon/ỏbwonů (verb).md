@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: ỏbwonů (verb) - to cuddle
 Word (Asaxi): ỏbwonů
 trnsltion. En: to cuddle

@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: fwovi (noun) - hill
 Word (Asaxi): fwovi
 trnsltion. En: hill

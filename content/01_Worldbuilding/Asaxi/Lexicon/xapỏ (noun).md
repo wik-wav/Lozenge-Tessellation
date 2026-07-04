@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: xapỏ (noun) - coat / cloak
 Word (Asaxi): xapỏ
 trnsltion. En: coat / cloak

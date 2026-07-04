@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: hjo (noun) - star
 Word (Asaxi): hjo
 trnsltion. En: star

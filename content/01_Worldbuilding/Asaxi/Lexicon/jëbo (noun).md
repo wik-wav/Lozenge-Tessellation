@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: jëbo (noun) - chin
 Word (Asaxi): jëbo
 trnsltion. En: chin

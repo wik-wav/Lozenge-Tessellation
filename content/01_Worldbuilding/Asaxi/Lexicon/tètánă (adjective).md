@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: tètánă (adjective) - painful, hurtful
 Word (Asaxi): tètánă
 trnsltion. En: painful, hurtful

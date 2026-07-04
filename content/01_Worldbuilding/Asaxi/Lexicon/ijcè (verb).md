@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: ijcè (verb) - to recognise
 Word (Asaxi): ijcè
 trnsltion. En: to recognise

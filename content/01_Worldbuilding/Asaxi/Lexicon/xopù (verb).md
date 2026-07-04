@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: xopù (verb) - to move downward
 Word (Asaxi): xopù
 trnsltion. En: to move downward, to descend, to sink, to drop (oneself)

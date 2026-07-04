@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: sima (noun) - island
 Word (Asaxi): sima
 trnsltion. En: island

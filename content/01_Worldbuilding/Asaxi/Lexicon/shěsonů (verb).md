@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: shěsonů (verb) - to read
 Word (Asaxi): shěsonů
 trnsltion. En: to read

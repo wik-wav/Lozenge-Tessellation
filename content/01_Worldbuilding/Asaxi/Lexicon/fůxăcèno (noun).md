@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: fůxăcèno (noun) - lie, falsehood
 Word (Asaxi): fůxăcèno
 trnsltion. En: lie, falsehood

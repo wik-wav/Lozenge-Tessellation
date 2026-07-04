@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: kxoshá (noun) - frog, toad
 Word (Asaxi): kxoshá
 trnsltion. En: frog, toad

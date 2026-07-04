@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: båbånă (adjective) - muscular, hulking
 Word (Asaxi): båbånă
 trnsltion. En: muscular, hunky, hulking, gymbro-like, rugged, rough

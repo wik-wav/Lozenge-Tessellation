@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: naŕo (verb) - to multiply, to mix, to combine, to compound
 Word (Asaxi): naŕo
 trnsltion. En: to multiply, to mix, to combine, to compound

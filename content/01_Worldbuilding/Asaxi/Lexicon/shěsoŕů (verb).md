@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: shěsoŕů (verb) - to write, to author (a work)
 Word (Asaxi): shěsoŕů
 trnsltion. En: to write, to author (a work)

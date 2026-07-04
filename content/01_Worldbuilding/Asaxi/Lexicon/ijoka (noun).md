@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: ijoka (noun) - sights (of a gun), crosshair
 Word (Asaxi): ijoka
 trnsltion. En: sights (of a gun), scope, crosshair, aiming device

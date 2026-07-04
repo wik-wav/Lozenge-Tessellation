@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: sùggo (noun) - marble (crystal-stone)
 Word (Asaxi): sùggo
 trnsltion. En: marble (crystal-stone)

@@ -1,4 +1,5 @@
 ---
+freq: 37
 title: itănýj (adjective) - tensed up, taut
 Word (Asaxi): itănýj
 trnsltion. En: tensed up, taut, tight, anxious, stressed, stiff

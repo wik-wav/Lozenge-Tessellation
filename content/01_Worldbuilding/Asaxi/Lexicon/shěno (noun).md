@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: shěno (noun) - paper
 Word (Asaxi): shěno
 trnsltion. En: paper

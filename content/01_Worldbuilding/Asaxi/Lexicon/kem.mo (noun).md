@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: kem.mo (noun) - possibility, option
 Word (Asaxi): kem.mo
 trnsltion. En: possibility, option, opportunity, potential

@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: mýdonů (verb) - to soap, to wash with soap
 Word (Asaxi): mýdonů
 trnsltion. En: to soap, to wash with soap

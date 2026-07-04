@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: poposhá (noun) - turtle (shell-creature)
 Word (Asaxi): poposhá
 trnsltion. En: turtle (shell-creature)

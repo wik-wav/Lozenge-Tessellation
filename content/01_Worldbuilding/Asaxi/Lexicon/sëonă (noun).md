@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: sëonă (noun) - essential, vital
 Word (Asaxi): sëonă
 trnsltion. En: essential, vital, core, fundamental, indispensable

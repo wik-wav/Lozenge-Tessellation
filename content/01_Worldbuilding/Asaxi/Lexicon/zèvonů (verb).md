@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: zèvonů (verb) - to name, to title
 Word (Asaxi): zèvonů
 trnsltion. En: to name, to title

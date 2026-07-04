@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: kŕaa (verb) - to wake, to awaken
 Word (Asaxi): kŕaa
 trnsltion. En: to wake, to awaken

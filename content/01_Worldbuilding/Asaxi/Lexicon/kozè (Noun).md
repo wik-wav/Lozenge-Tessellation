@@ -1,4 +1,5 @@
 ---
+freq: 43
 title: kozè (Noun) - antiquity, ancient past
 Word (Asaxi): kozè
 trnsltion. En: antiquity, ancient past, long ago

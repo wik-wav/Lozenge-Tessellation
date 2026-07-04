@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: shějýnshá (noun) - teacher
 Word (Asaxi): shějýnshá
 trnsltion. En: teacher

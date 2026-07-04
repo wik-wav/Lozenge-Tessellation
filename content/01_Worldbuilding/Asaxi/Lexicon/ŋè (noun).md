@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: ŋè (noun) - shadow
 Word (Asaxi): ŋè
 trnsltion. En: shadow

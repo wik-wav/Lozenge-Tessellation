@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: bỏshá (noun) - man (adult male)
 Word (Asaxi): bỏshá
 trnsltion. En: man (adult male)

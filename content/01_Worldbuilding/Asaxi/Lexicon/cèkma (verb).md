@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: cèkma (verb) - to trust, to rely on
 Word (Asaxi): cèkma
 trnsltion. En: to trust, to rely on

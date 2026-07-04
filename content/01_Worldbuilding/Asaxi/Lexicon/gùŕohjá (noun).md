@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: gùŕohjá (noun) - worm
 Word (Asaxi): gùŕohjá
 trnsltion. En: worm

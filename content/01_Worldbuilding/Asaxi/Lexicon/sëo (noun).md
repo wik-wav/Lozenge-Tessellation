@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: sëo (noun) - nail, claw
 Word (Asaxi): sëo
 trnsltion. En: nail, claw, talon

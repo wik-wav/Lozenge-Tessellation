@@ -1,4 +1,5 @@
 ---
+freq: 40
 title: ŕăŕo (noun) - magma, molten rock
 Word (Asaxi): ŕăŕo
 trnsltion. En: magma, molten rock

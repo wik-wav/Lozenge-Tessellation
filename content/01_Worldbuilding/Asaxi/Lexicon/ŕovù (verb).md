@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: ŕovù (verb) - to dissolve
 Word (Asaxi): ŕovù
 trnsltion. En: to dissolve

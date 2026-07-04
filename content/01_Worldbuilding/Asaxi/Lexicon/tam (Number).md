@@ -1,4 +1,5 @@
 ---
+freq: 75
 title: tam (Number) - 2, two
 Word (Asaxi): tam, 2
 trnsltion. En: 2, two

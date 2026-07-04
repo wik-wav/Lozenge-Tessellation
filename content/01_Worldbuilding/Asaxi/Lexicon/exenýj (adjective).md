@@ -1,4 +1,5 @@
 ---
+freq: 29
 title: exenýj (adjective) - weepy, wailing
 Word (Asaxi): exenýj
 trnsltion. En: weepy, wailing, tearful, tragic, sorrowful, lugubrious

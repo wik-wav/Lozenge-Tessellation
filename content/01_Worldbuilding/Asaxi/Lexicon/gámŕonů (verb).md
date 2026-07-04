@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: gámŕonů (verb) - to paint
 Word (Asaxi): gámŕonů
 trnsltion. En: to paint

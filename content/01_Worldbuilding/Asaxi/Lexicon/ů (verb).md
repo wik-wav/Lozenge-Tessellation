@@ -1,4 +1,5 @@
 ---
+freq: 85
 title: ů (verb) - to be (actively)
 Word (Asaxi): ů
 trnsltion. En: to be (actively)

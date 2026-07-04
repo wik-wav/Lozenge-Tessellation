@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: vèdë (noun) - branch
 Word (Asaxi): vèdë
 trnsltion. En: branch

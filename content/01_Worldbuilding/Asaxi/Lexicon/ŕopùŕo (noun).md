@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: ŕopùŕo (noun) - waterfall
 Word (Asaxi): ŕopùŕo
 trnsltion. En: waterfall

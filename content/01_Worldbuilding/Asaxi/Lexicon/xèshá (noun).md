@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: xèshá (noun) - servant (toil-person)
 Word (Asaxi): xèshá
 trnsltion. En: servant (toil-person)

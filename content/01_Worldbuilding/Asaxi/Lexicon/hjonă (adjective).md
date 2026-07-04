@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: hjonă (adjective) - bright, shiny
 Word (Asaxi): hjonă
 trnsltion. En: bright, shiny, interesting

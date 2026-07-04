@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: ihjáshá (noun) - bee, wasp
 Word (Asaxi): ihjáshá
 trnsltion. En: bee, wasp

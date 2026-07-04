@@ -1,4 +1,5 @@
 ---
+freq: 27
 title: ală (noun) - looseness, slack
 Word (Asaxi): ală
 trnsltion. En: looseness, slack, laxity, freedom from tension

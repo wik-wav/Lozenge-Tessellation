@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: xowỏ (verb) - to center, to converge
 Word (Asaxi): xowỏ
 trnsltion. En: to center, to converge, to align to middle

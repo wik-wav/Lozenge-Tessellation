@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: mùko (noun) - bull, ox
 Word (Asaxi): mùko
 trnsltion. En: bull, ox

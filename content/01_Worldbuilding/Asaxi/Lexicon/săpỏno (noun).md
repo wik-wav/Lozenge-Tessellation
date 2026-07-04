@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: săpỏno (noun) - blanket (warm-cloth)
 Word (Asaxi): săpỏno
 trnsltion. En: blanket (warm-cloth)

@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: dăŕoshá (noun) - whale (great-water-creature)
 Word (Asaxi): dăŕoshá
 trnsltion. En: whale (great-water-creature)

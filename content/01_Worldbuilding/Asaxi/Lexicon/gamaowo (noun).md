@@ -7,6 +7,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-literal
 title: gamaowo (noun) - night sky
 ---
 # gamaowo ([[00_Ga-noun Compounds in Asaxi (list)]])

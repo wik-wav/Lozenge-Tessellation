@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: tákasi (noun) - fallout, aftermath (of war)
 Word (Asaxi): tákasi
 trnsltion. En: fallout, aftermath (of war), post-war desolation, ruins, ash-heap

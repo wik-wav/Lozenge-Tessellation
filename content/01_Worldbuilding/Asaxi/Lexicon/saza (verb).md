@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: saza (verb) - to rub, to scrub
 Word (Asaxi): saza
 trnsltion. En: to rub, to scrub

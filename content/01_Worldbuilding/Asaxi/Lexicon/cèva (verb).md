@@ -1,4 +1,5 @@
 ---
+freq: 69
 title: cèva (verb) - to believe, to hold true
 Word (Asaxi): cèva
 trnsltion. En: to believe, to hold true

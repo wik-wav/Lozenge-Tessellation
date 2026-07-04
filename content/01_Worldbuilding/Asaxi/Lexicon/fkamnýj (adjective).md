@@ -1,4 +1,5 @@
 ---
+freq: 40
 title: fkamnýj (adjective) - domesticated, dependent
 Word (Asaxi): fkamnýj
 trnsltion. En: domesticated, dependent, reliant, not self-sufficient, tame

@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: nicèshá (noun) - student, learner, pupil
 Word (Asaxi): nicèshá
 trnsltion. En: student, learner, pupil

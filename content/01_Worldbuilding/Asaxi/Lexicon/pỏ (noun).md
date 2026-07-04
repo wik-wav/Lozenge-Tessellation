@@ -1,4 +1,5 @@
 ---
+freq: 40
 title: pỏ (noun) - fluff, soft fur
 Word (Asaxi): pỏ
 trnsltion. En: fluff, down, wool, soft fur, fuzz

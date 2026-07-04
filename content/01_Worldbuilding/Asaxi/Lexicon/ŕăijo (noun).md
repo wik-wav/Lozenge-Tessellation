@@ -1,4 +1,5 @@
 ---
+freq: 69
 title: ŕăijo (noun) - power, strength
 Word (Asaxi): ŕăijo
 trnsltion. En: power, strength

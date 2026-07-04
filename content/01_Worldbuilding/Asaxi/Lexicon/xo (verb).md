@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: xo (verb) - to move, to go
 Word (Asaxi): xo
 trnsltion. En: to move, to go

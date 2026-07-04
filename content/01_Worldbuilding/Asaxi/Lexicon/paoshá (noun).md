@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: paoshá (noun) - horse
 Word (Asaxi): paoshá
 trnsltion. En: horse

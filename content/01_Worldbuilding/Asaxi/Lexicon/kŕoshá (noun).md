@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: kŕoshá (noun) - crocodile (jaw-creature)
 Word (Asaxi): kŕoshá
 trnsltion. En: crocodile (jaw-creature)

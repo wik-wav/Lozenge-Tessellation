@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: pjono (noun) - image, picture
 Word (Asaxi): pjono
 trnsltion. En: image, picture

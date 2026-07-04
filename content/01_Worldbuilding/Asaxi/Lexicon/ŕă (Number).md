@@ -1,4 +1,5 @@
 ---
+freq: 72
 title: ŕă (Number) - 5, five
 Word (Asaxi): ŕă, 5
 trnsltion. En: 5, five

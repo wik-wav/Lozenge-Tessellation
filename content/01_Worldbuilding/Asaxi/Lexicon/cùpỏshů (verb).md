@@ -1,4 +1,5 @@
 ---
+freq: 29
 title: cùpỏshů (verb) - to dust off, to clear of dust
 Word (Asaxi): cùpỏshů
 trnsltion. En: to dust off, to clear of dust

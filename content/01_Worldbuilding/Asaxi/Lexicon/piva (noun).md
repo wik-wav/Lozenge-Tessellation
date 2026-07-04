@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: piva (noun) - flower, bloom
 Word (Asaxi): piva
 trnsltion. En: flower, bloom

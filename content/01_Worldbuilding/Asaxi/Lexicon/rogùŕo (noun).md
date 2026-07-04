@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: rogùŕo (noun) - chain (iron-rope)
 Word (Asaxi): rogùŕo
 trnsltion. En: chain (iron-rope)

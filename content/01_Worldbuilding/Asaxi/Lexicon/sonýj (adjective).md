@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: sonýj (adjective) - smoky, hazy-grey, murky
 Word (Asaxi): sonýj
 trnsltion. En: smoky, hazy-grey, murky

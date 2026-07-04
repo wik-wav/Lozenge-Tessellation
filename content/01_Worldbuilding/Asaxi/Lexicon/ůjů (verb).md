@@ -1,4 +1,5 @@
 ---
+freq: 73
 title: ůjů (verb) - to look, to appear (visually)
 Word (Asaxi): ůjů
 trnsltion. En: to look, to appear (visually)

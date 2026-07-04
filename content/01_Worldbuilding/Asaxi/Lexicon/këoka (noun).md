@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: këoka (noun) - hook (beak-tool)
 Word (Asaxi): këoka
 trnsltion. En: hook (beak-tool)

@@ -1,4 +1,5 @@
 ---
+freq: 38
 title: ŕasonů (verb) - to evaporate, to steam off
 Word (Asaxi): ŕasonů
 trnsltion. En: to evaporate, to steam off

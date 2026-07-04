@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: gavină (adjective) - well, skillfully
 Word (Asaxi): gavină
 trnsltion. En: good, virtuous, well, skillfully

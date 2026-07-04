@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: gaxi (noun) - yellow
 Word (Asaxi): gaxi
 trnsltion. En: yellow
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
   - vocab_expansion
 ---
 # gaxi ([[00_Ga-noun Compounds in Asaxi (list)]])

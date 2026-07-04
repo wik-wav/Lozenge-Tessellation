@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: tëbipỏ (noun) - sleeve
 Word (Asaxi): tëbipỏ
 trnsltion. En: sleeve

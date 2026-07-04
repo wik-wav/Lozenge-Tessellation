@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: vjèbŕù (noun) - camel (Ru. *verblyud*)
 Word (Asaxi): vjèbŕù
 trnsltion. En: camel (Ru. *verblyud*)

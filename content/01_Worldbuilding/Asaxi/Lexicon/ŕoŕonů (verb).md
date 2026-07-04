@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ŕoŕonů (verb) - to drink
 Word (Asaxi): ŕoŕonů
 trnsltion. En: to drink

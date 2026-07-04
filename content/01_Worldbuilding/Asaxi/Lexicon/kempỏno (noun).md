@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: kempỏno (noun) - curtain (window-cloth)
 Word (Asaxi): kempỏno
 trnsltion. En: curtain (window-cloth)

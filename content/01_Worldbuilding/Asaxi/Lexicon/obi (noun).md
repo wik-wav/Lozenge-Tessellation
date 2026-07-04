@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: obi (noun) - nearness, vicinity
 Word (Asaxi): obi
 trnsltion. En: nearness, vicinity, the near

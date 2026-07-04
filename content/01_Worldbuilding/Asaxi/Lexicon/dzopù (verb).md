@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: dzopù (verb) - to crack, to snap
 Word (Asaxi): dzopù
 trnsltion. En: to crack, to snap

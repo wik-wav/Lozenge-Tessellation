@@ -1,4 +1,5 @@
 ---
+freq: 29
 title: chåxa (verb) - to jump up, to leap
 Word (Asaxi): chåxa
 trnsltion. En: to jump up, to leap, to spring, to bound

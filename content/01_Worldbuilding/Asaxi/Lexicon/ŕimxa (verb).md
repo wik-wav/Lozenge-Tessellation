@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: ŕimxa (verb) - to focus, to concentrate
 Word (Asaxi): ŕimxa
 trnsltion. En: to focus, to concentrate

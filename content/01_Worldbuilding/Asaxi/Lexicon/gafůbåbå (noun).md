@@ -1,4 +1,5 @@
 ---
+freq: 37
 title: gafůbåbå - the state of having no muscle, atrophy
 Word (Asaxi): gafůbåbå
 trnsltion. En: atrophy, the state of having no muscle
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-literal
 ---
 # gafůbåbå ([[00_Ga-noun Compounds in Asaxi (list)|00_Ga-noun Compounds in Asaxi (list)]])
 

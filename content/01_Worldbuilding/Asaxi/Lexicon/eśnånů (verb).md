@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: eśnånů (verb) - to grin
 Word (Asaxi): eśnånů
 trnsltion. En: to grin

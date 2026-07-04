@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: nỏjåmăńo (Idiom) - Unwise Resolve
 Word (Asaxi): nỏjåmăńo
 trnsltion. En: unwise resolve, total obsession's folly, misguided fixation
@@ -35,6 +36,12 @@ The person saying this is preaching the spiritual or practical truth that it is 
 
 This phrase serves as the central motif of a primary religious prayer dedicated to the deity **Dă Chỏ**, emphasizing the necessity of fluidity and the danger of absolute attachment to finite things.
 
+### Example sentence
+
+
+ **Nỏjåmăńo tte onă ijù shá shánă.**
+_The creatures that say "it is unwise to put all of one's resolve toward a single object of desire" are wise._
+
 ### Etymology
 | Component | Meaning |
 | :--- | :--- |
@@ -46,7 +53,14 @@ This phrase serves as the central motif of a primary religious prayer dedicated 
 
 *Note: The final syllable **-ńo** is a euphonic contraction of the relational particle **ni** and the inanimate pronoun **jo**.*
 
-### Examples
+### Synonyms
 
- **Nỏjåmăńo tte onă ijù shá shánă.**
-_The creatures that say "it is unwise to put all of one's resolve toward a single object of desire" are wise._
+x
+
+### Antonyms
+
+x
+
+### Usage Note
+
+x

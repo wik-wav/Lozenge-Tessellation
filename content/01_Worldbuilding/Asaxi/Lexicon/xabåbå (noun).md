@@ -1,4 +1,5 @@
 ---
+freq: 22
 title: xabåbå (noun) - pectorals, chest muscles, pecs
 Word (Asaxi): xabåbå
 trnsltion. En: pectorals, chest muscles, pecs

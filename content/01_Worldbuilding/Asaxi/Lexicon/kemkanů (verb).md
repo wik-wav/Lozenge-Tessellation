@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: kemkanů (verb) - to unlock, to key
 Word (Asaxi): kemkanů
 trnsltion. En: to unlock, to key

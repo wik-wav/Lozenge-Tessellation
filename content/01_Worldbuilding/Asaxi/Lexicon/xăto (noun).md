@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: xăto (noun) - hut / cabin
 Word (Asaxi): xăto
 trnsltion. En: hut / cabin

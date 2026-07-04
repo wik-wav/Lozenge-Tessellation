@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: gokae (noun) - nut (hard-fruit)
 Word (Asaxi): gokae
 trnsltion. En: nut (hard-fruit)

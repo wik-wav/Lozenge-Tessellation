@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: mùù (noun) - cow
 Word (Asaxi): mùù
 trnsltion. En: cow

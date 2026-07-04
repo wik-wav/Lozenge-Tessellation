@@ -1,4 +1,5 @@
 ---
+freq: 35
 title: gajýnnshá (noun) - were-hyena
 Word (Asaxi): gajýnnshá
 trnsltion. En: were-hyena, gnoll, hyena-man
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-literal
 ---
 # gajýn ([[00_Ga-noun Compounds in Asaxi (list)]])
 

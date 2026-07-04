@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: ăjdao (verb) - to announce, to proclaim
 Word (Asaxi): ăjdao
 trnsltion. En: to announce, to proclaim

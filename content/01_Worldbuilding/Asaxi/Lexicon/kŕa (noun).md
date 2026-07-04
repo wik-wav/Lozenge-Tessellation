@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: kŕa (noun) - thorn
 Word (Asaxi): kŕa
 trnsltion. En: thorn

@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: kozètètánů (verb) - to regret, to rue
 Word (Asaxi): kozètètánů
 trnsltion. En: to regret, to rue, to lament

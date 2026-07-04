@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: cùxa (verb) - to bury, to plant in soil
 Word (Asaxi): cùxa
 trnsltion. En: to bury, to plant in soil

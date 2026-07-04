@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: maoshá (noun) - bat (night-creature)
 Word (Asaxi): maoshá
 trnsltion. En: bat (night-creature)

@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: fri (verb) - to set free, to liberate
 Word (Asaxi): fri
 trnsltion. En: to set free, to liberate, to release, to unleash

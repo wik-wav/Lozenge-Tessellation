@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: goka (noun) - hammer
 Word (Asaxi): goka
 trnsltion. En: hammer

@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: fùko (noun) - robe / gown
 Word (Asaxi): fùko
 trnsltion. En: robe / gown

@@ -1,4 +1,5 @@
 ---
+freq: 75
 title: ŕogoŕo (noun) - well (water-cave)
 Word (Asaxi): ŕogoŕo
 trnsltion. En: well (water-cave)

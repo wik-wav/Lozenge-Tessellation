@@ -1,4 +1,5 @@
 ---
+freq: 17
 title: hùsonýj (adjective) - pale yellow, wan, sallow
 Word (Asaxi): hùsonýj
 trnsltion. En: pale yellow, wan, sallow, washed-out

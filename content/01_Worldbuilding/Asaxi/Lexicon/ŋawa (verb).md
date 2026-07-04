@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: ŋawa (verb) - to crawl
 Word (Asaxi): ŋawa
 trnsltion. En: to crawl

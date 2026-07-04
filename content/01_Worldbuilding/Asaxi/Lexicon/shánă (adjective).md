@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: shánă (adjective) - wise, fallible
 Word (Asaxi): shánă
 trnsltion. En: wise, fallible

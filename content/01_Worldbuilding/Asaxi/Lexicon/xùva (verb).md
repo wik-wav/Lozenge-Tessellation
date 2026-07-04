@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: xùva (verb) - to obey, to heed
 Word (Asaxi): xùva
 trnsltion. En: to obey, to heed

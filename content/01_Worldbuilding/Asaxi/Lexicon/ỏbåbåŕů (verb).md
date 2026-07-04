@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: ỏbåbåŕů (verb) - to harden (body)
 Word (Asaxi): ỏbåbåŕů
 trnsltion. En: to harden (body)

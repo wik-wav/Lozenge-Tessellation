@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: hùwo (noun) - the back
 Word (Asaxi): hùwo
 trnsltion. En: the back

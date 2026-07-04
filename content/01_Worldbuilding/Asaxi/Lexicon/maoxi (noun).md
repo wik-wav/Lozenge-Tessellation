@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: maoxi (noun) - eclipse (moon-sun)
 Word (Asaxi): maoxi
 trnsltion. En: eclipse (moon-sun)

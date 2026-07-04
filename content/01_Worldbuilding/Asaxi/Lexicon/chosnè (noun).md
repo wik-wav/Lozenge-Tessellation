@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: chosnè (noun) - garlic (Pl. *czosnek*)
 Word (Asaxi): chosnè
 trnsltion. En: garlic (Pl. *czosnek*)

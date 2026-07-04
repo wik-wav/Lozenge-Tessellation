@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: xagi (noun) - ember / coal
 Word (Asaxi): xagi
 trnsltion. En: ember / coal

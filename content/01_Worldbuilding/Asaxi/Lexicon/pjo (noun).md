@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: pigùmenn (noun) - light (source), lamp
 Word (Asaxi): pjo
 trnsltion. En: light (source), lamp

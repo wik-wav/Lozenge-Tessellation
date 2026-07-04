@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: aiŕů (verb) - to grieve, to sorrow from within (lit. to generate sorrow)
 Word (Asaxi): aiŕů
 trnsltion. En: to grieve, to sorrow from within (lit. to generate sorrow)

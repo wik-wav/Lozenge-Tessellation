@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: jágo (noun) - blueberry
 Word (Asaxi): jágo
 trnsltion. En: blueberry

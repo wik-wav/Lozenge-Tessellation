@@ -1,4 +1,5 @@
 ---
+freq: 38
 title: flaminŋshá (noun) - flamingo
 Word (Asaxi): flaminŋshá
 trnsltion. En: flamingo

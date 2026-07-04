@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: fŕopù (verb) - to faint, to collapse
 Word (Asaxi): fŕopù
 trnsltion. En: to faint, to collapse

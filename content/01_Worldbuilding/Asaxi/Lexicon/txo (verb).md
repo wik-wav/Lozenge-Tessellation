@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: txo (verb) - to throw, to cast, to hurl
 Word (Asaxi): txo
 trnsltion. En: to throw, to cast, to hurl

@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: cèdao (verb) - to teach
 Word (Asaxi): cèdao
 trnsltion. En: to teach

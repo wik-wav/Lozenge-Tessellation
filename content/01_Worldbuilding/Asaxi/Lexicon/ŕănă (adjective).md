@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: ŕănă (adjective) - fiery, red-hot, fervid
 Word (Asaxi): ŕănă
 trnsltion. En: fiery, red-hot, fervid

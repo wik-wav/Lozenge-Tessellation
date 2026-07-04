@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: pỏkŕo (noun) - rug, carpet (floor-fabric)
 Word (Asaxi): pỏkŕo
 trnsltion. En: rug, carpet (floor-fabric)

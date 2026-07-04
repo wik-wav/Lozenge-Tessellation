@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: ŕomaka (noun) - cup
 Word (Asaxi): ŕomaka
 trnsltion. En: cup

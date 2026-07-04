@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: xogna (verb) - to meet, to encounter
 Word (Asaxi): xogna
 trnsltion. En: to meet, to encounter

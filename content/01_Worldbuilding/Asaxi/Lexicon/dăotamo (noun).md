@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: dăotamo (noun) - horizon
 Word (Asaxi): dăotamo
 trnsltion. En: horizon

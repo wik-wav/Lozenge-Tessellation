@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: tëva (noun) - palm
 Word (Asaxi): tëva
 trnsltion. En: palm

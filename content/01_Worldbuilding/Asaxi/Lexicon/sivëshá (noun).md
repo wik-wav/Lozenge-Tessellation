@@ -1,4 +1,5 @@
 ---
+freq: 26
 title: sivëshá (noun) - civet
 Word (Asaxi): sivëshá
 trnsltion. En: civet

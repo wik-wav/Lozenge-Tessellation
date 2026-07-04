@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: sùkină (adjective) - beloved, dear
 Word (Asaxi): sùkină
 trnsltion. En: beloved, dear, loved, favorite

@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: kjèkiŕo (noun) - axe
 Word (Asaxi): kjèkiŕo
 trnsltion. En: axe

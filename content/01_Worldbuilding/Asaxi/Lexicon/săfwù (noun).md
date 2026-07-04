@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: săfwù (noun) - breath (heat-wind)
 Word (Asaxi): săfwù
 trnsltion. En: breath (heat-wind)

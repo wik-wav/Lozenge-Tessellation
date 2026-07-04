@@ -1,4 +1,5 @@
 ---
+freq: 40
 title: pivatxe (noun) - petal (flower-leaf)
 Word (Asaxi): pivatxe
 trnsltion. En: petal (flower-leaf)

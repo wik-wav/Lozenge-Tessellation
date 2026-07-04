@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: ŕoŕobi (noun) - stream / brook
 Word (Asaxi): ŕoŕobi
 trnsltion. En: stream / brook

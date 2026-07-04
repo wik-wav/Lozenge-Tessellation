@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: pjononů (verb) - to picture, to depict
 Word (Asaxi): pjononů
 trnsltion. En: to picture, to depict

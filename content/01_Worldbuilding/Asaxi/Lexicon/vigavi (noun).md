@@ -1,4 +1,5 @@
 ---
+freq: 68
 title: vigavi (noun) - health
 Word (Asaxi): vigavi
 trnsltion. En: health

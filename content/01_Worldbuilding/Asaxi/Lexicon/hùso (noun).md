@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: hùso (noun) - sand
 Word (Asaxi): hùso
 trnsltion. En: sand

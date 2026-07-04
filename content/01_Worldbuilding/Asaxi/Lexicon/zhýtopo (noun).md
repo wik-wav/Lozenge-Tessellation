@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: zhýtopo (noun) - snow
 Word (Asaxi): zhýtopo
 trnsltion. En: snow

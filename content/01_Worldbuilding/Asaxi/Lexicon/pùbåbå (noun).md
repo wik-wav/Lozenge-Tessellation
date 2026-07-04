@@ -1,4 +1,5 @@
 ---
+freq: 31
 title: pùbåbå (noun) - glutes
 Word (Asaxi): pùbåbå
 trnsltion. En: glutes

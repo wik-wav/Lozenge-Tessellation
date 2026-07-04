@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: pŕoŕo (noun) - wagon / cart
 Word (Asaxi): pŕoŕo
 trnsltion. En: wagon / cart

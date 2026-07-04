@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: jýno (noun) - jýno
 Word (Asaxi): jýno
 trnsltion. En: sound

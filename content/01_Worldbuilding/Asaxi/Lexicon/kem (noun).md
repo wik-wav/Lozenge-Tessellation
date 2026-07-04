@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: kem (noun) - door, gate
 Word (Asaxi): kem
 trnsltion. En: door, gate, portal

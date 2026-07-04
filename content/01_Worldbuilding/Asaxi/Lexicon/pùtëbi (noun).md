@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: pùtëbi (noun) - forearm
 Word (Asaxi): pùtëbi
 trnsltion. En: forearm

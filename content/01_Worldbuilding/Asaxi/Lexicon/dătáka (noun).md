@@ -1,4 +1,5 @@
 ---
+freq: 68
 title: dătáka (noun) - war, armed conflict
 Word (Asaxi): dătáka
 trnsltion. En: war, armed conflict, warfare

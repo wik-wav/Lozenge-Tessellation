@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: mỏba (noun) - aunt
 Word (Asaxi): mỏba
 trnsltion. En: aunt

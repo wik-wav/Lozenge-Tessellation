@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: tăbiŕů (verb) - to draw, to sketch
 Word (Asaxi): tăbiŕů
 trnsltion. En: to draw, to sketch, to draft, to diagram

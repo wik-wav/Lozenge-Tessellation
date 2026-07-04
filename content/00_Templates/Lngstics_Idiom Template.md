@@ -16,13 +16,9 @@ tags:
 
 <span class="asaxi-script-alpha">Word (Asaxi)</span>
 
-### Grammatical function
+### Cultural Context
 
-- **Type:** Fixed Expression
-- **Meaning:** 
-
-### Structure
-
+### Semantic Field
 
 ### Pronunciation
 

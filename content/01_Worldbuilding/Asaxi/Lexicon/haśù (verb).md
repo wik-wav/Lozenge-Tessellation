@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: haśù (verb) - to run
 Word (Asaxi): haśù
 trnsltion. En: to run

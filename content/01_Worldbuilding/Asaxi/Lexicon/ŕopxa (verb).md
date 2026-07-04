@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: ŕopxa (verb) - to splash, to spatter
 Word (Asaxi): ŕopxa
 trnsltion. En: to splash, to spatter

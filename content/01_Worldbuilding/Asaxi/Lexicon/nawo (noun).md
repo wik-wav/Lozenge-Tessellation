@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: nawo (noun) - the surface, the top
 Word (Asaxi): nawo
 trnsltion. En: the surface, the top, the upper side

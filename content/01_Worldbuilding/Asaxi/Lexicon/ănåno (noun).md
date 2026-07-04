@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: ănå (verb) - a wait, a delay
 Word (Asaxi): ănåno
 trnsltion. En: a wait, a delay, a pause, a period of waiting, an interval

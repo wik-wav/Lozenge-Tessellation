@@ -1,4 +1,5 @@
 ---
+freq: 43
 title: ŕagonů (verb) - to char, to make charcoal
 Word (Asaxi): ŕagonů
 trnsltion. En: to char, to make charcoal

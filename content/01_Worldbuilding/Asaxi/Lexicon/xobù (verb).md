@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: xobù (verb) - to bow, to stoop
 Word (Asaxi): xobù
 trnsltion. En: to bow, to stoop

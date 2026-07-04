@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: dămaka (noun) - barrel (big vessel)
 Word (Asaxi): dămaka
 trnsltion. En: barrel (big vessel)

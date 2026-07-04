@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: sùno (noun) - glass
 Word (Asaxi): sùno
 trnsltion. En: glass

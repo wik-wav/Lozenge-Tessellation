@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: mëŕo (noun) - tear
 Word (Asaxi): mëŕo
 trnsltion. En: tear

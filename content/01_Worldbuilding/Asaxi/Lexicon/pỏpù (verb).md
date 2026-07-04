@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: pỏpù (verb) - to hop
 Word (Asaxi): pỏpù
 trnsltion. En: to hop

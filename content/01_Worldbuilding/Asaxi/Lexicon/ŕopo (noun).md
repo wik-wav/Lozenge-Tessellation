@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: ŕopo (noun) - puddle (water-spot)
 Word (Asaxi): ŕopo
 trnsltion. En: puddle (water-spot)

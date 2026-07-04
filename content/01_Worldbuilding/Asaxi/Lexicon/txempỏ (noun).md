@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: txempỏ (noun) - scarf
 Word (Asaxi): txempỏ
 trnsltion. En: scarf

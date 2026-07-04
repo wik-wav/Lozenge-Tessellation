@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: tëkù (noun) - wrist
 Word (Asaxi): tëkù
 trnsltion. En: wrist

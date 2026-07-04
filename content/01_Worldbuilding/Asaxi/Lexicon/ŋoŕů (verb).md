@@ -1,4 +1,5 @@
 ---
+freq: 21
 title: ŋoŕů (verb) - to add weight, to weigh down
 Word (Asaxi): ŋoŕů
 trnsltion. En: to add weight, to weigh down, to burden, to weigh upon (metaphorical)

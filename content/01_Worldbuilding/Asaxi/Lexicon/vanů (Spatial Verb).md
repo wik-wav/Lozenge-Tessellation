@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: vanů (Spatial Verb) - to enter
 Word (Asaxi): vanů
 trnsltion. En: to enter, to be inside, to inhabit, to occupy

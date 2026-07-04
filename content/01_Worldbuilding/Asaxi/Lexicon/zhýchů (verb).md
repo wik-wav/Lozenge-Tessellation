@@ -1,4 +1,5 @@
 ---
+freq: 25
 title: zhýchů (verb) - to be cold, to feel the cold
 Word (Asaxi): zhýchů
 trnsltion. En: to be cold, to feel the cold

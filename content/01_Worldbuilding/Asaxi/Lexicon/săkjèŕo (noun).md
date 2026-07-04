@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: săkjèŕo (noun) - jungle (hot-forest)
 Word (Asaxi): săkjèŕo
 trnsltion. En: jungle (hot-forest)

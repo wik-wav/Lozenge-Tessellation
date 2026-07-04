@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: pùwo (noun) - the bottom, the depths
 Word (Asaxi): pùwo
 trnsltion. En: the bottom, the depths, the underside, the base

@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: hwo (noun) - yesterday
 Word (Asaxi): hwo
 trnsltion. En: yesterday

@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: ŕochỏchů (verb) - to thirst, to feel thirsty
 Word (Asaxi): ŕochỏchů
 trnsltion. En: to thirst, to feel thirsty, to be thirsty

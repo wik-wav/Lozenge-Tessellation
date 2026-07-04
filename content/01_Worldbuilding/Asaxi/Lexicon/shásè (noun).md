@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: shásè (noun) - imprisonment, captivity
 Word (Asaxi): shásè
 trnsltion. En: imprisonment, captivity, ownership (of a person), bondage

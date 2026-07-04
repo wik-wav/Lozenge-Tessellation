@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: jovi (noun) - beauty
 Word (Asaxi): jovi
 trnsltion. En: beauty

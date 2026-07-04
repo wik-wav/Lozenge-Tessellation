@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: ăja (verb) - to shout, to yell
 Word (Asaxi): ăja
 trnsltion. En: to shout, to yell, to cry out, to scream, to call out

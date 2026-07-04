@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: kae (noun) - fruit
 Word (Asaxi): kae
 trnsltion. En: fruit

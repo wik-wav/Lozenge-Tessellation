@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: jëgo (noun) - mountain
 Word (Asaxi): jëgo
 trnsltion. En: mountain

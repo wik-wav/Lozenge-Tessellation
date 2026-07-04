@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: ijwo (verb) - to perceive, to sense
 Word (Asaxi): ijwo
 trnsltion. En: to perceive, to sense

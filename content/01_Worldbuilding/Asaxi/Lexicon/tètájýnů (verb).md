@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: tètájýnů (verb) - to complain, to grumble
 Word (Asaxi): tètájýnů
 trnsltion. En: to complain, to grumble

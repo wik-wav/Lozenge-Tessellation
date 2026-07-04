@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: ŕocù (noun) - marsh, swamp
 Word (Asaxi): ŕocù
 trnsltion. En: marsh, swamp

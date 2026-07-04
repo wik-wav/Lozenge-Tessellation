@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: vasha (verb) - to empty, to drain
 Word (Asaxi): vasha
 trnsltion. En: to empty, to drain

@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: gùmë (verb) - to grab, to seize, to snatch
 Word (Asaxi): gùmë
 trnsltion. En: to grab, to seize, to snatch

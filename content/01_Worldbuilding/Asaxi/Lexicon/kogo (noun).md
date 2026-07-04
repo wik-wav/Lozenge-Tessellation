@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: kogo (noun) - knee
 Word (Asaxi): kogo
 trnsltion. En: knee

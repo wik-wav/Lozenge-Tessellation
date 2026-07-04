@@ -1,4 +1,5 @@
 ---
+freq: 43
 title: vènonă (adjective) - chestnut, warm-brown, woody
 Word (Asaxi): vènonă
 trnsltion. En: chestnut, warm-brown, woody

@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: daonidao (verb) - to trade, to exchange
 Word (Asaxi): daonidao
 trnsltion. En: to trade, to exchange

@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: pŕobi (noun) - bow (curve-rod)
 Word (Asaxi): pŕobi
 trnsltion. En: bow (curve-rod)

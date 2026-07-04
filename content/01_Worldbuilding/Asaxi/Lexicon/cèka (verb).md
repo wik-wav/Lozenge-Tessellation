@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: cèka (verb) - to remember, to recall
 Word (Asaxi): cèka
 trnsltion. En: to remember, to recall

@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: o (noun) - sky, heavens
 Word (Asaxi): o
 trnsltion. En: sky, heavens, firmament, up

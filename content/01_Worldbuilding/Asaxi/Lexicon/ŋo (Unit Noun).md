@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: ŋo (Unit Noun) - kilogram, kilo, weight
 Word (Asaxi): ŋo
 trnsltion. En: kilogram, kilo, unit of weight, weight (measure)

@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: bika (verb) - to compare
 Word (Asaxi): bika
 trnsltion. En: to compare

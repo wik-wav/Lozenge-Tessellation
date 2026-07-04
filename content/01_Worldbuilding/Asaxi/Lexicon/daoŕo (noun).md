@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: daoŕo (noun) - market, marketplace
 Word (Asaxi): daoŕo
 trnsltion. En: market, marketplace

@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: rokam (noun) - prison, jail
 Word (Asaxi): rokam
 trnsltion. En: prison, jail

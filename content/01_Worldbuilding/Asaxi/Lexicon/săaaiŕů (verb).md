@@ -1,4 +1,5 @@
 ---
+freq: 17
 title: săaaiŕů (verb) - to run a fever (lit. to generate heat-pain)
 Word (Asaxi): săaaiŕů
 trnsltion. En: to run a fever (lit. to generate heat-pain)

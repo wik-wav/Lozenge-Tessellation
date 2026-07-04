@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: kjèŕoŕo (noun) - sap / resin
 Word (Asaxi): kjèŕoŕo
 trnsltion. En: sap / resin

@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: pjokem (noun) - window
 Word (Asaxi): pjokem
 trnsltion. En: window

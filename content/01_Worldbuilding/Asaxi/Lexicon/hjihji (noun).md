@@ -1,4 +1,5 @@
 ---
+freq: 30
 title: hjihji (noun) - thinness, gauntness
 Word (Asaxi): hjihji
 trnsltion. En: thinness, gauntness, scrawniness, lack of muscle

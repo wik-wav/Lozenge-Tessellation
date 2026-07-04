@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: xů (verb) - to do, to handle
 Word (Asaxi): xů
 trnsltion. En: to do, to handle, to execute, to deal with

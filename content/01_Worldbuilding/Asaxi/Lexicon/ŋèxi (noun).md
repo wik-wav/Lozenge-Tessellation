@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: ŋèxi (noun) - twilight (shadow-sun)
 Word (Asaxi): ŋèxi
 trnsltion. En: twilight (shadow-sun)

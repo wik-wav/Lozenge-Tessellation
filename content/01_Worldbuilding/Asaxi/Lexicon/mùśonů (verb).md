@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: mùśonů (verb) - to rot, to moulder
 Word (Asaxi): mùśonů
 trnsltion. En: to rot, to moulder

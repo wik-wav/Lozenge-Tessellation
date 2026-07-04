@@ -1,4 +1,5 @@
 ---
+freq: 70
 title: frënă (adjective) - free, at liberty
 Word (Asaxi): frënă
 trnsltion. En: free, at liberty

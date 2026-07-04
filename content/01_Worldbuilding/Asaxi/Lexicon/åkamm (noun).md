@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: åkamm (noun) - moment
 Word (Asaxi): åkamm
 trnsltion. En: moment

@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: ispă (noun) - wilderness, the wild
 Word (Asaxi): ispă
 trnsltion. En: wilderness, the wild, the outside world, untamed lands

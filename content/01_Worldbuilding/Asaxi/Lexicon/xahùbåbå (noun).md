@@ -1,4 +1,5 @@
 ---
+freq: 24
 title: xahùbåbå (noun) - trapezius, traps
 Word (Asaxi): xahùbåbå
 trnsltion. En: trapezius, traps, upper back

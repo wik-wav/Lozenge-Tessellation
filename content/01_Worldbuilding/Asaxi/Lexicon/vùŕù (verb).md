@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: vùŕù (verb) - to melt, to liquefy
 Word (Asaxi): vùŕù
 trnsltion. En: to melt, to liquefy

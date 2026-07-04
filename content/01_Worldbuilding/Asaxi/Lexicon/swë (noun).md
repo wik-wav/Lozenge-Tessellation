@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: swë (noun) - scales, scute
 Word (Asaxi): swë
 trnsltion. En: scales

@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: xobi (noun) - stairs (climb-line)
 Word (Asaxi): xobi
 trnsltion. En: stairs (climb-line)

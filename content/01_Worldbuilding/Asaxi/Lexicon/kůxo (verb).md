@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: kůxo (verb) - to hate, to loathe
 Word (Asaxi): kůxo
 trnsltion. En: to hate, to loathe

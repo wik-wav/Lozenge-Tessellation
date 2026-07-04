@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: chỏmihjo (noun) - tooth
 Word (Asaxi): chỏmihjo
 trnsltion. En: tooth

@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: vishá (noun) - deer (grass-creature)
 Word (Asaxi): vishá
 trnsltion. En: deer (grass-creature)

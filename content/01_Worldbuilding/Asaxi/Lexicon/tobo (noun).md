@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: tobo (noun) - table
 Word (Asaxi): tobo
 trnsltion. En: table

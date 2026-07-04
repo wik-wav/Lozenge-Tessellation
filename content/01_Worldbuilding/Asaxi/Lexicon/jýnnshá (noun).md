@@ -1,4 +1,5 @@
 ---
+freq: 35
 title: jýnnshá (noun) - hyena
 Word (Asaxi): jýnnshá
 trnsltion. En: hyena

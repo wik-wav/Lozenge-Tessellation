@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: kamshárokam (noun) - gym
 Word (Asaxi): kamshárokam
 trnsltion. En: gym, fitness center

@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: chỏka (noun) - plate, dish (food-tool)
 Word (Asaxi): chỏka
 trnsltion. En: plate, dish (food-tool)

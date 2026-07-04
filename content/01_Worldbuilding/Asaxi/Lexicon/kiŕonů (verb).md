@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: kiŕonů (verb) - to cut, sever, slice
 Word (Asaxi): kiŕonů
 trnsltion. En: to cut, sever, slice

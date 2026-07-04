@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: ăxo (verb) - to follow, to pursue
 Word (Asaxi): ăxo
 trnsltion. En: to follow, to pursue, to trail, to track, to go after

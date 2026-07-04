@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: ůzhů (verb) - to taste, to have a flavor
 Word (Asaxi): ůzhů
 trnsltion. En: to taste

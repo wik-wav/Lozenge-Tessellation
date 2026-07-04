@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: nonýj (adjective) - material/object-like
 Word (Asaxi): nonýj
 trnsltion. En: material, object-like, physical, tangible

@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: gosixů (verb) - to salt
 Word (Asaxi): gosixů
 trnsltion. En: to salt

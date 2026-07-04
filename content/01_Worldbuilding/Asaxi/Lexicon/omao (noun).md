@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: omao (noun) - tonight, this night
 Word (Asaxi): omao
 trnsltion. En: tonight, this night

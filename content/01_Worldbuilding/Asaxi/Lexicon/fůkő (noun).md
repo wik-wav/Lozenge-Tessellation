@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: fůkő (noun) - un-empathy, blind hatred
 Word (Asaxi): fůkő
 trnsltion. En: un-empathy, blind hatred, detestation, loathing, antipathy

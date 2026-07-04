@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: gùŕka (noun) - net (rope-tool)
 Word (Asaxi): gùŕka
 trnsltion. En: net (rope-tool)

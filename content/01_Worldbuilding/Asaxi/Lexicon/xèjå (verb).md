@@ -1,4 +1,5 @@
 ---
+freq: 69
 title: xèjå (verb) - try, attempt
 Word (Asaxi): xèjå
 trnsltion. En: try, attempt

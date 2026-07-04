@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: waokam (noun) - home
 Word (Asaxi): waokam
 trnsltion. En: home

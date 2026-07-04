@@ -1,4 +1,5 @@
 ---
+freq: 38
 title: tamỏbwoxatëbibåbå (noun) - biceps (brachii), the two-headed muscle
 Word (Asaxi): tamỏbwoxatëbibåbå
 trnsltion. En: biceps (brachii), the two-headed muscle

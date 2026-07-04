@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: pŕono (noun) - wheel
 Word (Asaxi): pŕono
 trnsltion. En: wheel

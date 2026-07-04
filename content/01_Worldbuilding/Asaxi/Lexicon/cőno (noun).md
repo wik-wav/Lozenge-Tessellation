@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: cőno (noun) - brain
 Word (Asaxi): cőno
 trnsltion. En: brain

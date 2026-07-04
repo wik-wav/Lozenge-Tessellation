@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: sëoka (noun) - fork (claw-tool)
 Word (Asaxi): sëoka
 trnsltion. En: fork (claw-tool)

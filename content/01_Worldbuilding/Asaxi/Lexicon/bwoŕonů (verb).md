@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: bwoŕonů (verb) - to oil, to grease
 Word (Asaxi): bwoŕonů
 trnsltion. En: to oil, to grease

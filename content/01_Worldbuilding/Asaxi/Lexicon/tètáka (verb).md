@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: tètáka (verb) - walczyć, bić się
 Word (Asaxi): tètáka
 trnsltion. En: to fight

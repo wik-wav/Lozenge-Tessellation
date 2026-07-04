@@ -1,4 +1,5 @@
 ---
+freq: 68
 title: mibo (verb) - to thank
 Word (Asaxi): mibo
 trnsltion. En: to thank

@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: cùpỏ (noun) - dust
 Word (Asaxi): cùpỏ
 trnsltion. En: dust

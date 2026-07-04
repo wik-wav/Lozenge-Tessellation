@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: ijpù (verb) - to notice, to spot
 Word (Asaxi): ijpù
 trnsltion. En: to notice, to spot

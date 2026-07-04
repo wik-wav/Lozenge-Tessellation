@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: pỏka (verb) - to wrap, to bundle
 Word (Asaxi): pỏka
 trnsltion. En: to wrap, to bundle

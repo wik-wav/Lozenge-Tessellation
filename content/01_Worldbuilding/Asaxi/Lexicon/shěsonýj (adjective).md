@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: shěsonýj (adjective) - knowledgeable, well-versed
 Word (Asaxi): shěsonýj
 trnsltion. En: knowledgeable, well-versed, booksmart

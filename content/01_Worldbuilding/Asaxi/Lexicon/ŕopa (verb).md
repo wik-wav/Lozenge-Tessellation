@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: ŕopa (verb) - to wade
 Word (Asaxi): ŕopa
 trnsltion. En: to wade

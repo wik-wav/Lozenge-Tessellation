@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: friká (verb) - to forgive, to pardon
 Word (Asaxi): friká
 trnsltion. En: to forgive, to pardon

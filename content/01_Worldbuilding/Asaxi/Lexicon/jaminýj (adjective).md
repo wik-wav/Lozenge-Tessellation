@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: jaminýj (adjective) - sick, ailing, ill
 Word (Asaxi): jaminýj
 trnsltion. En: sick, ailing, ill

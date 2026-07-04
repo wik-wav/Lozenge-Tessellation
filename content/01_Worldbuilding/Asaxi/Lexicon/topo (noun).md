@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: topo (noun) - rain
 Word (Asaxi): topo
 trnsltion. En: rain

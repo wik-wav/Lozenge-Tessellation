@@ -1,4 +1,5 @@
 ---
+freq: 31
 title: ŕăků (verb) - to set ablaze, to turn into fire
 Word (Asaxi): ŕăků
 trnsltion. En: to set ablaze, to turn into fire

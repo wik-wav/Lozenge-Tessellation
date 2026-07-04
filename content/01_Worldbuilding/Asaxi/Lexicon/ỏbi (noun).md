@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: ỏbi (noun) - belt
 Word (Asaxi): ỏbi
 trnsltion. En: belt

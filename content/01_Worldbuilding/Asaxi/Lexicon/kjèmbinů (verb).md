@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: kjèmbinů (verb) - to play (games), to scheme
 Word (Asaxi): kjèmbinů
 trnsltion. En: to play (games), to scheme, to plot, to trick, to hustle

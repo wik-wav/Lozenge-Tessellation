@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: sùki (noun) - love, affection
 Word (Asaxi): sùki
 trnsltion. En: love, affection, liking, preference

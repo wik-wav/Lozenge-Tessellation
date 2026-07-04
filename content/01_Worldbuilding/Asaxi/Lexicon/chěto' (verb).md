@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: chěto' (verb) - halt, stand still
 Word (Asaxi): chěto'
 trnsltion. En: halt, stand still, stop walking

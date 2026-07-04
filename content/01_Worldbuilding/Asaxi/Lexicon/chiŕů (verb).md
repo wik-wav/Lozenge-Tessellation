@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: chiŕů (verb) - to bleed (produce blood)
 Word (Asaxi): chiŕů
 trnsltion. En: to bleed (produce blood)

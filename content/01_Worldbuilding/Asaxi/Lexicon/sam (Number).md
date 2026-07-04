@@ -1,4 +1,5 @@
 ---
+freq: 68
 title: sam (Number) - 8, eight
 Word (Asaxi): sam, 8
 trnsltion. En: 8, eight

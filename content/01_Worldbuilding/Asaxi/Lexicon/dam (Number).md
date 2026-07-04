@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: dam (Number) - 10, ten
 Word (Asaxi): dam, 10
 trnsltion. En: 10, ten

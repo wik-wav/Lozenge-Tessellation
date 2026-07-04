@@ -1,4 +1,5 @@
 ---
+freq: 30
 title: fůŋono (noun) - weightlessness, zero gravity
 Word (Asaxi): fůŋono
 trnsltion. En: weightlessness, zero gravity

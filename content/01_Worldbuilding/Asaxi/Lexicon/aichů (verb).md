@@ -1,4 +1,5 @@
 ---
+freq: 75
 title: aichů (verb) - to be pained by, to feel hurt at (something external)
 Word (Asaxi): aichů
 trnsltion. En: to be pained by, to feel hurt at (something external)

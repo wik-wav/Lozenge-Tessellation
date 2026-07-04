@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: fnèŕo (noun) - harbor / port
 Word (Asaxi): fnèŕo
 trnsltion. En: harbor / port

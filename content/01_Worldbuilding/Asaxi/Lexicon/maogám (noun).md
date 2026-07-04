@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: maogám (noun) - ink (black-gum)
 Word (Asaxi): maogám
 trnsltion. En: ink (black-gum)

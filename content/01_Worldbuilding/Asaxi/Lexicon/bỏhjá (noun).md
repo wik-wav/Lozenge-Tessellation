@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: bỏhjá (noun) - son
 Word (Asaxi): bỏhjá
 trnsltion. En: son

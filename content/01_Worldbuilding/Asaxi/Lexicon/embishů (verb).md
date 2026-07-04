@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: embishů (verb) - to defeat, to beat
 Word (Asaxi): embishů
 trnsltion. En: to defeat, to beat, to overthrow, to pull the rug out from under

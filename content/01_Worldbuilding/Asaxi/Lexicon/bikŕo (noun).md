@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: bikŕo (noun) - fence
 Word (Asaxi): bikŕo
 trnsltion. En: fence

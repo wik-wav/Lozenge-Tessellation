@@ -1,4 +1,5 @@
 ---
+freq: 71
 title: shějýnkam (noun) - school (education-structure)
 Word (Asaxi): shějýnkam
 trnsltion. En: school (education-structure)

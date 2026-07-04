@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: jovină (adjective) - beautiful
 Word (Asaxi): jovină
 trnsltion. En: beautiful

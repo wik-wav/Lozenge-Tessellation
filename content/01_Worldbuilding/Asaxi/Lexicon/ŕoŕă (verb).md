@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ŕoŕă (verb) - to turn, to rotate
 Word (Asaxi): ŕoŕă
 trnsltion. En: to turn, to rotate

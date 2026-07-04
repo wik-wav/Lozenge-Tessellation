@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: ŕăpxa (verb) - to explode, to burst
 Word (Asaxi): ŕăpxa
 trnsltion. En: to explode, to burst

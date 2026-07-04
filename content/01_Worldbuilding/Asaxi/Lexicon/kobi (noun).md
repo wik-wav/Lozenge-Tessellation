@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: kobi (noun) - farness, distance
 Word (Asaxi): kobi
 trnsltion. En: farness, the far, remoteness

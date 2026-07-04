@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: păŕo (verb) - to emerge (to surface)
 Word (Asaxi): păŕo
 trnsltion. En: to emerge (to surface)

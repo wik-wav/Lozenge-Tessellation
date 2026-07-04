@@ -1,4 +1,5 @@
 ---
+freq: 31
 title: táka (verb) - to be at war, to wage war
 Word (Asaxi): táka
 trnsltion. En: to be at war, to wage war, to battle (large scale)

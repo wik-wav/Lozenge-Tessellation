@@ -1,4 +1,5 @@
 ---
+freq: 38
 title: fůzùnýj (adjective) - unskilled
 Word (Asaxi): fůzùnýj
 trnsltion. En: unskilled

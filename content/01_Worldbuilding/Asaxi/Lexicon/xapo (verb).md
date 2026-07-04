@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: xapo (verb) - to lift, to raise
 Word (Asaxi): xapo
 trnsltion. En: to lift, to raise

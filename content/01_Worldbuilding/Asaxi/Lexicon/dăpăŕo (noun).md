@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: dăpăŕo (noun) - sea, ocean
 Word (Asaxi): dăpăŕo
 trnsltion. En: sea, ocean

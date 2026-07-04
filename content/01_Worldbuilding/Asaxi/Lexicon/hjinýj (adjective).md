@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: hjinýj (adjective) - small, little, tiny
 Word (Asaxi): hjinýj
 trnsltion. En: small, little, tiny, minute, compact

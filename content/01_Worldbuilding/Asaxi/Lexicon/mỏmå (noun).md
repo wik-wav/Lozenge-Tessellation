@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: mỏmå (noun) - mother
 Word (Asaxi): mỏmå
 trnsltion. En: mother

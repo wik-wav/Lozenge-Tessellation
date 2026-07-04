@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: txă (noun) - year, annual cycle
 Word (Asaxi): txă
 trnsltion. En: year, annual cycle, age (when used with subject)

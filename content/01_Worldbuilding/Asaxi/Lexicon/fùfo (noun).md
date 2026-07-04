@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: fùfo (noun) - fox
 Word (Asaxi): fùfo
 trnsltion. En: fox

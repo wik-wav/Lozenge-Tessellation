@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: pjovină (adjective) - direct, straight
 Word (Asaxi): pjovină
 trnsltion. En: direct, straight, focused, unwavering

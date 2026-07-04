@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: cèdaoshá (noun) - teacher
 Word (Asaxi): cèdaoshá
 trnsltion. En: teacher

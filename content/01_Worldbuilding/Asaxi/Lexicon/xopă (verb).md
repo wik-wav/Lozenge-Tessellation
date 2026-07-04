@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: xopă (verb) - to eject, expel, loose, launch
 Word (Asaxi): xopă
 trnsltion. En: to eject, expel, loose, launch

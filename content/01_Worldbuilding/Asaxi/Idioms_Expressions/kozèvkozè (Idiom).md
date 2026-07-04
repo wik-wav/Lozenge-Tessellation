@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: kozèvkozè (Idiom) - once upon a time
 Word (Asaxi): kozèvkozè
 trnsltion. En: once upon a time

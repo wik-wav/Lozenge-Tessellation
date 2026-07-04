@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: sèŕè (noun) - cheese (Ru. *syr*)
 Word (Asaxi): sèŕè
 trnsltion. En: cheese (Ru. *syr*)

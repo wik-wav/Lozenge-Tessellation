@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: dăofwo (noun) - cloud
 Word (Asaxi): dăofwo
 trnsltion. En: cloud

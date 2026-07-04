@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: xashosa (noun) - bridge
 Word (Asaxi): xashosa
 trnsltion. En: bridge

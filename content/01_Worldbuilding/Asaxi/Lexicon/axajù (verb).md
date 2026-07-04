@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: axajù (verb) - to mock, to ridicule
 Word (Asaxi): axajù
 trnsltion. En: to mock, to ridicule

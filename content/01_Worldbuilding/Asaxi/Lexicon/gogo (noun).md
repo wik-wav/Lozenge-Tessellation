@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: gogo (noun) - pebble / gravel
 Word (Asaxi): gogo
 trnsltion. En: pebble / gravel

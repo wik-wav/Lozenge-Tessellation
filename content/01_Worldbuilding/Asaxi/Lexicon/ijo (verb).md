@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ijo (verb) - see, watch
 Word (Asaxi): ijo
 trnsltion. En: see, watch

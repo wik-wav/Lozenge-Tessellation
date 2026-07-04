@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: ůshů (verb) - to clear, dig, sweep, work a tool through
 Word (Asaxi): ůshů
 trnsltion. En: to clear, dig, sweep, work a tool through

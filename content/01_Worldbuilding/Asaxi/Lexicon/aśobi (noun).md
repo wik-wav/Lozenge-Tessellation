@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: aśobi (noun) - leg
 Word (Asaxi): aśobi
 trnsltion. En: leg

@@ -1,4 +1,5 @@
 ---
+freq: 27
 title: gahji (noun) - smallness, minuteness
 Word (Asaxi): gahji
 trnsltion. En: smallness, minuteness, insignificance, compactness
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
 ---
 # gahji ([[00_Ga-noun Compounds in Asaxi (list)|00_Ga-noun Compounds in Asaxi (list)]])
 

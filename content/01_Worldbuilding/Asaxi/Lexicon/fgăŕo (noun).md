@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: fgăŕo (noun) - lake
 Word (Asaxi): fgăŕo
 trnsltion. En: lake

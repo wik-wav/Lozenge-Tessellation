@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: mùxa (verb) - to squeeze, to clench
 Word (Asaxi): mùxa
 trnsltion. En: to squeeze, to clench

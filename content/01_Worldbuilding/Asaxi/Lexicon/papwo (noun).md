@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: papwo (noun) - The day after tomorrow, overmorrow.
 Word (Asaxi): papwo
 trnsltion. En: The day after tomorrow, overmorrow.

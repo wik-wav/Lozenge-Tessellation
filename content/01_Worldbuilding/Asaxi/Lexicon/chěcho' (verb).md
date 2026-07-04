@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: chěcho' (verb) - to close (something)
 Word (Asaxi): chěcho'
 trnsltion. En: to close (something), to close something shut

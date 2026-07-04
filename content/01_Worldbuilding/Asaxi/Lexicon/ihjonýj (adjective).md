@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: ihjonýj (adjective) - bony, thin, skeletal
 Word (Asaxi): ihjonýj
 trnsltion. En: bony, thin, skeletal

@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: kemka (noun) - key
 Word (Asaxi): kemka
 trnsltion. En: key

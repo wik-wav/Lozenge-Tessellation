@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: kŕùŕů (verb) - to rust, to corrode
 Word (Asaxi): kŕùŕů
 trnsltion. En: to rust, to corrode

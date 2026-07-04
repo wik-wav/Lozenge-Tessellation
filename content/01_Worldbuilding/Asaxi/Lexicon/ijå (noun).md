@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: ijå (noun) - a sight, a view
 Word (Asaxi): ijå
 trnsltion. En: a sight, a view

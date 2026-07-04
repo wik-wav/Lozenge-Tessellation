@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: htëno (noun) - ring
 Word (Asaxi): htëno
 trnsltion. En: ring

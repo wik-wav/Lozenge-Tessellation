@@ -88,6 +88,7 @@
   .br-type{color:var(--muted);font-size:12px;flex:0 1 78px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .br-gloss{flex:1 1 60px;opacity:.9;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .br-score{display:flex;gap:6px;align-items:center;font-size:12px;color:var(--muted);flex:0 0 auto}
+  .br-score .pct{flex:0 0 auto;min-width:34px;text-align:right;font-variant-numeric:tabular-nums}
   .br-anki{flex:0 0 auto;font-size:12px;letter-spacing:2px;cursor:default}
   .br-audit{flex:0 0 52px;font-size:11.5px;cursor:default;text-align:right;white-space:nowrap}
   .br-audit .miss{color:var(--warn)} .br-audit .nonstd{color:var(--err)}
@@ -179,6 +180,15 @@
       <button class="small secondary" id="ipaAutoBtn" style="flex:0 0 auto">auto</button>
     </div>
 
+    <label>Frequency (1–100) — higher sorts to the top of the deck</label>
+    <div class="row">
+      <input type="number" id="freq" min="1" max="100" step="1" placeholder="auto from wordfreq if left blank" style="flex:0 0 auto;max-width:230px">
+      <button class="small secondary" id="addFreqLLM" type="button" style="flex:0 0 auto"
+        title="Ask the local model to estimate everyday frequency (1–100) from the translations and usage note.">estimate ✦</button>
+      <span class="hint" id="addFreqOut"></span>
+    </div>
+    <div id="addFreqPeers" style="margin:2px 0 6px"></div>
+
     <div class="row" id="nounClassRow">
       <div>
         <label>Noun class</label>
@@ -224,6 +234,14 @@
       <select id="index_page">
         <option value="45_Idioms &amp; Fixed Expressions">45 — Idioms &amp; Fixed Expressions</option>
         <option value="63_Social Formulae (Greetings &amp; Everyday Speech)">63 — Social Formulae (greetings, thanks, apologies)</option>
+      </select>
+    </div>
+
+    <div id="gaKindRow" style="display:none">
+      <label>Ga-noun kind</label>
+      <select id="ga_kind">
+        <option value="Idiomatic">Idiomatic (opaque — meaning must be memorized)</option>
+        <option value="Literal">Literal (transparent — meaning = sum of parts)</option>
       </select>
     </div>
 
@@ -355,7 +373,21 @@ The entry file and every planned vault update are shown here before anything is 
     </div>
     <div id="edError" class="val"></div>
     <div id="edForm" style="display:none">
-      <div class="hint" id="edName" style="margin-top:8px"></div>
+      <div id="edNameRow" style="margin-top:8px;display:flex;align-items:center;gap:10px;flex-wrap:wrap">
+        <div id="edName" style="font-size:20px;font-weight:600;line-height:1.2"></div>
+        <button class="small secondary" id="edRenameBtn" type="button"
+          title="Rename this entry (its filename) and repoint every [[backlink]] across the vault.">&#9998; rename</button>
+      </div>
+      <div id="edRenameBox" style="display:none;margin:6px 0;padding:8px;border:1px solid var(--border);border-radius:6px">
+        <label>New name &mdash; <code>word (type)</code></label>
+        <input type="text" id="edRenameInput" class="wiki" autocomplete="off">
+        <div class="ai-row" style="margin-top:6px">
+          <button class="small" id="edRenamePreview" type="button">Preview rename</button>
+          <button class="small secondary" id="edRenameCancel" type="button">Cancel</button>
+        </div>
+        <div class="hint">Renames the file and repoints every <code>[[backlink]]</code> in the vault. A preview is shown before anything is written.</div>
+        <div id="edRenameResult" class="val" style="margin-top:6px"></div>
+      </div>
       <label>English translation(s)</label>
       <input type="text" id="edGlossEn">
       <div class="ai-row">
@@ -378,6 +410,21 @@ The entry file and every planned vault update are shown here before anything is 
           title="Asks the local LLM for Polish synonyms of this field's content (same word type). Click a result to append it to the field.">add synonyms ✦</button>
       </div>
       <div class="chips" id="edPlOut"></div>
+      <label>Frequency (1–100) — higher sorts to the top of the deck</label>
+      <div class="ai-row">
+        <input type="number" id="edFreq" min="1" max="100" step="1" style="max-width:110px">
+        <button class="small secondary" id="edFreqLLM" type="button"
+          title="Ask the local model to estimate everyday frequency (1–100) from the translations and usage note.">estimate ✦</button>
+        <span class="hint" id="edFreqOut"></span>
+      </div>
+      <div id="edFreqPeers" style="margin:2px 0 6px"></div>
+      <div id="edGaKindRow" style="display:none;margin:6px 0">
+        <label>Ga-noun kind</label>
+        <select id="edGaKind">
+          <option value="Idiomatic">Idiomatic (opaque — meaning must be memorized)</option>
+          <option value="Literal">Literal (transparent — meaning = sum of parts)</option>
+        </select>
+      </div>
       <div id="edSections"></div>
       <div class="ai-row" style="margin-top:8px">
         <button class="small secondary" id="edAddUsage" type="button" style="display:none">+ Usage Note section</button>
@@ -426,12 +473,18 @@ The entry file and every planned vault update are shown here before anything is 
         <option value="anki-desc">sort: most Anki assets first</option>
         <option value="issues">sort: most field issues first</option>
         <option value="type">sort: by type</option>
+        <option value="freq-desc">sort: most frequent first</option>
+        <option value="freq-asc">sort: least frequent first</option>
       </select>
     </div>
     <div style="margin-top:8px;display:flex;gap:10px;align-items:center;flex-wrap:wrap">
       <span id="brStats" class="hint"></span>
       <button class="small secondary" id="brFixHeaders" type="button" style="display:none"
         title="Apply every pending header capitalization/punctuation fix across the whole lexicon (shows a summary first).">Fix all header typos…</button>
+      <button class="small secondary" id="brRebuildLists" type="button"
+        title="Fill every category List (nouns, verbs, adjectives, root words, ga-nouns) with all their words, sorted alphabetically. Ga-nouns are grouped by their Literal/Idiomatic tag. Frontmatter and prose are preserved.">&#8635; Rebuild &amp; sort lists</button>
+      <button class="small secondary" id="brRankFreq" type="button"
+        title="Fill freq: on entries that lack it, using wordfreq on single-word glosses (needs 'pip install wordfreq'). Never overwrites a manual or LLM rating.">freq: rank blanks</button>
     </div>
     <div id="brList" style="margin-top:6px"></div>
     <div style="margin-top:10px"><button class="secondary" id="brMore" type="button" style="display:none">show more</button></div>
@@ -488,6 +541,7 @@ function typeSpecific(){
   $("ptWrap").style.display = t==="particle" ? "" : "none";
   $("numRow").style.display = t==="number" ? "" : "none";
   $("idiomRow").style.display = t==="idiom" ? "" : "none";
+  $("gaKindRow").style.display = t==="ga-noun" ? "" : "none";
   $("rootNounRow").style.display = ["adjective","verb-u"].includes(t) ? "" : "none";
 }
 
@@ -498,6 +552,7 @@ function payload(){
     gloss_en: $("gloss_en").value.trim(),
     gloss_pl: $("gloss_pl").value.trim(),
     ipa: $("ipa").value.trim().replace(/^\/\/$/, ""),
+    freq: $("freq").value.trim(),
     noun_class: $("noun_class").value,
     animate: $("animate").value,
     transitivity: $("transitivity").value,
@@ -507,6 +562,7 @@ function payload(){
     number_value: $("number_value").value.trim(),
     structure: $("structure").value.trim(),
     index_page: $("index_page").value,
+    ga_kind: $("ga_kind").value,
     semantic_fields: chipValues("semantic_fields"),
     example: $("example").value.trim(),
     example_gloss: $("example_gloss").value.trim(),
@@ -546,7 +602,7 @@ async function liveValidate(){
 ["word","gloss_en"].forEach(id=>$(id).addEventListener("input", ()=>{
   clearTimeout(valTimer); valTimer = setTimeout(liveValidate, 350);
 }));
-$("type").addEventListener("change", ()=>{ typeSpecific(); liveValidate(); });
+$("type").addEventListener("change", ()=>{ typeSpecific(); liveValidate(); showFreqPeers($("addFreqPeers"), $("freq").value, "", $("type").value); });
 
 $("ipaAutoBtn").onclick = async ()=>{
   if(!lastIpaSuggestion) await liveValidate();
@@ -650,7 +706,7 @@ function glossChips(outEl, options, apply){
   options.forEach(w=>{
     const c = document.createElement("span");
     c.className = "chip ghost"; c.textContent = w;
-    c.onclick = ()=>{ apply(w); outEl.innerHTML = ""; };
+    c.onclick = ()=>{ apply(w); c.remove(); };   // keep the other options; move only the clicked one
     outEl.appendChild(c);
   });
   if(!options.length) outEl.innerHTML = '<span class="hint">LLM returned nothing usable</span>';
@@ -1019,8 +1075,18 @@ $("commitBtn").onclick = async ()=>{
   }
 };
 
+$("addFreqLLM").onclick = async ()=>{
+  $("addFreqOut").textContent = "estimating…";
+  const r = await api("/api/llm_frequency", {method:"POST", body: JSON.stringify({
+    gloss_en: $("gloss_en").value.trim(), gloss_pl: $("gloss_pl").value.trim(), usage_note: $("usage_note").value.trim()})});
+  if(r && r.ok){ $("freq").value = r.freq; $("addFreqOut").textContent = "estimated " + r.freq; showFreqPeers($("addFreqPeers"), r.freq, "", $("type").value); }
+  else $("addFreqOut").textContent = (r && r.error) || "failed";
+};
+$("freq").addEventListener("input", ()=>showFreqPeers($("addFreqPeers"), $("freq").value, "", $("type").value));
+
 $("resetBtn").onclick = ()=>{
   document.querySelectorAll("input[type=text],textarea").forEach(i=>i.value="");
+  $("freq").value = ""; $("addFreqOut").textContent = ""; $("addFreqPeers").innerHTML = "";
   Object.keys(chipState).forEach(k=>chipState[k]=[]);
   ["fieldChips","synChips","antChips","derChips"].forEach(id=>$(id).innerHTML="");
   clearSuggestions();
@@ -1070,6 +1136,8 @@ function brSorted(){
   else if(s==="score-asc") d.sort((a,b)=>a.score-b.score || collator.compare(a.word,b.word));
   else if(s==="score-desc") d.sort((a,b)=>b.score-a.score || collator.compare(a.word,b.word));
   else if(s==="type") d.sort((a,b)=>collator.compare(a.type,b.type) || collator.compare(a.word,b.word));
+  else if(s==="freq-desc") d.sort((a,b)=>(b.freq||0)-(a.freq||0) || collator.compare(a.word,b.word));
+  else if(s==="freq-asc") d.sort((a,b)=>(a.freq||0)-(b.freq||0) || collator.compare(a.word,b.word));
   else if(s==="anki-asc") d.sort((a,b)=>(a.anki?a.anki.n:0)-(b.anki?b.anki.n:0) || collator.compare(a.word,b.word));
   else if(s==="anki-desc") d.sort((a,b)=>(b.anki?b.anki.n:0)-(a.anki?a.anki.n:0) || collator.compare(a.word,b.word));
   else if(s==="issues"){
@@ -1080,6 +1148,11 @@ function brSorted(){
   return d;
 }
 
+function scoreColor(pct){
+  // completeness gradient: red (low) -> yellow (mid) -> green (high)
+  const h = Math.max(0, Math.min(120, (pct || 0) * 1.2));
+  return `hsl(${Math.round(h)}, 65%, 52%)`;
+}
 function brRender(reset){
   if(reset) brShown = 0;
   const d = brSorted();
@@ -1110,7 +1183,7 @@ function brRender(reset){
       <span class="br-gloss" title="${(x.gloss||"").replace(/"/g,"&quot;")}">${x.gloss||"<i style='color:var(--muted)'>no translation</i>"}</span>
       <span class="br-audit" title="${auditTitle.replace(/"/g,"&quot;")}">${auditHtml}</span>
       <span class="br-anki" title="Anki assets — image: ${ak.image?"✓":"✗"} · word audio (a1): ${ak.a1?"✓":"✗"} · sentence audio (a2): ${ak.a2?"✓":"✗"}">${dot(ak.image,"🖼")}${dot(ak.a1,"♪")}${dot(ak.a2,"♫")}</span>
-      <span class="br-score"><span class="bar"><div style="width:${x.score}%"></div></span>${x.score}%</span>`;
+      <span class="br-score"><span class="bar"><div style="width:${x.score}%;background:${scoreColor(x.score)}"></div></span><span class="pct">${x.score}%</span></span>`;
     const btn = document.createElement("button");
     btn.className = "small secondary"; btn.textContent = "Edit";
     btn.onclick = ()=>{ switchTab("edit"); loadEntry(x.stem); };
@@ -1143,6 +1216,35 @@ $("brFixHeaders").onclick = async ()=>{
   const r = await api("/api/fix_headers", {method:"POST", body: JSON.stringify({dry_run: false})});
   $("brStats").textContent = r.ok ? `✔ fixed headers in ${r.count} entries` : (r.error || "failed");
   brLoaded = false; brFetch();
+};
+
+$("brRebuildLists").onclick = async ()=>{
+  if(!confirm("Rebuild every category List — add all missing words and sort alphabetically? The ga-noun list is grouped by each entry's Literal/Idiomatic tag. Frontmatter and prose are preserved.")) return;
+  $("brRebuildLists").disabled = true;
+  const r = await api("/api/rebuild_lists", {method:"POST", body: JSON.stringify({})});
+  $("brRebuildLists").disabled = false;
+  if(r && r.ok){
+    const parts = r.report.map(x=> x.category==="ga-noun"
+      ? `ga-noun ${x.literal}+${x.idiomatic}`
+      : `${x.category} ${x.now}`);
+    $("brStats").innerHTML = `<span style="color:var(--ok)">✔ Lists rebuilt — ${parts.join(" · ")}</span>`;
+    brLoaded = false; brFetch();
+  } else {
+    $("brStats").innerHTML = `<span class="e">✖ ${(r&&r.error)||"rebuild failed"}</span>`;
+  }
+};
+
+$("brRankFreq").onclick = async ()=>{
+  $("brRankFreq").disabled = true;
+  const r = await api("/api/rank_frequency", {method:"POST", body: JSON.stringify({})});
+  $("brRankFreq").disabled = false;
+  if(r && r.ok){
+    const note = r.wordfreq_available ? "" : " (wordfreq not installed — pip install wordfreq)";
+    $("brStats").innerHTML = `<span style="color:var(--ok)">✔ Frequency — rated ${r.filled}, kept ${r.already_rated}, ${r.no_single_word_gloss} multiword left blank${note}</span>`;
+    brLoaded = false; brFetch();
+  } else {
+    $("brStats").innerHTML = `<span class="e">✖ ${(r&&r.error)||"failed"}</span>`;
+  }
 };
 
 // ---- edit tab
@@ -1251,13 +1353,20 @@ async function loadEntry(stem){
   }
   $("edError").innerHTML = "";
   ed.name = r.name;
-  ed.orig = { gloss_en: r.gloss_en, gloss_pl: r.gloss_pl,
+  ed.orig = { gloss_en: r.gloss_en, gloss_pl: r.gloss_pl, is_ga: !!r.is_ga, ga_kind: r.ga_kind || "",
+              freq: (r.freq == null ? null : r.freq),
               sections: Object.fromEntries(r.sections.map(s=>[s.header, s.content])) };
   $("edForm").style.display = "";
   $("edName").textContent = r.name;
+  $("edRenameBox").style.display = "none";
   $("edGlossEn").value = r.gloss_en;
   $("edGlossPl").value = r.gloss_pl === null ? "" : r.gloss_pl;
   $("edGlossPl").disabled = r.gloss_pl === null && false;
+  $("edGaKindRow").style.display = r.is_ga ? "" : "none";
+  if(r.is_ga) $("edGaKind").value = r.ga_kind || "Idiomatic";
+  $("edFreq").value = r.freq == null ? "" : r.freq;
+  $("edFreqOut").textContent = "";
+  showFreqPeers($("edFreqPeers"), r.freq, r.name, edType());
   const host = $("edSections");
   host.innerHTML = "";
   r.sections.forEach(s=>{ host.appendChild(makeSection(s.header, s.content)); });
@@ -1354,7 +1463,7 @@ async function loadEntry(stem){
 }
 
 function edScoreShow(sc){
-  $("edScore").innerHTML = `<span class="bar" style="display:inline-block;vertical-align:middle;width:120px"><div style="width:${sc.pct}%"></div></span>
+  $("edScore").innerHTML = `<span class="bar" style="display:inline-block;vertical-align:middle;width:120px"><div style="width:${sc.pct}%;background:${scoreColor(sc.pct)}"></div></span>
     <b style="margin-left:8px">${sc.pct}%</b> complete (${sc.filled}/${sc.total} fields)`;
   $("edMissing").textContent = sc.missing.length ? "Missing: " + sc.missing.join(" · ") : "All fields filled.";
 }
@@ -1365,6 +1474,10 @@ function edChanges(){
   if($("edGlossEn").value.trim() !== ed.orig.gloss_en.trim()) fm.gloss_en = $("edGlossEn").value.trim();
   if(ed.orig.gloss_pl !== null && $("edGlossPl").value.trim() !== (ed.orig.gloss_pl||"").trim()) fm.gloss_pl = $("edGlossPl").value.trim();
   if(ed.orig.gloss_pl === null && $("edGlossPl").value.trim()) fm.gloss_pl = $("edGlossPl").value.trim();
+  if(ed.orig.is_ga && $("edGaKind").value !== (ed.orig.ga_kind||"")) fm.ga_kind = $("edGaKind").value;
+  { const fv = $("edFreq").value.trim();
+    const cur = fv==="" ? null : Math.max(1, Math.min(100, parseInt(fv)||0));
+    if(cur !== null && cur !== ed.orig.freq) fm.freq = String(cur); }
   const secs = [];
   const wraps = [...document.querySelectorAll("#edSections .sec-wrap")];
   wraps.forEach(wrap=>{
@@ -1412,6 +1525,33 @@ function edDirty(){
 }
 $("edGlossEn").addEventListener("input", edDirty);
 $("edGlossPl").addEventListener("input", edDirty);
+$("edGaKind").addEventListener("change", edDirty);
+let _freqPeerT = null;
+function showFreqPeers(host, value, exclude, type){
+  clearTimeout(_freqPeerT);
+  const v = parseInt(value);
+  if(!v){ host.innerHTML = ""; return; }
+  _freqPeerT = setTimeout(async ()=>{
+    const r = await api("/api/words_at_freq?freq=" + v + "&exclude=" + encodeURIComponent(exclude||"") + "&type=" + encodeURIComponent(type||""));
+    if(!r || !r.ok){ host.innerHTML = ""; return; }
+    if(!r.words.length){ host.innerHTML = `<span class="hint">no other words of this type rated ${v} yet</span>`; return; }
+    const chips = r.words.map(w=>`<span class="chip ghost" style="cursor:default" title="${(w.gloss||"").replace(/"/g,"&quot;")} (${w.type})">${w.word}</span>`).join(" ");
+    host.innerHTML = `<div class="hint" style="margin:2px 0">others rated ${v} (${r.count} total) — for comparison:</div>${chips}`;
+  }, 350);
+}
+function edType(){ const m = (ed.name||"").match(/\(([^)]*)\)\s*$/); return m ? m[1] : ""; }
+$("edFreq").addEventListener("input", ()=>{ edDirty(); showFreqPeers($("edFreqPeers"), $("edFreq").value, ed.name, edType()); });
+function edUsageText(){
+  const w=[...document.querySelectorAll("#edSections .sec-wrap")].find(x=>x.dataset.header==="Usage Note");
+  const t=w&&w.querySelector("textarea"); return t?t.value:"";
+}
+$("edFreqLLM").onclick = async ()=>{
+  $("edFreqOut").textContent = "estimating…";
+  const r = await api("/api/llm_frequency", {method:"POST", body: JSON.stringify({
+    gloss_en: $("edGlossEn").value.trim(), gloss_pl: $("edGlossPl").value.trim(), usage_note: edUsageText()})});
+  if(r && r.ok){ $("edFreq").value = r.freq; $("edFreqOut").textContent = "estimated " + r.freq; edDirty(); showFreqPeers($("edFreqPeers"), r.freq, ed.name, edType()); }
+  else $("edFreqOut").textContent = (r && r.error) || "failed";
+};
 
 $("edAddUsage").onclick = ()=>{
   const wrap = makeSection("Usage Note", "");
@@ -1442,6 +1582,43 @@ $("edSave").onclick = async ()=>{
   }
 };
 $("edReload").onclick = ()=>{ if(ed.name) loadEntry(ed.name); };
+
+function edRenameShow(show){
+  $("edRenameBox").style.display = show ? "" : "none";
+  if(show){ $("edRenameInput").value = ed.name || ""; $("edRenameResult").innerHTML = ""; $("edRenameInput").focus(); }
+}
+$("edRenameBtn").onclick = ()=>edRenameShow($("edRenameBox").style.display === "none");
+$("edRenameCancel").onclick = ()=>edRenameShow(false);
+async function edRenameCall(dry){
+  const nn = $("edRenameInput").value.trim();
+  if(!nn || nn === ed.name){ $("edRenameResult").innerHTML = '<div class="w">\u26a0 Enter a different name.</div>'; return null; }
+  return await api("/api/entry_rename", {method:"POST", body: JSON.stringify({name: ed.name, new_name: nn, dry_run: dry})});
+}
+$("edRenamePreview").onclick = async ()=>{
+  const r = await edRenameCall(true);
+  if(!r) return;
+  if(!r.ok){ $("edRenameResult").innerHTML = `<div class="e">\u2716 ${r.error}</div>`; return; }
+  const selfTxt = r.self_edits.length ? r.self_edits.join(", ") : "none";
+  const files = r.backlink_files.map(b=>`  ${b.file}  (${b.count})`).join("\n");
+  $("edRenameResult").innerHTML =
+    `<div class="i">Rename <b>${ed.name}</b> \u2192 <b>${r.new_name}</b> in ${r.dir}.<br>`+
+    `In-note updates: ${selfTxt}.<br>`+
+    `Backlinks: ${r.backlink_edit_count} link(s) across ${r.backlink_file_count} file(s).</div>`+
+    (files ? `<pre style="white-space:pre-wrap;max-height:170px;overflow:auto;margin:6px 0">${files}</pre>` : "")+
+    `<button class="small" id="edRenameApply" type="button">Apply rename</button>`;
+  $("edRenameApply").onclick = async ()=>{
+    $("edRenameApply").disabled = true;
+    const rr = await edRenameCall(false);
+    if(rr && rr.ok){
+      edRenameShow(false);
+      $("edResult").innerHTML = `<div style="color:var(--ok)">\u2714 Renamed to <b>${rr.new_name}</b> \u00b7 ${rr.backlink_edit_count} backlink(s) in ${rr.backlink_file_count} file(s) updated</div>`;
+      brLoaded = false;
+      loadEntry(rr.new_name);
+    } else {
+      $("edRenameResult").innerHTML = `<div class="e">\u2716 ${(rr&&rr.error)||"rename failed"}</div>`;
+    }
+  };
+};
 
 // ---- edit tab: drag-and-drop section reordering (headers are the handles)
 let _dragWrap = null;

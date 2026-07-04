@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: xý (noun) - frost / rime
 Word (Asaxi): xý
 trnsltion. En: frost / rime

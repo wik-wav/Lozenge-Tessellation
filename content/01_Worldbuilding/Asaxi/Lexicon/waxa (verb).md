@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: waxa (verb) - to sway, to swing
 Word (Asaxi): waxa
 trnsltion. En: to sway, to swing

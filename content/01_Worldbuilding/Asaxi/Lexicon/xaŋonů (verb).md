@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: xaŋonů (verb) - to weigh (in tonnes)
 Word (Asaxi): xaŋonů
 trnsltion. En: to weigh (in tonnes)

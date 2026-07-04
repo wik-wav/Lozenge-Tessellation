@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: siga (noun) - numbers (plural of sigo)
 Word (Asaxi): siga
 trnsltion. En: numbers, digits, figures

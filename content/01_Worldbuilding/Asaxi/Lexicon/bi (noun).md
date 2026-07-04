@@ -1,4 +1,5 @@
 ---
+freq: 69
 title: bi (noun) - line, level
 Word (Asaxi): bi
 trnsltion. En: line, level, row, queue, boundary

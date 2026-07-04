@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: jåxo (verb) - to envy, to covet
 Word (Asaxi): jåxo
 trnsltion. En: to envy, to covet

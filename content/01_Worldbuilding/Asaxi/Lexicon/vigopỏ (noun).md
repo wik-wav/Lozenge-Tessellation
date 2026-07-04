@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: vigopỏ (noun) - flour (grain-powder)
 Word (Asaxi): vigopỏ
 trnsltion. En: flour (grain-powder)

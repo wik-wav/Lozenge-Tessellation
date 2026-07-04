@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: tètájù (verb) - to blame, to scold
 Word (Asaxi): tètájù
 trnsltion. En: to blame, to scold

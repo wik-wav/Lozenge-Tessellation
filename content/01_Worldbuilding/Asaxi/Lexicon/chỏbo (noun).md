@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: chỏbo (noun) - stomach (organ)
 Word (Asaxi): chỏbo
 trnsltion. En: stomach (organ)

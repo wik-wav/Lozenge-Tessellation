@@ -1,4 +1,5 @@
 ---
+freq: 70
 title: gaŕo (noun) - city, metropolis
 Word (Asaxi): gaŕo
 trnsltion. En: city, metropolis

@@ -1,4 +1,5 @@
 ---
+freq: 43
 title: tambiwů (verb) - to imitate, to mimic
 Word (Asaxi): tambiwů
 trnsltion. En: to imitate, to mimic, to copy, to emulate

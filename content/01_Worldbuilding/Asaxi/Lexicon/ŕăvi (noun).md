@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: ŕăvi (noun) - spice (fire-plant)
 Word (Asaxi): ŕăvi
 trnsltion. En: spice (fire-plant)

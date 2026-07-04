@@ -1,4 +1,5 @@
 ---
+freq: 39
 title: jëvù (verb) - to sprout, to bud
 Word (Asaxi): jëvù
 trnsltion. En: to sprout, to bud

@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: xagiro (noun) - copper (ember-metal)
 Word (Asaxi): xagiro
 trnsltion. En: copper (ember-metal)

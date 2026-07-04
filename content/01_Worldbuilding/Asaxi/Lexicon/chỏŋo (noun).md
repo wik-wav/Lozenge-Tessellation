@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: chỏŋo (noun) - jaw
 Word (Asaxi): chỏŋo
 trnsltion. En: jaw

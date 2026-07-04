@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: baihjo (noun) - rib
 Word (Asaxi): baihjo
 trnsltion. En: rib

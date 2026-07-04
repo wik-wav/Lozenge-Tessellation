@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: sùkixů (verb) - to love, to adore
 Word (Asaxi): sùkixů
 trnsltion. En: to love, to adore

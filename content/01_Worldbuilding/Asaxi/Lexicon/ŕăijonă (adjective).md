@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: ŕăijonă (adjective) - strong, powerful
 Word (Asaxi): ŕăijonă
 trnsltion. En: strong, powerful

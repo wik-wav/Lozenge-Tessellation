@@ -1,4 +1,5 @@
 ---
+freq: 68
 title: waojýn (noun) - story, tale
 Word (Asaxi): waojýn
 trnsltion. En: story, tale

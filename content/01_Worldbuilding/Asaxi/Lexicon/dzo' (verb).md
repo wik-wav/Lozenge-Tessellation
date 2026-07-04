@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: dzo' (verb) - to break, to snap
 Word (Asaxi): dzo'
 trnsltion. En: to break, to snap

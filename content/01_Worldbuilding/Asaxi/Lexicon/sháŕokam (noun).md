@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: sháŕokam (noun) - shelter, safehouse
 Word (Asaxi): sháŕokam
 trnsltion. En: shelter, safehouse

@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: flamiŋnů (verb) - to pose
 Word (Asaxi): flamiŋnů
 trnsltion. En: to pose

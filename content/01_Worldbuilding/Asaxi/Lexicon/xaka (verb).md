@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: xaka (verb) - to hang, to suspend
 Word (Asaxi): xaka
 trnsltion. En: to hang, to suspend

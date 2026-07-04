@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: cètá (verb) - to judge, to evaluate
 Word (Asaxi): cètá
 trnsltion. En: to judge, to evaluate

@@ -1,4 +1,5 @@
 ---
+freq: 43
 title: nikxa (verb) - to betray, to turn on
 Word (Asaxi): nikxa
 trnsltion. En: to betray, to turn on

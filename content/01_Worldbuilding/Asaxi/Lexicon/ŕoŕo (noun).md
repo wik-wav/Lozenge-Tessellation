@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ŕoŕo (noun) - water
 Word (Asaxi): ŕoŕo
 trnsltion. En: water

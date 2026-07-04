@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: ỏwo (noun) - the center, noon
 Word (Asaxi): ỏwo
 trnsltion. En: the center, noon

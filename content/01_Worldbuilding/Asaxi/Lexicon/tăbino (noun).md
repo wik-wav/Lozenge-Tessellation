@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: tăbino (noun) - a drawing, a sketch
 Word (Asaxi): tăbino
 trnsltion. En: a drawing, a sketch, a diagram, a blueprint

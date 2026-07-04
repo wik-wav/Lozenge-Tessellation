@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: xiŕă (noun) - sunlight, sunshine
 Word (Asaxi): xiŕă
 trnsltion. En: sunlight, sunshine

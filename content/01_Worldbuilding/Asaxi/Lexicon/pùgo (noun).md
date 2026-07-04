@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: pùgo (noun) - stool (sit-block)
 Word (Asaxi): pùgo
 trnsltion. En: stool (sit-block)

@@ -1,4 +1,5 @@
 ---
+freq: 26
 title: gabåbåshá (noun) - muscular being, bodybuilder
 Word (Asaxi): gabåbåshá
 trnsltion. En: muscular being, bodybuilder, hulk, muscle-beast, hunk
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-literal
 ---
 # gabåbåshá ([[00_Ga-noun Compounds in Asaxi (list)|00_Ga-noun Compounds in Asaxi (list)]])
 

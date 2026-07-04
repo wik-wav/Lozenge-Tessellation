@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: shýŕù (verb) - to freeze
 Word (Asaxi): shýŕù
 trnsltion. En: to freeze

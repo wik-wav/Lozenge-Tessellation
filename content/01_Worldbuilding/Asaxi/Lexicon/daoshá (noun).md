@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: daoshá (noun) - merchant, trader
 Word (Asaxi): daoshá
 trnsltion. En: merchant, trader

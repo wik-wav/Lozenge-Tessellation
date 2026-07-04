@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: kŕaga (verb) - to drag, to haul
 Word (Asaxi): kŕaga
 trnsltion. En: to drag, to haul

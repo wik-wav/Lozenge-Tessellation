@@ -1,4 +1,5 @@
 ---
+freq: 32
 title: găxiŕo (noun) - vibrancy, vividness
 Word (Asaxi): găxiŕo
 trnsltion. En: vibrancy, vividness, intense color, psychedelia

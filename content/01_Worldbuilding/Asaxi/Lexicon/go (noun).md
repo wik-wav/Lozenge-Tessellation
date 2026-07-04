@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: go (noun) - boulder, rock
 Word (Asaxi): go
 trnsltion. En: boulder, rock

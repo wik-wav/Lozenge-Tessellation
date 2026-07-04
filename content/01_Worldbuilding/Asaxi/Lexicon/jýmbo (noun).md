@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: jýmbo (noun) - drum (sound-thing)
 Word (Asaxi): jýmbo
 trnsltion. En: drum (sound-thing)

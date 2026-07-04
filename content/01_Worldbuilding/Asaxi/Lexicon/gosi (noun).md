@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: gosi (noun) - salt
 Word (Asaxi): gosi
 trnsltion. En: salt

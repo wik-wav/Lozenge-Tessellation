@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: hùfwo (noun) - uncertainty, obscurity
 Word (Asaxi): hùfwo
 trnsltion. En: uncertainty, obscurity

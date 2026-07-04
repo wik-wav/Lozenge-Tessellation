@@ -1,4 +1,5 @@
 ---
+freq: 35
 title: miagoxů (verb) - to sweeten
 Word (Asaxi): miagoxů
 trnsltion. En: to sweeten

@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: swëshá (noun) - dragon, wyrm
 Word (Asaxi): swëshá
 trnsltion. En: dragon, wyrm, scaled creature

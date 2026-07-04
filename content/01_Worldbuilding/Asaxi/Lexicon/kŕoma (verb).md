@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: kŕoma (verb) - to bite
 Word (Asaxi): kŕoma
 trnsltion. En: to bite

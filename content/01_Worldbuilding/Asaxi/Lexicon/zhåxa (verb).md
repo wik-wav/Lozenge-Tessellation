@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: zhåxa (verb) - to scare, to frighten
 Word (Asaxi): zhåxa
 trnsltion. En: to scare, to frighten

@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: kaŕtè (noun) - potato (Pl. *kartofel*)
 Word (Asaxi): kaŕtè
 trnsltion. En: potato (Pl. *kartofel*)

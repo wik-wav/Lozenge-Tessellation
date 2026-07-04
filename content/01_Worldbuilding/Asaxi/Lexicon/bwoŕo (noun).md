@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: bwoŕo (noun) - oil (fat-liquid)
 Word (Asaxi): bwoŕo
 trnsltion. En: oil (fat-liquid)

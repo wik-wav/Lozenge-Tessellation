@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: tëŋo (noun) - elbow
 Word (Asaxi): tëŋo
 trnsltion. En: elbow

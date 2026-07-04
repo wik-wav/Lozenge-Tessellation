@@ -1,4 +1,5 @@
 ---
+freq: 38
 title: pxỏŕů (verb) - to inflate, to blow up
 Word (Asaxi): pxỏŕů
 trnsltion. En: to inflate, to blow up, to pump up, to swell (transitive)

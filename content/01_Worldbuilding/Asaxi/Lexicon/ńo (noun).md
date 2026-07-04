@@ -1,4 +1,5 @@
 ---
+freq: 72
 title: ńo (noun) - thing, object (clipped)
 Word (Asaxi): ńo
 trnsltion. En: thing, object (clipped)

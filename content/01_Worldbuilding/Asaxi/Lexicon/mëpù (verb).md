@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: mëpù (verb) - to blink
 Word (Asaxi): mëpù
 trnsltion. En: to blink

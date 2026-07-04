@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: kjègùŕo (noun) - vine, creeper
 Word (Asaxi): kjègùŕo
 trnsltion. En: vine, creeper

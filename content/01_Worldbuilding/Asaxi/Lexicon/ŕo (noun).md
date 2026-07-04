@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: ŕo (noun) - panel building
 Word (Asaxi): ŕo
 trnsltion. En: panel building

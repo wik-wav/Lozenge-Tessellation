@@ -1,4 +1,5 @@
 ---
+freq: 32
 title: zèvoshů (verb) - to defame, to slander
 Word (Asaxi): zèvoshů
 trnsltion. En: to defame

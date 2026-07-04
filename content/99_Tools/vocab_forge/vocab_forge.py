@@ -192,6 +192,23 @@ def llm_refine(cfg, payload):
     return {"ok": True, "options": opts, "raw": raw[:400]}
 
 
+def llm_frequency(cfg, payload):
+    """Estimate a word's everyday frequency (1-100) with the local model."""
+    en = (payload.get("gloss_en") or "").strip()
+    pl = (payload.get("gloss_pl") or "").strip()
+    note = (payload.get("usage_note") or "").strip()
+    if not en and not pl:
+        return {"ok": False, "error": "add a translation first"}
+    try:
+        raw = llm_call(cfg, core.freq_prompt(en, pl, note))
+    except Exception as ex:
+        return {"ok": False, "error": str(ex)}
+    m = re.search(r"\d{1,3}", re.sub(r"(?s)<think>.*?</think>", "", raw))
+    if not m:
+        return {"ok": False, "error": "model did not return a number", "raw": raw[:200]}
+    return {"ok": True, "freq": max(1, min(100, int(m.group()))), "raw": raw[:200]}
+
+
 def llm_related(cfg, lex, payload):
     """LLM as fuzzy thesaurus: get synonyms/antonyms of the gloss, then find
     the Asaxi words in the vault whose translations match them."""
@@ -294,6 +311,8 @@ class Handler(BaseHTTPRequestHandler):
                                "types": sorted({e["type_raw"] for e in lex.entries})})
         if u.path == "/api/entry":
             return self._send(core.get_entry(cfg, q.get("name", "")))
+        if u.path == "/api/words_at_freq":
+            return self._send(core.words_at_freq(cfg, q.get("freq", ""), q.get("exclude", ""), q.get("type", "")))
         if u.path == "/api/anki_status":
             return self._send(core.anki_status(cfg, name=q.get("name", ""),
                                                word=q.get("word", "")))
@@ -360,6 +379,16 @@ class Handler(BaseHTTPRequestHandler):
         if self.path == "/api/entry_delete":
             return self._send(core.delete_entry(cfg, body.get("name", ""),
                                                 dry_run=bool(body.get("dry_run", True))))
+        if self.path == "/api/entry_rename":
+            return self._send(core.rename_entry(cfg, body.get("name", ""),
+                                                body.get("new_name", ""),
+                                                dry_run=bool(body.get("dry_run", True))))
+        if self.path == "/api/rebuild_lists":
+            return self._send(core.rebuild_lists(cfg, dry_run=bool(body.get("dry_run", False))))
+        if self.path == "/api/rank_frequency":
+            return self._send(core.rank_frequency(cfg, dry_run=bool(body.get("dry_run", False))))
+        if self.path == "/api/llm_frequency":
+            return self._send(llm_frequency(cfg, body))
         if self.path == "/api/thesaurus":
             return self._send(core.suggest_related(lex, body))
         if self.path == "/api/morphcheck":
@@ -420,6 +449,12 @@ def main():
     th = sub.add_parser("thesaurus", help="synonym/antonym candidates for a gloss")
     th.add_argument("--en", default="")
     th.add_argument("--pl", default="")
+    rl = sub.add_parser("rebuild-lists",
+                        help="fill + Latin-sort every category List file (ga-noun grouped by tag)")
+    rl.add_argument("--dry-run", action="store_true", help="report only, write nothing")
+    rf = sub.add_parser("rank-frequency",
+                        help="stamp freq: on entries lacking it, via wordfreq on single-word glosses")
+    rf.add_argument("--dry-run", action="store_true", help="report only, write nothing")
     args = ap.parse_args()
 
     cfg = core.load_config()
@@ -450,6 +485,10 @@ def main():
         out = payload_schema()
     elif args.cmd == "fields":
         out = lex.semantic_field_names()
+    elif args.cmd == "rebuild-lists":
+        out = core.rebuild_lists(cfg, dry_run=args.dry_run)
+    elif args.cmd == "rank-frequency":
+        out = core.rank_frequency(cfg, dry_run=args.dry_run)
     elif args.cmd == "backfill-derived":
         plans = core.backfill_derived(lex)
         if args.commit:

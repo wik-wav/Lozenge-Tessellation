@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: dë (noun) - limb, appendage
 Word (Asaxi): dë
 trnsltion. En: limb, appendage, member

@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: ůsů (verb) - to sound, to sound like
 Word (Asaxi): ůsů
 trnsltion. En: to sound, to sound like

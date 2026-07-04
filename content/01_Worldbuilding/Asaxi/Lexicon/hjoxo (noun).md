@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: hjoxo (noun) - comet (star-streak)
 Word (Asaxi): hjoxo
 trnsltion. En: comet (star-streak)

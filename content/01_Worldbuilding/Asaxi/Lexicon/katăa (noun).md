@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: katăa (noun) - sword, katana (Jp. *katana*)
 Word (Asaxi): katăa
 trnsltion. En: sword, katana (Jp. *katana*)

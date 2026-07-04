@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: sùgo (noun) - crystal / quartz
 Word (Asaxi): sùgo
 trnsltion. En: crystal / quartz

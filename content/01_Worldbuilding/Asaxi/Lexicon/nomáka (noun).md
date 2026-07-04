@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: nomáka (noun) - box (thing-vessel)
 Word (Asaxi): nomáka
 trnsltion. En: box (thing-vessel)

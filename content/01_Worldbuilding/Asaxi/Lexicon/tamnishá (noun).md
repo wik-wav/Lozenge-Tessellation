@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: tamnishá (noun) - spouse, partner
 Word (Asaxi): tamnishá
 trnsltion. En: spouse, partner

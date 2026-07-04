@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: mmbă (noun) - happiness, joy
 Word (Asaxi): mmbă
 trnsltion. En: happiness, joy, positive feeling

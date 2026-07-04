@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: hjixaśbi (noun) - toe
 Word (Asaxi): hjixaśbi
 trnsltion. En: toe, digit (foot)

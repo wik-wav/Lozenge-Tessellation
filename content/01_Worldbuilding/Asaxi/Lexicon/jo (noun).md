@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: jo (noun) - society
 Word (Asaxi): jo
 trnsltion. En: society

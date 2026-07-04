@@ -1,4 +1,5 @@
 ---
+freq: 19
 title: găhjoshá (noun) - emaciated person, walking skeleton, bag of bones, starving creature
 Word (Asaxi): găhjoshá
 trnsltion. En: emaciated person, walking skeleton, bag of bones, starving creature

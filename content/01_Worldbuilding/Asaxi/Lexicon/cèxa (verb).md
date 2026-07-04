@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: cèxa (verb) - to realise, to grasp suddenly
 Word (Asaxi): cèxa
 trnsltion. En: to realise, to grasp suddenly

@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: hjopùŕo (noun) - meteor (falling star)
 Word (Asaxi): hjopùŕo
 trnsltion. En: meteor (falling star)

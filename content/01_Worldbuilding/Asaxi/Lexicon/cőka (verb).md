@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: cőka (verb) - to solve, to work out
 Word (Asaxi): cőka
 trnsltion. En: to solve, to work out

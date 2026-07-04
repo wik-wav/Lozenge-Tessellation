@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: åkam (noun) - deadline, appointed moment
 Word (Asaxi): åkam
 trnsltion. En: deadline, appointed moment

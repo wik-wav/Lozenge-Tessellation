@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: kamŕůshá (noun) - builder, construction worker
 Word (Asaxi): kamŕůshá
 trnsltion. En: builder, construction worker

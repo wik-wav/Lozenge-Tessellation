@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: zizi (noun) - mosquito
 Word (Asaxi): zizi
 trnsltion. En: mosquito

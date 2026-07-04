@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: pxỏ (noun) - ball, sphere
 Word (Asaxi): pxỏ
 trnsltion. En: ball, sphere, orb

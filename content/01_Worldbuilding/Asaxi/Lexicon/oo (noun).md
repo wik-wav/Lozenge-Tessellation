@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: oo (noun) - today, this day
 Word (Asaxi): oo
 trnsltion. En: today, this day

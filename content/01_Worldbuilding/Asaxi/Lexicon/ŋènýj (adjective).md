@@ -1,4 +1,5 @@
 ---
+freq: 45
 title: ŋènýj (adjective) - shadowy, dark, grim, gloomy
 Word (Asaxi): ŋènýj
 trnsltion. En: shadowy, dark, grim, gloomy

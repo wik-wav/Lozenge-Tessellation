@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: mmbănă (adjective) - happy, joyful
 Word (Asaxi): mmbănă
 trnsltion. En: happy, joyful, giddy, excited, delighted, cheerful

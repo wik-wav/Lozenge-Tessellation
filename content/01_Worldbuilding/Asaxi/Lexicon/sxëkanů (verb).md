@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: sxëkanů (verb) - to shear, to cut with shears
 Word (Asaxi): sxëkanů
 trnsltion. En: to shear, to cut with shears

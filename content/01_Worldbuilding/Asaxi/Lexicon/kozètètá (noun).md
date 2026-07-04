@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: kozètètá (noun) - regret, remorse
 Word (Asaxi): kozètètá
 trnsltion. En: regret, remorse, lamentation, nostalgia (painful)

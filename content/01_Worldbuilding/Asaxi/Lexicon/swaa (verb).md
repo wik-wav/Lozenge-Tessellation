@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: swaa (verb) - to glide
 Word (Asaxi): swaa
 trnsltion. En: to glide

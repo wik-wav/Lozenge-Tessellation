@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: cèpù (verb) - to guess, to suppose
 Word (Asaxi): cèpù
 trnsltion. En: to guess, to suppose

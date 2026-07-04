@@ -1,4 +1,5 @@
 ---
+freq: 52
 Word (Asaxi): zùnýj
 trnsltion. En: skilled, skillful, proficient, adept, good (at something)
 trnsltion. Pl: wprawny, zręczny, biegły

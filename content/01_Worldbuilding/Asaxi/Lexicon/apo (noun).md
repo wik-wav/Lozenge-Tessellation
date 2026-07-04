@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: apo (noun) - apple
 Word (Asaxi): apo
 trnsltion. En: apple

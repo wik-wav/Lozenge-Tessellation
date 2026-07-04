@@ -1,4 +1,5 @@
 ---
+freq: 35
 title: ijoŕoshá (noun) - everyman, the common creature, ordinary folk
 Word (Asaxi): ijoŕoshá
 trnsltion. En: everyman, the common creature, ordinary folk

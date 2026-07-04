@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: daono (noun) - gift, present
 Word (Asaxi): daono
 trnsltion. En: gift, present

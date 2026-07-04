@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: baxů (verb) - to help, to assist
 Word (Asaxi): baxů
 trnsltion. En: to help, to assist, to aid

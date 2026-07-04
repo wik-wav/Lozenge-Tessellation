@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: alănů (verb) - to loosen, to slacken
 Word (Asaxi): alănů
 trnsltion. En: to loosen, to slacken, to untie, to relax (grip)

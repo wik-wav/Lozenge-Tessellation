@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: pjova (verb) - to glow
 Word (Asaxi): pjova
 trnsltion. En: to glow

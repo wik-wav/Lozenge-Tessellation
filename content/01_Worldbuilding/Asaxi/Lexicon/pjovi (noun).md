@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: pjovi (noun) - laser, beam
 Word (Asaxi): pjovi
 trnsltion. En: laser, beam, ray

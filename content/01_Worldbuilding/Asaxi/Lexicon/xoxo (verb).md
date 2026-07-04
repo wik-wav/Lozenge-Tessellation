@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: xoxo (verb) - depart, leave
 Word (Asaxi): xoxo
 trnsltion. En: depart, leave, be away, (go)

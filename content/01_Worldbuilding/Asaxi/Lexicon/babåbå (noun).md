@@ -1,4 +1,5 @@
 ---
+freq: 24
 title: babåbå (noun) - obliques
 Word (Asaxi): babåbå
 trnsltion. En: obliques

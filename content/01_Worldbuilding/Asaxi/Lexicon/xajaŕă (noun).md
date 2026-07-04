@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: xajaŕă (noun) - eagle (high-bird)
 Word (Asaxi): xajaŕă
 trnsltion. En: eagle (high-bird)

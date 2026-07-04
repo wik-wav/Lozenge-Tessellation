@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: dă (noun) - elephant
 Word (Asaxi): dă
 trnsltion. En: elephant

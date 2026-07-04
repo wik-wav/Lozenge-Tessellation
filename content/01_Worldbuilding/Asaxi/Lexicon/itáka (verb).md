@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: itáka (verb) - to worry, to fret
 Word (Asaxi): itáka
 trnsltion. En: to worry, to fret

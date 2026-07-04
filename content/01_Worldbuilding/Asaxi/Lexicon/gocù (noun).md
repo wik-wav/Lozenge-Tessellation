@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: gocù (noun) - cement, mortar (stone-soil)
 Word (Asaxi): gocù
 trnsltion. En: cement, mortar (stone-soil)

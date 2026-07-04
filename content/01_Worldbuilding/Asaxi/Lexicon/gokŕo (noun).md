@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: gokŕo (noun) - crater (rock-hollow)
 Word (Asaxi): gokŕo
 trnsltion. En: crater (rock-hollow)

@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: kma (verb) - to hold, to grip; to stick, adhere
 Word (Asaxi): kma
 trnsltion. En: to hold, to grip; to stick, to adhere

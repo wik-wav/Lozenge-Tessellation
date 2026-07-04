@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: cpỏkanů (verb) - to sweep
 Word (Asaxi): cpỏkanů
 trnsltion. En: to sweep

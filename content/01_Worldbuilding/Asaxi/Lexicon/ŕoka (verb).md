@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: ŕoka (verb) - to twist, to wring
 Word (Asaxi): ŕoka
 trnsltion. En: to twist, to wring

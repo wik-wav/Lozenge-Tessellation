@@ -1,4 +1,5 @@
 ---
+freq: 33
 title: hùxaxaśbibåbå (noun) - hamstrings
 Word (Asaxi): hùxaxaśbibåbå
 trnsltion. En: hamstrings

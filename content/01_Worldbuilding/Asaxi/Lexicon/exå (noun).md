@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: exå (noun) - smile
 Word (Asaxi): exå
 trnsltion. En: smile

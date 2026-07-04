@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: aishů (verb) - to comfort, to console (strip sorrow)
 Word (Asaxi): aishů
 trnsltion. En: to comfort, to console (strip sorrow)

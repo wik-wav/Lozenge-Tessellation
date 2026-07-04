@@ -1,4 +1,5 @@
 ---
+freq: 41
 title: chỏ (noun) - muzzle, maw, hunger
 Word (Asaxi): chỏ
 trnsltion. En: muzzle, maw, hunger

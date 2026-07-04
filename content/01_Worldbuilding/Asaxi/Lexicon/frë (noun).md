@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: frë (noun) - freedom, liberty
 Word (Asaxi): frë
 trnsltion. En: freedom, liberty, independence

@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: ijsha (verb) - to ignore, to overlook
 Word (Asaxi): ijsha
 trnsltion. En: to ignore, to overlook

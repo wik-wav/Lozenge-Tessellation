@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ijùno (noun) - word, utterance
 Word (Asaxi): ijùno
 trnsltion. En: word, utterance

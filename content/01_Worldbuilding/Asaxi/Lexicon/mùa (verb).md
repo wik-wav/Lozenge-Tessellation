@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: mùa (verb) - to kiss
 Word (Asaxi): mùa
 trnsltion. En: to kiss

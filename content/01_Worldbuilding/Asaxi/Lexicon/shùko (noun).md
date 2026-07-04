@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: shùko (noun) - cliff / precipice
 Word (Asaxi): shùko
 trnsltion. En: cliff / precipice

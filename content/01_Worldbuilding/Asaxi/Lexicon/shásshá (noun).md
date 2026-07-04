@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: shásshá (noun) - hostage, captive
 Word (Asaxi): shásshá
 trnsltion. En: hostage, captive, property (person)

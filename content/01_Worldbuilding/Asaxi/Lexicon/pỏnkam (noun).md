@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: pỏnkam (noun) - tent (cloth-structure)
 Word (Asaxi): pỏnkam
 trnsltion. En: tent (cloth-structure)

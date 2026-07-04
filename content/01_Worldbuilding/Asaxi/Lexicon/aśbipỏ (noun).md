@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: aśbipỏ (noun) - trousers
 Word (Asaxi): aśbipỏ
 trnsltion. En: trousers

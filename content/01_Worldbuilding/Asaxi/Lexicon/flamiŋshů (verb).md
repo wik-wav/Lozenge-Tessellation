@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: flamiŋshů (verb) - to hide
 Word (Asaxi): flamiŋshů
 trnsltion. En: to hide, to conceal, to camouflage, to blend in, to stop showing off

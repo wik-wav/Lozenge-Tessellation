@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: tỏma (verb) - to receive, to obtain, to get
 Word (Asaxi): tỏma
 trnsltion. En: to receive, to obtain, to get

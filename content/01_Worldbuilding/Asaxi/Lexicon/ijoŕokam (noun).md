@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: ijoŕokam (noun) - temple, shrine
 Word (Asaxi): ijoŕokam
 trnsltion. En: temple, shrine

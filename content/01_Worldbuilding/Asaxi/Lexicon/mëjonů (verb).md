@@ -1,4 +1,5 @@
 ---
+freq: 73
 title: mëjonů (verb) - to look, to use one's eyes
 Word (Asaxi): mëjonů
 trnsltion. En: to look, to use one's eyes, to gaze

@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: ispănýj (adjective) - wild, untamed
 Word (Asaxi): ispănýj
 trnsltion. En: wild, untamed, intense, raw, feral (positive)

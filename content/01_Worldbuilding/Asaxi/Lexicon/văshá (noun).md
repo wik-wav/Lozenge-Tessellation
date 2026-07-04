@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: văshá (noun) - farmer, gardener
 Word (Asaxi): văshá
 trnsltion. En: farmer, gardener

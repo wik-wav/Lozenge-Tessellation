@@ -76,7 +76,7 @@ MODEL = genanki.Model(
     "Asaxi Vocabulary",
     fields=[{"name": f} for f in
             ("Word", "IPA", "GlossEN", "GlossPL", "Example", "ExampleGloss",
-             "Image", "AudioWord", "AudioSentence", "Type")],
+             "Image", "AudioWord", "AudioSentence", "Type", "Freq")],
     templates=[{"name": "Asaxi -> meaning", "qfmt": FRONT,
                 "afmt": '{{FrontSide}}<hr id="answer">' + BACK}],
     css=CSS,
@@ -137,8 +137,18 @@ def main():
             tgt.write_bytes(fp.read_bytes())
             media.append(str(tgt))
 
+    def _eff(e):
+        f = e.get("freq")
+        if f is not None:
+            return f
+        wf = core.wordfreq_rating(e.get("gloss_en", ""), e.get("gloss_pl", ""))
+        return wf if wf is not None else 0
+
     n = 0
-    for e in sorted(lex.entries, key=lambda x: x["word"].lower()):
+    # Higher frequency first (top of deck); alphabetical as a tiebreak.
+    for e in sorted(lex.entries, key=lambda x: (-_eff(x),
+                       -core.gloss_zipf(x.get("gloss_en", ""), x.get("gloss_pl", "")),
+                       x["word"].lower())):
         if not e["gloss_en"]:
             continue
         st = core.anki_status(cfg, name=Path(e["path"]).stem)
@@ -160,9 +170,10 @@ def main():
 
         note = genanki.Note(model=MODEL, fields=[
             e["word"], ipa, e["gloss_en"], e.get("gloss_pl", ""),
-            sent, sgloss, img, a1, a2, e["type_raw"]],
+            sent, sgloss, img, a1, a2, e["type_raw"], f"{_eff(e):03d}"],
             guid=genanki.guid_for(e.get("id") or
-                                  ("asaxi::" + e["word"] + "::" + e["type_raw"])))
+                                  ("asaxi::" + e["word"] + "::" + e["type_raw"])),
+            due=n + 1)   # new-card position: higher frequency first (set Anki new-card order to "Order gathered"/"Order added")
         deck.add_note(note)
         n += 1
         if args.limit and n >= args.limit:

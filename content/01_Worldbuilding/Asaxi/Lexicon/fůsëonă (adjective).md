@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: fůsëonă (adjective) - non-essential, trivial, inessential
 Word (Asaxi): fůsëonă
 trnsltion. En: non-essential, trivial, inessential

@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: tëpỏ (noun) - glove
 Word (Asaxi): tëpỏ
 trnsltion. En: glove

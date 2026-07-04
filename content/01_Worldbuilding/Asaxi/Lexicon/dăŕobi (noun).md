@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: dăŕobi (noun) - bay, gulf (sea-edge)
 Word (Asaxi): dăŕobi
 trnsltion. En: bay, gulf (sea-edge)

@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: kŕama (verb) - to march, to tramp
 Word (Asaxi): kŕama
 trnsltion. En: to march, to tramp

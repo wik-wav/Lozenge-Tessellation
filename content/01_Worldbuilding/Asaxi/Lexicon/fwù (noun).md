@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: fwù (noun) - wind
 Word (Asaxi): fwù
 trnsltion. En: wind

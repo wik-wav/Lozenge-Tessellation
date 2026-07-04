@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: såŕå (noun) - song, melody
 Word (Asaxi): såŕå
 trnsltion. En: song, melody

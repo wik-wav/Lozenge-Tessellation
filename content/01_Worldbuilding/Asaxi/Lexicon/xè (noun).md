@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: xè (noun) - effort, exertion
 Word (Asaxi): xè
 trnsltion. En: effort, exertion, strain, try, attempt

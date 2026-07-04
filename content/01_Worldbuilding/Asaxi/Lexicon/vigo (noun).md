@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: vigo (noun) - grain, seed
 Word (Asaxi): vigo
 trnsltion. En: grain, seed

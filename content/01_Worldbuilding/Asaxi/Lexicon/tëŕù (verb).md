@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: tëŕù (verb) - to stretch (the body)
 Word (Asaxi): tëŕù
 trnsltion. En: to stretch (the body)

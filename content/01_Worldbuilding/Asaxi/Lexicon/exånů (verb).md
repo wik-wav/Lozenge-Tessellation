@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: exånů (verb) - to smile
 Word (Asaxi): exånů
 trnsltion. En: to smile

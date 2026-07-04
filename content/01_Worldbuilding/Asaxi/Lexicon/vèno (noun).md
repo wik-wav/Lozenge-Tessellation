@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: vèno (noun) - wood / timber
 Word (Asaxi): vèno
 trnsltion. En: wood / timber

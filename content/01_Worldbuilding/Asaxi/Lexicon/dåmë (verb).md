@@ -1,4 +1,5 @@
 ---
+freq: 71
 title: dåmë (verb) - to show, indicate, reveal, point out
 Word (Asaxi): dåmë
 trnsltion. En: to show, indicate, reveal, point out

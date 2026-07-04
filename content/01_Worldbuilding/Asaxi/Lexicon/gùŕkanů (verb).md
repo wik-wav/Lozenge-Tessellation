@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: gùŕkanů (verb) - to net, to catch in a net
 Word (Asaxi): gùŕkanů
 trnsltion. En: to net, to catch in a net

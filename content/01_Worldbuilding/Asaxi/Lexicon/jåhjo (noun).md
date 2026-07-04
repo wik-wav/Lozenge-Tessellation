@@ -1,4 +1,5 @@
 ---
+freq: 62
 title: jåhjo (noun) - lodestar, destination, guiding star
 Word (Asaxi): jåhjo
 trnsltion. En: lodestar, destination, guiding star

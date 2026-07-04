@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: pivaŕů (verb) - to bloom, to flower
 Word (Asaxi): pivaŕů
 trnsltion. En: to bloom, to flower

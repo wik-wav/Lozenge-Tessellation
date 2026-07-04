@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: vimă (noun) - the sum of all things accepted
 Word (Asaxi): vimă
 trnsltion. En: the accepted, the affirmed, collection of yeses, total approval

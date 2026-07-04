@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: jomåshá (noun) - human being, homo sapiens
 Word (Asaxi): jomåshá
 trnsltion. En: human being, homo sapiens

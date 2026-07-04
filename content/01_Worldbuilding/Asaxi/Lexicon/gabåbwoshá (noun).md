@@ -1,4 +1,5 @@
 ---
+freq: 36
 title: gabåbwoshá (noun) - strongman, powerlifter, one with a bear-like physique
 Word (Asaxi): gabåbwoshá
 trnsltion. En: strongman, powerlifter, brute, one with a bear-like physique
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-literal
 ---
 # gabåbwoshá ([[00_Ga-noun Compounds in Asaxi (list)|00_Ga-noun Compounds in Asaxi (list)]])
 

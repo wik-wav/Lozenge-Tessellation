@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: fasá (noun) - bean (Pl. *fasola*)
 Word (Asaxi): fasá
 trnsltion. En: bean (Pl. *fasola*)

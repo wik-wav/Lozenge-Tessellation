@@ -1,4 +1,5 @@
 ---
+freq: 74
 title: wao (noun) - world, realm
 Word (Asaxi): wao
 trnsltion. En: world, realm, domain, sphere

@@ -1,4 +1,5 @@
 ---
+freq: 38
 title: vèshů (verb) - to wither, to shed leaves
 Word (Asaxi): vèshů
 trnsltion. En: to wither, to shed leaves

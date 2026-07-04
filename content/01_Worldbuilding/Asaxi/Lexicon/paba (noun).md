@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: paba (noun) - lip
 Word (Asaxi): paba
 trnsltion. En: lip

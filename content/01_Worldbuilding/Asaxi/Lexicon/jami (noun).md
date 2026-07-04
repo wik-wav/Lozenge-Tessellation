@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: jami (noun) - illness, disease, sickness
 Word (Asaxi): jami
 trnsltion. En: illness, disease, sickness

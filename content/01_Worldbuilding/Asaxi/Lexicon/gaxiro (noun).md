@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: gaxiro (noun) - golden
 Word (Asaxi): gaxiro
 trnsltion. En: golden
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
   - vocab_expansion
 ---
 # gaxiro ([[00_Ga-noun Compounds in Asaxi (list)]])

@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: sigonů (verb) - to count, to tally
 Word (Asaxi): sigonů
 trnsltion. En: to count, to tally

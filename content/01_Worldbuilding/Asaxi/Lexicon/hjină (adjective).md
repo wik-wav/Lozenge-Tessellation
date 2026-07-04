@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: hjină (adjective) - shy, introverted
 Word (Asaxi): hjină
 trnsltion. En: shy, introverted, private, boundary-respecting

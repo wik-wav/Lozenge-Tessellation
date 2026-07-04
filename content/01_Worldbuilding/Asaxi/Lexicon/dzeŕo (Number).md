@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: dzeŕo (Number) - 0, zero
 Word (Asaxi): dzeŕo, 0
 trnsltion. En: 0, zero

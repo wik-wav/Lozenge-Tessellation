@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: maaśù (verb) - to carry
 Word (Asaxi): maaśù
 trnsltion. En: to carry

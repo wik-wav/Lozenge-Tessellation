@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: sxëbonýj (adjective) - sharp, keen, cutting
 Word (Asaxi): sxëbonýj
 trnsltion. En: sharp, keen, cutting

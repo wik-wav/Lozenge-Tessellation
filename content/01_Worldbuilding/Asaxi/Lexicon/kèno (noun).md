@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: kèno (noun) - a question
 Word (Asaxi): kèno
 trnsltion. En: a question

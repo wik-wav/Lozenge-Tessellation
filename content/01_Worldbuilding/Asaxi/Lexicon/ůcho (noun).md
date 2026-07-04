@@ -1,4 +1,5 @@
 ---
+freq: 64
 title: ůcho (noun) - feeling
 Word (Asaxi): ůcho
 trnsltion. En: feeling

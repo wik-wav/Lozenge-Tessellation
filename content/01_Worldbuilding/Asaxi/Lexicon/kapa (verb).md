@@ -1,4 +1,5 @@
 ---
+freq: 61
 title: kapa (verb) - to catch
 Word (Asaxi): kapa
 trnsltion. En: to catch

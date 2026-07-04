@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: ŋono (noun) - weight, mass
 Word (Asaxi): ŋono
 trnsltion. En: weight, mass, heaviness

@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: hjihjină (adjective) - thin and cute, petite
 Word (Asaxi): hjihjină
 trnsltion. En: thin and cute, petite, kawaii, slender (aesthetic)

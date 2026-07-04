@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: kxejù (verb) - to describe
 Word (Asaxi): kxejù
 trnsltion. En: to describe

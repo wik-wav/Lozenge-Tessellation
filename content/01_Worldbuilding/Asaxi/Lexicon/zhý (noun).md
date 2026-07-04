@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: zhý (noun) - cold, the chill
 Word (Asaxi): zhý
 trnsltion. En: cold, the chill

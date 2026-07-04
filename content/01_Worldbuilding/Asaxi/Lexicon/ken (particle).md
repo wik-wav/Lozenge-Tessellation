@@ -1,4 +1,5 @@
 ---
+freq: 81
 title: ken (particle) - can
 Word (Asaxi): ken
 trnsltion. En: can, able to

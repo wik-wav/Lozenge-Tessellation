@@ -1,4 +1,5 @@
 ---
+freq: 71
 title: ůpů (verb) - to feel (texture)
 Word (Asaxi): ůpů
 trnsltion. En: to feel (texture)

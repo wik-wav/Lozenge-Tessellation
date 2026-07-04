@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: babi (noun) - cousin
 Word (Asaxi): babi
 trnsltion. En: cousin

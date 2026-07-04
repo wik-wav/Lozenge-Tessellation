@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: iŕă (noun) - rainbow
 Word (Asaxi): iŕă
 trnsltion. En: rainbow

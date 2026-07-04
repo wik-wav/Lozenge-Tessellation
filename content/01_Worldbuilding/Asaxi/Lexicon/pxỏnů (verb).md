@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: pxỏnů (verb) - to roll, to trundle
 Word (Asaxi): pxỏnů
 trnsltion. En: to roll, to trundle

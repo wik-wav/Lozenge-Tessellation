@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: sino (noun) - milk
 Word (Asaxi): sino
 trnsltion. En: milk

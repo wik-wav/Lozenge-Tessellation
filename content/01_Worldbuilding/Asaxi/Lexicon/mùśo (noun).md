@@ -1,4 +1,5 @@
 ---
+freq: 43
 title: mùśo (noun) - mould, lichen, mildew
 Word (Asaxi): mùśo
 trnsltion. En: mould, lichen, mildew

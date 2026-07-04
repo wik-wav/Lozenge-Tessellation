@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: fŕonů (verb) - to map, to chart
 Word (Asaxi): fŕonů
 trnsltion. En: to map, to chart

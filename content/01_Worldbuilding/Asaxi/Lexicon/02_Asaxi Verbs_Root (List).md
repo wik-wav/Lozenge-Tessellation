@@ -15,238 +15,234 @@ Navigation:
  
 - - - 
 
-- [[baxů (verb)]] - to help, to assist
-
-- [[tỏma (verb)]] - to receive, to obtain, to get
-- [[maaśù (verb)]] - to carry
-- [[maxogă (verb)]] - to bring
-- [[daonidao (verb)]] - to trade, to exchange
-- [[kma (verb)]] - to hold, to grip
-- [[gùmë (verb)]] - to grab, to seize, to snatch
-- [[txo (verb)]] - to throw, to cast, to hurl
-- [[dzo' (verb)]] - to break, to snap
-- [[cèdao (verb)]] - to teach
-- [[nicè (verb)]] - to learn, to study
-- [[ŕăaxaśù (verb)]] - to dance
-- [[këjù (verb)]] - to ask
-- [[năjù (verb)]] - to answer, to reply
-- [[dăxijù (verb)]] - to pray, to invoke
-
 Root verbs are verbs not derived from nouns, and as such they don't have the `ů` active verb ending, while still acting as verbs. Because they are not derived from physical objects, they often describe **Achievements**: instantaneous changes of state that have no duration.
 
 This is a list of all [[The Asaxi Language|Asaxi]] root verbs and their meanings.
 
 - - -
 
-- [[ijo (verb)]] - to see
-- [[fdåmë (verb)]] - to not show, to withhold, to conceal, to not send
-- [[dåmë (verb)]] - to send, to show, to display
-- [[fůcőma (verb)]] - to have without appreciation
-- [[fůcèma (verb)]] - to take for granted
-- [[pxỏpxỏ (verb)]] - to blow
-- [[jală (verb)]] - to fly
-- [[păxè (verb)]] - to spread out
-- [[dao (verb)]] - to give
-- [[táka (verb)]] - to be at war, to wage war, to battle (large scale)
-- [[chåxa (verb)]] - to jump up, to leap, to spring, to bound
-- [[ăja (verb)]] - to shout, to yell, to cry out, to scream, to call out
-- [[xůxů (verb)]] - to forget, to lose (a memory), to slip one's mind
-- [[cèná (verb)]] - to not know, to be ignorant of, to be unaware
-- [[xăcè (verb)]] - to be sure, to know for a fact, to be certain, to verify
-- [[pùŕima (verb)]] - to suspect, to doubt, to be unsure, to reckon (weakly), to suppose
-- [[xoxo (verb)]] - to depart (set off somewhere)
-- [[aśù (verb)]] - to walk (ambulate)
-- [[ma (verb)]] - to have
-- [[topù (verb)]] - to put (place)
-- [[haśù (verb)]] - to run
-- [[chěcho' (verb)]] - to close
-- [[tomo' (verb)]] - to stop, end, quit
-- [[chěto' (verb)]] - to stop (ambulation)
-- [[jå (verb)]] - to want
-- [[xèjå (verb)]] - to try (attempt)
-- [[cè (verb)]] - to know
-- [[xů (verb)]] - to do / handle (transitive)
 - [[ăijo (verb)]] - to get a grip on the situation
-- [[năijo (verb)]] - to feel lost (in a situation)
-- [[fwoxijo (verb)]] - to be lost in thought
-- [[niŕo (verb)]] - to submerge
-- [[păŕo (verb)]] - to emerge (to surface)
-- [[xogă (verb)]] - to arrive
-- [[em.mo (verb)]] - to open something
-- [[memm (verb)]] - to close something
-- [[fri (verb)]] - to free
-- [[ijù (verb)]] - to say
-- [[ŕima (verb)]] - to meditate, to think
-- [[sùkixů (verb)]] - to love, to adore
-- [[tètáka (verb)]] - to fight
-- [[naŕo (verb)]] - to mix
-- [[tăka (verb)]] - to unite, to join forces, to merge, to ally
-- [[mëka (verb)]] - to separate, to part ways, to divorce, to split up
-- [[ănå (verb)]] - to wait
+- [[aimù (verb)]] - to die, to perish
+- [[aiva (verb)]] - to pity, to feel for
+- [[aixa (verb)]] - to hurt, to wound, to harm
+- [[ăja (verb)]] - to shout, to yell, to cry out, to scream, to call out
+- [[ăjdao (verb)]] - to announce, to proclaim
+- [[ăka (verb)]] - to call, to summon
+- [[ănå (verb)]] - to wait, to bide time, to anticipate, to expect
+- [[ănăka (verb)]] - to expect, to await
+- [[ănù (verb)]] - to rest, to repose
+- [[aśù (verb)]] - walk on foot, ambulate
+- [[axajù (verb)]] - to mock, to ridicule
 - [[ăxo (verb)]] - to follow, to pursue, to trail, to track, to go after
+- [[axù (verb)]] - to laugh
+- [[baka (verb)]] - to befriend
+- [[baxů (verb)]] - to help, to assist, to aid
+- [[bika (verb)]] - to compare
+- [[bùbù (verb)]] - to boil, to bubble
+- [[capù (verb)]] - to stab, to pierce
+- [[cè (verb)]] - to know, to be aware of
+- [[cèdao (verb)]] - to teach
+- [[cèka (verb)]] - to remember, to recall
+- [[cèkma (verb)]] - to trust, to rely on
+- [[cèná (verb)]] - to not know, to be ignorant of, to be unaware
+- [[cèpù (verb)]] - to guess, to suppose
+- [[cètá (verb)]] - to judge, to evaluate
+- [[cèva (verb)]] - to believe, to hold true
+- [[cèwo (verb)]] - to assume, to take as given
+- [[cèxa (verb)]] - to realise, to grasp suddenly
+- [[cèxo (verb)]] - to wonder, to ponder
+- [[chaja (verb)]] - to chew, to gnaw
+- [[chåxa (verb)]] - to jump up, to leap, to spring, to bound
+- [[chěcho' (verb)]] - to close (something), to close something shut
+- [[chěto' (verb)]] - halt, stand still, stop walking
 - [[cő (verb)]] - to understand, to comprehend, to get it, to grasp (mentally)
-- [[xogăni (verb)]] - to arrive at, to reach (a state), to attain, to come into
-- [[xona (verb)]] - to move upward
-- [[xopa (verb)]] - to advance, to proceed, to move forward, to propel
-- [[xoba (verb)]] - to step aside, to move sideways, to dodge, to shunt
-- [[xova (verb)]] - to insert, to enter (actively), to put in
-- [[xopă (verb)]] - to eject, to extract, to take out, to move out
-- [[xowỏ (verb)]] - to center, to converge, to align to middle
-- [[fůkőma (verb)]] - to take understanding for granted
-- [[xohù (verb)]] - to retreat, to withdraw, to back up, to reverse
-- [[xopù (verb)]] - to move downward, to descend, to sink, to drop (oneself)
-- [[wëè (verb)]] - to require, to need
-- [[xè (verb)]] - to toil, labour, exert oneself
-- [[xo (verb)]] - to move, to go
-- [[fùcù (verb)]] - to clean, wash, cleanse
-- [[ůŕů (verb)]] - to produce, yield, emit, give off
-- [[ůshů (verb)]] - to clear, dig, sweep, work a tool through
-
-- [[txa (verb)]] - to morph, to change state
-
-- [[vůwù (verb)]] - to swim
-- [[ŋawa (verb)]] - to crawl
-- [[kapù (verb)]] - to kick
-- [[sholù (verb)]] - to slide, to slip
-- [[ochi (verb)]] - to sink, to drop (Jp. *ochiru*)
-- [[ŕoŕă (verb)]] - to turn, to rotate
-- [[fŕăfŕă (verb)]] - to spin, to whirl
-- [[kobù (verb)]] - to bend, to curve
-- [[fŕefŕe (verb)]] - to shake, to tremble
-- [[wexe (verb)]] - to wave
+- [[cődao (verb)]] - to explain (understanding-give)
+- [[cőka (verb)]] - to solve, to work out
+- [[cùxa (verb)]] - to bury, to plant in soil
+- [[dåka (verb)]] - to promise, to vow
+- [[dåmë (verb)]] - to show, indicate, reveal, point out
+- [[dao (verb)]] - to give
+- [[daonidao (verb)]] - to trade, to exchange
+- [[dăxijù (verb)]] - to pray, to invoke
 - [[doko (verb)]] - to nod
-- [[kŕopù (verb)]] - to kneel
-- [[xobù (verb)]] - to bow, to stoop
-- [[kŕepù (verb)]] - to stumble, to trip
+- [[dopù (verb)]] - to fall (drop down)
+- [[dzo' (verb)]] - to break, to snap
+- [[dzopù (verb)]] - to crack, to snap
+- [[em.mo (verb)]] - to open something
+- [[exù (verb)]] - to cry, to weep
+- [[fdåmë (verb)]] - to withhold, to not send, to conceal, to not show (deliberately)
+- [[fopù (verb)]] - to drop, to let fall
+- [[fŕăfŕă (verb)]] - to spin, to whirl
+- [[fŕefŕe (verb)]] - to shake, to tremble
+- [[fri (verb)]] - to set free, to liberate, to release, to unleash
+- [[friká (verb)]] - to forgive, to pardon
+- [[fŕopù (verb)]] - to faint, to collapse
+- [[fůcèma (verb)]] - to take for granted
+- [[fůcőma (verb)]] - to have without appreciation
+- [[fùcù (verb)]] - to clean, wash, cleanse
+- [[fůkőma (verb)]] - to take understanding for granted
+- [[fùsa (verb)]] - to wipe
+- [[fwoxijo (verb)]] - to be lost in thought
+- [[fwùxa (verb)]] - to breathe
+- [[gavijù (verb)]] - to praise, to commend
+- [[gùko (verb)]] - to tie, to bind, to knot
+- [[gùmë (verb)]] - to grab, to seize, to snatch
+- [[hacù (verb)]] - to sneeze
+- [[haśù (verb)]] - to run
+- [[ijcè (verb)]] - to recognise
+- [[ijo (verb)]] - see, watch
+- [[ijoŕima (verb)]] - to examine, to study closely
+- [[ijpù (verb)]] - to notice, to spot
+- [[ijsha (verb)]] - to ignore, to overlook
+- [[ijù (verb)]] - to say, to utter, to tell, to pronounce
+- [[ijùdao (verb)]] - to tell (say-give)
+- [[ijwo (verb)]] - to perceive, to sense
+- [[itáka (verb)]] - to worry, to fret
+- [[jå (verb)]] - want, desire
+- [[jåjù (verb)]] - to beg, to plead
+- [[jåka (verb)]] - to intend, to mean to
+- [[jală (verb)]] - to fly, to soar
+- [[jåxo (verb)]] - to envy, to covet
+- [[jëvù (verb)]] - to sprout, to bud
+- [[jýŋù (verb)]] - to ring, to resound
+- [[kapa (verb)]] - to catch
+- [[kapù (verb)]] - to kick
+- [[këjù (verb)]] - to ask
+- [[kixa (verb)]] - to pull, to draw
+- [[kma (verb)]] - to hold, to grip; to stick, to adhere
+- [[kobù (verb)]] - to bend, to curve
+- [[kolù (verb)]] - to limp
+- [[kŕaa (verb)]] - to wake, to awaken
 - [[kŕaga (verb)]] - to drag, to haul
 - [[kŕama (verb)]] - to march, to tramp
-- [[pỏpù (verb)]] - to hop
-- [[waxa (verb)]] - to sway, to swing
-- [[dopù (verb)]] - to fall (drop down)
-- [[kolù (verb)]] - to limp
-- [[swaa (verb)]] - to glide
-- [[kùpù (verb)]] - to tumble, to topple
-- [[ŕopa (verb)]] - to wade
-- [[vexe (verb)]] - to shiver
-- [[tapù (verb)]] - to take, to grab
-- [[kapa (verb)]] - to catch
-- [[fopù (verb)]] - to drop, to let fall
-- [[pùxa (verb)]] - to push, to shove
-- [[kixa (verb)]] - to pull, to draw
-- [[paka (verb)]] - to hit, to strike
-- [[toko (verb)]] - to knock, to rap
-- [[mùxa (verb)]] - to squeeze, to clench
-- [[pexa (verb)]] - to press, to push down
-- [[saza (verb)]] - to rub, to scrub
-- [[fùsa (verb)]] - to wipe
 - [[kŕasa (verb)]] - to scratch, to scrape
-- [[ŕoka (verb)]] - to twist, to wring
-- [[xaka (verb)]] - to hang, to suspend
-- [[xapo (verb)]] - to lift, to raise
-- [[pùto (verb)]] - to lower, to set down
-- [[ŕopù (verb)]] - to pour
-- [[vata (verb)]] - to fill
-- [[vasha (verb)]] - to empty, to drain
-- [[gùko (verb)]] - to tie, to bind, to knot
-- [[pỏka (verb)]] - to wrap, to bundle
-- [[kùfa (verb)]] - to fold
-- [[capù (verb)]] - to stab, to pierce
-- [[cùxa (verb)]] - to bury, to plant in soil
-- [[taŕa (verb)]] - to listen
-- [[cèka (verb)]] - to remember, to recall
-- [[cèva (verb)]] - to believe, to hold true
-- [[cèpù (verb)]] - to guess, to suppose
-- [[cèxo (verb)]] - to wonder, to ponder
-- [[ijpù (verb)]] - to notice, to spot
-- [[ijcè (verb)]] - to recognise
-- [[ŕimo (verb)]] - to imagine, to envision
-- [[cèxa (verb)]] - to realise, to grasp suddenly
-- [[tăpù (verb)]] - to decide, to resolve
-- [[tăxo (verb)]] - to choose, to pick
-- [[cètá (verb)]] - to judge, to evaluate
-- [[ŕimpù (verb)]] - to plan, to devise
-- [[ănăka (verb)]] - to expect, to await
-- [[ŕimxa (verb)]] - to focus, to concentrate
-- [[ijsha (verb)]] - to ignore, to overlook
-- [[bika (verb)]] - to compare
-- [[cőka (verb)]] - to solve, to work out
-- [[cèwo (verb)]] - to assume, to take as given
-- [[jåka (verb)]] - to intend, to mean to
-- [[ijoŕima (verb)]] - to examine, to study closely
-- [[ijwo (verb)]] - to perceive, to sense
-- [[ijùdao (verb)]] - to tell (say-give)
-- [[ăka (verb)]] - to call, to summon
-- [[sùsù (verb)]] - to whisper
-- [[dåka (verb)]] - to promise, to vow
-- [[táxo (verb)]] - to greet, to hail
-- [[mibo (verb)]] - to thank
-- [[xăja (verb)]] - to warn, to alert
-- [[xùja (verb)]] - to command, to order
-- [[cődao (verb)]] - to explain (understanding-give)
-- [[kxejù (verb)]] - to describe
-- [[ăjdao (verb)]] - to announce, to proclaim
-- [[nása (verb)]] - to refuse, to deny
-- [[tỏva (verb)]] - to accept, to consent
-- [[gavijù (verb)]] - to praise, to commend
-- [[tètájù (verb)]] - to blame, to scold
-- [[axajù (verb)]] - to mock, to ridicule
-- [[jåjù (verb)]] - to beg, to plead
-- [[kůxo (verb)]] - to hate, to loathe
-- [[zhåka (verb)]] - to fear, to dread
-- [[sùka (verb)]] - to like, to be fond of
-- [[itáka (verb)]] - to worry, to fret
-- [[cèkma (verb)]] - to trust, to rely on
-- [[jåxo (verb)]] - to envy, to covet
-- [[mmbja (verb)]] - to admire, to marvel at
-- [[friká (verb)]] - to forgive, to pardon
-- [[xogna (verb)]] - to meet, to encounter
-- [[tamka (verb)]] - to marry, to wed
-- [[baka (verb)]] - to befriend
-- [[nikxa (verb)]] - to betray, to turn on
-- [[xùva (verb)]] - to obey, to heed
-- [[xowa (verb)]] - to lead, to guide
-- [[xèva (verb)]] - to serve, to attend
-- [[tákpa (verb)]] - to attack, to assault
-- [[tákvi (verb)]] - to win, to triumph
-- [[tákshù (verb)]] - to lose, to be defeated
-- [[mwoka (verb)]] - to kill, to slay
-- [[aixa (verb)]] - to hurt, to wound, to harm
-- [[zhåxa (verb)]] - to scare, to frighten
-- [[sùva (verb)]] - to care for, to cherish
-- [[aiva (verb)]] - to pity, to feel for
-- [[nùnù (verb)]] - to sleep, to slumber
-- [[kŕaa (verb)]] - to wake, to awaken
-- [[fwùxa (verb)]] - to breathe
+- [[kŕepù (verb)]] - to stumble, to trip
 - [[kŕoma (verb)]] - to bite
-- [[chaja (verb)]] - to chew, to gnaw
-- [[ŋùpù (verb)]] - to swallow, to gulp
-- [[lëŕë (verb)]] - to lick
-- [[mùa (verb)]] - to kiss
-- [[exù (verb)]] - to cry, to weep
-- [[axù (verb)]] - to laugh
-- [[xăpù (verb)]] - to yawn
+- [[kŕopù (verb)]] - to kneel
+- [[kùfa (verb)]] - to fold
+- [[kùpù (verb)]] - to tumble, to topple
+- [[kůxo (verb)]] - to hate, to loathe
+- [[kxejù (verb)]] - to describe
 - [[kxoko (verb)]] - to cough
-- [[hacù (verb)]] - to sneeze
+- [[lëŕë (verb)]] - to lick
+- [[ma (verb)]] - to have
+- [[maaśù (verb)]] - to carry
+- [[maxogă (verb)]] - to bring
+- [[mëka (verb)]] - to separate, to part ways, to divorce, to split up
+- [[memm (verb)]] - to close, to shut, to seal
 - [[mëpù (verb)]] - to blink
+- [[mibo (verb)]] - to thank
+- [[mmbja (verb)]] - to admire, to marvel at
+- [[mùa (verb)]] - to kiss
+- [[mùxa (verb)]] - to squeeze, to clench
+- [[mwoka (verb)]] - to kill, to slay
+- [[năijo (verb)]] - to feel lost (in a situation), to lack conviction, to be disoriented, to not know where one stands.
+- [[năjù (verb)]] - to answer, to reply
+- [[naŕo (verb)]] - to multiply, to mix, to combine, to compound
+- [[nása (verb)]] - to refuse, to deny
+- [[ŋawa (verb)]] - to crawl
+- [[ŋùpù (verb)]] - to swallow, to gulp
+- [[nicè (verb)]] - to learn, to study
+- [[nihèka (verb)]] - to begin, to start
+- [[nikxa (verb)]] - to betray, to turn on
+- [[niŕo (verb)]] - to immerse, to submerge, to dip, to dive into
+- [[niŕù (verb)]] - to become, to turn into
+- [[nùnù (verb)]] - to sleep, to slumber
+- [[ochi (verb)]] - to sink, to drop (Jp. *ochiru*)
+- [[paka (verb)]] - to hit, to strike
+- [[păŕo (verb)]] - to emerge (to surface)
+- [[păxè (verb)]] - to spread out, to unfurl, to extend (wings/arms), to open up
+- [[pexa (verb)]] - to press, to push down
+- [[pjova (verb)]] - to glow
+- [[pỏka (verb)]] - to wrap, to bundle
+- [[pỏpù (verb)]] - to hop
+- [[pùŕima (verb)]] - to suspect, to doubt, to be unsure, to reckon (weakly), to suppose
+- [[pùto (verb)]] - to lower, to set down
+- [[pùxa (verb)]] - to push, to shove
+- [[pxỏpxỏ (verb)]] - to blow
+- [[ŕăaxaśù (verb)]] - to dance
+- [[ŕăpxa (verb)]] - to explode, to burst
+- [[ŕăxa (verb)]] - to burn, to be ablaze
+- [[ŕima (verb)]] - to meditate, to think
+- [[ŕimo (verb)]] - to imagine, to envision
+- [[ŕimpù (verb)]] - to plan, to devise
+- [[ŕimxa (verb)]] - to focus, to concentrate
+- [[ŕoka (verb)]] - to twist, to wring
+- [[ŕopa (verb)]] - to wade
+- [[ŕopù (verb)]] - to pour
+- [[ŕopxa (verb)]] - to splash, to spatter
+- [[ŕoŕă (verb)]] - to turn, to rotate
+- [[ŕovù (verb)]] - to dissolve
+- [[ŕoxo (verb)]] - to flow, to stream
 - [[săŕù (verb)]] - to sweat, to perspire
+- [[saza (verb)]] - to rub, to scrub
+- [[sholù (verb)]] - to slide, to slip
+- [[shýŕù (verb)]] - to freeze
+- [[sùka (verb)]] - to like, to be fond of
+- [[sùkixů (verb)]] - to love, to adore
+- [[sùsù (verb)]] - to whisper
+- [[sùva (verb)]] - to care for, to cherish
+- [[swaa (verb)]] - to glide
+- [[táka (verb)]] - to be at war, to wage war, to battle (large scale)
+- [[tăka (verb)]] - to unite, to join forces, to merge, to ally
+- [[tákpa (verb)]] - to attack, to assault
+- [[tákshù (verb)]] - to lose, to be defeated
+- [[tákvi (verb)]] - to win, to triumph
+- [[tamka (verb)]] - to marry, to wed
+- [[tapù (verb)]] - to take, to grab
+- [[tăpù (verb)]] - to decide, to resolve
+- [[taŕa (verb)]] - to listen
+- [[táxo (verb)]] - to greet, to hail
+- [[tăxo (verb)]] - to choose, to pick
+- [[tëŕù (verb)]] - to stretch (the body)
+- [[tètájù (verb)]] - to blame, to scold
+- [[tètáka (verb)]] - to fight
+- [[toko (verb)]] - to knock, to rap
+- [[tỏma (verb)]] - to receive, to obtain, to get
+- [[tomo' (verb)]] - stop, cease, end, quit
+- [[topù (verb)]] - to put, to place
+- [[tỏva (verb)]] - to accept, to consent
+- [[txa (verb)]] - to morph, to change state, to transmute
+- [[txo (verb)]] - to throw, to cast, to hurl
+- [[ůŕů (verb)]] - to produce, yield, emit, give off
+- [[ůshů (verb)]] - to clear, dig, sweep, work a tool through
+- [[vasha (verb)]] - to empty, to drain
+- [[vata (verb)]] - to fill
+- [[vexe (verb)]] - to shiver
 - [[vivá (verb)]] - to be born
 - [[vivká (verb)]] - to grow, to grow up
-- [[aimù (verb)]] - to die, to perish
-- [[ănù (verb)]] - to rest, to repose
-- [[fŕopù (verb)]] - to faint, to collapse
-- [[tëŕù (verb)]] - to stretch (the body)
-- [[niŕù (verb)]] - to become, to turn into
-- [[nihèka (verb)]] - to begin, to start
 - [[vùŕù (verb)]] - to melt, to liquefy
-- [[shýŕù (verb)]] - to freeze
-- [[ŕăxa (verb)]] - to burn, to be ablaze
-- [[bùbù (verb)]] - to boil, to bubble
+- [[vůwù (verb)]] - to swim
+- [[waxa (verb)]] - to sway, to swing
+- [[wëè (verb)]] - to require, to need, to necessitate
+- [[wexe (verb)]] - to wave
+- [[xăcè (verb)]] - to be sure, to know for a fact, to be certain, to verify
+- [[xăja (verb)]] - to warn, to alert
+- [[xaka (verb)]] - to hang, to suspend
+- [[xapo (verb)]] - to lift, to raise
+- [[xăpù (verb)]] - to yawn
+- [[xè (verb)]] - to toil, labour, exert oneself
+- [[xèjå (verb)]] - try, attempt
+- [[xèva (verb)]] - to serve, to attend
+- [[xo (verb)]] - to move, to go
+- [[xoba (verb)]] - to step aside, to move sideways, to dodge, to shunt
+- [[xobù (verb)]] - to bow, to stoop
+- [[xogă (verb)]] - to arrive
+- [[xogăni (verb)]] - to arrive at, to reach (a state), to attain, to come into
+- [[xogna (verb)]] - to meet, to encounter
+- [[xohù (verb)]] - to retreat, to withdraw, to back up, to reverse
+- [[xona (verb)]] - to move upward, to ascend, to climb, to mount, to step onto
+- [[xopa (verb)]] - to advance, to proceed, to move forward, to propel
+- [[xopă (verb)]] - to eject, expel, loose, launch
+- [[xopù (verb)]] - to move downward, to descend, to sink, to drop (oneself)
+- [[xova (verb)]] - to insert, to enter (actively), to put in
+- [[xowa (verb)]] - to lead, to guide
+- [[xowỏ (verb)]] - to center, to converge, to align to middle
+- [[xoxo (verb)]] - depart, leave, be away, (go)
+- [[xů (verb)]] - to do, to handle, to execute, to deal with
+- [[xùja (verb)]] - to command, to order
 - [[xùsa (verb)]] - to dry, to parch
-- [[ŕoxo (verb)]] - to flow, to stream
-- [[ŕopxa (verb)]] - to splash, to spatter
-- [[jýŋù (verb)]] - to ring, to resound
-- [[jëvù (verb)]] - to sprout, to bud
-- [[ŕovù (verb)]] - to dissolve
-- [[pjova (verb)]] - to glow
-- [[dzopù (verb)]] - to crack, to snap
-- [[ŕăpxa (verb)]] - to explode, to burst
+- [[xùva (verb)]] - to obey, to heed
+- [[xůxů (verb)]] - to forget, to lose (a memory), to slip one's mind
+- [[zhåka (verb)]] - to fear, to dread
+- [[zhåxa (verb)]] - to scare, to frighten

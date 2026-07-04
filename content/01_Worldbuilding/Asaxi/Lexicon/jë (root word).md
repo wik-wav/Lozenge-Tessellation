@@ -1,4 +1,5 @@
 ---
+freq: 68
 title: jë (root word) - early, first, foremost (in time)
 Word (Asaxi): jë
 trnsltion. En: 'early, first, foremost (in time)'

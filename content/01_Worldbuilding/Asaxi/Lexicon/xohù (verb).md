@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: xohù (verb) - to retreat, to withdraw
 Word (Asaxi): xohù
 trnsltion. En: to retreat, to withdraw, to back up, to reverse

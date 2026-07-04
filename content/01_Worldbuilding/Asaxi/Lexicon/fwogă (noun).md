@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: fwogă (noun) - valley
 Word (Asaxi): fwogă
 trnsltion. En: valley

@@ -1,4 +1,5 @@
 ---
+freq: 71
 title: topù (verb) - to put, to place
 Word (Asaxi): topù
 trnsltion. En: to put, to place

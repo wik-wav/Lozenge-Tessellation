@@ -1,4 +1,5 @@
 ---
+freq: 70
 title: nihèko (noun) - the start, the beginning
 Word (Asaxi): nihèko
 trnsltion. En: the start, the beginning

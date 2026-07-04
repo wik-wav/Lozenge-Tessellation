@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: sùsù (verb) - to whisper
 Word (Asaxi): sùsù
 trnsltion. En: to whisper

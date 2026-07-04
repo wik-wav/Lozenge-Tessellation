@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: so (noun) - smoke
 Word (Asaxi): so
 trnsltion. En: smoke

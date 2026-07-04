@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: tamo (noun) - limit, end
 Word (Asaxi): tamo
 trnsltion. En: limit

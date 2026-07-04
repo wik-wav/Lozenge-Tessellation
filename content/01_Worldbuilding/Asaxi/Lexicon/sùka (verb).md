@@ -1,4 +1,5 @@
 ---
+freq: 80
 title: sùka (verb) - to like, to be fond of
 Word (Asaxi): sùka
 trnsltion. En: to like, to be fond of

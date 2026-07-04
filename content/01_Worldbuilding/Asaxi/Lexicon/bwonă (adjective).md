@@ -1,4 +1,5 @@
 ---
+freq: 39
 title: bwonă (adjective) - curvy (fat), beautiful
 Word (Asaxi): bwonă
 trnsltion. En: curvy (fat), beautiful, voluptuous, healthy-looking

@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: gámm (noun) - gum, resin
 Word (Asaxi): gámm
 trnsltion. En: gum, resin, glue, sticky substance

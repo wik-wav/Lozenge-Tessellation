@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: pùxa (verb) - to push, to shove
 Word (Asaxi): pùxa
 trnsltion. En: to push, to shove

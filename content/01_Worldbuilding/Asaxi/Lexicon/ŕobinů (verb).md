@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: ŕobinů (verb) - to wire, to string up
 Word (Asaxi): ŕobinů
 trnsltion. En: to wire, to string up

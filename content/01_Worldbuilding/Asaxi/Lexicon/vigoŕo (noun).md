@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: vigoŕo (noun) - farm (crop-land)
 Word (Asaxi): vigoŕo
 trnsltion. En: farm (crop-land)

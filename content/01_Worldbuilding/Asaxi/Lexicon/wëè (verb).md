@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: wëè (verb) - to require, to need
 Word (Asaxi): wëè
 trnsltion. En: to require, to need, to necessitate

@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: ỏbỏŕo (noun) - bed
 Word (Asaxi): ỏbỏŕo
 trnsltion. En: bed

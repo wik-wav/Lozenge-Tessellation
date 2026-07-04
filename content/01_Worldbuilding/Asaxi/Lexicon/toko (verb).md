@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: toko (verb) - to knock, to rap
 Word (Asaxi): toko
 trnsltion. En: to knock, to rap

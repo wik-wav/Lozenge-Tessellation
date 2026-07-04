@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: pỏbinů (verb) - to sew, to stitch
 Word (Asaxi): pỏbinů
 trnsltion. En: to sew, to stitch

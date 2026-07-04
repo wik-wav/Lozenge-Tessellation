@@ -1,4 +1,5 @@
 ---
+freq: 71
 title: ůchů (verb) - to feel (emotionally)
 Word (Asaxi): ůchů
 trnsltion. En: to feel (emotionally)

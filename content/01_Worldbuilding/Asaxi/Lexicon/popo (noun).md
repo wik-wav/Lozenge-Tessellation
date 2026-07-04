@@ -1,4 +1,5 @@
 ---
+freq: 34
 title: popo (noun) - seashell, shell
 Word (Asaxi): popo
 trnsltion. En: seashell, shell

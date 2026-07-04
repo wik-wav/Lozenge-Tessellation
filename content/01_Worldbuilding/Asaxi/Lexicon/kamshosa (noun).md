@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: kamshosa (noun) - street (building-road)
 Word (Asaxi): kamshosa
 trnsltion. En: street (building-road)

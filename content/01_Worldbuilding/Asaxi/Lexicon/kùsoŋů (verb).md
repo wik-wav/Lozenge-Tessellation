@@ -1,4 +1,5 @@
 ---
+freq: 43
 title: kùsoŋů (verb) - to stink, to smell foul
 Word (Asaxi): kùsoŋů
 trnsltion. En: to stink, to smell foul

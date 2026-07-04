@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: Itaŕi (noun) - Italy
 Word (Asaxi): Itaŕi
 trnsltion. En: Italy

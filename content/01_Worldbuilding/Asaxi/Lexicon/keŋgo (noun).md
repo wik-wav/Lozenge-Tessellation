@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: keŋgo (noun) - lock (door-metal)
 Word (Asaxi): keŋgo
 trnsltion. En: lock (door-metal)

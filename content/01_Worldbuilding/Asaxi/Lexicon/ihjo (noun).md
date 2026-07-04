@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ihjo (noun) - bone, os
 Word (Asaxi): ihjo
 trnsltion. En: bone, os

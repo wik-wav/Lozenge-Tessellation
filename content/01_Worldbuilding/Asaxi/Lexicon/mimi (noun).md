@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: mimi (noun) - ear
 Word (Asaxi): mimi
 trnsltion. En: ear

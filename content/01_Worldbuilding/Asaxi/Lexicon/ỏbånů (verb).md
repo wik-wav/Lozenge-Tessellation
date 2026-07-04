@@ -1,4 +1,5 @@
 ---
+freq: 47
 title: ỏbånů (verb) - to flex, to tense the core
 Word (Asaxi): ỏbånů
 trnsltion. En: to flex, to tense the core

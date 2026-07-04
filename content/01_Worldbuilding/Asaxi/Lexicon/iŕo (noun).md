@@ -1,4 +1,5 @@
 ---
+freq: 59
 title: iŕo (noun) - colour, hue
 Word (Asaxi): iŕo
 trnsltion. En: colour, hue, color, pigment

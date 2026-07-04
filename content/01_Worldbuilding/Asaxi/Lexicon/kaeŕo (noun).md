@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: kaeŕo (noun) - orchard (fruit-place)
 Word (Asaxi): kaeŕo
 trnsltion. En: orchard (fruit-place)

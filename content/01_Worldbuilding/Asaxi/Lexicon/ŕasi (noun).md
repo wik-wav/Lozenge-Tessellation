@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: ŕasi (noun) - spark
 Word (Asaxi): ŕasi
 trnsltion. En: spark

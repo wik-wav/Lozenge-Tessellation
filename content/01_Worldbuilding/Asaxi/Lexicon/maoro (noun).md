@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: maoro (noun) - silver
 Word (Asaxi): maoro
 trnsltion. En: silver

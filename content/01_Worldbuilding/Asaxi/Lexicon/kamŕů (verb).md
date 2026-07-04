@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: kamŕů (verb) - to build, to construct
 Word (Asaxi): kamŕů
 trnsltion. En: to build, to construct

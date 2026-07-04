@@ -1,4 +1,5 @@
 ---
+freq: 37
 title: baka (verb) - to befriend
 Word (Asaxi): baka
 trnsltion. En: to befriend

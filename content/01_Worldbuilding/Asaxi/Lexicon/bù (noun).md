@@ -1,4 +1,5 @@
 ---
+freq: 40
 title: bù (noun) - shrub / bush
 Word (Asaxi): bù
 trnsltion. En: shrub / bush

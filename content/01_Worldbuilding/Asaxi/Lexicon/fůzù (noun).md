@@ -1,4 +1,5 @@
 ---
+freq: 43
 title: fůzù (noun) - incompetence
 Word (Asaxi): fůzù
 trnsltion. En: incompetence

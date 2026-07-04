@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: jåjù (verb) - to beg, to plead
 Word (Asaxi): jåjù
 trnsltion. En: to beg, to plead

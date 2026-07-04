@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: xova (verb) - to insert, to enter
 Word (Asaxi): xova
 trnsltion. En: to insert, to enter (actively), to put in

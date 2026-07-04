@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: nozhè (noun) - knife (Ru. *nozh*)
 Word (Asaxi): nozhè
 trnsltion. En: knife (Ru. *nozh*)

@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: pwo (noun) - tomorrow
 Word (Asaxi): pwo
 trnsltion. En: tomorrow

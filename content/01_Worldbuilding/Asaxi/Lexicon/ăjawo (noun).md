@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: ăjawo (noun) - a shout, a scream
 Word (Asaxi): ăjawo
 trnsltion. En: a shout, a scream, a yell, a cry

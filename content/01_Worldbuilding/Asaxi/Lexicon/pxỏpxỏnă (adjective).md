@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: pxỏpxỏnă (adjective) - fragile, delicate, squeaky, pop-able
 Word (Asaxi): pxỏpxỏnă
 trnsltion. En: fragile, delicate, pop-able, taut, squeaky, smooth, bulging (like an inflated balloon)

@@ -1,4 +1,5 @@
 ---
+freq: 23
 title: fůăvi (noun) - incorrectness, wrongness
 Word (Asaxi): fůăvi
 trnsltion. En: incorrectness, wrongness, horror, monstrosity, mess

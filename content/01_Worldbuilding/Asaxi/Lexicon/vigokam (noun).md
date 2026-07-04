@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: vigokam (noun) - mill (grain-structure)
 Word (Asaxi): vigokam
 trnsltion. En: mill (grain-structure)

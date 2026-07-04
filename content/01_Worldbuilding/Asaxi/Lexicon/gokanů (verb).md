@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: gokanů (verb) - to hammer (use a hammer)
 Word (Asaxi): gokanů
 trnsltion. En: to hammer (use a hammer)

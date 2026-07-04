@@ -1,4 +1,5 @@
 ---
+freq: 60
 title: jogă (noun) - square, plaza (society-zone)
 Word (Asaxi): jogă
 trnsltion. En: square, plaza (society-zone)

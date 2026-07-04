@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: cèwo (verb) - to assume, to take as given
 Word (Asaxi): cèwo
 trnsltion. En: to assume, to take as given

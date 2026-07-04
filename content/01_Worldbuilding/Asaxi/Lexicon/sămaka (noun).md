@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: sămaka (noun) - pot (heat-vessel)
 Word (Asaxi): sămaka
 trnsltion. En: pot (heat-vessel)

@@ -1,4 +1,5 @@
 ---
+freq: 54
 title: cùgo (noun) - clay
 Word (Asaxi): cùgo
 trnsltion. En: clay

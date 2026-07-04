@@ -1,4 +1,5 @@
 ---
+freq: 52
 title: dăjý (noun) - thunder
 Word (Asaxi): dăjý
 trnsltion. En: thunder

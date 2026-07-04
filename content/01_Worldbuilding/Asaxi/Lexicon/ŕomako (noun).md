@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: ŕomako (noun) - bucket, pail (water-vessel)
 Word (Asaxi): ŕomako
 trnsltion. En: bucket, pail (water-vessel)

@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ŕăană (adjective) - hot, fiery, burning
 Word (Asaxi): ŕăană
 trnsltion. En: hot, fiery, burning

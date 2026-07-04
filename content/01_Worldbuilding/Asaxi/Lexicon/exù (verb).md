@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: exù (verb) - to cry, to weep
 Word (Asaxi): exù
 trnsltion. En: to cry, to weep

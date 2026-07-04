@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: aśo (noun) - foot, hind paw
 Word (Asaxi): aśo
 trnsltion. En: foot

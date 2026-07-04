@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: śchinů (verb) - to measure (in cm), to be (X cm) tall/long
 Word (Asaxi): śchinů
 trnsltion. En: to measure (in cm), to be (X cm) tall/long

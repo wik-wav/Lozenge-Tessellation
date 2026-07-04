@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: tètáko (noun) - a fight, a battle, a brawl
 Word (Asaxi): tètáko
 trnsltion. En: a fight

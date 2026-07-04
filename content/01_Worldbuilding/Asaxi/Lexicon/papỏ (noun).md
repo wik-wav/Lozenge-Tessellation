@@ -1,4 +1,5 @@
 ---
+freq: 42
 title: papỏ (noun) - apron
 Word (Asaxi): papỏ
 trnsltion. En: apron

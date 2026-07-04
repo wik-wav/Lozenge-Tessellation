@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: aśŋo (noun) - ankle
 Word (Asaxi): aśŋo
 trnsltion. En: ankle

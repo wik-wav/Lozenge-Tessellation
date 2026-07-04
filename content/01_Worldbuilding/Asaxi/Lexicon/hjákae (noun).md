@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: hjákae (noun) - berry (little-fruit)
 Word (Asaxi): hjákae
 trnsltion. En: berry (little-fruit)

@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: fůcè (noun) - the unknown, ignorance
 Word (Asaxi): fůcè
 trnsltion. En: the unknown, ignorance, lack of knowledge

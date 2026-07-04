@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: păwo (noun) - the outside, the exterior
 Word (Asaxi): păwo
 trnsltion. En: the outside, the exterior, the outdoors

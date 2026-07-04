@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: mỏshá (noun) - woman (adult female)
 Word (Asaxi): mỏshá
 trnsltion. En: woman (adult female)

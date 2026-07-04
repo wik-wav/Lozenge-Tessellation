@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: kùfa (verb) - to fold
 Word (Asaxi): kùfa
 trnsltion. En: to fold

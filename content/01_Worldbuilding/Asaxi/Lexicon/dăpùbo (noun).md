@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: dăpùbo (noun) - bench (long-chair)
 Word (Asaxi): dăpùbo
 trnsltion. En: bench (long-chair)

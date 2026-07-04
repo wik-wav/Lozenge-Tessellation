@@ -1,4 +1,5 @@
 ---
+freq: 66
 title: pxă (noun) - month
 Word (Asaxi): pxă
 trnsltion. En: month

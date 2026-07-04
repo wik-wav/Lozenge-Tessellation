@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: kxepỏno (noun) - flag, banner (sign-cloth)
 Word (Asaxi): kxepỏno
 trnsltion. En: flag, banner (sign-cloth)

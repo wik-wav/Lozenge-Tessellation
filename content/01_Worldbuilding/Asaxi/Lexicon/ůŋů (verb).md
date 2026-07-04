@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: ůŋů (verb) - to smell (neutral)
 Word (Asaxi): ůŋů
 trnsltion. En: to smell

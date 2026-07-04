@@ -1,4 +1,5 @@
 ---
+freq: 65
 title: ănù (verb) - to rest, to repose
 Word (Asaxi): ănù
 trnsltion. En: to rest, to repose

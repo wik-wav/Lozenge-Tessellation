@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: dăfwogă (noun) - canyon / gorge
 Word (Asaxi): dăfwogă
 trnsltion. En: canyon / gorge

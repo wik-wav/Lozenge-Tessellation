@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: ijnawo (noun) - mirror (sight-surface)
 Word (Asaxi): ijnawo
 trnsltion. En: mirror (sight-surface)

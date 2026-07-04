@@ -1,4 +1,5 @@
 ---
+freq: 33
 title: kaeŕů (verb) - to ripen, to bear fruit
 Word (Asaxi): kaeŕů
 trnsltion. En: to ripen, to bear fruit

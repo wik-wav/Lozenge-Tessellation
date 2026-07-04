@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: txe (noun) - wing
 Word (Asaxi): txe
 trnsltion. En: wing

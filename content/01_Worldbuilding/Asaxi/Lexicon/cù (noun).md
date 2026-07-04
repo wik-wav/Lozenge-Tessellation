@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: cù (noun) - dirt, soil, earth, ground
 Word (Asaxi): cù
 trnsltion. En: dirt, soil, earth, ground

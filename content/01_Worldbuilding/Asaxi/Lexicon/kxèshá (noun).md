@@ -1,4 +1,5 @@
 ---
+freq: 53
 title: kxèshá (noun) - spider
 Word (Asaxi): kxèshá
 trnsltion. En: spider

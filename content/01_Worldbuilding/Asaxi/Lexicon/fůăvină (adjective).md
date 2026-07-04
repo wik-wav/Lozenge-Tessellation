@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: fůăvină (adjective) - incorrect, wrong
 Word (Asaxi): fůăvină
 trnsltion. En: incorrect, wrong, messed up, horribly, wrongly

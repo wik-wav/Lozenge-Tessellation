@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: ŕagonă (adjective) - charcoal-dark, rich warm-black, smouldering-dark
 Word (Asaxi): ŕagonă
 trnsltion. En: charcoal-dark, rich warm-black, smouldering-dark

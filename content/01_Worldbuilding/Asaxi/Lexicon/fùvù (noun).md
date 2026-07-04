@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: fùvù (noun) - lung
 Word (Asaxi): fùvù
 trnsltion. En: lung

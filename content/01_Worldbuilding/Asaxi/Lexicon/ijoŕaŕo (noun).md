@@ -1,4 +1,5 @@
 ---
+freq: 49
 title: ijoŕaŕo (noun) - sanctuary, meditation hall
 Word (Asaxi): ijoŕaŕo
 trnsltion. En: sanctuary, meditation hall, sanctuary, dream-place

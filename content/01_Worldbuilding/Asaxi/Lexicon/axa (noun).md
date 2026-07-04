@@ -1,4 +1,5 @@
 ---
+freq: 51
 title: axa (noun) - laughter, laugh
 Word (Asaxi): axa
 trnsltion. En: laughter, laugh, mirth

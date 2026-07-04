@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: pùxaśbi (noun) - shin, calf
 Word (Asaxi): pùxaśbi
 trnsltion. En: shin, calf, lower leg

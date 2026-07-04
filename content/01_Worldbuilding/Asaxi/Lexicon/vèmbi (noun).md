@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: vèmbi (noun) - plank, board (wood-line)
 Word (Asaxi): vèmbi
 trnsltion. En: plank, board (wood-line)

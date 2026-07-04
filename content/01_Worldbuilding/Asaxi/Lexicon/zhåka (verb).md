@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: zhåka (verb) - to fear, to dread
 Word (Asaxi): zhåka
 trnsltion. En: to fear, to dread

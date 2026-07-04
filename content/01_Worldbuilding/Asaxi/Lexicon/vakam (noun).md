@@ -1,4 +1,5 @@
 ---
+freq: 67
 title: vakam (noun) - room, chamber
 Word (Asaxi): vakam
 trnsltion. En: room, chamber

@@ -1,4 +1,5 @@
 ---
+freq: 56
 title: gapiva (noun) - pink
 Word (Asaxi): gapiva
 trnsltion. En: pink
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
   - vocab_expansion
 ---
 # gapiva ([[00_Ga-noun Compounds in Asaxi (list)]])

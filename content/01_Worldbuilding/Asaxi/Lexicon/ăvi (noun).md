@@ -1,4 +1,5 @@
 ---
+freq: 44
 title: ăvi (noun) - correctness, perfection
 Word (Asaxi): ăvi
 trnsltion. En: correctness, perfection, faultlessness, rightness, accuracy

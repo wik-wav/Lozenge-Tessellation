@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: hèno (noun) - root (of a plant)
 Word (Asaxi): hèno
 trnsltion. En: root (of a plant)

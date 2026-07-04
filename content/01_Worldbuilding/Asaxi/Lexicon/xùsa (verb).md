@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: xùsa (verb) - to dry, to parch
 Word (Asaxi): xùsa
 trnsltion. En: to dry, to parch

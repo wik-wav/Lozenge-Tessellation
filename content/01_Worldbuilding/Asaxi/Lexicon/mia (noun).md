@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: mia (noun) - honey, sweetness
 Word (Asaxi): mia
 trnsltion. En: honey, sweetness

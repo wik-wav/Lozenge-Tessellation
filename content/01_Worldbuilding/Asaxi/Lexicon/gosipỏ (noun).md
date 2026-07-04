@@ -1,4 +1,5 @@
 ---
+freq: 46
 title: gosipỏ (noun) - chalk (white-powder)
 Word (Asaxi): gosipỏ
 trnsltion. En: chalk (white-powder)

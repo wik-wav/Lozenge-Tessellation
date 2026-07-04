@@ -1,4 +1,5 @@
 ---
+freq: 38
 title: txa (verb) - to morph, to change state
 Word (Asaxi): txa
 trnsltion. En: to morph, to change state, to transmute

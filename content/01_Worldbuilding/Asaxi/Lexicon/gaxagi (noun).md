@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: gaxagi (noun) - orange
 Word (Asaxi): gaxagi
 trnsltion. En: orange
@@ -8,6 +9,7 @@ tags:
   - language
   - noun
   - ga-noun
+  - ga-idiomatic
   - vocab_expansion
 ---
 # gaxagi ([[00_Ga-noun Compounds in Asaxi (list)]])

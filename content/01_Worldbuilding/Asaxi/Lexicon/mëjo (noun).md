@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: mëjo (noun) - eye
 Word (Asaxi): mëjo
 trnsltion. En: eye

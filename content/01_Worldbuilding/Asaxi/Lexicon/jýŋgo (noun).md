@@ -1,4 +1,5 @@
 ---
+freq: 57
 title: jýŋgo (noun) - bell (sound-metal)
 Word (Asaxi): jýŋgo
 trnsltion. En: bell (sound-metal)

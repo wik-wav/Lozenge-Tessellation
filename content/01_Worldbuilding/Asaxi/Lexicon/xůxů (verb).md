@@ -1,4 +1,5 @@
 ---
+freq: 63
 title: xůxů (verb) - to forget, to lose (a memory)
 Word (Asaxi): xůxů
 trnsltion. En: to forget, to lose (a memory), to slip one's mind

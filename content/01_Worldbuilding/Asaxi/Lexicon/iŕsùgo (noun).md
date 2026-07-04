@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: iŕsùgo (noun) - gem, jewel (colour-crystal)
 Word (Asaxi): iŕsùgo
 trnsltion. En: gem, jewel (colour-crystal)

@@ -1,4 +1,5 @@
 ---
+freq: 37
 title: niŕo (verb) - to submerge
 Word (Asaxi): niŕo
 trnsltion. En: to immerse, to submerge, to dip, to dive into

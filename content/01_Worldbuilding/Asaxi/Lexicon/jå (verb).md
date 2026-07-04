@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: jå (verb) - want, desire
 Word (Asaxi): jå
 trnsltion. En: want, desire

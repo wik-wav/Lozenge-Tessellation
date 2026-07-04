@@ -1,4 +1,5 @@
 ---
+freq: 58
 title: cőtájýn (noun) - argument, dispute
 Word (Asaxi): cőtájýn
 trnsltion. En: argument, dispute, verbal altercation, clash of views

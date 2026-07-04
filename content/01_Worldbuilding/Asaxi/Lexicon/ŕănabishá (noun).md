@@ -1,4 +1,5 @@
 ---
+freq: 36
 title: ŕănabishá (noun) - gazelle
 Word (Asaxi): ŕănabishá
 trnsltion. En: gazelle

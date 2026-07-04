@@ -1,4 +1,5 @@
 ---
+freq: 50
 title: pỏno (noun) - cloth, fabric
 Word (Asaxi): pỏno
 trnsltion. En: cloth, fabric

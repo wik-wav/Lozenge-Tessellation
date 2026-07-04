@@ -1,4 +1,5 @@
 ---
+freq: 40
 title: hacù (verb) - to sneeze
 Word (Asaxi): hacù
 trnsltion. En: to sneeze

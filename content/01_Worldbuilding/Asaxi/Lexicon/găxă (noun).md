@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: găxă (noun) - infinity, eternity
 Word (Asaxi): găxă
 trnsltion. En: infinity, eternity, boundlessness, the infinite

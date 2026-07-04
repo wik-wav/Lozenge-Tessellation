@@ -1,4 +1,5 @@
 ---
+freq: 48
 title: mè (noun) - dew
 Word (Asaxi): mè
 trnsltion. En: dew

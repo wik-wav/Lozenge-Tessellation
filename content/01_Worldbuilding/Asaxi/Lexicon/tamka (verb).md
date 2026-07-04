@@ -1,4 +1,5 @@
 ---
+freq: 55
 title: tamka (verb) - to marry, to wed
 Word (Asaxi): tamka
 trnsltion. En: to marry, to wed

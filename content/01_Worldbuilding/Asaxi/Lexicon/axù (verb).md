@@ -1,4 +1,5 @@
 ---
+freq: 88
 title: axù (verb) - to laugh
 Word (Asaxi): axù
 trnsltion. En: to laugh

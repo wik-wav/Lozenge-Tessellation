@@ -1,5 +1,5 @@
 ---
-title: okonoko (Particle) - Here and there
+title: okonoko (particle) - Here and there
 Word (Asaxi): okonoko
 trnsltion. En: Here and there
 tags:
@@ -27,7 +27,7 @@ IPA: /okonoko/
 
 ### Etymology
 
-A reduplicative chain of proximal locatives: **[[o (Proximal Locative Prefix)|o]]** (Here) + **[[ko (Distal Locative Prefix)|ko]]** (Yonder) + **[[no (Medial Locative Prefix)|no]]** (There) + **ko** (Yonder).
+A reduplicative chain of proximal locatives: **[[o (proximal locative) (particle)|o]]** (Here) + **[[ko (distal locative) (particle)|ko]]** (Yonder) + **[[no (medial locative) (particle)|no]]** (There) + **ko** (Yonder).
 *Lit:* "Here-yonder-there-yonder."
 
 ### Example sentence

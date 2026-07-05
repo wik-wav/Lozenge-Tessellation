@@ -41,7 +41,7 @@ I'm looking at a beautiful thing from a library.
 - no (root form, often used in compounds)
 
 ### Etymology
-Reduplication of the root [[no (Pronoun)|no]] (it/that/proximal object marker).
+Reduplication of the root [[no (pronoun) (particle)|no]] (it/that/proximal object marker).
 *Literally: "thing-thing" or "just a thing".*
 
 ### Synonyms

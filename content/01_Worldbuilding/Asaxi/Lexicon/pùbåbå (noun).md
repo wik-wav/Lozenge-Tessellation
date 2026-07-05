@@ -37,7 +37,7 @@ _The glutes are well defined._
 Null
 
 ### Etymology
-**[[pù- (Relational Locative Prefix)|pù]]** (Below) + **[[båbå (noun)|båbå]]** (Muscle).
+**[[pù- (relational locative) (particle)|pù]]** (Below) + **[[båbå (noun)|båbå]]** (Muscle).
 *Lit:* "The muscles below."
 
 ### Synonyms

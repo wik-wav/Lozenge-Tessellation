@@ -62,7 +62,7 @@ Used to express "Was going to" or a hypothetical future from a past perspective.
 
 Used to express actions that occurred regularly in the past but have ceased ("Used to").
 
-- **Etymology:** **[[izo (Relational Particle)|izo]]** (From/Source) + `zè` (Past).
+- **Etymology:** **[[izo (particle)|izo]]** (From/Source) + `zè` (Past).
 - **Logic:** "From the past." It marks the action as originating in a past era that is now disconnected from the present.
 - **Structure:** `izo` + `zè` + `[Verb]`.
 
@@ -72,7 +72,7 @@ Used to express actions that occurred regularly in the past but have ceased ("Us
 
 Used to express actions that are immediately adjacent to the present moment ("Right here").
 
-- **Logic:** **[[o (Proximal Locative Prefix)|o]]** (Here) modifies the Tense Prefix.
+- **Logic:** **[[o (proximal locative) (particle)|o]]** (Here) modifies the Tense Prefix.
 
 **A. Immediate Past (`ozè-`)** "Just now" / "Just finished."
 - **Structure:** `o` + `zè` + `[Verb]`.
@@ -106,7 +106,7 @@ Used to express an action that started in the past and continues into the presen
 
 Used to place actions in a timeframe that feels disconnected or far removed from the present reality ("Yonder").
 
-- **Logic:** **[[ko (Distal Locative Prefix)|ko]]** (Yonder/Distal) modifies the Tense Prefix.
+- **Logic:** **[[ko (distal locative) (particle)|ko]]** (Yonder/Distal) modifies the Tense Prefix.
 
 **A. The Mythic Past (`kozè-`)** "Long ago," "In ancient times," "Once upon a time."
 
@@ -122,7 +122,7 @@ Used to place actions in a timeframe that feels disconnected or far removed from
 
 Used for memories, nostalgia, or events that exist primarily in the speaker's mind ("It felt like...", "I remember..."). It softens the factual edge of the past tense.
 
-- **Logic:** **[[ỏ- (Relational Locative Prefix)|ỏ]]** (Middle) + **[[06A_-s- (Morphological Infix)|s]]** (Auditory/Sense) or derived from `zè` → `sỏ`.
+- **Logic:** **[[ỏ- (particle)|ỏ]]** (Middle) + **[[06A_-s- (particle)|s]]** (Auditory/Sense) or derived from `zè` → `sỏ`.
 - **Structure:** `sỏ-[Verb]`
 - **Example:** **To wo sỏshěsonů.** ("I remember reading / I was reading \[in my memory\].")
 
@@ -130,7 +130,7 @@ Used for memories, nostalgia, or events that exist primarily in the speaker's mi
 
 Used to describe feelings, sensations, or internal states occurring _right now_. It frames the action as a **Subjective Experience** rather than an objective observation.
 
-- **Components:** **[[mi- (Tense Prefix)|mi-]]**    
+- **Components:** **[[mi- (particle)|mi-]]**    
 - **Phonotactics (The `-j-` Bridge):** If the verb root begins with a vowel, the bridge **-j-** is inserted to maintain the palatal quality.
     - _Rule:_ `mi` + `V` → **mijV**.
     - _Example:_ `mi` + `ůchů` → **mijůchů**.

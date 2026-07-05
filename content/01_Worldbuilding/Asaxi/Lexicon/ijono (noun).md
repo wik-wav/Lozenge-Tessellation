@@ -38,7 +38,7 @@ _My vision is good._
 x
 
 ### Etymology
-**[[ijo (verb)|ijo]]** (See) + **[[no (Medial Locative Prefix)|no]]** (There/Medial).
+**[[ijo (verb)|ijo]]** (See) + **[[no (medial locative) (particle)|no]]** (There/Medial).
 *Lit:* "See-There." (The ability to perceive distance).
 
 ### Synonyms

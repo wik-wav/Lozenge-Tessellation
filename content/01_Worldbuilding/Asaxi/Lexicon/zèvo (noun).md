@@ -40,7 +40,7 @@ What (do you call) the name? (What is the name?)
 x
 
 ### Etymology
-[[zè (Tense Prefix)|zè]] (Past) + [[vwo (noun)|vwo]] (Today/Current Identity).
+[[zè (particle)|zè]] (Past) + [[vwo (noun)|vwo]] (Today/Current Identity).
 
 **External Connection:** Sounds similar to Russian "зовут" (*zovut* - "they call") or "завуд".
 

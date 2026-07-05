@@ -37,7 +37,7 @@ _I flex my obliques._
 Null
 
 ### Etymology
-**[[ba- (Relational Locative Prefix)|ba]]** (Beside) + **[[båbå (noun)|båbå]]** (Muscle).
+**[[ba- (particle)|ba]]** (Beside) + **[[båbå (noun)|båbå]]** (Muscle).
 *Lit:* "The muscles beside (the center)."
 
 ### Synonyms

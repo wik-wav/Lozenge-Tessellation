@@ -48,7 +48,7 @@ _With rage, she goes livid-red._
 Null
 
 ### Etymology
-The **aura/simile** colour of [[chi (noun)|chi]] (blood): blood + **-nă**. A non-`ga` colour word — where the `ga-` form names the *objective* hue, the `-nă` simile names its **mood / aura** (cf. [[ga (Fusing Particle)|ga]] vs the simile rule in [[16_Adjectives_Constitution vs Simile]]).
+The **aura/simile** colour of [[chi (noun)|chi]] (blood): blood + **-nă**. A non-`ga` colour word — where the `ga-` form names the *objective* hue, the `-nă` simile names its **mood / aura** (cf. [[ga (particle)|ga]] vs the simile rule in [[16_Adjectives_Constitution vs Simile]]).
 
 ### Synonyms
 Null

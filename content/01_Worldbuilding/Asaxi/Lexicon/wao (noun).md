@@ -38,7 +38,7 @@ _People dwell in this world._
 Null
 
 ### Etymology
-**[[wa (Pronoun)|wa]]** (We) + **[[o (noun)|o]]** (Sky/Sphere).
+**[[wa (particle)|wa]]** (We) + **[[o (noun)|o]]** (Sky/Sphere).
 *Lit:* "Our-Sphere."
 
 ### Synonyms

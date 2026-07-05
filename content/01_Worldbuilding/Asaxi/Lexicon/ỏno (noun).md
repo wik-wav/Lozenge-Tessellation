@@ -37,7 +37,7 @@ _The tree has a diameter_. (That's what trees have)
 Null
 
 ### Etymology
-**[[ỏ- (Relational Locative Prefix)|ỏ]]** (Middle) + **-no**.
+**[[ỏ- (particle)|ỏ]]** (Middle) + **-no**.
 *Lit:* "The middle-dimension" (Measurement across the center).
 
 ### Synonyms

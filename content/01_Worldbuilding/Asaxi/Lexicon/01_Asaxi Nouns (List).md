@@ -1,3 +1,26 @@
+---
+title: 01_Asaxi Nouns (List)
+aliases:
+  - noun
+  - nouns
+tags:
+  - Asaxi
+  - language
+  - semantic_field
+---
+# Asaxi Nouns (List)
+
+This is a list of all [[The Asaxi Language|Asaxi]] nouns with the first meaning translation in English.
+
+Navigation:
+- [[The Asaxi Language|The Asaxi Language Index]]
+- [[index|Asaxi Wiki - Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
+
+- - -
+
+### New additions (unsorted)
+
 - [[å (noun)]] - time
 - [[ågă (noun)]] - sometime
 - [[ai (noun)]] - pain, sorrow, grief (especially felt/emotional)
@@ -151,6 +174,7 @@
 - [[fwùpỏno (noun)]] - sail
 - [[fwùŕă (noun)]] - tornado (wind-spin)
 - [[gă (noun)]] - place, someplace
+- [[gă-gă (noun)]] - somewhere
 - [[gaga (noun)]] - duck
 - [[găhjoshá (noun)]] - emaciated person, walking skeleton, bag of bones, starving creature
 - [[gámm (noun)]] - gum, resin, glue, sticky substance
@@ -178,6 +202,7 @@
 - [[gùŕoshá (noun)]] - snake, serpent
 - [[haoshá (noun)]] - dog, hound
 - [[hèno (noun)]] - root (of a plant)
+- [[hjá (child) (noun)]] - child, young one, offspring, baby, kid
 - [[hjáfwù (noun)]] - breeze (little-wind)
 - [[hjáhjá (noun)]] - baby, infant
 - [[hjákae (noun)]] - berry (little-fruit)
@@ -293,11 +318,12 @@
 - [[kjèŕoŕo (noun)]] - sap / resin
 - [[kjèswë (noun)]] - bark
 - [[kő (noun)]] - understanding
+- [[ko-gă (noun)]] - over there
 - [[kobi (noun)]] - farness, the far, remoteness
 - [[kogo (noun)]] - knee
 - [[komo (noun)]] - rice (Jp. *kome*)
-- [[kopa (Noun)]] - The distant future
-- [[kozè (Noun)]] - antiquity, ancient past, long ago
+- [[kopa (noun)]] - The distant future
+- [[kozè (noun)]] - antiquity, ancient past, long ago
 - [[kozètètá (noun)]] - regret, remorse, lamentation, nostalgia (painful)
 - [[kŕa (noun)]] - thorn
 - [[kŕoshá (noun)]] - crocodile (jaw-creature)
@@ -321,6 +347,8 @@
 - [[lýshká (noun)]] - spoon (Ru. *lozhka*)
 - [[maka (noun)]] - container, vessel
 - [[mao (noun)]] - night-time; moon (see senses)
+- [[mao (night-time) (noun)]] - night-time
+- [[mao (satellite planet) (noun)]] - moon
 - [[maogám (noun)]] - ink (black-gum)
 - [[maoro (noun)]] - silver
 - [[maoshá (noun)]] - bat (night-creature)
@@ -363,12 +391,16 @@
 - [[ŋa (noun)]] - mushroom, fungus
 - [[ŋè (noun)]] - shadow
 - [[ŋèxi (noun)]] - twilight (shadow-sun)
+- [[ŋo (noun)]] - kilogram, kilo, unit of weight, weight (measure)
 - [[ŋogo (noun)]] - anchor
 - [[ŋoŋo (noun)]] - snail
 - [[ŋono (noun)]] - weight, mass, heaviness
 - [[nicèshá (noun)]] - student, learner, pupil
 - [[nihèko (noun)]] - the start, the beginning
+- [[nikpa (noun)]] - in the distant future
+- [[nipa (noun)]] - In the future
 - [[ńo (noun)]] - thing, object (clipped)
+- [[no-gă (noun)]] - there (near listener), that place, your vicinity
 - [[nỏcè (noun)]] - note, memo, entry, record, reminder
 - [[nodo (noun)]] - neck
 - [[nodobi (noun)]] - necklace
@@ -376,8 +408,10 @@
 - [[nomáka (noun)]] - box (thing-vessel)
 - [[nonawo (noun)]] - shelf (thing-surface)
 - [[nono (noun)]] - thing, object, item, article, entity (inanimate)
+- [[ńopa (noun)]] - in the immediate future
 - [[nozhè (noun)]] - knife (Ru. *nozh*)
 - [[o (noun)]] - sky, heavens, firmament, up
+- [[o-gă (noun)]] - here, this place, hither
 - [[ỏbåbå (noun)]] - abdominal muscles
 - [[obi (noun)]] - nearness, vicinity, the near
 - [[ỏbi (noun)]] - belt
@@ -388,11 +422,11 @@
 - [[omao (noun)]] - tonight, this night
 - [[ỏno (noun)]] - diameter, width, thickness, girth
 - [[oo (noun)]] - today, this day
-- [[opa (Noun)]] - the immediate future, the brink, the verge, the next moment
+- [[opa (noun)]] - the immediate future, the brink, the verge, the next moment
 - [[owao (noun)]] - Earth (planet)
 - [[ỏwo (noun)]] - the center, noon
 - [[ozètètá (noun)]] - mistake, error
-- [[pa (Noun)]] - the future
+- [[pa (noun)]] - the future
 - [[paba (noun)]] - lip
 - [[paoshá (noun)]] - horse
 - [[papỏ (noun)]] - apron
@@ -494,6 +528,7 @@
 - [[såŕåshá (noun)]] - singer
 - [[săŕo (noun)]] - sweat
 - [[sătamni (noun)]] - unison, unanimity
+- [[śchi (noun)]] - centimeter, cm, unit of length
 - [[śchino (noun)]] - length, distance (linear), extent
 - [[sëo (noun)]] - nail, claw, talon
 - [[sëobi (noun)]] - spear (point-rod)
@@ -517,6 +552,7 @@
 - [[shosaŕo (noun)]] - river
 - [[shùko (noun)]] - cliff / precipice
 - [[shýŕo (noun)]] - ice
+- [[siga (noun)]] - numbers, digits, figures
 - [[sigo (noun)]] - number
 - [[sima (noun)]] - island
 - [[sino (noun)]] - milk
@@ -588,6 +624,7 @@
 - [[văshá (noun)]] - farmer, gardener
 - [[vawo (noun)]] - the inside
 - [[vaxi (noun)]] - the date, calendar day; on the day
+- [[vazè (noun)]] - in the past
 - [[vèbi (noun)]] - stem, stalk (plant-line)
 - [[vèdë (noun)]] - branch
 - [[vèmbi (noun)]] - plank, board (wood-line)
@@ -605,8 +642,12 @@
 - [[vipỏ (noun)]] - cotton (plant-fluff)
 - [[viŕo (noun)]] - field / meadow
 - [[vishá (noun)]] - deer (grass-creature)
+- [[vivi (family of plants) (noun)]] - grass
+- [[vivi (life) (noun)]] - life, existence (biological), grass (concrete)
 - [[vjèbŕù (noun)]] - camel (Ru. *verblyud*)
+- [[vkozè (noun)]] - in the distant past
 - [[vkozèshá (noun)]] - elder, grandparent, person of the old days
+- [[vozè (noun)]] - In the immediate past
 - [[vwo (noun)]] - today
 - [[wao (noun)]] - world, realm, domain, sphere
 - [[waojýn (noun)]] - story, tale
@@ -645,13 +686,9 @@
 - [[xoxonăno (noun)]] - cherished object
 - [[xý (noun)]] - frost / rime
 - [[ýhýshá (noun)]] - mouse, rodent, prey animal
-- [[zè (Noun)]] - the past
+- [[zè (noun)]] - the past
 - [[zèvo (noun)]] - name
 - [[zhý (noun)]] - cold, the chill
 - [[zhýtopo (noun)]] - snow
 - [[zizi (noun)]] - mosquito
 - [[zù (noun)]] - skill, proficiency, technique, knack
-
-### New additions (unsorted)
-
-- [[zzTEMPfw (noun)]] - temp test

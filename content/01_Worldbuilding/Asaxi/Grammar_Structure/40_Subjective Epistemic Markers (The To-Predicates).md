@@ -110,7 +110,7 @@ When the `to-` marker is dropped from the Epistemic predicate, ambiguity can ari
 > 2. _Epistemic Interpretation:_ "(It) feels like John (is) good." (External impression).
 
 
-**The Solution:** To explicitly mark the sentence as Epistemic, restore the Stative Particle **[[xiŕa (Particle)|xiŕa]]** to the subordinate clause. This acts as a "Clause Closer," forcing the final word to be interpreted as an external comment on the whole thought. Alternatively, the speaker can always restate with the `to-` marker to resolve the ambiguity.
+**The Solution:** To explicitly mark the sentence as Epistemic, restore the Stative Particle **[[xiŕa (particle)|xiŕa]]** to the subordinate clause. This acts as a "Clause Closer," forcing the final word to be interpreted as an external comment on the whole thought. Alternatively, the speaker can always restate with the `to-` marker to resolve the ambiguity.
 
 **Examples of Resolution: Impression (`ůchů`)**:
 - _Ambiguous:_ `John gavină ůchů.`

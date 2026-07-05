@@ -1,5 +1,5 @@
 ---
-title: pxů (Particle) - "No", "Nope", "Nay", "I refuse", "Incorrect"
+title: pxů (particle) - "No", "Nope", "Nay", "I refuse", "Incorrect"
 Word (Asaxi): pxů
 trnsltion. En: '"No", "Nope", "Nay", "I refuse", "Incorrect"'
 tags:
@@ -22,7 +22,7 @@ tags:
 
 ### Usage Note
 
-The casual/standard antonym to **[[vi (Particle)|vi]]** (OK/Good).
+The casual/standard antonym to **[[vi (particle)|vi]]** (OK/Good).
 * **Question:** `No pashěsonů kè?` (Will you read?)
 * **Answer:** `Pxů.` (No.)
 
@@ -32,12 +32,12 @@ IPA: /pʰuu̯/
 
 ### Etymology
 
-Sound symbolism of rejection (a puff of air, spitting out, or "Puh!"). Possibly related to **[[pù- (Relational Locative Prefix)|pù]]** (Below/Down).
+Sound symbolism of rejection (a puff of air, spitting out, or "Puh!"). Possibly related to **[[pù- (relational locative) (particle)|pù]]** (Below/Down).
 
 ### Synonyms
 - **ná** (Not - Grammatical).
 - **náxă** (Absolutely not - Emphatic).
 
 ### Antonyms
-- **[[vi (Particle)|vi]]** (OK / Good).
-- **[[xă (Particle)|xă]]** (Yes / Indeed).
+- **[[vi (particle)|vi]]** (OK / Good).
+- **[[xă (particle)|xă]]** (Yes / Indeed).

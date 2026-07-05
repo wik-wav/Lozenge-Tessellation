@@ -36,7 +36,7 @@ IPA: /vʷo/
 Null
 
 ### Etymology
-**[[va- (Relational Locative Prefix)|va]]** (Inside) + **[[o (noun)|o]]** (Sky). _Lit:_ "The Sky Inside." (The current sky we are in).
+**[[va- (particle)|va]]** (Inside) + **[[o (noun)|o]]** (Sky). _Lit:_ "The Sky Inside." (The current sky we are in).
 
 ### Synonyms
 Null

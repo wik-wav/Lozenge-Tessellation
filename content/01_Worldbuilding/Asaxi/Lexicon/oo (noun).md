@@ -38,7 +38,7 @@ _Today (this day) is good._
 Null
 
 ### Etymology
-**[[o (Proximal Locative Prefix)|o-]]** (Here / Proximal deixis) + **[[o (noun)|o]]** (Sky). *Lit:* "The Sky Here." Patterns with [[vwo (noun)|vwo]] ("The Sky Inside") and [[pwo (noun)|pwo]] ("The Sky in Front") — the locative-prefix-plus-*o* time series.
+**[[o (proximal locative) (particle)|o-]]** (Here / Proximal deixis) + **[[o (noun)|o]]** (Sky). *Lit:* "The Sky Here." Patterns with [[vwo (noun)|vwo]] ("The Sky Inside") and [[pwo (noun)|pwo]] ("The Sky in Front") — the locative-prefix-plus-*o* time series.
 
 ### Synonyms
 - **[[vwo (noun)|vwo]]** (Today — Abstract/Calendar).

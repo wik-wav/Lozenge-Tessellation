@@ -39,7 +39,7 @@ _Tom is a fat person._
 Null
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (Type) + **[[bwo (noun)|bwo]]** (Fat).
+**[[ga (particle)|ga]]** (Type) + **[[bwo (noun)|bwo]]** (Fat).
 
 ### Synonyms
 Null

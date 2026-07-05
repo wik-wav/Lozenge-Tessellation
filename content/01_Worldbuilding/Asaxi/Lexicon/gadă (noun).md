@@ -39,7 +39,7 @@ Null
 x
 
 ### Etymology
-[[ga (Fusing Particle)|ga]] +  [[dăshá (noun)]]
+[[ga (particle)|ga]] +  [[dăshá (noun)]]
 
 ### Synonyms
 x

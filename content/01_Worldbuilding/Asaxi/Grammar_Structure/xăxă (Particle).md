@@ -1,5 +1,5 @@
 ---
-title: xăxă (Particle) - would, yes yes
+title: xăxă (particle) - would, yes yes
 Word (Asaxi): xăxă
 trnsltion. En: would, yes yes
 tags:
@@ -34,7 +34,7 @@ IPA: /ɦaɪɦaɪ/
 
 ### Etymology
 
-Reduplication of **[[xă (Particle)|xă]]** (Indeed/Yes). _Lit:_ "Yes... yes..." (Trailing off into imagination).
+Reduplication of **[[xă (particle)|xă]]** (Indeed/Yes). _Lit:_ "Yes... yes..." (Trailing off into imagination).
 
 ### Synonyms
 
@@ -42,4 +42,4 @@ x
 
 ### Antonyms
 
-- **[[xă (Particle)|xă]]** (Fact/Realis).
+- **[[xă (particle)|xă]]** (Fact/Realis).

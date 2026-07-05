@@ -43,7 +43,7 @@ My muscles tense up. (Lit: My muscles perform tension).
 x
 
 ### Etymology
-[[ită (noun)|ită]] (Tension) + [[06A_-n- (Morphological Infix)|-n-]] (Performance) + [[06_Verbs in Asaxi|-ů]].
+[[ită (noun)|ită]] (Tension) + [[06A_-n- (particle)|-n-]] (Performance) + [[06_Verbs in Asaxi|-ů]].
 
 ### Synonyms
 - **[[tamo (noun)|tamo]]** (To block/stop - if verbalized).

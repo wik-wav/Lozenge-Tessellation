@@ -41,7 +41,7 @@ _The rock is grey._
 Null
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (colour/constitution) + [[so (noun)|so]] (smoke) → "smoke-colour". A colour built on its prototype object, like [[gapo (noun)|gapo]] (red ← apple) and [[gao (noun)|gao]] (azure ← sky).
+**[[ga (particle)|ga]]** (colour/constitution) + [[so (noun)|so]] (smoke) → "smoke-colour". A colour built on its prototype object, like [[gapo (noun)|gapo]] (red ← apple) and [[gao (noun)|gao]] (azure ← sky).
 
 ### Synonyms
 Null

@@ -8,14 +8,14 @@ tags:
 ---
 Navigation:
 - [[00_Structural Sets in Asaxi| Back to Structural Sets in Asaxi]]
-- [[ni (Relational Particle)]]
-- [[06A_-x- (Morphological Infix)]]
+- [[ni (particle)]]
+- [[06A_-x- (particle)]]
 
 - - - 
 
 # Expressing Directed Feelings
 
-To express a feeling **directed toward** another person or object (e.g., "I like you," "I am angry at him"), the language employs a specific transitive construction using the relational particle **[[ni (Relational Particle)|ni]]** (Allative case) and the verbal infix **[[06A_-x- (Morphological Infix)]]** (force/exertion).
+To express a feeling **directed toward** another person or object (e.g., "I like you," "I am angry at him"), the language employs a specific transitive construction using the relational particle **[[ni (particle)|ni]]** (Allative case) and the verbal infix **[[06A_-x- (particle)]]** (force/exertion).
 
 ## The Concept
 

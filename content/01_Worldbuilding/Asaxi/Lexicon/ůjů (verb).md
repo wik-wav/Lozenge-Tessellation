@@ -57,7 +57,7 @@ Null
 - **ůjůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[ů (verb)|ů]]** (Be/Act) + **[[06A_-j- (Morphological Infix)|-j-]]** (Visual Mode) + **[[ů (verb)|-ů]]**.
+Derived from **[[ů (verb)|ů]]** (Be/Act) + **[[06A_-j- (particle)|-j-]]** (Visual Mode) + **[[ů (verb)|-ů]]**.
 
 - _Lit:_ "To visually be." / "To be-look-be."
 - _Structure:_ `[Subject] + [Adverb/Adjective] + ůjů`.

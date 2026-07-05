@@ -25,7 +25,7 @@ Unlike `xăhè` (Force/Must) or `wë` (Need), this mood implies a social or logi
 - **Function:** **Obligative Mood**.
 - **Meaning:** "Should", "Ought to", "It is proper that".
 
-**Etymology:** **[[na- (Relational Locative Prefix)|na]]** (On/Top) + **[[iŕè (Discourse Marker)|ŕè]]** (Contention/Judgment)
+**Etymology:** **[[na- (relational locative) (particle)|na]]** (On/Top) + **[[iŕè (particle)|ŕè]]** (Contention/Judgment)
 - _Logic:_ "It is on (you)." / "The burden is placed."
 
 ### 2. Usage

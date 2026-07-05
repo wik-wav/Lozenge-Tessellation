@@ -38,10 +38,10 @@ _I walk with [my] sibling._
 Null
 
 ### Etymology
-**ba-** (beside, [[ba- (Relational Locative Prefix)]]) + **[[hjá (noun) - as in child|hjá]]** (child) — „the child beside you”.
+**ba-** (beside, [[ba- (particle)]]) + **[[hjá (child) (noun)|hjá]]** (child) — „the child beside you”.
 
 ### Synonyms
-- [[hjá (noun) - as in child|hjá]] (related: child)
+- [[hjá (child) (noun)|hjá]] (related: child)
 
 ### Antonyms
 - **fůbahjá** (siblinglessness; an only child's state) *(potential)*

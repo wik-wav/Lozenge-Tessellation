@@ -56,4 +56,4 @@ Null
 - **ůpůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[ů (verb)|ů]]** + **[[06A_-p- (Morphological Infix)|-p-]]** (Tactile Mode) + **-ů**.
+Derived from **[[ů (verb)|ů]]** + **[[06A_-p- (particle)|-p-]]** (Tactile Mode) + **-ů**.

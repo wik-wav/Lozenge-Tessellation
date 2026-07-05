@@ -38,7 +38,7 @@ _The heights are blue._
 Null
 
 ### Etymology
-**[[xa- (Relational Locative Prefix)|xa]]** (Above) + **-w-** + **[[o (Proximal Locative Prefix)|o]]** (Here).
+**[[xa- (relational locative) (particle)|xa]]** (Above) + **-w-** + **[[o (proximal locative) (particle)|o]]** (Here).
 *Lit:* "The Above-Here."
 
 ### Synonyms

@@ -32,7 +32,7 @@ These prefixes attach directly to the Adjective or Adverb (`-nă` / `-nýj`).
 - **Very (`xă-`):** "Truly X." / "Indeed X."
     - _Example:_ **xădănă** (Very big / Truly huge).
 - **About / Approximately (`me-`):** "Roughly X."
-    - _Etymology:_ Derived from the discourse marker **[[e (Discourse Marker)|me]]** (Skepticism).
+    - _Etymology:_ Derived from the discourse marker **[[e (particle)|me]]** (Skepticism).
     - _Example:_ **medănă** (About as big / Roughly big).
 
 ### B. Comparative Degree (Internal)
@@ -78,8 +78,8 @@ To compare two nouns ("John vs. Tom"), Asaxi uses a **Correlative Structure**.
 ### A. Equality ("As X as...")
 
 Equality can be expressed using either **Line/Level (`bi`)** or **Middle/Center (`ỏ`)**.
-- **Marker:** **[[bi (noun)|bi]]** OR **[[ỏ- (Relational Locative Prefix)|ỏ]]**.
-- **Complement:** **[[zá (Relational Particle)|zá]]** (With).
+- **Marker:** **[[bi (noun)|bi]]** OR **[[ỏ- (particle)|ỏ]]**.
+- **Complement:** **[[zá (particle)|zá]]** (With).
 
 > **Bi John zá Tom apa dănă chỏnů.** _"John and Tom munch on apples as much as one another."_ (Lit: Level John with Tom...).
 
@@ -87,16 +87,16 @@ Equality can be expressed using either **Line/Level (`bi`)** or **Middle/Center 
 
 ### B. Superiority ("More X than...")
 
-- **Marker:** **[[nani (Comparative Particle)|nani]]** (Upward).
-- **Complement:** **[[izo (Relational Particle)|izo]]** (From).
+- **Marker:** **[[nani (particle)|nani]]** (Upward).
+- **Complement:** **[[izo (particle)|izo]]** (From).
 - **Logic:** "Towards the top A, from (the standard of) B."
 
 > **Nani John izo Tom apa dănă chỏnů.** _"John eats apples more heavily than Tom."_
 
 ### C. Inferiority ("Less X than...")
 
-- **Marker:** **[[pùni (Comparative Particle)|pùni]]** (Downward).
-- **Complement:** **[[izo (Relational Particle)|izo]]** (From).
+- **Marker:** **[[pùni (particle)|pùni]]** (Downward).
+- **Complement:** **[[izo (particle)|izo]]** (From).
 - **Logic:** "Towards the bottom A, from (the standard of) B."
 
 > **Pùni John izo Tom apa dănă chỏnů.** _"John eats apples less heavily than Tom."_

@@ -39,7 +39,7 @@ _A root sits in the soil._
 x
 
 ### Etymology
-From **hè** (the grunt of effort made when uprooting something — an effort-sound homophonous with the imperative particle [[hè (Particle)|hè]]) + **-no** (thing): the effort-thing.
+From **hè** (the grunt of effort made when uprooting something — an effort-sound homophonous with the imperative particle [[hè (particle)|hè]]) + **-no** (thing): the effort-thing.
 
 ### Synonyms
 x

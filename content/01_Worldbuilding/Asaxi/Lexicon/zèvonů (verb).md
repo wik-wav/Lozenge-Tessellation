@@ -43,7 +43,7 @@ I named the kitten "Luna."
 x
 
 ### Etymology
-[[zèvo (noun)|zèvo]] (Name) + [[06A_-n- (Morphological Infix)|-n-]] (Performance/Use) + [[06_Verbs in Asaxi|-ů]].
+[[zèvo (noun)|zèvo]] (Name) + [[06A_-n- (particle)|-n-]] (Performance/Use) + [[06_Verbs in Asaxi|-ů]].
 
 Logic: "To use a name" or "To perform naming."
 

@@ -96,7 +96,7 @@ To express "First," "Second," etc., Asaxi uses the prefix **bi-** (Line/Queue).
 
 To express parts of a whole ("Half," "Quarter"), Asaxi uses the prefix **pù-** (Below/Base).
 
-- **Etymology:** Derived from **[[pù- (Relational Locative Prefix)|pù-]]** (Below).
+- **Etymology:** Derived from **[[pù- (relational locative) (particle)|pù-]]** (Below).
 - **Logic:** The number is the "base" or denominator (the number below).
 
 | Fraction            | Asaxi     | Literal     |

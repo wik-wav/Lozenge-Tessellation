@@ -37,7 +37,7 @@ Freedom is a concept.
 x
 
 ### Etymology
-**[[fů (root word)]]** (Lack/Negative) + **[[jo (Pronoun)|jo]]** (It).
+**[[fů (root word)]]** (Lack/Negative) + **[[jo (particle)|jo]]** (It).
 Logic: "The lack-of-it."
 
 ### Synonyms

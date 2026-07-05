@@ -47,7 +47,7 @@ Null
 - **nonă** (Incorrect/Hypercorrection: **no** is a Cold noun, so it takes the **-nýj** suffix).
 
 ### Etymology
-Derived from the root noun **[[no (Pronoun)|no]]** (thing) + the cold adjectival suffix **-nýj**.
+Derived from the root noun **[[no (pronoun) (particle)|no]]** (thing) + the cold adjectival suffix **-nýj**.
 
 ### Synonyms
 - [[kamm (noun)|kamm (noun)]]  - building (structural - in some contexts)

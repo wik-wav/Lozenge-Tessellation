@@ -34,11 +34,11 @@ Warmth determines:
 	  suffix -nýj
 - The form of the [[02_Definiteness in Asaxi|definite article]] determiner:
 	- For warm:
-	  [[onă (Determiner)]]
+	  [[onă (particle)]]
 	- For cold:
-	  [[onýj (Determiner)]]
+	  [[onýj (particle)]]
 
-The warm/cold contrast also surfaces on the demonstrative determiner ([[ponă (Determiner)|ponă]] / [[ponýj (Determiner)|ponýj]]), the degree prefix (**nă-** / **nýj-**), and adverbial manner ([[31_Adverbial Nuance (Warm vs. Cold)]]). **These class-agreement exponents are the only vowel-alternating morphology in Asaxi; every other affix has a fixed vowel and does not change with the root** — creature **-shá**, place **-ŕo**, thing **-no**, the verbaliser **-ů**, the plural **-a**, **ga-**, **fů-**, and the tense/locative prefixes.
+The warm/cold contrast also surfaces on the demonstrative determiner ([[ponă (particle)|ponă]] / [[ponýj (particle)|ponýj]]), the degree prefix (**nă-** / **nýj-**), and adverbial manner ([[31_Adverbial Nuance (Warm vs. Cold)]]). **These class-agreement exponents are the only vowel-alternating morphology in Asaxi; every other affix has a fixed vowel and does not change with the root** — creature **-shá**, place **-ŕo**, thing **-no**, the verbaliser **-ů**, the plural **-a**, **ga-**, **fů-**, and the tense/locative prefixes.
 
 ## Assigning Class to New & Complex Nouns
 

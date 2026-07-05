@@ -39,7 +39,7 @@ Human children are children of humans.
 x
 
 ### Etymology
-**[[jomåshá (noun)|jomå]]** (Human/Homo Sapiens) + **[[hjá (noun) - as in child|hjá]]** (Child).
+**[[jomåshá (noun)|jomå]]** (Human/Homo Sapiens) + **[[hjá (child) (noun)|hjá]]** (Child).
 
 ### Synonyms
 x

@@ -56,5 +56,5 @@ Null
 Null
 
 ### Grammatical Note
-Derived from **[[ŕèzishá (noun)|ŕèzi]]** (Lizard) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+Derived from **[[ŕèzishá (noun)|ŕèzi]]** (Lizard) + **[[06A_-n- (particle)|-n-]]** (Performance) + **-ů**.
 * *Logic:* "To perform the lizard."

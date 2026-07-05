@@ -58,7 +58,7 @@ Null
 - **embishůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[embi (noun)|embi]]** (Plane/Surface) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative Mode) + **-ů**.
+Derived from **[[embi (noun)|embi]]** (Plane/Surface) + **[[06A_-sh- (particle)|-sh-]]** (Privative Mode) + **-ů**.
 * *Lit:* "To plane-strip" / "To remove the surface."
 
 ### Usage Note (Visual Metaphor)

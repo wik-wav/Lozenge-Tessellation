@@ -1,5 +1,5 @@
 ---
-title: xăkă (Particle) - you are requested to
+title: xăkă (particle) - you are requested to
 Word (Asaxi): xăkă
 trnsltion. En: you are requested to
 tags:
@@ -34,7 +34,7 @@ IPA: /ɦaɪkaɪ/
 
 ### Etymology
 
-A fusion of **[[xă (Particle)|xă]]** (Indeed/Emphasis) + **[[kă (Particle)|kă]]** (Please). _Lit:_ "Emphatic Request."
+A fusion of **[[xă (particle)|xă]]** (Indeed/Emphasis) + **[[kă (particle)|kă]]** (Please). _Lit:_ "Emphatic Request."
 
 ### Synonyms
 
@@ -42,10 +42,10 @@ x
 
 ### Antonyms
 
-- **[[xăhè (Particle)|xăhè]]** (Coercive Force / Strict Prohibition).
-- [[náxăkă (Particle)|náxăkă]] (Please don't)
+- **[[xăhè (particle)|xăhè]]** (Coercive Force / Strict Prohibition).
+- [[náxăkă (particle)|náxăkă]] (Please don't)
 
 ### Derived terms
 
-- [[kă (Particle)|kă]] - solicitative base
-- [[náxăkă (Particle)|náxăkă]] - polite prohibition (its negation)
+- [[kă (particle)|kă]] - solicitative base
+- [[náxăkă (particle)|náxăkă]] - polite prohibition (its negation)

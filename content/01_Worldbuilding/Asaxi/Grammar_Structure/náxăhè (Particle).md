@@ -1,5 +1,5 @@
 ---
-title: náxăhè (Particle) - "Must not", "It is forbidden to", "NO [Verbing]"
+title: náxăhè (particle) - "Must not", "It is forbidden to", "NO [Verbing]"
 Word (Asaxi): náxăhè
 trnsltion. En: Must not
 tags:
@@ -42,7 +42,7 @@ IPA: /nɑɦaɪxə/
 
 ### Etymology
 
-A fusion of **[[ná (Particle)|ná]]** (Not) + **[[xă (Particle)|xă]]** (Indeed/Force) + **[[hè (Particle)|hè]]** (Command). _Lit:_ "Emphatically-Not-Command."
+A fusion of **[[ná (particle)|ná]]** (Not) + **[[xă (particle)|xă]]** (Indeed/Force) + **[[hè (particle)|hè]]** (Command). _Lit:_ "Emphatically-Not-Command."
 
 ### Synonyms
 
@@ -50,8 +50,8 @@ x
 
 ### Antonyms
 
-- **[[hè (Particle)|hè]]** (Do it! - Command).
-- **[[xăhè (Particle)|xăhè-]]** (Force to do - Imperative Prefix).
+- **[[hè (particle)|hè]]** (Do it! - Command).
+- **[[xăhè (particle)|xăhè-]]** (Force to do - Imperative Prefix).
 
 ### Derived terms
 

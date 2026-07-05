@@ -38,7 +38,7 @@ _When (it) rains, a hood is on the head._
 Null
 
 ### Etymology
-Head [[těněn (noun)|těněn]] (→ *těm*) + [[xa- (Relational Locative Prefix)|xa-]] (over) + *-pỏ* (cloth). *Lit:* "head-over-cloth."
+Head [[těněn (noun)|těněn]] (→ *těm*) + [[xa- (relational locative) (particle)|xa-]] (over) + *-pỏ* (cloth). *Lit:* "head-over-cloth."
 
 ### Synonyms
 Null

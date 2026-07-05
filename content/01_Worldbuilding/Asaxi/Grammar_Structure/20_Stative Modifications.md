@@ -13,7 +13,7 @@ Navigation:
 
 # Grammatical Concept: The Validity Slot
 
-The standard Stative Particle **[[xiŕa (Particle)|xiŕa]]** ("Is" / "Exists") is composed of two parts:
+The standard Stative Particle **[[xiŕa (particle)|xiŕa]]** ("Is" / "Exists") is composed of two parts:
 
 1. **xi-**: The definition of the state (Existence).
 2. **-ŕa**: The Validity Marker (Fact/Static Truth).
@@ -25,7 +25,7 @@ By swapping `xi-` for a **Relational Particle**, you create specific Stative Ver
 ### 1. The Allative State (`niŕa`)
 
 - **Meaning:** To become, to be destined for, to lead to.
-- **Etymology:** **[[ni (Relational Particle)|ni]]** (Towards) + `ŕa`.
+- **Etymology:** **[[ni (particle)|ni]]** (Towards) + `ŕa`.
 - **Logic:** "Exists towards." The subject is structurally oriented toward a specific identity or outcome.
 
 **Usage A: Becoming (Ontological)** Used when a subject is transforming into or assuming a new identity.
@@ -41,7 +41,7 @@ By swapping `xi-` for a **Relational Particle**, you create specific Stative Ver
 ### 2. The Ablative State (`izoŕa`)
 
 - **Meaning:** To originate from, to derive from, to be made of (source material).
-- **Etymology:** **[[izo (Relational Particle)|izo]]** (From) + `ŕa`.
+- **Etymology:** **[[izo (particle)|izo]]** (From) + `ŕa`.
 - **Logic:** "Exists from." The subject's essence is pulled from a specific source.
 
 **Usage:**
@@ -53,7 +53,7 @@ By swapping `xi-` for a **Relational Particle**, you create specific Stative Ver
 ### 3. The Comitative State (`záŕa`)
 
 - **Meaning:** To accompany, to belong with, to be inseparable from.
-- **Etymology:** **[[zá (Relational Particle)|zá]]** (With) + `ŕa`.
+- **Etymology:** **[[zá (particle)|zá]]** (With) + `ŕa`.
 - **Logic:** "Exists with." The subject exists only in relation to a partner. Unlike the verb `aśù` with `zá` (walking with someone), `záŕa` implies a permanent or static bond.
 
 **Usage:**
@@ -65,7 +65,7 @@ By swapping `xi-` for a **Relational Particle**, you create specific Stative Ver
 ### 4. The Terminative State (`måmåŕa`)
 
 - **Meaning:** To last until, to expire at, to end at.
-- **Etymology:** **[[måmå (Relational Particle)|måmå]]** (Until) + `ŕa`.
+- **Etymology:** **[[måmå (particle)|måmå]]** (Until) + `ŕa`.
 - **Logic:** "Exists until." Defines the temporal or spatial limit of the subject's existence.
 
 **Usage:**

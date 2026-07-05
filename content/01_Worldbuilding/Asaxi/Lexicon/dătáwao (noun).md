@@ -38,7 +38,7 @@ _"Nature's many conflicts... that is life."_
 Null
 
 ### Etymology
-**[[dă (noun)|dă]]** (Big/Immense) + **[[tá (Root Word)|tá]]** (Clash/Force) + **[[wao (noun)|wao]]** (World).
+**[[dă (noun)|dă]]** (Big/Immense) + **[[tá (root word)|tá]]** (Clash/Force) + **[[wao (noun)|wao]]** (World).
 *Lit:* "The Great-Clash-World."
 
 ### Synonyms

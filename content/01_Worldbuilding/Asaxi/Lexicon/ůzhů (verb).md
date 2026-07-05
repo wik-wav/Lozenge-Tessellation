@@ -56,4 +56,4 @@ Null
 - **ůzhůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[ů (verb)|ů]]** + **[[06A_-zh- (Morphological Infix)|-zh-]]** (Gustatory Mode) + **-ů**.
+Derived from **[[ů (verb)|ů]]** + **[[06A_-zh- (particle)|-zh-]]** (Gustatory Mode) + **-ů**.

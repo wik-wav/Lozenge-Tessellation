@@ -47,7 +47,7 @@ _I move back._
 Null
 
 ### Etymology
-**xo** (Move) + **[[hù- (Relational Locative Prefix)|hù]]** (Behind).
+**xo** (Move) + **[[hù- (relational locative) (particle)|hù]]** (Behind).
 
 ### Synonyms
 Null

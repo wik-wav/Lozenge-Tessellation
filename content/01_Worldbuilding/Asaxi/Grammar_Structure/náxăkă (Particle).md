@@ -1,5 +1,5 @@
 ---
-title: náxăkă (Particle) - "Please don't", "Please do not", "Kindly refrain from"
+title: náxăkă (particle) - "Please don't", "Please do not", "Kindly refrain from"
 Word (Asaxi): náxăkă
 trnsltion. En: please don't
 tags:
@@ -38,7 +38,7 @@ IPA: /nɑɦaɪkaɪ/
 
 ### Etymology
 
-A fusion of **[[ná (Particle)|ná]]** (Not) + **[[xă (Particle)|xă]]** (Indeed/Emphasis) + **[[kă (Particle)|kă]]** (Please). _Lit:_ "Emphatically-Not-Please."
+A fusion of **[[ná (particle)|ná]]** (Not) + **[[xă (particle)|xă]]** (Indeed/Emphasis) + **[[kă (particle)|kă]]** (Please). _Lit:_ "Emphatically-Not-Please."
 
 ### Synonyms
 
@@ -46,8 +46,8 @@ x
 
 ### Antonyms
 
-- **[[kă (Particle)|kă]]** (Please do).
-- **[[náxăhè (Particle)|náxăhè]]** (Strict Prohibition / Must not).
+- **[[kă (particle)|kă]]** (Please do).
+- **[[náxăhè (particle)|náxăhè]]** (Strict Prohibition / Must not).
 
 ### Derived terms
 

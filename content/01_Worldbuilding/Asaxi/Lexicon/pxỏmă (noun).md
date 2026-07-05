@@ -37,7 +37,7 @@ Null
 Null
 
 ### Etymology
-A compound derived from the noun **[[pxỏpxỏ (verb)|pxỏpxỏ (verb)]]** (breathing; reduced to **[[pxỏ (noun)|pxỏ]]** in compounding) + the quantifier **[[mă (Particle)|mă (Particle)]]** (every, all).
+A compound derived from the noun **[[pxỏpxỏ (verb)|pxỏpxỏ (verb)]]** (breathing; reduced to **[[pxỏ (noun)|pxỏ]]** in compounding) + the quantifier **[[mă (particle)|mă (Particle)]]** (every, all).
 
 ### Synonyms
 Null

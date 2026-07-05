@@ -56,7 +56,7 @@ Null
 - **hjonůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[hjo (noun)|hjo]]** (Star) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+Derived from **[[hjo (noun)|hjo]]** (Star) + **[[06A_-n- (particle)|-n-]]** (Performance) + **-ů**.
 
 ### Usage Note
 Implies "Wishful thinking" or looking upwards for an answer.

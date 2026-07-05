@@ -42,7 +42,7 @@ _The building weighs 2555 tonnes._
 Null
 
 ### Etymology
-**[[xa- (Number Prefix)|xa-]]** (Thousand) + **[[ŋo (Unit Noun)|ŋo]]** (Kilo) + **-n-** + **-ů**.
+**[[xa- (number) (particle)|xa-]]** (Thousand) + **[[ŋo (noun)|ŋo]]** (Kilo) + **-n-** + **-ů**.
 
 ### Synonyms
 Null

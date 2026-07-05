@@ -1,5 +1,5 @@
 ---
-title: nỏwë (Particle) - Don't need to
+title: nỏwë (particle) - Don't need to
 Word (Asaxi): nỏwë
 trnsltion. En: Don't need to
 tags:

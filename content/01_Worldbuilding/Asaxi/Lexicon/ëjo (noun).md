@@ -38,7 +38,7 @@ _Fractals are lengthless (lack-length)._
 x
 
 ### Etymology
-Unknown/Root. Possibly related to **[[jo (Pronoun)|jo]]** (Thing) or **[[ijo (verb)|ijo]]** (See).
+Unknown/Root. Possibly related to **[[jo (particle)|jo]]** (Thing) or **[[ijo (verb)|ijo]]** (See).
 
 ### Synonyms
 Null

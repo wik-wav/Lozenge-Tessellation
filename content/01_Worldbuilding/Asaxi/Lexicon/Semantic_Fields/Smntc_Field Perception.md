@@ -1,17 +1,20 @@
 ---
 title: Smntc_Field Perception
+aliases:
+  - Perception
 tags:
-  - semantic_field
-  - language
   - Asaxi
+  - language
+  - semantic_field
 ---
 # Perception Semantic Field
 
-This is a page with a list of all Asaxi words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **Perception**.
+This is a page with a list of all [[The Asaxi Language|Asaxi]] words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **Perception**.
 
 Navigation:
 - [[The Asaxi Language|The Asaxi Language Index]]
-- [[index|Index - Homepage]]
+- [[index|Asaxi Wiki - Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
 
 - - -
 
@@ -32,11 +35,11 @@ Navigation:
 - [[pùŕima (verb)]] - to suspect, to doubt, to be unsure, to reckon (weakly), to suppose
 - [[cè (verb)]] - to know
 - [[kő (noun)]] - zrozumienie
-- [[toůchů (Stative Verb)]] - "it feels like"
-- [[toxăhè (Stative Verb)]] - "I am certain of"
-- [[tohùfwo (Stative Verb)]] - "I doubt that"
+- [[toůchů (verb)]] - "it feels like"
+- [[toxăhè (verb)]] - "I am certain of"
+- [[tohùfwo (verb)]] - "I doubt that"
 - [[ůjů (verb)]] - to look, to appear (visually)
-- [[tonåjů (Stative Verb)]] - "I foresee that"
+- [[tonåjů (verb)]] - "I foresee that"
 - [[ůsů (verb)]] - to sound (like)
 - [[ůzhů (verb)]] - to sound (like)
 - [[ůŋů (verb)]] - to smell (like)

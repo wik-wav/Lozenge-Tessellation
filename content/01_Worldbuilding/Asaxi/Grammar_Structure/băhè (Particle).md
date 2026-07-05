@@ -1,5 +1,5 @@
 ---
-title: băhè (Particle) - To allow, to enable, to permit, to make possible.
+title: băhè (particle) - To allow, to enable, to permit, to make possible.
 Word (Asaxi): băhè
 trnsltion. En: To allow, to enable, to permit, to make possible.
 tags:
@@ -34,7 +34,7 @@ IPA: /baɪxə/
 
 ### Etymology
 
-A fusion of **[[bă (Relational Particle)|bă]]** (Means/Instrument/Cause) and **[[hè (Particle)|hè]]** (Command).
+A fusion of **[[bă (particle)|bă]]** (Means/Instrument/Cause) and **[[hè (particle)|hè]]** (Command).
 
 ### Example sentences
 
@@ -45,7 +45,7 @@ A fusion of **[[bă (Relational Particle)|bă]]** (Means/Instrument/Cause) and *
 ### Antonyms
 
 - **nábăhè-** (To not allow / To withhold permission).
-- **[[xăhè (Particle)|xăhè-]]** (To Force / To Compel).
+- **[[xăhè (particle)|xăhè-]]** (To Force / To Compel).
 - **náxăbăhè-** (To Prohibit / To Ban).
 
 ### Derived terms

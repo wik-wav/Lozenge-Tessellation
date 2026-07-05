@@ -46,7 +46,7 @@ The angel spread (its) wings.
 x
 
 ### Etymology
-**[[pă- (Relational Locative Prefix)|pă]]** (Outside) + **[[xè (noun)|xè]]** (Effort/Exertion).
+**[[pă- (particle)|pă]]** (Outside) + **[[xè (noun)|xè]]** (Effort/Exertion).
 Logic: "Outside-Effort" (Exerting energy to move limbs outward).
 
 ### Synonyms

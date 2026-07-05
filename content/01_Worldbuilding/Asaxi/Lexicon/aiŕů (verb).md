@@ -44,7 +44,7 @@ Null
 
 ### Etymology
 
-**[[ai (noun)|ai]]** + **[[06A_-ŕ- (Morphological Infix)|ŕ]]** + **-ů** (Universal Verbalizer).
+**[[ai (noun)|ai]]** + **[[06A_-ŕ- (particle)|ŕ]]** + **-ů** (Universal Verbalizer).
 
 ### Synonyms
 - [[kozètètánů (verb)|kozètètánů]] (to regret)

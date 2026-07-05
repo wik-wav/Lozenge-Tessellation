@@ -56,7 +56,7 @@ Null
 Null
 
 ### Grammatical Note
-Derived from **[[ỏbỏ (noun)|ỏbỏ]]** (Cushion) + **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** (Generative Mode) + **-ů**.
+Derived from **[[ỏbỏ (noun)|ỏbỏ]]** (Cushion) + **[[06A_-ŕ- (particle)|-ŕ-]]** (Generative Mode) + **-ů**.
 * *Logic:* "To generate cushion-ness." (Becoming soft).
 
 ### Usage Note

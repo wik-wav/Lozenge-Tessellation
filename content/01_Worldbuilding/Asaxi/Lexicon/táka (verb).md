@@ -46,7 +46,7 @@ _Cities wage war against other cities._
 Null
 
 ### Etymology
-**[[tá (Root Word)|tá]]** (Clash/Opposition) + **-ka** (Exchange).
+**[[tá (root word)|tá]]** (Clash/Opposition) + **-ka** (Exchange).
 *Lit:* "Clash-Exchange."
 
 ### Synonyms

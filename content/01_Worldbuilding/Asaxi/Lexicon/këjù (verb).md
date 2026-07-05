@@ -46,7 +46,7 @@ _Ask me!_
 Null
 
 ### Etymology
-**[[kè (Particle)|kè]]** (question particle) + **[[ijù (verb)|ijù]]** (say), with è+i coalescence → ë (cf. *zëjù*) — „question-say”.
+**[[kè (particle)|kè]]** (question particle) + **[[ijù (verb)|ijù]]** (say), with è+i coalescence → ë (cf. *zëjù*) — „question-say”.
 
 ### Synonyms
 - [[ijù (verb)|ijù]] (to say (base))

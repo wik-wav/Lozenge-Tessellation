@@ -1,5 +1,5 @@
 ---
-title: ămăni (Particle) - at your leisure
+title: ămăni (particle) - at your leisure
 Word (Asaxi): ămăni
 trnsltion. En: at your leisure
 tags:
@@ -35,7 +35,7 @@ _Please read whenever you feel like it._])]
 
 ### Etymology
 
-**[[ămă (noun)|ămă]]** (Right Time) + **[[ni (Relational Particle)|ni]]** (Towards).
+**[[ămă (noun)|ămă]]** (Right Time) + **[[ni (particle)|ni]]** (Towards).
 *Lit:* "Towards the right time." (Move towards the moment that feels right to you).
 
 ### Synonyms

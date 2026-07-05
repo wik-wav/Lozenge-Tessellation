@@ -57,7 +57,7 @@ Null
 Null
 
 ### Grammatical Note
-Derived from **[[tambi (Mathematical Operator)|tambi]]** (Equals) + **[[06A_-w- (Morphological Infix)|-w-]]** (Semblance) + **-ů**.
+Derived from **[[tambi (particle)|tambi]]** (Equals) + **[[06A_-w- (particle)|-w-]]** (Semblance) + **-ů**.
 
 ### Usage Note
 * *Logic:* "To act as an equal" or "To behave identically to."

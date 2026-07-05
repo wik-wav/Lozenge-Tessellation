@@ -36,7 +36,7 @@ IPA: /xʷo/
 Null
 
 ### Etymology
-**[[hù- (Relational Locative Prefix)|hù]]** (Behind) + **[[o (noun)|o]]** (Sky). _Lit:_ "The Sky Behind." (The sky that has passed).
+**[[hù- (relational locative) (particle)|hù]]** (Behind) + **[[o (noun)|o]]** (Sky). _Lit:_ "The Sky Behind." (The sky that has passed).
 
 ### Synonyms
 Null

@@ -38,7 +38,7 @@ _The world is colourful._
 Null
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (Type) + **[[iŕo (noun)|iŕo]]** (Colour).
+**[[ga (particle)|ga]]** (Type) + **[[iŕo (noun)|iŕo]]** (Colour).
 *Phonology:* `ga` + `i` $\rightarrow$ **[[gă (noun)|gă]]** (/gaɪ/).
 
 ### Synonyms

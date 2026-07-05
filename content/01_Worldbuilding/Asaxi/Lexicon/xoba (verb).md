@@ -46,7 +46,7 @@ _I step aside (dodge)._
 Null
 
 ### Etymology
-**xo** (Move) + **[[ba- (Relational Locative Prefix)|ba]]** (Beside).
+**xo** (Move) + **[[ba- (particle)|ba]]** (Beside).
 
 ### Synonyms
 Null

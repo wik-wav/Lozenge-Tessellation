@@ -40,7 +40,7 @@ My abs are clearly visible. (lit. "As-for (my) abs, (one) well see can.")
 Null
 
 ### Etymology
-**[[ỏ- (Relational Locative Prefix)|ỏ]]** (Middle) + **[[båbå (noun)|båbå]]** (Muscle).
+**[[ỏ- (particle)|ỏ]]** (Middle) + **[[båbå (noun)|båbå]]** (Muscle).
 *Lit:* "Middle-muscle."
 
 ### Synonyms

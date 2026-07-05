@@ -49,7 +49,7 @@ _I am doing (handling) it._
 Null
 
 ### Etymology
-**[[xă (Particle)|xă]]** (Force/Energy) + **[[ů (verb)|ů]]** (Act).
+**[[xă (particle)|xă]]** (Force/Energy) + **[[ů (verb)|ů]]** (Act).
 *Lit:* "Force-Act."
 
 ### Synonyms
@@ -59,7 +59,7 @@ Null
 Null
 
 ### Derived terms
-- **[[06A_-x- (Morphological Infix)|-x-]]** (Interaction Mode Infix: `apoxů` "To apple-do").
+- **[[06A_-x- (particle)|-x-]]** (Interaction Mode Infix: `apoxů` "To apple-do").
 - [[baxů (verb)|baxů]] - to help, to assist, to aid
 ### Usage Note
 **1. Generic Action:** Used when the specific verb is unknown or irrelevant ("What are you doing?" / "I am doing it").

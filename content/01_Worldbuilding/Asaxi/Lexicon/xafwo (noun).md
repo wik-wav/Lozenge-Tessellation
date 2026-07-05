@@ -36,7 +36,7 @@ x
 x
 
 ### Etymology
-**[[xa- (Relational Locative Prefix)|xa]]** (Above) + **[[fwo (noun)|fwo]]** (Fog). _Lit:_ above-fog.
+**[[xa- (relational locative) (particle)|xa]]** (Above) + **[[fwo (noun)|fwo]]** (Fog). _Lit:_ above-fog.
 
 ### Synonyms
 x

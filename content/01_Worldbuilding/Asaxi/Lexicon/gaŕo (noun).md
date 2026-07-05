@@ -40,7 +40,7 @@ x
 ### Etymology
 Inspired by Russian город / Polish *garaż*.
 
-*Note:* despite its shape, **gaŕo** is **not** a `ga-` constitution compound — it is a loanword and does not parse as [[ga (Fusing Particle)|ga]] + [[ŕo (root word)|ŕo]].
+*Note:* despite its shape, **gaŕo** is **not** a `ga-` constitution compound — it is a loanword and does not parse as [[ga (particle)|ga]] + [[ŕo (root word)|ŕo]].
 
 ### Synonyms
 x

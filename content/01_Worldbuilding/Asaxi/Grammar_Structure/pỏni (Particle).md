@@ -1,5 +1,5 @@
 ---
-title: pỏni (Particle) - "Soon to be", "Future", "Prospective", "Would-be"
+title: pỏni (particle) - "Soon to be", "Future", "Prospective", "Would-be"
 Word (Asaxi): pỏni
 trnsltion. En: '"Soon to be", "Future", "Prospective", "Would-be"'
 tags:
@@ -26,4 +26,4 @@ IPA: /pou̯ɲi/
 
 ### Etymology
 
-**pỏ** (Reduced form of **[[opa (Noun)]]** "Immediate Future") + **[[ni (Relational Particle)|ni]]**.
+**pỏ** (Reduced form of **[[opa (noun)]]** "Immediate Future") + **[[ni (particle)|ni]]**.

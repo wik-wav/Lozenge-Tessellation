@@ -16,7 +16,7 @@ Navigation:
 
 # Grammatical Concept: The Semelfactive (`tå-`)
 
-`tå-` bounds an action to a **single instance** — "one [verb], once." It is the inverse of the iterative [[na- (Relational Locative Prefix)|na-]]: where `na-` turns a punctual event into a repeated series, `tå-` collapses an ongoing Activity into one bounded occurrence. Together they form the **Punctual ↔ Durative** axis of [[16_Verbs_Aspectual Distinction (Root vs. Ů)]].
+`tå-` bounds an action to a **single instance** — "one [verb], once." It is the inverse of the iterative [[na- (relational locative) (particle)|na-]]: where `na-` turns a punctual event into a repeated series, `tå-` collapses an ongoing Activity into one bounded occurrence. Together they form the **Punctual ↔ Durative** axis of [[16_Verbs_Aspectual Distinction (Root vs. Ů)]].
 
 ### Grammatical function
 
@@ -47,4 +47,4 @@ Mimetic: **tå** is the gesture/sound of a single tap — one bounded point in t
 
 ### Antonyms
 
-- [[na- (Relational Locative Prefix)|na-]] (iterative — many instances).
+- [[na- (relational locative) (particle)|na-]] (iterative — many instances).

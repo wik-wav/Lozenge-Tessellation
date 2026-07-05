@@ -40,7 +40,7 @@ Null
 - nys (when after pure vowels (monothongs))
 
 ### Etymology
-[[ů (verb)]] + [[ná (Particle)]]
+[[ů (verb)]] + [[ná (particle)]]
 
 ### Synonyms
 x
@@ -49,7 +49,7 @@ x
 [[ů (verb)]]
 
 ### Root Noun
-- *(none — grammatical fusion of the active copula **ů** + polarity **[[ná (Particle)|ná]]**; no nominal root)*
+- *(none — grammatical fusion of the active copula **ů** + polarity **[[ná (particle)|ná]]**; no nominal root)*
 
 ### Derived terms
 Null

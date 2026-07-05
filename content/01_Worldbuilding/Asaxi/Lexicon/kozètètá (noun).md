@@ -38,7 +38,7 @@ _Regret stems from the past._ (aphoristic)
 Null
 
 ### Etymology
-**[[kozè (Noun)]]** (Distant Past) + **[[tètá (noun)|tètá]]** (Pain).
+**[[kozè (noun)]]** (Distant Past) + **[[tètá (noun)|tètá]]** (Pain).
 *Lit:* "Ancient-Pain" or "Far-Past-Pain."
 
 ### Synonyms

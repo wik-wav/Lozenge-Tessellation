@@ -43,7 +43,7 @@ You cannot "possess" (`ma`) a lack. You must **perform** (`-nů`) it.
 
 ### 4. Constitutional Compounds (`ga-` + `fů-`)
 
-To define an object or person by their **physical composition** of "lacking X," use the **Constitutional Particle [[ga (Fusing Particle)|ga-]]**.
+To define an object or person by their **physical composition** of "lacking X," use the **Constitutional Particle [[ga (particle)|ga-]]**.
 
 **Important:** The result is a **Compound Noun**, not an adjective. It acts as a classifier or material definition.
 

@@ -38,7 +38,7 @@ _The anchor holds the boat._
 Null
 
 ### Etymology
-Weight [[ŋo (Unit Noun)|ŋo]] + [[go (noun)|go]] (rock). *Lit:* "weight-stone."
+Weight [[ŋo (noun)|ŋo]] + [[go (noun)|go]] (rock). *Lit:* "weight-stone."
 
 ### Synonyms
 Null

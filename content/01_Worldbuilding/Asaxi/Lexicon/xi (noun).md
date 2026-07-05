@@ -50,7 +50,7 @@ Hi (Japanese 日 - Sun/Day).
 - x
 
 ### Antonyms
-- **[[mao (noun) - as in night-time|mao]]** (Night/Moon).
+- **[[mao (night-time) (noun)|mao]]** (Night/Moon).
 
 ### Derived terms
 - [[gaxi (noun)|gaxi]] - yellow

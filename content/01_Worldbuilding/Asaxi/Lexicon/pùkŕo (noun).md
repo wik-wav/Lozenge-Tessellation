@@ -38,7 +38,7 @@ _An apple sits on the floor._
 Null
 
 ### Etymology
-[[pù- (Relational Locative Prefix)|pù-]] (below) + *-kŕo* (built construct/surface — unlike *-kam*, not something one enters). *Lit:* "below-construct."
+[[pù- (relational locative) (particle)|pù-]] (below) + *-kŕo* (built construct/surface — unlike *-kam*, not something one enters). *Lit:* "below-construct."
 
 ### Synonyms
 Null

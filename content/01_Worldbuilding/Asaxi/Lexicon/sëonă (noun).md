@@ -53,7 +53,7 @@ x
 Logic: "Claw-like." Cultural metaphor: The claw is the part of the beast that grabs/holds reality; it is the "vital" point or the "point" of the creature. To be without it is to be helpless. Thus, "Essential."
 
 ### Synonyms
-- **[[xă (Particle)|xă]]** (True/Real).
+- **[[xă (particle)|xă]]** (True/Real).
 
 ### Root Noun
 - [[sëo (noun)|sëo]]

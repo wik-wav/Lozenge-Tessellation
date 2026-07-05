@@ -39,7 +39,7 @@ _A worm is in the soil._
 x
 
 ### Etymology
-From [[gùŕo (noun)|gùŕo]] (rope) + [[hjá (noun) - as in child|hjá]] (young, little): a little rope.
+From [[gùŕo (noun)|gùŕo]] (rope) + [[hjá (child) (noun)|hjá]] (young, little): a little rope.
 
 ### Synonyms
 x

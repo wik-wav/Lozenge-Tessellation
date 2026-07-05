@@ -36,7 +36,7 @@ IPA: /xɯwfʷo/
 x
 
 ### Etymology
-**[[hù- (Relational Locative Prefix)|hù]]** (Behind/Below) + **[[fwo (noun)|fwo]]** (Fog). _Lit:_ That which is behind the fog. Represents the concept of limited vision or lack of facts.
+**[[hù- (relational locative) (particle)|hù]]** (Behind/Below) + **[[fwo (noun)|fwo]]** (Fog). _Lit:_ That which is behind the fog. Represents the concept of limited vision or lack of facts.
 
 ### Synonyms
 x

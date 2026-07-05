@@ -57,5 +57,5 @@ Null
 Null
 
 ### Grammatical Note
-Derived from **[[tă (Mathematical Operator)|tă]]** (Plus) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+Derived from **[[tă (particle)|tă]]** (Plus) + **[[06A_-n- (particle)|-n-]]** (Performance) + **-ů**.
 * *Logic:* "To perform addition" / "To plus."

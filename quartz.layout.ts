@@ -5,7 +5,16 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.ConditionalRender({
+      component: Component.LexiconBrowser(),
+      condition: (page) => page.fileData.slug === "lexicon",
+    }),
+    Component.ConditionalRender({
+      component: Component.GrammarBook(),
+      condition: (page) => page.fileData.slug === "grammar",
+    }),
+  ],
   footer: Component.Footer({
     links: {
       Neocities: "https://wik-wav.neocities.org/",
@@ -38,6 +47,12 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
+    Component.NavButtons({
+      buttons: [
+        { title: "📖  Lexicon Browser", slug: "lexicon", accent: true },
+        { title: "📘  Grammar Book", slug: "grammar" },
+      ],
+    }),
     Component.Explorer(),
   ],
   right: [
@@ -59,6 +74,12 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+      ],
+    }),
+    Component.NavButtons({
+      buttons: [
+        { title: "📖  Lexicon Browser", slug: "lexicon", accent: true },
+        { title: "📘  Grammar Book", slug: "grammar" },
       ],
     }),
     Component.Explorer(),

@@ -39,7 +39,7 @@ IPA: /pʃoʊmə fɯmə/
 
 ### Etymology
 
-**[[pxỏmă (noun)|pxỏmă]]** (Every breath; from _pxo_ "breath" + _-mă_ "every/total") + **[[fůmă (Quantifier)|fůmă (Quantifier)]]** (None / Nothing / Void).
+**[[pxỏmă (noun)|pxỏmă]]** (Every breath; from _pxo_ "breath" + _-mă_ "every/total") + **[[fůmă (particle)|fůmă (Quantifier)]]** (None / Nothing / Void).
 
 ### Synonyms
 

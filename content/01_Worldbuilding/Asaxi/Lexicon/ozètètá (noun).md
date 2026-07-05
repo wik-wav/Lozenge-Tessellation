@@ -38,7 +38,7 @@ _I made a mistake._ (Lit: I did an immediate-past-pain).
 Null
 
 ### Etymology
-**[[ozè (Tense Prefix)|ozè (Tense Prefix)]]** (Immediate Past) + **[[tètá (noun)|tètá]]** (Pain).
+**[[ozè (particle)|ozè (Tense Prefix)]]** (Immediate Past) + **[[tètá (noun)|tètá]]** (Pain).
 
 ### Synonyms
 - **[Failure]** (TBD).

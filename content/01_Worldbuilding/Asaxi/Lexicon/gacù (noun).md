@@ -41,7 +41,7 @@ _Soil is brown._
 Null
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (colour/constitution) + [[cù (noun)|cù]] (soil) → "soil-colour". A colour built on its prototype object, like [[gapo (noun)|gapo]] (red ← apple) and [[gao (noun)|gao]] (azure ← sky).
+**[[ga (particle)|ga]]** (colour/constitution) + [[cù (noun)|cù]] (soil) → "soil-colour". A colour built on its prototype object, like [[gapo (noun)|gapo]] (red ← apple) and [[gao (noun)|gao]] (azure ← sky).
 
 ### Synonyms
 Null

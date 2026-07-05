@@ -21,7 +21,7 @@ Consequently, Asaxi speakers aggressively strip away any word that can be inferr
 
 ## 1. The Existential Minimal (Dropping the Copula)
 
-When asserting the identity, quality, or location of a subject, the Stative Particle **[[xiŕa (Particle)|xiŕa]]** is omitted.
+When asserting the identity, quality, or location of a subject, the Stative Particle **[[xiŕa (particle)|xiŕa]]** is omitted.
 
 - **The Implied Predicate:** **\[Is / Exists\]** (Static Validity).
 - **Grammatical Term:** **Zero Copula**.

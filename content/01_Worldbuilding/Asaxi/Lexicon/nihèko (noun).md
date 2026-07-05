@@ -37,7 +37,7 @@ _The game has a beginning._
 Null
 
 ### Etymology
-**[[nihè (Particle)|nihè]]** (Start! - Command) + **[[47_Morphological Reduction (Class Suffixes)|-ko]]** (Event Suffix).
+**[[nihè (particle)|nihè]]** (Start! - Command) + **[[47_Morphological Reduction (Class Suffixes)|-ko]]** (Event Suffix).
 *Lit:* "The Start-Event."
 
 ### Synonyms

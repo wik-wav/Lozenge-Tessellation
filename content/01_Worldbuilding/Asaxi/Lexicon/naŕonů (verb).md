@@ -58,5 +58,5 @@ Null
 - **naŕonůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[naŕo (Mathematical Operator)|naŕo]]** (Multiplication) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+Derived from **[[naŕo (particle)|naŕo]]** (Multiplication) + **[[06A_-n- (particle)|-n-]]** (Performance) + **-ů**.
 * *Logic:* "To perform multiplication/mixing."

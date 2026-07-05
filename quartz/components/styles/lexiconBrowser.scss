@@ -1,0 +1,116 @@
+@use "../../styles/variables.scss" as *;
+
+.lexicon-browser {
+  margin-top: 1rem;
+
+  & .lex-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 0.6rem;
+
+    & input,
+    & select {
+      background: var(--light);
+      color: var(--dark);
+      border: 1px solid var(--lightgray);
+      border-radius: 5px;
+      padding: 0.4rem 0.55rem;
+      font-family: inherit;
+      font-size: 0.9rem;
+    }
+    & .lex-search {
+      flex: 1 1 220px;
+      min-width: 160px;
+    }
+    & select {
+      flex: 0 1 auto;
+      cursor: pointer;
+    }
+    & input:focus,
+    & select:focus {
+      outline: none;
+      border-color: var(--secondary);
+    }
+  }
+
+  & .lex-stats {
+    color: var(--gray);
+    font-size: 0.8rem;
+    margin-bottom: 0.35rem;
+  }
+
+  & .lex-list {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid var(--lightgray);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+
+  & .lex-more {
+    display: block;
+    margin: 0.75rem auto 0;
+    padding: 0.45rem 1.1rem;
+    border-radius: 6px;
+    border: 1px solid var(--lightgray);
+    background: var(--light);
+    color: var(--secondary);
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background 0.15s ease, border-color 0.15s ease;
+
+    &:hover {
+      background: var(--highlight);
+      border-color: var(--secondary);
+    }
+  }
+
+  & .lex-row {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    padding: 0.4rem 0.7rem;
+    border-bottom: 1px solid var(--lightgray);
+    text-decoration: none;
+    color: var(--dark);
+    background: none;
+
+    &:last-child {
+      border-bottom: none;
+    }
+    &:hover {
+      background: var(--highlight);
+    }
+
+    & .lex-word {
+      font-weight: 600;
+      color: var(--secondary);
+      flex: 0 0 auto;
+      min-width: 5rem;
+    }
+    & .lex-badge {
+      color: var(--gray);
+      font-size: 0.72rem;
+      text-transform: lowercase;
+      flex: 0 0 auto;
+      align-self: center;
+    }
+    & .lex-gloss {
+      color: var(--darkgray);
+      flex: 1 1 auto;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-size: 0.9rem;
+    }
+    & .lex-freq {
+      color: var(--gray);
+      font-size: 0.75rem;
+      flex: 0 0 auto;
+      font-variant-numeric: tabular-nums;
+    }
+  }
+}

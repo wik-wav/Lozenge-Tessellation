@@ -45,7 +45,7 @@ _I don't know you._
 Null
 
 ### Etymology
-**[[cè (verb)|cè]]** (Know) + **[[ná (Particle)|-ná]]** (Not).
+**[[cè (verb)|cè]]** (Know) + **[[ná (particle)|-ná]]** (Not).
 
 ### Synonyms
 Null

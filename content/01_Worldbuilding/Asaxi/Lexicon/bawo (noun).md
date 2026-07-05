@@ -37,7 +37,7 @@ _Grass covers the mountain's flank._
 Null
 
 ### Etymology
-**[[ba- (Relational Locative Prefix)|ba]]** (Beside) + **-w-** + **[[o (Proximal Locative Prefix)|o]]** (Here).
+**[[ba- (particle)|ba]]** (Beside) + **-w-** + **[[o (proximal locative) (particle)|o]]** (Here).
 *Lit:* "The Beside-Here."
 
 ### Synonyms

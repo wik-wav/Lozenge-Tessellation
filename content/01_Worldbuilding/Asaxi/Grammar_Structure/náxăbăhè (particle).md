@@ -24,10 +24,10 @@ tags:
 
 A complex fusion of four particles creating a "Imperative of Negative Force."
 
-1. **[[ná (Particle)|ná]]** (Not)
-2. **[[xă (Particle)|xă]]** (Emphasis)
-3. **[[bă (Relational Particle)|bă]]** (Means/Instrument)
-4. **[[hè (Particle)|hè]]** (Imperative)
+1. **[[ná (particle)|ná]]** (Not)
+2. **[[xă (particle)|xă]]** (Emphasis)
+3. **[[bă (particle)|bă]]** (Means/Instrument)
+4. **[[hè (particle)|hè]]** (Imperative)
 
 - _Logic:_ "To forcefully (`xă`) negate (`ná`) the means (`bă`) of causing (`hè`)."
 - _Contrast:_ Stronger than **nábăhè** (To not allow / To withhold permission). This implies an active rule or barrier against the action.
@@ -48,9 +48,9 @@ IPA: /nɑɦaɪbaɪxə/
 
 ### Antonyms
 
-- **[[xăhè (Particle)|xăhè-]]** (To Force / To Compel).
+- **[[xăhè (particle)|xăhè-]]** (To Force / To Compel).
 - **băhè-** (To Allow / To Permit).
 
 ### Derived terms
 
-- prohibition family: [[náxăkă (Particle)|náxăkă]] (polite), **náxăhè** (absolute) *(no entry yet)*
+- prohibition family: [[náxăkă (particle)|náxăkă]] (polite), **náxăhè** (absolute) *(no entry yet)*

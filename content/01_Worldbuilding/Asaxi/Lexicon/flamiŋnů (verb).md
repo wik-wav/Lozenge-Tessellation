@@ -56,5 +56,5 @@ Null
 - **Aspect markers**: **na-** "do repeatedly" · **tå-** "do once" · **ni-** "begin to" · **chå-** "do fully".
 
 ### Grammatical Note
-Derived from **[[flaminŋshá (noun)|flaminŋ]]** (Flamingo) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+Derived from **[[flaminŋshá (noun)|flaminŋ]]** (Flamingo) + **[[06A_-n- (particle)|-n-]]** (Performance) + **-ů**.
 * *Logic:* "To do the flamingo." (Referencing the bird's famous habit of standing perfectly still on one leg).

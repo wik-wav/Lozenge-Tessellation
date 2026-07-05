@@ -50,4 +50,4 @@ Null
 - [[ŕochỏŕů (verb)|ŕochỏŕů]] - to be thirsty (lit. to generate thirst)
 - [[ŕochỏchů (verb)|ŕochỏchů]] - to thirst, to feel thirsty, to be thirsty
 ### Usage Note
-To say "I'm thirsty," use the derived verb **[[ŕochỏŕů (verb)|ŕochỏŕů]]** — thirst is an **endogenous** state the body generates, so it takes the Generative bridge `-ŕ-` ([[06A_-ŕ- (Morphological Infix)]]) rather than *ma*: **Ă wo ŕochỏŕů.** See [[65_Expressing States & Sensations (Source Doctrine)]].
+To say "I'm thirsty," use the derived verb **[[ŕochỏŕů (verb)|ŕochỏŕů]]** — thirst is an **endogenous** state the body generates, so it takes the Generative bridge `-ŕ-` ([[06A_-ŕ- (particle)]]) rather than *ma*: **Ă wo ŕochỏŕů.** See [[65_Expressing States & Sensations (Source Doctrine)]].

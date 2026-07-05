@@ -49,7 +49,7 @@ Aspect beyond the lexical default is marked by **additive prefixes**, on two ind
 | Operator | Shift | Meaning | Example |
 | --- | --- | --- | --- |
 | **`-ů`** (durativizer) | punctual → durative | one event → its ongoing process | `ijo` spot → **ijonů** watch |
-| **[[na- (Relational Locative Prefix)\|na-]]** (iterative) | punctual → repeated | a rapid series of the event | `ijo` → **năjo** keep spotting / monitor |
+| **[[na- (relational locative) (particle)\|na-]]** (iterative) | punctual → repeated | a rapid series of the event | `ijo` → **năjo** keep spotting / monitor |
 | **[[tå- (Semelfactive Prefix)\|tå-]]** (semelfactive) | durative → single instance | one bounded occurrence | `jýnů` chat → **tåjýnů** utter once |
 
 `na-` and `tå-` are **inverses**: `na-` multiplies a punctual into many; `tå-` collapses a durative into one. Each does its real work on the *opposite* base — a punctual root is already single, an Activity already extended — so the prefix is where the marked meaning lives.
@@ -58,7 +58,7 @@ Aspect beyond the lexical default is marked by **additive prefixes**, on two ind
 
 | Operator | Meaning | Example |
 | --- | --- | --- |
-| **[[ni- (Inceptive Prefix)\|ni-]]** (inceptive) | onset — "begin to" | **nixoxo** I start to leave |
+| **[[ni- (particle)\|ni-]]** (inceptive) | onset — "begin to" | **nixoxo** I start to leave |
 | **[[chå (Particle)\|chå-]]** (completive) | result / finish — "fully, to completion" | **chåshěsonů** read fully; **chåxoxo** gone for good |
 
 The axes combine freely: `năjo` (iterative), `tåjýnů` (semelfactive), `chåshěsonů` (completive), `nixoxo` (inceptive).

@@ -45,7 +45,7 @@ _I submerge (my) body._
 - **niŕoŕo** (Full compound: `ni` + `ŕoŕo`). Used for emphasis or poetic rhythm.
 
 ### Etymology
-**[[ni (Relational Particle)|ni]]** (Into/Towards) + **[[ŕoŕo (noun)|ŕo(ŕo)]]** (Water).
+**[[ni (particle)|ni]]** (Into/Towards) + **[[ŕoŕo (noun)|ŕo(ŕo)]]** (Water).
 *Lit:* "Into-water."
 
 ### Synonyms

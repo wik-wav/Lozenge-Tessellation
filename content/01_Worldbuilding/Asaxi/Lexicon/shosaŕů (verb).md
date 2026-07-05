@@ -56,5 +56,5 @@ Null
 - **shosaŕůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[shosa (noun)|shosa]]** (Road/Path) + **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** (Generative Mode) + **-ů**.
+Derived from **[[shosa (noun)|shosa]]** (Road/Path) + **[[06A_-ŕ- (particle)|-ŕ-]]** (Generative Mode) + **-ů**.
 * *Lit:* "To generate a road."

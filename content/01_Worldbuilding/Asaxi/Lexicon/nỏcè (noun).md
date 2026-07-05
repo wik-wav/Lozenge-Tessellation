@@ -38,7 +38,7 @@ _I write a note._
 Null
 
 ### Etymology
-A blend of English **"Note"** and the Asaxi components **[[nỏ (Particle)|nỏ]]** (Not) + **[[cè (verb)|cè]]** (Know).
+A blend of English **"Note"** and the Asaxi components **[[nỏ (particle)|nỏ]]** (Not) + **[[cè (verb)|cè]]** (Know).
 *Lit:* "Not-Know." (Writing something down because you might not know/remember it later).
 
 ### Synonyms

@@ -71,7 +71,7 @@ Strictly Post-Verbal. Expresses the cessation of an action.
 
 #### 5. The Distributive Aspect (Floating)
 
-Markers: **[[ojano (particle)|ojano]]** (General), **[[jonojo (Particle)|jonojo]]** (One by one), **[[okonoko (Particle)|okonoko]]** (Scattered).
+Markers: **[[ojano (particle)|ojano]]** (General), **[[jonojo (particle)|jonojo]]** (One by one), **[[okonoko (particle)|okonoko]]** (Scattered).
 
 These particles indicate that items or actions are treated individually. Their position determines their **Scope**.
 

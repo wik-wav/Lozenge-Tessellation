@@ -1,5 +1,5 @@
 ---
-title: kă (Particle) - "Please", "Kindly", "Would you".
+title: kă (particle) - "Please", "Kindly", "Would you".
 Word (Asaxi): kă
 trnsltion. En: please
 tags:
@@ -49,4 +49,4 @@ x
 
 ### Antonyms
 
-- **[[hè (Particle)|hè]]** (Imperative/Command).
+- **[[hè (particle)|hè]]** (Imperative/Command).

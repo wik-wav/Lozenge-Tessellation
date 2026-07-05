@@ -37,7 +37,7 @@ _John occupies the front._
 Null
 
 ### Etymology
-**[[pa- (Relational Locative Prefix)|pa]]** (Front) + **-w-** + **[[o (Proximal Locative Prefix)|o]]** (Here).
+**[[pa- (particle)|pa]]** (Front) + **-w-** + **[[o (proximal locative) (particle)|o]]** (Here).
 *Lit:* "The Front-Here."
 
 ### Synonyms

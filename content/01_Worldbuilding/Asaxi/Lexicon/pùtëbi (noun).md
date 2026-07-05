@@ -36,7 +36,7 @@ Null
 Null
 
 ### Etymology
-**[[pù- (Relational Locative Prefix)|pù]]** (Below) + **[[tëbi (noun)|tëbi]]** (Arm).
+**[[pù- (relational locative) (particle)|pù]]** (Below) + **[[tëbi (noun)|tëbi]]** (Arm).
 *Lit:* "Lower-Arm."
 
 ### Synonyms

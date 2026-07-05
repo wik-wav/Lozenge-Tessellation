@@ -47,7 +47,7 @@ _I insert the key._
 Null
 
 ### Etymology
-**xo** (Move) + **[[va- (Relational Locative Prefix)|va]]** (In).
+**xo** (Move) + **[[va- (particle)|va]]** (In).
 
 ### Synonyms
 Null
@@ -59,6 +59,6 @@ Null
 Null
 
 ### Usage Note
-Distinct from **[[vanů (Spatial Verb)|vanů]]** (To be inside/inhabit).
+Distinct from **[[vanů (verb)|vanů]]** (To be inside/inhabit).
 * **xova:** The act of moving across the threshold.
 * **vanů:** The state of occupying the interior.

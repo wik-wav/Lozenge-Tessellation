@@ -48,7 +48,7 @@ Null
 Null
 
 ### Antonyms
-- **[[ni (Relational Particle)|ni]]** + \[Target\] (Going specifically to X).
+- **[[ni (particle)|ni]]** + \[Target\] (Going specifically to X).
 
 ### Root Noun
 - [[gă (noun)|gă]]
@@ -57,7 +57,7 @@ Null
 - **gănůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from the Proximal Prefix **[[gă (Indefinite Locative Prefix)|gă-]]** (Somewhere/Indefinite) + **-n-** + **[[ů (verb)|ů]]**.
+Derived from the Proximal Prefix **[[gă (particle)|gă-]]** (Somewhere/Indefinite) + **-n-** + **[[ů (verb)|ů]]**.
 
 ### Usage Note
 Distinct from `pănů` (Exit). `gănů` implies movement without a defined target or movement towards an unknown location.

@@ -47,7 +47,7 @@ _Into the future, we advance._
 Null
 
 ### Etymology
-**xo** (Move) + **[[pa- (Relational Locative Prefix)|pa]]** (Front).
+**xo** (Move) + **[[pa- (particle)|pa]]** (Front).
 
 ### Synonyms
 Null

@@ -36,7 +36,7 @@ _My back muscles have gotten defined._
 Null
 
 ### Etymology
-**[[hù- (Relational Locative Prefix)|hù]]** (Behind) + **[[båbå (noun)|båbå]]** (Muscle).
+**[[hù- (relational locative) (particle)|hù]]** (Behind) + **[[båbå (noun)|båbå]]** (Muscle).
 *Lit:* "The muscles behind."
 
 ### Synonyms

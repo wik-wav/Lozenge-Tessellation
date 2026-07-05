@@ -1,17 +1,20 @@
 ---
 title: Smntc_Field Transfer
+aliases:
+  - Transfer
 tags:
-  - semantic_field
-  - language
   - Asaxi
+  - language
+  - semantic_field
 ---
 # Transfer Semantic Field
 
-This is a page with a list of all Asaxi words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **Transfer**.
+This is a page with a list of all [[The Asaxi Language|Asaxi]] words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **Transfer**.
 
 Navigation:
 - [[The Asaxi Language|The Asaxi Language Index]]
-- [[index|Index - Homepage]]
+- [[index|Asaxi Wiki - Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
 
 - - -
 

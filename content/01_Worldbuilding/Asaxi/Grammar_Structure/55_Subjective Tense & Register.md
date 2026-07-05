@@ -47,9 +47,9 @@ To speak in the Subjective Register, you swap the standard grammatical particles
 
 | Component          | Standard (Objective) | Subjective (Internal)           |
 | ------------------ | -------------------- | ------------------------------- |
-| **Subject Marker** | **to**               | **[[ă (Relational Particle)]]** |
-| **Present Tense**  | _(Unmarked)_         | **[[mi- (Tense Prefix)]]**      |
-| **Past Tense**     | **zè-**              | **[[sỏ (Tense Prefix)]]**      |
+| **Subject Marker** | **to**               | **[[ă (particle)]]** |
+| **Present Tense**  | _(Unmarked)_         | **[[mi- (particle)]]**      |
+| **Past Tense**     | **zè-**              | **[[sỏ (particle)]]**      |
 
 ## 3. The Subjective Present (`mi-`)
 

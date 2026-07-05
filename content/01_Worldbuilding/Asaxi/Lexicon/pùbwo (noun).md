@@ -38,7 +38,7 @@ _I sit on my buttocks._ (Lit: I occupy-on the buttocks).
 x
 
 ### Etymology
-**[[pù- (Relational Locative Prefix)|pù]]** (Below) + **[[bwo (noun)|bwo]]** (Fat).
+**[[pù- (relational locative) (particle)|pù]]** (Below) + **[[bwo (noun)|bwo]]** (Fat).
 *Lit:* "Low-fat" or "Bottom-fat."
 
 ### Synonyms

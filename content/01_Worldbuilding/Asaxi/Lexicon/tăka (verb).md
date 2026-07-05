@@ -45,7 +45,7 @@ _We unite (join forces)._
 Null
 
 ### Etymology
-**[[tă (Mathematical Operator)|tă]]** (Plus) + **[[47_Morphological Reduction (Class Suffixes)|-ka]]** (Reciprocal).
+**[[tă (particle)|tă]]** (Plus) + **[[47_Morphological Reduction (Class Suffixes)|-ka]]** (Reciprocal).
 *Lit:* "Plus-Exchange."
 
 ### Synonyms

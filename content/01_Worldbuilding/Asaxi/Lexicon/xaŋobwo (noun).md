@@ -38,7 +38,7 @@ _Obesity is painful._
 Null
 
 ### Etymology
-**[[xa- (Number Prefix)|xa-]]** (Thousand) + **[[ŋo (Unit Noun)|ŋo]]** (Kilo) + **[[bwo (noun)|bwo]]** (Fat).
+**[[xa- (number) (particle)|xa-]]** (Thousand) + **[[ŋo (noun)|ŋo]]** (Kilo) + **[[bwo (noun)|bwo]]** (Fat).
 *Lit:* "Thousand-Kilo-Fat."
 
 ### Synonyms

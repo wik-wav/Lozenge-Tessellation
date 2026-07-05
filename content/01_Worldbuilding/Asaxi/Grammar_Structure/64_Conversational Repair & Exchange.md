@@ -105,5 +105,5 @@ Built from the locative system plus the flank nouns (see their entries for the c
 
 ## 10. Additive & Quantity
 
-- **[[xa (Additive Particle)|xa]]** — "also, too, even", post-positioned: **Wo xa.** ("Me too.")
-- **[[kăgo (Interrogative Quantifier)|kăgo]]** — "how much, how many": **Kăgo jå kè?** ("How many do you want?")
+- **[[xa (additive) (particle)|xa]]** — "also, too, even", post-positioned: **Wo xa.** ("Me too.")
+- **[[kăgo (particle)|kăgo]]** — "how much, how many": **Kăgo jå kè?** ("How many do you want?")

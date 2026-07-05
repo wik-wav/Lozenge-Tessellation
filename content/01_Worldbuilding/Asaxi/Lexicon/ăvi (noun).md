@@ -38,7 +38,7 @@ _I want perfection._
 Null
 
 ### Etymology
-**[[ă (Relational Particle)|ă]]** (Subjective/Internal) + **[[vi (Particle)|vi]]** (Good/OK).
+**[[ă (particle)|ă]]** (Subjective/Internal) + **[[vi (particle)|vi]]** (Good/OK).
 *Lit:* "Internal-Goodness" or "Subjective-Rightness." (The feeling that things are exactly as they should be).
 
 ### Synonyms

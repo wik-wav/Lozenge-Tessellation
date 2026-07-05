@@ -38,7 +38,7 @@ _The river runs through the canyon._
 Null
 
 ### Etymology
-[[dă- (Degree Prefix)|dă-]] (great) + valley [[fwogă (noun)|fwogă]]. *Lit:* "great-valley."
+[[dă- (particle)|dă-]] (great) + valley [[fwogă (noun)|fwogă]]. *Lit:* "great-valley."
 
 ### Synonyms
 Null

@@ -37,7 +37,7 @@ Tom is the heaviest person in here. (lit. _In here, Tom is a person who has the 
 Null
 
 ### Etymology
-**[[ŋo (Unit Noun)|ŋo]]** (Kilo) + **-no**.
+**[[ŋo (noun)|ŋo]]** (Kilo) + **-no**.
 
 ### Synonyms
 - **[Heaviness]** (TBD).

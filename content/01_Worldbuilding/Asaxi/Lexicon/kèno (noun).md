@@ -38,7 +38,7 @@ _Your question is good._
 Null
 
 ### Etymology
-**[[kè (Particle)|kè]]** (question particle) + **-no** (thing) — „question-thing”.
+**[[kè (particle)|kè]]** (question particle) + **-no** (thing) — „question-thing”.
 
 ### Synonyms
 - [[këjù (verb)|këjù]] (related: to ask)

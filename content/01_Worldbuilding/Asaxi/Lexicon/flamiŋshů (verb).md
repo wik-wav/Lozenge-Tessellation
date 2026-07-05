@@ -62,5 +62,5 @@ Null
 Null
 
 ### Grammatical Note
-Derived from **[[flaminŋshá (noun)|flaminŋ]]** (Flamingo) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative Mode) + **-ů**.
+Derived from **[[flaminŋshá (noun)|flaminŋ]]** (Flamingo) + **[[06A_-sh- (particle)|-sh-]]** (Privative Mode) + **-ů**.
 * *Lit:* "To strip the flamingo." (To remove the display/pose).

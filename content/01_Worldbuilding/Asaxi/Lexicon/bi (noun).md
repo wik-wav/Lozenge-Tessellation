@@ -60,7 +60,7 @@ Null
 - [[embi (noun)|embi]] - plane (geometry), flat surface, level, platform, zone
 - [[kobi (noun)|kobi]] - farness, the far, remoteness
 - [[obi (noun)|obi]] - nearness, vicinity, the near
-- [[tambi (mathematical operator)|tambi]] - equals
+- [[tambi (particle)|tambi]] - equals
 - [[topobi (noun)|topobi]] - weather
 - [[tëbi (noun)|tëbi]] - arm
 - [[tăbiŕů (verb)|tăbiŕů]] - to draw, to sketch, to draft, to diagram

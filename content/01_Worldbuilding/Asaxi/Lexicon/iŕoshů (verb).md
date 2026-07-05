@@ -57,4 +57,4 @@ Null
 Null
 
 ### Grammatical Note
-Derived from **[[iŕo (noun)|iŕo]]** (Colour) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative Mode) + **-ů**.
+Derived from **[[iŕo (noun)|iŕo]]** (Colour) + **[[06A_-sh- (particle)|-sh-]]** (Privative Mode) + **-ů**.

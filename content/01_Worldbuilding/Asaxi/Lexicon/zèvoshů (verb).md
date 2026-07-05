@@ -43,7 +43,7 @@ He defamed me.
 x
 
 ### Etymology
-[[zèvo (noun)|zèvo]] (Name) + [[06A_-sh- (Morphological Infix)|-sh-]] (Privative Mode) + [[ů (verb)]].
+[[zèvo (noun)|zèvo]] (Name) + [[06A_-sh- (particle)|-sh-]] (Privative Mode) + [[ů (verb)]].
 
 Logic: "To remove the name."
 

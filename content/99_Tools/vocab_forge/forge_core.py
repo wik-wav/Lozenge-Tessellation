@@ -31,6 +31,11 @@ def load_config():
     cfg["_lexicon"] = root / cfg["lexicon_dir"]
     cfg["_fields"] = root / cfg["semantic_fields_dir"]
     cfg["_idioms"] = root / cfg["idioms_dir"] if cfg.get("idioms_dir") else None
+    # Grammar_Structure sits beside the lexicon and also holds real lexeme entries
+    # (particles, pronouns, connectors, ...). Scan it too; doc pages are filtered
+    # out in Lexicon._load via the grammar_concept tag / sort-prefix rules.
+    gdir = root / cfg["grammar_dir"] if cfg.get("grammar_dir") else cfg["_lexicon"].parent / "Grammar_Structure"
+    cfg["_grammar"] = gdir if gdir.is_dir() else None
     return cfg
 
 
@@ -40,6 +45,9 @@ def entry_search_dirs(cfg):
     idi = cfg.get("_idioms")
     if idi and Path(idi).is_dir():
         dirs.append(idi)
+    gr = cfg.get("_grammar")
+    if gr and Path(gr).is_dir():
+        dirs.append(gr)
     return dirs
 
 
@@ -278,14 +286,14 @@ WORD_TYPES = {
         "label": "Particle",
         "suffix": "particle",
         "list": None,
-        "list_link": None,
+        "list_link": "02_Particles in Asaxi",
         "tags": ["Asaxi", "language", "grammar"],
     },
     "number": {
         "label": "Number",
         "suffix": "Number",
-        "list": None,
-        "list_link": "39_Numerals & Mathematics|Number",
+        "list": "04_Asaxi Numbers (List).md",
+        "list_link": "04_Asaxi Numbers (List)",
         "tags": ["Asaxi", "language", "number"],
     },
     "idiom": {
@@ -343,13 +351,21 @@ class Lexicon:
             m = FILENAME_RE.match(p.name)
             if not m:
                 continue
-            if m.group("type").lower() in ("list",) or m.group("word")[0].isdigit():
+            word = m.group("word")
+            # skip list files, sort-prefixed morphemes (06A_-, Z_-), numbered docs
+            if m.group("type").lower() in ("list",) or word[0].isdigit() or "_" in word:
                 continue
-            e = {"word": m.group("word"), "type_raw": m.group("type").lower(),
+            try:
+                text = p.read_text(encoding="utf-8")
+            except Exception:
+                text = ""
+            # skip grammar-concept documentation pages (not lexeme entries)
+            if re.search(r"(?m)^\s*-\s*grammar_concept\s*$", text):
+                continue
+            e = {"word": word, "type_raw": m.group("type").lower(),
                  "path": str(p), "gloss_en": "", "gloss_pl": "", "fields": [],
                  "id": None}
             try:
-                text = p.read_text(encoding="utf-8")
                 e["id"] = read_entry_id(text)
                 e["freq"] = read_freq(text)
                 fm = re.search(r"^trnsltion\. En:\s*(.+)$", text, re.M)
@@ -1803,6 +1819,7 @@ _LIST_CATEGORIES = {
     "verb-u": "02_Asaxi Verbs_ů (List)",
     "adjective": "03_Asaxi Adjectives (List)",
     "root word": "03_Asaxi Root Words (List)",
+    "number": "04_Asaxi Numbers (List)",
 }
 _VOCAB_LINE_RE = re.compile(
     r"(?im)^[ \t]*-[ \t]*\[\[[^\]|#]*\((?:noun|verb|adjective|root word|particle|number|idiom)\)"
@@ -2251,8 +2268,17 @@ def add_missing_sections(cfg, name, dry_run=False):
     tpl_path = cfg["_root"] / "00_Templates" / _TPL_FILES[audit["template"]]
     tpl_secs = {s["header"]: s["content"] for s in
                 split_sections(tpl_path.read_text(encoding="utf-8"))}
-    updates = [{"header": h, "content": (tpl_secs.get(h) or "x").strip() or "x"}
-               for h in missing]
+    # auto-features: derive the Asaxi word so added sections get the same
+    # auto-fill a freshly-created entry would (currently: IPA in Pronunciation).
+    wm = re.search(r"(?m)^Word \(Asaxi\):\s*(.+)$", text)
+    aword = wm.group(1).strip() if wm else word_from_stem(name)
+    updates = []
+    for h in missing:
+        if h.strip().lower() == "pronunciation":
+            content = f"IPA: {suggest_ipa(aword)}"   # auto-suggested, like build_entry
+        else:
+            content = (tpl_secs.get(h) or "x").strip() or "x"
+        updates.append({"header": h, "content": content})
     r = update_entry(cfg, name, section_updates=updates, dry_run=dry_run)
     r["added"] = missing
     return r

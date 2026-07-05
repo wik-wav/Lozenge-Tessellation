@@ -56,6 +56,6 @@ Null
 - **ůsůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[ů (verb)|ů]]** (Be/Act) + **[[06A_-s- (Morphological Infix)|-s-]]** (Auditory Mode) + **[[ů (verb)|-ů]]**.
+Derived from **[[ů (verb)|ů]]** (Be/Act) + **[[06A_-s- (particle)|-s-]]** (Auditory Mode) + **[[ů (verb)|-ů]]**.
 
 - _Lit:_ "To soundly be."

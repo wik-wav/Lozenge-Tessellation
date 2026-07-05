@@ -42,7 +42,7 @@ IPA: /ɡavi/
 x
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (Type) + **[[vivi (noun) - as in family of plants|vivi]]** (Grass). _Lit:_ "Grass-type." _Metaphor:_ That which promotes life and growth is good.
+**[[ga (particle)|ga]]** (Type) + **[[vivi (family of plants) (noun)|vivi]]** (Grass). _Lit:_ "Grass-type." _Metaphor:_ That which promotes life and growth is good.
 
 ### Synonyms
 x

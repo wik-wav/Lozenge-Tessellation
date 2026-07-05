@@ -47,7 +47,7 @@ Null
 - **[[xoxo (verb)|xoxo]]** (To depart/leave a location).
 
 ### Antonyms
-- **[[vanů (Spatial Verb)|vanů]]** (To enter / To be inside).
+- **[[vanů (verb)|vanů]]** (To enter / To be inside).
 
 ### Root Noun
 Null
@@ -56,4 +56,4 @@ Null
 - **pănůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from the Relational Prefix **[[pă- (Relational Locative Prefix)|pă-]]** (Outside) + **-n-** + **[[ů (verb)|ů]]**.
+Derived from the Relational Prefix **[[pă- (particle)|pă-]]** (Outside) + **-n-** + **[[ů (verb)|ů]]**.

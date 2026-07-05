@@ -37,7 +37,7 @@ _The bottom is towards the unknown._
 Null
 
 ### Etymology
-**[[pù- (Relational Locative Prefix)|pù]]** (Below) + **-w-** + **[[o (Proximal Locative Prefix)|o]]** (Here).
+**[[pù- (relational locative) (particle)|pù]]** (Below) + **-w-** + **[[o (proximal locative) (particle)|o]]** (Here).
 *Lit:* "The Below-Here."
 
 ### Synonyms

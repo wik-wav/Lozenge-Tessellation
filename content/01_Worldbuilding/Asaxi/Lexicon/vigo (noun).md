@@ -38,10 +38,10 @@ _The farmer plants seed. (lit. puts seed)_
 Null
 
 ### Etymology
-**[[vivi (noun) - as in family of plants|vivi]]** (grass) + **[[go (noun)|go]]** (rock) with haplological reduction (*vivigo* → *vigo*) — „the little stone of the grass”.
+**[[vivi (family of plants) (noun)|vivi]]** (grass) + **[[go (noun)|go]]** (rock) with haplological reduction (*vivigo* → *vigo*) — „the little stone of the grass”.
 
 ### Synonyms
-- [[vivi (noun) - as in family of plants|vivi]] (related: grass)
+- [[vivi (family of plants) (noun)|vivi]] (related: grass)
 
 ### Antonyms
 - [[go (noun)|go]] (the barren stone (poetic))

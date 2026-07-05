@@ -57,5 +57,5 @@ Null
 - **pjonůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[pjo (noun)|pjo]]** (Light/Lamp) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance/Use) + **-ů**.
+Derived from **[[pjo (noun)|pjo]]** (Light/Lamp) + **[[06A_-n- (particle)|-n-]]** (Performance/Use) + **-ů**.
 * *Logic:* "To use light" or "To function as a light source upon X."

@@ -42,7 +42,7 @@ This building appears huge.
 x
 
 ### Etymology
-[[mëjo (noun)|mëjo]] (Eye) + [[06A_-x- (Morphological Infix)|-x-]] (Interaction Mode) + [[ů (verb)|-ů]].
+[[mëjo (noun)|mëjo]] (Eye) + [[06A_-x- (particle)|-x-]] (Interaction Mode) + [[ů (verb)|-ů]].
 
 Logic: "To interact with the eye" or "To do-to-the-eye." Unlike [[ůjů (verb)|ůjů]] ("To look/seem" - internal semblance), *mëjoxů* implies an active visual projection or interaction with the observer's vision.
 

@@ -41,7 +41,7 @@ _Emaciation is caused by hunger._
 Null
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (Type) + **[[ihjo (noun)|ihjo]]** (Bone).
+**[[ga (particle)|ga]]** (Type) + **[[ihjo (noun)|ihjo]]** (Bone).
 *Fusion:* `ga` + `i` $\rightarrow$ **[[gă (noun)|gă]]**.
 *Lit:* "Bone-type."
 

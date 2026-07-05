@@ -40,7 +40,7 @@ _John is a muscleless person._ (He belongs to the category of those without musc
 Null
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (Type) + **[[fů (root word)|fů]]** (Lack) + **[[båbå (noun)|båbå]]** (Muscle).
+**[[ga (particle)|ga]]** (Type) + **[[fů (root word)|fů]]** (Lack) + **[[båbå (noun)|båbå]]** (Muscle).
 *Lit:* "Muscle-less-Constitution."
 
 ### Synonyms

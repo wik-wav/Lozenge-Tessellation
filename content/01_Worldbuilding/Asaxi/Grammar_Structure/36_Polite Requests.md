@@ -52,7 +52,7 @@ Asaxi distinguishes between **Orders** (Imperatives marked by `hè`) and **Reque
 
 **Function:** **High Polite Request / Instruction**. Used for formal instructions or authoritative directions. It is stronger than a request but softer than an order.
 
-- **Etymology:** **[[xă (Particle)|xă]]** (Indeed/Emphasis) + **[[kă (Particle)|kă]]**.
+- **Etymology:** **[[xă (particle)|xă]]** (Indeed/Emphasis) + **[[kă (particle)|kă]]**.
 - **Structure:** Can be used as a Prefix or Suffix.
 - **Suffixing:** `[Verb]-xăkă`.
 
@@ -66,7 +66,7 @@ Asaxi distinguishes between **Orders** (Imperatives marked by `hè`) and **Reque
 
 **Function:** **Polite Prohibition**. Used to tell someone not to do something while maintaining a polite or beseeching tone ("Please do not"). It contrasts with the strict prohibition `náxăhè` ("Must not").
 
-- **Etymology:** **[[ná (Particle)|ná]]** (Not) + **[[xă (Particle)|xă]]** (Emphasis) + **kă** (Please).
+- **Etymology:** **[[ná (particle)|ná]]** (Not) + **[[xă (particle)|xă]]** (Emphasis) + **kă** (Please).
 - **Literal:** "Emphatically-Not-Please."
 - **Structure:** `[Verb]-náxăkă`.
 

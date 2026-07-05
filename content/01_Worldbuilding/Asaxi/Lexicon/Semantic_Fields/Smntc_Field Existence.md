@@ -1,17 +1,20 @@
 ---
 title: Smntc_Field Existence
+aliases:
+  - Existence
 tags:
-  - semantic_field
-  - language
   - Asaxi
+  - language
+  - semantic_field
 ---
 # Existence Semantic Field
 
-This is a page with a list of all Asaxi words belonging to the [[02_Semantic Fields (Verbs)|semantic field]] of **Existence**.
+This is a page with a list of all [[The Asaxi Language|Asaxi]] words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **Existence**.
 
 Navigation:
 - [[The Asaxi Language|The Asaxi Language Index]]
-- [[index|Index - Homepage]]
+- [[index|Asaxi Wiki - Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
 
 - - -
 
@@ -23,8 +26,8 @@ Navigation:
 - [[txanů (verb)]] - to change, to morph, to alter, to shift (state)
 - [[txa (noun)]] - change, mutation, alteration, shift
 - [[vivinů (verb)]] - to live
-- [[xăxăŕa (Stative Verb)]] - "It would be (a fact)"
-- [[náxăxăŕa (Stative Verb)]] - "It would not be (a fact)"
+- [[xăxăŕa (verb)]] - "It would be (a fact)"
+- [[náxăxăŕa (verb)]] - "It would not be (a fact)"
 - [[ůků (verb)]] - to transform
 - [[ůŕů (verb)]] - to create
 - [[ůshů (verb)]] - to remove
@@ -36,7 +39,7 @@ Navigation:
 - [[xăcèno (noun)]] - truth, fact
 - [[ijoŕoshá (noun)]] - everyman, the common creature, ordinary folk
 - [[fri (verb)]] - to set free, to liberate, to release, to unleash
-- [[vivi (noun) - as in life]] - life, existence (biological), grass (concrete)
+- [[vivi (life) (noun)]] - life, existence (biological), grass (concrete)
 - [[wëè (verb)]] - to require, to need
 - [[ůŕů (verb)]] - to produce, yield, emit, give off
 - [[banů (verb)]] - to be beside, be next to

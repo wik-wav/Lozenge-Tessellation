@@ -38,7 +38,7 @@ _Health to you! (a toast)_
 Null
 
 ### Etymology
-**[[vivi (noun) - as in life|vivi]]** (life) + **[[gavi (noun)|gavi]]** (goodness), with **haplological reduction** of the repeated mora (*vivigavi* → *vigavi*; see [[22_Phonotactics & Euphony]]).
+**[[vivi (life) (noun)|vivi]]** (life) + **[[gavi (noun)|gavi]]** (goodness), with **haplological reduction** of the repeated mora (*vivigavi* → *vigavi*; see [[22_Phonotactics & Euphony]]).
 
 ### Synonyms
 - **fůjami** (absence-of-illness) *(potential)*

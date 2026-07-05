@@ -59,5 +59,5 @@ Null
 - **ỏbỏnůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[ỏbỏ (noun)|ỏbỏ]]** (Cushion) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance/Function) + **-ů**.
+Derived from **[[ỏbỏ (noun)|ỏbỏ]]** (Cushion) + **[[06A_-n- (particle)|-n-]]** (Performance/Function) + **-ů**.
 * *Logic:* "To use a cushion" / "To function as a cushion."

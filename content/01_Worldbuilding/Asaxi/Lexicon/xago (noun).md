@@ -38,7 +38,7 @@ _Snow is on the peak._
 Null
 
 ### Etymology
-[[xa- (Relational Locative Prefix)|xa-]] (above) + [[go (noun)|go]] (rock). *Lit:* "high-rock."
+[[xa- (relational locative) (particle)|xa-]] (above) + [[go (noun)|go]] (rock). *Lit:* "high-rock."
 
 ### Synonyms
 Null

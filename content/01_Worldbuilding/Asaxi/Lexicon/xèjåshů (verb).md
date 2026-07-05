@@ -56,7 +56,7 @@ Null
 Null
 
 ### Grammatical Note
-Derived from the concept noun **[[xèjå (verb)|xèjå]]** (An attempt/Try) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative) + **-ů**.
+Derived from the concept noun **[[xèjå (verb)|xèjå]]** (An attempt/Try) + **[[06A_-sh- (particle)|-sh-]]** (Privative) + **-ů**.
 * *Lit:* "To strip the attempt." / "To de-try."
 
 ### Usage Note

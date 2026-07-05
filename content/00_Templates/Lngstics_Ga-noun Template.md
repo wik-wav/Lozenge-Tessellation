@@ -41,7 +41,7 @@ x
 
 ### Etymology
 
-[[ga (Fusing Particle)|ga]] + x
+[[ga (particle)|ga]] + x
 
 ### Synonyms
 

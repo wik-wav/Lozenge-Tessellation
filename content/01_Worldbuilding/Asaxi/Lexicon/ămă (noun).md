@@ -35,7 +35,7 @@ Null
 Null
 
 ### Etymology
-**[[ă (Relational Particle)|ă]]** (Subjective/Internal) + **[[mă (Particle)|-mă]]** (Every/Instance).
+**[[ă (particle)|ă]]** (Subjective/Internal) + **[[mă (particle)|-mă]]** (Every/Instance).
 *Logic:* "Every subjective instance." The moments that align with the self.
 
 ### Synonyms
@@ -45,7 +45,7 @@ Null
 Null
 
 ### Derived terms
-- **[[ămăni (Particle)|ămăni]]** (At your leisure / Towards the right time).
+- **[[ămăni (particle)|ămăni]]** (At your leisure / Towards the right time).
 
 ### Usage Note
 

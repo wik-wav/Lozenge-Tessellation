@@ -42,7 +42,7 @@ A fusion of the compound particle **måni** (Until - from `måmåni`) + **-x-** 
 
 ### Synonyms
 
-- **[[måmå (Relational Particle)]]** (Until - simple preposition).
+- **[[måmå (particle)]]** (Until - simple preposition).
 
 ### Antonyms
 
@@ -50,5 +50,5 @@ A fusion of the compound particle **måni** (Until - from `måmåni`) + **-x-** 
 
 ### Derived terms
 
-- [[måmå (Relational Particle)|måmå]] - until (base)
-- [[måmåni (Relational Particle Compound)|måmåni]] - (kin compound)
+- [[måmå (particle)|måmå]] - until (base)
+- [[måmåni (particle)|måmåni]] - (kin compound)

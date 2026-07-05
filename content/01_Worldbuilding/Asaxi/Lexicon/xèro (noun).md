@@ -36,7 +36,7 @@ Null
 Null
 
 ### Etymology
-**[[xè- (Conative Prefix)|xè]]** (Exertion/Try) + **[[ro (noun)|ro]]** (Iron).
+**[[xè- (particle)|xè]]** (Exertion/Try) + **[[ro (noun)|ro]]** (Iron).
 *Lit:* "Effort-Iron."
 
 ### Synonyms

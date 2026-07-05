@@ -1,5 +1,5 @@
 ---
-title: ximă (Particle) - "Daily", "Every day"
+title: ximă (particle) - "Daily", "Every day"
 Word (Asaxi): ximă
 trnsltion. En: daily, every day
 tags:
@@ -31,7 +31,7 @@ IPA: /ɦima/
 _I lift at the gym every day._
 
 ### Etymology
-**[[xi (noun)|xi]]** (Sun/Day) + **[[mă (Particle)|-mă]]** (Every).
+**[[xi (noun)|xi]]** (Sun/Day) + **[[mă (particle)|-mă]]** (Every).
 *Lit:* "Every-Day."
 
 ### Synonyms
@@ -40,4 +40,4 @@ x
 ### Derived terms
 
 - [[xi (noun)|xi]] - sun, day (base noun)
-- **mă**-family: [[txămă (Particle)|txămă]], [[åmă (Particle)|åmă]], [[gămă (particle)|gămă]]
+- **mă**-family: [[txămă (particle)|txămă]], [[åmă (particle)|åmă]], [[gămă (particle)|gămă]]

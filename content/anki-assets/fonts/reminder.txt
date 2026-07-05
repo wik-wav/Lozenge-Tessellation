@@ -1,5 +1,1 @@
-font names have to be:
-AsaxiAbugida.ttf
-AsaxiAlpha.ttf
-
-put in this folder
+Ask about where the updates to the quartz site actually live - what did it edit to make it like this?

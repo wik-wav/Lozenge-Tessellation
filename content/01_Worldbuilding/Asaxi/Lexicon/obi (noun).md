@@ -38,10 +38,10 @@ _"The market is near." (lit. The market is [in] nearness.)_
 Null
 
 ### Etymology
-**o-** (Proximal, [[o (Proximal Locative Prefix)]]) + **[[bi (noun)|bi]]** (line, boundary) — "this side of the line."
+**o-** (Proximal, [[o (proximal locative) (particle)]]) + **[[bi (noun)|bi]]** (line, boundary) — "this side of the line."
 
 ### Synonyms
-- [[o-gă (Compound Locative Noun)|o-gă]] (here, this place — related)
+- [[o-gă (noun)|o-gă]] (here, this place — related)
 
 ### Antonyms
 - [[kobi (noun)|kobi]] (farness)

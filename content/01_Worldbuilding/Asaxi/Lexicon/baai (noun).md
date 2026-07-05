@@ -38,7 +38,7 @@ _"Walk to the right, then straight."_
 Null
 
 ### Etymology
-**ba-** (flank, beside; [[ba- (Relational Locative Prefix)]]) + **[[ai (noun)|ai]]** (pain, sorrow) — "the pain-flank."
+**ba-** (flank, beside; [[ba- (particle)]]) + **[[ai (noun)|ai]]** (pain, sorrow) — "the pain-flank."
 
 ### Synonyms
 - [[ai (noun)|ai]] (related: pain)

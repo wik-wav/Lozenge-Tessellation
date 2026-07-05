@@ -57,5 +57,5 @@ Null
 Null
 
 ### Grammatical Note
-Derived from **[[iŕo (noun)|iŕo]]** (Colour) + **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** (Generative Mode) + **-ů**.
+Derived from **[[iŕo (noun)|iŕo]]** (Colour) + **[[06A_-ŕ- (particle)|-ŕ-]]** (Generative Mode) + **-ů**.
 * *Lit:* "To generate colour."

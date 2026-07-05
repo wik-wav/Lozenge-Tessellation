@@ -38,7 +38,7 @@ _I hear the war cry._
 Null
 
 ### Etymology
-**[[ăja (verb)|ăja]]** (Shout) + **[[wa (Pronoun)|wa]]** (We/Us).
+**[[ăja (verb)|ăja]]** (Shout) + **[[wa (particle)|wa]]** (We/Us).
 *Lit:* "The Shout of Us" or "The Collective Shout."
 
 ### Synonyms

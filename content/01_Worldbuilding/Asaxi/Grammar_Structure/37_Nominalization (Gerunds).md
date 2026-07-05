@@ -13,7 +13,7 @@ Navigation:
 
 ## Grammatical Concept: Turning Verbs into Nouns
 
-Asaxi allows a verb to function as a noun (a Gerund or Abstract Noun) by tagging it with the **Indefinite Determiner [[anő (Determiner)|anő]]**.
+Asaxi allows a verb to function as a noun (a Gerund or Abstract Noun) by tagging it with the **Indefinite Determiner [[anő (particle)|anő]]**.
 
 This structure treats the action as an "Instance of X" or "The concept of X."
 
@@ -34,7 +34,7 @@ To nominalize a verb, place **anő** immediately before it.
 
 ### 2. Specificity (The "The" Equivalent)
 
-Since you cannot use `onýj` to make a gerund specific ("The reading"), you must use the **Proximal Prefix [[o (Proximal Locative Prefix)|o-]]** attached to the verb itself.
+Since you cannot use `onýj` to make a gerund specific ("The reading"), you must use the **Proximal Prefix [[o (proximal locative) (particle)|o-]]** attached to the verb itself.
 
 - **Structure:** `anő` + `o-[Verb]`
 - **Meaning:** "This specific instance of \[Verbing\]."
@@ -47,7 +47,7 @@ Since you cannot use `onýj` to make a gerund specific ("The reading"), you must
 
 ### 3. Temporal Attribution (Genitive Source)
 
-To describe an action as belonging to a specific time (e.g., "Yesterday's reading"), use the **Genitive Particle [[sè (Relational Particle)|sè]]**.
+To describe an action as belonging to a specific time (e.g., "Yesterday's reading"), use the **Genitive Particle [[sè (particle)|sè]]**.
 
 - **Logic:** "The reading **of** yesterday."
 - **Structure:** `[sè Time]` + `[anő Verb]`

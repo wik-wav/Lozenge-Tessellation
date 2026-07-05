@@ -45,7 +45,7 @@ Null
 Null
 
 ### Etymology
-**[[xoxo (verb)|xo]]** (Move) + **[[na- (Relational Locative Prefix)|na]]** (Up/Top).
+**[[xoxo (verb)|xo]]** (Move) + **[[na- (relational locative) (particle)|na]]** (Up/Top).
 *Lit:* "Move-Up."
 
 ### Synonyms

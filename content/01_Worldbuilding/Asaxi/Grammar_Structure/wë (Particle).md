@@ -1,5 +1,5 @@
 ---
-title: wë (Particle) - Need
+title: wë (particle) - Need
 Word (Asaxi): wë
 trnsltion. En: Need
 tags:

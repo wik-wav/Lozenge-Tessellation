@@ -55,8 +55,8 @@ x
 - **fůma** (to have without its essence (privative)) *(potential)*
 
 ### Derived terms
-- [[mao (noun) - as in night-time|mao]] - night-time
-- [[mao (noun) - as in satellite planet|mao]] - moon
+- [[mao (night-time) (noun)|mao]] - night-time
+- [[mao (satellite planet) (noun)|mao]] - moon
 - [[kma (verb)|kma]] - to hold
 - [[maka (noun)|maka]] - container
 - [[omao (noun)|omao]] - tonight

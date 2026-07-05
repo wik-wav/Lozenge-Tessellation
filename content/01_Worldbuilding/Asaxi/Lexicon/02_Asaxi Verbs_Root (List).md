@@ -2,22 +2,22 @@
 title: 02_Asaxi Verbs_Root (List)
 aliases:
   - root verbs
+  - root verb
 tags:
   - Asaxi
   - language
   - semantic_field
 ---
-# Root Verbs
+# Asaxi Verbs_Root (List)
 
-Navigation:
-- [[The Asaxi Language|The Asaxi Language Index]]
-- [[index|Index - Homepage]]
- 
-- - - 
+This is a list of all [[The Asaxi Language|Asaxi]] root verbs with the first meaning translation in English.
 
 Root verbs are verbs not derived from nouns, and as such they don't have the `ů` active verb ending, while still acting as verbs. Because they are not derived from physical objects, they often describe **Achievements**: instantaneous changes of state that have no duration.
 
-This is a list of all [[The Asaxi Language|Asaxi]] root verbs and their meanings.
+Navigation:
+- [[The Asaxi Language|The Asaxi Language Index]]
+- [[index|Asaxi Wiki - Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
 
 - - -
 
@@ -89,6 +89,7 @@ This is a list of all [[The Asaxi Language|Asaxi]] root verbs and their meanings
 - [[gùmë (verb)]] - to grab, to seize, to snatch
 - [[hacù (verb)]] - to sneeze
 - [[haśù (verb)]] - to run
+- [[hùfwoŕa (verb)]] - is uncertain, is possible
 - [[ijcè (verb)]] - to recognise
 - [[ijo (verb)]] - see, watch
 - [[ijoŕima (verb)]] - to examine, to study closely
@@ -140,11 +141,13 @@ This is a list of all [[The Asaxi Language|Asaxi]] root verbs and their meanings
 - [[năjù (verb)]] - to answer, to reply
 - [[naŕo (verb)]] - to multiply, to mix, to combine, to compound
 - [[nása (verb)]] - to refuse, to deny
+- [[náxăxăŕa (verb)]] - It would not be (a fact)
 - [[ŋawa (verb)]] - to crawl
 - [[ŋùpù (verb)]] - to swallow, to gulp
 - [[nicè (verb)]] - to learn, to study
 - [[nihèka (verb)]] - to begin, to start
 - [[nikxa (verb)]] - to betray, to turn on
+- [[niŕa (verb)]] - '"To become", "To turn into", "To lead to", "To be destined for".'
 - [[niŕo (verb)]] - to immerse, to submerge, to dip, to dive into
 - [[niŕù (verb)]] - to become, to turn into
 - [[nùnù (verb)]] - to sleep, to slumber
@@ -197,11 +200,15 @@ This is a list of all [[The Asaxi Language|Asaxi]] root verbs and their meanings
 - [[tëŕù (verb)]] - to stretch (the body)
 - [[tètájù (verb)]] - to blame, to scold
 - [[tètáka (verb)]] - to fight
+- [[tohùfwo (verb)]] - I doubt that
 - [[toko (verb)]] - to knock, to rap
 - [[tỏma (verb)]] - to receive, to obtain, to get
 - [[tomo' (verb)]] - stop, cease, end, quit
+- [[tonåjů (verb)]] - I predict that
 - [[topù (verb)]] - to put, to place
+- [[toůchů (verb)]] - it seems
 - [[tỏva (verb)]] - to accept, to consent
+- [[toxăhè (verb)]] - I am certain that
 - [[txa (verb)]] - to morph, to change state, to transmute
 - [[txo (verb)]] - to throw, to cast, to hurl
 - [[ůŕů (verb)]] - to produce, yield, emit, give off
@@ -221,6 +228,7 @@ This is a list of all [[The Asaxi Language|Asaxi]] root verbs and their meanings
 - [[xaka (verb)]] - to hang, to suspend
 - [[xapo (verb)]] - to lift, to raise
 - [[xăpù (verb)]] - to yawn
+- [[xăxăŕa (verb)]] - It would be (a fact)
 - [[xè (verb)]] - to toil, labour, exert oneself
 - [[xèjå (verb)]] - try, attempt
 - [[xèva (verb)]] - to serve, to attend

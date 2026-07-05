@@ -111,7 +111,7 @@ Asaxi syntax allows for high-density information within the argument slots by us
 
 When a verb implies both a beneficiary (Dative) and physical movement (Allative)—such as "giving," "handing," or "passing"—the particles fuse into a single block.
 
-- **Components:** **[[då (Relational Particle)|då]]** (Recipient) + **[[ni (Relational Particle)|ni]]** (Direction).
+- **Components:** **[[då (particle)|då]]** (Recipient) + **[[ni (particle)|ni]]** (Direction).
 - **Fusion:** **dåni**.
 - **Meaning:** "To" (in the sense of transferring possession _towards_ someone).
 - **Usage:** Preferred over simple `då` when the object physically moves from A to B.
@@ -153,8 +153,8 @@ Asaxi allows specific quantifiers and aspectual particles to "float" within the 
 ### The Distributive Quantifiers
 
 - **[[ojano (particle)|ojano]]** (Individually / Apiece)
-- **[[jonojo (Particle)|jonojo]]** (One by one / Sequential)
-- **[[okonoko (Particle)|okonoko]]** (Here and there / Spatial)
+- **[[jonojo (particle)|jonojo]]** (One by one / Sequential)
+- **[[okonoko (particle)|okonoko]]** (Here and there / Spatial)
 
 ### Scope Rules
 

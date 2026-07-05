@@ -1,6 +1,6 @@
 ---
 freq: 67
-title: zè (Noun) - the past
+title: zè (noun) - the past
 Word (Asaxi): zè
 trnsltion. En: the past
 trnsltion. Pl: przeszłość
@@ -39,7 +39,7 @@ _He lives in the past._
 Null
 
 ### Etymology
-Nominalization of the **[[zè (Tense Prefix)|zè-]]** (Past Tense Prefix).
+Nominalization of the **[[zè (particle)|zè-]]** (Past Tense Prefix).
 
 ### Synonyms
 Null

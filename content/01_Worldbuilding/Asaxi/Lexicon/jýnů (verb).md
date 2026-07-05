@@ -58,4 +58,4 @@ Null
 - [[cőtájýnů (verb)|cőtájýnů]] - to argue
 
 ### Grammatical Note
-Derived from **[[jýn (noun)|jýn]]** (Chat/Talk) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+Derived from **[[jýn (noun)|jýn]]** (Chat/Talk) + **[[06A_-n- (particle)|-n-]]** (Performance) + **-ů**.

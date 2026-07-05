@@ -32,9 +32,9 @@ IPA: /kozəfkozə/
 
 ### Etymology
 
-**[[kozè (Noun)|kozè]]** (Distant Past) + **[[va- (Relational Locative Prefix)|v(a)-]]** (In) + **kozè**.
+**[[kozè (noun)|kozè]]** (Distant Past) + **[[va- (particle)|v(a)-]]** (In) + **kozè**.
 *Lit:* "In the distant past of the distant past."
 
 ### Synonyms
 
-- **[[kozè (Noun)|vkozè]]** (In the distant past - standard).
+- **[[kozè (noun)|vkozè]]** (In the distant past - standard).

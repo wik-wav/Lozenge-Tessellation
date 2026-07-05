@@ -38,7 +38,7 @@ _The quill is small._
 Null
 
 ### Etymology
-Irregular clipping of **[[kiŕo (noun)|kiŕo]]** (knife) + **[[hjá (noun) - as in child|hjá]]** (child) — „the knife's child”. Primarily the animal quill; secondarily any needle.
+Irregular clipping of **[[kiŕo (noun)|kiŕo]]** (knife) + **[[hjá (child) (noun)|hjá]]** (child) — „the knife's child”. Primarily the animal quill; secondarily any needle.
 
 ### Synonyms
 - [[kiŕo (noun)|kiŕo]] (related: knife)

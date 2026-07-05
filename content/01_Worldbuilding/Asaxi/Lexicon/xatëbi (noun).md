@@ -36,7 +36,7 @@ Null
 Null
 
 ### Etymology
-**[[xa- (Relational Locative Prefix)|xa]]** (Above) + **[[tëbi (noun)|tëbi]]** (Arm).
+**[[xa- (relational locative) (particle)|xa]]** (Above) + **[[tëbi (noun)|tëbi]]** (Arm).
 *Lit:* "Upper-Arm."
 
 ### Synonyms

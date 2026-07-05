@@ -50,7 +50,7 @@ Null
 
 ### Synonyms
 - [[ăja (verb)|ăja]] (to call out)
-- [[xădăchỏxă (Particle)|xădăchỏxă]] (related: 'please god')
+- [[xădăchỏxă (particle)|xădăchỏxă]] (related: 'please god')
 
 ### Antonyms
 - [[jýn (noun)|jýn]] (related-opposite: idle talk)

@@ -48,7 +48,7 @@ Null
 Null
 
 ### Antonyms
-- **[[naŕo (Mathematical Operator)]]** (To mix / combine / multiply).
+- **[[naŕo (particle)]]** (To mix / combine / multiply).
 
 ### Root Noun
 Null
@@ -57,7 +57,7 @@ Null
 - **pùŕonůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[pùŕo (Mathematical Operator)|pùŕo]]** (Division) + **-n-** + **-ů**.
+Derived from **[[pùŕo (particle)|pùŕo]]** (Division) + **-n-** + **-ů**.
 * *Logic:* "To perform division."
 
 ### Usage Note

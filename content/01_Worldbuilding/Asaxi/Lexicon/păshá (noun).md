@@ -44,15 +44,15 @@ _I am good to others._
 x
 
 ### Etymology
-**[[pă- (Relational Locative Prefix)|pă-]]** (Outside) + **[[shá (noun)|shá]]** (Person).
+**[[pă- (particle)|pă-]]** (Outside) + **[[shá (noun)|shá]]** (Person).
 *Lit:* "Outside-Person."
 
 ### Synonyms
 - x
 
 ### Antonyms
-- **[[wo (Pronoun)|wo]]** (I / Self).
-- **[[wa (Pronoun)|wa]]** (We / Us).
+- **[[wo (particle)|wo]]** (I / Self).
+- **[[wa (particle)|wa]]** (We / Us).
 
 ### Derived terms
 - **păshánă** (Different / Alien / Other-like).

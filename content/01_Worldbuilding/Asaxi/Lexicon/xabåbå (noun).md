@@ -37,7 +37,7 @@ _John has huge pecs._
 Null
 
 ### Etymology
-**[[xa- (Relational Locative Prefix)|xa]]** (Above) + **[[båbå (noun)|båbå]]** (Muscle).
+**[[xa- (relational locative) (particle)|xa]]** (Above) + **[[båbå (noun)|båbå]]** (Muscle).
 *Lit:* "The muscles above (the center)."
 
 ### Synonyms

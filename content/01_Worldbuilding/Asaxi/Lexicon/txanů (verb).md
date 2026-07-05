@@ -42,13 +42,13 @@ I am changing.
 x
 
 ### Etymology
-[[txa (noun)|txa]] (Change) + [[06A_-n- (Morphological Infix)|-n-]] (Performance) + [[ů (verb)]].
+[[txa (noun)|txa]] (Change) + [[06A_-n- (particle)|-n-]] (Performance) + [[ů (verb)]].
 
 ### Synonyms
 - **[[ůků (verb)|ůků]]** (To transform / Turn into).
 
 ### Antonyms
-- **[[onå (FOREVER Aspectual Marker)]]** (To be always/static).
+- **[[onå (particle)]]** (To be always/static).
 
 ### Root Noun
 - [[txa (noun)|txa]]

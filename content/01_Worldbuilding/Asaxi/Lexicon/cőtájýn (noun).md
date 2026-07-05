@@ -39,7 +39,7 @@ _The argument was huge._
 Null
 
 ### Etymology
-**[[cő (verb)|cő]]** (Understand) + **[[tá (Root Word)|tá]]** (Clash) + **[[jýn (noun)|jýn]]** (Chat).
+**[[cő (verb)|cő]]** (Understand) + **[[tá (root word)|tá]]** (Clash) + **[[jýn (noun)|jýn]]** (Chat).
 *Lit:* "Understanding-Clash-Chat." (A conversation where understandings collide).
 
 ### Synonyms

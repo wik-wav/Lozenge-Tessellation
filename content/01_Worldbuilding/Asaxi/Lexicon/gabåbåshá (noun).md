@@ -40,7 +40,7 @@ _The muscle-creature lifts._
 Null
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (Type) + **[[båbå (noun)|båbå]]** (Muscle) + **[[shá (noun)|shá]]** (Person/Creature).
+**[[ga (particle)|ga]]** (Type) + **[[båbå (noun)|båbå]]** (Muscle) + **[[shá (noun)|shá]]** (Person/Creature).
 *Lit:* "Muscle-type-creature."
 
 ### Synonyms

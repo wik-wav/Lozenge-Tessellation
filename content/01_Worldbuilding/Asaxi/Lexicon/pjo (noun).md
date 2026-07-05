@@ -38,7 +38,7 @@ _The light is bright._
 x
 
 ### Etymology
-Front **[[pa- (Relational Locative Prefix)]]** + **[[hjo (noun)|hjo]]** (Star).
+Front **[[pa- (particle)]]** + **[[hjo (noun)|hjo]]** (Star).
 
 ### Synonyms
 x

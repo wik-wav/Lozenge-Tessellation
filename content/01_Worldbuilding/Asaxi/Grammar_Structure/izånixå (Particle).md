@@ -1,5 +1,5 @@
 ---
-title: izånixå (Particle) - From time to time
+title: izånixå (particle) - From time to time
 Word (Asaxi): izånixå
 trnsltion. En: From time to time
 tags:
@@ -36,18 +36,18 @@ _Tom reads every now and again._
 
 ### Etymology
 
-A fusion of **[[izo (Relational Particle)|izo]]** (From) + **[[å (noun)|å]]** (Time) + **[[nixå (Relational Particle Compound)|nixå]]** (Into-Time/Duration).
+A fusion of **[[izo (particle)|izo]]** (From) + **[[å (noun)|å]]** (Time) + **[[nixå (particle)|nixå]]** (Into-Time/Duration).
 *Lit:* "From-Time-Into-Time."
 
 ### Synonyms
 
-- **[[gănå (SOMETIME Aspectual Marker)]]** (Sometime / Occasionally).
+- **[[gănå (particle)]]** (Sometime / Occasionally).
 
 ### Antonyms
 
-- **[[ximă (Particle)|ximă]]** (Daily / Consistently).
-- **[[onå (FOREVER Aspectual Marker)|onå]]** (Always).
+- **[[ximă (particle)|ximă]]** (Daily / Consistently).
+- **[[onå (particle)|onå]]** (Always).
 
 ### Derived terms
 
-- [[gănå (SOMETIME Aspectual Marker)|gănå]] - sometime (related)
+- [[gănå (particle)|gănå]] - sometime (related)

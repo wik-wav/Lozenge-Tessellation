@@ -56,7 +56,7 @@ Null
 - **sivëshůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[sivëshá (noun)|sivë]]** (Civet/Pride) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative Mode) + **-ů**.
+Derived from **[[sivëshá (noun)|sivë]]** (Civet/Pride) + **[[06A_-sh- (particle)|-sh-]]** (Privative Mode) + **-ů**.
 * *Logic:* "To strip the civet (pride)." To remove confidence.
 
 ### Usage Note

@@ -46,7 +46,7 @@ _This person is alright._
 Null
 
 ### Etymology
-**[[vi (Particle)|vi]]** (OK) + **-nă**.
+**[[vi (particle)|vi]]** (OK) + **-nă**.
 
 ### Synonyms
 - **gavină** (Good).

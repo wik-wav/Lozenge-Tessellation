@@ -43,7 +43,7 @@ I am aging.
 x
 
 ### Etymology
-[[txă (noun)|txă]] (Year) + [[06A_-n- (Morphological Infix)|-n-]] (Performance/Function) + [[ů (verb)|-ů]].
+[[txă (noun)|txă]] (Year) + [[06A_-n- (particle)|-n-]] (Performance/Function) + [[ů (verb)|-ů]].
 
 Logic: "To perform years" or "To do the year."
 

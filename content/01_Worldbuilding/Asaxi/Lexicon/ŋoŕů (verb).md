@@ -57,5 +57,5 @@ Null
 Null
 
 ### Grammatical Note
-Derived from **[[ŋo (Unit Noun)|ŋo]]** (Weight) + **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** (Generative Mode) + **-ů**.
+Derived from **[[ŋo (noun)|ŋo]]** (Weight) + **[[06A_-ŕ- (particle)|-ŕ-]]** (Generative Mode) + **-ů**.
 * *Lit:* "To generate weight (upon)."

@@ -50,7 +50,7 @@ _"It feels like I emerge from a dream."_
 - **păŕoŕo** (Full compound: `pă` + `ŕoŕo`). Used for emphasis or poetic rhythm.
 
 ### Etymology
-**[[pă- (Relational Locative Prefix)|pă]]** (Outside) + **[[ŕoŕo (noun)|ŕo(ŕo)]]** (Water).
+**[[pă- (particle)|pă]]** (Outside) + **[[ŕoŕo (noun)|ŕo(ŕo)]]** (Water).
 *Lit:* "Out-water."
 
 ### Synonyms

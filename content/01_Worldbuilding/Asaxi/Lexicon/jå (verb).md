@@ -55,7 +55,7 @@ Null
 Null
 
 ### Derived terms
-- **[[jå- (Desiderative Prefix)|jå-]]** (Desiderative Prefix: "Want to...").
+- **[[jå- (particle)|jå-]]** (Desiderative Prefix: "Want to...").
 - **[[xèjå (verb)|xèjå (verb)]]** (To try).
 - [[fůjå (noun)|fůjå]] - wantlessness, contentment, freedom from desire, satisfaction
 - [[fůjåshá (noun)|fůjåshá]] - a content creature, a wantless person, a sage

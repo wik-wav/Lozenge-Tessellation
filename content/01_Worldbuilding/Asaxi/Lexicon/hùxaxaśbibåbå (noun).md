@@ -36,7 +36,7 @@ Null
 Null
 
 ### Etymology
-**[[hù- (Relational Locative Prefix)|hù]]** (Behind) + **[[xaxaśbi (noun)|xaxaśbi]]** (Thigh) + **[[båbå (noun)|båbå]]** (Muscle).
+**[[hù- (relational locative) (particle)|hù]]** (Behind) + **[[xaxaśbi (noun)|xaxaśbi]]** (Thigh) + **[[båbå (noun)|båbå]]** (Muscle).
 *Lit:* "Behind-Thigh-Muscle."
 
 ### Synonyms

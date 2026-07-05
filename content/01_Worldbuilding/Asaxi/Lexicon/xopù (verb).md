@@ -47,7 +47,7 @@ _I lower the blinds._
 Null
 
 ### Etymology
-**xo** (Move) + **[[pù- (Relational Locative Prefix)|pù]]** (Down).
+**xo** (Move) + **[[pù- (relational locative) (particle)|pù]]** (Down).
 
 ### Synonyms
 Null

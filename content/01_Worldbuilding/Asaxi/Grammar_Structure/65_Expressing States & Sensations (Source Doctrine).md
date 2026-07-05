@@ -22,7 +22,7 @@ English says *I am thirsty, I am cold, I am sick* — one copula for everything.
 
 ## 1. Endogenous States — `-ŕ-` (Generative)
 
-The body **produces** the state. Bridge: **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** (Generative, "create").
+The body **produces** the state. Bridge: **[[06A_-ŕ- (particle)|-ŕ-]]** (Generative, "create").
 
 | Verb | Literal | Meaning |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ The body **produces** the state. Bridge: **[[06A_-ŕ- (Morphological Infix)|-ŕ-
 
 ## 2. Exogenous Impressions — `-ch-` (Subjective)
 
-The world **imposes** the state; you register it. Bridge: **[[06A_-ch- (Morphological Infix)|-ch-]]** (Subjective, "feel like" — cf. *toůchů*).
+The world **imposes** the state; you register it. Bridge: **[[06A_-ch- (particle)|-ch-]]** (Subjective, "feel like" — cf. *toůchů*).
 
 | Verb | Literal | Meaning |
 | --- | --- | --- |

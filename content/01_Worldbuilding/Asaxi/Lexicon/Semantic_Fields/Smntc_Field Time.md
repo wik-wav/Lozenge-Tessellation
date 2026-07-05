@@ -1,27 +1,30 @@
 ---
 title: Smntc_Field Time
+aliases:
+  - Time
 tags:
-  - semantic_field
-  - language
   - Asaxi
+  - language
+  - semantic_field
 ---
 # Time Semantic Field
 
-This is a page with a list of all Asaxi words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **time**.
+This is a page with a list of all [[The Asaxi Language|Asaxi]] words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **Time**.
 
 Navigation:
 - [[The Asaxi Language|The Asaxi Language Index]]
-- [[index|Index - Homepage]]
+- [[index|Asaxi Wiki - Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
 
 - - -
 
-- [[mao (noun) - as in night-time]]
+- [[mao (night-time) (noun)]]
 - [[txa (noun)]] - change, mutation, alteration, shift
 - [[damtxă (noun)]] - decade
 - [[pxă (noun)]] - month
 - [[txănů (verb)]] - to age, to grow older, to pass a year
 - [[vănýj (adjective)]] - slow, sluggish, gradual, unhurried
-- [[mao (noun) - as in satellite planet]], the moon
+- [[mao (satellite planet) (noun)]], the moon
 - [[å (noun)]] - time
 - [[åkamm (noun)]] - moment, specific time
 - [[ågă (noun)]] - sometime
@@ -30,18 +33,18 @@ Navigation:
 - [[pwo (noun)]] - tomorrow
 - [[xi (noun)]] - day
 - [[ỏwo (noun)]] - noon
-- [[zè (Noun)]] - the past
-- [[pa (Noun)]] - the future
-- [[kozè (Noun)]] - antiquity, ancient past, long ago, the distant past
-- [[kopa (Noun)]] - the distant future
-- [[ozè (Tense Prefix)]] - just now
-- [[opa (Noun)]] - the immediate future
-- [[vazè (Temporal Noun)]] - in the past
-- [[nipa (Temporal Noun)]] - in the future
-- [[vozè (Temporal Noun)]] - in the immediate past
-- [[ńopa (Temporal Noun)]] - in the immediate future
-- [[vkozè (Temporal Noun)]] - in the distant past
-- [[nikpa (Temporal Noun)]] - in the distant future
+- [[zè (noun)]] - the past
+- [[pa (noun)]] - the future
+- [[kozè (noun)]] - antiquity, ancient past, long ago, the distant past
+- [[kopa (noun)]] - the distant future
+- [[ozè (particle)]] - just now
+- [[opa (noun)]] - the immediate future
+- [[vazè (noun)]] - in the past
+- [[nipa (noun)]] - in the future
+- [[vozè (noun)]] - in the immediate past
+- [[ńopa (noun)]] - in the immediate future
+- [[vkozè (noun)]] - in the distant past
+- [[nikpa (noun)]] - in the distant future
 - [[ănå (verb)]] - to wait
 - [[ănåno (noun)]] - a wait
 - [[oo (noun)]] - today

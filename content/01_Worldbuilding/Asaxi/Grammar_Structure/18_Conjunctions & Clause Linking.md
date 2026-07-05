@@ -23,9 +23,9 @@ These particles establish the logical relationship between two statements.
 
 | Particle                                        | Meaning       | Logic        | Example        |
 | ----------------------------------------------- | ------------- | ------------ | -------------- |
-| **[[dzè (BUT Logical Clause Connector)\|dzè]]** | But / However | Contrast     | `[A] dzè, [B]` |
-| **[[si (OR Logical Clause Connector)\|si]]**    | Or            | Alternative  | `[A] si, [B]`  |
-| **[[ŕa (AND Logical Clause Connector)\|ŕa]]**   | And (Clauses) | Coordination | `[A] ŕa, [B]`  |
+| **[[dzè (particle)\|dzè]]** | But / However | Contrast     | `[A] dzè, [B]` |
+| **[[si (particle)\|si]]**    | Or            | Alternative  | `[A] si, [B]`  |
+| **[[ŕa (particle)\|ŕa]]**   | And (Clauses) | Coordination | `[A] ŕa, [B]`  |
 
 **Example (Contrast):**
 
@@ -36,8 +36,8 @@ These particles establish the logical relationship between two statements.
 
 Causality involves a dynamic pair of particles. While Asaxi prefers Head-Final syntax, `sèwo` allows for a specific front-loaded exception.
 
-- **[[sèwo (BECAUSE Logical Clause Connector)|sèwo]]** (Because/Since): `sè` (From) + `o-` (Here/This).
-- **[[ninå (THEREFORE Logical Clause Connector)|ninå]]** (Therefore/Result): `ni` (To) + `nå` (Now).
+- **[[sèwo (particle)|sèwo]]** (Because/Since): `sè` (From) + `o-` (Here/This).
+- **[[ninå (particle)|ninå]]** (Therefore/Result): `ni` (To) + `nå` (Now).
 
 #### Usage Rules
 
@@ -55,7 +55,7 @@ Causality involves a dynamic pair of particles. While Asaxi prefers Head-Final s
 
 > **Sèwo topo toponů, ninå wo shěsonů.** `SINCE` `rain` `raining` `THEREFORE` `1SG` `read` _"Since it is raining, therefore I read."_
 
-**C. The Mid-Sentence Fusion (`sèni`)** If `sèwo` (end of Clause A) meets `ninå` (start of Clause B), they fuse into **[[sèni (SO Logical Clause Connector)|sèni]]**.
+**C. The Mid-Sentence Fusion (`sèni`)** If `sèwo` (end of Clause A) meets `ninå` (start of Clause B), they fuse into **[[sèni (particle)|sèni]]**.
 
 - **Structure:** `[Cause] sèni [Effect].`
 - **Meaning:** "`[Cause]`, so/therefore `[Effect]`."
@@ -123,7 +123,7 @@ Marks the preceding clause as a hypothetical condition. Always Head-Final.
 **Context:**
 > Leaning over the railing of a zoo enclosure while holding an apple. The speaker gestures toward the specific animal directly below them (`o-jýnn`) and posits a hypothetical to a friend. The immediate physical presence of the fruit and the speaker allows for the efficient omission (Pro-drop) of the Subject ("I") and the Direct Object ("Apple").
 
-**Topù [[chě (IF Conditional Particle)|chě]], onă o-jýnn chỏnů.** 
+**Topù [[chě (particle)|chě]], onă o-jýnn chỏnů.** 
 `drop IF DEF.WARM PROX-hyena eat` 
 _If (I) drop (it), this hyena (will) eat (it)._
 
@@ -137,8 +137,8 @@ The standard conditional particle **chě** can be modified by suffixes to alter 
 
 | Particle                                            | Meaning            | Components           | Logic                                                | Structure                      |
 | --------------------------------------------------- | ------------------ | -------------------- | ---------------------------------------------------- | ------------------------------ |
-| **[[chěxa (EVEN IF Conditional Compound)\|chěxa]]** | Even if / Although | `chě` + `xa` (Above) | "If [X], but the result is **above** the condition." | `[Clause A] chěxa, [Clause B]` |
-| **[[chěná (UNLESS Conditional Compound)\|chěná]]**  | Unless / Except if | `chě` + `ná` (Not)   | "If Not."                                            | `[Clause A] chěná, [Clause B]` |
+| **[[chěxa (particle)\|chěxa]]** | Even if / Although | `chě` + `xa` (Above) | "If [X], but the result is **above** the condition." | `[Clause A] chěxa, [Clause B]` |
+| **[[chěná (particle)\|chěná]]**  | Unless / Except if | `chě` + `ná` (Not)   | "If Not."                                            | `[Clause A] chěná, [Clause B]` |
 #### Usage Examples
 
 **1. Concessive (`chěxa`)**

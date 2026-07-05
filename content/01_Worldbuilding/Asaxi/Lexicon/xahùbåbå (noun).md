@@ -36,7 +36,7 @@ Null
 Null
 
 ### Etymology
-**[[xa- (Relational Locative Prefix)|xa]]** (Above) + **[[hùbåbå (noun)|hùbåbå]]** (Back muscle).
+**[[xa- (relational locative) (particle)|xa]]** (Above) + **[[hùbåbå (noun)|hùbåbå]]** (Back muscle).
 *Lit:* "Upper-Back-Muscle."
 
 ### Synonyms

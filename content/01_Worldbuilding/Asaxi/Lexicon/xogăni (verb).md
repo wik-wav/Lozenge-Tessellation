@@ -46,11 +46,11 @@ _I reach a good state / I arrive at wellness._
 Null
 
 ### Etymology
-**[[xogă (verb)|xogă]]** (Arrive) + **[[ni (Relational Particle)|ni]]** (Towards/Into).
+**[[xogă (verb)|xogă]]** (Arrive) + **[[ni (particle)|ni]]** (Towards/Into).
 *Lit:* "Arrive-into."
 
 ### Synonyms
-- **[[niŕa (Stative Verb)|niŕa]]** (To become / lead to - Stative/Passive).
+- **[[niŕa (verb)|niŕa]]** (To become / lead to - Stative/Passive).
 - **[[xogă (verb)]]** (To arrive - General).
 
 ### Antonyms

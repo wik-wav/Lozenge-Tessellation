@@ -46,7 +46,7 @@ _I love you._ (I love unto you).
 Null
 
 ### Etymology
-[[sùki (noun)|sùki (noun) - love, affection]] + [[06A_-x- (Morphological Infix)]]
+[[sùki (noun)|sùki (noun) - love, affection]] + [[06A_-x- (particle)]]
 *Lit:* "love unto"
 
 ### Synonyms

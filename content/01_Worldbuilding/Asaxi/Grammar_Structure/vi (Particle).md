@@ -1,5 +1,5 @@
 ---
-title: vi (Particle) - Good!, OK!, Will do
+title: vi (particle) - Good!, OK!, Will do
 Word (Asaxi): vi
 trnsltion. En: Good!, OK!, Will do
 tags:

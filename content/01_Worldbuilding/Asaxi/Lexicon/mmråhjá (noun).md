@@ -37,7 +37,7 @@ Null
 Null
 
 ### Etymology
-**[[mmråshá (noun)|mmrå(shá)]]** (Cat) + **[[hjá (noun) - as in child|hjá]]** (Child/Young).
+**[[mmråshá (noun)|mmrå(shá)]]** (Cat) + **[[hjá (child) (noun)|hjá]]** (Child/Young).
 
 ### Synonyms
 Null

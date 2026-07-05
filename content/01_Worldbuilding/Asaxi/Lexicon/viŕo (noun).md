@@ -38,7 +38,7 @@ _The horse is out in the field._
 Null
 
 ### Etymology
-Grass [[vivi (noun) - as in family of plants|vivi]] (→ *vi*) + [[ŕo (root word)|ŕo]] (place). *Lit:* "grass-place."
+Grass [[vivi (family of plants) (noun)|vivi]] (→ *vi*) + [[ŕo (root word)|ŕo]] (place). *Lit:* "grass-place."
 
 ### Synonyms
 Null

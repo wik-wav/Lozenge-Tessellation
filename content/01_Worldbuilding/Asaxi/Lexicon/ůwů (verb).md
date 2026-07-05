@@ -56,6 +56,6 @@ Null
 - **ůwůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[ů (verb)|ů]]** + **[[06A_-w- (Morphological Infix)|-w-]]** (Semblance Mode) + **-ů**.
+Derived from **[[ů (verb)|ů]]** + **[[06A_-w- (particle)|-w-]]** (Semblance Mode) + **-ů**.
 
 - _Lit:_ "To be-like."

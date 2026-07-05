@@ -1,5 +1,5 @@
 ---
-title: åmă (Particle) - every time
+title: åmă (particle) - every time
 Word (Asaxi): åmă
 trnsltion. En: za każdym razem
 tags:
@@ -35,13 +35,13 @@ _I will read every time (I have the chance)._
 
 ### Etymology
 
-**[[å (noun)|å]]** (Time) + **[[mă (Particle)|-mă]]** (Every).
+**[[å (noun)|å]]** (Time) + **[[mă (particle)|-mă]]** (Every).
 *Lit:* "Every-time."
 
 ### Synonyms
 
-- **[[onå (FOREVER Aspectual Marker)|onå]]** (Always/Forever - stronger/continuous).
+- **[[onå (particle)|onå]]** (Always/Forever - stronger/continuous).
 
 ### Derived terms
 
-- **mă**-family: [[ximă (Particle)|ximă]] (daily), [[txămă (Particle)|txămă]] (yearly), [[gămă (particle)|gămă]] (whenever)
+- **mă**-family: [[ximă (particle)|ximă]] (daily), [[txămă (particle)|txămă]] (yearly), [[gămă (particle)|gămă]] (whenever)

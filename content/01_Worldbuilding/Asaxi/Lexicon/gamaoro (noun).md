@@ -41,7 +41,7 @@ _The earring is silvery._
 Null
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (colour/constitution) + [[maoro (noun)|maoro]] (silver) → "silver-colour". A colour built on its prototype object, like [[gapo (noun)|gapo]] (red ← apple) and [[gao (noun)|gao]] (azure ← sky). (Also: **made of silver**.)
+**[[ga (particle)|ga]]** (colour/constitution) + [[maoro (noun)|maoro]] (silver) → "silver-colour". A colour built on its prototype object, like [[gapo (noun)|gapo]] (red ← apple) and [[gao (noun)|gao]] (azure ← sky). (Also: **made of silver**.)
 
 ### Synonyms
 Null

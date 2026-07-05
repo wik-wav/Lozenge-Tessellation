@@ -38,7 +38,7 @@ _The farmer has an apron._
 Null
 
 ### Etymology
-[[pa- (Relational Locative Prefix)|pa-]] (in front of) + *-pỏ* (cloth). *Lit:* "front-cloth."
+[[pa- (particle)|pa-]] (in front of) + *-pỏ* (cloth). *Lit:* "front-cloth."
 
 ### Synonyms
 Null

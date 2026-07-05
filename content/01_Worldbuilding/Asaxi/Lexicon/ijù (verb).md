@@ -60,7 +60,7 @@ Likely related to **[[ijo (verb)|ijo]]** (To see).
 - [[dăxijù (verb)|dăxijù]] - to pray
 
 ### Usage Note (Quotation)
-Used with the quotative particle **[[tte (Quotative Particle)]]**.
+Used with the quotative particle **[[tte (particle)]]**.
 * **Structure:** `[Quote/Clause] tte ijù.`
 * **Meaning:** "Say that \[Quote\]."
 

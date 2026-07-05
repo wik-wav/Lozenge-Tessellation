@@ -47,7 +47,7 @@ To express mutual action between members of a plural subject, Asaxi uses a fixed
 
 **The Word:** **gőnigő**
 
-- **Etymology:** **[[gő (Pronoun)|gő]]** (One/Entity) + **[[ni (Relational Particle)|ni]]** (Towards) + **gő**.
+- **Etymology:** **[[gő (particle)|gő]]** (One/Entity) + **[[ni (particle)|ni]]** (Towards) + **gő**.
 - **Literal:** "One-to-one."
 - **Meaning:** "Each other", "One another".
 

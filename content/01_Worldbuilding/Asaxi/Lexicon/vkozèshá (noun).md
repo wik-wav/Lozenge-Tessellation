@@ -38,13 +38,13 @@ _He is an elder._
 Null
 
 ### Etymology
-**[[vkozè (Temporal Noun)|vkozè]]** (the distant past) + **-shá** (person, [[47_Morphological Reduction (Class Suffixes)]]) — „person of the distant past”.
+**[[vkozè (noun)|vkozè]]** (the distant past) + **-shá** (person, [[47_Morphological Reduction (Class Suffixes)]]) — „person of the distant past”.
 
 ### Synonyms
-- [[vkozè (Temporal Noun)|vkozè]] (related: the distant past)
+- [[vkozè (noun)|vkozè]] (related: the distant past)
 
 ### Antonyms
-- [[hjá (noun) - as in child|hjá]] (the young)
+- [[hjá (child) (noun)|hjá]] (the young)
 
 ### Derived terms
 - **vkozèshánă** (elderly, venerable) *(potential)*

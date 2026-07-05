@@ -46,14 +46,14 @@ Null
 Null
 
 ### Etymology
-**[[na- (Relational Locative Prefix)|na]]** (On/Stack) + **[[ŕo (root word)|ŕo]]** (Place/Value).
+**[[na- (relational locative) (particle)|na]]** (On/Stack) + **[[ŕo (root word)|ŕo]]** (Place/Value).
 *Lit:* "Stacking values."
 
 ### Synonyms
 Null
 
 ### Antonyms
-- **[[pùŕo (Mathematical Operator)|pùŕo]]** (To divide / split).
+- **[[pùŕo (particle)|pùŕo]]** (To divide / split).
 
 ### Derived terms
 - **[[naŕonů (verb)]]** (To mix/blend - Activity).

@@ -58,7 +58,7 @@ Null
 Null
 
 ### Grammatical Note
-Derived from **[[tètá (noun)|tètá]]** (Pain) + **[[06A_-sh- (Morphological Infix)|-sh-]]** (Privative Mode) + **-ů**.
+Derived from **[[tètá (noun)|tètá]]** (Pain) + **[[06A_-sh- (particle)|-sh-]]** (Privative Mode) + **-ů**.
 * *Logic:* "To strip pain."
 
 ### Usage Note (Cultural Metaphor)

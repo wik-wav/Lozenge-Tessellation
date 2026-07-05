@@ -39,7 +39,7 @@ IPA: /ɡanɑfʷa/
 x
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (Type/Constitution) + **[[náfwa (noun)|náfwa]]** (No-clouds).
+**[[ga (particle)|ga]]** (Type/Constitution) + **[[náfwa (noun)|náfwa]]** (No-clouds).
 
 ### Synonyms
 - **[[gao (noun)|gao]]** (Blue/Azure).

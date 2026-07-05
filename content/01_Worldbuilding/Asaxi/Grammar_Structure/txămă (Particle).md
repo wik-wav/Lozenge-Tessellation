@@ -35,8 +35,8 @@ x
 
 ### Antonyms
 
-- **[[ximă (Particle)|ximă]]** (Daily).
+- **[[ximă (particle)|ximă]]** (Daily).
 
 ### Derived terms
 
-- **mă**-family: [[ximă (Particle)|ximă]] (daily), [[åmă (Particle)|åmă]] (every time), [[gămă (particle)|gămă]] (whenever)
+- **mă**-family: [[ximă (particle)|ximă]] (daily), [[åmă (particle)|åmă]] (every time), [[gămă (particle)|gămă]] (whenever)

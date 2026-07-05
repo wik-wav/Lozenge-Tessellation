@@ -45,7 +45,7 @@ _The kitten jumped up._
 Null
 
 ### Etymology
-**[[chå (Particle)|chå]]** (Completely/Burst) + **[[xa- (Relational Locative Prefix)|xa]]** (Up/Above).
+**[[chå (particle)|chå]]** (Completely/Burst) + **[[xa- (relational locative) (particle)|xa]]** (Up/Above).
 *Lit:* "Burst-Up" or "Completely-Up."
 
 ### Synonyms

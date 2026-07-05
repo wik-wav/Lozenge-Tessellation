@@ -45,7 +45,7 @@ _We separated / broke up._
 Null
 
 ### Etymology
-**[[më (Mathematical Operator)|më]]** (Minus) + **[[47_Morphological Reduction (Class Suffixes)|-ka]]** (Reciprocal).
+**[[më (particle)|më]]** (Minus) + **[[47_Morphological Reduction (Class Suffixes)|-ka]]** (Reciprocal).
 *Lit:* "Minus-Exchange."
 
 ### Synonyms

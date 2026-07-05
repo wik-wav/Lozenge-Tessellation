@@ -1,5 +1,5 @@
 ---
-title: xă (Particle) - yes, affirmative, yea
+title: xă (particle) - yes, affirmative, yea
 Word (Asaxi): xă
 trnsltion. En: yes, affirmative, yea
 tags:
@@ -59,10 +59,10 @@ IPA: /ɦaɪ/
 
 ### Antonyms
 
-- **[[ná (Particle)|ná]]** (Not).
+- **[[ná (particle)|ná]]** (Not).
 
 ### Derived terms
 
-- **[[hăhè (Particle)]]** (Imperative Prefix: To Force).
+- **[[hăhè (particle)]]** (Imperative Prefix: To Force).
 - **xăxiŕa** (Stative: Certainty).
 - **xăsiŕo** (Noun: Outer Space / The True Void).

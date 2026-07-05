@@ -56,7 +56,7 @@ x
 - **bwoshů** (To lose weight).
 
 ### Grammatical Note
-Derived from **[[bwo (noun)|bwo]]** (Fat) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance/State Infix) + **[[ů (verb)|-ů]]** (Universal Verbalizer).
+Derived from **[[bwo (noun)|bwo]]** (Fat) + **[[06A_-n- (particle)|-n-]]** (Performance/State Infix) + **[[ů (verb)|-ů]]** (Universal Verbalizer).
 
 - _Logic:_ "To perform fatness" / "To be fat."
 

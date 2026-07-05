@@ -38,7 +38,7 @@ _I do not look back (to the behind-place)._
 Null
 
 ### Etymology
-**[[hù- (Relational Locative Prefix)|hù-]]** (Behind) + **-w-** + **[[o (Proximal Locative Prefix)|o]]** (Here).
+**[[hù- (relational locative) (particle)|hù-]]** (Behind) + **-w-** + **[[o (proximal locative) (particle)|o]]** (Here).
 *Lit:* "The Behind-Here."
 
 ### Synonyms

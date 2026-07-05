@@ -41,7 +41,7 @@ _A wait is made of time._ (aphoristic)
 Null
 
 ### Etymology
-**[[ănå (verb)|ănå]]** (To wait) + **[[no (Medial Locative Prefix)|no]]** (There/Medial).
+**[[ănå (verb)|ănå]]** (To wait) + **[[no (medial locative) (particle)|no]]** (There/Medial).
 *Lit:* "The Waiting-There" (Holding in the middle distance).
 
 ### Synonyms

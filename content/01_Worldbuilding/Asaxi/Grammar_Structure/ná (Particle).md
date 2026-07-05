@@ -1,5 +1,5 @@
 ---
-title: ná (Particle) - no, not
+title: ná (particle) - no, not
 Word (Asaxi): ná
 trnsltion. En: no, not
 tags:
@@ -56,12 +56,12 @@ IPA: /nɑ/
 
 ### Antonyms
 
-- **[[xă (Particle)|xă]]** (Yes / Indeed).
+- **[[xă (particle)|xă]]** (Yes / Indeed).
     
 
 ### Derived terms
 
-- **[[nèŕa (Particle)|nèŕa]]** (Is not).
+- **[[nèŕa (particle)|nèŕa]]** (Is not).
     
 - **[[jhaná (particle)|jhaná]]** (But not).])]
     

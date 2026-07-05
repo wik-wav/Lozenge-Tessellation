@@ -37,7 +37,7 @@ _This road has length._
 Null
 
 ### Etymology
-**[[śchi (Unit Noun)|śchi]]** (Centimeter) + **-no**
+**[[śchi (noun)|śchi]]** (Centimeter) + **-no**
 *Lit:* "The centimeter-thing."
 
 ### Synonyms

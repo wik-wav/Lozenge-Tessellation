@@ -58,7 +58,7 @@ Asaxi is a **Null-Topic Language**. This means the sentence is structured around
 1. **The Hidden Topic:** Once a topic is established, it is **omitted**.
     - _Context:_ "What about John?"
     - _Answer:_ `Shěso shěsonů.` ("(As for him), reading a book.")
-2. **Explicit Topic (`dhè`):** If you need to shift the topic or emphasize it, you use the particle **[[dhè (Relational Particle)|dhè]]**.
+2. **Explicit Topic (`dhè`):** If you need to shift the topic or emphasize it, you use the particle **[[dhè (particle)|dhè]]**.
 
 ---
 
@@ -117,7 +117,7 @@ While the Verb ends the _grammatical_ clause, specific particles may trail after
 
 ## 6. Passive Voice (Topicalized OSV)
 
-Asaxi achieves Passive Voice by promoting the Object to the **Topic** position using the particle **[[dhè (Relational Particle)|dhè]]**.
+Asaxi achieves Passive Voice by promoting the Object to the **Topic** position using the particle **[[dhè (particle)|dhè]]**.
 
 **Structure:**
 

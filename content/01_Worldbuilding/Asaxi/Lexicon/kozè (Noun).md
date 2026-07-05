@@ -1,6 +1,6 @@
 ---
 freq: 43
-title: kozè (Noun) - antiquity, ancient past
+title: kozè (noun) - antiquity, ancient past
 Word (Asaxi): kozè
 trnsltion. En: antiquity, ancient past, long ago
 trnsltion. Pl: starożytność, dawne dzieje
@@ -37,7 +37,7 @@ _In the distant past, humans lived._
 Null
 
 ### Etymology
-**[[ko (Distal Locative Prefix)|ko-]]** (Yonder) + **[[zè (Noun)|zè]]** (Past).
+**[[ko (distal locative) (particle)|ko-]]** (Yonder) + **[[zè (Noun)|zè]]** (Past).
 *Lit:* "The Yonder-Past."
 
 ### Synonyms
@@ -47,7 +47,7 @@ Null
 Null
 
 ### Derived terms
-- [[vkozè (Temporal Noun)|vkozè]] - the distant past (va- + kozè)
+- [[vkozè (noun)|vkozè]] - the distant past (va- + kozè)
 - [[kozètètá (noun)|kozètètá]] - regret ("past-pain")
 - [[kozètètánů (verb)|kozètètánů]] - to regret
 - [[kozèvkozè (Idiom)|kozèvkozè]] - idiom of deep time

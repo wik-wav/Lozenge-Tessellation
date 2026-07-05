@@ -35,7 +35,7 @@ Null
 Null
 
 ### Etymology
-**[[pa- (Relational Locative Prefix)|pa]]** (Front) + **[[pùxaśbi (noun)|pùxaśbi]]** (Lower Leg) + **[[båbå (noun)|båbå]]** (Muscle).
+**[[pa- (particle)|pa]]** (Front) + **[[pùxaśbi (noun)|pùxaśbi]]** (Lower Leg) + **[[båbå (noun)|båbå]]** (Muscle).
 *Lit:* "Front-LowerLeg-Muscle."
 
 ### Synonyms

@@ -48,7 +48,7 @@ _The coat is a drab earthy-brown._
 Null
 
 ### Etymology
-The **aura/simile** colour of [[cù (noun)|cù]] (soil): soil + **-nýj**. A non-`ga` colour word — where the `ga-` form names the *objective* hue, the `-nýj` simile names its **mood / aura** (cf. [[ga (Fusing Particle)|ga]] vs the simile rule in [[16_Adjectives_Constitution vs Simile]]).
+The **aura/simile** colour of [[cù (noun)|cù]] (soil): soil + **-nýj**. A non-`ga` colour word — where the `ga-` form names the *objective* hue, the `-nýj` simile names its **mood / aura** (cf. [[ga (particle)|ga]] vs the simile rule in [[16_Adjectives_Constitution vs Simile]]).
 
 ### Synonyms
 Null

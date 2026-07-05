@@ -43,7 +43,7 @@ I inflate the ball.
 x
 
 ### Etymology
-**[[pxỏ (noun)|pxỏ]]** (Ball/Inflated object) + **.[[06A_-ŕ- (Morphological Infix)]]** (To produce) + **[[ů (verb)]]** (verbalizer) 
+**[[pxỏ (noun)|pxỏ]]** (Ball/Inflated object) + **.[[06A_-ŕ- (particle)]]** (To produce) + **[[ů (verb)]]** (verbalizer) 
 Logic: "To cause to become a ball" or "To make inflated."
 
 ### Synonyms

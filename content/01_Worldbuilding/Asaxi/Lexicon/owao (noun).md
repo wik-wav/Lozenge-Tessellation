@@ -37,7 +37,7 @@ _The Earth is round._
 Null
 
 ### Etymology
-**[[o (Proximal Locative Prefix)|o]]** (Here/This) + **[[wao (noun)|wao]]** (World).
+**[[o (proximal locative) (particle)|o]]** (Here/This) + **[[wao (noun)|wao]]** (World).
 *Lit:* "The Here-World." (The world where we are).
 *Note:* Can also be interpreted poetically as "Blue World" (related to **[[gao (noun)|gao]]**), but the proximal prefix `o-` is the structural root.
 

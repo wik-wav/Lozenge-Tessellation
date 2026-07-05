@@ -37,7 +37,7 @@ _Tomorrow (the day after today), I will read._
 Null
 
 ### Etymology
-**[[pa- (Relational Locative Prefix)|pa]]** (Front) + **[[vwo (noun)|vwo]]** (Today).
+**[[pa- (particle)|pa]]** (Front) + **[[vwo (noun)|vwo]]** (Today).
 *Lit:* "Front-Today."
 
 ### Synonyms

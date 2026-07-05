@@ -18,8 +18,8 @@ Definite articles are generally omitted. They're only used for empathizing defin
 
 - The forms of the definite article:
 	- For warm:
-	  [[onă (Determiner)]]
+	  [[onă (particle)]]
 	- For cold:
-	  [[onýj (Determiner)]]
+	  [[onýj (particle)]]
 - The form of the Indefinite article: 
-	- [[anő (Determiner)]] for warm and cold nouns
+	- [[anő (particle)]] for warm and cold nouns

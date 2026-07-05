@@ -47,7 +47,7 @@ Null
 Null
 
 ### Etymology
-**xo** (Move) + **-w-** + **[[ỏ- (Relational Locative Prefix)|ỏ]]** (Middle).
+**xo** (Move) + **-w-** + **[[ỏ- (particle)|ỏ]]** (Middle).
 
 ### Synonyms
 Null

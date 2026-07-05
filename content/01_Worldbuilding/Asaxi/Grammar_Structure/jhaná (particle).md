@@ -33,7 +33,7 @@ IPA: /d̠ʒanɑ/
 
 ### Etymology
 
-A fusion of the clause connector **dzè** (But) and the polarity particle **[[ná (Particle)|ná]]** (Not).
+A fusion of the clause connector **dzè** (But) and the polarity particle **[[ná (particle)|ná]]** (Not).
 
 - _Shift:_ `dzè` + `ná` → `dzná` → `jhaná`.
 

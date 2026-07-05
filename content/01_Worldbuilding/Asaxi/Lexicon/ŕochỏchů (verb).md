@@ -42,7 +42,7 @@ _"(I'm) thirsty — please give (me) a drink."_
 Null
 
 ### Etymology
-**[[ŕochỏ (noun)|ŕochỏ]]** (thirst, "water-hunger") + **-ch-** (Subjective bridge: feel like, [[06A_-ch- (Morphological Infix)]]) + **-ů** (Verbalizer).
+**[[ŕochỏ (noun)|ŕochỏ]]** (thirst, "water-hunger") + **-ch-** (Subjective bridge: feel like, [[06A_-ch- (particle)]]) + **-ů** (Verbalizer).
 
 ### Synonyms
 - [[ŕochỏ (noun)|ŕochỏ]] (the noun: thirst)
@@ -57,6 +57,6 @@ Null
 - **chỏchů** (to hunger) *(potential)*
 
 ### Usage Note
-The idiomatic way to say "I'm thirsty." Internal sensations are **felt, not possessed** in Asaxi: the Subjective bridge `-ch-` marks the state as experienced from inside, so *ŕochỏchů* is preferred over possession (*ŕochỏ ma*). Compare the canon model **apochů** ("to feel like an apple", [[06A_-ch- (Morphological Infix)]]).
+The idiomatic way to say "I'm thirsty." Internal sensations are **felt, not possessed** in Asaxi: the Subjective bridge `-ch-` marks the state as experienced from inside, so *ŕochỏchů* is preferred over possession (*ŕochỏ ma*). Compare the canon model **apochů** ("to feel like an apple", [[06A_-ch- (particle)]]).
 
 Parallel formations: **chỏchů** (to hunger), **zhýchů** (to feel cold), **săachů** (to feel hot), **aichů** (to ache, to grieve) *(potential)*.

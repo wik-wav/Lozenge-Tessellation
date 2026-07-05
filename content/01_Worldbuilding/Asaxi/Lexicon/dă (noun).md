@@ -38,7 +38,7 @@ _The elephant has huge ears._
 Null
 
 ### Etymology
-Primitive root noun. Its sense of great size underlies the augmentative quantifier [[dăgo (Quantifier)|dăgo]] and the degree prefix [[dă- (Degree Prefix)|dă-]].
+Primitive root noun. Its sense of great size underlies the augmentative quantifier [[dăgo (particle)|dăgo]] and the degree prefix [[dă- (particle)|dă-]].
 
 ### Synonyms
 Null
@@ -48,6 +48,6 @@ Null
 
 ### Derived terms
 - [[dăchů (verb)|dăchů]] (to feel huge, to feel mighty)
-- [[dăgo (Quantifier)|dăgo]]
+- [[dăgo (particle)|dăgo]]
 - [[dătáka (noun)|dătáka]]
 - [[dătáwao (noun)|dătáwao]]

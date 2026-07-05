@@ -38,7 +38,7 @@ _Because (it is) cold, I have a coat._
 Null
 
 ### Etymology
-[[xa- (Relational Locative Prefix)|xa-]] (above/over) + *-pỏ* (cloth). *Lit:* "over-cloth."
+[[xa- (relational locative) (particle)|xa-]] (above/over) + *-pỏ* (cloth). *Lit:* "over-cloth."
 
 ### Synonyms
 Null

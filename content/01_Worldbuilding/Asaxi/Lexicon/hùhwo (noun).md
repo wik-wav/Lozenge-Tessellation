@@ -37,7 +37,7 @@ _On the day before yesterday, I departed._
 Null
 
 ### Etymology
-**[[hù- (Relational Locative Prefix)|hù]]** (Behind) + **[[hwo (noun)|hwo]]** (Yesterday).
+**[[hù- (relational locative) (particle)|hù]]** (Behind) + **[[hwo (noun)|hwo]]** (Yesterday).
 *Lit:* "Yesterday's Behind."
 
 ### Synonyms

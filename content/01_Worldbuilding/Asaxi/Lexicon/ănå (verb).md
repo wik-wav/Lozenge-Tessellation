@@ -49,7 +49,7 @@ _I was waiting a moment ago._
 Null
 
 ### Etymology
-**[[ă (Relational Particle)|ă]]** (Subjective/Internal Topic) + **[[nå (NOW Aspectual Marker)]]** (Now/Time).
+**[[ă (particle)|ă]]** (Subjective/Internal Topic) + **[[nå (particle)]]** (Now/Time).
 *Lit:* "Subjective-Now" or "The Main Topic is Time."
 
 ### Synonyms

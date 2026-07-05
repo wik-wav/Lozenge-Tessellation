@@ -57,5 +57,5 @@ Null
 - **ỏbåbåŕůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[ỏbåbå (noun)|ỏbåbå]]** (Abs) + **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** (Generative Mode) + **[[ů (verb)|-ů]]**.
+Derived from **[[ỏbåbå (noun)|ỏbåbå]]** (Abs) + **[[06A_-ŕ- (particle)|-ŕ-]]** (Generative Mode) + **[[ů (verb)|-ů]]**.
 * *Logic:* "To generate abs."

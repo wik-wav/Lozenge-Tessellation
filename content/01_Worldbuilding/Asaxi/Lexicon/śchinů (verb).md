@@ -58,4 +58,4 @@ Null
 - **śchinůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[śchi (Unit Noun)|śchi]]** (Centimeter) + **-n-** + **-ů**.
+Derived from **[[śchi (noun)|śchi]]** (Centimeter) + **-n-** + **-ů**.

@@ -1,5 +1,5 @@
 ---
-title: hè (Particle) - do! (imperative)
+title: hè (particle) - do! (imperative)
 Word (Asaxi): hè
 trnsltion. En: do! (imperative)
 tags:
@@ -34,9 +34,9 @@ x
 
 ### Derived terms
 
-- [[xăhè (Particle)|xăhè]] - coercive imperative
-- [[băhè (Particle)|băhè]] - permissive
-- [[hăhè (Particle)|hăhè]] - (compound)
-- [[nihè (Particle)|nihè]] - inchoative command
-- [[nåhè- (Particle)|nåhè-]] - immediate command
+- [[xăhè (particle)|xăhè]] - coercive imperative
+- [[băhè (particle)|băhè]] - permissive
+- [[hăhè (particle)|hăhè]] - (compound)
+- [[nihè (particle)|nihè]] - inchoative command
+- [[nåhè- (particle)|nåhè-]] - immediate command
 - **náxăhè** (absolute prohibition) *(no entry yet)*

@@ -44,7 +44,7 @@ Null
 - [[nokam (noun)|nokam]] (related: storehouse)
 
 ### Antonyms
-- [[fůmă (Quantifier)|fůmă]] (related: none, nothing)
+- [[fůmă (particle)|fůmă]] (related: none, nothing)
 
 ### Derived terms
 - **makanů** (to contain, to hold within) *(potential)*

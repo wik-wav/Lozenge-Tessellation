@@ -61,7 +61,7 @@ Null
 ### Grammatical Note
 This is the **Active Copula**. It contrasts with:
 
-1. **[[xiŕa (Particle)|xiŕa]]** (Static Copula): Defines unchangeable facts/identity.
+1. **[[xiŕa (particle)|xiŕa]]** (Static Copula): Defines unchangeable facts/identity.
 2. **[[xů (verb)|xů]]** (Active Transitive): Defines manipulation/handling ("To do").
 
 **The -b- Bridge Rule:** 

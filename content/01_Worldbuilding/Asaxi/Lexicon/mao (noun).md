@@ -18,8 +18,8 @@ tags:
 ### Disambiguation
 **mao** has two lexicalised senses — generic references resolve here; pick the intended sense:
 
-- [[mao (noun) - as in night-time|mao]] — night-time
-- [[mao (noun) - as in satellite planet|mao]] — moon
+- [[mao (night-time) (noun)|mao]] — night-time
+- [[mao (satellite planet) (noun)|mao]] — moon
 
 ### Derived terms
 

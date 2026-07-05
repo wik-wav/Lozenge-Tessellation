@@ -40,7 +40,7 @@ _John is a morbidly-obese person._ (a medical fact — cf. the aesthetic [[bwon�
 Null
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (constitution) + **[[xaŋobwo (noun)|xaŋobwo]]** (obesity). *Lit:* "obesity-constitution" — the objective, diagnosable condition (contrast the subjective adjective [[bwonă (adjective)|bwonă]]).
+**[[ga (particle)|ga]]** (constitution) + **[[xaŋobwo (noun)|xaŋobwo]]** (obesity). *Lit:* "obesity-constitution" — the objective, diagnosable condition (contrast the subjective adjective [[bwonă (adjective)|bwonă]]).
 
 ### Synonyms
 Null

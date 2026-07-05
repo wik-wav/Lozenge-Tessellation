@@ -1,17 +1,20 @@
 ---
 title: Smntc_Field Play
+aliases:
+  - Play
 tags:
-  - semantic_field
-  - language
   - Asaxi
+  - language
+  - semantic_field
 ---
 # Play Semantic Field
 
-This is a page with a list of all Asaxi words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **play**.
+This is a page with a list of all [[The Asaxi Language|Asaxi]] words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **Play**.
 
 Navigation:
 - [[The Asaxi Language|The Asaxi Language Index]]
-- [[index|Index - Homepage]]
+- [[index|Asaxi Wiki - Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
 
 - - -
 

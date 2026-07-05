@@ -35,7 +35,7 @@ IPA: /ɦaɪɕiɾo/
 x
 
 ### Etymology
-**[[xă (Particle)|xă]]** (Emphasis/True) + **[[siŕo (noun)|siŕo]]** (The Great Unknown). _Lit:_ The True Unknown.
+**[[xă (particle)|xă]]** (Emphasis/True) + **[[siŕo (noun)|siŕo]]** (The Great Unknown). _Lit:_ The True Unknown.
 
 ### Synonyms
 x

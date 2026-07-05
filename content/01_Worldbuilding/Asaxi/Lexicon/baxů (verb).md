@@ -45,7 +45,7 @@ _"Hey! Help, please!"_
 Null
 
 ### Etymology
-**ba-** (beside, [[ba- (Relational Locative Prefix)]]) + **[[xů (verb)|xů]]** (to do, handle) — "to do-beside someone". Same formative logic as **[[bashá (noun)|bashá]]** (friend, "beside-person").
+**ba-** (beside, [[ba- (particle)]]) + **[[xů (verb)|xů]]** (to do, handle) — "to do-beside someone". Same formative logic as **[[bashá (noun)|bashá]]** (friend, "beside-person").
 
 ### Synonyms
 - [[bashá (noun)|bashá]] (related: friend, the one beside you)

@@ -1,5 +1,5 @@
 ---
-title: xădăchỏxă (Particle) - please god
+title: xădăchỏxă (particle) - please god
 Word (Asaxi): xădăchỏxă
 trnsltion. En: please god
 tags:
@@ -30,7 +30,7 @@ IPA: /ɦaɪdaɪt̠ʃou̯ɦaɪ/
 
 ### Etymology
 
-**[[xă (Particle)|xă]]** (Yes) + **[[Dă Chỏ (deity)]]** (Deity of Desire) + **xă** (Yes). _Lit:_ "Yes, Dă Chỏ, Yes." _Cultural Context:_ Invokes the deity of food and desire to relieve the anxiety of the wish.
+**[[xă (particle)|xă]]** (Yes) + **[[Dă Chỏ (deity)]]** (Deity of Desire) + **xă** (Yes). _Lit:_ "Yes, Dă Chỏ, Yes." _Cultural Context:_ Invokes the deity of food and desire to relieve the anxiety of the wish.
 
 ### Synonyms
 

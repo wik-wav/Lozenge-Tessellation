@@ -41,7 +41,7 @@ _The ring is golden._
 Null
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (colour/constitution) + [[xiro (noun)|xiro]] (gold) → "gold-colour". A colour built on its prototype object, like [[gapo (noun)|gapo]] (red ← apple) and [[gao (noun)|gao]] (azure ← sky). (Also, per the dual sense of `ga-`, **made of gold**.)
+**[[ga (particle)|ga]]** (colour/constitution) + [[xiro (noun)|xiro]] (gold) → "gold-colour". A colour built on its prototype object, like [[gapo (noun)|gapo]] (red ← apple) and [[gao (noun)|gao]] (azure ← sky). (Also, per the dual sense of `ga-`, **made of gold**.)
 
 ### Synonyms
 Null

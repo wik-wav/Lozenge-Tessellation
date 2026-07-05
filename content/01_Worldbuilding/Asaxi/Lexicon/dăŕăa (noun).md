@@ -38,7 +38,7 @@ _People sit beside the blaze._
 Null
 
 ### Etymology
-[[dă- (Degree Prefix)|dă-]] (great) + fire [[ŕăa (noun)|ŕăa]]. *Lit:* "great-fire."
+[[dă- (particle)|dă-]] (great) + fire [[ŕăa (noun)|ŕăa]]. *Lit:* "great-fire."
 
 ### Synonyms
 Null

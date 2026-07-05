@@ -30,11 +30,11 @@ This system distinguishes three degrees of distance (spatial deixis):
 
 | Prefix                                        | Concept             | Definition                                    |
 | --------------------------------------------- | ------------------- | --------------------------------------------- |
-| **[[o (Proximal Locative Prefix)\|o]]-**      | Proximal            | Immediate vicinity ("Here").                  |
-| **[[no (Medial Locative Prefix)\|no]]-**    | Medial              | Middle distance / Near listener ("There").    |
-| **[[ko (Distal Locative Prefix)\|ko]]-**    | Distal              | Far distance ("Yonder").                      |
-| **[[gă (Indefinite Locative Prefix)\|gă]]-**    | Locative Indefinite | Unspecified location ("Somewhere/Missing").   |
-| **[[ono (Attainable Locative Prefix)\|ono]]-** | Attainable          | A specific place ("not here but accessible"). |
+| **[[o (proximal locative) (particle)\|o]]-**      | Proximal            | Immediate vicinity ("Here").                  |
+| **[[no (medial locative) (particle)\|no]]-**    | Medial              | Middle distance / Near listener ("There").    |
+| **[[ko (distal locative) (particle)\|ko]]-**    | Distal              | Far distance ("Yonder").                      |
+| **[[gă (particle)\|gă]]-**    | Locative Indefinite | Unspecified location ("Somewhere/Missing").   |
+| **[[ono (particle)\|ono]]-** | Attainable          | A specific place ("not here but accessible"). |
 
 ## Rules
 

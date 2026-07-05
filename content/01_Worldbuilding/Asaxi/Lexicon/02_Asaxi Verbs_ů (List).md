@@ -8,9 +8,9 @@ tags:
   - language
   - semantic_field
 ---
-# Asaxi -ů Verbs (List)
+# Asaxi Verbs_ů (List)
 
-This is a list of all [[The Asaxi Language|Asaxi]] verbs with the first meaning translation in English.
+This is a list of all [[The Asaxi Language|Asaxi]] -ů verbs with the first meaning translation in English.
 
 Navigation:
 - [[The Asaxi Language|The Asaxi Language Index]]
@@ -18,8 +18,6 @@ Navigation:
 - Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
 
 - - -
-
-- [[vanů (Spatial Verb)]] - to enter
 
 - [[aichů (verb)]] - to be pained by, to feel hurt at (something external)
 - [[aiŕů (verb)]] - to grieve, to sorrow from within (lit. to generate sorrow)
@@ -160,6 +158,7 @@ Navigation:
 - [[ůsů (verb)]] - to sound, to sound like
 - [[ůwů (verb)]] - to act like
 - [[ůzhů (verb)]] - to taste
+- [[vanů (verb)]] - to enter, to be inside, to inhabit, to occupy
 - [[vènoŕů (verb)]] - to do woodwork, to carpenter
 - [[vèshů (verb)]] - to wither, to shed leaves
 - [[vigopỏŕů (verb)]] - to mill flour

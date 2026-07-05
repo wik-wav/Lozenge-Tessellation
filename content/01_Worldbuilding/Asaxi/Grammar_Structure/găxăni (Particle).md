@@ -1,5 +1,5 @@
 ---
-title: găxăni (Particle) - "Forever", "For eternity", "Into infinity", "Endlessly".
+title: găxăni (particle) - "Forever", "For eternity", "Into infinity", "Endlessly".
 Word (Asaxi): găxăni
 trnsltion. En: forever
 tags:
@@ -22,7 +22,7 @@ tags:
 
 ### Usage Note
 
-Distinct from **[[onå (FOREVER Aspectual Marker)|onå]]** (Always/Forever).
+Distinct from **[[onå (particle)|onå]]** (Always/Forever).
 * **onå:** Static/Constant state. "I will always love you." (State of being).
 * **găxăni:** Active trajectory. "I will run forever." (Movement into the infinite).
 
@@ -41,13 +41,13 @@ _I want to see you for eternity._ (Lit: I want to see you into-infinity).
 
 ### Etymology
 
-**[[găxă (noun)|găxă]]** (Infinity) + **[[ni (Relational Particle)|ni]]** (Towards/Into).
+**[[găxă (noun)|găxă]]** (Infinity) + **[[ni (particle)|ni]]** (Towards/Into).
 *Lit:* "Into Infinity."
 
 ### Synonyms
 
-- **[[onå (FOREVER Aspectual Marker)|onå]]** (Always - Static).
+- **[[onå (particle)|onå]]** (Always - Static).
 
 ### Derived terms
 
-- [[onå (FOREVER Aspectual Marker)|onå]] - forever (aspectual counterpart)
+- [[onå (particle)|onå]] - forever (aspectual counterpart)

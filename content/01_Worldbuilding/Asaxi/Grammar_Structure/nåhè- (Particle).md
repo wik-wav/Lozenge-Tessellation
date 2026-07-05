@@ -1,5 +1,5 @@
 ---
-title: nåhè- (Particle) - Now do!
+title: nåhè- (particle) - Now do!
 Word (Asaxi): nåhè
 trnsltion. En: Now do!
 tags:
@@ -36,7 +36,7 @@ _Stop reading and run (instead)!_
 
 ### Etymology
 
-**[[nå (NOW Aspectual Marker)]]** (Now) + **[[hè (Particle)|hè]]** (Imperative).
+**[[nå (particle)]]** (Now) + **[[hè (particle)|hè]]** (Imperative).
 *Lit:* "Now-Command."
 
 ### Synonyms
@@ -49,5 +49,5 @@ x
 
 ### Derived terms
 
-- [[hè (Particle)|hè]] - imperative base
-- [[nihè (Particle)|nihè]] - inchoative command (paradigm sibling)
+- [[hè (particle)|hè]] - imperative base
+- [[nihè (particle)|nihè]] - inchoative command (paradigm sibling)

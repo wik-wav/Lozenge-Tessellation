@@ -36,7 +36,7 @@ Null
 Null
 
 ### Etymology
-**[[va- (Relational Locative Prefix)|va]]** (Inside/Deep) + **[[hùbåbå (noun)|hùbåbå]]** (Back muscle).
+**[[va- (particle)|va]]** (Inside/Deep) + **[[hùbåbå (noun)|hùbåbå]]** (Back muscle).
 *Lit:* "Inner-Back-Muscle."
 
 ### Synonyms

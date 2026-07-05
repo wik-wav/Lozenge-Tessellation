@@ -37,7 +37,7 @@ Null
 Null
 
 ### Etymology
-**[[izo (Relational Particle)|izo]]** (From) + **[[pă- (Relational Locative Prefix)|pă]]** (Outside).
+**[[izo (particle)|izo]]** (From) + **[[pă- (particle)|pă]]** (Outside).
 *Morphology:* `iz(o)` + `pă` $\rightarrow$ `zp` $\rightarrow$ **sp** (Devoicing).
 *Lit:* "From-the-Outside."
 

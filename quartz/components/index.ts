@@ -23,6 +23,9 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import LexiconBrowser from "./LexiconBrowser"
+import NavButtons from "./NavButtons"
+import GrammarBook from "./GrammarBook"
 
 export {
   ArticleTitle,
@@ -50,4 +53,7 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+  LexiconBrowser,
+  NavButtons,
+  GrammarBook,
 }

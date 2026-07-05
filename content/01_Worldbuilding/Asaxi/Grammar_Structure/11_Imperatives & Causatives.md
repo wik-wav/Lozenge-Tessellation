@@ -16,7 +16,7 @@ Navigation:
 
 ## Grammatical Concept: The Imperative Particle (`hè`)
 
-Asaxi utilizes the particle **[[hè (Particle)|hè]]** to issue direct orders. By itself, this particle **always** marks the verb as a Command (Imperative Mood), regardless of whether it appears as a prefix or a suffix.
+Asaxi utilizes the particle **[[hè (particle)|hè]]** to issue direct orders. By itself, this particle **always** marks the verb as a Command (Imperative Mood), regardless of whether it appears as a prefix or a suffix.
 
 ### 1. Imperatives (Commands)
 
@@ -73,7 +73,7 @@ To forbid an action, the negation particle **ná** is inserted before the impera
 
 The Causative Voice ("Making/Letting someone do X") is formed using specific **Particle Compounds** attached to the **front** of the verb root.
 
-The "Causer" is marked by the instrumental particle **[[bă (Relational Particle)|bă]]**.
+The "Causer" is marked by the instrumental particle **[[bă (particle)|bă]]**.
 
 **The Spectrum:**
 
@@ -116,7 +116,7 @@ For extreme emphasis or to command a sudden switch in action, the speaker can us
 
 > `[nåhè-]` + `[Verb]` + `[-è / -wë]`
 
-- **Prefix:** **[[nåhè- (Particle)|nåhè-]]** (Now-Command / Switch).
+- **Prefix:** **[[nåhè- (particle)|nåhè-]]** (Now-Command / Switch).
 - **Suffix:** Standard Imperative (`-è` or `-wë`).
 - **Meaning:** "Do it NOW!", "Switch to this immediately!"
 

@@ -1,21 +1,24 @@
 ---
 title: Smntc_Field Logic
+aliases:
+  - Logic
 tags:
-  - semantic_field
-  - language
   - Asaxi
+  - language
+  - semantic_field
 ---
 # Logic Semantic Field
 
-This is a page with a list of all Asaxi words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **logic**.
+This is a page with a list of all [[The Asaxi Language|Asaxi]] words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **Logic**.
 
 Navigation:
 - [[The Asaxi Language|The Asaxi Language Index]]
-- [[index|Index - Homepage]]
+- [[index|Asaxi Wiki - Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
 
 - - -
 
-- [[xăxăŕa (Stative Verb)|xăxăŕa]]
+- [[xăxăŕa (verb)|xăxăŕa]]
 - [[mënů (verb)]] - to lessen, reduce, diminish
 
 - [[fjonýj (adjective)]] - abstract

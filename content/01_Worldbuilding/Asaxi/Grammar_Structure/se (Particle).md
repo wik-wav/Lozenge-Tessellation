@@ -1,5 +1,5 @@
 ---
-title: se (Particle) - Or (linking words/phrases, not clauses)
+title: se (particle) - Or (linking words/phrases, not clauses)
 Word (Asaxi): se
 trnsltion. En: Or (linking words/phrases, not clauses)
 tags:
@@ -44,7 +44,7 @@ _I want a green or red apple._
 
 ### Etymology
 
-Derived from **[[si (OR Logical Clause Connector)|si]]** (Clausal Or), with the vowel shifted to **e** to match the register of other nominal particles (like `sè`).
+Derived from **[[si (particle)|si]]** (Clausal Or), with the vowel shifted to **e** to match the register of other nominal particles (like `sè`).
 
 ### Synonyms
 
@@ -52,4 +52,4 @@ x
 
 ### Derived terms
 
-- [[si (OR Logical Clause Connector)|si]] - clausal "or" (counterpart)
+- [[si (particle)|si]] - clausal "or" (counterpart)

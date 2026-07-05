@@ -58,6 +58,6 @@ Null
 - **minůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[mimi (noun)|mimi]]** (Ear) + **[[06A_-n- (Morphological Infix)|-n-]]** (Function) + **-ů**.
+Derived from **[[mimi (noun)|mimi]]** (Ear) + **[[06A_-n- (particle)|-n-]]** (Function) + **-ů**.
 * **Morphological Rule (Reduplication):** If the root noun consists of a repeating syllable (`C1V1C1V1`), the second syllable is dropped before the infix is added.
 * *Logic:* `mimi` $\rightarrow$ `mi` + `n` + `ů` $\rightarrow$ **minů**.

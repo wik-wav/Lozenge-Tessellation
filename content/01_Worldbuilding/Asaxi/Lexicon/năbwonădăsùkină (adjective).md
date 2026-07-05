@@ -43,7 +43,7 @@ _You are the most beloved._
 Null
 
 ### Etymology
-**[[nă- (Degree Prefix)|nă-]]** (Most - Warm) + **[[bwonădăsùki (noun)|bwonădăsùki]]** (Adoration) + **-nă** (Adjective suffix).
+**[[nă- (particle)|nă-]]** (Most - Warm) + **[[bwonădăsùki (noun)|bwonădăsùki]]** (Adoration) + **-nă** (Adjective suffix).
 *Lit:* "The Most Adored-One."
 
 ### Synonyms

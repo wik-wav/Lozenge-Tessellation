@@ -57,7 +57,7 @@ Null
 - **pjoŕůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[pjo (noun)|pjo]]** (Light) + **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** (Generative Mode) + **-ů**.
+Derived from **[[pjo (noun)|pjo]]** (Light) + **[[06A_-ŕ- (particle)|-ŕ-]]** (Generative Mode) + **-ů**.
 * *Logic:* "To generate/produce light."
 
 ### Usage Note

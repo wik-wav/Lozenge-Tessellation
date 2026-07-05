@@ -1,5 +1,5 @@
 ---
-title: dăxă (Particle) - "Hopefully", "I wish", "Desirably".
+title: dăxă (particle) - "Hopefully", "I wish", "Desirably".
 Word (Asaxi): dăxă
 trnsltion. En: hopefully
 tags:
@@ -30,7 +30,7 @@ IPA: /daɪɦaɪ/
 
 ### Etymology
 
-**[[dăshá (noun)|dă]]** (Elephant) + **[[xa- (Relational Locative Prefix)|xa/xă]]** (Above/High). _Lit:_ "High Elephant." (Cultural association of the Elephant with height, greatness, and desire).
+**[[dăshá (noun)|dă]]** (Elephant) + **[[xa- (relational locative) (particle)|xa/xă]]** (Above/High). _Lit:_ "High Elephant." (Cultural association of the Elephant with height, greatness, and desire).
 
 ### Synonyms
 

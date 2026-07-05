@@ -8,17 +8,16 @@ tags:
   - language
   - semantic_field
 ---
-# Root words
+# Asaxi Root Words (List)
+
+This is a list of all [[The Asaxi Language|Asaxi]] root words with the first meaning translation in English.
+
+Roots classify the origin or core meaning of a word, which often cannot stand alone.
 
 Navigation:
 - [[The Asaxi Language|The Asaxi Language Index]]
-- [[index|Index - Homepage]]
- 
-- - - 
-
-Roots classify the origin or core meaning of a word, which often cannot stand alone. 
-
-This is a list of all [[The Asaxi Language|Asaxi]] root words with the word from which each root was derived written next to it.
+- [[index|Asaxi Wiki - Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
 
 - - -
 
@@ -36,5 +35,5 @@ This is a list of all [[The Asaxi Language|Asaxi]] root words with the word from
 - [[ŕo (root word)]] - '"-place", "-city", "-country"'
 - [[shě (root word)]] - '"of or related to books"'
 - [[sù (root word)]] - 'silica, glassy sand'
-- [[tá (Root Word)]] - '"of or relating to friction", "clash",'
+- [[tá (root word)]] - '"of or relating to friction", "clash",'
 - [[vè (root word)]] - 'plant (weak form)'

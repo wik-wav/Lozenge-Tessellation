@@ -43,7 +43,7 @@ _I draw this person._
 Null
 
 ### Etymology
-**[[tă (Mathematical Operator)|tă]]** (Add/Assemble) + **[[bi (noun)|bi]]** (Line) + **-ŕ-** (Generate) + **-ů**.
+**[[tă (particle)|tă]]** (Add/Assemble) + **[[bi (noun)|bi]]** (Line) + **-ŕ-** (Generate) + **-ů**.
 *Lit:* "To generate added-lines."
 
 ### Synonyms
@@ -60,7 +60,7 @@ Null
 - **tăbika** (A  drawing contest)
 
 ### Grammatical Note
-Derived from the compound root **tăbi** (Line-Assembly) + **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** (Generative Mode) + **-ů**.
+Derived from the compound root **tăbi** (Line-Assembly) + **[[06A_-ŕ- (particle)|-ŕ-]]** (Generative Mode) + **-ů**.
 
 ### Usage Note
 Refers specifically to **dry media** or **line-based** creation (pencil, pen, chalk). For painting (liquid/colour), use **[[iŕoŕů (verb)|iŕoŕů]]** (To colour/shine) or **[[gámŕonů (verb)|gámŕonů]]** (To paint).

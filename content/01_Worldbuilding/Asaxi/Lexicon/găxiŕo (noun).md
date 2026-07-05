@@ -37,7 +37,7 @@ _The stars are vibrant._
 Null
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (Type) + **-x-** (Bridge/Force) + **[[iŕo (noun)|iŕo]]** (Colour).
+**[[ga (particle)|ga]]** (Type) + **-x-** (Bridge/Force) + **[[iŕo (noun)|iŕo]]** (Colour).
 *Lit:* "Forced-Colour-Type."
 
 ### Synonyms

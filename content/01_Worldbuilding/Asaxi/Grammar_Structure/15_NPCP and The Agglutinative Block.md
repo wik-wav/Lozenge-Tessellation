@@ -52,25 +52,25 @@ This system allows for the creation of an **Agglutinative Particle Block**: a ch
 
 | Particle | Type       | Function          | Meaning / English Equivalent        |
 | -------- | ---------- | ----------------- | ----------------------------------- |
-| **to**   | Relational | **Nominative**    | Subject marker (Objective).         |
-| **ă**    | Relational | **Subjective**    | Subject marker (Internal/Felt).     |
-| **dhè**  | Relational | **Topic/Patient** | Passive Voice marker.               |
-| **sè**   | Relational | **Genitive**      | Of / 's / Belonging to.             |
-| **bă**   | Relational | **Instrumental**  | Using / With / Because of (Causal). |
-| **zá**   | Relational | **Comitative**    | With / Accompanied by.              |
-| **då**   | Relational | **Dative**        | To / For (recipient).               |
-| **ni**   | Relational | **Allative**      | To / Towards (destination).         |
-| **izo**  | Relational | **Ablative**      | From / Out of (source).             |
-| **måmå** | Relational | **Terminative**   | Until / Up to (limit).              |
-| **ăni**  | Relational | **Topical**       | About / Concerning / Regarding.     |
-| **ga**   | Fusing     | **Attributive**   | Made of / -type (lexical modifier). |
+| **[[to (particle)\|to]]**   | Relational | **Nominative**    | Subject marker (Objective).         |
+| **[[ă (particle)\|ă]]**    | Relational | **Subjective**    | Subject marker (Internal/Felt).     |
+| **[[dhè (particle)\|dhè]]**  | Relational | **Topic/Patient** | Passive Voice marker.               |
+| **[[sè (particle)\|sè]]**   | Relational | **Genitive**      | Of / 's / Belonging to.             |
+| **[[bă (particle)\|bă]]**   | Relational | **Instrumental**  | Using / With / Because of (Causal). |
+| **[[zá (particle)\|zá]]**   | Relational | **Comitative**    | With / Accompanied by.              |
+| **[[då (particle)\|då]]**   | Relational | **Dative**        | To / For (recipient).               |
+| **[[ni (particle)\|ni]]**   | Relational | **Allative**      | To / Towards (destination).         |
+| **[[izo (particle)\|izo]]**  | Relational | **Ablative**      | From / Out of (source).             |
+| **[[måmå (particle)\|måmå]]** | Relational | **Terminative**   | Until / Up to (limit).              |
+| **[[ăni (particle)\|ăni]]**  | Relational | **Topical**       | About / Concerning / Regarding.     |
+| **[[ga (particle)\|ga]]**   | Fusing     | **Attributive**   | Made of / -type (lexical modifier). |
 ### 1.1 The Dual Function of `to`
 
 The particle **to** serves two distinct functions depending on its position:
 1. **Subject Marker:** When it initiates a Noun Phrase.
 2. **Nominal Linker:** When it follows a Relational Particle block, connecting it to the head noun.
 
-**Exception: The Genitive Zero-Link** When using the Genitive particle **[[sè (Relational Particle)|sè]]** (Of/Belonging to), the linker `to` is **optional** and frequently dropped. The possession relationship is considered strong enough to bind the phrase directly to the Head Noun.
+**Exception: The Genitive Zero-Link** When using the Genitive particle **[[sè (particle)|sè]]** (Of/Belonging to), the linker `to` is **optional** and frequently dropped. The possession relationship is considered strong enough to bind the phrase directly to the Head Noun.
 
 - **Full Form:** `Sè John to shěso` ("John's book").
 - **Efficient Form:** `Sè John shěso` ("John's book").

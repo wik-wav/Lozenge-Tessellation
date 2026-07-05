@@ -50,7 +50,7 @@ Shortening of **[[dăo (noun)|dăo]]** (Aether/Big Blue).
 - **[[siŕo (noun)|siŕo]]** (The Void - Absence of sky).
 
 ### Derived terms
-- **[[onå (FOREVER Aspectual Marker)|onå]]** (Forever / Sky-Time).
+- **[[onå (particle)|onå]]** (Forever / Sky-Time).
 - **[[ỏwo (noun)|ỏwo]]** (Noon / Middle-Sky).
 - **[[gamaowo (noun)]]** (Night Sky).
 - **[[hwo (noun)]]** (Yesterday / Sky-Behind).

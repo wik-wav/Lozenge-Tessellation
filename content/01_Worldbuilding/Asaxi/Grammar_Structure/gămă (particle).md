@@ -22,7 +22,7 @@ tags:
 
 ### Logic & Etymology
 
-**[[gă (Indefinite Locative Prefix)|gă]]** (Somewhere/Indefinite) + **[[mă (Particle)|-mă]]** (Every).
+**[[gă (particle)|gă]]** (Somewhere/Indefinite) + **[[mă (particle)|-mă]]** (Every).
 * *Lit:* "Every-somewhere" or "Every-indefinite-instance."
 * *Logic:* Since `gă` represents indefinite existence (concepts that are "somewhere" but not fixed), combining it with "Every" creates the concept of "Any/Every time."
 
@@ -47,4 +47,4 @@ _Whenever it rains, I read._
 
 ### Derived terms
 
-- **mă**-family: [[ximă (Particle)|ximă]] (daily), [[txămă (Particle)|txămă]] (yearly), [[åmă (Particle)|åmă]] (every time)
+- **mă**-family: [[ximă (particle)|ximă]] (daily), [[txămă (particle)|txămă]] (yearly), [[åmă (particle)|åmă]] (every time)

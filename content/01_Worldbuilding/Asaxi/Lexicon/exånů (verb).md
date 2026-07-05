@@ -57,5 +57,5 @@ Null
 - **exånůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[exå (noun)|exå]]** (Smile) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+Derived from **[[exå (noun)|exå]]** (Smile) + **[[06A_-n- (particle)|-n-]]** (Performance) + **-ů**.
 * *Logic:* "To perform a smile."

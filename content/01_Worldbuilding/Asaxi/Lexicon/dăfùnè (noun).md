@@ -38,7 +38,7 @@ _The ship carries many people._
 Null
 
 ### Etymology
-[[dă- (Degree Prefix)|dă-]] (great) + *fùnè* (boat, full form; cf. [[fnè (noun)|fnè]]). *Lit:* "great-boat."
+[[dă- (particle)|dă-]] (great) + *fùnè* (boat, full form; cf. [[fnè (noun)|fnè]]). *Lit:* "great-boat."
 
 ### Synonyms
 Null

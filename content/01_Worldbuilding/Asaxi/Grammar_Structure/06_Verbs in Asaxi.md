@@ -57,7 +57,7 @@ All Derived Verbs (`-ů`) share the same inherent aspect: **Activity**.
 
 ## 3. Negation Logic
 
-To negate a verb, the particle **[[ná (Particle)|ná]]** attaches to the end of the verbalizer.
+To negate a verb, the particle **[[ná (particle)|ná]]** attaches to the end of the verbalizer.
 
 - **Structure:** `[Noun] + [Mode] + [ů] + [ná]`
 - **Example:** **shěsonůná** (Does not read).

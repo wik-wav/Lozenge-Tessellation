@@ -40,7 +40,7 @@ _This small place looks good._
 Null
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (Type) + **[[hji (noun)|hji]]** (Slightness).
+**[[ga (particle)|ga]]** (Type) + **[[hji (noun)|hji]]** (Slightness).
 *Lit:* "Slight-type."
 
 ### Synonyms

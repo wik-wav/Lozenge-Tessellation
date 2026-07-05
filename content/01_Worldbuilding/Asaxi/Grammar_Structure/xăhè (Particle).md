@@ -1,5 +1,5 @@
 ---
-title: xăhè (Particle) - To force to...
+title: xăhè (particle) - To force to...
 Word (Asaxi): xăhè
 trnsltion. En: To force to...
 tags:
@@ -18,7 +18,7 @@ tags:
 
 - **Particle type:** [[02_Particles in Asaxi|High Binding Particle Compound]]
 - **Function:** **Coercive Agency** (Voice) / **Strict Prohibition** (Mood)
-- **Logic:** Combines **[[xă (Particle)|xă]]** (Force/Emphasis) + **[[hè (Particle)|hè]]** (Agency/Command).
+- **Logic:** Combines **[[xă (particle)|xă]]** (Force/Emphasis) + **[[hè (particle)|hè]]** (Agency/Command).
 
 ### Usage Notes (Mirror Grammar)
 
@@ -40,7 +40,7 @@ IPA: /ɦaɪxə/ (The `h` is retained to distinguish the two particles clearly).
 
 ### Etymology
 
-A fusion of **[[xă (Particle)|xă]]** (Indeed/Force) and **[[hè (Particle)|hè]]** (Command/Cause).
+A fusion of **[[xă (particle)|xă]]** (Indeed/Force) and **[[hè (particle)|hè]]** (Command/Cause).
 
 ### Example sentences
 
@@ -50,7 +50,7 @@ A fusion of **[[xă (Particle)|xă]]** (Indeed/Force) and **[[hè (Particle)|hè
 
 ### Antonyms
 
-- **[[băhè (Particle)]]** (Prefix: To Allow / Permit).
+- **[[băhè (particle)]]** (Prefix: To Allow / Permit).
 
 ### Derived terms
 

@@ -45,7 +45,7 @@ _All the people shouted._
 Null
 
 ### Etymology
-**[[ă (Relational Particle)|ă]]** (Internal/Subjective) + **ja** (mimetic)
+**[[ă (particle)|ă]]** (Internal/Subjective) + **ja** (mimetic)
 
 ### Synonyms
 Null

@@ -41,7 +41,7 @@ Null
 x
 
 ### Etymology
-**[[vivi (noun) - as in family of plants|vivi]]** (Grass/Life) + **-n-** (Function) + **-ů** (Act). _Lit:_ "To perform grass/life."
+**[[vivi (family of plants) (noun)|vivi]]** (Grass/Life) + **-n-** (Function) + **-ů** (Act). _Lit:_ "To perform grass/life."
 
 ### Synonyms
 x
@@ -56,7 +56,7 @@ Null
 - **vivinůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from the noun **[[vivi (noun) - as in family of plants|vivi]]** (Grass/Life) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance Infix) + **[[ů (verb)|-ů]]** (Universal Verbalizer).
+Derived from the noun **[[vivi (family of plants) (noun)|vivi]]** (Grass/Life) + **[[06A_-n- (particle)|-n-]]** (Performance Infix) + **[[ů (verb)|-ů]]** (Universal Verbalizer).
 
 ### Usage Note
 **Contrast with `vanů`:**

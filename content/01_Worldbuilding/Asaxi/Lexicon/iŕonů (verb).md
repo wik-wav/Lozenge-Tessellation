@@ -57,7 +57,7 @@ Null
 - [[kiŕonů (verb)|kiŕonů]] - to cut (with a blade)
 
 ### Grammatical Note
-Derived from **[[iŕo (noun)|iŕo]]** (Colour) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+Derived from **[[iŕo (noun)|iŕo]]** (Colour) + **[[06A_-n- (particle)|-n-]]** (Performance) + **-ů**.
 * *Lit:* "To perform colour." / "To be colourful."
 
 ### Usage Note

@@ -46,7 +46,7 @@ _I am learning Asaxi._
 Null
 
 ### Etymology
-**ni-** (Inceptive prefix, [[ni- (Inceptive Prefix)]]) + **[[cè (verb)|cè]]** (know) — „to begin to know”.
+**ni-** (Inceptive prefix, [[ni- (particle)]]) + **[[cè (verb)|cè]]** (know) — „to begin to know”.
 
 ### Synonyms
 - [[cè (verb)|cè]] (to know)

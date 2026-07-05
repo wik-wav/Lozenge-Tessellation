@@ -40,7 +40,7 @@ The use of specific grammatical forms implies 100% certainty. You cannot use the
 
 ### 2. Subjective Qualification (The `tte` Construction)
 
-To express degrees of certainty, Asaxi uses the **Quotative/Topic Particle [[tte (Quotative Particle)|tte]]** followed by a **Cognitive Verb**.
+To express degrees of certainty, Asaxi uses the **Quotative/Topic Particle [[tte (particle)|tte]]** followed by a **Cognitive Verb**.
 
 - **Structure:** `[Statement] tte [Cognitive Verb]`
 - **Logic:** "As for [Statement], I [Cognition]."
@@ -69,7 +69,7 @@ Speakers can comment on the _validity_ of a past or future event by using `tte` 
 
 > **[Statement] tte sỏxiŕa.** `QT` `MEMORIC-EXIST` _"That's how it was (in my memory)."_
 > 
-> - _Logic:_ Uses the **Subjective Past [[sỏ (Tense Prefix)|sỏ-]]**. It asserts the fact, but frames it as a personal memory rather than a history book entry.
+> - _Logic:_ Uses the **Subjective Past [[sỏ (particle)|sỏ-]]**. It asserts the fact, but frames it as a personal memory rather than a history book entry.
 
 **C. Future Fact ("That's how it will be")**
 

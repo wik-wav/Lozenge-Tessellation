@@ -46,7 +46,7 @@ _Weight-training requires effort._
 Null
 
 ### Etymology
-From the sentence-final necessitative particle **[[wë (Particle)|wë]]** ("need"), promoted to a full verb.
+From the sentence-final necessitative particle **[[wë (particle)|wë]]** ("need"), promoted to a full verb.
 
 ### Synonyms
 Null

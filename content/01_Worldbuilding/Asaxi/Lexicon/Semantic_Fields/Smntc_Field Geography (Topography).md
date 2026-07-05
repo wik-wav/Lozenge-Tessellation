@@ -1,25 +1,28 @@
 ---
 title: Smntc_Field Geography (Topography)
+aliases:
+  - Geography (Topography)
 tags:
-  - semantic_field
-  - language
   - Asaxi
+  - language
+  - semantic_field
 ---
 # Geography (Topography) Semantic Field
 
-This is a page with a list of all Asaxi words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **Geography (Topography)**.
+This is a page with a list of all [[The Asaxi Language|Asaxi]] words belonging to the [[01_Semantic Fields (Nouns, Adjectives)|semantic field]] of **Geography (Topography)**.
 
 Navigation:
 - [[The Asaxi Language|The Asaxi Language Index]]
-- [[index|Index - Homepage]]
+- [[index|Asaxi Wiki - Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
 
 - - -
 
 - [[gă (noun)]] - place
-- [[o-gă (Compound Locative Noun)]] - here
-- [[no-gă (Compound Locative Noun)]] - there (near you)
-- [[ko-gă (Compound Locative Noun)]] - over there
-- [[gă-gă (Compound Locative Noun)]] - somewhere
+- [[o-gă (noun)]] - here
+- [[no-gă (noun)]] - there (near you)
+- [[ko-gă (noun)]] - over there
+- [[gă-gă (noun)]] - somewhere
 - [[Itaŕi (noun)]] - Italy
 - [[siŕo (noun)]] - the great unknown
 - [[xăsiŕo (noun)]] - outer space

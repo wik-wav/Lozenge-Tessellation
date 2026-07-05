@@ -1,5 +1,5 @@
 ---
-title: chå (Particle) - "Completely", "Fully", "To the end", "Through to completion."
+title: chå (particle) - "Completely", "Fully", "To the end", "Through to completion."
 Word (Asaxi): chå
 trnsltion. En: '"Completely", "Fully", "To the end", "Through to completion."'
 tags:
@@ -57,4 +57,4 @@ Likely derived from the root **[[chěcho' (verb)|chěcho']]** (To close/shut) + 
 
 ### Derived terms
 
-- [[săsă (Quantifier)|săsă]] - the whole of (nominal counterpart)
+- [[săsă (particle)|săsă]] - the whole of (nominal counterpart)

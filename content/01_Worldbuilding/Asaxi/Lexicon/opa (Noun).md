@@ -1,5 +1,5 @@
 ---
-title: opa (Noun) - the immediate future, the next moment
+title: opa (noun) - the immediate future, the next moment
 Word (Asaxi): opa
 trnsltion. En: the immediate future, the brink, the verge, the next moment
 trnsltion. Pl: najbliższa przyszłość
@@ -35,7 +35,7 @@ IPA: /opa/
 Null
 
 ### Etymology
-**[[o (Proximal Locative Prefix)|o-]]** (Here) + **[[pa (Noun)|pa]]** (Future).
+**[[o (proximal locative) (particle)|o-]]** (Here) + **[[pa (Noun)|pa]]** (Future).
 *Lit:* "The Here-Future."
 
 ### Synonyms

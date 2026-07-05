@@ -1,5 +1,5 @@
 ---
-title: nỏwă (Particle) - Don't want to
+title: nỏwă (particle) - Don't want to
 Word (Asaxi): nỏwă
 trnsltion. En: Don't want to
 tags:

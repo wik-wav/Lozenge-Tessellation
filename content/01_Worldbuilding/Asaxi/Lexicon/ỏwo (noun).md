@@ -37,7 +37,7 @@ _The center is green._
 Null
 
 ### Etymology
-**[[ỏ- (Relational Locative Prefix)|ỏ]]** (Middle) + **-w-** + **[[o (Proximal Locative Prefix)|o]]** (Here).
+**[[ỏ- (particle)|ỏ]]** (Middle) + **-w-** + **[[o (proximal locative) (particle)|o]]** (Here).
 *Lit:* "The Middle-Here."
 
 ### Synonyms

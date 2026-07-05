@@ -42,7 +42,7 @@ Because I got rid of the things I love, I cry every night.
 - xoxonăno' (Emphatic)
 
 ### Etymology
-[[xoxo (verb)|xoxo]] (departure/to depart) + [[nă (Particle)|nă]] (prohibitive/don't) + [[nono (noun)|no]] (thing)
+[[xoxo (verb)|xoxo]] (departure/to depart) + [[nă (particle)|nă]] (prohibitive/don't) + [[nono (noun)|no]] (thing)
 *Literally: "The don't-depart-thing" or "The thing (I plea) not to leave"*
 
 ### Synonyms

@@ -44,7 +44,7 @@ _I am sure of it._
 Null
 
 ### Etymology
-**[[xă (Particle)|xă-]]** (Truly/Indeed) + **[[cè (verb)|cè]]** (Know).
+**[[xă (particle)|xă-]]** (Truly/Indeed) + **[[cè (verb)|cè]]** (Know).
 *Lit:* "Truly-know."
 
 ### Synonyms

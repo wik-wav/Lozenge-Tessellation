@@ -37,4 +37,4 @@ Distinct from the prefix **jå-**.
 
 ### Etymology
 
-Derived from **[[wa (Pronoun)|wa]]** (We) / **[[wo (Pronoun)|wo]]** (I). _Logic:_ Represents the "Will of the Self."
+Derived from **[[wa (particle)|wa]]** (We) / **[[wo (particle)|wo]]** (I). _Logic:_ Represents the "Will of the Self."

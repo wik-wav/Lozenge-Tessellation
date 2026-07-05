@@ -272,3 +272,36 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
     overscroll-behavior: none;
   }
 }
+
+// --- Fix wheel-scroll over content (desktop): make .explorer-content the single
+// flex-bounded scroll container instead of the overflow:hidden wrapper + inner ul. ---
+@media all and not ($mobile) {
+  .explorer {
+    flex: 1 1 auto;
+    min-height: 0;
+
+    &.collapsed {
+      flex: 0 1 1.2rem;
+      min-height: 1.2rem;
+    }
+  }
+
+  .explorer > .explorer-content {
+    flex: 1 1 auto;
+    min-height: 0;
+    max-height: none;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+
+    // keep the bottom fade when there is more content below
+    &:has(> .explorer-ul.gradient-active) {
+      mask-image: linear-gradient(to bottom, black calc(100% - 50px), transparent 100%);
+    }
+  }
+
+  // the inner list no longer scrolls itself (parent scrolls), so wheel works everywhere
+  .explorer > .explorer-content > .explorer-ul {
+    max-height: none;
+    overflow: visible;
+  }
+}

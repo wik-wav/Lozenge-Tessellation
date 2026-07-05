@@ -37,7 +37,7 @@ _An apple is in the inside of the basket._
 Null
 
 ### Etymology
-**[[va- (Relational Locative Prefix)|va]]** (Inside) + **-w-** (Bridge) + **[[o (Proximal Locative Prefix)|o]]** (Here).
+**[[va- (particle)|va]]** (Inside) + **-w-** (Bridge) + **[[o (proximal locative) (particle)|o]]** (Here).
 *Lit:* "The Inside-Here."
 
 ### Synonyms

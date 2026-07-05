@@ -18,53 +18,53 @@ Navigation:
 
 ## Interjections & Responses
 
-- **[[vi (Particle)]]** - good! / ok! / will do
+- **[[vi (particle)]]** - good! / ok! / will do
 
 ## [[00_Noun Classification (Gender) in Asaxi|Noun Classifiers]]
 
 - **Definite**
-    - **[[onă (Determiner)]]** - this (warm)
-    - **[[onýj (Determiner)]]** - this (cold)
+    - **[[onă (particle)]]** - this (warm)
+    - **[[onýj (particle)]]** - this (cold)
 - **Indefinite**
-    - **[[anő (Determiner)]]** - this (indefinite, both)
+    - **[[anő (particle)]]** - this (indefinite, both)
 - **Specific Indefinite ("A certain")**
-	- **[[ponă (Determiner)]]** - a certain (warm)
-	- **[[ponýj (Determiner)]]** - a certain (cold)
-	- **[[panő (Determiner)]]** - a certain (neutral)
+	- **[[ponă (particle)]]** - a certain (warm)
+	- **[[ponýj (particle)]]** - a certain (cold)
+	- **[[panő (particle)]]** - a certain (neutral)
 
 ## [[02_Particles in Asaxi]]
 
 ### Polarity & Validity Particles
 
 - **Positive/Emphasis**
-    - **[[xă (Particle)]]** - yes / indeed
-    - **[[vi (Particle)]]** - yes / yep / agreement
+    - **[[xă (particle)]]** - yes / indeed
+    - **[[vi (particle)]]** - yes / yep / agreement
 - **Negative**
-    - **[[ná (Particle)]]** - not
-    - **[[pxů (Particle)]]** - no / nope / refusal
+    - **[[ná (particle)]]** - not
+    - **[[pxů (particle)]]** - no / nope / refusal
 - **Stative / Existence**
-    - **[[xiŕa (Particle)]]** - is / exists (fact)
-    - **[[nèŕa (Particle)]]** - is not / does not exist
+    - **[[xiŕa (particle)]]** - is / exists (fact)
+    - **[[nèŕa (particle)]]** - is not / does not exist
 
 ### Mood & Agency Particles (Prefix/Suffix)
 
-- **[[hè (Particle)|hè]]** (Imperative Marker):
+- **[[hè (particle)|hè]]** (Imperative Marker):
 	- **Suffix (`-hè`):** Standard Command. "Do it."
 	- **Prefix (`hè-`):** Emphatic Command. "DO it!"
 	- _Note:_ For Causatives (Making someone do it), use the compounds **xăhè-** or **băhè-**.
-- **[[xă (Particle)|xă]]**: Emphasis.
+- **[[xă (particle)|xă]]**: Emphasis.
     - **Free Shifting:** Can appear as a **Suffix** (`shěsonůxă`) or a **Prefix** (`xăshěsonů`).
-- **[[xăhè (Particle)]]** - force (prefix)
-- **[[băhè (Particle)]]** - allow / enable
+- **[[xăhè (particle)]]** - force (prefix)
+- **[[băhè (particle)]]** - allow / enable
 - **[[náxăbăhè (particle)]]** - ban / explicitly prohibit
-- **[[kă (Particle)]]** - please / kindly (request)
-- **[[xăkă (Particle)]]** - instruction / high polite request
-- **[[náxăkă (Particle)]]** - please do not / polite prohibition
-- **[[nåhè- (Particle)]]** - now do! / switch action (imperative)
-- **[[naŕè (Mood Particle)|naŕè]]** - should / ought to (propriety)
-- **[[nánaŕè (Mood Particle)|nánaŕè]]** - should not / not supposed to
-- **[[nă (Particle)]]** - stop! / cease! (interruption command)
-- **[[sů (Particle)]]** - continue! / keep going! (continuation command)
+- **[[kă (particle)]]** - please / kindly (request)
+- **[[xăkă (particle)]]** - instruction / high polite request
+- **[[náxăkă (particle)]]** - please do not / polite prohibition
+- **[[nåhè- (particle)]]** - now do! / switch action (imperative)
+- **[[naŕè (particle)|naŕè]]** - should / ought to (propriety)
+- **[[nánaŕè (particle)|nánaŕè]]** - should not / not supposed to
+- **[[nă (particle)]]** - stop! / cease! (interruption command)
+- **[[sů (particle)]]** - continue! / keep going! (continuation command)
 
 ### Potential Mood Particles (Sentence Final)
 
@@ -73,32 +73,32 @@ Navigation:
 
 ### Subjunctive & Desiderative Particles (Sentence Final)
 
-- **[[xăxă (Particle)]]** - would / as if (hypothetical)
-- **[[dăxă (Particle)]]** - hopefully / I wish
-- **[[pùxă (Particle)]]** - I hope not / lest
-- **[[xădăchỏxă (Particle)]]** - please god / prayer
+- **[[xăxă (particle)]]** - would / as if (hypothetical)
+- **[[dăxă (particle)]]** - hopefully / I wish
+- **[[pùxă (particle)]]** - I hope not / lest
+- **[[xădăchỏxă (particle)]]** - please god / prayer
 
 ## Tense & Aspect Prefixes
 
 _These attach to the front of the verb to define the time or texture of the action._
 
-- **[[zè (Tense Prefix)|zè-]]** - Past Tense (Simple/Perfective)
-- **[[sỏ (Tense Prefix)|sỏ-]]** - Subjective Past Tense (Memoric/Nostalgic).
-- **[[pa (Tense Prefix)|pa-]]** - Future Tense (Explicit)
-- **[[o (Tense Prefix)|o-]]** - Immediate (Just now / About to) _When used as a tense modifier._
-- **[[ko (Tense Prefix)|ko-]]** - Remote / Mythic (Long ago / Someday) _When used as a tense modifier._
-- **[[hù- (Tense Prefix)|hù-]]** - Pluperfect / Past-Future (Behind) _When used as a tense modifier._
-- **[[na- (Tense Prefix)|na-]]** - Iterative Aspect (Re-do / Again) _When applied to a verb.
-- **[[panå- (Tense Prefix)]]** - immediate switch / will do now
-- **[[mi- (Tense Prefix)|mi-]]** - subjective present (feeling/sensing now)
+- **[[zè (particle)|zè-]]** - Past Tense (Simple/Perfective)
+- **[[sỏ (particle)|sỏ-]]** - Subjective Past Tense (Memoric/Nostalgic).
+- **[[pa (particle)|pa-]]** - Future Tense (Explicit)
+- **[[o (tense) (particle)|o-]]** - Immediate (Just now / About to) _When used as a tense modifier._
+- **[[ko (tense) (particle)|ko-]]** - Remote / Mythic (Long ago / Someday) _When used as a tense modifier._
+- **[[hù- (tense) (particle)|hù-]]** - Pluperfect / Past-Future (Behind) _When used as a tense modifier._
+- **[[na- (tense) (particle)|na-]]** - Iterative Aspect (Re-do / Again) _When applied to a verb.
+- **[[panå- (particle)]]** - immediate switch / will do now
+- **[[mi- (particle)|mi-]]** - subjective present (feeling/sensing now)
 
 ## Modal Prefixes (Auxiliary Roots)
 
 _Root verbs that attach to the front of the main verb to define intent or effort._
 
-- **[[jå- (Desiderative Prefix)|jå-]]** - Desiderative (Want to)
-- **[[xè- (Conative Prefix)|xè-]]** - Conative (Try to)
-- **[[ni- (Inceptive Prefix)|ni-]]** - Inceptive (Start to)
+- **[[jå- (particle)|jå-]]** - Desiderative (Want to)
+- **[[xè- (particle)|xè-]]** - Conative (Try to)
+- **[[ni- (particle)|ni-]]** - Inceptive (Start to)
 
 ### Post-Positional Aspect
 
@@ -108,18 +108,18 @@ _Root verbs that attach to the front of the main verb to define intent or effort
 
 _These bridges insert between the Noun and the `-ů` suffix to define the mode of action._
 
-- **[[06A_-n- (Morphological Infix)|-n-]]** - Performance (to use / function) _Default_
-- **[[06A_-x- (Morphological Infix)|-x-]]** -  Interaction (to force / do to)
-- **[[06A_-w- (Morphological Infix)|-w-]]** - Semblance (to act like)
-- **[[06A_-k- (Morphological Infix)|-k-]]** - Transformative (to turn into)
-- **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** - Generative (to produce / create)
-- **[[06A_-sh- (Morphological Infix)|-sh-]]** - Privative (to remove / strip)
-- **[[06A_-ch- (Morphological Infix)|-ch-]]** - Subjective (to feel like / believe)
-- **[[06A_-j- (Morphological Infix)|-j-]]** - Visual (to look like)
-- **[[06A_-s- (Morphological Infix)|-s-]]** - Auditory (to sound like)
-- **[[06A_-ŋ- (Morphological Infix)|-ng-]]** - Olfactory (to smell like)
-- **[[06A_-p- (Morphological Infix)|-p-]]** - Tactile (to feel like / touch)
-- **[[06A_-zh- (Morphological Infix)|-zh-]]** - Gustatory (to taste like)
+- **[[06A_-n- (particle)|-n-]]** - Performance (to use / function) _Default_
+- **[[06A_-x- (particle)|-x-]]** -  Interaction (to force / do to)
+- **[[06A_-w- (particle)|-w-]]** - Semblance (to act like)
+- **[[06A_-k- (particle)|-k-]]** - Transformative (to turn into)
+- **[[06A_-ŕ- (particle)|-ŕ-]]** - Generative (to produce / create)
+- **[[06A_-sh- (particle)|-sh-]]** - Privative (to remove / strip)
+- **[[06A_-ch- (particle)|-ch-]]** - Subjective (to feel like / believe)
+- **[[06A_-j- (particle)|-j-]]** - Visual (to look like)
+- **[[06A_-s- (particle)|-s-]]** - Auditory (to sound like)
+- **[[06A_-ŋ- (particle)|-ng-]]** - Olfactory (to smell like)
+- **[[06A_-p- (particle)|-p-]]** - Tactile (to feel like / touch)
+- **[[06A_-zh- (particle)|-zh-]]** - Gustatory (to taste like)
 
 ## Degree & Comparison Markers
 
@@ -127,47 +127,47 @@ _Prefixes and particles used to modify intensity or compare nouns._
 
 **Degree Prefixes (Attach to Adjective/Adverb)**
 
-- **[[xă- (Degree Prefix)|xă-]]** - Very / Truly
-- **[[me- (Degree Prefix)|me-]]** - About / Approximately
-- **[[na- (Degree Prefix)|na-]]** - More (Comparative)
-- **[[pù- (Degree Prefix)|pù-]]** - Less (Comparative)
-- **[[nă- (Degree Prefix)|nă-]]** - Most (Superlative - Warm Source)
-- **[[nýj- (Degree Prefix)|nýj-]]** - Most (Superlative - Cold Source)
-- **[[năná- (Degree Prefix)|năná-]]** - Least (Warm Source)
-- **[[nýjnè- (Degree Prefix)|nýjnè-]]** - Least (Cold Source)
-- **[[dă- (Degree Prefix)|dă-]]** - very / much / a lot (Augmentative)
+- **[[xă- (particle)|xă-]]** - Very / Truly
+- **[[me- (particle)|me-]]** - About / Approximately
+- **[[na- (degree) (particle)|na-]]** - More (Comparative)
+- **[[pù- (degree) (particle)|pù-]]** - Less (Comparative)
+- **[[nă- (particle)|nă-]]** - Most (Superlative - Warm Source)
+- **[[nýj- (particle)|nýj-]]** - Most (Superlative - Cold Source)
+- **[[năná- (particle)|năná-]]** - Least (Warm Source)
+- **[[nýjnè- (particle)|nýjnè-]]** - Least (Cold Source)
+- **[[dă- (particle)|dă-]]** - very / much / a lot (Augmentative)
 
 **Comparative Coordinators (Link Nouns)**
 
 - **[[bi (noun)|bi]]** - Equal to (As X as...)
-- **[[nani (Comparative Particle)|nani]]** - More than
-- **[[pùni (Comparative Particle)|pùni]]** - Less than
+- **[[nani (particle)|nani]]** - More than
+- **[[pùni (particle)|pùni]]** - Less than
 
 ### Aspectual Particles
 
-- **[[chå (Particle)]]** - completely / fully (completive aspect)
+- **[[chå (particle)]]** - completely / fully (completive aspect)
 
 ### Floating Modifiers (Distributives)
 
 _These appear **before** the verb or noun they modify._
 
 - **[[ojano (particle)]]** - individually / separately (general)
-- **[[jonojo (Particle)]]** - one by one (sequential)
-- **[[okonoko (Particle)]]** - here and there (scattered)
+- **[[jonojo (particle)]]** - one by one (sequential)
+- **[[okonoko (particle)]]** - here and there (scattered)
 
 **Distributives & Frequency**
 
-- **[[ksămăni (Particle)]]** - any way one likes / however
-- **[[săsă (Quantifier)]] / [[săsă (Quantifier)|să-]]** -  all of, the entire (thing), the whole of, the full extent of
-- **[[mămă (Quantifier)]]** - all, every, every single one
-- **[[dăgo (Quantifier)]]** - many / a lot of
-- **[[fůtăgo (Quantifier)]]** - some / more than 0
-- **[[hjigo (Quantifier)]]** - few / little
-- **[[sănani (Quantifier)]]** - some / several (more than 1)
-- **[[wăpùni (Quantifier)]]** - few (less than 9)
-- **[[wănani (Quantifier)]]** - many (more than 9)
-- **[[săni (Quantifier)]]** - most but not all
-- **[[fůmă (Quantifier)]]** - none
+- **[[ksămăni (particle)]]** - any way one likes / however
+- **[[săsă (particle)]] / [[săsă (particle)|să-]]** -  all of, the entire (thing), the whole of, the full extent of
+- **[[mămă (particle)]]** - all, every, every single one
+- **[[dăgo (particle)]]** - many / a lot of
+- **[[fůtăgo (particle)]]** - some / more than 0
+- **[[hjigo (particle)]]** - few / little
+- **[[sănani (particle)]]** - some / several (more than 1)
+- **[[wăpùni (particle)]]** - few (less than 9)
+- **[[wănani (particle)]]** - many (more than 9)
+- **[[săni (particle)]]** - most but not all
+- **[[fůmă (particle)]]** - none
 
 ### Connective Particles (Coordinators & Conjunctions)
 
@@ -175,58 +175,58 @@ _These appear **before** the verb or noun they modify._
 
 - **[[ja (particle)]]** - and (list connector)
 - **[[jhaná (particle)]]** - but not (exclusion)
-- **[[se (Particle)]]** - or (nominal connector)
+- **[[se (particle)]]** - or (nominal connector)
 
 **Logical (Clause Linking)**
 
-- **[[dzè (BUT Logical Clause Connector)|dzè]]** - but / however
-- **[[si (OR Logical Clause Connector)|si]]** - or
-- **[[ŕa (AND Logical Clause Connector)|ŕa]]** - and (clause connector)
-- **[[sèwo (BECAUSE Logical Clause Connector)|sèwo]]** - because / since
-- **[[ninå (THEREFORE Logical Clause Connector)|ninå]]** - therefore
-- **[[sèni (SO Logical Clause Connector)|sèni]]** - so / therefore (mid-sentence fusion)
+- **[[dzè (particle)|dzè]]** - but / however
+- **[[si (particle)|si]]** - or
+- **[[ŕa (particle)|ŕa]]** - and (clause connector)
+- **[[sèwo (particle)|sèwo]]** - because / since
+- **[[ninå (particle)|ninå]]** - therefore
+- **[[sèni (particle)|sèni]]** - so / therefore (mid-sentence fusion)
 
 **Temporal & Conditional**
 
-- **[[vå (WHEN Temporal Connector)|vå]]** - when
-- **[[zå (THEN Temporal Connector)|zå]]** - then / next
-- **[[nivå (WHILE Temporal Connector)|nivå]]** - while / during
-- **[[panå (NOT YET Aspectual Marker)|panå]]** - not yet / before
-- **[[nå (NOW Aspectual Marker)|nå]]** - now / already
-- **[[vanå (STILL Aspectual Marker)|vanå]]** - still (ongoing)
-- **[[onå (FOREVER Aspectual Marker)|onå]]** - forever / always
-- **[[nanå (OFTEN Aspectual Marker)|nanå]]** - often
-- **[[gănå (SOMETIME Aspectual Marker)|gănå]]** - sometime
-- **[[nåsi (NEVER Aspectual Marker)|nåsi]]** - never
-- **[[opùnå (USUALLY Frequency Particle)|opùnå]]** - usually / normally
-- **[[chě (IF Conditional Particle)|chě]]** - if (conditional)
-- **[[chěxa (EVEN IF Conditional Compound)|chěxa]]** - even if / although
-- **[[chěná (UNLESS Conditional Compound)|chěná]]** - unless / except if
-- **[[ximă (Particle)]]** - daily / every day
-- **[[åmă (Particle)]]** - every time
+- **[[vå (particle)|vå]]** - when
+- **[[zå (particle)|zå]]** - then / next
+- **[[nivå (particle)|nivå]]** - while / during
+- **[[panå (particle)|panå]]** - not yet / before
+- **[[nå (particle)|nå]]** - now / already
+- **[[vanå (particle)|vanå]]** - still (ongoing)
+- **[[onå (particle)|onå]]** - forever / always
+- **[[nanå (particle)|nanå]]** - often
+- **[[gănå (particle)|gănå]]** - sometime
+- **[[nåsi (particle)|nåsi]]** - never
+- **[[opùnå (particle)|opùnå]]** - usually / normally
+- **[[chě (particle)|chě]]** - if (conditional)
+- **[[chěxa (particle)|chěxa]]** - even if / although
+- **[[chěná (particle)|chěná]]** - unless / except if
+- **[[ximă (particle)]]** - daily / every day
+- **[[åmă (particle)]]** - every time
 - **[[ămă (noun)]]** - the right time
-- **[[ămăni (Particle)]]** - at your leisure / whenever you like
+- **[[ămăni (particle)]]** - at your leisure / whenever you like
 - **[[gămă (particle)]]** - whenever / at any time
-- **[[izånixå (Particle)]]** - from time to time / occasionally
-- **[[găxăni (Particle)]]** - forever / for an eternity
+- **[[izånixå (particle)]]** - from time to time / occasionally
+- **[[găxăni (particle)]]** - forever / for an eternity
 
 **Base Temporal Nouns**
 
-- **[[zè (Noun)]]** - the past
-- **[[pa (Noun)]]** - the future
-- **[[ozè (Tense Prefix)]]** - the immediate past / just now
-- **[[opa (Noun)]]** - the immediate future / the brink
-- **[[kozè (Noun)]]** - the distant past / antiquity
-- **[[kopa (Noun)]]** - the distant future
+- **[[zè (noun)]]** - the past
+- **[[pa (noun)]]** - the future
+- **[[ozè (particle)]]** - the immediate past / just now
+- **[[opa (noun)]]** - the immediate future / the brink
+- **[[kozè (noun)]]** - the distant past / antiquity
+- **[[kopa (noun)]]** - the distant future
 
 **Locative Temporal Settings**
 
-- **[[vazè (Temporal Noun)]]** - in the past
-- **[[nipa (Temporal Noun)]]** - in the future
-- **[[vozè (Temporal Noun)]]** - in the immediate past / a moment ago
-- **[[ńopa (Temporal Noun)]]** - in the immediate future / on the brink
-- **[[vkozè (Temporal Noun)]]** - in the distant past
-- **[[nikpa (Temporal Noun)]]** - in the distant future
+- **[[vazè (noun)]]** - in the past
+- **[[nipa (noun)]]** - in the future
+- **[[vozè (noun)]]** - in the immediate past / a moment ago
+- **[[ńopa (noun)]]** - in the immediate future / on the brink
+- **[[vkozè (noun)]]** - in the distant past
+- **[[nikpa (noun)]]** - in the distant future
 
 **Idiomatic Time**
 
@@ -234,52 +234,52 @@ _These appear **before** the verb or noun they modify._
 
 **Quotative & Topic**
 
-- **[[tte (Quotative Particle)|tte]]** - that / so / quoting
+- **[[tte (particle)|tte]]** - that / so / quoting
 
 **Idiomatic Adverbs & Expressions**
 
-- **[[tte ŕima (Expression)]]** - I think that... (Uncertainty)
-- **[[tte xăcè (Expression)]]** - I am sure that... (Certainty)
-- **[[tte pùŕima (Expression)]]** - I suspect that... / I am unsure
-- **[[tte xăcè (Expression)]]** - I am sure that... / I know for a fact
+- **[[tte ŕima (Idiom)]]** - I think that... (Uncertainty)
+- **[[tte xăcè (Idiom)]]** - I am sure that... (Certainty)
+- **[[tte pùŕima (Idiom)]]** - I suspect that... / I am unsure
+- **[[tte xăcè (Idiom)]]** - I am sure that... / I know for a fact
 
 ## Interrogatives
 
 - Question Particle:
-    - **[[kè (Particle)]]**
+    - **[[kè (particle)]]**
 
 - Wh-Words:
-    - **[[kshá (Interrogative Pronoun)]]** - Who
-    - **[[kjo (Interrogative Pronoun)]]** - What
-    - **[[ksi (Interrogative Pronoun)]]** - Where
-    - **[[kvå (Interrogative Pronoun)]]** - When
-    - **[[ksè (Interrogative Pronoun)]]** - Why
-    - **[[ksá (Interrogative Pronoun)]]** - How
+    - **[[kshá (particle)]]** - Who
+    - **[[kjo (particle)]]** - What
+    - **[[ksi (particle)]]** - Where
+    - **[[kvå (particle)]]** - When
+    - **[[ksè (particle)]]** - Why
+    - **[[ksá (particle)]]** - How
 
 ## [[15_NPCP and The Agglutinative Block|Relational Particles (NPCP)]]
 
 _These function as Case Markers._
 
-- **[[to (Relational Particle)|to]]** - Subject (Nominative)
-- **[[ă (Relational Particle)|ă]]** - Subjective Subject Marker (Internal/Emotional).
-- **[[sè (Relational Particle)|sè]]** - Of / Belonging to (Genitive)
-- **[[bă (Relational Particle)|bă]]** - Using / By / Because of (Instrumental/Causal)
-- **[[då (Relational Particle)|då]]** - For / To (Dative/Recipient)
-- **[[ni (Relational Particle)|ni]]** - To / Towards (Allative/Goal)
-- **[[izo (Relational Particle)|izo]]** - From / Out of (Ablative/Source)
-- **[[måmå (Relational Particle)|måmå]]** - Until / Up to (Terminative)
-- **[[zá (Relational Particle)|zá]]** - With / Accompanied by (Comitative)
-- **[[ga (Fusing Particle)|ga]]** - Made of / -type (Attributive - Fusing)
-- **[[dhè (Relational Particle)|dhè]]** - Topic / Passive Marker (The object being acted upon)
-- **[[ăni (Relational Particle)|ăni]]** - about / concerning
-- **[[då (Relational Particle)|då]]** - for / to / for the sake of
+- **[[to (particle)|to]]** - Subject (Nominative)
+- **[[ă (particle)|ă]]** - Subjective Subject Marker (Internal/Emotional).
+- **[[sè (particle)|sè]]** - Of / Belonging to (Genitive)
+- **[[bă (particle)|bă]]** - Using / By / Because of (Instrumental/Causal)
+- **[[då (particle)|då]]** - For / To (Dative/Recipient)
+- **[[ni (particle)|ni]]** - To / Towards (Allative/Goal)
+- **[[izo (particle)|izo]]** - From / Out of (Ablative/Source)
+- **[[måmå (particle)|måmå]]** - Until / Up to (Terminative)
+- **[[zá (particle)|zá]]** - With / Accompanied by (Comitative)
+- **[[ga (particle)|ga]]** - Made of / -type (Attributive - Fusing)
+- **[[dhè (particle)|dhè]]** - Topic / Passive Marker (The object being acted upon)
+- **[[ăni (particle)|ăni]]** - about / concerning
+- **[[då (particle)|då]]** - for / to / for the sake of
 
 **Compound Forms**
 
-- **[[dåni (Compound Relational Particle)|dåni]]** - To (Transfer/Giving)
-- **[[måmåni (Relational Particle Compound)|måmåni]]** - As far as to (Limit)
-- **[[nixå (Relational Particle Compound)|nixå]]** - For the duration of (Perfect Progressive)
-- **[[bădå (Relational Compound Particle)|bădå]]** - because of and for
+- **[[dåni (particle)|dåni]]** - To (Transfer/Giving)
+- **[[måmåni (particle)|måmåni]]** - As far as to (Limit)
+- **[[nixå (particle)|nixå]]** - For the duration of (Perfect Progressive)
+- **[[bădå (particle)|bădå]]** - because of and for
 
 **Temporal Conjunctions**
 
@@ -287,75 +287,75 @@ _These function as Case Markers._
 
 ### Subjective Epistemic Markers (To-Predicates)
 
-- **[[toxăhè (Stative Verb)]]** - I am certain that / I am convinced
-- **[[tohùfwo (Stative Verb)]]** - I doubt that / I suspect not
-- **[[toůchů (Stative Verb)]]** - It feels like / It seems
+- **[[toxăhè (verb)]]** - I am certain that / I am convinced
+- **[[tohùfwo (verb)]]** - I doubt that / I suspect not
+- **[[toůchů (verb)]]** - It feels like / It seems
 
 ## Locative Prefixes
 
 ### [[07_Describing Location in Asaxi|Proximal Locative Prefixes]]
 
-- Proximal: **[[o (Proximal Locative Prefix)|o]]**- (here)
-- Medial: **[[no (Medial Locative Prefix)|no]]**- (there)
-- Distal: **[[ko (Distal Locative Prefix)|ko]]**- (yonder)
-- Locative: **[[gă (Indefinite Locative Prefix)|gă]]**- ("Somewhere/Missing")
-- Attainable: **[[ono (Attainable Locative Prefix)|ono]]**- A specific place ("not here but accessible")
+- Proximal: **[[o (proximal locative) (particle)|o]]**- (here)
+- Medial: **[[no (medial locative) (particle)|no]]**- (there)
+- Distal: **[[ko (distal locative) (particle)|ko]]**- (yonder)
+- Locative: **[[gă (particle)|gă]]**- ("Somewhere/Missing")
+- Attainable: **[[ono (particle)|ono]]**- A specific place ("not here but accessible")
 
 ### List of Relational Locative Prefixes
 
-- **[[va- (Relational Locative Prefix)]]** - Inside
-- **[[pă- (Relational Locative Prefix)]]** - Outside
-- **[[na- (Relational Locative Prefix)]]** - On / Top
-- **[[hù- (Relational Locative Prefix)]]** - Behind
-- **[[ỏ- (Relational Locative Prefix)]]** - Middle
-- **[[ba- (Relational Locative Prefix)]]** - Beside
-- **[[pa- (Relational Locative Prefix)]]** - Front
-- **[[xa- (Relational Locative Prefix)]]** - Above
-- **[[pù- (Relational Locative Prefix)]]** - Below
+- **[[va- (particle)]]** - Inside
+- **[[pă- (particle)]]** - Outside
+- **[[na- (relational locative) (particle)]]** - On / Top
+- **[[hù- (relational locative) (particle)]]** - Behind
+- **[[ỏ- (particle)]]** - Middle
+- **[[ba- (particle)]]** - Beside
+- **[[pa- (particle)]]** - Front
+- **[[xa- (relational locative) (particle)]]** - Above
+- **[[pù- (relational locative) (particle)]]** - Below
 
 ## [[12_Discourse Markers in Asaxi|Discourse Markers]]
 
-- **[[e (Discourse Marker)]]** - Skepticism?
-- **[[ë (Discourse Marker)]]** - Right?
-- **[[aŕa (Discourse Marker)]]** - Resignation
-- **[[iŕè (Discourse Marker)]]** - Contention
-- **[[ő (Discourse Marker)]]** - Assertion
-- **[[wå (Discourse Marker)|wå]]** - Woah! (Awe).
-- **[[ox (Discourse Marker)|ox]]** - Oh! (Emotion).
-- **[[jỏ (Discourse Marker)|jỏ]]** - Yo / Hey (Casual).
+- **[[e (particle)]]** - Skepticism?
+- **[[ë (particle)]]** - Right?
+- **[[aŕa (particle)]]** - Resignation
+- **[[iŕè (particle)]]** - Contention
+- **[[ő (discourse) (particle)]]** - Assertion
+- **[[wå (particle)|wå]]** - Woah! (Awe).
+- **[[ox (particle)|ox]]** - Oh! (Emotion).
+- **[[jỏ (particle)|jỏ]]** - Yo / Hey (Casual).
 
 ## [[13_Pronouns in Asaxi]]
 
-- **[[wo (Pronoun)]]** - I (singular)
-- **[[no (Pronoun)]]** - You (singular)
-- **[[xő (Pronoun)]]** - He
-- **[[ko (Pronoun)]]** - She
-- **[[gő (Pronoun)]]** - They (singular/non-binary)
-- **[[jo (Pronoun)]]** - It
-- **[[wa (Pronoun)]]** - We
-- **[[na (Pronoun)]]** - You (all)
-- **[[xa (Pronoun)]]** - They (male)
-- **[[ka (Pronoun)]]** - They (female)
-- **[[gja (Pronoun)]]** - They (non-binary)
-- **[[hja (Pronoun)]]** - They (things)
+- **[[wo (particle)]]** - I (singular)
+- **[[no (pronoun) (particle)]]** - You (singular)
+- **[[xő (particle)]]** - He
+- **[[ko (pronoun) (particle)]]** - She
+- **[[gő (particle)]]** - They (singular/non-binary)
+- **[[jo (particle)]]** - It
+- **[[wa (particle)]]** - We
+- **[[na (particle)]]** - You (all)
+- **[[xa (pronoun) (particle)]]** - They (male)
+- **[[ka (particle)]]** - They (female)
+- **[[gja (particle)]]** - They (non-binary)
+- **[[hja (particle)]]** - They (things)
 
 ## Reflexive & Reciprocal Pronouns
 
 _Pronouns used when the subject acts upon themselves or each other._
 
-- **[[niwo (Reflexive Pronoun)]]** - Myself
-- **[[nino (Reflexive Pronoun)]]** - Yourself
-- **[[nixő (Reflexive Pronoun)]]** - Himself
-- **[[niko (Reflexive Pronoun)]]** - Herself
-- **[[nigő (Reflexive Pronoun)]]** - Themself (sg/nb)
-- **[[nijo (Reflexive Pronoun)]]** - Itself
-- **[[niwa (Reflexive Pronoun)]]** - Ourselves
-- **[[nina (Reflexive Pronoun)]]** - Yourselves
-- **[[nixa (Reflexive Pronoun)]]** - Themselves (m)
-- **[[nika (Reflexive Pronoun)]]** - Themselves (f)
-- **[[nigja (Reflexive Pronoun)]]** - Themselves (nb)
-- **[[nihja (Reflexive Pronoun)]]** - Themselves (things)
-- **[[gőnigő (Reciprocal Pronoun)]]** - Each other / One another
+- **[[niwo (particle)]]** - Myself
+- **[[nino (particle)]]** - Yourself
+- **[[nixő (particle)]]** - Himself
+- **[[niko (particle)]]** - Herself
+- **[[nigő (particle)]]** - Themself (sg/nb)
+- **[[nijo (particle)]]** - Itself
+- **[[niwa (particle)]]** - Ourselves
+- **[[nina (particle)]]** - Yourselves
+- **[[nixa (particle)]]** - Themselves (m)
+- **[[nika (particle)]]** - Themselves (f)
+- **[[nigja (particle)]]** - Themselves (nb)
+- **[[nihja (particle)]]** - Themselves (things)
+- **[[gőnigő (particle)]]** - Each other / One another
 
 ## Numerals & Mathematics
 
@@ -363,27 +363,27 @@ _Markers for counting, frequency, and mathematical operations._
 
 **Operators**
 
-- **[[tă (Mathematical Operator)|tă]]** - plus / add
-- **[[më (Mathematical Operator)|më]]** - minus / subtract
-- **[[naŕo (Mathematical Operator)|naŕo]]** - multiplied by / times
-- **[[pùŕo (Mathematical Operator)|pùŕo]]** - divided by
-- **[[tambi (Mathematical Operator)|tambi]]** - equals
+- **[[tă (particle)|tă]]** - plus / add
+- **[[më (particle)|më]]** - minus / subtract
+- **[[naŕo (particle)|naŕo]]** - multiplied by / times
+- **[[pùŕo (particle)|pùŕo]]** - divided by
+- **[[tambi (particle)|tambi]]** - equals
 
 **Prefixes & Suffixes**
 
-- **[[da- (Number Prefix)|da-]]** - hundreds prefix (e.g., _dasă_ = 100)
-- **[[xa- (Number Prefix)|xa-]]** - thousands prefix (e.g., _xasă_ = 1000)
-- **[[Z_-bam (Number Suffix)|-bam]]** - times / occurrences (iteration)
-- **[[bi- (Number Prefix)|bi-]]** - ordinal prefix (e.g., _bisă_ = 1st)
-- **[[pù- (Number Prefix)|pù-]]** - fractional prefix (e.g., _pùtam_ = half)
-- **[[Z_-kam (Number Suffix)|-kam]]** - collective suffix (e.g., _tamkam_ = pair/both)
+- **[[da- (particle)|da-]]** - hundreds prefix (e.g., _dasă_ = 100)
+- **[[xa- (number) (particle)|xa-]]** - thousands prefix (e.g., _xasă_ = 1000)
+- **[[Z_-bam (particle)|-bam]]** - times / occurrences (iteration)
+- **[[bi- (particle)|bi-]]** - ordinal prefix (e.g., _bisă_ = 1st)
+- **[[pù- (number) (particle)|pù-]]** - fractional prefix (e.g., _pùtam_ = half)
+- **[[Z_-kam (particle)|-kam]]** - collective suffix (e.g., _tamkam_ = pair/both)
 
 **Units (Unit Nouns)**
 
-- **[[śchi (Unit Noun)|śchi]]** - centimeter
-- **[[ŋo (Unit Noun)|ŋo]]** - kilogram
+- **[[śchi (noun)|śchi]]** - centimeter
+- **[[ŋo (noun)|ŋo]]** - kilogram
 
 ## Additive & Quantity
 
-- **[[xa (Additive Particle)]]** - also, too, even (post-positioned)
-- **[[kăgo (Interrogative Quantifier)]]** - how much?, how many?
+- **[[xa (additive) (particle)]]** - also, too, even (post-positioned)
+- **[[kăgo (particle)]]** - how much?, how many?

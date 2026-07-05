@@ -41,7 +41,7 @@ _The strongman lifts very heavy weights._
 Null
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (Type) + **[[båbå (noun)|båbå]]** (Muscle) + **[[bwo (noun)|bwo]]** (Fat) + **[[shá (noun)|shá]]** (Creature).
+**[[ga (particle)|ga]]** (Type) + **[[båbå (noun)|båbå]]** (Muscle) + **[[bwo (noun)|bwo]]** (Fat) + **[[shá (noun)|shá]]** (Creature).
 *Lit:* "Muscle-Fat-Type-Creature."
 
 ### Synonyms

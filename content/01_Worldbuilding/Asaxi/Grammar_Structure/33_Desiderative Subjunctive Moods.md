@@ -23,7 +23,7 @@ These particles appear at the **end** of the clause (Head-Final).
 
 **Function:** **Hypothetical / Irrealis Marker** ("Would", "As if"). **Nuance:** A scheming, trailing affirmation. It implies the speaker is visualizing the reality, nodding along to their own imagination.
 
-- **Etymology:** **[[xă (Particle)|xă]]** (Yes) + **xă** (Yes).
+- **Etymology:** **[[xă (particle)|xă]]** (Yes) + **xă** (Yes).
 - **Literal:** "Yes... yes..." (Trailing off).
 
 **Example:**
@@ -40,7 +40,7 @@ These particles mark the preceding clause as a **Desire** or **Wish**. They repl
 
 **Function:** **Optative Marker** ("Hopefully", "I wish", "Desirably"). **Nuance:** Marks the hypothetical as something actively wanted or "High/Good."
 
-- **Etymology:** **[[dăshá (noun)|dă]]** (Elephant) + **[[xa- (Relational Locative Prefix)|xa/xă]]** (Above/High).
+- **Etymology:** **[[dăshá (noun)|dă]]** (Elephant) + **[[xa- (relational locative) (particle)|xa/xă]]** (Above/High).
 - **Literal:** "High Elephant." (Cultural association of the Elephant with height/greatness).
 
 **Example:**
@@ -51,7 +51,7 @@ These particles mark the preceding clause as a **Desire** or **Wish**. They repl
 
 **Function:** **Aversive Marker** ("I hope not", "God forbid", "Lest"). **Nuance:** Marks the hypothetical as something "Under-want" or undesirable.
 
-- **Etymology:** **[[pù- (Relational Locative Prefix)|pù]]** (Below) + **xă** (treated here as "Want/Affirmation").
+- **Etymology:** **[[pù- (relational locative) (particle)|pù]]** (Below) + **xă** (treated here as "Want/Affirmation").
 - **Literal:** "Under-want."    
 
 **Example:**

@@ -56,18 +56,18 @@ x
 
 ### Etymology
 
-A compound of **[[o (Proximal Locative Prefix)|o]]** (Here) + **[[ja (particle)|ja]]** (And) + **[[no (Medial Locative Prefix)|no]]** (There). _Lit:_ "Here and there."
+A compound of **[[o (proximal locative) (particle)|o]]** (Here) + **[[ja (particle)|ja]]** (And) + **[[no (medial locative) (particle)|no]]** (There). _Lit:_ "Here and there."
 
 ### Synonyms
 
-- **[[jonojo (Particle)]]** (Specific Numeric Distributive: "One by one / In sequence").
-- **[[okonoko (Particle)]]** (Specific Spatial Distributive: "Scattered / All over the place").
+- **[[jonojo (particle)]]** (Specific Numeric Distributive: "One by one / In sequence").
+- **[[okonoko (particle)]]** (Specific Spatial Distributive: "Scattered / All over the place").
 
 ### Antonyms
 
-- **[[na- (Relational Locative Prefix)|na-]]** (Iterative/Stacking).
+- **[[na- (relational locative) (particle)|na-]]** (Iterative/Stacking).
 - **[All at once]** (Collective).
 
 ### Derived terms
 
-- [[okonoko (Particle)|okonoko]], [[jonojo (Particle)|jonojo]] - sibling distributive reduplications
+- [[okonoko (particle)|okonoko]], [[jonojo (particle)|jonojo]] - sibling distributive reduplications

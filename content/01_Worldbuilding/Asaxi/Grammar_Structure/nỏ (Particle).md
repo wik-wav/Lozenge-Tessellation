@@ -1,5 +1,5 @@
 ---
-title: nỏ (Particle) - "Not" (Specific context).
+title: nỏ (particle) - "Not" (Specific context).
 Word (Asaxi): nỏ
 trnsltion. En: Not
 tags:

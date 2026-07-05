@@ -15,13 +15,13 @@ Navigation:
 
 ## Grammatical Concept: The Polarity System
 
-Asaxi negation is split across three layers: **Clausal Negation** (the particle [[ná (Particle)|ná]], negating actions and facts), **Lexical Negation** (the privative prefix [[50_Privative Derivation (The `fů-` Prefix)|fů-]], creating "absence words"), and **Temporal Negation** (the aspectual markers `panå`, `nåsi`). A learner must choose the right layer: *"I do not have money"* (clausal) vs. *"I have no-money / poverty"* (lexical).
+Asaxi negation is split across three layers: **Clausal Negation** (the particle [[ná (particle)|ná]], negating actions and facts), **Lexical Negation** (the privative prefix [[50_Privative Derivation (The `fů-` Prefix)|fů-]], creating "absence words"), and **Temporal Negation** (the aspectual markers `panå`, `nåsi`). A learner must choose the right layer: *"I do not have money"* (clausal) vs. *"I have no-money / poverty"* (lexical).
 
 ---
 
 ## 1. Clausal Negation (`ná`)
 
-The polarity particle **[[ná (Particle)|ná]]** ("not") shifts position depending on tense marking:
+The polarity particle **[[ná (particle)|ná]]** ("not") shifts position depending on tense marking:
 
 | Context | Position | Structure | Example |
 | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ The polarity particle **[[ná (Particle)|ná]]** ("not") shifts position dependi
 | Pure Existence (`xi`) | Fusion | `ná` + `xi` → **nè** | **nèŕa** ("is not / does not exist") |
 | Other Statives | Prefix | `ná-[Stative]` | **nániŕa** |
 
-See [[ná (Particle)]] for full positional rules.
+See [[ná (particle)]] for full positional rules.
 
 ## 2. Lexical Negation (`fů-`)
 
@@ -43,9 +43,9 @@ Use `fů-` when the absence itself is the topic; use `ná` when denying a propos
 
 ## 3. Temporal Negation
 
-- **[[panå (NOT YET Aspectual Marker)|panå]]** — "not yet" (expected to occur).
-- **[[nåsi (NEVER Aspectual Marker)|nåsi]]** — "never" (within experience).
-- **[[náxănåsi (Abs NEVER Temporal Connector)|náxănåsi]]** — absolute "never ever" (emphatic).
+- **[[panå (particle)|panå]]** — "not yet" (expected to occur).
+- **[[nåsi (particle)|nåsi]]** — "never" (within experience).
+- **[[náxănåsi (particle)|náxănåsi]]** — absolute "never ever" (emphatic).
 
 ## 4. Prohibition (Negative Commands)
 
@@ -75,4 +75,4 @@ To avoid ambiguity in formal speech, the full negated or affirmed verb is echoed
 ## 7. Negative Coordination
 
 - **[[jhaná (particle)|jhaná]]** ("but not") excludes an item from a list: `A jhaná B` ("A but not B").
-- **[[chěná (UNLESS Conditional Compound)|chěná]]** ("unless") = conditional `chě` + `ná`.
+- **[[chěná (particle)|chěná]]** ("unless") = conditional `chě` + `ná`.

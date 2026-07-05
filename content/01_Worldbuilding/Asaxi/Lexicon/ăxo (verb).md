@@ -45,7 +45,7 @@ Null
 Null
 
 ### Etymology
-**[[ă (Relational Particle)|ă]]** (Subjective Marker) + **[[xoxo (verb)|xo(xo)]]** (Move/Depart).
+**[[ă (particle)|ă]]** (Subjective Marker) + **[[xoxo (verb)|xo(xo)]]** (Move/Depart).
 *Lit:* "To move (with/as) the subject." (To shadow the subject's movement).
 
 ### Synonyms

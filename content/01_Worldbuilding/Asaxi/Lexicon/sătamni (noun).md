@@ -42,7 +42,7 @@ IPA: /saɪt̪amɲi/
 Null
 
 ### Etymology
-**[[săsă (Quantifier)|săsă]]** (All of, entire, whole) + **[[tamni (noun)|tamni]]** (Together as a pair).
+**[[săsă (particle)|săsă]]** (All of, entire, whole) + **[[tamni (noun)|tamni]]** (Together as a pair).
 
 ### Synonyms
 - x

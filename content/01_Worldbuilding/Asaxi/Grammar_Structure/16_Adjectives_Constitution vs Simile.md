@@ -17,7 +17,7 @@ Asaxi distinguishes strictly between **what an object is made of** (Constitution
 
 ### 1. Constitution (The `ga-` Compound)
 
-When a noun is modified by the **Fusing Particle** [[ga (Fusing Particle)|ga]], it creates a **Compound Noun**. This structure defines the subject's physical reality, taxonomy, or material composition.
+When a noun is modified by the **Fusing Particle** [[ga (particle)|ga]], it creates a **Compound Noun**. This structure defines the subject's physical reality, taxonomy, or material composition.
 
 - **Mechanism:** Agglutination (Prefix).
 - **English Equivalent:** Noun Adjuncts (e.g., "Apple pie", "Stone wall") or material adjectives ("Golden", "Wooden").
@@ -105,7 +105,7 @@ This distinction is crucial when, for example, describing physical bodies. Asaxi
 **Ga-compounds** (Constitutional Nouns) cannot be positively or negatively charged. By their nature, they describe things **as they are**.
 
 - **Constraint:** A speaker cannot use a ga-compound to describe something unless they are certain of the **truth** of the statement (verifiable fact).
-- **Uncertainty:** If the speaker is unsure, they must qualify the statement using **[[tte (Quotative Particle)|tte]] [[ŕima (verb)|ŕima]]** ("I think that...").
+- **Uncertainty:** If the speaker is unsure, they must qualify the statement using **[[tte (particle)|tte]] [[ŕima (verb)|ŕima]]** ("I think that...").
 
 #### B. The Aesthetic Rule (Adjectives)
 

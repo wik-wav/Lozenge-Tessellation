@@ -1,3 +1,24 @@
+---
+title: 03_Asaxi Adjectives (List)
+aliases:
+  - adjective
+  - adjectives
+tags:
+  - Asaxi
+  - language
+  - semantic_field
+---
+# Asaxi Adjectives (List)
+
+This is a list of all [[The Asaxi Language|Asaxi]] adjectives with the first meaning translation in English.
+
+Navigation:
+- [[The Asaxi Language|The Asaxi Language Index]]
+- [[index|Asaxi Wiki - Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
+
+- - -
+
 - [[alănă (adjective)]] - loose, relaxed, carefree, slack, baggy
 - [[axană (adjective)]] - approachable, friendly, cheerful, jolly, good-natured
 - [[båbånă (adjective)]] - muscular, hunky, hulking, gymbro-like, rugged, rough

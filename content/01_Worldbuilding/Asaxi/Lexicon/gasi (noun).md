@@ -39,7 +39,7 @@ Null
 x
 
 ### Etymology
-[[ga (Fusing Particle)|ga]] + [[siŕo (noun)]]
+[[ga (particle)|ga]] + [[siŕo (noun)]]
 
 ### Synonyms
 x

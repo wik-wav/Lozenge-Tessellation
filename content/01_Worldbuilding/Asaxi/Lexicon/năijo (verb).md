@@ -47,7 +47,7 @@ _I am lost (in this situation)._ / _I don't get it._
 x
 
 ### Etymology
-**[[ná (Particle)|ná]]** (Not) + **[[ăijo (verb)|ăijo]]** (To grasp/realize).
+**[[ná (particle)|ná]]** (Not) + **[[ăijo (verb)|ăijo]]** (To grasp/realize).
 *Contraction:* `ná` + `ăijo` $\rightarrow$ **năijo**.
 
 ### Synonyms

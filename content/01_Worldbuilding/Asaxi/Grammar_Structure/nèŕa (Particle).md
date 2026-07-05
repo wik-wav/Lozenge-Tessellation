@@ -17,7 +17,7 @@ tags:
 <span class="asaxi-script-alpha">nèŕa</span>
 ### Usage
 
-`nèŕa` is the **Negative Validity Compound** for existence ("Is not" / "Does not exist"). It functions as the negative counterpart to **[[xiŕa (Particle)|xiŕa]]**.
+`nèŕa` is the **Negative Validity Compound** for existence ("Is not" / "Does not exist"). It functions as the negative counterpart to **[[xiŕa (particle)|xiŕa]]**.
 
 **Structure:** It is a fusion of the Polarity Particle `ná` and the Existence Root `xi`.
 - **Logic:** `ná` (Not) + `xi` (Exist) + `ŕa` (Fact) → **nèŕa**.
@@ -56,11 +56,11 @@ IPA: /nəɾa/
 
 ### Antonyms
 
-- **[[xiŕa (Particle)]]** (Is / Exists).
+- **[[xiŕa (particle)]]** (Is / Exists).
 
 ### Etymology
 
-A phonological blend of **[[ná (Particle)|ná]]** (Not) + **[[xiŕa (Particle)|xiŕa]]** (Exist).
+A phonological blend of **[[ná (particle)|ná]]** (Not) + **[[xiŕa (particle)|xiŕa]]** (Exist).
 
 ### See Also
 

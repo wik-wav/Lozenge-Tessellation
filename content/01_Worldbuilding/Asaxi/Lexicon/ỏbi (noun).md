@@ -38,7 +38,7 @@ _The belt holds up the trousers._
 Null
 
 ### Etymology
-[[ỏ- (Relational Locative Prefix)|ỏ-]] (in the middle of) + [[bi (noun)|bi]] (band/line); echoes Japanese *obi* (sash).
+[[ỏ- (particle)|ỏ-]] (in the middle of) + [[bi (noun)|bi]] (band/line); echoes Japanese *obi* (sash).
 
 ### Synonyms
 Null

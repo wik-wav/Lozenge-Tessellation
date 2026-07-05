@@ -1,5 +1,5 @@
 ---
-title: mă (Particle) - every, per, each (in a temporal sense)
+title: mă (particle) - every, per, each (in a temporal sense)
 Word (Asaxi): mă
 trnsltion. En: every, per, each
 trnsltion. Pl: co (częstotliwość)
@@ -67,8 +67,8 @@ x
 
 ### Antonyms
 
-- [[nåsi (NEVER Aspectual Marker)]]
+- [[nåsi (particle)]]
 
 ### Derived terms
 
-- **[[ximă (Particle)|ximă]]** (Daily).
+- **[[ximă (particle)|ximă]]** (Daily).

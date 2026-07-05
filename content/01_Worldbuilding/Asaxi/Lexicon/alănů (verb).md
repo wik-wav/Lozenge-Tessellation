@@ -44,7 +44,7 @@ Sè wo ỏbwo alănů.
 x
 
 ### Etymology
-[[ală (noun)|ală]] (Looseness) + [[06A_-n- (Morphological Infix)|-n-]] (Performance) + [[ů (verb)]].
+[[ală (noun)|ală]] (Looseness) + [[06A_-n- (particle)|-n-]] (Performance) + [[ů (verb)]].
 
 ### Synonyms
 - **[[fri (verb)|fri]]** (To set free / release).

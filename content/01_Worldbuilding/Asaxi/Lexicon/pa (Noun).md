@@ -1,6 +1,6 @@
 ---
 freq: 67
-title: pa (Noun) - the future
+title: pa (noun) - the future
 Word (Asaxi): pa
 trnsltion. En: the future
 trnsltion. Pl: przyszłość
@@ -38,7 +38,7 @@ _Into the future, we will run._
 Null
 
 ### Etymology
-Nominalization of the **[[pa (Tense Prefix)|pa-]]** (Future Tense Prefix).
+Nominalization of the **[[pa (particle)|pa-]]** (Future Tense Prefix).
 
 ### Synonyms
 Null

@@ -48,7 +48,7 @@ Null
 **ỏ-** (Middle) + **ů** (Act/Be).
 
 ### Synonyms
-- **[[vanů (Spatial Verb)]]** (To be inside - broader scope).
+- **[[vanů (verb)]]** (To be inside - broader scope).
 
 ### Antonyms
 - **[[pănů (verb)|pănů]]** (To be outside / on the edge).
@@ -62,4 +62,4 @@ Null
 - [[ỏbỏnů (verb)|ỏbỏnů]] - to cushion
 
 ### Grammatical Note
-Derived from **[[ỏ- (Relational Locative Prefix)|ỏ-]]** (Middle) + **-n-** + **[[ů (verb)|ů]]**.
+Derived from **[[ỏ- (particle)|ỏ-]]** (Middle) + **-n-** + **[[ů (verb)|ů]]**.

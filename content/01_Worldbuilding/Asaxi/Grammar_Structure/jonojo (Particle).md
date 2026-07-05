@@ -1,5 +1,5 @@
 ---
-title: jonojo (Particle) - "One by one", "Item by item", "In sequence."
+title: jonojo (particle) - "One by one", "Item by item", "In sequence."
 Word (Asaxi): jonojo
 trnsltion. En: '"One by one", "Item by item", "In sequence."'
 tags:
@@ -27,7 +27,7 @@ IPA: /ꞲonoꞲo/
 
 ### Etymology
 
-**[[jo (Pronoun)|jo]]** (It) + **[[no (Medial Locative Prefix)|no]]** (There) + **jo** (It).
+**[[jo (particle)|jo]]** (It) + **[[no (medial locative) (particle)|no]]** (There) + **jo** (It).
 *Lit:* "It... there... it." (Visualizing pointing at items in a line: "This one there, then this one").
 
 ### Example sentence

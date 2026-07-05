@@ -40,7 +40,7 @@ IPA: /t̪amni/
 Null
 
 ### Etymology
-**[[tam (Number)|tam ]]** (Two) + **[[ni (Relational Particle)|ni (Relational Particle) - To, towards]]** (Toward/Direction).
+**[[tam (Number)|tam ]]** (Two) + **[[ni (particle)|ni (Relational Particle) - To, towards]]** (Toward/Direction).
 
 ### Synonyms
 - x

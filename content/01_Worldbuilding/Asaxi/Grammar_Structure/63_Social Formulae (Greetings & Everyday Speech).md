@@ -78,4 +78,4 @@ The subjectivity system supplies "how are you": the question targets *felt* stat
 
 - **Casual:** Nőjo! / Natăka! / Fůjå ma / replies with **vi**, **jỏ**.
 - **Formal:** Xi gavină! / Måmå natăka! / Ă wo fůjå ma / requests softened with **kă** ([[36_Polite Requests]]).
-- **Solemn/poetic:** vocative **[[ăjo (Vocative Particle)|ăjo]]** + full unreduced forms ([[22_Phonotactics & Euphony]], poetic exception).
+- **Solemn/poetic:** vocative **[[ăjo (particle)|ăjo]]** + full unreduced forms ([[22_Phonotactics & Euphony]], poetic exception).

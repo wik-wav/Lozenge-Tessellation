@@ -37,7 +37,7 @@ _The surface is green._
 Null
 
 ### Etymology
-**[[na- (Relational Locative Prefix)|na]]** (On) + **-w-** + **[[o (Proximal Locative Prefix)|o]]** (Here).
+**[[na- (relational locative) (particle)|na]]** (On) + **-w-** + **[[o (proximal locative) (particle)|o]]** (Here).
 *Lit:* "The On-Here."
 
 ### Synonyms

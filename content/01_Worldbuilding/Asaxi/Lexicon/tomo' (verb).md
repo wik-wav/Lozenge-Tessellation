@@ -51,7 +51,7 @@ A blend of Japanese **tomeru** (止める - to stop) and Polish **tamować** (to
 x
 
 ### Antonyms
-- **[[ni (Relational Particle)|ni (Relational Particle)]]** (Start / Inceptive Prefix).
+- **[[ni (particle)|ni (Relational Particle)]]** (Start / Inceptive Prefix).
 
 ### Derived terms
 - **tomo'shá** (agent noun) *(potential)*

@@ -5,7 +5,7 @@ tags:
   - Asaxi
   - language
   - grammar
-title: pùxă (Particle) - "I hope not", "God forbid", "Lest".
+title: pùxă (particle) - "I hope not", "God forbid", "Lest".
 ---
 # pùxă ([[33_Desiderative Subjunctive Moods]])
 
@@ -30,7 +30,7 @@ IPA: /pɯɦaɪ/
 
 ### Etymology
 
-**[[pù- (Relational Locative Prefix)|pù]]** (Below) + **[[xă (Particle)|xă]]** (Indeed/Want). _Lit:_ "Under-want" / "Base-wish."
+**[[pù- (relational locative) (particle)|pù]]** (Below) + **[[xă (particle)|xă]]** (Indeed/Want). _Lit:_ "Under-want" / "Base-wish."
 
 ### Synonyms
 

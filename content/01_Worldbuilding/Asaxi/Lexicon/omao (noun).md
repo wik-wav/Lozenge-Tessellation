@@ -18,7 +18,7 @@ tags:
 <span class="asaxi-script-alpha">omao</span>
 ### Noun class (warm / cold)
 **Cold**
-- Reasoning: Derived from **[[mao (noun) - as in night-time|mao]]** (Night - Cold).
+- Reasoning: Derived from **[[mao (night-time) (noun)|mao]]** (Night - Cold).
 
 ### Pronunciation
 IPA: /oma.o/
@@ -38,7 +38,7 @@ _Tonight, we have a meditation session._
 Null
 
 ### Etymology
-**[[o (Proximal Locative Prefix)|o-]]** (Here/This) + **[[mao (noun) - as in night-time|mao]]** (Night).
+**[[o (proximal locative) (particle)|o-]]** (Here/This) + **[[mao (night-time) (noun)|mao]]** (Night).
 *Lit:* "This-Night."
 
 ### Synonyms

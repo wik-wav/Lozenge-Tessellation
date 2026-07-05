@@ -36,7 +36,7 @@ _Because there is a clear sky, there is sunshine._
 x
 
 ### Etymology
-**[[ná (Particle)|ná]]** (Not/No) + **fwa** (Clouds - Plural of **[[fwo (noun)|fwo]]**). _Lit:_ "No-clouds."
+**[[ná (particle)|ná]]** (Not/No) + **fwa** (Clouds - Plural of **[[fwo (noun)|fwo]]**). _Lit:_ "No-clouds."
 
 ### Synonyms
 - **[[o (noun)|o]]** (Sky - General).

@@ -36,7 +36,7 @@ Null
 Null
 
 ### Etymology
-**[[xa- (Relational Locative Prefix)|xa]]** (Above) + **-x-** (Bridge) + **[[aśobi (noun)|aśbi]]** (Leg - reduced).
+**[[xa- (relational locative) (particle)|xa]]** (Above) + **-x-** (Bridge) + **[[aśobi (noun)|aśbi]]** (Leg - reduced).
 *Lit:* "Upper-Leg."
 
 ### Synonyms

@@ -22,7 +22,7 @@ Asaxi previously had no dedicated way to **address** someone (vocative) and only
 
 ## 1. The Vocative Particle (`ăjo`)
 
-**Form:** **[[ăjo (Vocative Particle)|ăjo]]** /aɪjaɪ/ — derived from the root verb **[[ăja (verb)|ăja]]** ("to call out").
+**Form:** **[[ăjo (particle)|ăjo]]** /aɪjaɪ/ — derived from the root verb **[[ăja (verb)|ăja]]** ("to call out").
 
 Consistent with the NPCP system (case particles precede the noun), the vocative is **pre-nominal**:
 
@@ -30,7 +30,7 @@ Consistent with the NPCP system (case particles precede the noun), the vocative 
 
 - **Formal/poetic:** `ăjo + [Name]` — solemn address, invocations, song.
 - **Neutral:** bare name + pause: **John, nőjo.**
-- **Casual attention-getting:** the existing post-clausal marker **[[jỏ (Discourse Marker)|jỏ]]** ("yo"): **John jỏ!**
+- **Casual attention-getting:** the existing post-clausal marker **[[jỏ (particle)|jỏ]]** ("yo"): **John jỏ!**
 
 **Prosody:** the call contour lives on the particle, not the name — `ăjo` carries its accent (H.L) and the following name is **deaccented** (low): **Ắjă Lem** (H.L | L). See [[61_Prosody, Stress & Intonation]].
 
@@ -38,14 +38,14 @@ Consistent with the NPCP system (case particles precede the noun), the vocative 
 
 | Form | Meaning | Source note |
 | --- | --- | --- |
-| **wå** | "Woah!" (awe, shock) | [[wå (Discourse Marker)]] |
-| **ox** | "Oh!" (longing, realization) | [[ox (Discourse Marker)]] |
-| **jỏ** | "Yo" (casual attention) | [[jỏ (Discourse Marker)]] |
-| **iŕè** | "No way!" (objection) | [[iŕè (Discourse Marker)]] |
-| **aŕa** | "Alas / so be it" (resignation) | [[aŕa (Discourse Marker)]] |
-| **vi** | "OK! / Fine!" (agreement) | [[vi (Particle)]] |
-| **pxů** | "Nope!" (refusal) | [[pxů (Particle)]] |
-| **xă** | "Yes / indeed" | [[xă (Particle)]] |
+| **wå** | "Woah!" (awe, shock) | [[wå (particle)]] |
+| **ox** | "Oh!" (longing, realization) | [[ox (particle)]] |
+| **jỏ** | "Yo" (casual attention) | [[jỏ (particle)]] |
+| **iŕè** | "No way!" (objection) | [[iŕè (particle)]] |
+| **aŕa** | "Alas / so be it" (resignation) | [[aŕa (particle)]] |
+| **vi** | "OK! / Fine!" (agreement) | [[vi (particle)]] |
+| **pxů** | "Nope!" (refusal) | [[pxů (particle)]] |
+| **xă** | "Yes / indeed" | [[xă (particle)]] |
 
 | Form      | Meaning                      | Derivation                                                                       |
 | --------- | ---------------------------- | -------------------------------------------------------------------------------- |

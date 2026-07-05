@@ -36,7 +36,7 @@ Null
 Null
 
 ### Etymology
-**[[pù- (Relational Locative Prefix)|pù]]** (Below) + **-x-** (Bridge) + **[[aśobi (noun)|aśbi]]** (Leg - reduced).
+**[[pù- (relational locative) (particle)|pù]]** (Below) + **-x-** (Bridge) + **[[aśobi (noun)|aśbi]]** (Leg - reduced).
 *Lit:* "Lower-Leg."
 
 ### Synonyms

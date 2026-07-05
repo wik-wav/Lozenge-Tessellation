@@ -38,10 +38,10 @@ _"The temple (is) far." (zero copula)_
 Null
 
 ### Etymology
-**ko-** (Distal, [[ko (Distal Locative Prefix)]]) + **[[bi (noun)|bi]]** (line, boundary) — "beyond the line." Parallels the temporal use of *ko-* in [[vkozè (Temporal Noun)|vkozè]]-style remoteness.
+**ko-** (Distal, [[ko (distal locative) (particle)]]) + **[[bi (noun)|bi]]** (line, boundary) — "beyond the line." Parallels the temporal use of *ko-* in [[vkozè (noun)|vkozè]]-style remoteness.
 
 ### Synonyms
-- [[ko-gă (Compound Locative Noun)|ko-gă]] (over there — related)
+- [[ko-gă (noun)|ko-gă]] (over there — related)
 
 ### Antonyms
 - [[obi (noun)|obi]] (nearness)

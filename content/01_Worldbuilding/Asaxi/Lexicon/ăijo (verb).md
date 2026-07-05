@@ -45,7 +45,7 @@ Null
 - ă'ijo
 
 ### Etymology
-**[[ă (Relational Particle)|ă]]** (Subjective Subject Marker / "The Internal Self") + **[[ijo (verb)|ijo]]** (To see). _Lit:_ "Self-see" or "Subjective-view."
+**[[ă (particle)|ă]]** (Subjective Subject Marker / "The Internal Self") + **[[ijo (verb)|ijo]]** (To see). _Lit:_ "Self-see" or "Subjective-view."
 
 ### Synonyms
 - **[[cè (verb)|cè]]** (To know - static knowledge).

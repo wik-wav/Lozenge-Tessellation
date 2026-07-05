@@ -1,5 +1,5 @@
 ---
-title: kè (Particle) - what? question mark, ?
+title: kè (particle) - what? question mark, ?
 Word (Asaxi): kè
 trnsltion. En: what? question mark, ?
 tags:
@@ -55,15 +55,15 @@ IPA: /kə/
 
 ### Antonyms
 
-- **[[xă (Particle)|xă]]** (Affirmation / Statement of Fact).
+- **[[xă (particle)|xă]]** (Affirmation / Statement of Fact).
 
 ### Derived terms
 
 The **k-** prefix for Interrogative Pronouns:
 
-- **[[kshá (Interrogative Pronoun)]]** (Who)
-- **[[kjo (Interrogative Pronoun)]]** (What)
-- **[[ksi (Interrogative Pronoun)]]** (Where)
-- **[[kvå (Interrogative Pronoun)]]** (When)
-- **[[ksè (Interrogative Pronoun)]]** (Why)
-- **[[ksá (Interrogative Pronoun)]]** (How)
+- **[[kshá (particle)]]** (Who)
+- **[[kjo (particle)]]** (What)
+- **[[ksi (particle)]]** (Where)
+- **[[kvå (particle)]]** (When)
+- **[[ksè (particle)]]** (Why)
+- **[[ksá (particle)]]** (How)

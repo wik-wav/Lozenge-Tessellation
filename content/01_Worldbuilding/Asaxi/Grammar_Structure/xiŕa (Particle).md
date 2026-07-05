@@ -1,5 +1,5 @@
 ---
-title: xiŕa (Particle) - be
+title: xiŕa (particle) - be
 Word (Asaxi): xiŕa
 trnsltion. En: be
 trnsltion. Pl: być
@@ -54,7 +54,7 @@ IPA: /ɦiŕa/
 
 ### Antonyms
 
-- **[[nèŕa (Particle)]]** (Is not / Does not exist).
+- **[[nèŕa (particle)]]** (Is not / Does not exist).
     - _Note:_ `nèŕa` is a fusion of `ná` (Not) + `xiŕa`.
 
 ### Etymology

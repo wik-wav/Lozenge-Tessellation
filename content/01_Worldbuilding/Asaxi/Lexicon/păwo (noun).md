@@ -37,7 +37,7 @@ _I go to the outside / I exit._
 Null
 
 ### Etymology
-**[[pă- (Relational Locative Prefix)|pă]]** (Outside) + **-w-** + **[[o (Proximal Locative Prefix)|o]]** (Here).
+**[[pă- (particle)|pă]]** (Outside) + **-w-** + **[[o (proximal locative) (particle)|o]]** (Here).
 *Lit:* "The Outside-Here."
 
 ### Synonyms

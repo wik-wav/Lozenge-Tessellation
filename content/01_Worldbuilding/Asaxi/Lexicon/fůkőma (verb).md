@@ -52,7 +52,7 @@ John is understood by me, while not attempting to understand my problems.
 - [[fůcèma (verb)|fůcèma]]
 
 ### Antonyms
-- [[gőnigő (Reciprocal Pronoun)|gőnigő]] kő (mutual understanding)
+- [[gőnigő (particle)|gőnigő]] kő (mutual understanding)
 
 ### Derived terms
 - fůkőmană (selfish in communication - adjective)

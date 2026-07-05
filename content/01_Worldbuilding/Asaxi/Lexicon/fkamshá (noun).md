@@ -36,7 +36,7 @@ _The domesticated animal is in the shelter._
 Null
 
 ### Etymology
-**[[va- (Relational Locative Prefix)|va]]** (In) + **[[kamm (noun)|kamm]]** (Building) + **[[shá (noun)|shá]]** (Creature).
+**[[va- (particle)|va]]** (In) + **[[kamm (noun)|kamm]]** (Building) + **[[shá (noun)|shá]]** (Creature).
 *Morphology:* `va` + `k` $\rightarrow$ `vk` $\rightarrow$ **fk**.
 *Lit:* "In-Building-Creature."
 

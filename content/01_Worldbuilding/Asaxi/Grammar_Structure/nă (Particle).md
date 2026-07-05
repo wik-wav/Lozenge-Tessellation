@@ -1,5 +1,5 @@
 ---
-title: nă (Particle) - "Stop!", "Cease!", "Don't (continue)!".
+title: nă (particle) - "Stop!", "Cease!", "Don't (continue)!".
 Word (Asaxi): nă
 trnsltion. En: "\"Stop!\", \"Cease!\", \"Don't (continue)!\"."
 tags:
@@ -40,7 +40,7 @@ _John, stop reading._
 
 ### Etymology
 
-Shortened form of **[[ná (Particle)|ná]]** (Not) or **[[nèŕa (Particle)|nè]]** (No).
+Shortened form of **[[ná (particle)|ná]]** (Not) or **[[nèŕa (particle)|nè]]** (No).
 *Phonotactics:* The shift to the `ă` diphthong adds emphasis/sharpness.
 
 ### Synonyms
@@ -49,4 +49,4 @@ Shortened form of **[[ná (Particle)|ná]]** (Not) or **[[nèŕa (Particle)|nè]
 
 ### Antonyms
 
-- **[[nihè (Particle)|nihè]]** (Start! / Begin!).
+- **[[nihè (particle)|nihè]]** (Start! / Begin!).

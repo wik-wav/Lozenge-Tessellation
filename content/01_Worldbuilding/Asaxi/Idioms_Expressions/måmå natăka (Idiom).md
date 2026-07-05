@@ -38,7 +38,7 @@ _"Until we meet again, John!"_
 
 ### Etymology
 
-**[[måmå (Relational Particle)|måmå]]** (Terminative, "until") + **[[na- (Tense Prefix)|na-]]** (Iterative, "again") + **[[tăka (verb)|tăka]]** (to unite, to join).
+**[[måmå (particle)|måmå]]** (Terminative, "until") + **[[na- (tense) (particle)|na-]]** (Iterative, "again") + **[[tăka (verb)|tăka]]** (to unite, to join).
 
 ### Synonyms
 

@@ -56,4 +56,4 @@ Null
 Null
 
 ### Grammatical Note
-Derived from **[[ů (verb)|ů]]** + **[[06A_-k- (Morphological Infix)|-k-]]** (Transformative Mode) + **-ů**.
+Derived from **[[ů (verb)|ů]]** + **[[06A_-k- (particle)|-k-]]** (Transformative Mode) + **-ů**.

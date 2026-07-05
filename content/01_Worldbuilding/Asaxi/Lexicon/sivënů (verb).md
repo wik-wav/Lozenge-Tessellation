@@ -56,5 +56,5 @@ Null
 - **sivënůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[sivëshá (noun)|sivë]]** (Civet) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance) + **-ů**.
+Derived from **[[sivëshá (noun)|sivë]]** (Civet) + **[[06A_-n- (particle)|-n-]]** (Performance) + **-ů**.
 * *Logic:* "To perform the civet." (Cultural metaphor: Civets are viewed as proud, flashy, or strutting creatures).

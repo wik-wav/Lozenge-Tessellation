@@ -58,4 +58,4 @@ Null
 - [[xaŋonů (verb)|xaŋonů]] - to weigh (in tonnes)
 
 ### Grammatical Note
-Derived from **[[ŋo (Unit Noun)|ŋo]]** (Weight) + **[[06A_-n- (Morphological Infix)|-n-]]** (Function/State) + **-ů**.
+Derived from **[[ŋo (noun)|ŋo]]** (Weight) + **[[06A_-n- (particle)|-n-]]** (Function/State) + **-ů**.

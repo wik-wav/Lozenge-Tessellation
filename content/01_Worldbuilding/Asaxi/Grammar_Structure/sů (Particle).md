@@ -1,5 +1,5 @@
 ---
-title: sů (Particle) - "Continue!", "Keep going!", "Carry on!", "Maintain!".
+title: sů (particle) - "Continue!", "Keep going!", "Carry on!", "Maintain!".
 Word (Asaxi): sů
 trnsltion. En: '"Continue!", "Keep going!", "Carry on!", "Maintain!".'
 tags:
@@ -50,5 +50,5 @@ Derived from Japanese **進む** (*susumu* - to advance).
 
 ### Antonyms
 
-- **[[nă (Particle)|nă]]** (Stop!).
+- **[[nă (particle)|nă]]** (Stop!).
 - **[[tomo' (verb)|tomo' hè]]** (Halt).

@@ -1,5 +1,5 @@
 ---
-title: kopa (Noun) - The distant future
+title: kopa (noun) - The distant future
 Word (Asaxi): kopa
 trnsltion. En: The distant future
 trnsltion. Pl: daleka przyszłość
@@ -36,7 +36,7 @@ _The distant future is the unknown._
 Null
 
 ### Etymology
-**[[ko (Distal Locative Prefix)|ko-]]** (Yonder) + **[[pa (Noun)|pa]]** (Future).
+**[[ko (distal locative) (particle)|ko-]]** (Yonder) + **[[pa (Noun)|pa]]** (Future).
 *Lit:* "The Yonder-Future."
 
 ### Synonyms

@@ -63,24 +63,24 @@ Grammatically optional, but pragmatically vital. A sentence without a marker fee
 ### The Inventory
 
 - **Soliciting Agreement ("Right?"):**
-    - **[[ë (Discourse Marker)|ë]]** (after Consonant) / **në** (after Vowel).
+    - **[[ë (particle)|ë]]** (after Consonant) / **në** (after Vowel).
     - _Ex:_ `John shánă ë` ("John is fallible, right?").
 - **Assertion / Frustration ("I tell you"):**
-    - **[[ő (Discourse Marker)|ő]]** (after Consonant) / **wő** (after Vowel).
+    - **[[ő (discourse) (particle)|ő]]** (after Consonant) / **wő** (after Vowel).
     - _Ex:_ `John shánă ő` ("John is fallible, he really is.").
 - **Casual Emphasis ("Yo"):**
-    - **[[jỏ (Discourse Marker)|jỏ]]** ("Yo" / "Hey").
+    - **[[jỏ (particle)|jỏ]]** ("Yo" / "Hey").
     - _Function:_ Casual punctuation, calling attention, or adding a "street" vibe. Similar to English "Yo."
     - _Pronunciation:_ /jou̯/
     - _Ex:_ **Shěsonů jỏ.** ("Reading, yo.")
 - **Skepticism / Challenge ("Is that so?"):**
-    - **[[e (Discourse Marker)|e]]** (after Consonant) / **me** (after Vowel).
+    - **[[e (particle)|e]]** (after Consonant) / **me** (after Vowel).
     - _Ex:_ `John shánă ů e?` ("John is being fallible, is he?").
 - **Resignation ("It is what it is"):**
-    - **[[aŕa (Discourse Marker)|aŕa]]**.
+    - **[[aŕa (particle)|aŕa]]**.
     - _Meaning:_ Acceptance of an unchangeable situation. "Alas," "So be it."
     - _Ex:_ **John shánă ů aŕa.** ("John is being fallible, can't help it.").
 - **Contention ("I don't accept that"):**
-    - **[[iŕè (Discourse Marker)|iŕè]]**.
+    - **[[iŕè (particle)|iŕè]]**.
     - _Meaning:_ Active disagreement or shock at the statement. "I object," "No way."
     - _Ex:_ **John shánă ů iŕè.** ("John is being fallible? I object!").

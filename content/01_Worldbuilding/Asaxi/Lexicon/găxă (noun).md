@@ -39,11 +39,11 @@ _The Great Unknown is infinity._
 x
 
 ### Etymology
-**[[gă (noun)|gă]]** (Indefinite/Somewhere) + **[[xă (Particle)|xă]]** (Indeed/True/Emphasis).
+**[[gă (noun)|gă]]** (Indefinite/Somewhere) + **[[xă (particle)|xă]]** (Indeed/True/Emphasis).
 *Lit:* "The True Indefinite" or "Absolute Somewhere."
 
 ### Synonyms
-- **[[onå (FOREVER Aspectual Marker)]]** (Forever - temporal adverb).
+- **[[onå (particle)]]** (Forever - temporal adverb).
 
 ### Antonyms
 - **[[tamo (noun)|tamo]]** (Limit / End / Boundary).

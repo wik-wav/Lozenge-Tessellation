@@ -47,13 +47,13 @@ From Japanese 外 (がい) outside, beyond, not included in. Also, Polish "małp
 ### Derived terms
 [[gănů (verb)]]
 - [[fwogă (noun)|fwogă]] - valley
-- [[gă-gă (compound locative noun)|gă-gă]] - somewhere
+- [[gă-gă (noun)|gă-gă]] - somewhere
 - [[găhjo (noun)|găhjo]] - emaciation, boniness, gauntness, skin and bones
 - [[găxă (noun)|găxă]] - infinity, eternity, boundlessness, the infinite
 - [[găŕo (noun)|găŕo]] - colorfulness, polychromy, having many colours
-- [[ko-gă (compound locative noun)|ko-gă]] - over there
-- [[no-gă (compound locative noun)|no-gă]] - there (near listener), that place, your vicinity
-- [[o-gă (compound locative noun)|o-gă]] - here, this place, hither
+- [[ko-gă (noun)|ko-gă]] - over there
+- [[no-gă (noun)|no-gă]] - there (near listener), that place, your vicinity
+- [[o-gă (noun)|o-gă]] - here, this place, hither
 - [[xogă (verb)|xogă]] - to arrive
 - [[ågă (noun)|ågă]] - sometime
 ### Usage Notes

@@ -42,7 +42,7 @@ _John is a were-hyena._
 x
 
 ### Etymology
-[[ga (Fusing Particle)|ga]] + **[[jýnnshá (noun)|jýnn]]** (Hyena) + [[shá (noun)]]
+[[ga (particle)|ga]] + **[[jýnnshá (noun)|jýnn]]** (Hyena) + [[shá (noun)]]
 
 _Note on Lexical Drift:_ Since **[[jýn (noun)|jýn]]** also means "talk/chat", this word carries the connotation of "The Talking One" or "The Hyena that Speaks."
 

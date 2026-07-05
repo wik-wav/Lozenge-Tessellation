@@ -39,7 +39,7 @@ _The earring is (made of) silver._
 x
 
 ### Etymology
-From [[mao (noun) - as in satellite planet|mao]] (moon) + [[ro (noun)|ro]] (metal): the moon-metal. Counterpart to *xiro* (gold).
+From [[mao (satellite planet) (noun)|mao]] (moon) + [[ro (noun)|ro]] (metal): the moon-metal. Counterpart to *xiro* (gold).
 
 ### Synonyms
 x

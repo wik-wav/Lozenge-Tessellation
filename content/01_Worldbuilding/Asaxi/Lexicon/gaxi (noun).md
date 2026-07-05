@@ -41,7 +41,7 @@ _The sun is yellow._
 Null
 
 ### Etymology
-**[[ga (Fusing Particle)|ga]]** (colour/constitution) + [[xi (noun)|xi]] (sun) → "sun-colour". A colour built on its prototype object, like [[gapo (noun)|gapo]] (red ← apple) and [[gao (noun)|gao]] (azure ← sky).
+**[[ga (particle)|ga]]** (colour/constitution) + [[xi (noun)|xi]] (sun) → "sun-colour". A colour built on its prototype object, like [[gapo (noun)|gapo]] (red ← apple) and [[gao (noun)|gao]] (azure ← sky).
 
 ### Synonyms
 Null

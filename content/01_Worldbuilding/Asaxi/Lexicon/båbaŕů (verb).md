@@ -56,4 +56,4 @@ Null
 Null
 
 ### Grammatical Note
-Derived from **[[båbå (noun)|båba]]** (Muscles - Plural) + **[[06A_-ŕ- (Morphological Infix)|-ŕ-]]** (Generative) + **-ů**.
+Derived from **[[båbå (noun)|båba]]** (Muscles - Plural) + **[[06A_-ŕ- (particle)|-ŕ-]]** (Generative) + **-ů**.

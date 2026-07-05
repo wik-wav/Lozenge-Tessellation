@@ -36,7 +36,7 @@ Null
 Null
 
 ### Etymology
-**[[shá (noun)|shá]]** (Creature) + **[[sè (Relational Particle)|s(è)]]** (Of) + **[[shá (noun)|shá]]** (Creature).
+**[[shá (noun)|shá]]** (Creature) + **[[sè (particle)|s(è)]]** (Of) + **[[shá (noun)|shá]]** (Creature).
 *Lit:* "Creature-of-Creature." (A person owned by another).
 
 ### Synonyms

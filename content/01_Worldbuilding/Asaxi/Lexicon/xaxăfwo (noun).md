@@ -36,7 +36,7 @@ x
 x
 
 ### Etymology
-**[[xa- (Relational Locative Prefix)|xa]]** (Above) + **[[xă (Particle)|xă]]** (Emphasis/Indeed) + **[[fwo (noun)|fwo]]** (Fog). _Lit:_ The Above-Indeed-Fog.
+**[[xa- (relational locative) (particle)|xa]]** (Above) + **[[xă (particle)|xă]]** (Emphasis/Indeed) + **[[fwo (noun)|fwo]]** (Fog). _Lit:_ The Above-Indeed-Fog.
 
 ### Synonyms
 x

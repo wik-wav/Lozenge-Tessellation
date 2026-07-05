@@ -43,7 +43,7 @@ The ball rolls.
 x
 
 ### Etymology
-[[pxỏ (noun)|pxỏ]] (Ball) + [[06A_-n- (Morphological Infix)|-n-]] (Performance) + [[06_Verbs in Asaxi|-ů]].
+[[pxỏ (noun)|pxỏ]] (Ball) + [[06A_-n- (particle)|-n-]] (Performance) + [[06_Verbs in Asaxi|-ů]].
 Logic: "To do a ball" / "To ball-move."
 
 ### Synonyms

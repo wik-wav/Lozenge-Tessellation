@@ -45,7 +45,7 @@ _I suspect so (weakly)._ / _I'm not sure._
 Null
 
 ### Etymology
-**[[pù- (Relational Locative Prefix)|pù-]]** (Below/Under) + **[[ŕima (verb)|ŕima]]** (Think).
+**[[pù- (relational locative) (particle)|pù-]]** (Below/Under) + **[[ŕima (verb)|ŕima]]** (Think).
 *Lit:* "Under-think." (To think with low confidence/intensity).
 
 ### Synonyms

@@ -33,7 +33,7 @@ IPA: /t̪am/
 - **tambam** (Twice)
 - **pùtam** (Half)
 - **tamkam** (Pair/Both)
-- [[tambi (mathematical operator)|tambi]] - equals
+- [[tambi (particle)|tambi]] - equals
 - [[tamni (noun)|tamni]] - together as a pair, togetherness
 - [[tamỏbwopùxaśbibåbå (noun)|tamỏbwopùxaśbibåbå]] - gastrocnemius, calf muscle
 - [[tamỏbwoxatëbibåbå (noun)|tamỏbwoxatëbibåbå]] - biceps (brachii), the two-headed muscle

@@ -1,5 +1,5 @@
 ---
-title: ksămăni (Particle) - However, any way one likes
+title: ksămăni (particle) - However, any way one likes
 Word (Asaxi): ksămăni
 trnsltion. En: however, any way one likes, in whatever manner
 trnsltion. Pl: jakkolwiek, w dowolny sposób
@@ -28,7 +28,7 @@ IPA: /ksaɪmaɪni/
 
 ### Etymology
 
-The indefinite **ks-** stem (cf. the interrogatives [[ksá (Interrogative Pronoun)|ksá]] / [[ksè (Interrogative Pronoun)|ksè]]) + **măni** (manner): "by whatever manner."
+The indefinite **ks-** stem (cf. the interrogatives [[ksá (particle)|ksá]] / [[ksè (particle)|ksè]]) + **măni** (manner): "by whatever manner."
 
 ### Example sentence
 

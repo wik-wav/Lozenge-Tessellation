@@ -1,12 +1,20 @@
 ---
 title: 00_Ga-noun Compounds in Asaxi (list)
+aliases:
+  - ga-noun compounds
+  - ga-nouns
 tags:
   - Asaxi
   - language
+  - semantic_field
   - list
   - structural_set
   - grammar
 ---
+# Ga-noun Compounds in Asaxi (list)
+
+This is a list of all [[The Asaxi Language|Asaxi]] ga-noun compounds with the first meaning translation in English.
+
 In linguistics, a compound is "idiomatic" or "lexicalized" when the meaning cannot be guessed purely by adding the two parts together.
 
 - **Literal/Transparent:** _Apple pie_ (It is a pie. It has apples. Meaning is obvious.)
@@ -16,7 +24,10 @@ In Asaxi:
 - **Literal:** _Gashěsoshá_ (Book-type person). Meaning: A golem made of books.
 - **Idiomatic:** _Gadă_ (Elephant-type). Meaning: **Immensity**.
 
-This is a list of all **Ga-noun Idiomatic Compounds** in Asaxi, with their closest English translations.
+Navigation:
+- [[The Asaxi Language|The Asaxi Language Index]]
+- [[index|Asaxi Wiki - Homepage]]
+- Back to [wik_wav's site](https://wik-wav.neocities.org/asaxi)
 
 - - -
 

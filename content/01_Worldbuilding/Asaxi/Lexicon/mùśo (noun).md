@@ -39,7 +39,7 @@ _Mould is on the wood._
 Null
 
 ### Etymology
-A primitive root for dank fungal growth; the cold central vowel **ù** evokes damp and rot. Conceptually opposed to the warm growth-roots [[vivi (noun) - as in life|vivi]] (life/grass) and [[vètxe (noun)|větxe]] (leaf).
+A primitive root for dank fungal growth; the cold central vowel **ù** evokes damp and rot. Conceptually opposed to the warm growth-roots [[vivi (life) (noun)|vivi]] (life/grass) and [[vètxe (noun)|větxe]] (leaf).
 
 ### Synonyms
 Null

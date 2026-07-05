@@ -60,7 +60,7 @@ Null
 - **tambinůshá** (agent noun) *(potential)*
 
 ### Grammatical Note
-Derived from **[[tambi (Mathematical Operator)|tambi]]** (Equals) + **-n-** + **-ů**.
+Derived from **[[tambi (particle)|tambi]]** (Equals) + **-n-** + **-ů**.
 * *Logic:* "To perform equality" / "To equal."
 
 ### Usage Note

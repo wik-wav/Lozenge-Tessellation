@@ -78,7 +78,7 @@ For added emphasis, agitation, or surprise, the initial **k** of the particle ca
 
 ## Grammatical Concept: The K-Derivation
 
-Asaxi constructs specific Interrogative Pronouns ("Wh-words") by attaching the interrogative prefix **k-** (derived from the particle **[[kè (Particle)]]**) to existing semantic roots.
+Asaxi constructs specific Interrogative Pronouns ("Wh-words") by attaching the interrogative prefix **k-** (derived from the particle **[[kè (particle)]]**) to existing semantic roots.
 
 ### 1. The Inventory
 
@@ -87,9 +87,9 @@ Asaxi constructs specific Interrogative Pronouns ("Wh-words") by attaching the i
 | **kshá**      | **Who**   | `shá` (Person) | "Question-Person?"                                            |
 | **kjo**       | **What**  | `jo` (It)      | "Question-Thing?"                                             |
 | **ksi**       | **Where** | `si` (Unknown) | "Question-Unknown?" (Derived from **[[siŕo (noun)]]           |
-| **kvå**       | **When**  | `vå` (When)    | "Question-Time?" (Derived from the conjunction **[[vå (WHEN Temporal Connector)\|vå]]**).   |
-| **ksè**       | **Why**   | `sè` (Because) | "Question-Reason?" (Derived from **[[sèwo (BECAUSE Logical Clause Connector)]]**).               |
-| **ksá**       | **How**   | `zá` (With)    | "Question-Method?" (Derived from **[[zá (Relational Particle) |
+| **kvå**       | **When**  | `vå` (When)    | "Question-Time?" (Derived from the conjunction **[[vå (particle)\|vå]]**).   |
+| **ksè**       | **Why**   | `sè` (Because) | "Question-Reason?" (Derived from **[[sèwo (particle)]]**).               |
+| **ksá**       | **How**   | `zá` (With)    | "Question-Method?" (Derived from **[[zá (particle) |
 ### 2. Syntactic Position (In-Situ)
 
 Unlike English, which moves Wh-words to the front of the sentence ("**What** did you eat?"), Asaxi keeps them **In-Situ** (in their natural place).
@@ -101,7 +101,7 @@ You place the Wh-word exactly where the answer would go in a normal sentence.
 
 ### 3. Interaction with `kè`
 
-While the Wh-word itself indicates a question, the sentence usually retains the Question Particle **[[kè (Particle)]]** at the end to mark the illocutionary force (the "Question Mark").
+While the Wh-word itself indicates a question, the sentence usually retains the Question Particle **[[kè (particle)]]** at the end to mark the illocutionary force (the "Question Mark").
 
 - **Standard:** `[Wh-word] ... [Verb] kè?`
 - **Colloquial:** The `kè` can sometimes be dropped if intonation is rising, but this is less formal.

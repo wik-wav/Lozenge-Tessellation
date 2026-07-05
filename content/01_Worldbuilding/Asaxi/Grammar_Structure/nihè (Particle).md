@@ -1,5 +1,5 @@
 ---
-title: nihè (Particle) - start! begin! commence! go!
+title: nihè (particle) - start! begin! commence! go!
 Word (Asaxi): nihè
 trnsltion. En: start! begin! commence! go!
 tags:
@@ -41,7 +41,7 @@ _You, start._
 
 ### Etymology
 
-**[[ni (Relational Particle)|ni]]** (Towards/Inceptive) + **[[hè (Particle)|hè]]** (Imperative).
+**[[ni (particle)|ni]]** (Towards/Inceptive) + **[[hè (particle)|hè]]** (Imperative).
 *Lit:* "Towards-Do!" or "Start-Command."
 
 ### Synonyms
@@ -55,5 +55,5 @@ _You, start._
 
 ### Derived terms
 
-- [[ni- (Inceptive Prefix)|ni-]] - inceptive base
-- [[nåhè- (Particle)|nåhè-]] - immediate command (paradigm sibling)
+- [[ni- (particle)|ni-]] - inceptive base
+- [[nåhè- (particle)|nåhè-]] - immediate command (paradigm sibling)

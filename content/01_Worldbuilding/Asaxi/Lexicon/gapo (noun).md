@@ -39,7 +39,7 @@ Null
 x
 
 ### Etymology
-[[ga (Fusing Particle)|ga]] + [[apo (noun)]]
+[[ga (particle)|ga]] + [[apo (noun)]]
 
 ### Synonyms
 x

@@ -37,7 +37,7 @@ _I will depart the day after tomorrow._
 Null
 
 ### Etymology
-**[[pa- (Relational Locative Prefix)|pa]]** (Front) + **[[pwo (noun)|pwo]]** (Tomorrow).
+**[[pa- (particle)|pa]]** (Front) + **[[pwo (noun)|pwo]]** (Tomorrow).
 
 *Lit:* "Front-Tomorrow." (The day in front of tomorrow).
 

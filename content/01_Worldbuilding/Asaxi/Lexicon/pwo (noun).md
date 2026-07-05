@@ -36,7 +36,7 @@ IPA: /pʷo/
 Null
 
 ### Etymology
-**[[pa- (Relational Locative Prefix)|pa]]** (Front) + **[[o (noun)|o]]** (Sky). _Lit:_ "The Sky in Front."
+**[[pa- (particle)|pa]]** (Front) + **[[o (noun)|o]]** (Sky). _Lit:_ "The Sky in Front."
 
 ### Synonyms
 Null

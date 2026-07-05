@@ -62,7 +62,7 @@ Null
 Null
 
 ### Grammatical Note
-Derived from **[[kjèmbi (noun)|kjèmbi]]** (Cards) + **[[06A_-n- (Morphological Infix)|-n-]]** (Performance/Use) + **-ů**.
+Derived from **[[kjèmbi (noun)|kjèmbi]]** (Cards) + **[[06A_-n- (particle)|-n-]]** (Performance/Use) + **-ů**.
 * *Lit:* "To use cards."
 
 ### Usage Note (Double Meaning)

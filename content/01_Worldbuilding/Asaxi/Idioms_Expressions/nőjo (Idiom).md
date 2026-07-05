@@ -38,7 +38,7 @@ _"Hello, John! How are you feeling?"_
 
 ### Etymology
 
-**[[no (Medial Locative Prefix)|no-]]** (Medial Demonstrative, "there") + **[[ijo (verb)|ijo]]** (to see), coalesced per [[22_Phonotactics & Euphony]].
+**[[no (medial locative) (particle)|no-]]** (Medial Demonstrative, "there") + **[[ijo (verb)|ijo]]** (to see), coalesced per [[22_Phonotactics & Euphony]].
 
 ### Synonyms
 

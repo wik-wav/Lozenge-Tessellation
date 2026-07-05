@@ -39,7 +39,7 @@ I see the night sky's moon above.
 x
 
 ### Etymology
-[[ga (Fusing Particle)|ga]] + [[mao (noun) - as in night-time]] + w + [[o (noun)]]
+[[ga (particle)|ga]] + [[mao (night-time) (noun)]] + w + [[o (noun)]]
 
 ### Synonyms
 x

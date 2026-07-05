@@ -39,7 +39,7 @@ _Grass covers the hill._
 x
 
 ### Etymology
-From [[fwo (noun)|fwo]] (fog) + **vi** (grass, combining form of [[vivi (noun) - as in life|vivi]]): a hill is low enough that fog settles over the grass growing on it.
+From [[fwo (noun)|fwo]] (fog) + **vi** (grass, combining form of [[vivi (life) (noun)|vivi]]): a hill is low enough that fog settles over the grass growing on it.
 
 ### Synonyms
 x

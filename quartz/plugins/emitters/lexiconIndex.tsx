@@ -26,14 +26,17 @@ export const LexiconIndex: QuartzEmitterPlugin = () => ({
       }
     }
 
-    // pass 2: collect vocab entries from the Lexicon + Idioms folders
+    // pass 2: collect vocab entries from the Lexicon, Idioms and Grammar_Structure
+    // folders. Grammar_Structure holds real lexeme entries too (particles,
+    // pronouns, locatives, connectors, ...); doc pages there are filtered out
+    // below by the required "Word (Asaxi)" field.
     const entries: LexiconEntry[] = []
     for (const [, file] of content) {
       const fm = file.data.frontmatter as Record<string, any> | undefined
       const slug = file.data.slug
       const rel = (file.data.relativePath ?? "").toString()
       if (!fm || !slug) continue
-      if (!/(?:Lexicon|Idioms_Expressions)\//.test(rel)) continue
+      if (!/(?:Lexicon|Idioms_Expressions|Grammar_Structure)\//.test(rel)) continue
 
       const stem = rel.replace(/\.md$/, "").split("/").pop() ?? ""
       const m = stem.match(/^(.+) \(([^)]+)\)$/)

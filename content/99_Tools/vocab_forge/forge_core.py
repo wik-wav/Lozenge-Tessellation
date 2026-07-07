@@ -328,6 +328,7 @@ FIELD_SPECS = {
     "root_noun":   ("Root noun", False, ["adjective", "verb-u"], "text"),
     "number_value": ("Numeric value", False, ["number"], "text"),
     "usage_note":  ("Usage note (cultural context)", False, "all", "text"),
+    "senses":      ("Additional senses (polysemy): list of {gloss_en, gloss_pl, example, example_gloss}; sense 1 comes from the top-level fields", False, "all", "list"),
     "vocab_expansion_tag": ("Add vocab_expansion tag", False, "all", "bool"),
 }
 
@@ -335,6 +336,77 @@ FIELD_SPECS = {
 # ---------------------------------------------------------------- index
 
 FILENAME_RE = re.compile(r"^(?P<word>.+?) \((?P<type>[^)]+)\)\.md$")
+
+# ------------------------------------------------------------- polysemy
+# Standard: sense 1 lives in the legacy fields ("trnsltion. En:" +
+# "### Example sentence"); senses >= 2 use numbered frontmatter lines
+# ("trnsltion. En N:" / "trnsltion. Pl N:") and one "### Example Sentence N"
+# field each. Example fields are STRICT — exactly the sentence and its
+# translation, no commentary (commentary belongs in "### Usage Note").
+SENSE_EN_RE = re.compile(r"^trnsltion\. En(?: (\d+))?:\s*(.+)$", re.M)
+SENSE_PL_RE = re.compile(r"^trnsltion\. Pl(?: (\d+))?:\s*(.+)$", re.M)
+EX_SENT_HDR_RE = re.compile(r"(?mi)^###\s+Example Sentence (\d+)\s*:?\s*$")
+
+
+def _parse_example_block(block):
+    """Sentence + translation from an example block (strict quote format or
+    the legacy **sent** / _gloss_ format)."""
+    sent, gloss = "", ""
+    for line in (block or "").splitlines():
+        line = line.strip()
+        while line.startswith(">"):
+            line = line[1:].strip()
+        line = line.lstrip("- ").strip()
+        if not line or line.lower() in ("x", "null"):
+            continue
+        if not sent:
+            # single-line legacy form: **sentence** _gloss_
+            m = re.match(r"^\*\*(.+?)\*\*\s*(.*)$", line)
+            if m:
+                sent = m.group(1).strip()
+                rest = m.group(2).strip().strip('"').strip("_*").strip()
+                if rest:
+                    gloss = rest
+                    break
+                continue
+            sent = line.strip("*_").strip()
+            continue
+        if not gloss:
+            gloss = line.strip().strip('"').strip("_*").strip()
+            break
+    return sent, gloss
+
+
+def parse_sense_example(text, n):
+    """Example of sense n. Sense 1 falls back to the legacy
+    '### Example sentence' field when no numbered field exists."""
+    m = re.search(r"(?msi)^###\s+Example Sentence " + str(int(n)) +
+                  r"\s*:?\s*$(.*?)(?=^#{1,6}\s|\Z)", text)
+    if not m and int(n) == 1:
+        m = re.search(r"(?msi)^###\s+Example sentences?\s*:?\s*$(.*?)(?=^#{1,6}\s|\Z)",
+                      text)
+    if not m:
+        return "", ""
+    return _parse_example_block(m.group(1))
+
+
+def parse_senses(text):
+    """All senses of an entry as
+    [{n, gloss_en, gloss_pl, example, example_gloss}, ...]."""
+    en = {(int(num) if num else 1): val.strip()
+          for num, val in SENSE_EN_RE.findall(text)}
+    pl = {(int(num) if num else 1): val.strip()
+          for num, val in SENSE_PL_RE.findall(text)}
+    nums = set(en) | set(pl) | {int(x) for x in EX_SENT_HDR_RE.findall(text)}
+    if not nums:
+        nums = {1}
+    senses = []
+    for n in sorted(nums):
+        ex, exg = parse_sense_example(text, n)
+        senses.append({"n": n, "gloss_en": en.get(n, ""), "gloss_pl": pl.get(n, ""),
+                       "example": ex, "example_gloss": exg})
+    return senses
+
 
 
 class Lexicon:
@@ -373,6 +445,7 @@ class Lexicon:
                     e["gloss_en"] = fm.group(1).strip()
                 fp = re.search(r"^trnsltion\. Pl:\s*(.+)$", text, re.M)
                 e["gloss_pl"] = fp.group(1).strip() if fp else ""
+                e["senses"] = parse_senses(text)
                 au = field_audit(self.cfg, p.stem, text)
                 e["audit"] = {"missing": au.get("missing_from_template") or [],
                               "nonstandard": au.get("nonstandard") or [],
@@ -403,6 +476,9 @@ class Lexicon:
             elif ql in wl:
                 contains.append(e)
             elif ql in e["gloss_en"].lower():
+                glosses.append(e)
+            elif any(ql in (s.get("gloss_en") or "").lower()
+                     for s in (e.get("senses") or []) if s.get("n", 1) != 1):
                 glosses.append(e)
         out = (starts + contains + glosses)[:limit]
         return [{"word": e["word"], "type": e["type_raw"], "gloss": e["gloss_en"],
@@ -512,6 +588,13 @@ def validate(lex: Lexicon, data: dict):
             base = re.sub(r"\s*\([^)]*\)\s*$", "", w).strip()
             if base and base.lower() not in existing:
                 info.append(f'{key[:-1].capitalize()} "{base}" is not in the lexicon yet.')
+
+    for i, s in enumerate(data.get("senses") or [], start=2):
+        if not (s.get("gloss_en") or "").strip():
+            errors.append(f"senses[{i}]: gloss_en is required for every sense")
+        if not (s.get("example") or "").strip():
+            warnings.append(f"senses[{i}]: no example sentence — the deck builder "
+                            f"will not generate a card for this sense")
 
     return {"errors": errors, "warnings": warnings, "info": info, "ipa_suggestion": ipa}
 
@@ -719,7 +802,42 @@ def build_entry(lex: Lexicon, d: dict):
     if usage:
         body += f"\n\n### Usage Note\n\n{usage}"
 
-    return filename, fm + "\n" + body + "\n"
+    text = fm + "\n" + body + "\n"
+    if d.get("senses"):
+        text = _append_senses(text, d["senses"])
+    return filename, text
+
+
+def _append_senses(text, senses):
+    """Polysemy: numbered frontmatter glosses + strict '### Example Sentence N'
+    fields for senses >= 2 (sense 1 stays in the legacy fields)."""
+    fm_lines, body = "", ""
+    for i, s in enumerate(senses or [], start=2):
+        gl_en = (s.get("gloss_en") or "").strip()
+        gl_pl = (s.get("gloss_pl") or "").strip()
+        if gl_en:
+            fm_lines += f"\ntrnsltion. En {i}: {_fm_escape(gl_en)}"
+        if gl_pl:
+            fm_lines += f"\ntrnsltion. Pl {i}: {_fm_escape(gl_pl)}"
+        ex = (s.get("example") or "").strip()
+        exg = (s.get("example_gloss") or "").strip()
+        if ex:
+            body += f"\n\n### Example Sentence {i}\n\n> **{ex}**"
+            if exg:
+                body += f'\n> "{exg}"'
+    if fm_lines:
+        anchors = list(re.finditer(r"^trnsltion\. (?:En|Pl)(?: \d+)?:.*$", text, re.M))
+        if anchors:
+            a = anchors[-1]
+            text = text[:a.end()] + fm_lines + text[a.end():]
+    if body:
+        m = re.search(r"(?msi)^###\s+Example sentences?\s*:?\s*$.*?(?=^#{1,6}\s|\Z)", text)
+        if m:
+            text = (text[:m.end()].rstrip() + body + "\n\n"
+                    + text[m.end():].lstrip("\n")).rstrip() + "\n"
+        else:
+            text = text.rstrip() + body + "\n"
+    return text
 
 
 # ----------------------------------------------------------- list update
@@ -1291,6 +1409,7 @@ def get_entry(cfg, name):
             "ga_kind": ga_kind_of(text),
             "is_ga": "Ga-noun Compounds" in text,
             "gloss_en": fmval(r"trnsltion\. En") or "",
+            "senses": parse_senses(text),
             "gloss_pl": fmval(r"trnsltion\. Pl"),
             "word_asaxi": fmval(r"Word \(Asaxi\)") or "",
             "sections": [{"header": s["header"], "content": s["content"]}
@@ -1299,7 +1418,22 @@ def get_entry(cfg, name):
 
 
 def _template_position_insert(cfg, name, text, hdr, block):
-    """Insert a new section block at its template position (fallback: end)."""
+    """Insert a new section block at its template position (fallback: end).
+    'Example Sentence N' sections always dock directly after the closest
+    preceding example field, so all example fields stay adjacent."""
+    m_ex = re.match(r"(?i)example sentence (\d+)\s*:?$", hdr.strip())
+    if m_ex:
+        n = int(m_ex.group(1))
+        best = None
+        for s in split_sections(text):
+            mm = re.match(r"(?i)example sentences?(?: (\d+))?\s*:?$", s["header"].strip())
+            if mm:
+                k = int(mm.group(1)) if mm.group(1) else 1
+                if k < n and (best is None or k > best[0]):
+                    best = (k, s["span"][1])
+        if best is not None:
+            return (text[:best[1]].rstrip() + "\n\n" + block + "\n\n"
+                    + text[best[1]:].lstrip("\n")).rstrip() + "\n"
     key = template_key_for(name, text)
     tpl = (_template_headers(cfg, key) or []) if key else []
     tpl = tpl + ["Usage Note"]  # convention: usage notes go last
@@ -1375,22 +1509,30 @@ def update_entry(cfg, name, fm_updates=None, section_updates=None, dry_run=False
 
     old_gloss = None
     for key, val in (fm_updates or {}).items():
-        if key not in ("gloss_en", "gloss_pl"):
+        gm = re.match(r"gloss_(en|pl)(?:_(\d+))?$", key)
+        if not gm:
             continue
-        fmkey = "trnsltion. En" if key == "gloss_en" else "trnsltion. Pl"
+        _base = "trnsltion. En" if gm.group(1) == "en" else "trnsltion. Pl"
+        _n = int(gm.group(2)) if gm.group(2) else 1
+        fmkey = _base if _n == 1 else f"{_base} {_n}"
         pat = re.compile(r"^(" + re.escape(fmkey) + r":\s*)(.*)$", re.M)
         m = pat.search(text)
-        if m:
+        if m and not val.strip() and _n >= 2:
+            # removing a sense: drop its gloss line entirely
+            text = re.sub(r"^" + re.escape(fmkey) + r":.*\n?", "", text, count=1, flags=re.M)
+            changes.append(f"frontmatter: {fmkey} (removed)")
+        elif m:
             if m.group(2).strip() != val.strip():
                 if key == "gloss_en":
                     old_gloss = m.group(2).strip()
                 text = pat.sub(lambda mm: mm.group(1) + val, text, count=1)
                 changes.append(f"frontmatter: {fmkey}")
         elif val.strip():
-            # insert after the En line (or after Word line)
-            anchor = re.search(r"^trnsltion\. En:.*$", text, re.M)
-            if anchor:
-                text = text[:anchor.end()] + f"\n{fmkey}: {val}" + text[anchor.end():]
+            # insert after the last trnsltion line (keeps senses in order)
+            anchors = list(re.finditer(r"^trnsltion\. (?:En|Pl)(?: \d+)?:.*$", text, re.M))
+            if anchors:
+                a = anchors[-1]
+                text = text[:a.end()] + f"\n{fmkey}: {val}" + text[a.end():]
                 changes.append(f"frontmatter: {fmkey} (added)")
         if key == "gloss_en" and old_gloss is not None:
             # title line carries the gloss too
@@ -2245,7 +2387,8 @@ def field_audit(cfg, name, text):
     ignores = {h.lower() for h in load_ignores(cfg)}
     raw_nonstandard = [h for h in entry_hdrs
                        if h not in std and h not in fix_sources
-                       and not norm(h).startswith("usage note")]
+                       and not norm(h).startswith("usage note")
+                       and not re.match(r"example sentence \d+$", norm(h))]
     nonstandard = [h for h in raw_nonstandard if h.lower() not in ignores]
     ignored_present = [h for h in raw_nonstandard if h.lower() in ignores]
     missing = [h for h in tpl if h not in entry_hdrs and norm(h) not in entry_norm]

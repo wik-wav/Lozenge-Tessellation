@@ -51,3 +51,4 @@ Navigation:
 - [[vigoŕo (noun)]] - farm (crop-land)
 
 - [[kamshákam (noun)]] - gym
+- [[xùjakam (noun)]] - government, ruling institution

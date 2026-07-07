@@ -79,3 +79,5 @@ Navigation:
 - [[mýdonů (verb)]] - to soap, to wash with soap
 - [[săanoŕů (verb)]] - to bake bread
 - [[ŕonoxů (verb)]] - to serve a drink to
+- [[chőko (noun)]] - chocolate
+- [[kŕahjákae (noun)]] - raspberry, bramble-berry

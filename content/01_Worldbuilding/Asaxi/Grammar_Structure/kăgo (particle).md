@@ -30,9 +30,8 @@ tags:
 
 ### Pronunciation
 
-IPA: /kaɪgo/
 
-**Formation note:** the bare cluster \**kg-* is phonotactically illegal, so the interrogative *k-* takes an epenthetic *ă* before the quantifier base *-go*.
+IPA: /kaɪgo/
 
 ### Example sentence
 

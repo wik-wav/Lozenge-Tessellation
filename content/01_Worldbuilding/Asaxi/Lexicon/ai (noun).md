@@ -1,4 +1,5 @@
 ---
+id: axi1lhjqv
 freq: 63
 title: ai (noun) - pain, sorrow, grief (especially felt/emotional)
 Word (Asaxi): ai

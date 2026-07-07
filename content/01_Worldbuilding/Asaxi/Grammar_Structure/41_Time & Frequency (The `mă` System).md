@@ -82,3 +82,18 @@ To express a progression or continuous change over time units ("Day by day," "Mo
 **Sentence:**
 
 > **To wo xi ni xi bwoŕů.** _"I am getting fat day by day."_
+
+---
+
+### 5. Time Units & Duration (the `nixå` rule)
+
+The unit inventory now spans: **åkamm** (moment) < **[[jhi (noun)|jhi]]** (hour) < **[[xi (noun)|xi]]** (day) < **[[shăxi (noun)|shăxi]]** (week) < **[[pxă (noun)|pxă]]** (month) < **[[txă (noun)|txă]]** (year) < **[[damtxă (noun)|damtxă]]** (decade).
+
+**The Duration Rule:** in duration readings, the time unit is joined to the clause by **[[nixå (particle)|nixå]]** (`nixå [Number] [Unit-PL]`). Outside duration phrases the units behave as ordinary (Cold/Warm) nouns.
+
+> **Nixå tam jhiwa onă Bỏhjá ni xő zèsùkixů.**
+> `DUR two hour-PL DEF.W boy ALL 3SG.M PST-love`
+> *"For two hours the Boy loved him."* — [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]]
+
+This refines the bare-number shorthand of [[14_Future & Complex Tenses]] §7 (`nixå 3` "for three (units)"), which remains valid when the unit is contextually generic.
+

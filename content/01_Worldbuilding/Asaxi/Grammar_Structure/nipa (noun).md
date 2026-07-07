@@ -23,8 +23,7 @@ tags:
 
 IPA: /ɲipa/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]]
 
 ### Example sentence

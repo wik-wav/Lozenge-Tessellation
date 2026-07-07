@@ -4,6 +4,8 @@ title: tamo (noun) - limit, end
 Word (Asaxi): tamo
 trnsltion. En: limit
 trnsltion. Pl: kres
+trnsltion. En 2: edge, end, corner (of a thing)
+trnsltion. Pl 2: kraniec, brzeg, róg
 tags:
   - Asaxi
   - language
@@ -33,12 +35,19 @@ IPA: /t̪amo/
 ### Usage Note
 Used for both physical edges (where the road stops) and abstract limits (end of patience, end of a process).
 
+**Sense 2 (concrete).** The abstract "limit" applied to physical extent: `bă sè ko papỏ tamo` ("with the corner of her apron"), `sxëbony tama` ("sharp edges"). First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+
 ### Example sentence
 **To shosa tamo ma.**
 _The road has an end._
 
 **Sè John anő shěsonů tamo zèxogăni.**
 John's reading reached (the) limit. (John finished reading.)
+
+### Example Sentence 2
+
+> **Ni sè văŕo tamo zèmaaśù.**
+> "(He) was carried out to the end of the garden."
 
 ### Alternative Forms
 x

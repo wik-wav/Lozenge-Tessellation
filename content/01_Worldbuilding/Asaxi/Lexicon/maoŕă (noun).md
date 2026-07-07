@@ -1,0 +1,64 @@
+---
+title: maoŕă (noun) - moonlight
+Word (Asaxi): maoŕă
+trnsltion. En: moonlight
+trnsltion. Pl: światło księżyca
+tags:
+  - Asaxi
+  - language
+  - noun
+  - vocab_expansion
+---
+# maoŕă ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">maoŕă</span>
+
+<span class="asaxi-script-alpha">maoŕă</span>
+
+### Noun class (warm / cold)
+
+**Cold**
+
+### Pronunciation
+
+IPA: /mao̞ɾaɪ/
+
+### Semantic Field
+
+[[Smntc_Field Environment]] / [[Smntc_Field Perception]]
+
+### Translations
+
+- English: moonlight
+- Polish: światło księżyca
+
+### Example sentence
+
+**Va hjávakam gamaoŕă dăna åa.**
+_Those long moonlight hours in the nursery._
+
+### Alternative Forms
+
+x
+
+### Etymology
+
+**mao** (moon) + **ŕă** (fire/light), parallel to xiŕă (sunlight). Cold: radiant but heatless.
+
+### Synonyms
+
+x
+
+### Antonyms
+
+Null
+
+### Derived terms
+
+Null
+
+### Usage Note
+
+First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].

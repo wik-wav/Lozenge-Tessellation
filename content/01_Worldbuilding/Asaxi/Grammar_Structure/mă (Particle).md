@@ -53,8 +53,7 @@ It is important to distinguish frequency from total quantity.
 Wo ximă shěsonů.
 I read every day.
 
-### Alternative forms
-
+### Alternative Forms
 **-mă** (Suffix form).
 
 ### Etymology

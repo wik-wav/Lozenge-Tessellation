@@ -2,6 +2,8 @@
 title: săsă (particle) - "All of", "Entire", "Whole", "The full extent".
 Word (Asaxi): săsă
 trnsltion. En: all of, the entire (thing), the whole of, the full extent of
+trnsltion. En 2: (not) at all, (not) any (with negation)
+trnsltion. Pl 2: wcale (nie), w ogóle (nie)
 tags:
   - Asaxi
   - language
@@ -26,6 +28,8 @@ aliases:
 
 Can be used as a standalone word (`săsă`) or reduced to a prefix (`să-`) when attaching to units like days.
 
+**Sense 2 (negative polarity).** Under negation (`fůma`, `nèŕa`, `...ná`), **săsă** reads as "(not) at all, (not) any" — the full extent, denied: `hùwaśbiwa săsă fůma` ("has no hind legs at all"). First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+
 ### Pronunciation
 
 IPA: /saɪsaɪ/
@@ -37,6 +41,11 @@ _It rained all yesterday._
 
 **To wo săsă apo zèchỏnů.**
 _I ate the entire apple._
+
+### Example Sentence 2
+
+> **Xő pỏpỏ săsă nèŕa!**
+> "He isn't a rabbit at all!"
 
 ### Etymology
 

@@ -89,6 +89,9 @@
   .br-gloss{flex:1 1 60px;opacity:.9;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .br-score{display:flex;gap:6px;align-items:center;font-size:12px;color:var(--muted);flex:0 0 auto}
   .br-score .pct{flex:0 0 auto;min-width:34px;text-align:right;font-variant-numeric:tabular-nums}
+  .sense-box{border:1px solid var(--border);border-radius:6px;padding:8px 10px;margin:6px 0}
+  .sense-box.pending-del{opacity:.45}
+  .sense-box input{margin-top:6px}
   .br-anki{flex:0 0 auto;font-size:12px;letter-spacing:2px;cursor:default}
   .br-audit{flex:0 0 52px;font-size:11.5px;cursor:default;text-align:right;white-space:nowrap}
   .br-audit .miss{color:var(--warn)} .br-audit .nonstd{color:var(--err)}
@@ -173,6 +176,14 @@
         title="Asks the local LLM for Polish synonyms of this field's content (same word type). Click a result to append it to the field.">add synonyms ✦</button>
     </div>
     <div class="chips" id="plOut"></div>
+
+    <label>Additional senses (polysemy)</label>
+    <div id="sensesHost"></div>
+    <div class="ai-row">
+      <button class="small secondary" id="addSenseBtn" type="button"
+        title="Add another meaning of this word. Each sense becomes its own Anki card, so give every sense an example sentence.">+ add sense</button>
+    </div>
+    <small style="opacity:.7">Sense 1 = the fields above. Each sense becomes its own Anki card — the card front shows the word + that sense's example, so every sense needs an example. See AGENTS.md &sect; Polysemy standard.</small>
 
     <label>IPA</label>
     <div class="row">
@@ -410,6 +421,12 @@ The entry file and every planned vault update are shown here before anything is 
           title="Asks the local LLM for Polish synonyms of this field's content (same word type). Click a result to append it to the field.">add synonyms ✦</button>
       </div>
       <div class="chips" id="edPlOut"></div>
+      <label>Additional senses (polysemy)</label>
+      <div id="edSensesHost"></div>
+      <div class="ai-row">
+        <button class="small secondary" id="edAddSense" type="button"
+          title="Add another meaning of this word. Adds a numbered gloss row here and an «Example Sentence N» field below (kept right next to the other example fields).">+ add sense</button>
+      </div>
       <label>Frequency (1–100) — higher sorts to the top of the deck</label>
       <div class="ai-row">
         <input type="number" id="edFreq" min="1" max="100" step="1" style="max-width:110px">
@@ -545,6 +562,41 @@ function typeSpecific(){
   $("rootNounRow").style.display = ["adjective","verb-u"].includes(t) ? "" : "none";
 }
 
+// ---- polysemy: structured sense rows (Add tab)
+function senseRow(){
+  const box = document.createElement("div");
+  box.className = "sense-box";
+  box.innerHTML = `
+    <div style="display:flex;align-items:center;gap:8px">
+      <label style="margin:0">Sense <span class="sense-no"></span></label>
+      <button type="button" class="small secondary sense-del" title="Remove this sense">✕</button>
+    </div>
+    <input type="text" class="s-en" placeholder="English translation(s) *">
+    <input type="text" class="s-pl" placeholder="Polish translation(s)">
+    <input type="text" class="s-ex" placeholder="Example sentence (Asaxi) — required for an Anki card">
+    <input type="text" class="s-exg" placeholder="Example translation">`;
+  box.querySelector(".sense-del").onclick = ()=>{ box.remove(); renumberSenses(); };
+  return box;
+}
+function renumberSenses(){
+  [...document.querySelectorAll("#sensesHost .sense-box .sense-no")]
+    .forEach((el,i)=> el.textContent = i+2);
+}
+$("addSenseBtn").onclick = ()=>{
+  const b = senseRow();
+  $("sensesHost").appendChild(b);
+  renumberSenses();
+  b.querySelector(".s-en").focus();
+};
+function collectSenses(){
+  return [...document.querySelectorAll("#sensesHost .sense-box")].map(b=>({
+    gloss_en: b.querySelector(".s-en").value.trim(),
+    gloss_pl: b.querySelector(".s-pl").value.trim(),
+    example: b.querySelector(".s-ex").value.trim(),
+    example_gloss: b.querySelector(".s-exg").value.trim()
+  })).filter(s=> s.gloss_en || s.gloss_pl || s.example);
+}
+
 function payload(){
   return {
     word: $("word").value.trim(),
@@ -566,6 +618,7 @@ function payload(){
     semantic_fields: chipValues("semantic_fields"),
     example: $("example").value.trim(),
     example_gloss: $("example_gloss").value.trim(),
+    senses: collectSenses(),
     etymology: $("etymology").value.trim(),
     alt_forms: $("alt_forms").value.trim(),
     usage_note: $("usage_note").value.trim(),
@@ -1086,6 +1139,7 @@ $("freq").addEventListener("input", ()=>showFreqPeers($("addFreqPeers"), $("freq
 
 $("resetBtn").onclick = ()=>{
   document.querySelectorAll("input[type=text],textarea").forEach(i=>i.value="");
+  $("sensesHost").innerHTML = "";
   $("freq").value = ""; $("addFreqOut").textContent = ""; $("addFreqPeers").innerHTML = "";
   Object.keys(chipState).forEach(k=>chipState[k]=[]);
   ["fieldChips","synChips","antChips","derChips"].forEach(id=>$(id).innerHTML="");
@@ -1345,6 +1399,60 @@ function makeSection(header, content){
     return wrap;
 }
 
+// ---- polysemy: structured sense rows (Edit tab)
+function edSenseRow(n, en, pl){
+  const box = document.createElement("div");
+  box.className = "sense-box"; box.dataset.n = n;
+  box.innerHTML = `
+    <div style="display:flex;align-items:center;gap:8px">
+      <label style="margin:0">Sense ${n} — meaning</label>
+      <button type="button" class="small secondary sense-del"
+        title="Remove this sense — on Save, its gloss lines and its «Example Sentence ${n}» field are deleted">✕</button>
+    </div>
+    <input type="text" class="s-en" placeholder="English translation(s) *">
+    <input type="text" class="s-pl" placeholder="Polish translation(s)">`;
+  box.querySelector(".s-en").value = en;
+  box.querySelector(".s-pl").value = pl;
+  box.querySelectorAll("input").forEach(i=> i.addEventListener("input", edDirty));
+  box.querySelector(".sense-del").onclick = ()=>{
+    box.classList.toggle("pending-del");
+    const on = box.classList.contains("pending-del");
+    box.querySelector(".sense-del").textContent = on ? "↩" : "✕";
+    box.querySelectorAll("input").forEach(i=> i.disabled = on);
+    // keep the matching example-sentence section in sync
+    const w = [...document.querySelectorAll("#edSections .sec-wrap")]
+      .find(x=> x.dataset.header === "Example Sentence " + n);
+    if(w && w.classList.contains("pending-del") !== on){
+      const b = [...w.querySelectorAll("button")].find(x=> x.textContent === "✕" || x.textContent === "↩");
+      if(b) b.click();
+    }
+    edDirty();
+  };
+  return box;
+}
+
+$("edAddSense").onclick = ()=>{
+  if(!ed.name) return;
+  const rowNs = [...document.querySelectorAll("#edSensesHost .sense-box")].map(b=> +b.dataset.n);
+  const secNs = [...document.querySelectorAll("#edSections .sec-wrap")]
+    .map(w=> (w.dataset.header.match(/^Example Sentence (\d+)\s*:?$/i)||[])[1])
+    .filter(Boolean).map(Number);
+  const n = Math.max(1, ...rowNs, ...secNs) + 1;
+  const row = edSenseRow(n, "", "");
+  $("edSensesHost").appendChild(row);
+  // its example field goes right next to the other example fields
+  const wrap = makeSection("Example Sentence " + n, "");
+  const ta = wrap.querySelector("textarea");
+  if(ta) ta.placeholder = '> **Asaxi sentence.**\n> "Translation."';
+  let anchor = null;
+  [...document.querySelectorAll("#edSections .sec-wrap")].forEach(w=>{
+    if(/^example sentences?( \d+)?\s*:?$/i.test(w.dataset.header)) anchor = w;
+  });
+  if(anchor) anchor.after(wrap); else $("edSections").appendChild(wrap);
+  row.querySelector(".s-en").focus();
+  edDirty();
+};
+
 async function loadEntry(stem){
   const r = await api("/api/entry?name="+encodeURIComponent(stem));
   if(!r || !r.ok){
@@ -1362,6 +1470,12 @@ async function loadEntry(stem){
   $("edGlossEn").value = r.gloss_en;
   $("edGlossPl").value = r.gloss_pl === null ? "" : r.gloss_pl;
   $("edGlossPl").disabled = r.gloss_pl === null && false;
+  const sh = $("edSensesHost"); sh.innerHTML = "";
+  ed.orig.senses = {};
+  (r.senses||[]).filter(s=> (s.n||1) >= 2).forEach(s=>{
+    ed.orig.senses[s.n] = {en: s.gloss_en||"", pl: s.gloss_pl||""};
+    sh.appendChild(edSenseRow(s.n, s.gloss_en||"", s.gloss_pl||""));
+  });
   $("edGaKindRow").style.display = r.is_ga ? "" : "none";
   if(r.is_ga) $("edGaKind").value = r.ga_kind || "Idiomatic";
   $("edFreq").value = r.freq == null ? "" : r.freq;
@@ -1478,6 +1592,19 @@ function edChanges(){
   { const fv = $("edFreq").value.trim();
     const cur = fv==="" ? null : Math.max(1, Math.min(100, parseInt(fv)||0));
     if(cur !== null && cur !== ed.orig.freq) fm.freq = String(cur); }
+  [...document.querySelectorAll("#edSensesHost .sense-box")].forEach(box=>{
+    const n = box.dataset.n;
+    const orig = (ed.orig.senses||{})[n] || {en:"", pl:""};
+    if(box.classList.contains("pending-del")){
+      if(orig.en) fm["gloss_en_"+n] = "";
+      if(orig.pl) fm["gloss_pl_"+n] = "";
+      return;
+    }
+    const en = box.querySelector(".s-en").value.trim();
+    const pl = box.querySelector(".s-pl").value.trim();
+    if(en !== orig.en) fm["gloss_en_"+n] = en;
+    if(pl !== orig.pl) fm["gloss_pl_"+n] = pl;
+  });
   const secs = [];
   const wraps = [...document.querySelectorAll("#edSections .sec-wrap")];
   wraps.forEach(wrap=>{
@@ -1837,8 +1964,24 @@ function buildAnkiPanel(host, getId){
     play.style.cssText = "display:none;height:28px";
     const del = el("button","small secondary","✕ remove"); del.type = "button";
     del.title = "Delete this recording from anki-assets";
-    ar.r.append(rec, play, del);
-    return {status: ar.status, rec, play, del, slot};
+    const syn = el("button","small secondary","♪ synth"); syn.type = "button";
+    syn.title = "Synthesize " + (slot === "a2" ? "the example sentence" : "the word") +
+                " with the Lem diphone voice and save it into this slot";
+    syn.onclick = async ()=>{
+      if(!haveTarget()) return;
+      const i = ident();
+      syn.disabled = true; syn.textContent = "…";
+      const r = await api("/api/synth_asset", {method:"POST",
+        body: JSON.stringify({name: i.name, word: i.word, slot, lang: "asaxi"})});
+      syn.disabled = false; syn.textContent = "♪ synth";
+      note.textContent = (r && r.ok)
+        ? "✓ synthesized “" + (r.text||"") + "” (" + r.seconds + "s)" +
+          (r.skipped && r.skipped.length ? " — missing diphones: " + r.skipped.join(", ") : "")
+        : ((r && r.error) || "synth failed");
+      refresh();
+    };
+    ar.r.append(rec, syn, play, del);
+    return {status: ar.status, rec, syn, play, del, slot};
   }
   const a1 = audioRow("Audio: word", "a1", "Record the word itself (saved as …-a1.mp3)");
   const a2 = audioRow("Audio: sentence", "a2", "Record the example sentence (saved as …-a2.mp3)");

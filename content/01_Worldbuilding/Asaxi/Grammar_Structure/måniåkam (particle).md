@@ -32,8 +32,7 @@ Used to introduce a clause that sets a **definite deadline** or a specific termi
 
 ** Ko pazèshěsonů måniåkam, xő pazèxoxo.** _By the time (moment) she will have read, he will have departed._
 
-### Alternative forms
-
+### Alternative Forms
 - **måni åkam** (Analytic / Spoken slowly for emphasis).
 
 ### Etymology

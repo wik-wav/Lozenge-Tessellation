@@ -1,0 +1,23 @@
+{
+  "languages": [
+    "American English",
+    "Mexican Spanish",
+    "Japanese",
+    "Custom JSON"
+  ],
+  "voicebanks": [
+    "awb_arctic",
+    "kal_diphone",
+    "n_voicebank_custom"
+  ],
+  "festival": {
+    "bin": "E:/Portable_Software/FestVox_DBs/asaxi_lem/festival/asaxi_diphone_stub.scm",
+    "voice_map": {
+      "awb_arctic": "voice_cmu_us_awb_arctic_clunits",
+      "kal_diphone": "voice_kal_diphone",
+      "n_voicebank_custom": "voice_kal_diphone"
+    }
+  },
+  "default_text": "Hello, world.",
+  "samplerate": 16000
+}

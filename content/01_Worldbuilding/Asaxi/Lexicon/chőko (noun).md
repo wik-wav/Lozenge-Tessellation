@@ -1,0 +1,64 @@
+---
+title: chőko (noun) - chocolate
+Word (Asaxi): chőko
+trnsltion. En: chocolate
+trnsltion. Pl: czekolada
+tags:
+  - Asaxi
+  - language
+  - noun
+  - vocab_expansion
+---
+# chőko ([[01_Asaxi Nouns (List)]])
+
+- - -
+
+<span class="asaxi-script">chőko</span>
+
+<span class="asaxi-script-alpha">chőko</span>
+
+### Noun class (warm / cold)
+
+**Cold**
+
+### Pronunciation
+
+IPA: /t̠ʃo̞ɪko̞/
+
+### Semantic Field
+
+[[Smntc_Field Food & Drink]]
+
+### Translations
+
+- English: chocolate
+- Polish: czekolada
+
+### Example sentence
+
+**Gachőko gokaewa.**
+_Chocolate almonds (chocolate-type nuts)._
+
+### Alternative Forms
+
+x
+
+### Etymology
+
+Loan < Japanese *choko* (チョコ).
+
+### Synonyms
+
+x
+
+### Antonyms
+
+Null
+
+### Derived terms
+
+Null
+
+### Usage Note
+
+First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].

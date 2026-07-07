@@ -44,8 +44,7 @@ IPA: /nɑɦaɪnau̯ɕi/
 
 **To wo shěsonů náxănåsi.** _I will absolutely never read._
 
-### Alternative forms
-
+### Alternative Forms
 - **onånáxănåsi**: "Forever never" / "Never in eternity".
     
     - _Etymology:_ ****[[onå (particle)|onå]] (Forever) + **náxănåsi**.

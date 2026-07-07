@@ -24,8 +24,7 @@ tags:
 IPA: /ɲopa/
 *Note:* The `ni` + `o` fusion creates the palatal nasal /ɲ/.
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]]
 
 ### Example sentence

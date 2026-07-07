@@ -164,6 +164,7 @@ Navigation:
 - [[vigopỏŕů (verb)]] - to mill flour
 - [[vinonů (verb)]] - to drink wine
 - [[vivinů (verb)]] - to live, to be alive, to thrive
+- [[xăcèků (verb)]] - to make Real, to turn (something) into a Real one
 - [[xaŋonů (verb)]] - to weigh (in tonnes)
 - [[xèjåshů (verb)]] - to stop trying, to lose heart, to give up (on a goal)
 - [[xèronů (verb)]] - to weight-train, to bulk, to lift weights (for mass)
@@ -171,3 +172,7 @@ Navigation:
 - [[zèvonů (verb)]] - to name, to title
 - [[zèvoshů (verb)]] - to defame
 - [[zhýchů (verb)]] - to be cold, to feel the cold
+
+### New additions (unsorted)
+
+- [[igùŕanů (verb)]] - to play

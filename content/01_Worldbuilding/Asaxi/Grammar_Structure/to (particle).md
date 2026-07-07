@@ -58,8 +58,7 @@ The particle changes form to indicate the speaker's attitude or the specific foc
 
 **Pompous (Grandiloquent):** **Oto** wo... _it is I, (the great, glorious, grand, genial, gallant, gracious, gargantuan, gutsy one)..._
 
-### Alternate Forms
-
+### Alternate forms
 - **[[ă (particle)|ă]]** - Subjective Subject Marker (Internal/Emotional).
 
 ### Antonyms

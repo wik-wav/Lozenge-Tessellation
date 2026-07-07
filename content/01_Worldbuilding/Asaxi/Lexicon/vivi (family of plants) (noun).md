@@ -24,8 +24,7 @@ tags:
 
 IPA: /vivi/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Environment]]
 
 ### Translations

@@ -4,6 +4,8 @@ title: obi (noun) - nearness, vicinity
 Word (Asaxi): obi
 trnsltion. En: nearness, vicinity, the near
 trnsltion. Pl: bliskość, pobliże
+trnsltion. En 2: close, nearby (adverbial)
+trnsltion. Pl 2: blisko, w pobliżu
 tags:
   - Asaxi
   - language
@@ -34,6 +36,11 @@ IPA: /obi/
 **Daoŕo obi xiŕa.**
 _"The market is near." (lit. The market is [in] nearness.)_
 
+### Example Sentence 2
+
+> **Ko ni onă hjinýj Pỏpỏ obi zèxogă.**
+> "She came close to the little Rabbit."
+
 ### Alternative Forms
 Null
 
@@ -48,3 +55,7 @@ Null
 
 ### Derived terms
 - **obinýj / obină** (near, close) *(potential)*
+
+### Usage Note
+
+**Sense 2 (adverb).** Bare **obi** floats in the pre-verbal manner slot, qualifying a motion or position verb ("close up, nearby") without a case particle: `obi zèŋawa` ("crept quite close"), `tëa xő obi zèmùxa` ("hands clasped close round him"). First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].

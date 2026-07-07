@@ -25,8 +25,7 @@ tags:
 
 IPA: /t̪oxɯfʷo/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Perception]] [[Smntc_Field Circumstance]]
 
 ### Translations

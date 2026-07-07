@@ -36,8 +36,7 @@ IPA: /ðə/
 
 **Agentless Passive:** **Dhè shěso zètopù.** _The book was dropped._
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology

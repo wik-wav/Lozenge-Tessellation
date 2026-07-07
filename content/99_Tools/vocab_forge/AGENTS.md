@@ -78,3 +78,44 @@ Idioms are saved to `Idioms_Expressions/` (scanned alongside the Lexicon); chars
 - No silent overwrites; idempotent list/derived updates (already-present lines are never duplicated).
 - Entries generated from the vault's own templates.
 - Etymology `[[links]]` to existing entries (when the base is contained in the new word) auto-append the new word to those entries' Derived terms.
+
+## Polysemy standard (multiple meanings, one file)
+
+All meanings of a word live in **one** entry `.md`. Each sense produces its **own Anki card**, so the format is strict:
+
+- **Frontmatter:** sense 1 uses the legacy keys (`trnsltion. En:` / `trnsltion. Pl:`); every further sense adds numbered keys, in order:
+  ```
+  trnsltion. En: the right time
+  trnsltion. Pl: we właściwy czas
+  trnsltion. En 2: just then, at that very moment
+  trnsltion. Pl 2: właśnie wtedy
+  ```
+- **Body:** sense 1's example stays in the legacy `### Example sentence` field; each sense N ≥ 2 gets exactly one `### Example Sentence N` field. **No fluff in example fields** — exactly the sentence and its translation:
+  ```
+  ### Example Sentence 2
+
+  > **Ămă Nana xő zèxijpù.**
+  > "Just then Nana caught sight of him."
+  ```
+  Commentary, sense discussion and source attributions belong in `### Usage Note`.
+- **Payloads:** new polysemous entries pass senses ≥ 2 as `"senses": [{gloss_en, gloss_pl, example, example_gloss}, ...]` (sense 1 = the top-level fields). `entry_update` accepts numbered frontmatter keys: `{"frontmatter": {"gloss_en_2": "...", "gloss_pl_2": "..."}}`; example fields are ordinary sections (`{"header": "Example Sentence 2", "content": "> **...**\n> \"...\""}`).
+- **Adjacency rule:** all sense machinery stays grouped in the file — the numbered `trnsltion.` lines sit together in the frontmatter, and every `### Example Sentence N` field sits directly after the previous example field (never separated by unrelated sections). `build_entry`, `entry_update` and the web UI all enforce this placement automatically.
+- **Web UI:** both the **Add** and **Edit** tabs have a **“+ add sense”** button (arbitrarily many senses). Add tab: each sense row = EN/PL glosses + example + translation. Edit tab: the sense row holds the glosses, and its `Example Sentence N` field appears among the section editors, docked next to the other example fields; the ✕ on a sense removes its gloss lines and its example field on Save.
+- **Deck builder:** `build_anki_deck.py` emits one note per sense. Card front = word + that sense's example sentence (the example disambiguates the sense); back = that sense's meaning + example translation. Sense 1 keeps the entry's legacy guid (scheduling history survives renames *and* the polysemy migration); senses ≥ 2 get `<id>::sN`. A sense without an example gets no card — always supply one.
+
+## Diphone synthesis (Lem 4_Fis3 voice)
+
+`synth_diphone.py` renders audio from the FestVox diphone DB built by
+`../festvox/utau2festvox.py`. Set `config.json` → `"festvox_db"` to the
+`festvox_db` folder (path or list of candidates; first with
+`dic/diphone_index.json` wins).
+
+- **CLI:** `python vocab_forge.py synth "<text>" [--lang asaxi|en] [--out f.wav]`
+- **HTTP:** `GET /api/synth?text=&lang=` → `audio/wav`;
+  `POST /api/synth_asset {name|word, slot:a1|a2, lang, text?}` renders and
+  saves into the entry's Anki asset slot (a2 defaults to the entry's sense-1
+  example sentence; a1 defaults to the word).
+- **UI:** “♪ synth” button on each audio row of the Anki-assets panel.
+- Asaxi g2p follows *00_Phonemes of the Asaxi Language*; English uses
+  `cmudict` (arpasing). Pure stdlib otherwise.
+

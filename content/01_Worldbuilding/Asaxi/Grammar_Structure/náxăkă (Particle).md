@@ -2,6 +2,7 @@
 title: náxăkă (particle) - "Please don't", "Please do not", "Kindly refrain from"
 Word (Asaxi): náxăkă
 trnsltion. En: please don't
+trnsltion. Pl: proszę nie
 tags:
   - Asaxi
   - language
@@ -46,8 +47,10 @@ x
 
 ### Antonyms
 
+
 - **[[kă (particle)|kă]]** (Please do).
 - **[[náxăhè (particle)|náxăhè]]** (Strict Prohibition / Must not).
+- [[xăhè- (particle)|xăhè-]] (Force to, Make do, Must)
 
 ### Derived terms
 

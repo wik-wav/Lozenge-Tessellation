@@ -19,5 +19,9 @@
       "model": ""
     },
     "timeout_seconds": 60
-  }
+  },
+  "festvox_db": [
+    "E:/Portable_Software/FestVox_DBs/asaxi_lem",
+    "/sessions/peaceful-fervent-euler/mnt/FestVox_DBs/asaxi_lem"
+  ]
 }

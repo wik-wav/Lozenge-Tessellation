@@ -34,3 +34,5 @@ Three tabs: **Add new** (the full form), **Edit** (open any existing entry, edit
 ## Files
 
 `vocab_forge.py` (server+CLI) · `forge_core.py` (engine) · `ui.html` (form) · `thesaurus.json` (EN/PL synonym & antonym data — extend freely) · `config.json` · `AGENTS.md`
+
+Polysemy: one file per word, numbered `trnsltion. En N` frontmatter keys + one `### Example Sentence N` field per sense; the deck builder makes one card per sense (see AGENTS.md, "Polysemy standard").

@@ -19,3 +19,8 @@ Navigation:
 - - -
 
 - [[mùśo (noun)]] - mould, lichen
+- [[kŕahjákae (noun)]] - raspberry, bramble-berry
+- [[txepỏvă (noun)]] - fern, bracken
+- [[zhývă (noun)]] - holly, evergreen
+- [[maoŕă (noun)]] - moonlight
+- [[bùŕo (noun)]] - thicket, brush, scrub

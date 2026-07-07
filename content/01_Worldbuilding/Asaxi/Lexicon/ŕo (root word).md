@@ -40,6 +40,6 @@ x
 - [[pŕoŕo (noun)|pŕoŕo]] - wagon
 - [[hùsoŕo (noun)|hùsoŕo]] - desert
 - [[ijoŕaŕo (noun)|ijoŕaŕo]] - sanctuary, meditation hall, sanctuary, dream-place
-- [[naŕo (particle)|naŕo]] - Multiplied by
-- [[pùŕo (particle)|pùŕo]] - Divided by
+- [[naŕo (particle)|naŕo]] - Multiplied by (math operation)
+- [[pùŕo (particle)|pùŕo]] - Divided by (math operation)
 - [[sháŕo (noun)|sháŕo]] - waterhole, watering hole, pool, tarn

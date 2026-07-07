@@ -59,3 +59,5 @@ Navigation:
 - [[ŕoŕobi (noun)]] - stream / brook
 - [[dăfwogă (noun)]] - canyon / gorge
 - [[stè (noun)]] - plain / steppe
+- [[cùŕo (noun)]] - burrow, warren, den
+- [[bùŕo (noun)]] - thicket, brush, scrub

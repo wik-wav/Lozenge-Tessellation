@@ -94,3 +94,5 @@ Navigation:
 - [[cùpỏshů (verb)]] - to dust off, to clear of dust
 
 - [[apojů (verb)]] - to look like
+- [[maoŕă (noun)]] - moonlight
+- [[aśojýno (noun)]] - footstep(s), sound of footsteps

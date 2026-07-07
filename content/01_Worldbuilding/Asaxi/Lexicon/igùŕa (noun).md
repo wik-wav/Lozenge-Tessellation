@@ -48,6 +48,6 @@ Null
 
 ### Derived terms
 - **igùŕană / igùŕanýj** (adjectival forms) *(potential)*
-
+- [[igùŕanů (verb)|igùŕanů]] - to play
 ### Usage Note
 Refers to the **Noun** (The game itself). To describe the **Action** of playing or scheming, use **kjèmbinů**.

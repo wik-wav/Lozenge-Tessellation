@@ -2,6 +2,8 @@
 title: ksá (particle) - How?
 Word (Asaxi): ksá
 trnsltion. En: How?
+trnsltion. En 2: like, as (comparative connective)
+trnsltion. Pl 2: jak, niczym
 tags:
   - Asaxi
   - language
@@ -30,3 +32,12 @@ Derived from the question prefix **k-** + **[[zá (particle)|zá]]** (With/Comit
 ### Example sentence
 
 **John ksá shěsonů?** _How does John read?_ (e.g., By what method/tool).
+
+### Example Sentence 2
+
+> **Xő bwona pỏnă zèbů — ksá pỏpỏ ů naŕè.**
+> "He was fat and bunchy, as a rabbit should be."
+
+### Usage Note
+
+**Sense 2 ("like, as").** In declarative contexts **ksá** introduces a manner standard ("in the manner of / the way that..."), extending the indirect use of wh-words ([[25_Interrogative Pronouns (Wh-Words)]] §4). Also: `ksá anő ihjáka-ỏbỏ` ("like a pincushion"), `ksá pă pỏpa` ("as the other rabbits did"). First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].

@@ -325,6 +325,14 @@ class Handler(BaseHTTPRequestHandler):
             ctype = {"mp3": "audio/mpeg", "webm": "audio/webm", "ogg": "audio/ogg",
                      "jpg": "image/jpeg", "jpeg": "image/jpeg", "png": "image/png"}.get(ext, "application/octet-stream")
             return self._send(fp.read_bytes(), ctype=ctype)
+        if u.path == "/api/synth":
+            try:
+                import synth_diphone as synth
+                r = synth.synth_text(cfg, q.get("text", ""), q.get("lang", "en"),
+                                     speed=q.get("speed"))
+                return self._send(r["wav"], ctype="audio/wav")
+            except Exception as ex:
+                return self._send({"ok": False, "error": str(ex)}, 400)
         if u.path == "/api/infixes":
             return self._send({"infixes": core.infix_inventory(cfg)})
         if u.path == "/api/links":
@@ -334,6 +342,34 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_POST(self):
         cfg = self.cfg
+        if self.path == "/api/synth_asset":
+            d = self._body()
+            try:
+                import synth_diphone as synth
+                name, word = d.get("name", ""), d.get("word", "")
+                slot = d.get("slot", "a1")
+                lang = d.get("lang", "en")
+                text = (d.get("text") or "").strip()
+                if not text:
+                    if slot == "a2":
+                        rr = core.resolve_entry(cfg, name=name, word=word)
+                        if not rr.get("ok"):
+                            return self._send(rr, 404)
+                        senses = core.get_entry(cfg, rr["stem"]).get("senses") or []
+                        text = senses[0].get("example", "") if senses else ""
+                        if not text:
+                            return self._send({"ok": False, "error":
+                                "entry has no example sentence to synthesize"}, 400)
+                    else:
+                        text = word or re.sub(r"\s*\([^)]*\)\s*$", "", name)
+                r = synth.synth_text(cfg, text, lang, speed=d.get("speed"))
+                res = core.save_asset(cfg, name=name, word=word, slot=slot,
+                                      ext="wav", data=r["wav"])
+                res.update({"text": text, "phones": r["phones"],
+                            "seconds": r["seconds"], "skipped": r["skipped"]})
+                return self._send(res)
+            except Exception as ex:
+                return self._send({"ok": False, "error": str(ex)}, 400)
         if self.path.startswith("/api/asset_upload"):
             from urllib.parse import urlparse, parse_qs, unquote
             qs = {k: unquote(v[0]) for k, v in
@@ -414,6 +450,7 @@ def payload_schema():
                        "applies_to": v[2], "kind": v[3]}
                    for k, v in core.FIELD_SPECS.items()},
         "notes": [
+        "Polysemy: put sense 1 in gloss_en/example; additional senses go in 'senses' (list of {gloss_en, gloss_pl, example, example_gloss}). Each sense becomes its own Anki card, so every sense should carry a clean example sentence.",
             "semantic_fields entries must match file stems in Semantic_Fields/, e.g. 'Smntc_Field Emotion'.",
             "synonyms/antonyms/derived accept plain Asaxi words; existing words are auto-linked.",
             "ipa may be omitted; it will be derived from the romanization.",
@@ -452,6 +489,13 @@ def main():
     rl = sub.add_parser("rebuild-lists",
                         help="fill + Latin-sort every category List file (ga-noun grouped by tag)")
     rl.add_argument("--dry-run", action="store_true", help="report only, write nothing")
+    sy = sub.add_parser("synth",
+                        help="render text with the Lem diphone voice (see synth_diphone.py)")
+    sy.add_argument("text")
+    sy.add_argument("--lang", default="en", choices=["asaxi", "en", "ja"])
+    sy.add_argument("--out", default=None, help="output wav (default: <text>.wav)")
+    sy.add_argument("--speed", type=float, default=None,
+                    help="pace: >1 faster, <1 slower (default 1.0 / config synth_speed)")
     rf = sub.add_parser("rank-frequency",
                         help="stamp freq: on entries lacking it, via wordfreq on single-word glosses")
     rf.add_argument("--dry-run", action="store_true", help="report only, write nothing")
@@ -497,6 +541,12 @@ def main():
         else:
             out = {"dry_run": True, "planned": [
                 {"base": pl["base"], "add": pl["line"]} for pl in plans]}
+    elif args.cmd == "synth":
+        import synth_diphone as synth
+        wav_path = args.out or f"{args.lang}_{synth.safe_name(args.text)}.wav"
+        r = synth.synth_text(cfg, args.text, args.lang, out_path=wav_path, speed=args.speed)
+        out = {"out": wav_path, "speed": r.get("speed"), "seconds": r["seconds"],
+               "phones": r["phones"], "diphones": r["diphones"], "skipped": r["skipped"]}
     elif args.cmd == "thesaurus":
         out = core.suggest_related(lex, {"gloss_en": args.en, "gloss_pl": args.pl})
     elif args.cmd == "add":

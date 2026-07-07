@@ -21,3 +21,5 @@ Navigation:
 - [[kxe (noun)|kxe]]
 - [[ihjonýj (adjective)]] - bony, thin, skeletal
 - [[sxëbonýj (adjective)]] - sharp, keen, cutting
+- [[popogo (noun)]] - pearl
+- [[ipo (noun)]] - spot, fleck, dot, marking

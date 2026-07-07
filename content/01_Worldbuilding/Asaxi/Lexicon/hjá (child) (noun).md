@@ -25,8 +25,7 @@ tags:
 IPA: /çɑ/
 *Phonotactics:* `hj` becomes the voiceless palatal fricative /ç/.
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Animals]]
 
 ### Translations

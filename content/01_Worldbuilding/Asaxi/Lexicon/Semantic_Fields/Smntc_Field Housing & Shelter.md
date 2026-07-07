@@ -53,3 +53,8 @@ Navigation:
 - [[dănomáka (noun)]] - chest (big box)
 - [[vanawo (noun)]] - ceiling (inside-top)
 - [[ŕămáka (noun)]] - hearth, stove (fire-vessel)
+- [[hjávakam (noun)]] - nursery, child's room
+- [[cùŕo (noun)]] - burrow, warren, den
+- [[baoŕo (noun)]] - nest
+- [[xaembi (noun)]] - balcony
+- [[kùkùkam (noun)]] - fowl-house, hen-house, coop

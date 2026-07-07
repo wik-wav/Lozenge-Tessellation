@@ -16,11 +16,27 @@ tags:
 <span class="asaxi-script-alpha">ă</span>
 ### Grammatical function
 
-Alternate form of `to`. See [[to (particle)]]
 
+Alternate form of `to`. See [[to (particle)]]
 **Example:** **Ă wo...** ("I \[feel/internally\]...").
 
 ### Pronunciation
 
 IPA: /aɪ/
+
+### Example sentence
+
+x
+
+### Alternative Forms
+
+x
+
+### Antonyms
+
+Null
+
+### Derived terms
+
+Null
 

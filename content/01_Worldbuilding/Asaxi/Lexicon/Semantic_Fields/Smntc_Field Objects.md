@@ -38,3 +38,9 @@ Navigation:
 - [[wỏbi (noun)]] - pipe, tube (cylinder-line)
 
 - [[ńo (noun)]] - thing
+- [[igùŕano (noun)]] - toy, plaything
+- [[maopjo (noun)]] - night-light, night lamp
+- [[åkamobo (noun)]] - mainspring (of clockwork)
+- [[kmano (noun)]] - handle, grip, haft
+- [[fůnono (noun)]] - rubbish, junk, worthless things
+- [[hùsokam (noun)]] - sandcastle

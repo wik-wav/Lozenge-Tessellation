@@ -24,8 +24,7 @@ tags:
 
 IPA: /xɯwfʷoɾa/
 
-### Semantic field
-
+### Semantic Field
 Abstract / Logic
 
 ### Translations
@@ -37,8 +36,7 @@ Abstract / Logic
 
 **Ko pashěsonů hùfwoŕa.** _It is uncertain if she will read._ / _She might read._ (Lit: She will-read is-undercloud).
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology

@@ -25,8 +25,7 @@ tags:
 
 IPA: /ɦaɪɦaɪɾa/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Existence]] [[Smntc_Field Logic]]
 
 ### Translations

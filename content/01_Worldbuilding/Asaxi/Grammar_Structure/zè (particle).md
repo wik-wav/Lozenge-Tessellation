@@ -35,6 +35,5 @@ tags:
 - **Structure:** `sỏ-[Verb]`
 - **Example:** **To wo sỏshěsonů.** ("I remember reading / I was reading \[in my memory\].")
 
-### Alternate Forms
-
+### Alternate forms
 - **[[sỏ (particle)|sỏ-]]** - Subjective Past (Memoric/Nostalgic).

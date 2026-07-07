@@ -38,8 +38,7 @@ IPA: /saɪɲi/
 Săni sháma jýnů ken.
 Most creatures can chat.
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology

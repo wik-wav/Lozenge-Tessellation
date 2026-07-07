@@ -69,3 +69,7 @@ Navigation:
 - [[hjopùŕo (noun)]] - meteor (falling star)
 - [[maoxi (noun)]] - eclipse (moon-sun)
 - [[ŕăpỏ (noun)]] - ash (fire-powder)
+- [[jëtxă (noun)]] - spring (season)
+- [[săatxă (noun)]] - summer
+- [[vănotxă (noun)]] - autumn, fall
+- [[zhýtxă (noun)]] - winter

@@ -43,3 +43,6 @@ Navigation:
 - [[wëè (verb)]] - to require, to need
 - [[ůŕů (verb)]] - to produce, yield, emit, give off
 - [[banů (verb)]] - to be beside, be next to
+- [[xăcèshá (noun)]] - a Real one, genuine creature, truly-alive being
+- [[xăcènă (adjective)]] - Real, genuinely alive, authentic (of beings)
+- [[xăcèků (verb)]] - to make Real, to turn (something) into a Real one

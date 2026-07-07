@@ -20,5 +20,25 @@ tags:
 - **Category:** Mood — Solicitative (Suffix)
 - **Meaning:** "Please"
 
+### Pronunciation
+
+IPA: /.kaɪ/
+
+### Example sentence
+
+x
+
+### Alternative Forms
+
+x
+
+### Antonyms
+
+Null
+
+### Derived terms
+
+Null
+
 ### Source
 Catalogued from [[02_Particles in Asaxi]].

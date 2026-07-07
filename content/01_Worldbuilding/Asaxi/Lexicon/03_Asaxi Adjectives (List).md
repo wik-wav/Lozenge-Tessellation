@@ -93,3 +93,4 @@ Navigation:
 - [[zèvonýj (adjective)]] - esteemed, worthy of a name, highly praised, reputable, titled, famous
 - [[zhýnýj (adjective)]] - cold, chilly, frigid
 - [[zùnýj (adjective)]] - skilled, skillful, proficient, adept, good (at something)
+- [[xăcènă (adjective)]] - Real, genuinely alive, authentic (of beings)

@@ -44,3 +44,12 @@ Navigation:
 - [[ŋoŋo (noun)]] - snail
 - [[dăŕoshá (noun)]] - whale (great-water-creature)
 - [[maoshá (noun)]] - bat (night-creature)
+- [[fùbi (noun)]] - whisker (of an animal)
+- [[cùŕo (noun)]] - burrow, warren, den
+- [[baoŕo (noun)]] - nest
+- [[maőtxeshá (noun)]] - moth
+- [[jamikùki (noun)]] - germ, pathogen, microbe
+- [[sëokùki (noun)]] - crab
+- [[hùwaśbi (noun)]] - hind leg
+- [[pỏpỏhjá (noun)]] - bunny, young rabbit (also endearment)
+- [[kùkùkam (noun)]] - fowl-house, hen-house, coop

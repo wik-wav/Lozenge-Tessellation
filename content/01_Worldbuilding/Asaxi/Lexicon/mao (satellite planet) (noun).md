@@ -22,8 +22,7 @@ tags:
 
 IPA: /ma.o/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]]
 
 ### Translations
@@ -57,8 +56,7 @@ x
 - [[omao (noun)|omao]] - tonight
 - [[gamaowo (noun)|gamaowo]] - night sky
 
-### Dot object!
-
+### Dot object
 **mao** is a `moon • night-time` dot object.
 
 [[mao (night-time) (noun)]]

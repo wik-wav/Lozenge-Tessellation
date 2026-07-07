@@ -30,3 +30,5 @@ Navigation:
 - [[ijoka (noun)]] - sights (of a gun), scope, crosshairs, aiming device
 - [[tètáshů (verb)]] - to give up, to surrender, to quit, to yield
 - [[hkanů (verb)]] - to protect, shield, guard, defend
+- [[tákashá (noun)]] - soldier, warrior
+- [[tapùshá (noun)]] - thief, robber, brigand

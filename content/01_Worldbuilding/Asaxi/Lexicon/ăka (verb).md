@@ -1,4 +1,5 @@
 ---
+id: axl0h6dy4
 freq: 69
 title: ăka (verb) - to call, to summon
 Word (Asaxi): ăka

@@ -37,3 +37,4 @@ Navigation:
 - [[ỏbi (noun)]] - belt
 - [[nodobi (noun)]] - necklace
 - [[mibi (noun)]] - earring
+- [[aksami (noun)]] - velveteen, plush, velvet (fabric)

@@ -59,3 +59,10 @@ Navigation:
 
 - [[vaxi (noun)]] - date
 - [[åkam (noun)]] - deadline
+- [[jhi (noun)]] - hour
+- [[shăxi (noun)]] - week (seven-day span)
+- [[jëtxă (noun)]] - spring (season)
+- [[săatxă (noun)]] - summer
+- [[vănotxă (noun)]] - autumn, fall
+- [[zhýtxă (noun)]] - winter
+- [[daonoxi (noun)]] - gift-day, festival of giving (used for Christmas)

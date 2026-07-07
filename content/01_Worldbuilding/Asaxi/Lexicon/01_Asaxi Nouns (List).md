@@ -608,6 +608,7 @@ Navigation:
 - [[txe (noun)]] - wing
 - [[txempỏ (noun)]] - scarf
 - [[txenshá (noun)]] - angel
+- [[txaŕăijo (noun)]] - magic, transformation-power
 - [[txepỏ (noun)]] - feather
 - [[ůcho (noun)]] - feeling
 - [[ùhù (noun)]] - owl
@@ -622,6 +623,8 @@ Navigation:
 - [[văŕo (noun)]] - garden, conservatory, plantation
 - [[vashá (noun)]] - guest (one who enters)
 - [[văshá (noun)]] - farmer, gardener
+- [[tákashá (noun)]] - soldier, warrior
+- [[tapùshá (noun)]] - thief, robber, brigand
 - [[vawo (noun)]] - the inside
 - [[vaxi (noun)]] - the date, calendar day; on the day
 - [[vazè (noun)]] - in the past
@@ -639,11 +642,16 @@ Navigation:
 - [[viko (noun)]] - wheat
 - [[vimă (noun)]] - the accepted, the affirmed, collection of yeses, total approval
 - [[vino (noun)]] - wine (Pl. *wino*)
+- [[chőko (noun)]] - chocolate
 - [[vipỏ (noun)]] - cotton (plant-fluff)
 - [[viŕo (noun)]] - field / meadow
 - [[vishá (noun)]] - deer (grass-creature)
 - [[vivi (family of plants) (noun)]] - grass
 - [[vivi (life) (noun)]] - life, existence (biological), grass (concrete)
+- [[kŕahjákae (noun)]] - raspberry, bramble-berry
+- [[txepỏvă (noun)]] - fern, bracken
+- [[zhývă (noun)]] - holly, evergreen
+- [[maoŕă (noun)]] - moonlight
 - [[vjèbŕù (noun)]] - camel (Ru. *verblyud*)
 - [[vkozè (noun)]] - in the distant past
 - [[vkozèshá (noun)]] - elder, grandparent, person of the old days
@@ -651,12 +659,15 @@ Navigation:
 - [[vwo (noun)]] - today
 - [[wao (noun)]] - world, realm, domain, sphere
 - [[waojýn (noun)]] - story, tale
+- [[pjonoshěso (noun)]] - picture book
 - [[waokam (noun)]] - home
 - [[waoŕo (noun)]] - country, land, nation
 - [[wỏ (noun)]] - cylinder, primitive shape (cylindrical), roller
 - [[wỏbi (noun)]] - pipe, tube (cylinder-line)
+- [[igùŕano (noun)]] - toy, plaything
 - [[xabåbå (noun)]] - pectorals, chest muscles, pecs
 - [[xăcèno (noun)]] - truth, fact
+- [[xăcèshá (noun)]] - a Real one, genuine creature, truly-alive being
 - [[xafwo (noun)]] - atmosphere
 - [[xagi (noun)]] - ember / coal
 - [[xagiro (noun)]] - copper (ember-metal)
@@ -667,6 +678,7 @@ Navigation:
 - [[xaŋobwo (noun)]] - obesity, morbid obesity, excess weight
 - [[xapỏ (noun)]] - coat / cloak
 - [[xashosa (noun)]] - bridge
+- [[xùjakam (noun)]] - government, ruling institution
 - [[xăsiŕo (noun)]] - outer space
 - [[xatëbi (noun)]] - shoulder
 - [[xăto (noun)]] - hut / cabin
@@ -681,14 +693,45 @@ Navigation:
 - [[xipùŕo (noun)]] - dusk, sunset
 - [[xiŕă (noun)]] - sunlight, sunshine
 - [[xiro (noun)]] - gold
+- [[aksami (noun)]] - velveteen, plush, velvet (fabric)
+- [[vènopỏ (noun)]] - sawdust
+- [[popogo (noun)]] - pearl
+- [[ipo (noun)]] - spot, fleck, dot, marking
 - [[xobi (noun)]] - stairs (climb-line)
 - [[xokŕo (noun)]] - ladder (climb-frame)
+- [[hjávakam (noun)]] - nursery, child's room
+- [[igùŕabashá (noun)]] - playfellow, playmate
 - [[xoxonăno (noun)]] - cherished object
+- [[maopjo (noun)]] - night-light, night lamp
+- [[åkamobo (noun)]] - mainspring (of clockwork)
+- [[kmano (noun)]] - handle, grip, haft
+- [[fůnono (noun)]] - rubbish, junk, worthless things
+- [[hùsokam (noun)]] - sandcastle
+- [[ŕasopŕoŕo (noun)]] - steam engine, locomotive
+- [[aśojýno (noun)]] - footstep(s), sound of footsteps
 - [[xý (noun)]] - frost / rime
 - [[ýhýshá (noun)]] - mouse, rodent, prey animal
 - [[zè (noun)]] - the past
+- [[jhi (noun)]] - hour
+- [[shăxi (noun)]] - week (seven-day span)
 - [[zèvo (noun)]] - name
 - [[zhý (noun)]] - cold, the chill
 - [[zhýtopo (noun)]] - snow
+- [[jëtxă (noun)]] - spring (season)
+- [[săatxă (noun)]] - summer
+- [[vănotxă (noun)]] - autumn, fall
+- [[zhýtxă (noun)]] - winter
+- [[daonoxi (noun)]] - gift-day, festival of giving (used for Christmas)
 - [[zizi (noun)]] - mosquito
+- [[fùbi (noun)]] - whisker (of an animal)
+- [[cùŕo (noun)]] - burrow, warren, den
+- [[bùŕo (noun)]] - thicket, brush, scrub
+- [[baoŕo (noun)]] - nest
+- [[xaembi (noun)]] - balcony
+- [[maőtxeshá (noun)]] - moth
+- [[jamikùki (noun)]] - germ, pathogen, microbe
+- [[sëokùki (noun)]] - crab
+- [[hùwaśbi (noun)]] - hind leg
+- [[pỏpỏhjá (noun)]] - bunny, young rabbit (also endearment)
+- [[kùkùkam (noun)]] - fowl-house, hen-house, coop
 - [[zù (noun)]] - skill, proficiency, technique, knack

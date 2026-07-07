@@ -18,3 +18,30 @@ Alternate form of `zè`. See [[zè (particle)]]
 
 **Example:** **To wo sỏshěsonů.** 
 "I remember reading / I was reading \[in my memory\].
+
+### Grammatical function
+
+- Particle type: 
+- Function: 
+- Meaning:
+
+### Pronunciation
+
+x
+
+### Example sentence
+
+x
+
+### Alternative Forms
+
+x
+
+### Antonyms
+
+Null
+
+### Derived terms
+
+Null
+

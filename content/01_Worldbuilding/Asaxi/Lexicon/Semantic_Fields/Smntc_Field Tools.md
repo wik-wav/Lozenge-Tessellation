@@ -54,3 +54,7 @@ Navigation:
 - [[cpỏka (noun)]] - broom (dust-tool)
 - [[ijnawo (noun)]] - mirror (sight-surface)
 - [[pjobi (noun)]] - candle (light-rod)
+- [[maopjo (noun)]] - night-light, night lamp
+- [[åkamobo (noun)]] - mainspring (of clockwork)
+- [[kmano (noun)]] - handle, grip, haft
+- [[ŕasopŕoŕo (noun)]] - steam engine, locomotive

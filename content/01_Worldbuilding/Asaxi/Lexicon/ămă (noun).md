@@ -3,6 +3,10 @@ title: ămă (noun) - the right time, the subjective moment, kairos
 Word (Asaxi): ămă
 trnsltion. En: the right time
 trnsltion. Pl: we właściwy czas
+trnsltion. En 2: just then, at that very moment
+trnsltion. Pl 2: właśnie wtedy, w tej właśnie chwili
+trnsltion. En 3: at last, finally
+trnsltion. Pl 3: nareszcie, w końcu
 tags:
   - Asaxi
   - language
@@ -29,7 +33,19 @@ IPA: /aɪmaɪ/
 - Polish: we właściwy czas
 
 ### Example sentence
-Null
+
+> **To ămă paxiŕa.**
+> "It will be the right time."
+
+### Example Sentence 2
+
+> **Ămă Nana xő zèxijpù.**
+> "Just then Nana caught sight of him."
+
+### Example Sentence 3
+
+> **Xő ămă xăcènă Pỏpỏ zèxiŕa.**
+> "He was a Real Rabbit at last."
 
 ### Alternative Forms
 Null
@@ -54,3 +70,6 @@ Null
 * **As Adverb:** Floating pre-verbal modifier.
     * `To wo ămă pashěsonů.` ("I will read **when the time is right** / **opportunely**.")
 
+**Sense 2 ("just then").** Sentence-initial bare **ămă** anchors an event to the pivotal moment of a narrative — the kairos read temporally.
+**Sense 3 ("at last").** Pre-predicate **ămă** marks the long-awaited right time as *having arrived*.
+Both first attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].

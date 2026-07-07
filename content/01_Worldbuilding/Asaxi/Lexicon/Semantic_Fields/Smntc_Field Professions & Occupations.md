@@ -29,3 +29,5 @@ Navigation:
 - [[cèdaoshá (noun)]] - teacher
 - [[nicè (verb)]] - to learn, to study
 - [[nicèshá (noun)]] - student, learner, pupil
+- [[tákashá (noun)]] - soldier, warrior
+- [[tapùshá (noun)]] - thief, robber, brigand

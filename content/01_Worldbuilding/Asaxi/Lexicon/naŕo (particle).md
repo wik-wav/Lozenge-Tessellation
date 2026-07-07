@@ -1,7 +1,8 @@
 ---
-title: naŕo (particle) - Multiplied by
+title: naŕo (particle) - Multiplied by (math operation)
 Word (Asaxi): naŕo
-trnsltion. En: Multiplied by
+trnsltion. En: Multiplied by (math operation)
+trnsltion. Pl: Pomnożone przez
 tags:
   - Asaxi
   - language
@@ -17,6 +18,27 @@ tags:
 ### Grammatical function
 - **Type:** Mathematical Operator
 - **Meaning:** Multiplied by, times.
+
+### Pronunciation
+
+IPA: /naɾo̞/
+
+### Example sentence
+
+x
+
+### Alternative Forms
+
+x
+
+### Antonyms
+
+
+- [[pùŕo (particle)|pùŕo]] (Divided by (math operation))
+
+### Derived terms
+
+Null
 
 ### Etymology
 **[[na- (relational locative) (particle)|na]]** (On/Stack) + **[[ŕo (root word)|ŕo]]** (Place). _Lit:_ "Stacking places."

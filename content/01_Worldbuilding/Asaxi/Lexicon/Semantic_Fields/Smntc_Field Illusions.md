@@ -22,3 +22,4 @@ Navigation:
 - [[kxetxashá (noun)]] - shapeshifter, polymorph, changeling
 - [[swëshá (noun)]] - dragon
 - [[txenshá (noun)]] - angel
+- [[txaŕăijo (noun)]] - magic, transformation-power

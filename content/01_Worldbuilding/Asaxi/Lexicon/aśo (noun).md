@@ -1,4 +1,5 @@
 ---
+id: axbcr3wsb
 freq: 88
 title: aśo (noun) - foot, hind paw
 Word (Asaxi): aśo

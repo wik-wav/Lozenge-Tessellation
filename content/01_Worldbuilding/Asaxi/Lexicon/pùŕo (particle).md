@@ -1,7 +1,7 @@
 ---
-title: pùŕo (particle) - Divided by
+title: pùŕo (particle) - Divided by (math operation)
 Word (Asaxi): pùŕo
-trnsltion. En: Divided by
+trnsltion. En: Divided by (math operation)
 tags:
   - Asaxi
   - language
@@ -17,6 +17,27 @@ tags:
 ### Grammatical function
 - **Type:** Mathematical Operator
 - **Meaning:** Divided by.
+
+### Pronunciation
+
+IPA: /pɯɾo̞/
+
+### Example sentence
+
+x
+
+### Alternative Forms
+
+x
+
+### Antonyms
+
+
+- [[naŕo (particle)|naŕo]] (Multiplied by)
+
+### Derived terms
+
+Null
 
 ### Etymology
 **[[pù- (relational locative) (particle)|pù]]** (Below) + **[[ŕo (root word)|ŕo]]** (Place). _Lit:_ "Lowering places" or "Base places."

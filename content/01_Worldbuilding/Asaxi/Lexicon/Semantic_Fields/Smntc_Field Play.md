@@ -19,3 +19,7 @@ Navigation:
 - - -
 
 - [[pxỏ (noun)|pxỏ]]
+- [[igùŕano (noun)]] - toy, plaything
+- [[igùŕanů (verb)]] - to play
+- [[igùŕabashá (noun)]] - playfellow, playmate
+- [[hùsokam (noun)]] - sandcastle

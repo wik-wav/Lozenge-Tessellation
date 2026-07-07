@@ -25,8 +25,7 @@ tags:
 
 IPA: /t̪oɦaɪxə/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Perception]]
 
 ### Translations

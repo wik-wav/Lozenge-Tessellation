@@ -86,3 +86,5 @@ Navigation:
 - [[kùpù (verb)]] - to tumble, to topple
 - [[ŕopa (verb)]] - to wade
 - [[vexe (verb)]] - to shiver
+- [[ŕasopŕoŕo (noun)]] - steam engine, locomotive
+- [[aśojýno (noun)]] - footstep(s), sound of footsteps

@@ -38,3 +38,6 @@ Navigation:
 - [[sùggo (noun)]] - marble (crystal-stone)
 - [[maogám (noun)]] - ink (black-gum)
 - [[gosipỏ (noun)]] - chalk (white-powder)
+- [[aksami (noun)]] - velveteen, plush, velvet (fabric)
+- [[vènopỏ (noun)]] - sawdust
+- [[popogo (noun)]] - pearl

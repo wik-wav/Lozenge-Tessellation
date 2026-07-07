@@ -24,3 +24,4 @@ Navigation:
 - [[ijùno (noun)]] - word, utterance
 - [[waojýn (noun)]] - story, tale
 - [[shěsoŕů (verb)]] - to write, to author (a work)
+- [[pjonoshěso (noun)]] - picture book

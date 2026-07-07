@@ -23,8 +23,7 @@ tags:
 
 IPA: /vazə/
 
-### Semantic field
-
+### Semantic Field
 [[Smntc_Field Time]]
 
 ### Example sentence

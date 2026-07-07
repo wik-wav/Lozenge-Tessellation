@@ -30,5 +30,5 @@ tags:
 
 ### Pronunciation
 
-IPA:
-  /anoɪ/
+
+IPA: /anoɪ/

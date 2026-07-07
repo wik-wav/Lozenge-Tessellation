@@ -141,3 +141,5 @@ Navigation:
 - [[kùso (noun)]] - faeces, dung
 
 - [[ỏbånů (verb)]] - to flex
+- [[fùbi (noun)]] - whisker (of an animal)
+- [[hùwaśbi (noun)]] - hind leg

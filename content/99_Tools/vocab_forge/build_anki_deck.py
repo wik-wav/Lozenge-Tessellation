@@ -50,6 +50,12 @@ FRONT = """
 <div class="abugida">{{Word}}</div>
 <div class="alpha">{{Word}}</div>
 <div class="latin">{{Word}}</div>
+{{#Example}}
+<div class="sentence">
+  <div class="abugida">{{Example}}</div>
+  <div class="latin">{{Example}}</div>
+</div>
+{{/Example}}
 """
 
 BACK = """
@@ -159,7 +165,6 @@ def main():
         m = re.search(r"IPA:\s*(/[^\n]+/)", text)
         if m:
             ipa = m.group(1).strip()
-        sent, sgloss = extract_example(text)
 
         img = f'<img src="{st["image"]}">' if st["image"] else ""
         a1 = f"[sound:{st['a1']}]" if st["a1"] else ""
@@ -168,14 +173,36 @@ def main():
             if st[key]:
                 media.append(str(adir / st[key]))
 
-        note = genanki.Note(model=MODEL, fields=[
-            e["word"], ipa, e["gloss_en"], e.get("gloss_pl", ""),
-            sent, sgloss, img, a1, a2, e["type_raw"], f"{_eff(e):03d}"],
-            guid=genanki.guid_for(e.get("id") or
-                                  ("asaxi::" + e["word"] + "::" + e["type_raw"])),
-            due=n + 1)   # new-card position: higher frequency first (set Anki new-card order to "Order gathered"/"Order added")
-        deck.add_note(note)
-        n += 1
+        # Polysemy: one note per sense. Sense 1 keeps the entry's legacy guid
+        # (scheduling history survives); senses >= 2 get "<guid>::sN".
+        senses = [s for s in (e.get("senses") or [])
+                  if (s.get("gloss_en") or "").strip()]
+        if not senses:
+            sent, sgloss = extract_example(text)
+            senses = [{"n": 1, "gloss_en": e["gloss_en"],
+                       "gloss_pl": e.get("gloss_pl", ""),
+                       "example": sent, "example_gloss": sgloss}]
+        base_guid = e.get("id") or ("asaxi::" + e["word"] + "::" + e["type_raw"])
+        for s in senses:
+            sn = s.get("n") or 1
+            sent = s.get("example") or ""
+            sgloss = s.get("example_gloss") or ""
+            if sn == 1 and not sent:
+                sent, sgloss = extract_example(text)
+            note = genanki.Note(model=MODEL, fields=[
+                e["word"], ipa,
+                s.get("gloss_en") or e["gloss_en"],
+                s.get("gloss_pl") or (e.get("gloss_pl", "") if sn == 1 else ""),
+                sent, sgloss, img, a1,
+                a2 if sn == 1 else "",   # the sentence recording belongs to sense 1
+                e["type_raw"], f"{_eff(e):03d}"],
+                guid=genanki.guid_for(base_guid if sn == 1
+                                      else f"{base_guid}::s{sn}"),
+                due=n + 1)   # new-card position: higher frequency first (set Anki new-card order to "Order gathered"/"Order added")
+            deck.add_note(note)
+            n += 1
+            if args.limit and n >= args.limit:
+                break
         if args.limit and n >= args.limit:
             break
 

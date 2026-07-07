@@ -57,3 +57,4 @@ Navigation:
 
 - [[fůŕăijonă (adjective)]] - weak
 - [[tètánă (adjective)]] - painful
+- [[jamikùki (noun)]] - germ, pathogen, microbe

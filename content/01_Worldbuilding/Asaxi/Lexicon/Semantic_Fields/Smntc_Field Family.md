@@ -48,3 +48,6 @@ Navigation:
 - [[roshá (noun)]] - smith (iron-person)
 - [[bỏshá (noun)]] - man (adult male)
 - [[mỏshá (noun)]] - woman (adult female)
+- [[hjávakam (noun)]] - nursery, child's room
+- [[igùŕabashá (noun)]] - playfellow, playmate
+- [[pỏpỏhjá (noun)]] - bunny, young rabbit (also endearment)

@@ -39,3 +39,4 @@ Navigation:
 - [[gavină (adjective)]] - good, virtuous, well, skillfully
 
 - [[frënă (adjective)]] - free
+- [[xăcènă (adjective)]] - Real, genuinely alive, authentic (of beings)

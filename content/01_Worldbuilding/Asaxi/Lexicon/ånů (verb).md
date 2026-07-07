@@ -1,4 +1,5 @@
 ---
+id: ax9h1f2qo
 title: ånů (verb) - to tell the time, to time
 Word (Asaxi): ånů
 trnsltion. En: to tell the time, to time

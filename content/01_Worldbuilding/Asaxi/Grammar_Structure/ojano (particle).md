@@ -50,8 +50,7 @@ IPA: /oꞲano/
 
 **3. Argument Scope (Object)** **To shějýnshá shěso ojano zèdao.** _The teachers gave the books **individually**._ (Handed over Book A, then Book B).
 
-### Alternative forms
-
+### Alternative Forms
 x
 
 ### Etymology

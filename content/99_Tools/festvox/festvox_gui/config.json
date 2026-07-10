@@ -1,23 +1,20 @@
 {
-  "languages": [
-    "American English",
-    "Mexican Spanish",
-    "Japanese",
-    "Custom JSON"
-  ],
-  "voicebanks": [
-    "awb_arctic",
-    "kal_diphone",
-    "n_voicebank_custom"
-  ],
-  "festival": {
-    "bin": "E:/Portable_Software/FestVox_DBs/asaxi_lem/festival/asaxi_diphone_stub.scm",
-    "voice_map": {
-      "awb_arctic": "voice_cmu_us_awb_arctic_clunits",
-      "kal_diphone": "voice_kal_diphone",
-      "n_voicebank_custom": "voice_kal_diphone"
-    }
+  "festvox_config": "",
+  "synth_diphone_dir": "",
+  "languages": {
+    "Asaxi": "asaxi",
+    "English": "en",
+    "Japanese": "ja"
   },
-  "default_text": "Hello, world.",
-  "samplerate": 16000
+  "default_language": "English",
+  "default_text": "my name is ",
+  "extra_voicebanks": {},
+  "synth_speed": 0.62,
+  "advanced": {
+    "crossfade_ms": 15.0,
+    "edge_fade_ms": 8.0,
+    "half_ms": 150.0
+  },
+  "apply_velocity": true,
+  "velocity_depth": 1.0
 }

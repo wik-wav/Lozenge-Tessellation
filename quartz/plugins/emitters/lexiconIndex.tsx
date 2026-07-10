@@ -2,15 +2,21 @@ import { FullSlug, SimpleSlug, joinSegments, simplifySlug } from "../../util/pat
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 
+export type LexiconSense = { en: string; pl: string }
+
 export type LexiconEntry = {
   slug: SimpleSlug
   word: string
   type: string
-  en: string
-  pl: string
+  // all senses, in order. Sense 1 = the legacy unnumbered keys
+  // ("trnsltion. En" / "trnsltion. Pl"); sense N >= 2 = "trnsltion. En N".
+  // See vocab_forge AGENTS.md, "Polysemy standard".
+  senses: LexiconSense[]
   freq: number | null
   fields: string[]
 }
+
+const SENSE_KEY_RE = /^trnsltion\. (En|Pl)(?: (\d+))?$/
 
 // Emits static/lexicon.json: structured vocab data for the Lexicon Browser page.
 export const LexiconIndex: QuartzEmitterPlugin = () => ({
@@ -61,12 +67,28 @@ export const LexiconIndex: QuartzEmitterPlugin = () => ({
         if (Number.isFinite(n)) freq = n
       }
 
+      // collect every sense: unnumbered keys are sense 1, "En 2"/"Pl 2" etc.
+      const byN = new Map<number, LexiconSense>()
+      for (const [key, val] of Object.entries(fm)) {
+        const km = key.match(SENSE_KEY_RE)
+        if (!km) continue
+        const n = km[2] ? parseInt(km[2], 10) : 1
+        const s = byN.get(n) ?? { en: "", pl: "" }
+        if (km[1] === "En") s.en = (val ?? "").toString().trim()
+        else s.pl = (val ?? "").toString().trim()
+        byN.set(n, s)
+      }
+      const senses = [...byN.entries()]
+        .sort((a, b) => a[0] - b[0])
+        .map(([, s]) => s)
+        .filter((s) => s.en !== "" || s.pl !== "")
+      if (senses.length === 0) senses.push({ en: "", pl: "" })
+
       entries.push({
         slug: simplifySlug(slug),
         word,
         type,
-        en: (fm["trnsltion. En"] ?? "").toString(),
-        pl: (fm["trnsltion. Pl"] ?? "").toString(),
+        senses,
         freq,
         fields,
       })

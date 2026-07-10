@@ -29,9 +29,35 @@ export default (() => {
             <option value="freq-asc">sort: least frequent</option>
           </select>
         </div>
+        <div class="lex-note">
+          <span>
+            Every entry — including all its senses — is meant to be findable here. If you are
+            certain a word exists but it does not show up, try the site-wide search.
+          </span>
+          <button
+            class="lex-open-search"
+            type="button"
+            title="Open the site-wide search (Ctrl+K)"
+            aria-label="Open the site-wide search"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 19.9 19.7"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              aria-hidden="true"
+            >
+              <path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4" />
+              <circle cx="8" cy="8" r="7" />
+            </svg>
+          </button>
+        </div>
         <div class="lex-stats"></div>
         <div class="lex-list"></div>
-        <button class="lex-more" type="button" style="display:none">Show more</button>
+        <button class="lex-more" type="button" style="display:none">
+          Show more
+        </button>
       </div>
     )
   }

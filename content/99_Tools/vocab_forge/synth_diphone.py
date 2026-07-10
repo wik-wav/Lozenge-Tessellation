@@ -42,11 +42,7 @@ class DiphoneDB:
     def has(self, dip):
         return dip in self.index
 
-    def slice(self, dip, half_ms=HALF_MS):
-        """Return (framerate, mono int16 array) for a diphone. `half_ms` caps
-        how much audio is kept each side of the phone boundary — smaller =
-        shorter phones = faster speech (see `speed` in render())."""
-        wav_name, start, mid, end = self.index[dip]
+    def _load(self, wav_name):
         if wav_name not in self._cache:
             with wave.open(str(self.root / "wav" / wav_name), "rb") as w:
                 assert w.getsampwidth() == 2, "expected 16-bit wavs"
@@ -56,11 +52,25 @@ class DiphoneDB:
                     frames = array.array("h", [(frames[i] + frames[i+1]) // 2
                                                for i in range(0, len(frames), 2)])
                 self._cache[wav_name] = (w.getframerate(), frames)
-        fr, frames = self._cache[wav_name]
+        return self._cache[wav_name]
+
+    def slice(self, dip, half_ms=HALF_MS):
+        """Return (framerate, mono int16 array) for a diphone. `half_ms` caps
+        how much audio is kept each side of the phone boundary — smaller =
+        shorter phones = faster speech (see `speed` in render())."""
+        fr, chunk, _ = self.slice_info(dip, half_ms)
+        return fr, chunk
+
+    def slice_info(self, dip, half_ms=HALF_MS):
+        """Like slice(), but also returns the offset (in samples, into the
+        returned chunk) of the diphone's phone boundary — its `mid` point."""
+        wav_name, start, mid, end = self.index[dip]
+        fr, frames = self._load(wav_name)
         half = half_ms / 1000.0
         s = max(start, mid - half)
         e = min(end, mid + half)
-        return fr, frames[int(s * fr):int(e * fr)]
+        i0, i1 = int(s * fr), int(e * fr)
+        return fr, frames[i0:i1], max(0, min(i1 - i0, int(mid * fr) - i0))
 
 
 def find_db(cfg) -> Path:
@@ -101,6 +111,10 @@ _ASAXI_RULES = [
     ("y", ["y"]), ("z", ["z"]),
 ]
 _STOPS = {"p", "t", "k", "b", "d", "g", "ch", "ts", "dz", "jh"}
+# every phone the bank treats as a vowel/nucleus -- these must NEVER be
+# collapsed by the gemination rule (that rule is for doubled consonants only).
+_VOWELS = {"a", "e", "i", "o", "u", "aw", "ay", "ey", "ow", "oy", "uw",
+           "ax", "er", "ih", "ao", "iy", "uh", "eh", "aa", "ah"}
 # acoustically interchangeable vowel fallbacks (bank gaps: e.g. "k i" was
 # recorded as "k iy" per arpasing convention)
 ALT_VOWELS = {"i": ("iy", "ih"), "u": ("uw", "uh"), "e": ("eh", "ey"),
@@ -120,8 +134,8 @@ def g2p_asaxi(word: str):
         for gr, ph in _ASAXI_RULES:
             if w.startswith(gr, i):
                 # gemination: same consonant letter doubled -> held stop
-                if (phones and ph[0] == phones[-1] and ph[0] not in
-                        ("a", "e", "i", "o", "u")):
+                if (phones and ph[0] == phones[-1]
+                        and ph[0] not in _VOWELS):
                     if ph[0] in _STOPS:
                         phones[-1] = "cl"       # cat [cl] told — held closure
                     else:
@@ -286,11 +300,18 @@ def render(db: DiphoneDB, phones, out_path=None, speed=1.0):
     `speed` sets the pace: >1 is faster, <1 is slower (1.0 = normal). It works
     by scaling how much of each recorded phone is kept — this is concatenative,
     not time-stretch, so it never changes pitch, but slowing below ~1.0 is
-    capped by the amount of audio actually recorded per phone."""
+    capped by the amount of audio actually recorded per phone.
+
+    The report also carries per-phone timing: "segments" is a gapless list of
+    {"phone", "start", "end"} (seconds) covering the whole output, derived
+    from each unit's indexed `mid` boundary — used by the GUI editor."""
     speed = max(0.25, min(4.0, float(speed or 1.0)))
     half_ms = HALF_MS / speed                     # slower speed => wider window
     seq = ["pau"] + list(phones) + ["pau"]
-    picked, skipped = [], []
+    picked, skipped, plan = [], [], []
+    # plan entries: (diphone, seq_pos_of_first_phone, [(seq_pos, "pre"|"mid")])
+    # "mid" = phone onset at the unit's boundary; "pre" = shortly before it
+    # (VCV consonant — its true onset inside the sample isn't indexed).
     i = 0
     while i < len(seq) - 1:
         x, y = seq[i], seq[i + 1]
@@ -299,12 +320,14 @@ def render(db: DiphoneDB, phones, out_path=None, speed=1.0):
         if (i + 2 < len(seq) and not db.has(f"{x}-{y}")
                 and db.has(f"{x}-{y}{seq[i + 2]}")):
             picked.append(f"{x}-{y}{seq[i + 2]}")
+            plan.append((picked[-1], i, [(i + 1, "pre"), (i + 2, "mid")]))
             i += 2
             continue
         # word-final consonant: the bank records "prev C-" as one unit
         if (y != "pau" and i + 2 < len(seq) and seq[i + 2] == "pau"
                 and db.has(f"{x}-{y}_")):
             picked.append(f"{x}-{y}_")
+            plan.append((picked[-1], i, [(i + 1, "mid")]))
             i += 2
             continue
         cands = [f"{x}-{y}"]
@@ -315,20 +338,39 @@ def render(db: DiphoneDB, phones, out_path=None, speed=1.0):
         for cand in cands:
             if db.has(cand):
                 picked.append(cand)
+                plan.append((cand, i, [(i + 1, "mid")]))
                 break
         else:
             # gap fallback: the bank's Japanese-style CV units ("ki") cover
             # C+V as one sample whose mid is the C/V boundary
             if y != "pau" and db.has(f"{x}{y}-{x}{y}"):
                 picked.append(f"{x}{y}-{x}{y}")
+                plan.append((picked[-1], i, [(i + 1, "mid")]))
             else:
                 skipped.append(f"{x}-{y}")
         i += 1
 
     fr, out = None, array.array("h")
-    for dip in picked:
-        r, chunk = db.slice(dip, half_ms=half_ms)
+    events = []          # (abs_sample, seq_pos) — phone onsets in the output
+    next_pos = 0         # first seq position still awaiting an onset
+    for dip, p, marks in plan:
+        r, chunk, bnd = db.slice_info(dip, half_ms=half_ms)
         fr = fr or r
+        n_eff = min(int(CROSSFADE_MS / 1000 * r), len(out), len(chunk))
+        chunk_start = len(out) - max(0, n_eff)
+        # phones whose pair was skipped never got an onset: they start
+        # (approximately) where this chunk starts
+        while next_pos <= p:
+            events.append((chunk_start, next_pos))
+            next_pos += 1
+        for pos, kind in marks:
+            if pos < next_pos:
+                continue
+            at = chunk_start + bnd
+            if kind == "pre":    # VCV consonant: shortly before the boundary
+                at = chunk_start + bnd - min(int(0.090 * r), bnd // 2)
+            events.append((at, pos))
+            next_pos = pos + 1
         out = _xfade(out, chunk, int(CROSSFADE_MS / 1000 * r))
     if not out:
         raise ValueError(f"nothing rendered (missing diphones: {skipped})")
@@ -342,6 +384,21 @@ def render(db: DiphoneDB, phones, out_path=None, speed=1.0):
     out = array.array("h", [max(-32768, min(32767, int(s * gain)))
                             for s in out])
 
+    # per-phone segments: clamp onsets monotonic, then span onset -> next onset
+    segments = []
+    last = -1
+    onsets = []
+    for at, pos in events:
+        at = max(at, last + 1)
+        if at >= len(out):
+            break
+        onsets.append((at, seq[pos]))
+        last = at
+    for k, (at, ph) in enumerate(onsets):
+        end = onsets[k + 1][0] if k + 1 < len(onsets) else len(out)
+        segments.append({"phone": ph, "start": round(at / fr, 5),
+                         "end": round(end / fr, 5)})
+
     import io
     buf = io.BytesIO()
     with wave.open(buf, "wb") as w:
@@ -354,7 +411,7 @@ def render(db: DiphoneDB, phones, out_path=None, speed=1.0):
         Path(out_path).write_bytes(data)
     return {"wav": data, "phones": list(phones), "diphones": picked,
             "skipped": skipped, "seconds": round(len(out) / fr, 2),
-            "speed": round(speed, 3)}
+            "speed": round(speed, 3), "framerate": fr, "segments": segments}
 
 
 def synth_text(cfg, text: str, lang: str = "asaxi", out_path=None, speed=None):

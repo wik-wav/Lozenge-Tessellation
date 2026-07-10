@@ -1,78 +1,102 @@
 # Festvox Speech Synthesis GUI (PyQt5)
 
-A Windows-XP-styled desktop front-end for a Festival / Festvox backend:
-generate speech, then edit it on a waveform with draggable phoneme boundaries,
-editable phoneme fields, and a Vocaloid-style velocity envelope.
+A Windows-XP-styled desktop front-end for **`synth_diphone.py`** — the
+pure-Python concatenative diphone engine in `99_Tools/vocab_forge/`. It renders
+from the FestVox-style DBs built by `utau2festvox.py` (`dic/diphone_index.json`
++ `wav/`). **No Festival binary is involved** — everything runs on plain
+Windows Python.
 
 ## Files
-- `festvox_core.py` — no-Qt backend: config, **real Festival** synthesis +
-  phoneme-segment extraction, demo fallback, time-stretch DSP, WAV/project IO.
 - `festvox_gui.py` — the PyQt5 + PyQtGraph GUI.
-- `config.json` — Language / Voicebank menus + Festival voice mapping.
+- `festvox_core.py` — no-Qt glue: imports `synth_diphone.py`, reads
+  `festvox.json` for voices, velocity/gain DSP, time-stretch, WAV/project IO.
+- `config.json` — GUI settings (see below). Written back automatically.
 
-## Install & run
-```bash
+## Install & run (Windows)
+```bat
 pip install PyQt5 pyqtgraph numpy
-pip install sounddevice        # optional, best playback (else Qt Multimedia)
-pip install librosa            # optional, higher-quality time-stretch
+pip install sounddevice   :: optional, best playback (else winsound is used)
+pip install librosa       :: optional, higher-quality time-stretch
+pip install cmudict       :: only needed for the English front end
 python festvox_gui.py
 ```
-Festival itself must be on your PATH for real synthesis (Linux: `apt install
-festival festvox-kallpc16k`). **Without Festival the app still runs** — it
-falls back to a synthetic demo waveform so you can try the editor immediately.
 
-## Pointing it at your existing voicebanks
-Use the **Voicebank** menu (all changes are saved back to `config.json`):
-
-- **Scan installed voices (Festival)** — runs `(voice.list)` and adds every
-  voice Festival already knows about to the Voicebank list.
-- **Add voice folder...** — browse to a built festvox / Multisyn voice
-  directory (the folder that contains `festvox/`). The app reads
-  `festvox/*.scm`, auto-detects the `voice_*` function, and at synth time puts
-  that folder on Festival's `load-path` and `(load ...)`s its `.scm` — so it
-  works even for voices that are **not** installed system-wide.
-- **Set Festival binary...** — point to your `festival` executable if it is not
-  on PATH.
-
-You can also edit `config.json` by hand. Each `festival.voice_map` value is
-either a function name string, e.g.
-`"kal_diphone": "voice_kal_diphone"`, or a directory voice:
-```json
-"my_multisyn": {
-  "dir": "/home/you/data/cmu_us_myvoice",
-  "voice": "voice_cmu_us_myvoice_multisyn",
-  "scm": "festvox/cmu_us_myvoice_multisyn.scm"
-}
-```
-`festival.bin` is the path to the `festival` binary if not on PATH.
-
-Under the hood, "Generate Audio" runs (in batch mode):
-```scheme
-(voice_kal_diphone)
-(Parameter.set 'Duration_Stretch <1/speed>)
-(set! u (SynthText "your text"))
-(utt.save.wave u "out.wav")
-(utt.save.segs u "out.seg")
-```
-and parses the label file into phoneme segments.
+## Where everything comes from
+- **Engine** — `synth_diphone.py` is auto-found in `99_Tools/vocab_forge/`.
+  If you move things, set it via *Options → Locate synth_diphone.py...*
+  (stored as `synth_diphone_dir`).
+- **Voicebanks** — read from the toolchain's `festvox.json` (`voices` +
+  `output_root`, e.g. `asaxi_lem → E:/Portable_Software/FestVox_DBs/asaxi_lem`).
+  `festvox.json` is auto-discovered (cwd, next to `synth_diphone.py`,
+  `99_Tools/festvox/`); override via *Voicebank → Set festvox.json...*.
+  Add any other DB folder with *Voicebank → Add voicebank folder...* — it must
+  contain `dic/diphone_index.json`. Broken paths show red "(missing)" with the
+  reason in the tooltip.
+- **Languages** — the engine's real front ends:
+  - **Asaxi** — grapheme→phone rules from the phoneme chart (romanization).
+  - **English** — CMU dictionary lookup (`pip install cmudict`); words not in
+    the dictionary are reported by name.
+  - **Japanese** — kana or Hepburn romaji via the OpenUTAU mapping
+    (`en-jap-mapping.yaml`, found next to the engine or in `99_Tools/festvox/`).
 
 ## What you can do
-- **Generate Audio** — synth the Text box with the selected voice/speed.
-- **Waveform** — blue waveform; **red dashed lines are draggable** phoneme
-  boundaries. Drag one and that segment is time-stretched (real phase-vocoder
-  DSP in `festvox_core.time_stretch`, or librosa if installed) and the view
-  redraws. Swap the DSP by passing a `hook` to `time_stretch`.
-- **Phoneme fields** — the boxes under the waveform are width-aligned to each
-  segment; edit one to override the phoneme (e.g. `[R]` → `[RR]`). Stored in the
-  project and used as the phoneme label.
-- **Phoneme Velocity** — drag the orange keyframe nodes to draw a parameter
-  curve over the timeline (X-aligned to the waveform); double-click the track to
-  add a node.
-- **Play / Stop / Export WAV / Save+Open Project** — as labelled.
+- **Generate Audio** — g2p the Text box, pick diphones, concatenate with
+  crossfades. The status bar shows phones/diphones/duration and any **missing
+  diphones** the bank couldn't supply (details: *Generate → Last render
+  details...*).
+- **Waveform** — red dashed lines are **real phone boundaries** (from each
+  diphone's indexed `mid` point). Drag one and that segment is time-stretched
+  (librosa or the built-in phase vocoder; swap DSP via the `hook` parameter of
+  `festvox_core.time_stretch`).
+- **Phoneme fields** — width-aligned to each segment. Type a different phone
+  (e.g. `r` → `rr`), space-separate to insert phones, clear a box to delete
+  one, or type `pau` for a mid-word pause. Edited boxes turn yellow; **Enter**
+  or **Re-render Phonemes** feeds the edited list straight back through the
+  engine. Gray `pau` boxes are the engine's edge silences.
+- **Speed** — x0.25–x4 (the engine's actual range). Concatenative pacing: it
+  scales how much of each recording is kept, so pitch never changes; slowing
+  below ~x1 is capped by what was recorded.
+- **Phoneme Velocity** — a gain envelope over the timeline. 0.5 = unity,
+  1.0 = louder, 0.0 = silent (scaled by *velocity depth*). Double-click to add
+  a node, right-click to remove, drag to shape. Applied on Play/Export when
+  *Options → Apply velocity on play/export* is checked.
+- **Play / Stop** — sounddevice if installed, else `winsound` (built into
+  Windows Python), else Qt Multimedia.
+- **Export WAV** — defaults into `festvox.json`'s `synth_output_dir` with an
+  auto filename like the CLI's (`asaxi_taki.wav`).
+- **Save/Open Project** — text, language, voicebank, speed, the (edited)
+  phone list, segments, and velocity nodes. Opening re-renders the saved
+  phones, so phoneme overrides survive; boundary re-timings are not re-applied.
 
-## Notes / extension points
-- Boundary drags edit *output* timing via time-stretch. To instead re-time at
-  synthesis, feed target durations back through Festival's `Duration` relation
-  and re-synth (hook in `on_generate`).
-- The velocity envelope is captured (`EnvelopeGraph.nodes()`); map it to F0,
-  gain, or a Festvox parameter in your backend as needed.
+## Advanced settings (Options menu)
+These map 1:1 to the engine's real knobs (`synth_diphone.py` constants),
+applied on every render and saved to `config.json`:
+
+| Setting | Engine constant | Meaning |
+|---|---|---|
+| Diphone crossfade (ms) | `CROSSFADE_MS` | equal-power join at each seam |
+| Utterance edge fade (ms) | `EDGE_FADE_MS` | de-click fade at the ends |
+| Phone window (ms/side) | `HALF_MS` | max audio kept per side of each boundary; the speed slider divides this |
+| Velocity depth (0–1) | — | how strongly the envelope scales gain |
+
+## config.json keys
+`festvox_config` (path to festvox.json, `""` = auto), `synth_diphone_dir`
+(`""` = auto), `languages` (label → engine code), `default_language`,
+`default_text`, `extra_voicebanks` (name → DB dir, filled by *Add voicebank
+folder...*), `synth_speed`, `advanced` (table above), `apply_velocity`,
+`velocity_depth`. Every key is settable from the GUI; the file is saved on
+change and on exit.
+
+## Troubleshooting
+- **"synth_diphone.py not found"** — *Options → Locate synth_diphone.py...*
+- **Voicebank red "(missing)"** — the DB path in `festvox.json` /
+  `config.json` doesn't contain `dic/diphone_index.json`; fix the path or
+  re-run `utau2festvox.py`.
+- **"not in CMU dictionary: [...]"** — English front end; `pip install
+  cmudict`, and only dictionary words synthesize.
+- **Missing diphones in the status bar** — the bank has no unit for that
+  transition; the engine skips it (same behavior as the CLI). Check the phone
+  spelling against the bank's phone set.
+- Engine change note: `synth_diphone.render()` now also returns per-phone
+  `"segments"` timing (used for the boundary overlay). Additive — the
+  vocab_forge CLI/HTTP callers are unaffected.

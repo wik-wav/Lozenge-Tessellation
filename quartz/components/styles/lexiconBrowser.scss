@@ -34,6 +34,40 @@
     }
   }
 
+  & .lex-note {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    color: var(--gray);
+    font-size: 0.8rem;
+    margin-bottom: 0.35rem;
+
+    & .lex-open-search {
+      flex: 0 0 auto;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 1.5rem;
+      height: 1.5rem;
+      padding: 0.2rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 5px;
+      background: var(--light);
+      color: var(--secondary);
+      cursor: pointer;
+      transition: background 0.15s ease, border-color 0.15s ease;
+
+      & svg {
+        width: 100%;
+        height: 100%;
+      }
+      &:hover {
+        background: var(--highlight);
+        border-color: var(--secondary);
+      }
+    }
+  }
+
   & .lex-stats {
     color: var(--gray);
     font-size: 0.8rem;
@@ -46,6 +80,15 @@
     border: 1px solid var(--lightgray);
     border-radius: 6px;
     overflow: hidden;
+
+    // rows are either plain links (one sense) or <details> (several senses)
+    & > a.lex-row,
+    & > details.lex-entry {
+      border-bottom: 1px solid var(--lightgray);
+      &:last-child {
+        border-bottom: none;
+      }
+    }
   }
 
   & .lex-more {
@@ -73,16 +116,21 @@
     align-items: baseline;
     gap: 0.6rem;
     padding: 0.4rem 0.7rem;
-    border-bottom: 1px solid var(--lightgray);
     text-decoration: none;
     color: var(--dark);
     background: none;
 
-    &:last-child {
-      border-bottom: none;
-    }
     &:hover {
       background: var(--highlight);
+    }
+
+    // collapse marker (grammar-book style); plain rows reserve the space
+    // so the word column lines up across both row kinds
+    &::before {
+      content: "▸";
+      color: var(--gray);
+      flex: 0 0 0.8rem;
+      align-self: center;
     }
 
     & .lex-word {
@@ -90,6 +138,11 @@
       color: var(--secondary);
       flex: 0 0 auto;
       min-width: 5rem;
+      text-decoration: none;
+    }
+    & a.lex-word:hover,
+    &.lex-row a.lex-word:hover {
+      text-decoration: underline;
     }
     & .lex-badge {
       color: var(--gray);
@@ -106,11 +159,73 @@
       white-space: nowrap;
       font-size: 0.9rem;
     }
+    & .lex-count {
+      flex: 0 0 auto;
+      color: var(--gray);
+      font-size: 0.8rem;
+      &::before {
+        content: "(";
+      }
+      &::after {
+        content: ")";
+      }
+    }
     & .lex-freq {
       color: var(--gray);
       font-size: 0.75rem;
       flex: 0 0 auto;
       font-variant-numeric: tabular-nums;
+    }
+  }
+
+  & a.lex-row::before {
+    content: ""; // no marker on single-sense rows, just the aligned gap
+  }
+
+  & details.lex-entry {
+    & > summary.lex-row {
+      cursor: pointer;
+      list-style: none;
+      &::-webkit-details-marker {
+        display: none;
+      }
+    }
+    &[open] > summary.lex-row::before {
+      content: "▾";
+    }
+
+    // nested, numbered sense list — same pattern as the grammar book groups
+    & > .lex-senses {
+      list-style: none;
+      margin: 0.1rem 0 0.5rem 1.35rem;
+      padding-left: 0.9rem;
+      border-left: 1px solid var(--lightgray);
+
+      & > li {
+        display: flex;
+        align-items: baseline;
+        gap: 0.45rem;
+        padding: 0.22rem 0.5rem;
+        font-size: 0.9rem;
+
+        & .lex-sense-n {
+          flex: 0 0 auto;
+          color: var(--gray);
+          font-size: 0.75rem;
+          font-variant-numeric: tabular-nums;
+        }
+        & .lex-sense-en {
+          color: var(--darkgray);
+        }
+        & .lex-sense-pl {
+          color: var(--gray);
+          font-style: italic;
+          &::before {
+            content: "· ";
+            font-style: normal;
+          }
+        }
+      }
     }
   }
 }

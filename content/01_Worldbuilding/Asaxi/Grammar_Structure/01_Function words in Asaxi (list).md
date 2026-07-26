@@ -88,7 +88,7 @@ _These attach to the front of the verb to define the time or texture of the acti
 - **[[o (tense) (particle)|o-]]** - Immediate (Just now / About to) _When used as a tense modifier._
 - **[[ko (tense) (particle)|ko-]]** - Remote / Mythic (Long ago / Someday) _When used as a tense modifier._
 - **[[hù- (tense) (particle)|hù-]]** - Pluperfect / Past-Future (Behind) _When used as a tense modifier._
-- **[[na- (tense) (particle)|na-]]** - Iterative Aspect (Re-do / Again) _When applied to a verb.
+- **[[na- (tense) (particle)|na-]]** - Iterative Aspect (Re-do / Again) _When applied to a verb._
 - **[[panå- (particle)]]** - immediate switch / will do now
 - **[[mi- (particle)|mi-]]** - subjective present (feeling/sensing now)
 

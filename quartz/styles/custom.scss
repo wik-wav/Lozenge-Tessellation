@@ -2,37 +2,46 @@
 
 // put your custom CSS here!
 @font-face {
-    font-family: 'Pacifico';
-    src: url('./static/fonts/Pacifico-Regular.ttf') format('truetype');
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Pacifico";
+  src: url("./static/fonts/Pacifico-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
 @font-face {
-    font-family: 'Noto Serif';
-    src: url('./static/fonts/NotoSerif-Regular.ttf') format('truetype');
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Asaxi Merriweather 24pt Medium";
+  src: url("./static/fonts/Asaxi-alphabet-Merriweather24pt-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
 }
 
 .asaxi-script {
-    font-family: 'Pacifico';
-    /* 1. Force the line height to accommodate the font size */
-    line-height: 1.2; 
-    /* 2. Adjust vertical alignment to prevent baseline shifting */
-    vertical-align: middle; 
-    /* 3. Ensure the span respects the height of the line */
-    display: inline-block; 
-    /* 4. Optional: If the font is physically larger than your body text */
-    font-size: 48px;
-    /* 5. This path assumes the font is in quartz/static/ */
+  font-family: "Pacifico";
+  /* 1. Force the line height to accommodate the font size */
+  line-height: 1.2;
+  /* 2. Adjust vertical alignment to prevent baseline shifting */
+  vertical-align: middle;
+  /* 3. Ensure the span respects the height of the line */
+  display: inline-block;
+  /* 4. Optional: If the font is physically larger than your body text */
+  font-size: 48px;
+  /* 5. This path assumes the font is in quartz/static/ */
+}
+
+.asaxi-script-alpha,
+.asaxi-text,
+[lang="art-x-asaxi"],
+.lexicon-browser .lex-word {
+  font-family: "Asaxi Merriweather 24pt Medium", "Merriweather 24pt", serif !important;
+  font-weight: 500 !important;
+  font-style: normal !important;
+  font-synthesis: none;
 }
 
 .asaxi-script-alpha {
-    font-family: 'Noto Serif';
-    line-height: 1.2; 
-    vertical-align: middle; 
-    display: inline-block; 
-    font-size: 38px;
+  line-height: 1.2;
+  vertical-align: middle;
+  display: inline-block;
+  font-size: 38px;
 }

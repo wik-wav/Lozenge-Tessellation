@@ -98,6 +98,12 @@ Obsidian loads it through the enabled `fonts.css` snippet. Use the
 `asaxi-text` class or `lang="art-x-asaxi"` only on Asaxi text. Font synthesis
 is disabled so applications do not invent unavailable bold or italic faces.
 
+The Quartz site embeds the same font bytes at
+`quartz/static/fonts/Asaxi-alphabet-Merriweather24pt-Medium.ttf`.
+`quartz/styles/custom.scss` applies the face to `asaxi-script-alpha`,
+`asaxi-text`, `lang="art-x-asaxi"`, and the lexicon browser's Asaxi headwords.
+English and Polish site prose retains the theme typography.
+
 ## Editor Behavior
 
 Vocab Forge:

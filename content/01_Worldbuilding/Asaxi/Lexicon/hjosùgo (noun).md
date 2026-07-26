@@ -31,8 +31,12 @@ IPA: /ço̞sɯɡo̞/
 - Polish: diament
 
 ### Example sentence
-**Hjosùgo gonýj.**
-_A diamond is hard (rock-like)._
+
+#### Example 1
+
+- **Asaxi:** hjosùgo gonýj.
+- **English:** A diamond is hard (rock-like).
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -39,8 +39,12 @@ IPA: /gɯmeɪ/
 - Polish: chwytać, łapać
 
 ### Example sentence
-**Kiŕo gùmënáhè!**
-_Don't grab the knife!_
+
+#### Example 1
+
+- **Asaxi:** kiŕo gùmënáhè!
+- **English:** Don't grab the knife!
+- **Polish:** x
 
 ### Alternative Forms
 Null

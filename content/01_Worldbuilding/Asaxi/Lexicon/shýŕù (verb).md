@@ -39,8 +39,12 @@ IPA: /ʃɪɾɯ/
 - Polish: zamarzać
 
 ### Example sentence
-**Ŕoŕo shýŕù.**
-_The water freezes._
+
+#### Example 1
+
+- **Asaxi:** ŕoŕo shýŕù.
+- **English:** The water freezes.
+- **Polish:** x
 
 ### Alternative Forms
 Null

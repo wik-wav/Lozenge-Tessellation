@@ -35,9 +35,18 @@ IPA: /t̪oxɯfʷo/
 
 ### Example sentence
 
-**Xő shěsonů tohùfwo.** _I doubt he reads._ (Lit: He reads, [this-statement]-is-uncertainty).
 
-**Ko wő nákőnů tohùfwo.** _I doubt she misunderstands me._ (I think she actually does understand).
+#### Example 1
+
+- **Asaxi:** xő shěsonů tohùfwo.
+- **English:** I doubt he reads. (Lit: He reads, [this-statement]-is-uncertainty).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** ko wő nákőnů tohùfwo.
+- **English:** I doubt she misunderstands me. (I think she actually does understand).
+- **Polish:** x
 
 ### Alternative Forms
 

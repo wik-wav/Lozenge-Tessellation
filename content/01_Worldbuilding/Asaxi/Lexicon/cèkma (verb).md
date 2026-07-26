@@ -39,8 +39,12 @@ IPA: /t̻͡s̪əʔma/
 - Polish: ufać
 
 ### Example sentence
-**Wo bashá cèkma.**
-_I trust my friend._
+
+#### Example 1
+
+- **Asaxi:** wo bashá cèkma.
+- **English:** I trust my friend.
+- **Polish:** x
 
 ### Alternative Forms
 Null

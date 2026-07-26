@@ -39,8 +39,12 @@ IPA: /ɦaka/
 - Polish: wieszać
 
 ### Example sentence
-**Wo xapỏ xaka.**
-_I hang the coat._
+
+#### Example 1
+
+- **Asaxi:** wo xapỏ xaka.
+- **English:** I hang the coat.
+- **Polish:** x
 
 ### Alternative Forms
 Null

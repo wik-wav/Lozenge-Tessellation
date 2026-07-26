@@ -30,11 +30,18 @@ IPA: /zəvo/
 - Polish: imię, nazwa, tytuł
 
 ### Example sentence
-To sè no zèvo kjo xiŕa?
-What is your name? (Lit: As for your name, what is it?)
 
-Zèvo tte kjo?
-What (do you call) the name? (What is the name?)
+#### Example 1
+
+- **Asaxi:** to sè no zèvo kjo xiŕa?
+- **English:** What is your name? (Lit: As for your name, what is it?)
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** zèvo tte kjo?
+- **English:** What (do you call) the name? (What is the name?)
+- **Polish:** x
 
 ### Alternative Forms
 x

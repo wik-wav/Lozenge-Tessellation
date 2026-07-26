@@ -39,8 +39,12 @@ IPA: /b̪vib̪vkɑ/
 - Polish: rosnąć
 
 ### Example sentence
-**Vă vivká.**
-_The plant grows._
+
+#### Example 1
+
+- **Asaxi:** vă vivká.
+- **English:** The plant grows.
+- **Polish:** x
 
 ### Alternative Forms
 Null

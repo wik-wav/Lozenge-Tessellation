@@ -22,7 +22,7 @@ IPA: /p/
 
 ### Example sentence
 
-**To tobo apopů.** _The table feels like an apple (smooth/waxy)._
+to tobo apopů. The table feels like an apple (smooth/waxy).
 
 ### Etymology
 

@@ -31,8 +31,12 @@ IPA: /t̪eɪpou̯/
 - Polish: rękawica
 
 ### Example sentence
-**Tëpỏ të naŕa.**
-_A glove is on the hand._
+
+#### Example 1
+
+- **Asaxi:** tëpỏ të naŕa.
+- **English:** A glove is on the hand.
+- **Polish:** x
 
 ### Alternative Forms
 Null

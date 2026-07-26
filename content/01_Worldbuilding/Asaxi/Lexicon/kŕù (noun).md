@@ -32,8 +32,12 @@ IPA: /kɾɯ/
 - Polish: rdza
 
 ### Example sentence
-**To kŕù go nanů.**
-_The rust is on the rock._
+
+#### Example 1
+
+- **Asaxi:** to kŕù go nanů.
+- **English:** The rust is on the rock.
+- **Polish:** x
 
 ### Alternative Forms
 Null

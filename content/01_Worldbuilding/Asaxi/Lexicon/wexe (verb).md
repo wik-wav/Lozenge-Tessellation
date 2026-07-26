@@ -39,8 +39,12 @@ IPA: /ʋe̞ɦe̞/
 - Polish: machać
 
 ### Example sentence
-**Wo të wexe.**
-_I wave my hand._
+
+#### Example 1
+
+- **Asaxi:** wo të wexe.
+- **English:** I wave my hand.
+- **Polish:** x
 
 ### Alternative Forms
 Null

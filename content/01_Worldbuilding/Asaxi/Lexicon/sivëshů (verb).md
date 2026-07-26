@@ -34,8 +34,12 @@ IPA: /ɕiveɪʃuu̯/
 - Polish: kulić się, wstydzić się, być nieśmiałym
 
 ### Example sentence
-**To wo sivëshů.**
-_I am acting shyly / I cower._
+
+#### Example 1
+
+- **Asaxi:** to wo sivëshů.
+- **English:** I am acting shyly / I cower.
+- **Polish:** x
 
 ### Alternative Forms
 Null

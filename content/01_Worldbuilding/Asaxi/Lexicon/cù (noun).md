@@ -32,8 +32,12 @@ IPA: /t̻͡sɯ/
 - Polish: ziemia, gleba, brud
 
 ### Example sentence
-**Bă cù, sháŕokam kamŕů.**
-_With soil, (one) builds a shelter._
+
+#### Example 1
+
+- **Asaxi:** bă cù, sháŕokam kamŕů.
+- **English:** With soil, (one) builds a shelter.
+- **Polish:** x
 
 ### Alternative Forms
 x

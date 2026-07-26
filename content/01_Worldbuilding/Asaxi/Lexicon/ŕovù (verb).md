@@ -39,8 +39,12 @@ IPA: /ɾo̞b̪vɯ/
 - Polish: rozpuszczać się
 
 ### Example sentence
-**Gosi ŕoŕo ŕovù.**
-_The salt dissolves in the water._
+
+#### Example 1
+
+- **Asaxi:** gosi ŕoŕo ŕovù.
+- **English:** The salt dissolves in the water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

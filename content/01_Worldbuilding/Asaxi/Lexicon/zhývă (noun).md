@@ -36,8 +36,12 @@ IPA: /ʑɪb̪vaɪ/
 
 ### Example sentence
 
-**Zhývă kjèbi sè xő tëa zèxỏnů.**
-_A sprig of holly sat between his paws._
+
+#### Example 1
+
+- **Asaxi:** zhývă kjèbi sè xő tëa zèxỏnů.
+- **English:** A sprig of holly sat between his paws.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

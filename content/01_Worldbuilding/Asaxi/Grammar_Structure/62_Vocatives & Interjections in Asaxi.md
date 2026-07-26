@@ -26,11 +26,11 @@ Asaxi previously had no dedicated way to **address** someone (vocative) and only
 
 Consistent with the NPCP system (case particles precede the noun), the vocative is **pre-nominal**:
 
-> **Ăjo John, nőjo!** ("O John — hello!")
+> ăjo john, nőjo! ("O John — hello!")
 
 - **Formal/poetic:** `ăjo + [Name]` — solemn address, invocations, song.
-- **Neutral:** bare name + pause: **John, nőjo.**
-- **Casual attention-getting:** the existing post-clausal marker **[[jỏ (particle)|jỏ]]** ("yo"): **John jỏ!**
+- **Neutral:** bare name + pause: john, nőjo.
+- **Casual attention-getting:** the existing post-clausal marker **[[jỏ (particle)|jỏ]]** ("yo"): john jỏ!
 
 **Prosody:** the call contour lives on the particle, not the name — `ăjo` carries its accent (H.L) and the following name is **deaccented** (low): **Ắjă Lem** (H.L | L). See [[61_Prosody, Stress & Intonation]].
 
@@ -49,8 +49,8 @@ Consistent with the NPCP system (case particles precede the noun), the vocative 
 
 | Form      | Meaning                      | Derivation                                                                       |
 | --------- | ---------------------------- | -------------------------------------------------------------------------------- |
-| **tá!**   | "Ouch!" (pain, sudden hurt)  | Exclamatory use of the canonical noun **[[tètá (noun)\|tètá]]** ("pain")         |
-| **nn...** | "Umm..." (hesitation filler) | Syllabic nasal held over several morae (see [[61_Prosody, Stress & Intonation]]) |
+| tá!   | "Ouch!" (pain, sudden hurt)  | Exclamatory use of the canonical noun **[[tètá (noun)\|tètá]]** ("pain")         |
+| nn... | "Umm..." (hesitation filler) | Syllabic nasal held over several morae (see [[61_Prosody, Stress & Intonation]]) |
 
 ## 3. Position
 

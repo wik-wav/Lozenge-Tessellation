@@ -31,8 +31,12 @@ IPA: /do̞kɯkam/
 - Polish: szpital
 
 ### Example sentence
-**Jamishá dokùkam vanů.**
-_The sick are in the hospital._
+
+#### Example 1
+
+- **Asaxi:** jamishá dokùkam vanů.
+- **English:** The sick are in the hospital.
+- **Polish:** x
 
 ### Alternative Forms
 Null

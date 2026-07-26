@@ -32,8 +32,12 @@ IPA: /Ʝomau̯çɑ/
 **jomåhjáma** (Human children).
 
 ### Example sentence
-To jomåhjáma sè jomåshá hjáma xiŕa.
-Human children are children of humans.
+
+#### Example 1
+
+- **Asaxi:** to jomåhjáma sè jomåshá hjáma xiŕa.
+- **English:** Human children are children of humans.
+- **Polish:** x
 
 ### Alternative Forms
 x

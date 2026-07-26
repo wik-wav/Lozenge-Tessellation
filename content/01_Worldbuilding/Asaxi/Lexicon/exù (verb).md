@@ -39,8 +39,12 @@ IPA: /e̞ɦɯ/
 - Polish: płakać
 
 ### Example sentence
-**Hjáhjá exù.**
-_The baby cries._
+
+#### Example 1
+
+- **Asaxi:** hjáhjá exù.
+- **English:** The baby cries.
+- **Polish:** x
 
 ### Alternative Forms
 Null

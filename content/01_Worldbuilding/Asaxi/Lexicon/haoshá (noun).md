@@ -32,8 +32,12 @@ IPA: /xaoʃɑ/
 - Polish: pies
 
 ### Example sentence
-**Haoshá aśù.**
-_The dog walks._
+
+#### Example 1
+
+- **Asaxi:** haoshá aśù.
+- **English:** The dog walks.
+- **Polish:** x
 
 ### Alternative Forms
 x

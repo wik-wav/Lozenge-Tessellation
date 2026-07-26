@@ -31,8 +31,12 @@ IPA: /ba.ai/ — three morae; the doubled *a* is held two full beats ([[22_Phono
 - Polish: prawa strona
 
 ### Example sentence
-**Ni baai aśùhè, zå pjovină.**
-_"Walk to the right, then straight."_
+
+#### Example 1
+
+- **Asaxi:** ni baai aśùhè, zå pjovină.
+- **English:** Walk to the right, then straight.
+- **Polish:** x
 
 ### Alternative Forms
 Null

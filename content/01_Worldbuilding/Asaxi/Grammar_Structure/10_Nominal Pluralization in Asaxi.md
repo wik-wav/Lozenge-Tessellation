@@ -55,8 +55,8 @@ Pluralization occurs at the word level. It does not alter the word order of the 
 
 **Example Comparison:**
 
-> **Singular:** _shěsokam gonýj xiŕa._ (The library is big.) 
-> **Plural:** _**Shěsokama** gonýj xiŕa._ (The libraries are big.)
+> **Singular:** shěsokam gonýj xiŕa. (The library is big.) 
+> **Plural:** shěsokama gonýj xiŕa. (The libraries are big.)
 
 ### Summary Table
 

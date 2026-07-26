@@ -39,8 +39,12 @@ IPA: /nikʰa/
 - Polish: zdradzać
 
 ### Example sentence
-**Tètáshá kùŕù nikxa.**
-_The traitor betrays the king._
+
+#### Example 1
+
+- **Asaxi:** tètáshá kùŕù nikxa.
+- **English:** The traitor betrays the king.
+- **Polish:** x
 
 ### Alternative Forms
 Null

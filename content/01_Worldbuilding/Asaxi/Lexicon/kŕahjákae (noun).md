@@ -36,8 +36,12 @@ IPA: /kɾaçʲɑkae̞/
 
 ### Example sentence
 
-**Va kŕahjákae bùŕo jovina igùŕa izozèma.**
-_They used to have splendid games in the raspberry thicket._
+
+#### Example 1
+
+- **Asaxi:** va kŕahjákae bùŕo jovina igùŕa izozèma.
+- **English:** They used to have splendid games in the raspberry thicket.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

@@ -39,8 +39,12 @@ IPA: /ɦo̞ɡna/
 - Polish: spotykać
 
 ### Example sentence
-**Wo bashá xogna.**
-_I meet my friend._
+
+#### Example 1
+
+- **Asaxi:** wo bashá xogna.
+- **English:** I meet my friend.
+- **Polish:** x
 
 ### Alternative Forms
 Null

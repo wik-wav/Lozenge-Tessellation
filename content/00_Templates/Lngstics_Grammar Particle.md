@@ -1,7 +1,7 @@
 ---
 title: word in asaxi (what is it?) - english
 Word (Asaxi):
-trnsltion. En:
+trnsltion. en:
 tags:
   - Asaxi
   - language
@@ -11,9 +11,9 @@ tags:
 
 - - -
 
-<span class="asaxi-script">Word (Asaxi)</span>
+<span class="asaxi-script">word (asaxi)</span>
 
-<span class="asaxi-script-alpha">Word (Asaxi)</span>
+<span class="asaxi-script-alpha">word (asaxi)</span>
 ### Grammatical function
 
 - Particle type: 
@@ -26,7 +26,11 @@ x
 
 ### Example sentence
 
-x
+#### Example 1
+
+- **Asaxi:**
+- **english:**
+- **Polish:**
 
 ### Alternative Forms
 
@@ -39,4 +43,3 @@ Null
 ### Derived terms
 
 Null
-

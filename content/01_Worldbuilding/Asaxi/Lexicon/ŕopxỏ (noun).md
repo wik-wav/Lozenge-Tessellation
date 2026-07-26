@@ -31,8 +31,12 @@ IPA: /ɾopʰou̯/
 - Polish: bańka
 
 ### Example sentence
-**Ŕopxỏ ŕoŕo naŕa.**
-_A bubble sits on the water._
+
+#### Example 1
+
+- **Asaxi:** ŕopxỏ ŕoŕo naŕa.
+- **English:** A bubble sits on the water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /papou̯/
 - Polish: fartuch
 
 ### Example sentence
-**To văshá papỏ ma.**
-_The farmer has an apron._
+
+#### Example 1
+
+- **Asaxi:** to văshá papỏ ma.
+- **English:** The farmer has an apron.
+- **Polish:** x
 
 ### Alternative Forms
 Null

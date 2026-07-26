@@ -37,12 +37,16 @@ IPA: /fuu̯t̪aɪɡo/
 
 Used when the exact count is unknown or irrelevant, but existence is confirmed.
 * **Structure:** Acts as a **Floating Quantifier**.
-* **Example:** `To fůtăgo sháma...` ("Some people...").
+* **Example:** `to fůtăgo sháma...` ("Some people...").
 
 ### Example sentence
 
-**To fůtăgo shěsa tobo nanů.**
-_Some books are on the table._
+
+#### Example 1
+
+- **Asaxi:** to fůtăgo shěsa tobo nanů.
+- **English:** Some books are on the table.
+- **Polish:** x
 
 ### Etymology
 

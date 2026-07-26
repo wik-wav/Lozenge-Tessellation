@@ -30,10 +30,16 @@ IPA: /ʃosa/
 - Polish: droga, szosa
 
 ### Example sentence
-The word `shosa` may refer to paths and roads, metaphorical and physical.
 
-John gakjèshosa aśù.
-John is walking the tree-road
+#### Example 1
+
+- **Asaxi:** john gakjèshosa aśù.
+- **English:** John is walking the tree-road.
+- **Polish:** x
+
+### Usage Note
+
+The word `shosa` may refer to paths and roads, metaphorical and physical.
 
 ### Alternative Forms
 x

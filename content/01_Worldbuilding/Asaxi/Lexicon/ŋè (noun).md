@@ -31,8 +31,12 @@ IPA: /ŋə/
 - Polish: cień
 
 ### Example sentence
-**Ŋè kjèpo pùnů.**
-_A shadow lies below the tree._
+
+#### Example 1
+
+- **Asaxi:** ŋè kjèpo pùnů.
+- **English:** A shadow lies below the tree.
+- **Polish:** x
 
 ### Alternative Forms
 Null

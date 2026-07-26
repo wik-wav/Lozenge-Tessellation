@@ -39,8 +39,12 @@ IPA: /pou̯pɯ/
 - Polish: podskakiwać
 
 ### Example sentence
-**Pỏpỏ pỏpù.**
-_The rabbit hops._
+
+#### Example 1
+
+- **Asaxi:** pỏpỏ pỏpù.
+- **English:** The rabbit hops.
+- **Polish:** x
 
 ### Alternative Forms
 Null

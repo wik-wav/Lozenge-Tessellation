@@ -31,8 +31,12 @@ IPA: /ɡo̞sipou̯/
 - Polish: kreda
 
 ### Example sentence
-**Gosipỏ gasi.**
-_Chalk is white._
+
+#### Example 1
+
+- **Asaxi:** gosipỏ gasi.
+- **English:** Chalk is white.
+- **Polish:** x
 
 ### Alternative Forms
 Null

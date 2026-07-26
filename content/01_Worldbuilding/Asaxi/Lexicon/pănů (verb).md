@@ -34,8 +34,12 @@ IPA: /paɪnuu̯/
 - Polish: wychodzić, wyjść na zewnątrz
 
 ### Example sentence
-**To wo kamm pănů.**
-_I am outside the building._ (State) / _I exit the building._ (Action)
+
+#### Example 1
+
+- **Asaxi:** to wo kamm pănů.
+- **English:** I am outside the building. (State) / I exit the building. (Action)
+- **Polish:** x
 
 ### Alternative Forms
 Null

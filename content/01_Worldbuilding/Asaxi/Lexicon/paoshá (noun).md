@@ -32,8 +32,12 @@ IPA: /paoʃɑ/
 - Polish: koń
 
 ### Example sentence
-**Paoshá aśù.**
-_The horse walks._
+
+#### Example 1
+
+- **Asaxi:** paoshá aśù.
+- **English:** The horse walks.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -57,11 +57,11 @@ The demonstrative prefix is agglutinated directly to the head noun, which must h
 - **Structure:** `onă gă-[noun]`
 - **Meaning:** "The missing \[noun\]" or "The \[noun\] who is away."
 - **Use Case:** Lost items or people currently travelling/absent.
-    - _Example:_ "I need **onă gă-shá**." (I need **the specific person**, because they are very special).
+    - **Example:** "I need onă gă-shá." (I need the specific person, because they are very special).
 
 Determiners are  always **optional**. They are used for emphasis.
-- Valid: Onýj shěso.
-- Valid: Onýj o-shěso.
+- Valid: onýj shěso.
+- Valid: onýj o-shěso.
 
 - **Standard (Indefinite):** `gă-shá` (A somewhere-person / A person).
 - **Marked (Definite):** `onă gă-shá` (The missing person / The specific person somewhere).
@@ -70,7 +70,7 @@ Determiners are  always **optional**. They are used for emphasis.
 
 As adverbs, `o`, `no`, and `ko` refer to the thing being pointed at physically. (e.g, `No.` "That thing I'm pointing at"). They're not nouns. 
 
-As an adverb, the word `gă` stands for "somewhere". (e.g when someone asks where a thing is, and you don't know, you say `Gă.`, gesturing wildly at nowhere in particular). 
+As an adverb, the word `gă` stands for "somewhere". (e.g when someone asks where a thing is, and you don't know, you say `gă.`, gesturing wildly at nowhere in particular). 
 As a noun, the word [[gă (noun)]] is "somewhere" or "someplace".
 
 ### Compound Locative Nouns (The `gă` Base)
@@ -80,12 +80,12 @@ Since `gă` functions as a **noun** meaning "someplace" or "area", it can serve 
 This is distinct from the simple adverb `o` (Here).
 
 - **`O` (Here):** Points to a specific, visible spot.
-- **`O-gă` (The Here-Place):** Points to the immediate radius or vicinity; useful when an object is present but hidden (e.g., lost keys in a room).
+- **`o-gă` (The Here-Place):** Points to the immediate radius or vicinity; useful when an object is present but hidden (e.g., lost keys in a room).
 
 **Constraint on Relational Prefixes:** Because these compounds (`o-gă`, `no-gă`, `ko-gă`) already inherently define the **location** of the object (e.g., "The here-place"), they do **not** take additional **Relational Locative Prefixes** (like _va-_ "in" or _na-_ "on"). Even though they function as nouns, the spatial relationship is already encoded in their definition as a "place-of-vicinity."
 
-- **Correct:** `To shěso o-gă ỏnů.` (The book is in the here-place).
-- **Incorrect:** `To shěso vao-gă ỏnů.` (The book is in the in-here-place).
+- **Correct:** `to shěso o-gă ỏnů.` (The book is in the here-place).
+- **Incorrect:** `to shěso vao-gă ỏnů.` (The book is in the in-here-place).
 
 | Compound  | Literal Meaning      | Usage / Nuance                                                               |
 | --------- | -------------------- | ---------------------------------------------------------------------------- |
@@ -105,29 +105,29 @@ When specifying that a subject is located _within_ one of these compound vicinit
 
 **Context:** Describing a specific person who belongs to the immediate area (a local) reading, but can't be seen.
 
-> **Toonă o-gă shá shěsonů.** `SUBJ DEF.WARM PROX-place person book-EPEN-ACT.BE` 
-> _The person from around here reads._
+> toonă o-gă shá shěsonů. `SUBJ DEF.WARM PROX-place person book-EPEN-ACT.BE` 
+> The person from around here reads.
 
 ### 2. `no-gă` (Medial Vicinity)
 
 **Context:** Stating that the specific book is located somewhere near the listener.
 
-> **Toonýj shěso no-gă ỏnů.** `SUBJ DEF.COLD book MED-place the-middle-of.ACT.BE` 
-> _The book is somewhere near you._
+> toonýj shěso no-gă ỏnů. `SUBJ DEF.COLD book MED-place the-middle-of.ACT.BE` 
+> The book is somewhere near you.
 
 ### 3. `ko-gă` (Distal Vicinity)
 
 **Context:** Observing the person somewhere in the distance reading.
 
-> **Toonă ko-gă shá shěsonů.** `SUBJ DEF.WARM DIST-place person book-EPEN-ACT.BE` 
-> _The person from way over there reads._
+> toonă ko-gă shá shěsonů. `SUBJ DEF.WARM DIST-place person book-EPEN-ACT.BE` 
+> The person from way over there reads.
 
 ### 4. `gă-gă` (Indefinite Vicinity)
 
 **Context:** Stating that a book is just somewhere (it's lost, can't be seen).
 
-> **Toonýj shěso gă-gă ỏnů.** `SUBJ DEF.COLD book LOC.INDEF-place the-middle-of.ACT.BE` 
-> _The book is in a somewhere-place (anywhere)._
+> toonýj shěso gă-gă ỏnů. `SUBJ DEF.COLD book LOC.INDEF-place the-middle-of.ACT.BE` 
+> The book is in a somewhere-place (anywhere).
 
 ## Syntactic Structure
 
@@ -139,7 +139,7 @@ The construction follows the standard Noun Phrase order, with the locative prefi
 
 **Example Construction:**
 
-| Asaxi          | Gloss                     | Free Translation     | Meaning                                  |
+| Asaxi          | gloss                     | free translation     | meaning                                  |
 | -------------- | ------------------------- | -------------------- | ---------------------------------------- |
 | **onă shá**    | DEF.W person           | The person           | Specific person (neutral)                |
 | **onă o-shá**  | DEF.W PROX-person      | The here-person      | This person (right here)                 |
@@ -201,11 +201,11 @@ When the specific location is unknown, the Relational Prefix combines with the i
 
 **Context:** Describing a book that is known to be inside a library, but the exact shelf is unknown.
 
- **Anő vagă-shěso \[library\] xiŕa.**
+ anő vagă-shěso \[library\] xiŕa.
 `NDEF inside-somewhere-book [library] EXIST` 
-_A book (which is) somewhere-inside exists (at the) library._
+A book (which is) somewhere-inside exists (at the) library.
 
-**\[bird\] xa-\[sea\] \[fly\]nů**
+\[bird\] xa-\[sea\] \[fly\]nů
 `bird above-sea fly-EPEN-ACT.BE`
 Lit. The bird flies the above-sea. (The bird is flying above the surface of the sea)
 
@@ -215,8 +215,8 @@ Lit. The bird flies the above-sea. (The bird is flying above the surface of the 
 In English, distinguishing between two identical objects usually requires a clunky "relative clause" to specify which one you mean. Asaxi turns this location into an adjective-like state.
 
 - **Context:** There are two books. One is on the table, one is inside a bag. You want the one in the bag.
-- **Standard English:** "No, not that one. Give me **the book that is inside**." (9 words)
-- **Asaxi Logic:** "No. Give **[inside-book]**." (3 words)
+- **Standard English:** "No, not that one. Give me the book that is inside." (9 words)
+- **Asaxi Logic:** "No. Give [inside-book]." (3 words)
     - _Economy:_ You eliminate "that is" or "which is." The object's location becomes its name.
 
 ### 2. Immediate Contrast
@@ -278,23 +278,23 @@ When using a Spatial Verb, the Relational Prefix is **omitted** from the object 
 - **shěso** (Book) - _Cold Noun_
 - **tobo** (Table) - _Cold Noun_
 
-**1. "On" (Contact)** _Context: The book is lying on top of the table._
+**1. "On" (Contact)** Context: The book is lying on top of the table.
 
-**To shěso tobo nanů.** 
+to shěso tobo nanů. 
 `SUBJ DEF.COLD book DEF.COLD table on-EPEN-ACT.BE` 
-_Lit. The book "ons" the table._
+Literal: The book "ons" the table.
 
-**2. "Below" (Under)** _Context: The book is lying on the floor underneath the table._
+**2. "Below" (Under)** Context: The book is lying on the floor underneath the table.
 
-**To shěso tobo pùnů.** 
+to shěso tobo pùnů. 
 `SUBJ DEF.COLD book DEF.COLD table below-EPEN-ACT.BE` 
-_Lit. The book "underlies" the table._
+Literal: The book "underlies" the table.
 
-**3. "Beside" (Proximity)** _Context: The table is located next to the book._
+**3. "Beside" (Proximity)** Context: The table is located next to the book.
 
-**To tobo shěso banů.** 
+to tobo shěso banů. 
 `SUBJ DEF.COLD table DEF.COLD book beside-EPEN-ACT.BE` 
-_Lit. The table "flanks" the book._
+Literal: The table "flanks" the book.
 
 ### Note on usage: Physicality constraint
 
@@ -304,7 +304,7 @@ The Spacial Prefixes as well as verbs derived from them are only ever used to de
 - correct: 
   1. To Jomåsháwa sèjośýstèm sháwa xiŕa.
      Lit. Humans are creatures belonging to a societal system.
-  2. To Jo băjomåshá śýstèm xiŕa.
+  2. to jo băjomåshá śýstèm xiŕa.
      Society is a man-made system.
 
 For occupying in an abstract sense (Eg. being in a system, story, movie, dream etc.), use the appropriate NPCP. (See  [[15_NPCP and The Agglutinative Block]] for more information.)

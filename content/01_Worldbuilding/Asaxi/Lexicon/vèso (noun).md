@@ -31,8 +31,12 @@ IPA: /b̪vəso̞/
 - Polish: słoma, siano
 
 ### Example sentence
-**Vèso sè mùù chỏno.**
-_Straw is the cow's food._
+
+#### Example 1
+
+- **Asaxi:** vèso sè mùù chỏno.
+- **English:** Straw is the cow's food.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /vigavi/
 - Polish: zdrowie
 
 ### Example sentence
-**Då no vigavi!**
-_Health to you! (a toast)_
+
+#### Example 1
+
+- **Asaxi:** då no vigavi!
+- **English:** Health to you! (a toast)
+- **Polish:** x
 
 ### Alternative Forms
 Null

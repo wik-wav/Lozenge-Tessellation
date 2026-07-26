@@ -59,9 +59,9 @@ Null
 A small, semi-transparent speck or string that drifts across one's field of vision (myodesopsia). In Asaxi thought, it is classified as "Cold" due to its intangible, ghostly nature and its lack of agency, despite its movement. It represents something that is always present but cannot be grasped or directly looked at.
 
 ### Example sentences
-- **Wo fna ma.**
-  _I have eye floaters._
-  _Mam męty ciałka szklistego._
-- **Fno fnonů.**
-  _The floater drifts (moves)._
-  _Męt się przemieszcza._
+
+#### Example 1
+
+- **Asaxi:** wo fna ma.
+- **English:** I have eye floaters. Mam męty ciałka szklistego. Fno fnonů. The floater drifts (moves). Męt się przemieszcza.
+- **Polish:** x

@@ -31,8 +31,12 @@ IPA: /miabʷo̞/
 - Polish: wosk
 
 ### Example sentence
-**Pjobi miabwo izoŕa.**
-_A candle is made of wax._
+
+#### Example 1
+
+- **Asaxi:** pjobi miabwo izoŕa.
+- **English:** A candle is made of wax.
+- **Polish:** x
 
 ### Alternative Forms
 Null

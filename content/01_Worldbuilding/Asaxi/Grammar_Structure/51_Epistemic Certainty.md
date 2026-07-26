@@ -28,7 +28,7 @@ The use of specific grammatical forms implies 100% certainty. You cannot use the
 **B. Constitutional Nouns (`ga-` Compounds)**
 
 - **Meaning:** "Physically/Materially X."
-- **Logic:** `Gafůbåbå` (Muscleless) is a diagnosis.
+- **Logic:** `gafůbåbå` (Muscleless) is a diagnosis.
 - **Constraint:** You cannot use a `ga-` noun to describe a vibe or impression. You must use an adjective (`-nă`) or qualify it.
 
 **C. The Active Copula (`ů`)**
@@ -61,16 +61,16 @@ Speakers can comment on the _validity_ of a past or future event by using `tte` 
 
 **A. Subjective Past ("That's how I think it was")**
 
-> **[Statement] tte ŕima zèxiŕa.** `QT` `think` `PAST-EXIST` _"That's how I think it was."_ (Somewhat uncertain).
+> [Statement] tte ŕima zèxiŕa. `QT` `think` `PAST-EXIST` "That's how I think it was." (Somewhat uncertain).
 > 
 > - _Logic:_ "As for that, thought existed." (The thought occurred, but the fact is memory).
 
 **B. Subjective Fact ("That's how it was")**
 
-> **[Statement] tte sỏxiŕa.** `QT` `MEMORIC-EXIST` _"That's how it was (in my memory)."_
+> [Statement] tte sỏxiŕa. `QT` `MEMORIC-EXIST` "That's how it was (in my memory)."
 > 
 > - _Logic:_ Uses the **Subjective Past [[sỏ (particle)|sỏ-]]**. It asserts the fact, but frames it as a personal memory rather than a history book entry.
 
 **C. Future Fact ("That's how it will be")**
 
-> **[Statement] tte paxiŕa.** `QT` `FUT-EXIST` _"That's how it will be."_ (Prophecy / Certainty).
+> [Statement] tte paxiŕa. `QT` `FUT-EXIST` "That's how it will be." (Prophecy / Certainty).

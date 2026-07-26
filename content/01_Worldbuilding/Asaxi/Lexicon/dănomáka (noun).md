@@ -31,8 +31,12 @@ IPA: /daɪno̞mɑka/
 - Polish: skrzynia
 
 ### Example sentence
-**Daogo dănomáka vanů.**
-_Money is in the chest._
+
+#### Example 1
+
+- **Asaxi:** daogo dănomáka vanů.
+- **English:** Money is in the chest.
+- **Polish:** x
 
 ### Alternative Forms
 Null

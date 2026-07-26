@@ -37,8 +37,12 @@ IPA: /ɦaɪt͡sə/
 - Polish: być pewnym, wiedzieć na pewno
 
 ### Example sentence
-**To wo tte xăcè.**
-_I am sure of it._
+
+#### Example 1
+
+- **Asaxi:** to wo tte xăcè.
+- **English:** I am sure of it.
+- **Polish:** x
 
 ### Alternative Forms
 Null

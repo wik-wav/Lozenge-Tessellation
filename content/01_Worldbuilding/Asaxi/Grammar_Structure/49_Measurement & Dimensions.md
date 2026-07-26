@@ -31,7 +31,7 @@ Used for people, animals, or when emphasizing the active state of the measuremen
 
 **Example:**
 
-> **To wo dasă śchinů.** `SUBJ` `1SG` `100` `cm-measure` _"I am 100cm tall."_ (Lit: I perform-cm 100).
+> to wo dasă śchinů. `SUBJ` `1SG` `100` `cm-measure` "I am 100cm tall." (Lit: I perform-cm 100).
 
 ---
 
@@ -44,9 +44,9 @@ Used for inanimate objects or when defining the dimensions as a fixed property.
 
 **Example:**
 
-> **To shěso tam sè ŋo xiŕa.** _"The book is 2 kilos."_ (Lit: Book two of-kilos exists).
+> to shěso tam sè ŋo xiŕa. "The book is 2 kilos." (Lit: Book two of-kilos exists).
 
-> **To tobo tamda sè śchi.** _"The table is 200cm."_ (Zero Copula).
+> to tobo tamda sè śchi. "The table is 200cm." (Zero Copula).
 
 ---
 

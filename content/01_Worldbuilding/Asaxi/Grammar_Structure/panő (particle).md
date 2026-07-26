@@ -22,8 +22,12 @@ tags:
 
 ### Example sentence
 
-**To wo panő shěso jå.**
-_I want a certain book._
+
+#### Example 1
+
+- **Asaxi:** to wo panő shěso jå.
+- **English:** I want a certain book.
+- **Polish:** x
 
 ### Etymology
 

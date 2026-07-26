@@ -36,8 +36,12 @@ IPA: /ŋonuu̯/
 - Polish: ważyć (w kilogramach)
 
 ### Example sentence
-**To wo dasă ŕă ŋonů.**
-_I weigh 105 kilos._
+
+#### Example 1
+
+- **Asaxi:** to wo dasă ŕă ŋonů.
+- **English:** I weigh 105 kilos.
+- **Polish:** x
 
 ### Alternative Forms
 Null

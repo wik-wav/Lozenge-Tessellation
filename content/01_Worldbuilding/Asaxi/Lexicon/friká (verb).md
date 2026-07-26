@@ -39,8 +39,12 @@ IPA: /fɹikɑ/
 - Polish: wybaczać
 
 ### Example sentence
-**Wo shá friká.**
-_I forgive the person._
+
+#### Example 1
+
+- **Asaxi:** wo shá friká.
+- **English:** I forgive the person.
+- **Polish:** x
 
 ### Alternative Forms
 Null

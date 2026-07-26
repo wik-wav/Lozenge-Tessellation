@@ -36,8 +36,12 @@ IPA: /miaɡo̞ɦuu̯/
 - Polish: słodzić
 
 ### Example sentence
-**Wo chă miagoxů.**
-_I sweeten the tea._
+
+#### Example 1
+
+- **Asaxi:** wo chă miagoxů.
+- **English:** I sweeten the tea.
+- **Polish:** x
 
 ### Alternative Forms
 Null

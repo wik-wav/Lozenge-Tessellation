@@ -31,8 +31,12 @@ IPA: /t͡soɪt͡soɪ/
 - Polish: zrozumienie, pojmowanie
 
 ### Example sentence
-**Sè dătáwao cőcő bůná.**
-_There is no understanding of the natural world._ (bůná = mutable 'is-not': it could yet be understood)
+
+#### Example 1
+
+- **Asaxi:** sè dătáwao cőcő bůná.
+- **English:** There is no understanding of the natural world. (bůná = mutable 'is-not': it could yet be understood)
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -34,8 +34,12 @@ IPA: /waɪnaɲi/
 
 ### Example sentence
 
-**To wănani hja o pjoŕů.**
-_Many stars shine here._
+
+#### Example 1
+
+- **Asaxi:** to wănani hja o pjoŕů.
+- **English:** Many stars shine here.
+- **Polish:** x
 
 ### Etymology
 

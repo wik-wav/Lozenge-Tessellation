@@ -35,8 +35,12 @@ IPA: /tːə pɯɾima/
 
 ### Example sentence
 
-**To John gafůbåbå shá tte pùŕima.**
-_I suspect that John is a muscleless person._
+
+#### Example 1
+
+- **Asaxi:** to john gafůbåbå shá tte pùŕima.
+- **English:** I suspect that John is a muscleless person.
+- **Polish:** x
 
 ### Etymology
 

@@ -39,8 +39,12 @@ IPA: /ijʋo̞/
 - Polish: postrzegać
 
 ### Example sentence
-**Wo ŋè ijwo.**
-_I perceive a shadow._
+
+#### Example 1
+
+- **Asaxi:** wo ŋè ijwo.
+- **English:** I perceive a shadow.
+- **Polish:** x
 
 ### Alternative Forms
 Null

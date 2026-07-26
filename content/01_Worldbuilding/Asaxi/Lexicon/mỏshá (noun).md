@@ -31,8 +31,12 @@ IPA: /mou̯ʃɑ/
 - Polish: kobieta
 
 ### Example sentence
-**Mỏshá våŕo vanů.**
-_The woman is in the garden._
+
+#### Example 1
+
+- **Asaxi:** mỏshá våŕo vanů.
+- **English:** The woman is in the garden.
+- **Polish:** x
 
 ### Alternative Forms
 Null

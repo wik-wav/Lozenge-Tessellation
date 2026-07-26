@@ -29,4 +29,9 @@ Stacks on top of Tense prefixes.
 
 ### Example sentence
 
-**To wo ozètopù.** _I just dropped (it)._
+
+#### Example 1
+
+- **Asaxi:** to wo ozètopù.
+- **English:** I just dropped (it).
+- **Polish:** x

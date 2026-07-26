@@ -32,8 +32,12 @@ IPA: /daɪt̪ɑka/
 - Polish: wojna
 
 ### Example sentence
-**To dătáka tètánă xiŕa.**
-_War is painful._
+
+#### Example 1
+
+- **Asaxi:** to dătáka tètánă xiŕa.
+- **English:** War is painful.
+- **Polish:** x
 
 ### Alternative Forms
 Null

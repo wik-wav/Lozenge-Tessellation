@@ -30,11 +30,18 @@ IPA: /fʷot͡soɪɕiɾo/
 - Polish: pustka dysonansu, mgła sprzeczności
 
 ### Example sentence
-**Vwo, ni fwocősiŕo chåxoxo.**
-_Today, (he) completely departed into the dissonant void._
 
-**Hwo Tom zá John zècőtájýnů sèni, vwo to xő ni fwocősiŕo chåxoxo.** 
-_"Yesterday Tom and John argued, so today he (Tom) completely departed into the dissonant void."_
+#### Example 1
+
+- **Asaxi:** vwo, ni fwocősiŕo chåxoxo.
+- **English:** Today, (he) completely departed into the dissonant void.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** hwo tom zá john zècőtájýnů sèni, vwo to xő ni fwocősiŕo chåxoxo.
+- **English:** Yesterday Tom and John argued, so today he (Tom) completely departed into the dissonant void.
+- **Polish:** x
 
 ### Alternative Forms
 Null

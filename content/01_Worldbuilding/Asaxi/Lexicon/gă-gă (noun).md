@@ -30,8 +30,12 @@ IPA: /ɡaɪ.ɡaɪ/
 - Polish: gdzieś, jakieś miejsce
 
 ### Example sentence
-To sè wo shěso gă-gă ỏnů.
-My book is somewhere (I don't know where).
+
+#### Example 1
+
+- **Asaxi:** to sè wo shěso gă-gă ỏnů.
+- **English:** My book is somewhere (I don't know where).
+- **Polish:** x
 
 ### Alternative Forms
 x

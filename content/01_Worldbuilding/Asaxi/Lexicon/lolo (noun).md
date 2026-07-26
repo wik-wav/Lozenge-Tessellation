@@ -31,8 +31,12 @@ IPA: /lolo/
 - Polish: fala
 
 ### Example sentence
-**To lolo dăpăŕo naŕa.**
-_A wave rides upon the sea._
+
+#### Example 1
+
+- **Asaxi:** to lolo dăpăŕo naŕa.
+- **English:** A wave rides upon the sea.
+- **Polish:** x
 
 ### Alternative Forms
 Null

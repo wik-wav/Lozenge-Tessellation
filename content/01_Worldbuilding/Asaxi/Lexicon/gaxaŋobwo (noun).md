@@ -33,8 +33,12 @@ IPA: /ɡaɦaŋobʷo/
 - Polish: otyłość chorobliwa
 
 ### Example sentence
-**To John gaxaŋobwo shá.**
-_John is a morbidly-obese person._ (a medical fact — cf. the aesthetic [[bwonă (adjective)|bwonă]])
+
+#### Example 1
+
+- **Asaxi:** to john gaxaŋobwo shá.
+- **English:** John is a morbidly-obese person. (a medical fact — cf. the aesthetic [[bwonă (adjective)|bwonă]])
+- **Polish:** x
 
 ### Alternative Forms
 Null

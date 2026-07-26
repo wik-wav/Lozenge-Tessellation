@@ -41,8 +41,12 @@ IPA: /pʰuu̯maɪnɪj/
 - English: disagreeably
 
 ### Example sentence
-**To shá pxůmănýj.**
-_The person is disagreeable._
+
+#### Example 1
+
+- **Asaxi:** to shá pxůmănýj.
+- **English:** The person is disagreeable.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -39,8 +39,12 @@ IPA: /fʷɯɦa/
 - Polish: oddychać
 
 ### Example sentence
-**Wo fwùxa.**
-_I breathe._
+
+#### Example 1
+
+- **Asaxi:** wo fwùxa.
+- **English:** I breathe.
+- **Polish:** x
 
 ### Alternative Forms
 Null

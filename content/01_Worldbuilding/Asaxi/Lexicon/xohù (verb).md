@@ -40,8 +40,12 @@ IPA: /ɦoxɯ/
 - Polish: cofać się, wycofywać
 
 ### Example sentence
-**To wo xohù.**
-_I move back._
+
+#### Example 1
+
+- **Asaxi:** to wo xohù.
+- **English:** I move back.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /ɾaɪmɑka/
 - Polish: palenisko, piec
 
 ### Example sentence
-**Ŕăa ŕămáka vanů.**
-_Fire is in the hearth._
+
+#### Example 1
+
+- **Asaxi:** ŕăa ŕămáka vanů.
+- **English:** Fire is in the hearth.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -34,8 +34,12 @@ IPA: /bau̯baɾu̯/
 - Polish: nabierać masy mięśniowej
 
 ### Example sentence
-**Wo båbaŕů.**
-_I am gaining muscle mass._
+
+#### Example 1
+
+- **Asaxi:** wo båbaŕů.
+- **English:** I am gaining muscle mass.
+- **Polish:** x
 
 ### Alternative Forms
 Null

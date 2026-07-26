@@ -31,8 +31,12 @@ IPA: /mou̯ba/
 - Polish: ciotka
 
 ### Example sentence
-**Sè wo mỏba.**
-_My aunt._
+
+#### Example 1
+
+- **Asaxi:** sè wo mỏba.
+- **English:** My aunt.
+- **Polish:** x
 
 ### Alternative Forms
 Null

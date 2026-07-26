@@ -31,8 +31,12 @@ IPA: /ʃɚjɪnkam/
 - Polish: szkoła
 
 ### Example sentence
-**Nicèshá shějýnkam vanů.**
-_Students are in the school._
+
+#### Example 1
+
+- **Asaxi:** nicèshá shějýnkam vanů.
+- **English:** Students are in the school.
+- **Polish:** x
 
 ### Alternative Forms
 Null

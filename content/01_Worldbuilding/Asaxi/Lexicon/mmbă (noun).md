@@ -32,8 +32,12 @@ IPA: /m̩.baɪ/
 - Polish: szczęście, radość, błogostan, motylki w brzuchu
 
 ### Example sentence
-**To wo mmbă ůchů.**
-_I feel joy._
+
+#### Example 1
+
+- **Asaxi:** to wo mmbă ůchů.
+- **English:** I feel joy.
+- **Polish:** x
 
 ### Alternative Forms
 x

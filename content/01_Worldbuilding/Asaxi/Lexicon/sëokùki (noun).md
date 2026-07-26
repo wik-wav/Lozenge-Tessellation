@@ -36,8 +36,12 @@ IPA: /se̞ɪo̞kɯki/
 
 ### Example sentence
 
-**Hjiny sëokùkiwa.**
-_The tiny crabs._
+
+#### Example 1
+
+- **Asaxi:** hjiny sëokùkiwa.
+- **English:** The tiny crabs.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

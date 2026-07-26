@@ -39,8 +39,12 @@ IPA: /b̪vɯɾɯ/
 - Polish: topnieć
 
 ### Example sentence
-**Shýŕo vùŕù.**
-_The ice melts._
+
+#### Example 1
+
+- **Asaxi:** shýŕo vùŕù.
+- **English:** The ice melts.
+- **Polish:** x
 
 ### Alternative Forms
 Null

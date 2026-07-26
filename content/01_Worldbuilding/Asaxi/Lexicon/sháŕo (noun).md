@@ -31,8 +31,12 @@ IPA: /ʃɑɾo/
 - Polish: sadzawka, staw, oczko wodne
 
 ### Example sentence
-**To sháma sháŕo niŕoŕo.**
-_The people immerse (themselves) in the pool._
+
+#### Example 1
+
+- **Asaxi:** to sháma sháŕo niŕoŕo.
+- **English:** The people immerse (themselves) in the pool.
+- **Polish:** x
 
 ### Alternative Forms
 Null

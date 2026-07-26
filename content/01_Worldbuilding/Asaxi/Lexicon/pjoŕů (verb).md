@@ -35,8 +35,12 @@ IPA: /pʲoɾuu̯/
 - Polish: świecić, jaśnieć, promieniować
 
 ### Example sentence
-**To Xi pjoŕů.**
-_The sun shines._
+
+#### Example 1
+
+- **Asaxi:** to xi pjoŕů.
+- **English:** The sun shines.
+- **Polish:** x
 
 ### Alternative Forms
 Null

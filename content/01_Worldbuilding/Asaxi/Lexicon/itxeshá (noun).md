@@ -32,8 +32,12 @@ IPA: /itʰeʃɑ/
 - Polish: motyl
 
 ### Example sentence
-**Itxeshá txewa ma, jală.**
-_A butterfly has wings, and flies._
+
+#### Example 1
+
+- **Asaxi:** itxeshá txewa ma, jală.
+- **English:** A butterfly has wings, and flies.
+- **Polish:** x
 
 ### Alternative Forms
 x

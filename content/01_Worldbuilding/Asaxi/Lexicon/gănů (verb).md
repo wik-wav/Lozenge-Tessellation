@@ -35,8 +35,12 @@ IPA: /ɡaɪ.nuu̯/
 - Polish: błąkać się, wędrować, iść gdzieś
 
 ### Example sentence
-**To wo gănů.**
-_I am wandering / I am going somewhere._
+
+#### Example 1
+
+- **Asaxi:** to wo gănů.
+- **English:** I am wandering / I am going somewhere.
+- **Polish:** x
 
 ### Alternative Forms
 Null

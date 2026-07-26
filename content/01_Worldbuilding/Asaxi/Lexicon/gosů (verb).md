@@ -36,8 +36,12 @@ IPA: /ɡo̞suu̯/
 - Polish: grzechotać
 
 ### Example sentence
-**Daogo gosů.**
-_The coins clatter._
+
+#### Example 1
+
+- **Asaxi:** daogo gosů.
+- **English:** The coins clatter.
+- **Polish:** x
 
 ### Alternative Forms
 Null

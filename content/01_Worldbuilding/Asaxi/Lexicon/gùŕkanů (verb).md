@@ -36,8 +36,12 @@ IPA: /ɡɯɾkanuu̯/
 - Polish: łowić w sieć
 
 ### Example sentence
-**Wo ŕoshá gùŕkanů.**
-_I net the fish._
+
+#### Example 1
+
+- **Asaxi:** wo ŕoshá gùŕkanů.
+- **English:** I net the fish.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,9 +36,15 @@ IPA: /ni/
 
 ### Example sentence
 
-**Wo nixoxo.** _I start to leave / I am about to depart._
+#### Example 1
 
-| Asaxi         | **Wo** | **ni-xoxo** |
+- **Asaxi:** wo nixoxo.
+- **English:** I start to leave / I am about to depart.
+- **Polish:** x
+
+### Analysis
+
+| Asaxi         | wo     | ni-xoxo     |
 | ------------- | ------ | ----------- |
 | **Morphemes** | wo     | ni - xoxo   |
 | **Gloss**     | 1SG    | INC-depart  |

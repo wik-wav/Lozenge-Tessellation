@@ -30,6 +30,9 @@ Duplication of the cold adjectival suffix **-nýj**.
 
 ### Example sentence
 
-**To [computer] nýjshěsonýj [processing]nů.** _The computer processes the **most intelligently**._
-- _Adverb:_ `shěsonýj` (Book-like/Smart - Cold Source `shěso`)
-- _Verbal Mode:_ `-n-` (Performance).
+
+#### Example 1
+
+- **Asaxi:** to [computer] nýjshěsonýj [processing]nů.
+- **English:** The computer processes the most intelligently. Adverb: `shěsonýj` (Book-like/Smart - Cold Source `shěso`) Verbal Mode: `-n-` (Performance).
+- **Polish:** x

@@ -31,8 +31,12 @@ IPA: /aɕpou̯/
 - Polish: skarpeta
 
 ### Example sentence
-**Aśpỏ aśo naŕa.**
-_A sock is on the foot._
+
+#### Example 1
+
+- **Asaxi:** aśpỏ aśo naŕa.
+- **English:** A sock is on the foot.
+- **Polish:** x
 
 ### Alternative Forms
 Null

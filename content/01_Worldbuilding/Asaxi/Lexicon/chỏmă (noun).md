@@ -30,8 +30,12 @@ IPA: /tʃou̯maɪ/
 - Polish: usta, otwór gębowy
 
 ### Example sentence
-To John chỏmă em.mo.
-John opens (his) mouth.
+
+#### Example 1
+
+- **Asaxi:** to john chỏmă em.mo.
+- **English:** John opens (his) mouth.
+- **Polish:** x
 
 ### Alternative Forms
 x

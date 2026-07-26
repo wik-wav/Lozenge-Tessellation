@@ -31,8 +31,12 @@ IPA: /b̪viɡo̞kam/
 - Polish: młyn
 
 ### Example sentence
-**Vigopỏ vigokam izoŕa.**
-_Flour comes from the mill._
+
+#### Example 1
+
+- **Asaxi:** vigopỏ vigokam izoŕa.
+- **English:** Flour comes from the mill.
+- **Polish:** x
 
 ### Alternative Forms
 Null

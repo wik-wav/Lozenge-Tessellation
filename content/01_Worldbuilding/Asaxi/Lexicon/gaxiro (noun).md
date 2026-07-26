@@ -34,8 +34,12 @@ IPA: /ɡaɦiɾo/
 - Polish: złoty
 
 ### Example sentence
-**Htëno gaxiro.**
-_The ring is golden._
+
+#### Example 1
+
+- **Asaxi:** htëno gaxiro.
+- **English:** The ring is golden.
+- **Polish:** x
 
 ### Alternative Forms
 Null

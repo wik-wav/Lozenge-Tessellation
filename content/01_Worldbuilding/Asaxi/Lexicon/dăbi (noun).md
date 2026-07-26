@@ -31,8 +31,12 @@ IPA: /daɪbi/
 - Polish: słup, pal
 
 ### Example sentence
-**Dăbi cù nanů.**
-_A pole stands in the ground._
+
+#### Example 1
+
+- **Asaxi:** dăbi cù nanů.
+- **English:** A pole stands in the ground.
+- **Polish:** x
 
 ### Alternative Forms
 Null

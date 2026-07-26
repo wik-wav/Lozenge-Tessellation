@@ -38,8 +38,12 @@ IPA: /ɦuu̯ɦuu̯/
 - Polish: zapomnieć
 
 ### Example sentence
-**To wo [name] xůxů.**
-_I forget the name._
+
+#### Example 1
+
+- **Asaxi:** to wo [name] xůxů.
+- **English:** I forget the name.
+- **Polish:** x
 
 ### Alternative Forms
 Null

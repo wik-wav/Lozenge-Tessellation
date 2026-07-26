@@ -39,8 +39,12 @@ IPA: /ɾo̞ɦo̞/
 - Polish: płynąć
 
 ### Example sentence
-**Ŕoŕobi ŕoxo.**
-_The stream flows._
+
+#### Example 1
+
+- **Asaxi:** ŕoŕobi ŕoxo.
+- **English:** The stream flows.
+- **Polish:** x
 
 ### Alternative Forms
 Null

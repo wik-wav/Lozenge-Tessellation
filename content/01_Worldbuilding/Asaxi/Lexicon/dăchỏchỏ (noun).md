@@ -32,8 +32,12 @@ IPA: /daɪt̠ʃou̯t̠ʃou̯/
 - Polish: pożądanie, pociąg, podniecenie
 
 ### Example sentence
-**To wo ni no dăchỏchỏ ůchů.**
-_I feel desire for you._ (Lit: I towards-you desire feel).
+
+#### Example 1
+
+- **Asaxi:** to wo ni no dăchỏchỏ ůchů.
+- **English:** I feel desire for you. (Lit: I towards-you desire feel).
+- **Polish:** x
 
 ### Alternative Forms
 x

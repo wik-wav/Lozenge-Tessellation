@@ -35,7 +35,12 @@ IPA: /bau̯bau̯/
 *Rule:* Reduplicated Diphthong Reduction (`båbå` -> `båba`).
 
 ### Example sentence
-**Sè wo båba gopů.** `ASSOC` `1SG` `muscles` `rock-TACT-ACT` _"My muscles feel like rock (to the touch)."_
+
+#### Example 1
+
+- **Asaxi:** sè wo båba gopů.
+- **English:** Gloss: ASSOC 1SG muscles rock-TACT-ACT: My muscles feel like rock (to the touch).
+- **Polish:** x
 
 ### Alternative Forms
 x

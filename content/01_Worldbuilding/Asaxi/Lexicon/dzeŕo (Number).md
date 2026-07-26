@@ -23,7 +23,12 @@ tags:
 IPA: /d̻͡z̪əɾo/
 
 ### Example sentence
-**To wo dzeŕo apo ma.** _"I have zero apples."_
+
+#### Example 1
+
+- **Asaxi:** to wo dzeŕo apo ma.
+- **English:** I have zero apples.
+- **Polish:** x
 
 ### Derived terms
 - **dzeŕonă** (derived adjective) *(potential)*

@@ -31,8 +31,12 @@ IPA: /fuwɦaɪt̻͡s̪əno/
 - Polish: kłamstwo, fałsz
 
 ### Example sentence
-**No fůxăcèno ijù kè?**
-_Are you telling a lie?_
+
+#### Example 1
+
+- **Asaxi:** no fůxăcèno ijù kè?
+- **English:** Are you telling a lie?
+- **Polish:** x
 
 ### Alternative Forms
 Null

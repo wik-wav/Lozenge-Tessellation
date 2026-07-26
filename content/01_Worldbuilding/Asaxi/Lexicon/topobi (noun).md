@@ -32,7 +32,12 @@ IPA: /t̪opobi/
 - Polish: pogoda, klimat
 
 ### Example sentence
-**To topobi opùnågavi xiŕa.** _The weather is usually green (good)._
+
+#### Example 1
+
+- **Asaxi:** to topobi opùnågavi xiŕa.
+- **English:** The weather is usually green (good).
+- **Polish:** x
 
 ### Alternative Forms
 x

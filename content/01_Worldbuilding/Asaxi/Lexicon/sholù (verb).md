@@ -39,8 +39,12 @@ IPA: /ʃo̞lɯ/
 - Polish: ślizgać się
 
 ### Example sentence
-**Wo shýŕo sholù.**
-_I slide on the ice._
+
+#### Example 1
+
+- **Asaxi:** wo shýŕo sholù.
+- **English:** I slide on the ice.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /sɯkinaɪ/
 - Polish: ukochany, drogi, ulubiony
 
 ### Example sentence
-**To ko sùkină shá xiŕa.**
-_She is a beloved person._
+
+#### Example 1
+
+- **Asaxi:** to ko sùkină shá xiŕa.
+- **English:** She is a beloved person.
+- **Polish:** x
 
 ### Alternative Forms
 Null

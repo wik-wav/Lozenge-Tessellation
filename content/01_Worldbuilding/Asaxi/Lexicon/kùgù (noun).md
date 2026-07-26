@@ -31,8 +31,12 @@ IPA: /kɯɡɯ/
 - Polish: mrówka
 
 ### Example sentence
-**Kùgù dăgo.**
-_The ants are many._
+
+#### Example 1
+
+- **Asaxi:** kùgù dăgo.
+- **English:** The ants are many.
+- **Polish:** x
 
 ### Alternative Forms
 Null

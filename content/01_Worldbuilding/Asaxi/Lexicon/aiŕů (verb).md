@@ -36,8 +36,12 @@ IPA: /aiɾuw/
 - Polish: rozpaczać, smucić się
 
 ### Example sentence
-**Ă ko aiŕů.**
-_She grieves. (the sorrow wells from within)_
+
+#### Example 1
+
+- **Asaxi:** ă ko aiŕů.
+- **English:** She grieves. (the sorrow wells from within)
+- **Polish:** x
 
 ### Alternative Forms
 Null

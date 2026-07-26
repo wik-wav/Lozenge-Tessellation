@@ -35,7 +35,12 @@ IPA: /uu̯ŋuu̯/
 - Polish: pachnieć
 
 ### Example sentence
-**John gavină ůŋů.** _John smells good._
+
+#### Example 1
+
+- **Asaxi:** john gavină ůŋů.
+- **English:** John smells good.
+- **Polish:** x
 
 ### Alternative Forms
 Null

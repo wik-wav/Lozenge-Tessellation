@@ -8,8 +8,12 @@ tags:
 ---
 Navigation:
 - [[00_Structural Sets in Asaxi| Back to Structural Sets in Asaxi]]
+- [[00_Asaxi Orthography & Punctuation Standard]]
  
 - - - 
+
+Romanized Asaxi is always written in lower case. The straight apostrophe in
+the romanization is the phonemic glottal stop /ʔ/, not a quotation mark.
 
 # Phonemes
 

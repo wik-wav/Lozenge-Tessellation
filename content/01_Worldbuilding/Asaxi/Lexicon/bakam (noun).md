@@ -31,8 +31,12 @@ IPA: /bakam/
 - Polish: ściana, mur
 
 ### Example sentence
-**Pjono nabakam.**
-_The picture is on the wall._
+
+#### Example 1
+
+- **Asaxi:** pjono nabakam.
+- **English:** The picture is on the wall.
+- **Polish:** x
 
 ### Alternative Forms
 Null

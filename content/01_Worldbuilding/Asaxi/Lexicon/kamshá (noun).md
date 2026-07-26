@@ -31,8 +31,12 @@ IPA: /kamʃɑ/
 - Polish: ciało
 
 ### Example sentence
-**To wo gabwokamshá ma.**
-I'm fat. (I have a body composed of fat)
+
+#### Example 1
+
+- **Asaxi:** to wo gabwokamshá ma.
+- **English:** I'm fat. (I have a body composed of fat)
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -36,8 +36,12 @@ IPA: /ɾaɪkuu̯/
 - Polish: podpalać
 
 ### Example sentence
-**Wo kjèŕo ŕăků.**
-_I set the forest ablaze._
+
+#### Example 1
+
+- **Asaxi:** wo kjèŕo ŕăků.
+- **English:** I set the forest ablaze.
+- **Polish:** x
 
 ### Alternative Forms
 Null

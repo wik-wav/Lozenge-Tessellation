@@ -30,8 +30,12 @@ IPA: /kamʃɑrokam/
 - Polish: siłownia
 
 ### Example sentence
-**To wo kamshárokam vanů.**
-_I am in the gym._
+
+#### Example 1
+
+- **Asaxi:** to wo kamshárokam vanů.
+- **English:** I am in the gym.
+- **Polish:** x
 
 ### Alternative Forms
 Null

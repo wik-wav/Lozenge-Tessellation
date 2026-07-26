@@ -31,8 +31,12 @@ IPA: /ɡoɡo/
 - Polish: żwir
 
 ### Example sentence
-**Gogo shosa naŕa.**
-_Pebbles lie on the road._
+
+#### Example 1
+
+- **Asaxi:** gogo shosa naŕa.
+- **English:** Pebbles lie on the road.
+- **Polish:** x
 
 ### Alternative Forms
 Null

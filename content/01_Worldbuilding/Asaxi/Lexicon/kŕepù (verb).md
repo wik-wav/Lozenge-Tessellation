@@ -39,8 +39,12 @@ IPA: /kɾe̞pɯ/
 - Polish: potykać się
 
 ### Example sentence
-**Wo go kŕepù.**
-_I trip on a stone._
+
+#### Example 1
+
+- **Asaxi:** wo go kŕepù.
+- **English:** I trip on a stone.
+- **Polish:** x
 
 ### Alternative Forms
 Null

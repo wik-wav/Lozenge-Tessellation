@@ -31,8 +31,12 @@ IPA: /b̪vəmbi/
 - Polish: deska
 
 ### Example sentence
-**Xashosa vèmbi izoŕa.**
-_A bridge is made of planks._
+
+#### Example 1
+
+- **Asaxi:** xashosa vèmbi izoŕa.
+- **English:** A bridge is made of planks.
+- **Polish:** x
 
 ### Alternative Forms
 Null

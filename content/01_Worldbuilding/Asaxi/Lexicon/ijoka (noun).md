@@ -32,8 +32,12 @@ IPA: /iꞲoka/
 - Polish: celownik, przyrządy celownicze
 
 ### Example sentence
-**To wo bă ijoka mëjonů.**
-_I look through the scope._
+
+#### Example 1
+
+- **Asaxi:** to wo bă ijoka mëjonů.
+- **English:** I look through the scope.
+- **Polish:** x
 
 ### Alternative Forms
 Null

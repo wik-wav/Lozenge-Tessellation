@@ -39,8 +39,12 @@ IPA: /ijpɯ/
 - Polish: zauważać
 
 ### Example sentence
-**Wo siŕoshá ijpù.**
-_I notice a stranger._
+
+#### Example 1
+
+- **Asaxi:** wo siŕoshá ijpù.
+- **English:** I notice a stranger.
+- **Polish:** x
 
 ### Alternative Forms
 Null

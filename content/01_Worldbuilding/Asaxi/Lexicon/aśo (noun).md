@@ -33,8 +33,12 @@ IPA: /aɕo/
 - Polish: stopa, tylnia łapa
 
 ### Example sentence
-**To wo tam aśa ma.**
-_I have two feet._ (Lit. i have two foots)
+
+#### Example 1
+
+- **Asaxi:** to wo tam aśa ma.
+- **English:** I have two feet. (Lit. i have two foots)
+- **Polish:** x
 
 ### Alternative Forms
 Null

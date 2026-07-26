@@ -41,9 +41,12 @@ IPA: /fuu̯zɯnɪꞲ/
 - Polish: niezdarnie, bez wprawy
 
 ### Example sentence
-**As an adverb:**
-- To wo fůzùnýj aśù.
-I walk clumsily (without skill).
+
+#### Example 1
+
+- **Asaxi:** to wo fůzùnýj aśù.
+- **English:** Adverb: I walk clumsily (without skill).
+- **Polish:** x
 
 ### Alternative Forms
 x

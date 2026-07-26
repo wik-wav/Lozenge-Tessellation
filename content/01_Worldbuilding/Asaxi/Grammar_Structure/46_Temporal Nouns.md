@@ -31,7 +31,7 @@ Without the locative prefixes (`va-` or `ni-`), these words function as standard
 |**opa**|The Immediate Future / The Brink|`o` + `pa`|
 **Example:**
 
-> **To pa siŕo xiŕa.** _"The future is unknown."_
+> to pa siŕo xiŕa. "The future is unknown."
 
 ---
 
@@ -67,43 +67,43 @@ Without the locative prefixes (`va-` or `ni-`), these words function as standard
 
 **Standard Past:**
 
-> **Vazè, jomåsháwa zèvivinů.** _"In the past, humans lived."_
+> vazè, jomåsháwa zèvivinů. "In the past, humans lived."
 
 **Immediate Past (Fusion):**
 
-> **Vozè, to wo zèxogă.** _"I arrived (just) a moment ago."_
+> vozè, to wo zèxogă. "I arrived (just) a moment ago."
 
 **Distant Future (Reduction):**
 
-> **Nikpa, to wa pashěsonů.** _"In the distant future, we will read."_
+> nikpa, to wa pashěsonů. "In the distant future, we will read."
 
 **Immediate Future (The Brink):**
 
-> **Ńopa, to wa gavină paůchů.** _"We will feel well in the immediate future (on the brink)."_
+> ńopa, to wa gavină paůchů. "We will feel well in the immediate future (on the brink)."
 
 **A long, long time ago:**
 
-> **Kozèvkozè, ă ponă ŕimshá zèxiŕa.** _"Once upon a time, there was (lived) a certain lemur."_
+> kozèvkozè, ă ponă ŕimshá zèxiŕa. "Once upon a time, there was (lived) a certain lemur."
 
-### 4. Relative Day Naming (`Vaxi` + `Prefix` + `Number`)
+### 4. Relative Day Naming (`vaxi` + `Prefix` + `Number`)
 
 To specify a date by counting days from the present, use the introductory phrase **[[vaxi (noun)|vaxi]]** ("On the day...").
 
 **A. The Past (`hù-` Back)**
 - **Structure:** `hù` + `[Number]`
 - **Examples:**
-    - **Vaxi hùtam.** ("Two days ago").
-    - **Vaxi hùfă.** ("Three days ago").    
+    - vaxi hùtam. ("Two days ago").
+    - vaxi hùfă. ("Three days ago").    
 
 **B. The Future (`pa-` Front)**
 
 - **Structure:** `pa` + `[Number]`
 - **Examples:**
-    - **Vaxi patam.** ("In two days").
-    - **Vaxi paŕă.** ("In five days").
+    - vaxi patam. ("In two days.")
+    - vaxi paŕă. ("In five days").
 
 **C. The Named Days**
 
-- **Vaxi hùhwo:** "The day before yesterday."
-- **Vaxi pavwo:** "Tomorrow / The day after today." (Relative sequence).
+- **vaxi hùhwo:** "The day before yesterday."
+- **vaxi pavwo:** "Tomorrow / The day after today." (Relative sequence).
     - _Note:_ While `pwo` is the abstract noun for Tomorrow, `vaxi pavwo` emphasizes the specific calendar slot relative to today.])]

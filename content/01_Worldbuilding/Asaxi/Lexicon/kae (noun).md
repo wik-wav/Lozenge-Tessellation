@@ -32,8 +32,12 @@ IPA: /kae/
 - Polish: owoc
 
 ### Example sentence
-**To wo kae chỏnů.**
-_I eat the fruit._
+
+#### Example 1
+
+- **Asaxi:** to wo kae chỏnů.
+- **English:** I eat the fruit.
+- **Polish:** x
 
 ### Alternative Forms
 x

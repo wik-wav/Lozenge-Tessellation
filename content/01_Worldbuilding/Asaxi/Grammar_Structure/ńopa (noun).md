@@ -29,8 +29,12 @@ IPA: /ɲopa/
 
 ### Example sentence
 
-**Ńopa, to wa gavină pabůchů.**
-_We will feel well in the immediate future._
+
+#### Example 1
+
+- **Asaxi:** ńopa, to wa gavină pabůchů.
+- **English:** We will feel well in the immediate future.
+- **Polish:** x
 
 ### Etymology
 

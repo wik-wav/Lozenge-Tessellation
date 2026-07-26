@@ -59,5 +59,5 @@ A collective noun representing the sum total of all things, ideas, or offers tha
 - Polish: wszystkie rzeczy odmówione, sprawy zamknięte, strwożone szanse
 
 ### Examples
-- **Pxůmă na dă niŕa.**
+- pxůmă na dă niŕa.
 - *The collection of rejected things is large.*

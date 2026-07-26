@@ -37,4 +37,9 @@ Used primarily with the **Future Tense** (`pa-`) or **Suppositional Statives**.
 
 ### Example sentence
 
-**To wo pashěsonů gănå.** _I will read sometime (maybe)._
+
+#### Example 1
+
+- **Asaxi:** to wo pashěsonů gănå.
+- **English:** I will read sometime (maybe).
+- **Polish:** x

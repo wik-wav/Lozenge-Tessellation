@@ -81,9 +81,9 @@ Equality can be expressed using either **Line/Level (`bi`)** or **Middle/Center 
 - **Marker:** **[[bi (noun)|bi]]** OR **[[ỏ- (particle)|ỏ]]**.
 - **Complement:** **[[zá (particle)|zá]]** (With).
 
-> **Bi John zá Tom apa dănă chỏnů.** _"John and Tom munch on apples as much as one another."_ (Lit: Level John with Tom...).
+> bi john zá tom apa dănă chỏnů. "John and Tom munch on apples as much as one another." (Lit: Level John with Tom...).
 
-> **ỏ John zá Tom apa dănă chỏnů.** _"John and Tom... (same meaning)."_ (Lit: Center John with Tom...).
+> ỏ john zá tom apa dănă chỏnů. "John and Tom... (same meaning)." (Lit: Center John with Tom...).
 
 ### B. Superiority ("More X than...")
 
@@ -91,7 +91,7 @@ Equality can be expressed using either **Line/Level (`bi`)** or **Middle/Center 
 - **Complement:** **[[izo (particle)|izo]]** (From).
 - **Logic:** "Towards the top A, from (the standard of) B."
 
-> **Nani John izo Tom apa dănă chỏnů.** _"John eats apples more heavily than Tom."_
+> nani john izo tom apa dănă chỏnů. "John eats apples more heavily than Tom."
 
 ### C. Inferiority ("Less X than...")
 
@@ -99,7 +99,7 @@ Equality can be expressed using either **Line/Level (`bi`)** or **Middle/Center 
 - **Complement:** **[[izo (particle)|izo]]** (From).
 - **Logic:** "Towards the bottom A, from (the standard of) B."
 
-> **Pùni John izo Tom apa dănă chỏnů.** _"John eats apples less heavily than Tom."_
+> pùni john izo tom apa dănă chỏnů. "John eats apples less heavily than Tom."
 
 ## 3. Compound Comparative Adjectives (Simile Compounds)
 

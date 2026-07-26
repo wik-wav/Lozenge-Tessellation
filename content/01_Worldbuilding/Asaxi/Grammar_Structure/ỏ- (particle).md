@@ -36,11 +36,18 @@ IPA: /ou̯/
 
 ### Example sentence
 
-**To John ỏshosa xiŕa.**
-_John is in the middle of the road._
 
-**To wo ỏjýnoŕănabinýj.**
-_I am sonic-speed-fast (as fast as sound)._
+#### Example 1
+
+- **Asaxi:** to john ỏshosa xiŕa.
+- **English:** John is in the middle of the road.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo ỏjýnoŕănabinýj.
+- **English:** I am sonic-speed-fast (as fast as sound).
+- **Polish:** x
 
 ### Etymology
 

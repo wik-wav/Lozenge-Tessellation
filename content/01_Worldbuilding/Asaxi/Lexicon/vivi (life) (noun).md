@@ -34,8 +34,12 @@ IPA: /vivi/
 
 ### Example sentence
 
-**To vivi gavină xiŕa.**
-_Life is good._])]
+
+#### Example 1
+
+- **Asaxi:** to vivi gavină xiŕa.
+- **English:** Life is good.])]
+- **Polish:** x
 
 ### Alternative Forms
 - **vi** (Shortened form). Used in rapid speech or poetic meter.

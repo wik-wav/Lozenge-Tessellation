@@ -108,7 +108,7 @@ To express parts of a whole ("Half," "Quarter"), Asaxi uses the prefix **pù-** 
 
 **Complex Fractions:** To express "Two Thirds," state the Cardinal (Numerator) then the Fractional (Denominator).
 
-> **Tam pùfă.** _"Two Thirds."_ (2 / 3).
+> tam pùfă. "Two Thirds." (2 / 3).
 
 ### 6. Collective Numbers (Sets)
 
@@ -157,8 +157,8 @@ To express "Double," "Triple," etc., Asaxi uses a **Reduplicative Prefix** with 
 
 **Equation Structure:**
 
-> `[A] tă [B] tambi [C].` _A plus B equals C._
+> `[A] tă [B] tambi [C].` A plus B equals C.
 
 **Example:**
 
-> **Să tă să tambi tam.** _One plus one equals two._
+> să tă să tambi tam. One plus one equals two.

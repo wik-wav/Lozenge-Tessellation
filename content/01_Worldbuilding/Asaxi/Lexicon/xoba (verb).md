@@ -39,8 +39,12 @@ IPA: /ɦoba/
 - Polish: przesunąć się, zrobić unik, odsunąć
 
 ### Example sentence
-**To wo xoba.**
-_I step aside (dodge)._
+
+#### Example 1
+
+- **Asaxi:** to wo xoba.
+- **English:** I step aside (dodge).
+- **Polish:** x
 
 ### Alternative Forms
 Null

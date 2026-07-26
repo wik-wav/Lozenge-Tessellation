@@ -39,8 +39,12 @@ IPA: /ijt̻͡s̪ə/
 - Polish: rozpoznawać
 
 ### Example sentence
-**Wo bashá ijcè.**
-_I recognise my friend._
+
+#### Example 1
+
+- **Asaxi:** wo bashá ijcè.
+- **English:** I recognise my friend.
+- **Polish:** x
 
 ### Alternative Forms
 Null

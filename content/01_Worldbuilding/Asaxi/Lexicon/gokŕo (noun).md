@@ -31,8 +31,12 @@ IPA: /ɡo̞kɾo̞/
 - Polish: krater
 
 ### Example sentence
-**Sè onýj jëgo xago gokŕo nanů.**
-_A crater sits on the mountain's peak._
+
+#### Example 1
+
+- **Asaxi:** sè onýj jëgo xago gokŕo nanů.
+- **English:** A crater sits on the mountain's peak.
+- **Polish:** x
 
 ### Alternative Forms
 Null

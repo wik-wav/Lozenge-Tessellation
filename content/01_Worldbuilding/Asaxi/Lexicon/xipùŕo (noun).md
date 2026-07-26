@@ -31,8 +31,12 @@ IPA: /ɦipɯɾo̞/
 - Polish: zmierzch
 
 ### Example sentence
-**Xipùŕo mao niŕa.**
-_Dusk turns to night._
+
+#### Example 1
+
+- **Asaxi:** xipùŕo mao niŕa.
+- **English:** Dusk turns to night.
+- **Polish:** x
 
 ### Alternative Forms
 Null

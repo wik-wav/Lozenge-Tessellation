@@ -32,8 +32,11 @@ IPA: /ma.o/
 
 ### Example sentence
 
-xamao ijo.
-(I) see the moon above.
+#### Example 1
+
+- **Asaxi:** xamao ijo.
+- **English:** (I) see the moon above.
+- **Polish:** x
 
 ### Alternative Forms
 - må in compound nouns

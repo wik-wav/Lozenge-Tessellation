@@ -63,10 +63,15 @@ Null
 - **Source Agreement:** **Warm** (Root `mmbă` is Warm).
 
 ### Example sentences
-**Adjective:**
-**To John mmbănă shá xiŕa.**
-_John is a happy (cheerful) person._
 
-**Adverb (Manner):**
-**To wo mmbănă shěsonů.**
-_I read happily (with joy)._
+#### Example 1
+
+- **Asaxi:** to john mmbănă shá xiŕa.
+- **English:** Adjective: John is a happy (cheerful) person.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo mmbănă shěsonů.
+- **English:** Adverb (Manner): I read happily (with joy).
+- **Polish:** x

@@ -31,8 +31,12 @@ IPA: /ɡaɾo/
 - Polish: miasto
 
 ### Example sentence
-**Gaŕo hăizoŕa.**
-I'm indeed from a city.
+
+#### Example 1
+
+- **Asaxi:** gaŕo hăizoŕa.
+- **English:** I'm indeed from a city.
+- **Polish:** x
 
 ### Alternative Forms
 x

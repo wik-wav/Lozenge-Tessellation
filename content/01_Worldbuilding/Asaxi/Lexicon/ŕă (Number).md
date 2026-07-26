@@ -23,7 +23,12 @@ tags:
 IPA: /ɾaɪ/
 
 ### Example sentence
-**To wo ŕă apa ma.** _"I have five apples."_
+
+#### Example 1
+
+- **Asaxi:** to wo ŕă apa ma.
+- **English:** I have five apples.
+- **Polish:** x
 
 ### Derived terms
 - **biŕă** (5th)

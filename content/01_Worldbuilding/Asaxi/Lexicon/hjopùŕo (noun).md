@@ -31,8 +31,12 @@ IPA: /ço̞pɯɾo̞/
 - Polish: meteor
 
 ### Example sentence
-**Hjopùŕo owao nanů.**
-_A meteor strikes the Earth._
+
+#### Example 1
+
+- **Asaxi:** hjopùŕo owao nanů.
+- **English:** A meteor strikes the Earth.
+- **Polish:** x
 
 ### Alternative Forms
 Null

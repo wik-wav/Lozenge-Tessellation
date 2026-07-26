@@ -30,8 +30,12 @@ IPA: /ɲihəko/
 - Polish: początek
 
 ### Example sentence
-**Igùŕa nihèko ma.**
-_The game has a beginning._
+
+#### Example 1
+
+- **Asaxi:** igùŕa nihèko ma.
+- **English:** The game has a beginning.
+- **Polish:** x
 
 ### Alternative Forms
 Null

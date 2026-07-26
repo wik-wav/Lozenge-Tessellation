@@ -36,11 +36,18 @@ IPA: /pɯ/
 
 ### Example sentence
 
-**To shěso pùtobo xiŕa.**
-_The book is under the table._
 
-**To wo pùjýnnjýnă.**
-_I am less chatty than a hyena._
+#### Example 1
+
+- **Asaxi:** to shěso pùtobo xiŕa.
+- **English:** The book is under the table.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo pùjýnnjýnă.
+- **English:** I am less chatty than a hyena.
+- **Polish:** x
 
 ### Derived terms
 

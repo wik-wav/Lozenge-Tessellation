@@ -31,8 +31,12 @@ IPA: /laɾa/
 - Polish: język
 
 ### Example sentence
-**Laŕa chỏmă vaŕa.**
-_The tongue is in the mouth._
+
+#### Example 1
+
+- **Asaxi:** laŕa chỏmă vaŕa.
+- **English:** The tongue is in the mouth.
+- **Polish:** x
 
 ### Alternative Forms
 Null

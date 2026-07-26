@@ -36,8 +36,12 @@ IPA: /pib̪vaŋuu̯/
 - Polish: pachnieć
 
 ### Example sentence
-**Piva pivaŋů.**
-_The flower smells fragrant._
+
+#### Example 1
+
+- **Asaxi:** piva pivaŋů.
+- **English:** The flower smells fragrant.
+- **Polish:** x
 
 ### Alternative Forms
 Null

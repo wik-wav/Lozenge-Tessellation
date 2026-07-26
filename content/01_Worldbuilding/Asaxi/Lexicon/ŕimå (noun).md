@@ -31,11 +31,18 @@ IPA: /ɾimau̯/
 - Polish: myśl, idea, rozmyślanie
 
 ### Example sentence
-**To wo ŕimå ma.**
-_I have a thought._
 
-**To ŕimå gavină xiŕa.**
-_The thought is good._])]
+#### Example 1
+
+- **Asaxi:** to wo ŕimå ma.
+- **English:** I have a thought.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to ŕimå gavină xiŕa.
+- **English:** The thought is good.])]
+- **Polish:** x
 
 ### Alternative Forms
 Null

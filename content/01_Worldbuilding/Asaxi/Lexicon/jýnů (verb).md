@@ -35,8 +35,12 @@ IPA: /Ʝɪnuu̯/
 - Polish: rozmawiać, gadać
 
 ### Example sentence
-**To John zá kjèpa jýnů.**
-_John is talking with the trees._
+
+#### Example 1
+
+- **Asaxi:** to john zá kjèpa jýnů.
+- **English:** John is talking with the trees.
+- **Polish:** x
 
 ### Alternative Forms
 Null

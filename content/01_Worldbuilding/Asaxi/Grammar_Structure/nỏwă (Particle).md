@@ -26,4 +26,9 @@ IPA: /nou̯waɪ/
 
 ### Example sentence
 
-**To wo xoxo nỏwă.** _I don't want to leave._
+
+#### Example 1
+
+- **Asaxi:** to wo xoxo nỏwă.
+- **English:** I don't want to leave.
+- **Polish:** x

@@ -65,8 +65,21 @@ Derived from the noun **[[vivi (family of plants) (noun)|vivi]]** (Grass/Life) +
 - **vanů:** Use for housing. "I live in (inhabit) a block."
 
 ### Example sentences
-**To wo vivinů.** _I live._ / _I am alive._
 
-**To kjèpo vivinů.** _The tree lives._
+#### Example 1
 
-**To wo ŕo vanů, dzè vivinů.** _I live in a block, but I am alive._
+- **Asaxi:** to wo vivinů.
+- **English:** I live. / I am alive.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to kjèpo vivinů.
+- **English:** The tree lives.
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** to wo ŕo vanů, dzè vivinů.
+- **English:** I live in a block, but I am alive.
+- **Polish:** x

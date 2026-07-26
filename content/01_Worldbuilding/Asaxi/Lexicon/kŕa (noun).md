@@ -31,8 +31,12 @@ IPA: /kɾa/
 - Polish: cierń
 
 ### Example sentence
-**To wo kŕa aichů.**
-_I am pricked by a thorn._
+
+#### Example 1
+
+- **Asaxi:** to wo kŕa aichů.
+- **English:** I am pricked by a thorn.
+- **Polish:** x
 
 ### Alternative Forms
 Null

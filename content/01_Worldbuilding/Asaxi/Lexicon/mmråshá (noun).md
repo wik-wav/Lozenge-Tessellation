@@ -32,8 +32,12 @@ IPA: /m̩ɹau̯ʃɑ/
 - Polish: kot
 
 ### Example sentence
-**To mmråshá ỏbỏ nanů.**
-_The cat sits on the cushion._
+
+#### Example 1
+
+- **Asaxi:** to mmråshá ỏbỏ nanů.
+- **English:** The cat sits on the cushion.
+- **Polish:** x
 
 ### Alternative Forms
 x

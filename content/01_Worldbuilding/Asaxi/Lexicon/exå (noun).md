@@ -31,11 +31,18 @@ IPA: /eɦau̯/
 - Polish: uśmiech
 
 ### Example sentence
-**To wo exå ma.**
-_I have a smile._ (I am smiling).
 
-**To ko exånů.**
-_She smiles._
+#### Example 1
+
+- **Asaxi:** to wo exå ma.
+- **English:** I have a smile. (I am smiling).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to ko exånů.
+- **English:** She smiles.
+- **Polish:** x
 
 ### Alternative Forms
 x

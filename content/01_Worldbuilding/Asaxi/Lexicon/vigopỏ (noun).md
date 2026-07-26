@@ -31,8 +31,12 @@ IPA: /b̪viɡo̞pou̯/
 - Polish: mąka
 
 ### Example sentence
-**Vigopỏ ni săano ůků.**
-_Flour becomes bread._
+
+#### Example 1
+
+- **Asaxi:** vigopỏ ni săano ůků.
+- **English:** Flour becomes bread.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /bɯɾo̞/
 
 ### Example sentence
 
-**Va kŕahjákae bùŕo.**
-_In the raspberry thicket._
+
+#### Example 1
+
+- **Asaxi:** va kŕahjákae bùŕo.
+- **English:** In the raspberry thicket.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

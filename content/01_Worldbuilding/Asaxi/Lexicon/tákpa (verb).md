@@ -39,8 +39,12 @@ IPA: /t̪ɑkpa/
 - Polish: atakować
 
 ### Example sentence
-**Mùko tètáshá tákpa.**
-_The bull attacks the enemy._
+
+#### Example 1
+
+- **Asaxi:** mùko tètáshá tákpa.
+- **English:** The bull attacks the enemy.
+- **Polish:** x
 
 ### Alternative Forms
 Null

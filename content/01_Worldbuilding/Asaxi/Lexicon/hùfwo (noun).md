@@ -30,7 +30,12 @@ IPA: /xɯwfʷo/
 - Polish: niepewność, zaciemnienie
 
 ### Example sentence
-**Wo hùfwo sùki.** _I like uncertainty._ (Lit: I like the under-fog).
+
+#### Example 1
+
+- **Asaxi:** wo hùfwo sùki.
+- **English:** I like uncertainty. (Lit: I like the under-fog).
+- **Polish:** x
 
 ### Alternative Forms
 x

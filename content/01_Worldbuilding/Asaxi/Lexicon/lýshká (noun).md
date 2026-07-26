@@ -31,8 +31,12 @@ IPA: /lɪʃkɑ/
 - Polish: łyżka
 
 ### Example sentence
-**Lýshká chỏŕono kma.**
-_A spoon scoops the soup._
+
+#### Example 1
+
+- **Asaxi:** lýshká chỏŕono kma.
+- **English:** A spoon scoops the soup.
+- **Polish:** x
 
 ### Alternative Forms
 Null

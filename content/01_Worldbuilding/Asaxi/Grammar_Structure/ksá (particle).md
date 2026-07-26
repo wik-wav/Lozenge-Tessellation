@@ -31,13 +31,22 @@ Derived from the question prefix **k-** + **[[zá (particle)|zá]]** (With/Comit
 
 ### Example sentence
 
-**John ksá shěsonů?** _How does John read?_ (e.g., By what method/tool).
+
+#### Example 1
+
+- **Asaxi:** john ksá shěsonů?
+- **English:** How does John read? (e.g., By what method/tool).
+- **Polish:** x
 
 ### Example Sentence 2
 
-> **Xő bwona pỏnă zèbů — ksá pỏpỏ ů naŕè.**
-> "He was fat and bunchy, as a rabbit should be."
+
+#### Example 1
+
+- **Asaxi:** xő bwona pỏnă zèbů — ksá pỏpỏ ů naŕè.
+- **English:** He was fat and bunchy, as a rabbit should be.
+- **Polish:** x
 
 ### Usage Note
 
-**Sense 2 ("like, as").** In declarative contexts **ksá** introduces a manner standard ("in the manner of / the way that..."), extending the indirect use of wh-words ([[25_Interrogative Pronouns (Wh-Words)]] §4). Also: `ksá anő ihjáka-ỏbỏ` ("like a pincushion"), `ksá pă pỏpa` ("as the other rabbits did"). First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+**Sense 2 ("like, as").** In declarative contexts **ksá** introduces a manner standard ("in the manner of / the way that..."), extending the indirect use of wh-words ([[25_Interrogative Pronouns (Wh-Words)]] §4). Also: `ksá anő ihjáka-ỏbỏ` ("like a pincushion"), `ksá pă pỏpa` ("as the other rabbits did"). First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

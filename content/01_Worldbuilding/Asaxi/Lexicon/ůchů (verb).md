@@ -35,8 +35,12 @@ IPA: /uu̯tʃuu̯/
 - Polish: czuć się
 
 ### Example sentence
-**To wo dănă ůchů.** 
-_I feel heavy/big._ (Subjective sensation).
+
+#### Example 1
+
+- **Asaxi:** to wo dănă ůchů.
+- **English:** I feel heavy/big. (Subjective sensation).
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /pʲo̞bi/
 - Polish: świeca
 
 ### Example sentence
-**Pjobi pjo ůŕů.**
-_A candle gives off light._
+
+#### Example 1
+
+- **Asaxi:** pjobi pjo ůŕů.
+- **English:** A candle gives off light.
+- **Polish:** x
 
 ### Alternative Forms
 Null

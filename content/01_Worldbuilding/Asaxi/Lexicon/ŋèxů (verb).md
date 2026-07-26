@@ -36,8 +36,12 @@ IPA: /ŋəxɯ/
 - Polish: zacieniać, przesłaniać
 
 ### Example sentence
-**Mao xi ŋèxů.**
-_The moon occludes the sun._
+
+#### Example 1
+
+- **Asaxi:** mao xi ŋèxů.
+- **English:** The moon occludes the sun.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -39,8 +39,12 @@ IPA: /ɦoɡaɪɲi/
 - Polish: dotrzeć do, osiągnąć (stan), dojść do
 
 ### Example sentence
-**To wo gavină xogăni.**
-_I reach a good state / I arrive at wellness._
+
+#### Example 1
+
+- **Asaxi:** to wo gavină xogăni.
+- **English:** I reach a good state / I arrive at wellness.
+- **Polish:** x
 
 ### Alternative Forms
 Null

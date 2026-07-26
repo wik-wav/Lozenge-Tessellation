@@ -31,8 +31,12 @@ IPA: /ɾo̞bi/
 - Polish: drut
 
 ### Example sentence
-**Ŕobi pjo kma.**
-_A wire carries the current._
+
+#### Example 1
+
+- **Asaxi:** ŕobi pjo kma.
+- **English:** A wire carries the current.
+- **Polish:** x
 
 ### Alternative Forms
 Null

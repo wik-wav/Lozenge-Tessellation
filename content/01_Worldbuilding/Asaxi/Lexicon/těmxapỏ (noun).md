@@ -31,8 +31,12 @@ IPA: /t̪əmɦapou̯/
 - Polish: kaptur
 
 ### Example sentence
-**Sèwo topo, to těmxapỏ těněn naŕa.**
-_When (it) rains, a hood is on the head._
+
+#### Example 1
+
+- **Asaxi:** sèwo topo, to těmxapỏ těněn naŕa.
+- **English:** When (it) rains, a hood is on the head.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /kamɾuw/
 - Polish: budować
 
 ### Example sentence
-**Wa waokam kamŕů.**
-_We build a home._
+
+#### Example 1
+
+- **Asaxi:** wa waokam kamŕů.
+- **English:** We build a home.
+- **Polish:** x
 
 ### Alternative Forms
 Null

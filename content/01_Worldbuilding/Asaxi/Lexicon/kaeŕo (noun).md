@@ -31,8 +31,12 @@ IPA: /kae̞ɾo̞/
 - Polish: sad
 
 ### Example sentence
-**Kaeŕo kae ma.**
-_The orchard bears fruit._
+
+#### Example 1
+
+- **Asaxi:** kaeŕo kae ma.
+- **English:** The orchard bears fruit.
+- **Polish:** x
 
 ### Alternative Forms
 Null

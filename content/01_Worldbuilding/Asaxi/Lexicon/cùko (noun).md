@@ -31,8 +31,12 @@ IPA: /t̻͡s̪ɯko̞/
 - Polish: cegła
 
 ### Example sentence
-**Bakam cùko izoŕa.**
-_A wall is made of brick._
+
+#### Example 1
+
+- **Asaxi:** bakam cùko izoŕa.
+- **English:** A wall is made of brick.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /fkamnɪj/
 - Polish: udomowiony, zależny, niesamodzielny
 
 ### Example sentence
-**To John fkamnýj shá xiŕa.**
-_John is a dependent (domesticated) person._
+
+#### Example 1
+
+- **Asaxi:** to john fkamnýj shá xiŕa.
+- **English:** John is a dependent (domesticated) person.
+- **Polish:** x
 
 ### Alternative Forms
 Null

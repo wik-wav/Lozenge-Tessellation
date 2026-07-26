@@ -39,8 +39,12 @@ IPA: /ɦapo̞/
 - Polish: podnosić
 
 ### Example sentence
-**Wo go xapo.**
-_I lift the stone._
+
+#### Example 1
+
+- **Asaxi:** wo go xapo.
+- **English:** I lift the stone.
+- **Polish:** x
 
 ### Alternative Forms
 Null

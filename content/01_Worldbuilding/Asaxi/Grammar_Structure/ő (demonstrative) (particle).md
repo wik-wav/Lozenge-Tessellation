@@ -27,11 +27,18 @@ Used to demonstrate a method or style. It typically appears immediately before t
 IPA: /oɪ/
 
 ### Example sentence
-**Teacher:** **Ő hèshěsonů!**
-_Read like this!_ (Emphatic command).]), shěsonů (verb)]
 
-**Student:** **To wo ő xů.**
-_I do (it) like this._
+#### Example 1
+
+- **Asaxi:** teacher: ő hèshěsonů!
+- **English:** Read like this! (Emphatic command).]), shěsonů (verb)]
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** student: to wo ő xů.
+- **English:** I do (it) like this.
+- **Polish:** x
 
 ### Etymology
 Likely derived from **[[o (proximal locative) (particle)|o]]** (Here) + a manner suffix or vowel shift.

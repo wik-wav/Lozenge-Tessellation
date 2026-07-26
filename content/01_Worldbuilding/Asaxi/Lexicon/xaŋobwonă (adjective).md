@@ -35,8 +35,12 @@ IPA: /ɦaŋobʷonaɪ/
 - Polish: chorobliwie otyły
 
 ### Example sentence
-**To John xaŋobwonă shá xiŕa.**
-_John is a morbidly obese person._
+
+#### Example 1
+
+- **Asaxi:** to john xaŋobwonă shá xiŕa.
+- **English:** John is a morbidly obese person.
+- **Polish:** x
 
 ### Alternative Forms
 Null

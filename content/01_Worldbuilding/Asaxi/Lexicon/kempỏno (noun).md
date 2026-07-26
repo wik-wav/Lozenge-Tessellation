@@ -31,8 +31,12 @@ IPA: /ke̞mpou̯no̞/
 - Polish: zasłona
 
 ### Example sentence
-**Kempỏno pjokem nanů.**
-_A curtain is on the window._
+
+#### Example 1
+
+- **Asaxi:** kempỏno pjokem nanů.
+- **English:** A curtain is on the window.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -30,9 +30,12 @@ IPA: /daɪt̪ɑwa.o/
 - Polish: świat naturalny, przyroda, natura
 
 ### Example sentence
-**Sè dătáwao wănani tètáka tte, vivi xiŕa.** 
-`of` `nature` `many` `fights` `QT/TOP`, `life` `IS` 
-_"Nature's many conflicts... that is life."_
+
+#### Example 1
+
+- **Asaxi:** sè dătáwao wănani tètáka tte, vivi xiŕa.     ,
+- **English:** Gloss: of nature many fights QT/TOP life IS: Nature's many conflicts... that is life.
+- **Polish:** x
 
 ### Alternative Forms
 Null

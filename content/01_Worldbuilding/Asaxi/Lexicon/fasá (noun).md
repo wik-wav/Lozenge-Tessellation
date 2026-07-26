@@ -31,8 +31,12 @@ IPA: /fasɑ/
 - Polish: fasola
 
 ### Example sentence
-**Fasá chỏno.**
-_Beans are food._
+
+#### Example 1
+
+- **Asaxi:** fasá chỏno.
+- **English:** Beans are food.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /vaɪnɪj/
 - Polish: wolny, powolny
 
 ### Example sentence
-**To ŕèzishá vănýj ů.**
-_The lizard is slow._
+
+#### Example 1
+
+- **Asaxi:** to ŕèzishá vănýj ů.
+- **English:** The lizard is slow.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -39,8 +39,12 @@ IPA: /fɯsa/
 - Polish: wycierać
 
 ### Example sentence
-**Wo ijnawo fùsa.**
-_I wipe the mirror._
+
+#### Example 1
+
+- **Asaxi:** wo ijnawo fùsa.
+- **English:** I wipe the mirror.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -39,8 +39,12 @@ IPA: /b̪vat̪a/
 - Polish: napełniać
 
 ### Example sentence
-**Wo ŕobo vata.**
-_I fill the bottle._
+
+#### Example 1
+
+- **Asaxi:** wo ŕobo vata.
+- **English:** I fill the bottle.
+- **Polish:** x
 
 ### Alternative Forms
 Null

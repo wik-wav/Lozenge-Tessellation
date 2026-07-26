@@ -41,8 +41,12 @@ IPA: /poponɪj/
 - English: palely
 
 ### Example sentence
-**To piva poponýj bů.**
-_The flower has faded to a pale pink._
+
+#### Example 1
+
+- **Asaxi:** to piva poponýj bů.
+- **English:** The flower has faded to a pale pink.
+- **Polish:** x
 
 ### Alternative Forms
 Null

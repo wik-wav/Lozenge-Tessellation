@@ -31,8 +31,12 @@ IPA: /t̠ʃou̯/
 - Polish: paszcza, głód
 
 ### Example sentence
-John gadăchỏ ma.
-John possesses elephantine hunger.
+
+#### Example 1
+
+- **Asaxi:** john gadăchỏ ma.
+- **English:** John possesses elephantine hunger.
+- **Polish:** x
 
 ### Alternative Forms
 x

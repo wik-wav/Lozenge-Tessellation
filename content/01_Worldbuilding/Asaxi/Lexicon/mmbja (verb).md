@@ -39,8 +39,12 @@ IPA: /m̩bʲa/
 - Polish: podziwiać
 
 ### Example sentence
-**Wo jovi mmbja.**
-_I admire the beauty._
+
+#### Example 1
+
+- **Asaxi:** wo jovi mmbja.
+- **English:** I admire the beauty.
+- **Polish:** x
 
 ### Alternative Forms
 Null

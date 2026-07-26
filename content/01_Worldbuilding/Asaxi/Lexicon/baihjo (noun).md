@@ -31,8 +31,12 @@ IPA: /baiço̞/
 - Polish: żebro
 
 ### Example sentence
-**Baihjo kamshá vaŕa.**
-_The ribs are in the body._
+
+#### Example 1
+
+- **Asaxi:** baihjo kamshá vaŕa.
+- **English:** The ribs are in the body.
+- **Polish:** x
 
 ### Alternative Forms
 Null

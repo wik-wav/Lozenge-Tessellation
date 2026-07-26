@@ -42,8 +42,12 @@ IPA: /kɾɯnɪj/
 - English: dully (red)
 
 ### Example sentence
-**To go kŕùnýj bů.**
-_The rock has gone rusty-red._
+
+#### Example 1
+
+- **Asaxi:** to go kŕùnýj bů.
+- **English:** The rock has gone rusty-red.
+- **Polish:** x
 
 ### Alternative Forms
 Null

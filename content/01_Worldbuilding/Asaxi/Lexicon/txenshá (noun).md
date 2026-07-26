@@ -30,8 +30,12 @@ IPA: /tʰenʃɑ/
 - Polish: anioł
 
 ### Example sentence
-To txenshá txewa ma.
-The angel has wings.
+
+#### Example 1
+
+- **Asaxi:** to txenshá txewa ma.
+- **English:** The angel has wings.
+- **Polish:** x
 
 ### Alternative Forms
 x

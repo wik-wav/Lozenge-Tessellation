@@ -31,8 +31,12 @@ IPA: /fʷɯpou̯no/
 - Polish: żagiel
 
 ### Example sentence
-**To fwùpỏno fwù kma.**
-_The sail catches the wind._
+
+#### Example 1
+
+- **Asaxi:** to fwùpỏno fwù kma.
+- **English:** The sail catches the wind.
+- **Polish:** x
 
 ### Alternative Forms
 Null

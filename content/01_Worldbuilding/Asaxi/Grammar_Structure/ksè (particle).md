@@ -29,4 +29,9 @@ Derived from the question prefix **k-** + **[[sèwo (particle)|sè]]** (Root of 
 
 ### Example sentence
 
-**Ko ksè xoxo?** _Why does she depart?_
+
+#### Example 1
+
+- **Asaxi:** ko ksè xoxo?
+- **English:** Why does she depart?
+- **Polish:** x

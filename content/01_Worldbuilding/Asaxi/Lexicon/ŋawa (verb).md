@@ -39,8 +39,12 @@ IPA: /ŋaʋa/
 - Polish: pełzać, czołgać się
 
 ### Example sentence
-**Hjáhjá pùkŕo ŋawa.**
-_The baby crawls on the floor._
+
+#### Example 1
+
+- **Asaxi:** hjáhjá pùkŕo ŋawa.
+- **English:** The baby crawls on the floor.
+- **Polish:** x
 
 ### Alternative Forms
 Null

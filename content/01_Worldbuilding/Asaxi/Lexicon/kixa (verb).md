@@ -39,8 +39,12 @@ IPA: /kiɦa/
 - Polish: ciągnąć
 
 ### Example sentence
-**Wo gùŕo kixa.**
-_I pull the rope._
+
+#### Example 1
+
+- **Asaxi:** wo gùŕo kixa.
+- **English:** I pull the rope.
+- **Polish:** x
 
 ### Alternative Forms
 Null

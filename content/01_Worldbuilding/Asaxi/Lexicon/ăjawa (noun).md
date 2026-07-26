@@ -31,8 +31,12 @@ IPA: /aɪjawa/
 - Polish: okrzyk bojowy
 
 ### Example sentence
-**To wo ăjawa minů.**
-_I hear the war cry._
+
+#### Example 1
+
+- **Asaxi:** to wo ăjawa minů.
+- **English:** I hear the war cry.
+- **Polish:** x
 
 ### Alternative Forms
 Null

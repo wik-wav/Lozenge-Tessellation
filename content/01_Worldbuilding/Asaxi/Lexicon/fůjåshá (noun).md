@@ -29,8 +29,12 @@ IPA: /fuu̯jau̯ʃɑ/
 - Polish: człowiek spełniony, mędzec
 
 ### Example sentence
-**To fůjåshá frë ma.**
-_The wantless person has freedom._
+
+#### Example 1
+
+- **Asaxi:** to fůjåshá frë ma.
+- **English:** The wantless person has freedom.
+- **Polish:** x
 
 ### Alternative Forms
 Null

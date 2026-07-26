@@ -30,8 +30,12 @@ IPA: /ou̯wo/
 - Polish: środek, centrum / południe
 
 ### Example sentence
-**To ỏwo gavi xiŕa.**
-_The center is green._
+
+#### Example 1
+
+- **Asaxi:** to ỏwo gavi xiŕa.
+- **English:** The center is green.
+- **Polish:** x
 
 ### Alternative Forms
 Null

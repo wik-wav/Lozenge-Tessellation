@@ -31,8 +31,12 @@ IPA: /fɹeɪ/
 - Polish: wolność, swoboda
 
 ### Example sentence
-**To sháma frë jå.**
-_The people want freedom._
+
+#### Example 1
+
+- **Asaxi:** to sháma frë jå.
+- **English:** The people want freedom.
+- **Polish:** x
 
 ### Alternative Forms
 x

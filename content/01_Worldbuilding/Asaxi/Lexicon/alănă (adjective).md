@@ -41,9 +41,12 @@ IPA: /alaɪnaɪ/
 - Polish: luźno, swobodnie
 
 ### Example sentence
-**As an adjective:**
-- John alănă shá xiŕa.
-John is a loose (carefree) person.
+
+#### Example 1
+
+- **Asaxi:** john alănă shá xiŕa.
+- **English:** Adjective: John is a loose (carefree) person.
+- **Polish:** x
 
 ### Alternative Forms
 x

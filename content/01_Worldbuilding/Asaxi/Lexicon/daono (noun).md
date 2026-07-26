@@ -31,8 +31,12 @@ IPA: /daono/
 - Polish: podarunek, dar, prezent
 
 ### Example sentence
-**O-daono då no.**
-_This gift is for you._
+
+#### Example 1
+
+- **Asaxi:** o-daono då no.
+- **English:** This gift is for you.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /t̪ət̪ɑjɪnuu̯/
 - Polish: narzekać
 
 ### Example sentence
-**Jamishá tètájýnů.**
-_The sick one complains._
+
+#### Example 1
+
+- **Asaxi:** jamishá tètájýnů.
+- **English:** The sick one complains.
+- **Polish:** x
 
 ### Alternative Forms
 Null

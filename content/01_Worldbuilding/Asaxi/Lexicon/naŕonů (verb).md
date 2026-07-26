@@ -36,8 +36,12 @@ IPA: /naɾonuu̯/
 - Polish: mieszać, łączyć, mnożyć
 
 ### Example sentence
-**To wo pigùmenn zá ŕoŕo naŕonů.**
-_I mix the pigment with water._]), ŕoŕo (noun).md]
+
+#### Example 1
+
+- **Asaxi:** to wo pigùmenn zá ŕoŕo naŕonů.
+- **English:** I mix the pigment with water.]), ŕoŕo (noun).md]
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -39,8 +39,12 @@ IPA: /t̪o̞ko̞/
 - Polish: pukać
 
 ### Example sentence
-**Wo kem toko.**
-_I knock on the door._
+
+#### Example 1
+
+- **Asaxi:** wo kem toko.
+- **English:** I knock on the door.
+- **Polish:** x
 
 ### Alternative Forms
 Null

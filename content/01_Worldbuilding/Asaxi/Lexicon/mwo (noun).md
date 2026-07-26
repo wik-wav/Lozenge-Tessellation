@@ -31,8 +31,12 @@ IPA: /mʷo/
 - Polish: mięso
 
 ### Example sentence
-**To wo mwo chỏnů.**
-_I eat meat._
+
+#### Example 1
+
+- **Asaxi:** to wo mwo chỏnů.
+- **English:** I eat meat.
+- **Polish:** x
 
 ### Alternative Forms
 Null

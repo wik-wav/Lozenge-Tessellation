@@ -31,8 +31,12 @@ IPA: /kiki/
 - Polish: małpa
 
 ### Example sentence
-**Kiki kjèpo xona.**
-_The monkey climbs the tree._
+
+#### Example 1
+
+- **Asaxi:** kiki kjèpo xona.
+- **English:** The monkey climbs the tree.
+- **Polish:** x
 
 ### Alternative Forms
 Null

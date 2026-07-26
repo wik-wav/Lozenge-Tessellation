@@ -68,6 +68,15 @@ While **bwonů** is the default state ("being fat"), specific infixes change the
 - **bwoshů** (`-sh-`): Privative. "To lose weight / To strip fat."
 
 ### Example sentences
-**State (`bwonů`):** **To Tom bwonů.** _Tom is fat._ (Current state).
 
-**Change of State (`bwoŕů`):** **Tom pizza nanå chỏnů chě, pabwoŕů.** _If Tom eats pizza often, he will get fat (generate fat)._
+#### Example 1
+
+- **Asaxi:** state (): to tom bwonů.
+- **English:** Gloss: bwonů: Tom is fat. (Current state).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** tom pizza nanå chỏnů chě, pabwoŕů.
+- **English:** Change of State (`bwoŕů`): If Tom eats pizza often, he will get fat (generate fat).
+- **Polish:** x

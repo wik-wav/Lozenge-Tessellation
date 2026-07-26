@@ -31,8 +31,12 @@ IPA: /ɦaɡiɹo̞/
 - Polish: miedź
 
 ### Example sentence
-**Xagiro gaxagi.**
-_Copper is orange._
+
+#### Example 1
+
+- **Asaxi:** xagiro gaxagi.
+- **English:** Copper is orange.
+- **Polish:** x
 
 ### Alternative Forms
 Null

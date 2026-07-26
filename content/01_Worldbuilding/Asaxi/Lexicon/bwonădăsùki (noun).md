@@ -31,8 +31,12 @@ IPA: /bʷonaɪdaɪsɯki/
 - Polish: uwielbienie, adoracja
 
 ### Example sentence
-**Wo då hjá bwonădăsùki ma.**
-_I have adoration for the child._
+
+#### Example 1
+
+- **Asaxi:** wo då hjá bwonădăsùki ma.
+- **English:** I have adoration for the child.
+- **Polish:** x
 
 ### Alternative Forms
 Null

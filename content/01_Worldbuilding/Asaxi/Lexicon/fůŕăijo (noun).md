@@ -30,8 +30,12 @@ IPA: /fuu̯ɾaɪiꞲo/
 - Polish: słabość, niemoc
 
 ### Example sentence
-**To wo fůŕăijonů.**
-_I am weak._
+
+#### Example 1
+
+- **Asaxi:** to wo fůŕăijonů.
+- **English:** I am weak.
+- **Polish:** x
 
 ### Alternative Forms
 Null

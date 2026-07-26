@@ -50,8 +50,12 @@ It is important to distinguish frequency from total quantity.
 
 ### Example sentence
 
-Wo ximă shěsonů.
-I read every day.
+
+#### Example 1
+
+- **Asaxi:** wo ximă shěsonů.
+- **English:** I read every day.
+- **Polish:** x
 
 ### Alternative Forms
 **-mă** (Suffix form).

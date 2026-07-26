@@ -31,8 +31,12 @@ IPA: /oo/
 - Polish: dziś, ten dzień
 
 ### Example sentence
-**To oo gavină xiŕa.**
-_Today (this day) is good._
+
+#### Example 1
+
+- **Asaxi:** to oo gavină xiŕa.
+- **English:** Today (this day) is good.
+- **Polish:** x
 
 ### Alternative Forms
 Null

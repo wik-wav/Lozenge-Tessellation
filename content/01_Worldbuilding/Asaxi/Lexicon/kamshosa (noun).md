@@ -31,8 +31,12 @@ IPA: /kamʃo̞sa/
 - Polish: ulica
 
 ### Example sentence
-**Shá kamshosa nanů.**
-_People are on the street._
+
+#### Example 1
+
+- **Asaxi:** shá kamshosa nanů.
+- **English:** People are on the street.
+- **Polish:** x
 
 ### Alternative Forms
 Null

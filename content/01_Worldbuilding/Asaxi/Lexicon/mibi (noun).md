@@ -31,8 +31,12 @@ IPA: /mibi/
 - Polish: kolczyk
 
 ### Example sentence
-**Mibi mimi naŕa.**
-_An earring is on the ear._
+
+#### Example 1
+
+- **Asaxi:** mibi mimi naŕa.
+- **English:** An earring is on the ear.
+- **Polish:** x
 
 ### Alternative Forms
 Null

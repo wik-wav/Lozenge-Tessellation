@@ -36,8 +36,12 @@ IPA: /t̪aɪbiɾuw/
 - Polish: rysować, szkicować
 
 ### Example sentence
-**To wo o-shá tăbiŕů.**
-_I draw this person._
+
+#### Example 1
+
+- **Asaxi:** to wo o-shá tăbiŕů.
+- **English:** I draw this person.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -30,8 +30,12 @@ IPA: /papʷo/
 - Polish: pojutrze
 
 ### Example sentence
-**To wo papwo paxoxo.**
-_I will depart the day after tomorrow._
+
+#### Example 1
+
+- **Asaxi:** to wo papwo paxoxo.
+- **English:** I will depart the day after tomorrow.
+- **Polish:** x
 
 ### Alternative Forms
 Null

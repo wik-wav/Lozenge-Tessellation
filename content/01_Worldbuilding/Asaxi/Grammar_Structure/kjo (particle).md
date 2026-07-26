@@ -29,4 +29,9 @@ Derived from the question prefix **k-** + **[[jo (particle)|jo]]** (It). _Lit:_ 
 
 ### Example sentence
 
-**No kjo ijo?** _What do you see?_
+
+#### Example 1
+
+- **Asaxi:** no kjo ijo?
+- **English:** What do you see?
+- **Polish:** x

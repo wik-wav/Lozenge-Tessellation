@@ -32,8 +32,12 @@ IPA: /bao/
 - Polish: jajko
 
 ### Example sentence
-**To wo bao chỏnů.**
-_I eat the egg._
+
+#### Example 1
+
+- **Asaxi:** to wo bao chỏnů.
+- **English:** I eat the egg.
+- **Polish:** x
 
 ### Alternative Forms
 x

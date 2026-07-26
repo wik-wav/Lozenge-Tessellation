@@ -39,8 +39,12 @@ IPA: /kɾama/
 - Polish: maszerować
 
 ### Example sentence
-**Tákashá kŕama.**
-_The soldiers march._
+
+#### Example 1
+
+- **Asaxi:** tákashá kŕama.
+- **English:** The soldiers march.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /b̪vino̞/
 - Polish: wino
 
 ### Example sentence
-**Vino ŕono.**
-_Wine is a drink._
+
+#### Example 1
+
+- **Asaxi:** vino ŕono.
+- **English:** Wine is a drink.
+- **Polish:** x
 
 ### Alternative Forms
 Null

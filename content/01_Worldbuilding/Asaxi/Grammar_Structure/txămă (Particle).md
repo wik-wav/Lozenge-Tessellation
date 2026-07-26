@@ -26,8 +26,12 @@ IPA: /tʰaɪmaɪ/
 
 ### Example sentence
 
-To wa txămă xoxo.
-We depart yearly.
+
+#### Example 1
+
+- **Asaxi:** to wa txămă xoxo.
+- **English:** We depart yearly.
+- **Polish:** x
 
 ### Alternative Forms
 

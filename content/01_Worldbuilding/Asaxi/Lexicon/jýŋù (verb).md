@@ -39,8 +39,12 @@ IPA: /jɪŋɯ/
 - Polish: dzwonić
 
 ### Example sentence
-**Jýŋgo jýŋù.**
-_The bell rings._
+
+#### Example 1
+
+- **Asaxi:** jýŋgo jýŋù.
+- **English:** The bell rings.
+- **Polish:** x
 
 ### Alternative Forms
 Null

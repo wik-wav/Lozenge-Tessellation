@@ -38,8 +38,12 @@ IPA: /pɯɾima/
 - Polish: podejrzewać, przypuszczać (słabo), nie być pewnym
 
 ### Example sentence
-**To wo tte pùŕima.**
-_I suspect so (weakly)._ / _I'm not sure._
+
+#### Example 1
+
+- **Asaxi:** to wo tte pùŕima.
+- **English:** I suspect so (weakly)._ / _I'm not sure.
+- **Polish:** x
 
 ### Alternative Forms
 Null

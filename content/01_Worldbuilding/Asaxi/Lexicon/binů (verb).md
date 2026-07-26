@@ -35,8 +35,12 @@ IPA: /binuu̯/
 - Polish: wyrównać, ustawić w linii
 
 ### Example sentence
-**To wo shěsa binů.**
-_I align the books._
+
+#### Example 1
+
+- **Asaxi:** to wo shěsa binů.
+- **English:** I align the books.
+- **Polish:** x
 
 ### Alternative Forms
 Null

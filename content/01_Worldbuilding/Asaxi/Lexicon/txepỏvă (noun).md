@@ -36,8 +36,12 @@ IPA: /tʰe̞pou̯b̪vaɪ/
 
 ### Example sentence
 
-**Xő ỏ txepỏvă hjinýj zèbabů.**
-_He sat still in the bracken._
+
+#### Example 1
+
+- **Asaxi:** xő ỏ txepỏvă hjinýj zèbabů.
+- **English:** He sat still in the bracken.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

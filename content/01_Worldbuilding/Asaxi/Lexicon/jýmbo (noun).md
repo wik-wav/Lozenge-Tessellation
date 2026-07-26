@@ -31,8 +31,12 @@ IPA: /jɪmbo̞/
 - Polish: bęben
 
 ### Example sentence
-**Jýmbo jýno ůŕů.**
-_A drum makes a sound._
+
+#### Example 1
+
+- **Asaxi:** jýmbo jýno ůŕů.
+- **English:** A drum makes a sound.
+- **Polish:** x
 
 ### Alternative Forms
 Null

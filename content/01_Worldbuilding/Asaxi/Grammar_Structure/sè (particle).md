@@ -26,14 +26,19 @@ aliases:
 
 IPA: /sə/
 
-### Example sentence
+### Example sentences
 
-1. **Standard Possession:** 
-	**Sè** John. _Of John / John's._
+#### Example 1
 
-2. **Nested Structure:** 
-	To wo **sè** John gavishěso ijo. 
-	_I see John's green-book._
+- **Asaxi:** sè john.
+- **English:** Standard possession: Of John / John's.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo sè john gavishěso ijo.
+- **English:** Nested structure: I see John's green book.
+- **Polish:** x
 
 ### Derived terms
 

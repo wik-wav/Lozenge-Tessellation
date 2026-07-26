@@ -58,10 +58,15 @@ Null
 - **xonashá** (agent noun) *(potential)*
 
 ### Example sentences
-**Intransitive:**
-**To jhecè xona.**
-_The jet ascends._
 
-**Transitive:**
-**To wo të xona.**
-_I raise (my) hand._
+#### Example 1
+
+- **Asaxi:** to jhecè xona.
+- **English:** Intransitive: The jet ascends.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo të xona.
+- **English:** Transitive: I raise (my) hand.
+- **Polish:** x

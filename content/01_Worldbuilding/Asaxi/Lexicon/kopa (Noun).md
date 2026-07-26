@@ -29,8 +29,12 @@ IPA: /kopa/
 - Polish: daleka przyszłość
 
 ### Example sentence
-**To kopa siŕo xiŕa.**
-_The distant future is the unknown._
+
+#### Example 1
+
+- **Asaxi:** to kopa siŕo xiŕa.
+- **English:** The distant future is the unknown.
+- **Polish:** x
 
 ### Alternative Forms
 Null

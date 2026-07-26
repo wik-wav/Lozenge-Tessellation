@@ -39,8 +39,12 @@ IPA: /t̻͡s̪oɪdao̞/
 - Polish: wyjaśniać
 
 ### Example sentence
-**Wo fjo cődao.**
-_I explain the idea._
+
+#### Example 1
+
+- **Asaxi:** wo fjo cődao.
+- **English:** I explain the idea.
+- **Polish:** x
 
 ### Alternative Forms
 Null

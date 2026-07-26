@@ -31,8 +31,12 @@ IPA: /səɾə/
 - Polish: ser
 
 ### Example sentence
-**Sèŕè sino izoŕa.**
-_Cheese is made from milk._
+
+#### Example 1
+
+- **Asaxi:** sèŕè sino izoŕa.
+- **English:** Cheese is made from milk.
+- **Polish:** x
 
 ### Alternative Forms
 Null

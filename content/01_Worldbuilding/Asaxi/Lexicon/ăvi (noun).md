@@ -31,8 +31,12 @@ IPA: /aɪvi/
 - Polish: poprawność, doskonałość, bezbłędność
 
 ### Example sentence
-**To wo ăvi jå.**
-_I want perfection._
+
+#### Example 1
+
+- **Asaxi:** to wo ăvi jå.
+- **English:** I want perfection.
+- **Polish:** x
 
 ### Alternative Forms
 Null

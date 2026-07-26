@@ -64,10 +64,15 @@ Derived from **[[ŕănabishá (noun)|ŕănabi(shá)]]** (Gazelle) + **-nă**.
 - **Source Agreement:** **Warm** (Root `ŕănabishá` is Warm).
 
 ### Example sentences
-**Adjective (Attribute):**
-**To John ŕănabină shá xiŕa.**
-_John is a fast person._
 
-**Adverb (Manner):**
-**To wo ŕănabină haśù.**
-_I run fast._ (Lit: I run gazelle-like).
+#### Example 1
+
+- **Asaxi:** to john ŕănabină shá xiŕa.
+- **English:** Adjective (Attribute): John is a fast person.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo ŕănabină haśù.
+- **English:** Adverb (Manner): I run fast. (Lit: I run gazelle-like).
+- **Polish:** x

@@ -21,9 +21,9 @@ tags:
 
 ### Usage Note
 
-Literally "**Until (the) re-uniting.**"
-* **Casual clipped form:** **Natăka!** ("(We) re-unite!")
-* Said to someone departing: **Gavină xoxo.** ("Depart well.")
+Literally "Until (the) re-uniting."
+* **Casual clipped form:** natăka! ("(We) re-unite!")
+* Said to someone departing: gavină xoxo. ("Depart well.")
 
 ### Structure
 `måmå` (TERM "until") + `na-` (ITER) + `tăka` (unite)
@@ -33,8 +33,12 @@ IPA: /mau̯mau̯ natɑka/
 
 ### Example sentence
 
-**Måmå natăka, ăjo John!**
-_"Until we meet again, John!"_
+
+#### Example 1
+
+- **Asaxi:** måmå natăka, ăjo john!
+- **English:** Until we meet again, John!
+- **Polish:** x
 
 ### Etymology
 
@@ -42,7 +46,7 @@ _"Until we meet again, John!"_
 
 ### Synonyms
 
-- **Natăka!** (casual)
+- natăka! (casual)
 
 ### Antonyms
 

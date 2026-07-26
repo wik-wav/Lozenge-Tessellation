@@ -36,8 +36,12 @@ IPA: /mənɯ/
 - Polish: zmniejszać, ujmować
 
 ### Example sentence
-**Zhý săa mënů.**
-_Cold lessens the heat._
+
+#### Example 1
+
+- **Asaxi:** zhý săa mënů.
+- **English:** Cold lessens the heat.
+- **Polish:** x
 
 ### Alternative Forms
 Null

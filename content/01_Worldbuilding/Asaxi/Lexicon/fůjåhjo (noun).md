@@ -30,8 +30,12 @@ IPA: /fuu̯jau̯ço/
 - Polish: zgubny cel, anty-przeznaczenie
 
 ### Example sentence
-**Toonă o-gă fůjåhjo xiŕa.**
-_This place is a false destination._
+
+#### Example 1
+
+- **Asaxi:** toonă o-gă fůjåhjo xiŕa.
+- **English:** This place is a false destination.
+- **Polish:** x
 
 ### Alternative Forms
 Null

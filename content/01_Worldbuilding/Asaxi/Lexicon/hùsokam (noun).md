@@ -36,8 +36,12 @@ IPA: /xɯso̞kam/
 
 ### Example sentence
 
-**Onă dăna lola, hjiny sëokùkiwa ja hùsokama.**
-_The big waves, the tiny crabs and the sand castles._
+
+#### Example 1
+
+- **Asaxi:** onă dăna lola, hjiny sëokùkiwa ja hùsokama.
+- **English:** The big waves, the tiny crabs and the sand castles.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

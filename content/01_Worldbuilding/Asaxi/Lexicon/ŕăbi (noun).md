@@ -31,8 +31,12 @@ IPA: /ɾaɪbi/
 - Polish: strzała
 
 ### Example sentence
-**Ŕăbi fnonů.**
-_The arrow flies._
+
+#### Example 1
+
+- **Asaxi:** ŕăbi fnonů.
+- **English:** The arrow flies.
+- **Polish:** x
 
 ### Alternative Forms
 Null

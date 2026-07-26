@@ -36,8 +36,12 @@ IPA: /ke̞mkanuu̯/
 - Polish: otwierać kluczem
 
 ### Example sentence
-**Wo kem kemkanů.**
-_I unlock the door._
+
+#### Example 1
+
+- **Asaxi:** wo kem kemkanů.
+- **English:** I unlock the door.
+- **Polish:** x
 
 ### Alternative Forms
 Null

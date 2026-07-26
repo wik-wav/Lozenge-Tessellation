@@ -31,8 +31,12 @@ IPA: /ɾo̞no̞kam/
 - Polish: karczma, gospoda
 
 ### Example sentence
-**Ŕono ŕonokam vanů.**
-_Drinks are at the inn._
+
+#### Example 1
+
+- **Asaxi:** ŕono ŕonokam vanů.
+- **English:** Drinks are at the inn.
+- **Polish:** x
 
 ### Alternative Forms
 Null

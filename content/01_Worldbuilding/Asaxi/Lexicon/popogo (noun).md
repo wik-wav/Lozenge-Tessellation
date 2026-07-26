@@ -36,8 +36,12 @@ IPA: /po̞po̞ɡo̞/
 
 ### Example sentence
 
-**Sè ko kampỏno popogo ja mè izoŕa.**
-_Her dress was of pearl and dewdrops._
+
+#### Example 1
+
+- **Asaxi:** sè ko kampỏno popogo ja mè izoŕa.
+- **English:** Her dress was of pearl and dewdrops.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

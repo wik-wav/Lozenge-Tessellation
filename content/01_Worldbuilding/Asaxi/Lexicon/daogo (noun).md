@@ -31,8 +31,12 @@ IPA: /daogo/
 - Polish: pieniądze, waluta
 
 ### Example sentence
-**Daogo maná.**
-_(I) have no money._
+
+#### Example 1
+
+- **Asaxi:** daogo maná.
+- **English:** (I) have no money.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /sau̯ɾau̯ʃɑ/
 - Polish: śpiewak, śpiewaczka
 
 ### Example sentence
-**To ko såŕåshá xiŕa.**
-_She is a singer._
+
+#### Example 1
+
+- **Asaxi:** to ko såŕåshá xiŕa.
+- **English:** She is a singer.
+- **Polish:** x
 
 ### Alternative Forms
 Null

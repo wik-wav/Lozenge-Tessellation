@@ -31,8 +31,12 @@ IPA: /daoɾo/
 - Polish: targ, rynek
 
 ### Example sentence
-**Mỏmå ni daoŕo aśù.**
-_Mother walks to the market._
+
+#### Example 1
+
+- **Asaxi:** mỏmå ni daoŕo aśù.
+- **English:** Mother walks to the market.
+- **Polish:** x
 
 ### Alternative Forms
 Null

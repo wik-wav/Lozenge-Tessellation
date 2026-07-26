@@ -32,8 +32,12 @@ IPA: /fgaɪɾo/
 - Polish: jezioro
 
 ### Example sentence
-**Morskie oko tte fgăŕo jëga pùŕa.**
-_Morskie oko is a lake below the mountains._
+
+#### Example 1
+
+- **Asaxi:** morskie oko tte fgăŕo jëga pùŕa.
+- **English:** Morskie oko is a lake below the mountains.
+- **Polish:** x
 
 ### Alternative Forms
 x

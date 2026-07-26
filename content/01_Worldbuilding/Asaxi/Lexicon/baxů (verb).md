@@ -18,7 +18,7 @@ tags:
 
 <span class="asaxi-script-alpha">baxů</span>
 ### Transitivity / Valency
-_monotransitive_ — the helped party is the direct object: **To ko wo zèbaxů.** ("She helped me.")
+_monotransitive_ — the helped party is the direct object: to ko wo zèbaxů. ("She helped me.")
 
 ### Lexical Aspect
 - **Durative (Activity)** — unfolds over time.
@@ -38,8 +38,12 @@ IPA: /baɦuw/
 - Polish: pomagać
 
 ### Example sentence
-**Ăjo! Baxůkă!**
-_"Hey! Help, please!"_
+
+#### Example 1
+
+- **Asaxi:** ăjo! baxůkă!
+- **English:** Hey! Help, please!
+- **Polish:** x
 
 ### Alternative Forms
 Null
@@ -59,6 +63,6 @@ Null
 ### Requesting Help — `baxůkă`, never `baxůhè`
 The everyday request is **always solicitative**:
 
-> **Baxůkă!** — "Help, please!"
+> baxůkă! — "Help, please!"
 
 The imperative **baxůhè** exists but carries a rare, marked nuance: *"you must help me"* — an assertion of dominance over the one being asked. **Cultural logic:** the one who asks for help is **situationally weaker** than the one asked, and Asaxi expects the grammar to display this. Using `hè` here reads as desperation past all politeness, or as arrogance. (See [[64_Conversational Repair & Exchange]], [[36_Polite Requests]].)

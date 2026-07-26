@@ -32,8 +32,12 @@ IPA: /pʰou̯pʰou̯ʃɑ/
 **pxỏpxỏsháma** (Living inflatables).
 
 ### Example sentence
-Lem ni pxỏpxỏshá ůků ken.
-Lem can transform into a living inflatable.
+
+#### Example 1
+
+- **Asaxi:** lem ni pxỏpxỏshá ůků ken.
+- **English:** Lem can transform into a living inflatable.
+- **Polish:** x
 
 ### Alternative Forms
 x

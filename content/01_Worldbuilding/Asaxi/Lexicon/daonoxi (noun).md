@@ -36,8 +36,12 @@ IPA: /dao̞no̞ɦi/
 
 ### Example sentence
 
-**Sè Daonoxi xinihè.**
-_On Christmas morning._
+
+#### Example 1
+
+- **Asaxi:** sè daonoxi xinihè.
+- **English:** On Christmas morning.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

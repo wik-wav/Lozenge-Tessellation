@@ -36,8 +36,12 @@ IPA: /tʰaɾaɪijo̞/
 
 ### Example sentence
 
-**Onă hjávakam-txaŕăijo ni xő hùzèxogă.**
-_The nursery magic had happened to him._
+
+#### Example 1
+
+- **Asaxi:** onă hjávakam-txaŕăijo ni xő hùzèxogă.
+- **English:** The nursery magic had happened to him.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

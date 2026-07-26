@@ -35,4 +35,9 @@ IPA: /ɾa/
 
 ### Example sentence
 
-**John shěsonů ŕa, Mary aśù.** _John reads and Mary walks._
+
+#### Example 1
+
+- **Asaxi:** john shěsonů ŕa, mary aśù.
+- **English:** John reads and Mary walks.
+- **Polish:** x

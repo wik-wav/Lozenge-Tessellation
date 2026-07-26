@@ -36,8 +36,12 @@ IPA: /t͡soɪt̪ɑꞲɪnuu̯/
 - Polish: kłócić się, spierać się
 
 ### Example sentence
-**To Tom zá John zècőtájýnů.**
-_Tom and John argued._
+
+#### Example 1
+
+- **Asaxi:** to tom zá john zècőtájýnů.
+- **English:** Tom and John argued.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /ou̯bou̯ɾo/
 - Polish: łóżko
 
 ### Example sentence
-**Onă hjá ni ỏbỏŕo aśù.**
-_The child walks to bed._
+
+#### Example 1
+
+- **Asaxi:** onă hjá ni ỏbỏŕo aśù.
+- **English:** The child walks to bed.
+- **Polish:** x
 
 ### Alternative Forms
 Null

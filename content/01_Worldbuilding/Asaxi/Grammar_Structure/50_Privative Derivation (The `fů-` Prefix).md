@@ -37,7 +37,7 @@ The prefix **fů-** creates **Nouns** that represent the specific concept of "La
 
 You cannot "possess" (`ma`) a lack. You must **perform** (`-nů`) it.
 
-- **Correct:** `To wo fůbåbånů.` ("I am muscleless." / I perform lack-of-muscle).
+- **Correct:** `to wo fůbåbånů.` ("I am muscleless." / I perform lack-of-muscle).
 
 ---
 
@@ -56,7 +56,7 @@ To define an object or person by their **physical composition** of "lacking X," 
 - _Components:_ `ga` (Type) + `fů` (Lack) + `båbå` (Muscle).
 - _Meaning:_ "Musclelessness (as a constitution)." / "The Atrophied Type."
 - _Sentence:_
-    > **To John gafůbåbåshá.** `SUBJ` `John` `muscleless-type` `person` `[Ø]` _"John is a muscleless person."_ _Nuance:_ John is physically built of "lack of muscle." It is a statement of his material reality.
+    > to john gafůbåbåshá. `SUBJ` `John` `muscleless-type` `person` `[Ø]` "John is a muscleless person." _Nuance:_ John is physically built of "lack of muscle." It is a statement of his material reality.
 
 **Contrast with Adjectives:**
 

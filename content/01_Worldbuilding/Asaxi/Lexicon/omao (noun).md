@@ -31,8 +31,12 @@ IPA: /oma.o/
 - Polish: dziś w nocy, ta noc
 
 ### Example sentence
-**Omao, to wa ŕimako ma.**
-_Tonight, we have a meditation session._
+
+#### Example 1
+
+- **Asaxi:** omao, to wa ŕimako ma.
+- **English:** Tonight, we have a meditation session.
+- **Polish:** x
 
 ### Alternative Forms
 Null

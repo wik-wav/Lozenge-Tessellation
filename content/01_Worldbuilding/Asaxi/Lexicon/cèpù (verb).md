@@ -39,8 +39,12 @@ IPA: /t̻͡s̪əpɯ/
 - Polish: zgadywać
 
 ### Example sentence
-**Wo cèpù.**
-_I take a guess._
+
+#### Example 1
+
+- **Asaxi:** wo cèpù.
+- **English:** I take a guess.
+- **Polish:** x
 
 ### Alternative Forms
 Null

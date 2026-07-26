@@ -39,8 +39,12 @@ IPA: /saz̪a/
 - Polish: trzeć, szorować
 
 ### Example sentence
-**Wo tobo saza.**
-_I rub the table._
+
+#### Example 1
+
+- **Asaxi:** wo tobo saza.
+- **English:** I rub the table.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -39,8 +39,12 @@ IPA: /aiɦa/
 - Polish: ranić
 
 ### Example sentence
-**Sxëbo wo aixa.**
-_The claw wounds me._
+
+#### Example 1
+
+- **Asaxi:** sxëbo wo aixa.
+- **English:** The claw wounds me.
+- **Polish:** x
 
 ### Alternative Forms
 Null

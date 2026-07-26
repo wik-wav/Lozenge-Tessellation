@@ -41,8 +41,12 @@ IPA: /fuu̯ɾaɪijo̞naɪ/
 - English: weakly
 
 ### Example sentence
-**To shá fůŕăijonă.**
-_The person is weak._
+
+#### Example 1
+
+- **Asaxi:** to shá fůŕăijonă.
+- **English:** The person is weak.
+- **Polish:** x
 
 ### Alternative Forms
 Null

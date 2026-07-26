@@ -31,8 +31,12 @@ IPA: /ɾo̞mako̞/
 - Polish: wiadro
 
 ### Example sentence
-**Ŕoŕo ŕomako vanů.**
-_Water is in the bucket._
+
+#### Example 1
+
+- **Asaxi:** ŕoŕo ŕomako vanů.
+- **English:** Water is in the bucket.
+- **Polish:** x
 
 ### Alternative Forms
 Null

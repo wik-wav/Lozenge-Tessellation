@@ -32,8 +32,12 @@ IPA: /ɾomaka/
 - Polish: kubek, filiżanka
 
 ### Example sentence
-**To wo ŕomaka ŕoŕonů.**
-_I drink the cup._
+
+#### Example 1
+
+- **Asaxi:** to wo ŕomaka ŕoŕonů.
+- **English:** I drink the cup.
+- **Polish:** x
 
 ### Alternative Forms
 x

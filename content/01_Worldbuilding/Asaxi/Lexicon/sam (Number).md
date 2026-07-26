@@ -23,7 +23,12 @@ tags:
 IPA: /sam/
 
 ### Example sentence
-**To wo sam apa ma.** _"I have eight apples."_
+
+#### Example 1
+
+- **Asaxi:** to wo sam apa ma.
+- **English:** I have eight apples.
+- **Polish:** x
 
 ### Derived terms
 - **bisam** (8th)

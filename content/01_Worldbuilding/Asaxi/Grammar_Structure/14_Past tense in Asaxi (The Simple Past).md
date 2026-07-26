@@ -44,7 +44,7 @@ When using the Universal Verbalizer (_-n-ů_), the noun root and the suffix are 
 The prefix is integral to the verb and does not change the word order of the sentence.
 
 **Standard (SOV):** `[to Subject] + [Object] + [zè-(Verb)]`
-- _Example:_ `To wo shěso zèshěsonů.` (I read the book).
+- _Example:_ `to wo shěso zèshěsonů.` (I read the book).
 **Minimal (Predicate Only):** `[zè-(Verb)]`
 - _Example:_ `Zèshěsonů.` (He/She/I read).
 **Stative Past (Was):** `[to Subject] + [Complement] + [zèb-ů]`

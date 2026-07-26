@@ -39,8 +39,12 @@ IPA: /jau̯ɦo̞/
 - Polish: zazdrościć
 
 ### Example sentence
-**Wo daogo jåxo.**
-_I envy the money._
+
+#### Example 1
+
+- **Asaxi:** wo daogo jåxo.
+- **English:** I envy the money.
+- **Polish:** x
 
 ### Alternative Forms
 Null

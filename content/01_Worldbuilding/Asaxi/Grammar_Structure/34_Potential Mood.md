@@ -47,11 +47,11 @@ _(Note: `ken.ná` fuses the negative `ná` to the particle, leaving the main ver
 
 **Example (Ability):**
 
-> **To wo shěsonů ken.** `SUBJ` `1SG` `read` `CAN` _"I can read."_ (I have the ability).
+> to wo shěsonů ken. `SUBJ` `1SG` `read` `CAN` "I can read." (I have the ability).
 
 **Example (Inability):**
 
-> **To wo shěsonů ken.ná.** `SUBJ` `1SG` `read` `CANNOT` _"I cannot read."_ (I lack the ability).
+> to wo shěsonů ken.ná. `SUBJ` `1SG` `read` `CANNOT` "I cannot read." (I lack the ability).
 
 ---
 
@@ -61,6 +61,6 @@ Because `ken` is sentence-final, it stacks _after_ the verb prefixes.
 
 **Comparison:**
 
-- **Permission (Prefix):** `To wo băhèshěsonů.` ("I am allowed to read").
-- **Ability (Particle):** `To wo shěsonů ken.` ("I am able to read").
-- **Combined:** `To wo băhèshěsonů ken.` ("I can be allowed to read" / "It is possible for me to get permission").
+- **Permission (Prefix):** `to wo băhèshěsonů.` ("I am allowed to read").
+- **Ability (Particle):** `to wo shěsonů ken.` ("I am able to read").
+- **Combined:** `to wo băhèshěsonů ken.` ("I can be allowed to read" / "It is possible for me to get permission").

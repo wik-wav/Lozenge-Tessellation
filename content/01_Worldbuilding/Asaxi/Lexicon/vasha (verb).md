@@ -39,8 +39,12 @@ IPA: /b̪vaʃa/
 - Polish: opróżniać
 
 ### Example sentence
-**Wo dămaka vasha.**
-_I empty the barrel._
+
+#### Example 1
+
+- **Asaxi:** wo dămaka vasha.
+- **English:** I empty the barrel.
+- **Polish:** x
 
 ### Alternative Forms
 Null

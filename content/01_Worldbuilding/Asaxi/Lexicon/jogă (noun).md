@@ -31,8 +31,12 @@ IPA: /jo̞ɡaɪ/
 - Polish: plac, rynek
 
 ### Example sentence
-**Shá ni jogă tănů.**
-_People gather at the square._
+
+#### Example 1
+
+- **Asaxi:** shá ni jogă tănů.
+- **English:** People gather at the square.
+- **Polish:** x
 
 ### Alternative Forms
 Null

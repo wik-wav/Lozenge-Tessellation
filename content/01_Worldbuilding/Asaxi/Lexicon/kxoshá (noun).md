@@ -32,8 +32,12 @@ IPA: /kʰoʃɑ/
 - Polish: żaba, ropucha
 
 ### Example sentence
-**Kxoshá chåxa.**
-_A frog leaps._
+
+#### Example 1
+
+- **Asaxi:** kxoshá chåxa.
+- **English:** A frog leaps.
+- **Polish:** x
 
 ### Alternative Forms
 x

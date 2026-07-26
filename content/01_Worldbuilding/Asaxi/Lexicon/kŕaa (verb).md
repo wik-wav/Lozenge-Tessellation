@@ -39,8 +39,12 @@ IPA: /kɾaa/
 - Polish: budzić się
 
 ### Example sentence
-**Wo xinihè kŕaa.**
-_I wake at dawn._
+
+#### Example 1
+
+- **Asaxi:** wo xinihè kŕaa.
+- **English:** I wake at dawn.
+- **Polish:** x
 
 ### Alternative Forms
 Null

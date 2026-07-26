@@ -35,7 +35,12 @@ IPA: /touu̯t͡ʃu/
 
 ### Example sentence
 
-**Xő wo nákőnů toůchů.** _It feels like he misunderstands me._ (Lit: He misunderstands me, [it]-feels-so).
+
+#### Example 1
+
+- **Asaxi:** xő wo nákőnů toůchů.
+- **English:** It feels like he misunderstands me. (Lit: He misunderstands me, [it]-feels-so).
+- **Polish:** x
 
 ### Alternative Forms
 

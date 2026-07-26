@@ -35,7 +35,12 @@ IPA: /uu̯suu̯/
 - Polish: brzmieć
 
 ### Example sentence
-**To xő jýnă ůsů.** _He sounds chatty (hyena-like)._
+
+#### Example 1
+
+- **Asaxi:** to xő jýnă ůsů.
+- **English:** He sounds chatty (hyena-like).
+- **Polish:** x
 
 ### Alternative Forms
 Null

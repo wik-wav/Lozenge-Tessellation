@@ -31,8 +31,12 @@ IPA: /pʲono/
 - Polish: obraz, obrazek
 
 ### Example sentence
-**Pjono bakam nanů.**
-_A picture hangs on the wall._
+
+#### Example 1
+
+- **Asaxi:** pjono bakam nanů.
+- **English:** A picture hangs on the wall.
+- **Polish:** x
 
 ### Alternative Forms
 Null

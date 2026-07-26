@@ -29,8 +29,12 @@ IPA: /nɑfʷa/
 - Polish: bezchmurne niebo
 
 ### Example sentence
-**Náfwa bů sèwo, xiŕă ů.**
-_Because there is a clear sky, there is sunshine._
+
+#### Example 1
+
+- **Asaxi:** náfwa bů sèwo, xiŕă ů.
+- **English:** Because there is a clear sky, there is sunshine.
+- **Polish:** x
 
 ### Alternative Forms
 x

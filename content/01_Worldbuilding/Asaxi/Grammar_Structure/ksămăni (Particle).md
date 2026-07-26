@@ -32,5 +32,9 @@ The indefinite **ks-** stem (cf. the interrogatives [[ksá (particle)|ksá]] / [
 
 ### Example sentence
 
-**Ksămăni xů.**
-_Do it however you like._
+
+#### Example 1
+
+- **Asaxi:** ksămăni xů.
+- **English:** Do it however you like.
+- **Polish:** x

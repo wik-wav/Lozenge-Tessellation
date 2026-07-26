@@ -60,11 +60,18 @@ x
 
 ### Usage Note
 **Specific to Ambulation.** Use this verb when the subject physically stops moving their legs or traveling.
-* *Command:* **Chěchohè!** ("Halt!" / "Freeze!"). (Note the glottal elision before `hè`).
+* *Command:* chěchohè! ("Halt!" / "Freeze!"). (Note the glottal elision before `hè`).
 
 ### Example sentences
-**John zèchěto'.**
-_John halted / stopped walking._
 
-**To wo John zèchěto'.**
-_I stopped John (physically blocked his path)._
+#### Example 1
+
+- **Asaxi:** john zèchěto'.
+- **English:** John halted / stopped walking.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo john zèchěto'.
+- **English:** I stopped John (physically blocked his path).
+- **Polish:** x

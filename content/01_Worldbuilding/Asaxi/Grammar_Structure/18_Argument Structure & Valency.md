@@ -56,7 +56,7 @@ Here are the five primary ways to extend a sentence beyond Subject-Object-Verb.
 - **Formula:** `[To Subject/Doer] + [bă Causer] + [Direct Object] + [hè-Verb]`
 
 - **Example:**
-    > **To John bă shějýnshá shěso hèshěsonů.** `SUBJ` `John` `CAUS` `teacher` `book` `IMP-read` _"The teacher makes John read the book."_
+    > to john bă shějýnshá shěso hèshěsonů. `SUBJ` `John` `CAUS` `teacher` `book` `IMP-read` "The teacher makes John read the book."
 
 
 ### 2. The Dative Structure (Transfer)
@@ -64,7 +64,7 @@ Here are the five primary ways to extend a sentence beyond Subject-Object-Verb.
 **Particle:** `då` (Recipient) Used for verbs of giving, showing, or telling.
 - **Formula:** `[To Subject] + [då Recipient] + [Direct Object] + [Verb]`
 - **Example:**
-    > **To wo då John apo ma.** `SUBJ` `1SG` `DAT` `John` `apple` `have` _"I have an apple for John."_
+    > to wo då john apo ma. `SUBJ` `1SG` `DAT` `John` `apple` `have` "I have an apple for John."
 
 ### 3. The Ablative Structure (Source)
 
@@ -72,7 +72,7 @@ Here are the five primary ways to extend a sentence beyond Subject-Object-Verb.
 
 - **Formula:** `[To Subject] + [izo Source] + [Direct Object] + [Verb]`
 - **Example:**
-    > **To John izo kjèpo apo chỏnů.** `SUBJ` `John` `ABL` `tree` `apple` `eat` _"John eats an apple from the tree."_
+    > to john izo kjèpo apo chỏnů. `SUBJ` `John` `ABL` `tree` `apple` `eat` "John eats an apple from the tree."
 
 ### 4. The Allative Structure (Goal)
 
@@ -80,7 +80,7 @@ Here are the five primary ways to extend a sentence beyond Subject-Object-Verb.
 
 - **Formula:** `[To Subject] + [ni Goal] + [Direct Object] + [Verb]`
 - **Example:**
-    > **To wo ni tobo shěso topu.** `SUBJ` `1SG` `ALL` `table` `book` `put` _"I put the book on(to) the table."_
+    > to wo ni tobo shěso topu. `SUBJ` `1SG` `ALL` `table` `book` `put` "I put the book on(to) the table."
 
 ### 5. The Comitative Structure (Association)
 
@@ -88,7 +88,7 @@ Here are the five primary ways to extend a sentence beyond Subject-Object-Verb.
 
 - **Formula:** `[To Subject] + [zá Partner] + [Direct Object] + [Verb]`
 - **Example:**
-    > **To John zá shějýnshá shěso shěsonů.** `SUBJ` `John` `COM` `teacher` `book` `read` _"John reads the book with the teacher."_
+    > to john zá shějýnshá shěso shěsonů. `SUBJ` `John` `COM` `teacher` `book` `read` "John reads the book with the teacher."
 
 - - -
 ### Summary of Argument Slots
@@ -119,7 +119,7 @@ When a verb implies both a beneficiary (Dative) and physical movement (Allative)
 
 **Example (Ditransitive Transfer):**
 
-> **To John dåni Tom apa zèdao.** `SUBJ` `John` `DAT-ALL` `Tom` `apples` `PAST-give` _"John gave apples to Tom."_
+> to john dåni tom apa zèdao. `SUBJ` `John` `DAT-ALL` `Tom` `apples` `PAST-give` "John gave apples to Tom."
 
 ### B. Argument Lists (The `ja` Conjunction)
 
@@ -136,15 +136,15 @@ Multiple nouns can occupy a single argument slot using the connective particle *
 
 **1. Subject List (Compound Doer)**
 
-> **John ja Tom dåni jýnma jágoma zèdao.** `John` `AND` `Tom` `DAT-ALL` `hyenas` `blueberries` `PAST-give` _"John and Tom gave the hyenas blueberries."_
+> john ja tom dåni jýnma jágoma zèdao. `John` `AND` `Tom` `DAT-ALL` `hyenas` `blueberries` `PAST-give` "John and Tom gave the hyenas blueberries."
 
 **2. Oblique List (Compound Recipient)**
 
-> **To John dåni Tom, Jerry ja Barry apa zèdao.** `SUBJ` `John` `DAT-ALL` `Tom` `Jerry` `AND` `Barry` `apples` `PAST-give` _"John gave apples to Tom, Jerry, and Barry."_
+> to john dåni tom, jerry ja barry apa zèdao. `SUBJ` `John` `DAT-ALL` `Tom` `Jerry` `AND` `Barry` `apples` `PAST-give` "John gave apples to Tom, Jerry, and Barry."
 
 **3. Object List (Compound Theme)**
 
-> **To John dåni Tom apa ja jága zèdao.** `SUBJ` `John` `DAT-ALL` `Tom` `apples` `AND` `blueberries` `PAST-give` _"John gave Tom apples and blueberries."_
+> to john dåni tom apa ja jága zèdao. `SUBJ` `John` `DAT-ALL` `Tom` `apples` `AND` `blueberries` `PAST-give` "John gave Tom apples and blueberries."
 
 ## 7. Floating Modifiers (Scope Precision)
 
@@ -161,14 +161,14 @@ Asaxi allows specific quantifiers and aspectual particles to "float" within the 
 **1. Subject Modification:** `[Quantifier] + [To Subject] + ... + [Verb]`
 
 - _Logic:_ The Subject group performs the action individually.
-- _Example:_ **Jonojo wa hja pashěsonů.**
+- _Example:_ jonojo wa hja pashěsonů.
     - `DIST` `We` `them(things)` `FUT-read`
     - _"We, one by one, will read them."_ (We take turns reading).
 
 
 **2. Object Modification:** `... + [Quantifier] + [Object] + [Verb]`
 - _Logic:_ The Object group is processed individually.
-- _Example:_ **To wo jonojo shěsa pashěsonů.**
+- _Example:_ to wo jonojo shěsa pashěsonů.
     - `SUBJ` `1SG` `DIST` `books` `FUT-read`
     - _"I will read the books one by one."_ (I read Book A, then Book B).
 
@@ -176,7 +176,7 @@ Asaxi allows specific quantifiers and aspectual particles to "float" within the 
 **3. Oblique Modification:** `... + [Quantifier] + [då/zá/bă Noun] + ...`
 
 - _Logic:_ The oblique participants are treated individually.
-- _Example:_ **To wo jonojo då sháma shěso zèdao.**
+- _Example:_ to wo jonojo då sháma shěso zèdao.
     - `SUBJ` `1SG` `DIST` `DAT` `people` `book` `PAST-give`
     - _"I gave a book to the people, one by one."_ (To Person A, then to Person B).
 

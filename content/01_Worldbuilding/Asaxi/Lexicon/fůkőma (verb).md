@@ -38,8 +38,12 @@ IPA: /fuu̯koɪma/
 - Polish: brać zrozumienie za pewnik; być rozumianym bez wzajemności
 
 ### Example sentence
-John bă wo fůkőma.
-John is understood by me, while not attempting to understand my problems.
+
+#### Example 1
+
+- **Asaxi:** john bă wo fůkőma.
+- **English:** John is understood by me, while not attempting to understand my problems.
+- **Polish:** x
 
 ### Alternative Forms
 - fůkő (shortened slang)

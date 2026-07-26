@@ -31,8 +31,12 @@ IPA: /t̠ʃaɪ/
 - Polish: herbata
 
 ### Example sentence
-**Chă ŕono.**
-_Tea is a drink._
+
+#### Example 1
+
+- **Asaxi:** chă ŕono.
+- **English:** Tea is a drink.
+- **Polish:** x
 
 ### Alternative Forms
 Null

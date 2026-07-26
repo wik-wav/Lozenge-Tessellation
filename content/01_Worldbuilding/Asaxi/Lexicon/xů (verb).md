@@ -39,11 +39,18 @@ IPA: /ɦuu̯/
 - Polish: robić, czynić, zajmować się
 
 ### Example sentence
-**To no kjo xů kè?**
-_What are you doing?_
 
-**To wo jo xů.**
-_I am doing (handling) it._
+#### Example 1
+
+- **Asaxi:** to no kjo xů kè?
+- **English:** What are you doing?
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo jo xů.
+- **English:** I am doing (handling) it.
+- **Polish:** x
 
 ### Alternative Forms
 Null
@@ -65,4 +72,4 @@ Null
 **1. Generic Action:** Used when the specific verb is unknown or irrelevant ("What are you doing?" / "I am doing it").
 **2. Contrast with `ů`:**
 * **ů:** Intransitive/Copular ("To be/act as"). `John doctor ů.`
-* **xů:** Transitive/Active ("To handle/manipulate"). `John [task] xů.`
+* **xů:** Transitive/Active ("To handle/manipulate"). `john [task] xů.`

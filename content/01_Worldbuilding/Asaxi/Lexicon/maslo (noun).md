@@ -31,8 +31,12 @@ IPA: /maslo̞/
 - Polish: masło
 
 ### Example sentence
-**Maslo săano nanů.**
-_Butter is on the bread._
+
+#### Example 1
+
+- **Asaxi:** maslo săano nanů.
+- **English:** Butter is on the bread.
+- **Polish:** x
 
 ### Alternative Forms
 Null

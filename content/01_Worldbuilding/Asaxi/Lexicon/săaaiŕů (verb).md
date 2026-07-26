@@ -36,8 +36,12 @@ IPA: /saɪa.aiɾuw/
 - Polish: gorączkować
 
 ### Example sentence
-**Ă wo săaaiŕů. Dokù daokă.**
-_I am running a fever. Please give me medicine._
+
+#### Example 1
+
+- **Asaxi:** ă wo săaaiŕů. dokù daokă.
+- **English:** I am running a fever. Please give me medicine.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -39,8 +39,12 @@ IPA: /sɯsɯ/
 - Polish: szeptać
 
 ### Example sentence
-**Wo sùsù.**
-_I whisper._
+
+#### Example 1
+
+- **Asaxi:** wo sùsù.
+- **English:** I whisper.
+- **Polish:** x
 
 ### Alternative Forms
 Null

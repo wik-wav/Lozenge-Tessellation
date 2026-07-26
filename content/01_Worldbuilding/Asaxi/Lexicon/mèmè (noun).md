@@ -31,8 +31,12 @@ IPA: /məmə/
 - Polish: koza
 
 ### Example sentence
-**Mèmè jëgo xona.**
-_The goat climbs the mountain._
+
+#### Example 1
+
+- **Asaxi:** mèmè jëgo xona.
+- **English:** The goat climbs the mountain.
+- **Polish:** x
 
 ### Alternative Forms
 Null

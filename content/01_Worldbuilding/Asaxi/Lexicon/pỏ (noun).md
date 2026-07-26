@@ -30,11 +30,18 @@ IPA: /pou̯/
 - Polish: puch, wełna, kłaczki
 
 ### Example sentence
-To pỏ ỏbỏnă xiŕa.
-The fluff is cushion-like (soft).
 
-Dăgo jalăsháma pỏnă xiŕa.
-A lot of birds are fluffy.
+#### Example 1
+
+- **Asaxi:** to pỏ ỏbỏnă xiŕa.
+- **English:** The fluff is cushion-like (soft).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** dăgo jalăsháma pỏnă xiŕa.
+- **English:** A lot of birds are fluffy.
+- **Polish:** x
 
 ### Alternative Forms
 x

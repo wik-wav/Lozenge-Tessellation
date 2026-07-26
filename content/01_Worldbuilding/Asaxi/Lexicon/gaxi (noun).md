@@ -34,8 +34,12 @@ IPA: /ɡaɦi/
 - Polish: żółty
 
 ### Example sentence
-**Xi gaxi.**
-_The sun is yellow._
+
+#### Example 1
+
+- **Asaxi:** xi gaxi.
+- **English:** The sun is yellow.
+- **Polish:** x
 
 ### Alternative Forms
 Null

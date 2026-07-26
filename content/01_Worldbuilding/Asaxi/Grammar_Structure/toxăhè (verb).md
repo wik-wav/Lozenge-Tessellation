@@ -35,9 +35,18 @@ IPA: /t̪oɦaɪxə/
 
 ### Example sentence
 
-**Xő shěsonů toxăhè.** _I am certain he reads._ (Lit: He reads, \[this-fact\]-is-forced).
 
-**Ko wő nákőnů toxăhè.** _I am certain she misunderstands me._
+#### Example 1
+
+- **Asaxi:** xő shěsonů toxăhè.
+- **English:** I am certain he reads. (Lit: He reads, \[this-fact\]-is-forced).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** ko wő nákőnů toxăhè.
+- **English:** I am certain she misunderstands me.
+- **Polish:** x
 
 ### Alternative Forms
 

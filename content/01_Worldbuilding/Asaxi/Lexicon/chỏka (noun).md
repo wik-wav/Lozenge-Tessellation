@@ -31,8 +31,12 @@ IPA: /t̠ʃou̯ka/
 - Polish: talerz
 
 ### Example sentence
-**Chỏno chỏka nanů.**
-_Food is on the plate._
+
+#### Example 1
+
+- **Asaxi:** chỏno chỏka nanů.
+- **English:** Food is on the plate.
+- **Polish:** x
 
 ### Alternative Forms
 Null

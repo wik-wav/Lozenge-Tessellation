@@ -39,8 +39,12 @@ IPA: /ɾaɪɦa/
 - Polish: płonąć
 
 ### Example sentence
-**Kjèŕo ŕăxa.**
-_The forest burns._
+
+#### Example 1
+
+- **Asaxi:** kjèŕo ŕăxa.
+- **English:** The forest burns.
+- **Polish:** x
 
 ### Alternative Forms
 Null

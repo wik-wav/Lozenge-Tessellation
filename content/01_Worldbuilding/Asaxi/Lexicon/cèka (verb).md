@@ -39,8 +39,12 @@ IPA: /t̻͡s̪əka/
 - Polish: pamiętać
 
 ### Example sentence
-**Wo zèvo cèka.**
-_I remember the name._
+
+#### Example 1
+
+- **Asaxi:** wo zèvo cèka.
+- **English:** I remember the name.
+- **Polish:** x
 
 ### Alternative Forms
 Null

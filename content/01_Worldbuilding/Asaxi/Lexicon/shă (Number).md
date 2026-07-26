@@ -23,7 +23,12 @@ tags:
 IPA: /ʃaɪ/
 
 ### Example sentence
-**To wo shă apa ma.** _"I have seven apples."_
+
+#### Example 1
+
+- **Asaxi:** to wo shă apa ma.
+- **English:** I have seven apples.
+- **Polish:** x
 
 ### Derived terms
 - **bishă** (7th)

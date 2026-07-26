@@ -36,12 +36,19 @@ IPA: /ɦə/
 
 ### Example sentence
 
-**To wo xèshěsonů.** _I try to read._
+#### Example 1
 
-| Asaxi         | **To** | **wo** | **xè-shěso-n-ů**      |
+- **Asaxi:** to wo xèshěsonů.
+- **English:** I try to read.
+- **Polish:** x
+
+### Analysis
+
+| Asaxi         | to     | wo     | xè-shěso-n-ů          |
 | ------------- | ------ | ------ | --------------------- |
 | **Morphemes** | to     | wo     | xè-shěso-n-ů          |
 | **Gloss**     | SUBJ   | 1SG    | CON-book-BRG.PERF-VBZ |
+
 ### Alternative Forms
 
 - x

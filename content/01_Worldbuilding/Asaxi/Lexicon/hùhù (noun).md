@@ -31,8 +31,12 @@ IPA: /xɯxɯ/
 - Polish: wilk
 
 ### Example sentence
-**Hùhù kjèŕo vanů.**
-_The wolf is in the forest._
+
+#### Example 1
+
+- **Asaxi:** hùhù kjèŕo vanů.
+- **English:** The wolf is in the forest.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -26,7 +26,7 @@ tags:
 
 Must be paired with the complement **[[zá (particle)|zá]]** (With).
 
-- **Structure:** `Bi [Noun A] zá [Noun B]...`
+- **Structure:** `bi [Noun A] zá [Noun B]...`
 
 ### Pronunciation
 
@@ -38,4 +38,9 @@ Derived from the noun **[[bi (noun)|bi]]** (Line/Level). _Logic:_ "On the level 
 
 ### Example sentence
 
-**Bi John zá Tom apa dănă chỏnů.** _John and Tom munch on apples as much as one another._ (Lit: Equal John with Tom...).
+
+#### Example 1
+
+- **Asaxi:** bi john zá tom apa dănă chỏnů.
+- **English:** John and Tom munch on apples as much as one another. (Lit: Equal John with Tom...).
+- **Polish:** x

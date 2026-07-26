@@ -37,9 +37,12 @@ IPA: /tʰenaɪ/
 - Polish: półprzezroczysty, przeświecający
 
 ### Example sentence
-**As an adjective:**
-- Sè txenshá zèpăxè to txewa txenă ůjů.
-	The angel's spread-out wings look translucent.
+
+#### Example 1
+
+- **Asaxi:** sè txenshá zèpăxè to txewa txenă ůjů. the angel's spread-out wings look translucent.
+- **English:** x
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -36,8 +36,12 @@ IPA: /çjiçjinaɪ/
 - Polish: drobny, filigranowy
 
 ### Example sentence
-**To ko hjihjină shá xiŕa.**
-_She is a petite/cute person._
+
+#### Example 1
+
+- **Asaxi:** to ko hjihjină shá xiŕa.
+- **English:** She is a petite/cute person.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -11,7 +11,13 @@ tags:
 Navigation:
 
 - [[The Asaxi Language|The Asaxi Language Index]]
+- [[00_Asaxi Orthography & Punctuation Standard]]
 - [[index|Index - Homepage]]
+
+Asaxi-language rows follow the lower-case and punctuation rules in the
+orthography standard. Full example sentences are plain text; do not bold or
+italicize their content. Upper-case grammatical gloss codes remain upper case
+because they are metalanguage rather than Asaxi.
 
 ## 1. Technical & Formatting Limitations
 
@@ -169,18 +175,18 @@ _These roots function as prefixes on nouns to define location, or as roots for S
 
 ### Example 1: Basic Transitive Sentence
 
-**Asaxi:** _To wo onă gaposhěso ijo._ **Free:** _I see the red book._
+**Asaxi:** to wo onă gaposhěso ijo. **Free:** I see the red book.
 
-| Asaxi         | **To** | **wo** | **onă** | **gaposhěso** | **ijo** |
+| Asaxi         | to | wo | onă | gaposhěso | ijo |
 | ------------- | ------ | ------ | ------- | ------------- | ------- |
 | **Morphemes** | to     | wo     | onă     | ga-apo-shěso  | ijo     |
 | **Gloss**     | SUBJ   | 1SG    | DEF.W   | ATT-red-book  | see     |
 
 ### Example 2: Verbal Negation & Derivation
 
-**Asaxi:** _Wo shěso zènáshěsonů._ **Free:** _I did not read (the) book._
+**Asaxi:** wo shěso zènáshěsonů. **Free:** I did not read (the) book.
 
-| Asaxi         | **Wo** | **shěso** | **zènáshěsonů**           |
+| Asaxi         | wo | shěso | zènáshěsonů |
 | ------------- | ------ | --------- | ------------------------- |
 | **Morphemes** | wo     | shěso     | zè-ná-shěso-n-ů           |
 | **Gloss**     | 1SG    | book      | PST-NEG-book-BRG.PERF-VBZ |

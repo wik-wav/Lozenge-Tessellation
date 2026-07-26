@@ -41,14 +41,23 @@ A fusion of the clause connector **dzè** (But) and the polarity particle **[[n�
 
 [[ja (particle)]]
 
-### Example sentence
+### Example sentences
 
-1. **Subject Exclusion** 
-	**To John jhaná Mary xoxo.** 
-	`SUBJ` `John` `BUT.NOT` `Mary` `depart` _
-	John, but not Mary, departs._
+#### Example 1
 
-2. **Object Exclusion (Complex List)** 
-	**apa ja jága jhaná gajýnnapo ma.**
-	`apples` `AND` `blueberries` `BUT.NOT` `hyena-apple` `have` 
-	_I have apples and blueberries, but not a hyena-apple._
+- **Asaxi:** to john jhaná mary xoxo.
+- **English:** Subject exclusion: John, but not Mary, departs.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** apa ja jága jhaná gajýnnapo ma.
+- **English:** Object exclusion (complex list): I have apples and blueberries, but not a hyena-apple.
+- **Polish:** x
+
+### Analysis
+
+| Example | Gloss |
+|---|---|
+| 1 | `SUBJ John BUT.NOT Mary depart` |
+| 2 | `apples AND blueberries BUT.NOT hyena-apple have` |

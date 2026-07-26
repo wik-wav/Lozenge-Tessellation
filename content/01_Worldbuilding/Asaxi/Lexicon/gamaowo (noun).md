@@ -32,8 +32,12 @@ IPA: /ɡama.owo/
 - Polish: nocne niebo
 
 ### Example sentence
-wo xamao sègamaowo ijo.
-I see the night sky's moon above.
+
+#### Example 1
+
+- **Asaxi:** wo xamao sègamaowo ijo.
+- **English:** I see the night sky's moon above.
+- **Polish:** x
 
 ### Alternative Forms
 x

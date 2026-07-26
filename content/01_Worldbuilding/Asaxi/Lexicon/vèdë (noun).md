@@ -32,8 +32,12 @@ IPA: /vədə/
 - Polish: gałąź
 
 ### Example sentence
-**Vètxe vèdë nanů.**
-_A leaf is on the branch._
+
+#### Example 1
+
+- **Asaxi:** vètxe vèdë nanů.
+- **English:** A leaf is on the branch.
+- **Polish:** x
 
 ### Alternative Forms
 x

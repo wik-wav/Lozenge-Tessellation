@@ -42,8 +42,12 @@ IPA: /iɡɯɾanuw/
 
 ### Example sentence
 
-**Haśùhè ŕa igùŕanůè, ăjo hjinýj Pỏpỏ!**
-_Run and play, little Rabbit!_
+
+#### Example 1
+
+- **Asaxi:** haśùhè ŕa igùŕanůè, ăjo hjinýj pỏpỏ!
+- **English:** Run and play, little Rabbit!
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -71,4 +75,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

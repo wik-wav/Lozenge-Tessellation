@@ -36,8 +36,12 @@ IPA: /ɦɯjakam/
 
 ### Example sentence
 
-**Wo zá xùjakam záŕa tte zèbůwů.**
-_He pretended he was connected with Government._
+
+#### Example 1
+
+- **Asaxi:** wo zá xùjakam záŕa tte zèbůwů.
+- **English:** He pretended he was connected with Government.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

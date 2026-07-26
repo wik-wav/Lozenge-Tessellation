@@ -22,8 +22,12 @@ tags:
 
 ### Example sentence
 
-**To wo ponýj shěso jå.**
-_I want a certain book (not just any book)._
+
+#### Example 1
+
+- **Asaxi:** to wo ponýj shěso jå.
+- **English:** I want a certain book (not just any book).
+- **Polish:** x
 
 ### Etymology
 

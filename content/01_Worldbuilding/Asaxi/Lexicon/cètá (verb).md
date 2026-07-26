@@ -39,8 +39,12 @@ IPA: /t̻͡s̪ət̪ɑ/
 - Polish: oceniać, sądzić
 
 ### Example sentence
-**Wo shá cètá.**
-_I judge the person._
+
+#### Example 1
+
+- **Asaxi:** wo shá cètá.
+- **English:** I judge the person.
+- **Polish:** x
 
 ### Alternative Forms
 Null

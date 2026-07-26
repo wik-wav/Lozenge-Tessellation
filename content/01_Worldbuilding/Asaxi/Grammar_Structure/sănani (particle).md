@@ -35,8 +35,12 @@ IPA: /saɪnaɲi/
 
 ### Example sentence
 
-**To sănani sháma xogă.**
-_Several (some) people arrive._
+
+#### Example 1
+
+- **Asaxi:** to sănani sháma xogă.
+- **English:** Several (some) people arrive.
+- **Polish:** x
 
 ### Etymology
 

@@ -30,8 +30,12 @@ IPA: /zɯ/
 - Polish: umiejętność, wprawa, kunszt
 
 ### Example sentence
-To John zù ma.
-John has skill.
+
+#### Example 1
+
+- **Asaxi:** to john zù ma.
+- **English:** John has skill.
+- **Polish:** x
 
 ### Alternative Forms
 x

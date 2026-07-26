@@ -31,8 +31,12 @@ IPA: /ɾəz̪iʃɑ/
 - Polish: jaszczurka
 
 ### Example sentence
-**To ŕèzishá go nanů.**
-_The lizard sits on (occupies) the rock._
+
+#### Example 1
+
+- **Asaxi:** to ŕèzishá go nanů.
+- **English:** The lizard sits on (occupies) the rock.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -32,8 +32,12 @@ IPA: /pou̯pou̯/
 - Polish: królik, zając
 
 ### Example sentence
-**Pỏpỏ viŕo nanů.**
-_The rabbit is on the meadow._
+
+#### Example 1
+
+- **Asaxi:** pỏpỏ viŕo nanů.
+- **English:** The rabbit is on the meadow.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -33,7 +33,12 @@ Distinct from the prefix **jå-**.
 
 ### Example sentence
 
-**To wo shěsonů wă.** _I want to read._
+
+#### Example 1
+
+- **Asaxi:** to wo shěsonů wă.
+- **English:** I want to read.
+- **Polish:** x
 
 ### Etymology
 

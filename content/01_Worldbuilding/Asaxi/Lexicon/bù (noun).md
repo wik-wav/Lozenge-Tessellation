@@ -31,8 +31,12 @@ IPA: /bɯ/
 - Polish: krzew
 
 ### Example sentence
-**To bù shosa banů.**
-_A shrub is beside the road._
+
+#### Example 1
+
+- **Asaxi:** to bù shosa banů.
+- **English:** A shrub is beside the road.
+- **Polish:** x
 
 ### Alternative Forms
 Null

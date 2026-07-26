@@ -39,8 +39,12 @@ IPA: /ijo̞ɾima/
 - Polish: badać
 
 ### Example sentence
-**Dokùshá jami ijoŕima.**
-_The doctor examines the illness._
+
+#### Example 1
+
+- **Asaxi:** dokùshá jami ijoŕima.
+- **English:** The doctor examines the illness.
+- **Polish:** x
 
 ### Alternative Forms
 Null

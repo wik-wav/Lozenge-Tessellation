@@ -24,7 +24,7 @@ tags:
 
 Must be paired with the complement **[[izo (particle)|izo]]** (From/Than).
 
-- **Structure:** `Nani [Noun A] izo [Noun B]...`
+- **Structure:** `nani [Noun A] izo [Noun B]...`
 
 ### Pronunciation
 
@@ -36,4 +36,9 @@ IPA: /naɲi/
 
 ### Example sentence
 
-**Nani John izo Tom apa dănă chỏnů.** _John munches on apples more heavily than Tom._
+
+#### Example 1
+
+- **Asaxi:** nani john izo tom apa dănă chỏnů.
+- **English:** John munches on apples more heavily than Tom.
+- **Polish:** x

@@ -39,8 +39,12 @@ IPA: /kupɯ/
 - Polish: przewracać się
 
 ### Example sentence
-**Go jëgo kùpù.**
-_The stone tumbles down the mountain._
+
+#### Example 1
+
+- **Asaxi:** go jëgo kùpù.
+- **English:** The stone tumbles down the mountain.
+- **Polish:** x
 
 ### Alternative Forms
 Null

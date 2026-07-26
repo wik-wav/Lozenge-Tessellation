@@ -30,14 +30,19 @@ Used to introduce a clause that sets a **definite deadline** or a specific termi
 
 ### Example sentence
 
-** Ko pazèshěsonů måniåkam, xő pazèxoxo.** _By the time (moment) she will have read, he will have departed._
+
+#### Example 1
+
+- **Asaxi:** ko pazèshěsonů måniåkam, xő pazèxoxo.
+- **English:** By the time (moment) she will have read, he will have departed.
+- **Polish:** x
 
 ### Alternative Forms
 - **måni åkam** (Analytic / Spoken slowly for emphasis).
 
 ### Etymology
 
-A fusion of the compound particle **måni** (Until - from `måmåni`) + **-x-** (Epenthetic bridge) + **[[åkamm (noun)|åkamm (noun) - moment]]** (Specific moment/Time-structure). _Lit: Until-the-moment._
+A fusion of the compound particle **måni** (Until - from `måmåni`) + **-x-** (Epenthetic bridge) + **[[åkamm (noun)|åkamm (noun) - moment]]** (Specific moment/Time-structure). Literal: Until-the-moment.
 
 ### Synonyms
 

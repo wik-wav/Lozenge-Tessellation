@@ -31,8 +31,12 @@ IPA: /b̪viɡo̞ɾo̞/
 - Polish: gospodarstwo, farma
 
 ### Example sentence
-**Mùù vigoŕo vanů.**
-_Cattle are on the farm._
+
+#### Example 1
+
+- **Asaxi:** mùù vigoŕo vanů.
+- **English:** Cattle are on the farm.
+- **Polish:** x
 
 ### Alternative Forms
 Null

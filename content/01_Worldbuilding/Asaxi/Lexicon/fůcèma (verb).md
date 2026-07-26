@@ -38,8 +38,12 @@ IPA: /fuu̯t̻͡s̪əma/
 - Polish: brać za pewnik; nie doceniać posiadania
 
 ### Example sentence
-Wo John kőxů tte xő fůcèma.
-John takes it for granted that I give him understanding.
+
+#### Example 1
+
+- **Asaxi:** wo john kőxů tte xő fůcèma.
+- **English:** John takes it for granted that I give him understanding.
+- **Polish:** x
 
 ### Alternative Forms
 - fůcèma' (informal/shortened)

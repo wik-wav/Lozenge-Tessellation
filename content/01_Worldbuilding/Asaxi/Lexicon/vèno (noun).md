@@ -31,8 +31,12 @@ IPA: /ʋəno/
 - Polish: drewno
 
 ### Example sentence
-**To xăto vèno izoŕa.**
-_The hut is made of wood._
+
+#### Example 1
+
+- **Asaxi:** to xăto vèno izoŕa.
+- **English:** The hut is made of wood.
+- **Polish:** x
 
 ### Alternative Forms
 Null

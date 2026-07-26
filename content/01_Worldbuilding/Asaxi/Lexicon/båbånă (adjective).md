@@ -36,8 +36,12 @@ IPA: /bau̯bau̯naɪ/
 - Polish: umięśniony, napakowany, krzepki
 
 ### Example sentence
-**To John båbånă shá xiŕa.**
-_John is a hunk (muscular person)._
+
+#### Example 1
+
+- **Asaxi:** to john båbånă shá xiŕa.
+- **English:** John is a hunk (muscular person).
+- **Polish:** x
 
 ### Alternative Forms
 Null

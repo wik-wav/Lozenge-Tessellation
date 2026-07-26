@@ -31,8 +31,12 @@ IPA: /ɦakam/
 - Polish: dach
 
 ### Example sentence
-**Zhýtopo naxakam.**
-_Snow is on the roof._
+
+#### Example 1
+
+- **Asaxi:** zhýtopo naxakam.
+- **English:** Snow is on the roof.
+- **Polish:** x
 
 ### Alternative Forms
 Null

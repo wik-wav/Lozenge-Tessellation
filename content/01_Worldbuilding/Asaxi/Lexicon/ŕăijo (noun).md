@@ -34,8 +34,12 @@ IPA: /ɾaɪiꞲo/
 Refers to "Strength" as a form of control or ability to dominate/oversee, distinct from **båbå** (Raw Muscle) or **izovivi** (Effort).
 
 ### Example sentence
-**Sè wo ŕăijo dănă xiŕa.**
-_My strength is great._
+
+#### Example 1
+
+- **Asaxi:** sè wo ŕăijo dănă xiŕa.
+- **English:** My strength is great.
+- **Polish:** x
 
 ### Alternative Forms
 x

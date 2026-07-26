@@ -32,7 +32,12 @@ IPA: /pa/
 
 ### Example sentence
 
-**To John pakamm xiŕa.** _John is in front of the building._
+
+#### Example 1
+
+- **Asaxi:** to john pakamm xiŕa.
+- **English:** John is in front of the building.
+- **Polish:** x
 
 ### Derived terms
 

@@ -31,8 +31,12 @@ IPA: /ɾaɪɾo̞/
 - Polish: magma
 
 ### Example sentence
-**Ŕăŕo ŕăgo vaŕa.**
-_Magma is inside the volcano._
+
+#### Example 1
+
+- **Asaxi:** ŕăŕo ŕăgo vaŕa.
+- **English:** Magma is inside the volcano.
+- **Polish:** x
 
 ### Alternative Forms
 Null

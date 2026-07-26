@@ -40,7 +40,12 @@ IPA: /mau̯mau̯ɲi/
 
 ### Example sentence
 
-**Izo kamm måmåni kjèpo aśù.** _I walk from the building as-far-as-to the tree._
+
+#### Example 1
+
+- **Asaxi:** izo kamm måmåni kjèpo aśù.
+- **English:** I walk from the building as-far-as-to the tree.
+- **Polish:** x
 
 ### Derived terms
 

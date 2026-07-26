@@ -23,7 +23,12 @@ tags:
 IPA: /ʃam/
 
 ### Example sentence
-**To wo sham apa ma.** _"I have six apples."_
+
+#### Example 1
+
+- **Asaxi:** to wo sham apa ma.
+- **English:** I have six apples.
+- **Polish:** x
 
 ### Derived terms
 - **bisham** (6th)

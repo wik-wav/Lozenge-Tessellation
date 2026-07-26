@@ -69,7 +69,7 @@ The edges of the utterance carry the speech-act meaning:
 
 ### Onsets
 
-- **Statement onset H%:** declaratives (and citation forms) launch high — the very first mora takes H even if atonal: **Tó wo shěso ma** (H.L.HL.L), **zè̀-** H in isolation.
+- **Statement onset H%:** declaratives (and citation forms) launch high — the very first mora takes H even if atonal: **tó wo shěso ma** (H.L.HL.L), **zè̀-** H in isolation.
 - **Appeal onset L:** questions and most directives launch low, saving the pitch range for the final rise.
 
 ### Terminals
@@ -79,7 +79,7 @@ The edges of the utterance carry the speech-act meaning:
 | **Fall (L%)**         | **Assertion** — the utterance is closed.                           | All statements; phrase-final **/a/ backs to [ɑ]** under the fall (*natăka* → [natɑkɑ])            |
 | **Rise (LH%)**        | **Appeal** — the utterance stays open until the listener responds. | Questions with `kè`, without `kè`, wh-questions, imperatives, prohibitions, polite `kă`, tag `në` |
 | **High plateau (H%)** | **Insistence** — assertion slammed shut.                           | Assertive tail **wő/ő** docks H with no rise: *Wo zèxăcè wő* (L.L.H.H.H)                          |
-| **Non-final rise**    | **Continuation** — "more coming."                                  | Frame-setting topics: **Hwo↗, to ko pjo zèdao.**                                                  |
+| **Non-final rise**    | **Continuation** — "more coming."                                  | Frame-setting topics: hwo↗, to ko pjo zèdao.                                                  |
 
 **Key insight:** the rise is not a "question marker" — it marks **any solicitation**. Commands rise because they, too, wait for the listener.
 
@@ -107,7 +107,7 @@ Asaxi prefers **gemination over volume**: doubling an initial consonant (`kè` �
 
 ## 10. The Filler (Hesitation)
 
-The syllabic nasal **nn** /n̩/ (assimilating per [[22_Phonotactics & Euphony]]) is the hesitation filler, held low over several morae: **Nn... wo cèná.** ("Umm... I don't know.")
+The syllabic nasal **nn** /n̩/ (assimilating per [[22_Phonotactics & Euphony]]) is the hesitation filler, held low over several morae: nn... wo cèná. ("Umm... I don't know.")
 
 ---
 
@@ -123,10 +123,10 @@ Selected attested readings (H/L per mora, ↗ = final rise):
 | mmbănă                | L.H.L          | nasals cannot bear H                                            |
 | gaviŕoŕo              | H.L.L.L        | compound: single initial peak (revised from first-pass H.L.H.L) |
 | kozètètá              | H.L.L.L        | fused compound: single initial peak                             |
-| To wo shěso ma.       | H.L.HL.L       | statement H% + terminal fall                                    |
-| No xogă?              | L.L.L↗         | colloquial question: total deaccenting                          |
-| No kvå xoxo?          | L.H.L.L↗       | wh-focus + post-focus deaccenting                               |
-| Ŕoŕo daohè!           | H.L.H.L↗       | imperative = appeal rise                                        |
+| to wo shěso ma.       | H.L.HL.L       | statement H% + terminal fall                                    |
+| no xogă?              | L.L.L↗         | colloquial question: total deaccenting                          |
+| no kvå xoxo?          | L.H.L.L↗       | wh-focus + post-focus deaccenting                               |
+| ŕoŕo daohè!           | H.L.H.L↗       | imperative = appeal rise                                        |
 | Haśùnáhè!             | L.H.H↗         | lexical non-initial accent; dominant plateau                    |
-| Wo zèxăcè wő.         | L.L.H.H.H      | insistent H% tail                                               |
-| Ăjo Lem, måmå natăka! | HL.L \| HL.LHL | vocative deaccenting; final [ɑ]                                 |
+| wo zèxăcè wő.         | L.L.H.H.H      | insistent H% tail                                               |
+| ăjo lem, måmå natăka! | HL.L \| HL.LHL | vocative deaccenting; final [ɑ]                                 |

@@ -39,8 +39,12 @@ IPA: /ɾo̞ka/
 - Polish: skręcać, wyżymać
 
 ### Example sentence
-**Wo pỏno ŕoka.**
-_I wring the cloth._
+
+#### Example 1
+
+- **Asaxi:** wo pỏno ŕoka.
+- **English:** I wring the cloth.
+- **Polish:** x
 
 ### Alternative Forms
 Null

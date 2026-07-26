@@ -34,12 +34,18 @@ IPA: /aɪɲi/
 
 ### Example sentence
 
-**To wo ăni no ŕima.**
-_I am thinking about you._
 
-**To shěso jýnnshá ăniŕa.
-**
-_The book is about hyenas._
+#### Example 1
+
+- **Asaxi:** to wo ăni no ŕima.
+- **English:** I am thinking about you.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to shěso jýnnshá ăniŕa.
+- **English:** The book is about hyenas.
+- **Polish:** x
 
 ### Etymology
 

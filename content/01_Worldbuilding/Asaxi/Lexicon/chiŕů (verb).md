@@ -36,8 +36,12 @@ IPA: /t̠ʃiɾuu̯/
 - Polish: krwawić
 
 ### Example sentence
-**Tètáŕo chiŕů.**
-_The wound bleeds._
+
+#### Example 1
+
+- **Asaxi:** tètáŕo chiŕů.
+- **English:** The wound bleeds.
+- **Polish:** x
 
 ### Alternative Forms
 Null

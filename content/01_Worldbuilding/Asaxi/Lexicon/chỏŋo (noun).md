@@ -31,8 +31,12 @@ IPA: /t̠ʃou̯ŋo̞/
 - Polish: szczęka
 
 ### Example sentence
-**Chỏŋo ihjo.**
-_The jaw is bone._
+
+#### Example 1
+
+- **Asaxi:** chỏŋo ihjo.
+- **English:** The jaw is bone.
+- **Polish:** x
 
 ### Alternative Forms
 Null

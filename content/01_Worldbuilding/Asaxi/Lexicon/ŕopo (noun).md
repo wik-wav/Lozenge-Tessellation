@@ -31,8 +31,12 @@ IPA: /ɾo̞po̞/
 - Polish: kałuża
 
 ### Example sentence
-**Ŕopo shosa nanů.**
-_A puddle is on the road._
+
+#### Example 1
+
+- **Asaxi:** ŕopo shosa nanů.
+- **English:** A puddle is on the road.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -30,8 +30,12 @@ IPA: /aɾa/
 
 ### Example sentence
 
-**John shánă ů aŕa.**
-_John is being human (fallible), alas._
+
+#### Example 1
+
+- **Asaxi:** john shánă ů aŕa.
+- **English:** John is being human (fallible), alas.
+- **Polish:** x
 
 ### Etymology
 

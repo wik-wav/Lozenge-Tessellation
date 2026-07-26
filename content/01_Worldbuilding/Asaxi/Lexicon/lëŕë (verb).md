@@ -39,8 +39,12 @@ IPA: /leɪɾeɪ/
 - Polish: lizać
 
 ### Example sentence
-**Mmråshá pỏ lëŕë.**
-_The cat licks its fur._
+
+#### Example 1
+
+- **Asaxi:** mmråshá pỏ lëŕë.
+- **English:** The cat licks its fur.
+- **Polish:** x
 
 ### Alternative Forms
 Null

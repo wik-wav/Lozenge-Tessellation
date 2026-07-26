@@ -31,8 +31,12 @@ IPA: /vaɪ/
 - Polish: roślina
 
 ### Example sentence
-**Onýj vă go pùnů.**
-_The plant sits under the rock._
+
+#### Example 1
+
+- **Asaxi:** onýj vă go pùnů.
+- **English:** The plant sits under the rock.
+- **Polish:** x
 
 ### Alternative Forms
 Null

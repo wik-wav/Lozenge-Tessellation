@@ -41,8 +41,12 @@ IPA: /pomonaɪ/
 - English: softly (grey)
 
 ### Example sentence
-**To mmråshá pomonă xiŕa.**
-_The cat is dove-grey._
+
+#### Example 1
+
+- **Asaxi:** to mmråshá pomonă xiŕa.
+- **English:** The cat is dove-grey.
+- **Polish:** x
 
 ### Alternative Forms
 Null

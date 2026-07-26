@@ -31,8 +31,12 @@ IPA: /xt̪eɪno/
 - Polish: pierścień
 
 ### Example sentence
-**Htëno hjitëbi naŕa.**
-_A ring is on the finger._
+
+#### Example 1
+
+- **Asaxi:** htëno hjitëbi naŕa.
+- **English:** A ring is on the finger.
+- **Polish:** x
 
 ### Alternative Forms
 Null

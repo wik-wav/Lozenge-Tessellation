@@ -31,14 +31,24 @@ IPA: /ɦi/
 - Polish: słońce, dzień
 
 ### Example sentence
-**To Xi dănă xiŕa.**
-_The sun is big._
 
-**Onă xi gavină zèbů.**
-_The day was good_
+#### Example 1
 
-**Vwo, Xi dănă pjoŕů.**
-_Today, the sun shone very brightly._
+- **Asaxi:** to xi dănă xiŕa.
+- **English:** The sun is big.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** onă xi gavină zèbů.
+- **English:** The day was good
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** vwo, xi dănă pjoŕů.
+- **English:** Today, the sun shone very brightly.
+- **Polish:** x
 
 ### Alternative Forms
 - **mă** (in frequency compounds like `ximă`).
@@ -58,5 +68,5 @@ Hi (Japanese 日 - Sun/Day).
 - [[xiro (noun)|xiro]] - gold
 - [[xiŕă (noun)|xiŕă]] - sunlight, sunshine
 ### Usage Notes
-- Write the word with a capital letter if referring to the sun, eg. `Xi`
+- Write the word with a capital letter if referring to the sun, eg. `xi`
 - When used in the sense of "day", use `xi`.

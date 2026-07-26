@@ -39,8 +39,12 @@ IPA: /nixəka/
 - Polish: zaczynać
 
 ### Example sentence
-**Xè nihèka.**
-_The work begins._
+
+#### Example 1
+
+- **Asaxi:** xè nihèka.
+- **English:** The work begins.
+- **Polish:** x
 
 ### Alternative Forms
 Null

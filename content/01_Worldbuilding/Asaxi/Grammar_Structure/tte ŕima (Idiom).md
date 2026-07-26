@@ -35,8 +35,12 @@ IPA: /tːə ɾima/
 
 ### Example sentence
 
-**To John shánă tte ŕima.**
-_I think that John is wise._
+
+#### Example 1
+
+- **Asaxi:** to john shánă tte ŕima.
+- **English:** I think that John is wise.
+- **Polish:** x
 
 ### Etymology
 

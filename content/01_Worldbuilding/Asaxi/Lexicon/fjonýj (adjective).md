@@ -41,8 +41,12 @@ IPA: /fʲo̞nɪj/
 - English: abstractly
 
 ### Example sentence
-**Wo fjonýj fjo ŕimo.**
-_I imagine an abstract concept._
+
+#### Example 1
+
+- **Asaxi:** wo fjonýj fjo ŕimo.
+- **English:** I imagine an abstract concept.
+- **Polish:** x
 
 ### Alternative Forms
 Null

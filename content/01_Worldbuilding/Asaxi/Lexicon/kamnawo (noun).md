@@ -32,8 +32,12 @@ IPA: /kamnawo/
 - Polish: skóra
 
 ### Example sentence
-**Sè jomåshá kamnawo kamshá naŕa.**
-_A human's skin covers the body._ (naŕa — intrinsic for jomåshá)
+
+#### Example 1
+
+- **Asaxi:** sè jomåshá kamnawo kamshá naŕa.
+- **English:** A human's skin covers the body. (naŕa — intrinsic for jomåshá)
+- **Polish:** x
 
 ### Alternative Forms
 x

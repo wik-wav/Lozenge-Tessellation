@@ -38,8 +38,12 @@ IPA: /t̪aɪka/
 - Polish: jednoczyć się, łączyć się, sprzymierzać
 
 ### Example sentence
-**To wa tăka.**
-_We unite (join forces)._
+
+#### Example 1
+
+- **Asaxi:** to wa tăka.
+- **English:** We unite (join forces).
+- **Polish:** x
 
 ### Alternative Forms
 Null

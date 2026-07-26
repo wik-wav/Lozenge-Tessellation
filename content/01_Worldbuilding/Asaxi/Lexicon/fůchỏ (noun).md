@@ -31,8 +31,12 @@ IPA: /fuu̯t̠ʃou̯/
 - Polish: sytość, nasycenie
 
 ### Example sentence
-**To wo fůchỏ ůchů.**
-_I feel satiated._
+
+#### Example 1
+
+- **Asaxi:** to wo fůchỏ ůchů.
+- **English:** I feel satiated.
+- **Polish:** x
 
 ### Alternative Forms
 Null

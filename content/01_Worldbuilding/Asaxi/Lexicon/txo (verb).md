@@ -39,8 +39,12 @@ IPA: /tʰo/
 - Polish: rzucać
 
 ### Example sentence
-**Go txohè!**
-_Throw the rock!_
+
+#### Example 1
+
+- **Asaxi:** go txohè!
+- **English:** Throw the rock!
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -29,8 +29,12 @@ IPA: /faɪou̯bwoɦat̪eɪbibau̯bau̯/
 - Polish: mięśnie naramienne
 
 ### Example sentence
-**To John făỏbwoxatëbibåba dănă ůjů.**
-_John's shoulder muscles look huge._
+
+#### Example 1
+
+- **Asaxi:** to john făỏbwoxatëbibåba dănă ůjů.
+- **English:** John's shoulder muscles look huge.
+- **Polish:** x
 
 ### Alternative Forms
 Null

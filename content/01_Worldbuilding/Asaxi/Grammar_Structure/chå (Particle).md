@@ -43,9 +43,24 @@ IPA: /t̠ʃau̯/
 
 ### Example sentences
 
-**1. Past Completive** **To John shěso zèchåshěsonů.** _John read the book completely (finished it)._
-**2. Future Completive** **To wo pachåxijo.** _I will watch (it) to the end._
-**3. Imperative Completive** **Chåchỏnůè!** _Eat it all! / Finish your meal!_
+
+#### Example 1
+
+- **Asaxi:** to john shěso zèchåshěsonů.
+- **English:** Past Completive: John read the book completely (finished it).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo pachåxijo.
+- **English:** Future Completive: I will watch (it) to the end.
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** chåchỏnůè!
+- **English:** Imperative Completive: Eat it all! / Finish your meal!
+- **Polish:** x
 
 ### Etymology
 

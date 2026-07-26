@@ -30,14 +30,14 @@ These are adverbs formed not by deriving an adjective (`-nă`), but by fusing a 
 | **gadăchỏ** | `gadă` (Giant) + `chỏ` (Maw) | Giant Maw | **Ravenous Hunger** (Noun/Concept)   |
 | **xădănă**   | `xă` (True) + `dănă` (Big)    | Truly Big | **Immensely / Very** (Adverb)        |
 **Syntactic Behavior:** These function exactly like standard Adverbs. They occupy the **Pre-Verbal Slot**
-> **To wo izovivi haśù.** _"I run as fast as I can."
+> to wo izovivi haśù. _"I run as fast as I can."
 
 ### 2. Frozen Phrases (Holophrases)
 
 These are complete sentences or clauses that have frozen into a single interjection or mood marker.
 
 - **xădăchỏxă** (Prayer/Wish)    
-    - _Components:_ `xă` + `Dă Chỏ` + `xă`.
+    - _Components:_ `xă` + `dă chỏ` + `xă`.
     - _Literal:_ "Yes Deity Yes."
     - _Function:_ Acts as a single particle meaning "Please God."
 

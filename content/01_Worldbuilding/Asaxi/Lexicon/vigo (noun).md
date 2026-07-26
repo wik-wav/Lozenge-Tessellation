@@ -31,8 +31,12 @@ IPA: /vigo/
 - Polish: ziarno, nasiono
 
 ### Example sentence
-**Văshá vigo topù.**
-_The farmer plants seed. (lit. puts seed)_
+
+#### Example 1
+
+- **Asaxi:** văshá vigo topù.
+- **English:** The farmer plants seed. (lit. puts seed)
+- **Polish:** x
 
 ### Alternative Forms
 Null

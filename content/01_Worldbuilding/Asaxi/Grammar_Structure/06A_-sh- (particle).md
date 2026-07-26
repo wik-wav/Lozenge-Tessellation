@@ -22,7 +22,7 @@ IPA: /ʃ/
 
 ### Example sentence
 
-**To wo tobo shěsoshů.** _I clear the books from the table._
+to wo tobo shěsoshů. I clear the books from the table.
 
 ### Etymology
 

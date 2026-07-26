@@ -39,8 +39,12 @@ IPA: /fɾaɪfɾaɪ/
 - Polish: wirować
 
 ### Example sentence
-**Fwùŕă fŕăfŕă.**
-_The tornado whirls._
+
+#### Example 1
+
+- **Asaxi:** fwùŕă fŕăfŕă.
+- **English:** The tornado whirls.
+- **Polish:** x
 
 ### Alternative Forms
 Null

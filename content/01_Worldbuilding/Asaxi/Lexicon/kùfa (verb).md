@@ -39,8 +39,12 @@ IPA: /kɯfa/
 - Polish: składać
 
 ### Example sentence
-**Wo pỏno kùfa.**
-_I fold the cloth._
+
+#### Example 1
+
+- **Asaxi:** wo pỏno kùfa.
+- **English:** I fold the cloth.
+- **Polish:** x
 
 ### Alternative Forms
 Null

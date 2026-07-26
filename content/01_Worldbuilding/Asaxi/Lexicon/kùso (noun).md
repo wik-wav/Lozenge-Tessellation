@@ -31,8 +31,12 @@ IPA: /kɯso̞/
 - Polish: kał, odchody
 
 ### Example sentence
-**Kùso kùsokùki ăka.**
-_Dung draws the fly._
+
+#### Example 1
+
+- **Asaxi:** kùso kùsokùki ăka.
+- **English:** Dung draws the fly.
+- **Polish:** x
 
 ### Alternative Forms
 Null

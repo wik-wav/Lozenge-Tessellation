@@ -34,13 +34,17 @@ The person saying this is preaching the spiritual or practical truth that it is 
 
 ### Cultural Context
 
-This phrase serves as the central motif of a primary religious prayer dedicated to the deity **Dă Chỏ**, emphasizing the necessity of fluidity and the danger of absolute attachment to finite things.
+This phrase serves as the central motif of a primary religious prayer dedicated to the deity **dă chỏ**, emphasizing the necessity of fluidity and the danger of absolute attachment to finite things.
 
 ### Example sentence
 
 
- **Nỏjåmăńo tte onă ijù shá shánă.**
-_The creatures that say "it is unwise to put all of one's resolve toward a single object of desire" are wise._
+
+#### Example 1
+
+- **Asaxi:** nỏjåmăńo tte onă ijù shá shánă.
+- **English:** The creatures that say "it is unwise to put all of one's resolve toward a single object of desire" are wise.
+- **Polish:** x
 
 ### Etymology
 | Component | Meaning |

@@ -39,8 +39,12 @@ IPA: /fo̞pɯ/
 - Polish: upuszczać
 
 ### Example sentence
-**Wo ŕomáka fopù.**
-_I drop the cup._
+
+#### Example 1
+
+- **Asaxi:** wo ŕomáka fopù.
+- **English:** I drop the cup.
+- **Polish:** x
 
 ### Alternative Forms
 Null

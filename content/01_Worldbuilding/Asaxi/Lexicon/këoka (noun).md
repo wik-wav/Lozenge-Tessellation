@@ -31,8 +31,12 @@ IPA: /keɪo̞ka/
 - Polish: hak
 
 ### Example sentence
-**Këoka ŕoshá kma.**
-_A hook catches fish._
+
+#### Example 1
+
+- **Asaxi:** këoka ŕoshá kma.
+- **English:** A hook catches fish.
+- **Polish:** x
 
 ### Alternative Forms
 Null

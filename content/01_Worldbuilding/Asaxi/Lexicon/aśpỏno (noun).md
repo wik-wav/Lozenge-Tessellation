@@ -32,8 +32,12 @@ IPA: /aɕpou̯no/
 - Polish: but
 
 ### Example sentence
-**Aśpỏno aśo nanů.**
-_A shoe is on the foot._
+
+#### Example 1
+
+- **Asaxi:** aśpỏno aśo nanů.
+- **English:** A shoe is on the foot.
+- **Polish:** x
 
 ### Alternative Forms
 x

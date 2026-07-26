@@ -31,8 +31,12 @@ IPA: /jo̞ɾo̞/
 - Polish: wieś
 
 ### Example sentence
-**Joŕo viŕo banů.**
-_A village is beside the field._
+
+#### Example 1
+
+- **Asaxi:** joŕo viŕo banů.
+- **English:** A village is beside the field.
+- **Polish:** x
 
 ### Alternative Forms
 Null

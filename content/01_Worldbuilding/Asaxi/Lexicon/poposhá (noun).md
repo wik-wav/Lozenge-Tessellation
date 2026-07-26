@@ -31,8 +31,12 @@ IPA: /po̞po̞ʃɑ/
 - Polish: żółw
 
 ### Example sentence
-**Poposhá ŕoŕo vanů.**
-_The turtle is in the water._
+
+#### Example 1
+
+- **Asaxi:** poposhá ŕoŕo vanů.
+- **English:** The turtle is in the water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /mʷo̞ʃɑ/
 - Polish: myśliwy
 
 ### Example sentence
-**Mwoshá ispă vanů.**
-_The hunter is in the wild._
+
+#### Example 1
+
+- **Asaxi:** mwoshá ispă vanů.
+- **English:** The hunter is in the wild.
+- **Polish:** x
 
 ### Alternative Forms
 Null

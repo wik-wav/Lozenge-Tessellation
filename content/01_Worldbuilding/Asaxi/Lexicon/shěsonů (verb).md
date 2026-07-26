@@ -18,7 +18,7 @@ tags:
 
 <span class="asaxi-script-alpha">shěsonů</span>
 ### Transitivity / Valency
-**monotransitive verb** Takes two arguments, but the object can be omitted if the action is general (e.g. _He reads_).
+**monotransitive verb** Takes two arguments, but the object can be omitted if the action is general (e.g. He reads).
 
 ### Lexical Aspect
 - **Durative (Activity)** — unfolds over time.

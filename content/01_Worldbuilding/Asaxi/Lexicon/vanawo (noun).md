@@ -31,8 +31,12 @@ IPA: /b̪vanaʋo̞/
 - Polish: sufit
 
 ### Example sentence
-**Pjo vanawo vanů.**
-_A light is in the ceiling._
+
+#### Example 1
+
+- **Asaxi:** pjo vanawo vanů.
+- **English:** A light is in the ceiling.
+- **Polish:** x
 
 ### Alternative Forms
 Null

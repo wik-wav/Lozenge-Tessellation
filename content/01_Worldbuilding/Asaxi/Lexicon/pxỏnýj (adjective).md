@@ -33,9 +33,12 @@ IPA: /pʰou̯nɪj/
 - Polish: okrągły, kulisty
 
 ### Example sentence
-**As an adjective:**
-- To apo pxỏnýj xiŕa.
-The apple is round.
+
+#### Example 1
+
+- **Asaxi:** to apo pxỏnýj xiŕa. the apple is round.
+- **English:** x
+- **Polish:** x
 
 ### Alternative Forms
 x

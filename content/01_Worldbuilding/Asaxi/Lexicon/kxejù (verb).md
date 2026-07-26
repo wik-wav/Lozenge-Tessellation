@@ -39,8 +39,12 @@ IPA: /kʰe̞jɯ/
 - Polish: opisywać
 
 ### Example sentence
-**Wo wao kxejù.**
-_I describe the world._
+
+#### Example 1
+
+- **Asaxi:** wo wao kxejù.
+- **English:** I describe the world.
+- **Polish:** x
 
 ### Alternative Forms
 Null

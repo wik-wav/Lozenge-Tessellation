@@ -31,8 +31,12 @@ IPA: /pɯkɾo/
 - Polish: podłoga
 
 ### Example sentence
-**To apo pùkŕo naŕa.**
-_An apple sits on the floor._
+
+#### Example 1
+
+- **Asaxi:** to apo pùkŕo naŕa.
+- **English:** An apple sits on the floor.
+- **Polish:** x
 
 ### Alternative Forms
 Null

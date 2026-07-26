@@ -19,7 +19,7 @@ tags:
 
 <span class="asaxi-script-alpha">wëè</span>
 ### Transitivity / Valency
-_monotransitive verb_ — takes a requirer and the thing required (e.g. _The work(1) requires effort(2)._)
+_monotransitive verb_ — takes a requirer and the thing required (e.g. The work(1) requires effort(2).)
 
 ### Lexical Aspect
 - **State** — an ongoing condition, not an event.
@@ -39,8 +39,12 @@ IPA: /ʋeɪə/
 - Polish: wymagać, potrzebować
 
 ### Example sentence
-**Anő xèronů xè wëè.**
-_Weight-training requires effort._
+
+#### Example 1
+
+- **Asaxi:** anő xèronů xè wëè.
+- **English:** Weight-training requires effort.
+- **Polish:** x
 
 ### Alternative Forms
 Null

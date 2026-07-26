@@ -26,4 +26,9 @@ Derived from **[[na- (relational locative) (particle)|na-]]** (On/Top).
 
 ### Example sentence
 
-**To wo shěso nashěsonů.** _I re-read the book._
+
+#### Example 1
+
+- **Asaxi:** to wo shěso nashěsonů.
+- **English:** I re-read the book.
+- **Polish:** x

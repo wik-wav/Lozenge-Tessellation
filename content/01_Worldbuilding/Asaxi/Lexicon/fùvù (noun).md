@@ -31,8 +31,12 @@ IPA: /fɯb̪vɯ/
 - Polish: płuco
 
 ### Example sentence
-**Fùvù fwù kma.**
-_The lungs hold air._
+
+#### Example 1
+
+- **Asaxi:** fùvù fwù kma.
+- **English:** The lungs hold air.
+- **Polish:** x
 
 ### Alternative Forms
 Null

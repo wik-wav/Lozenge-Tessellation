@@ -31,8 +31,12 @@ IPA: /aɕbipou̯/
 - Polish: spodnie
 
 ### Example sentence
-**Aśbipỏ aśobi naŕa.**
-_Trousers are on the legs._
+
+#### Example 1
+
+- **Asaxi:** aśbipỏ aśobi naŕa.
+- **English:** Trousers are on the legs.
+- **Polish:** x
 
 ### Alternative Forms
 Null

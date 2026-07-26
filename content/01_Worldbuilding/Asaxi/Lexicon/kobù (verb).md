@@ -39,8 +39,12 @@ IPA: /ko̞bɯ/
 - Polish: zginać
 
 ### Example sentence
-**Wo ŕobi kobù.**
-_I bend the wire._
+
+#### Example 1
+
+- **Asaxi:** wo ŕobi kobù.
+- **English:** I bend the wire.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -30,8 +30,12 @@ IPA: /ɦabau̯bau̯/
 - Polish: mięśnie klatki piersiowej
 
 ### Example sentence
-**To John xabåbå dănă ma.**
-_John has huge pecs._
+
+#### Example 1
+
+- **Asaxi:** to john xabåbå dănă ma.
+- **English:** John has huge pecs.
+- **Polish:** x
 
 ### Alternative Forms
 Null

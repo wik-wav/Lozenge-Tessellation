@@ -33,13 +33,21 @@ IPA: /maka/
 - Polish: pojemnik, naczynie
 
 ### Example sentence
-**Vamaka ŕoŕo xiŕa.**
-_There is water inside the container._
+
+#### Example 1
+
+- **Asaxi:** vamaka ŕoŕo xiŕa.
+- **English:** There is water inside the container.
+- **Polish:** x
 
 ### Example Sentence 2
 
-> **Jo sè gapo-săaai jamikùkiwa maka xiŕa!**
-> "It's a mass of scarlet fever germs!"
+
+#### Example 1
+
+- **Asaxi:** jo sè gapo-săaai jamikùkiwa maka xiŕa!
+- **English:** It's a mass of scarlet fever germs!
+- **Polish:** x
 
 ### Alternative Forms
 Null
@@ -60,4 +68,4 @@ Null
 
 ### Usage Note
 
-**Sense 2 (figurative).** `[sè X] maka` predicates that something is, in effect, nothing but a container of X. First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+**Sense 2 (figurative).** `[sè X] maka` predicates that something is, in effect, nothing but a container of X. First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

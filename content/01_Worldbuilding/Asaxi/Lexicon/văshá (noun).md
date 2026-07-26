@@ -31,8 +31,12 @@ IPA: /vaɪʃɑ/
 - Polish: rolnik, ogrodnik
 
 ### Example sentence
-**Văshá vigo ma.**
-_The farmer has seed._
+
+#### Example 1
+
+- **Asaxi:** văshá vigo ma.
+- **English:** The farmer has seed.
+- **Polish:** x
 
 ### Alternative Forms
 Null

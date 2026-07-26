@@ -35,8 +35,12 @@ IPA: /apo̞juu̯/
 - Polish: wyglądać jak jabłko
 
 ### Example sentence
-**To fwoo apojů.**
-_The cloud looks like an apple._
+
+#### Example 1
+
+- **Asaxi:** to fwoo apojů.
+- **English:** The cloud looks like an apple.
+- **Polish:** x
 
 ### Alternative Forms
 Null

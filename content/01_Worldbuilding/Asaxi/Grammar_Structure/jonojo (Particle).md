@@ -32,5 +32,9 @@ IPA: /ꞲonoꞲo/
 
 ### Example sentence
 
-**To wo shěso shěsonů jonojo.**
-_I read the books one by one._
+
+#### Example 1
+
+- **Asaxi:** to wo shěso shěsonů jonojo.
+- **English:** I read the books one by one.
+- **Polish:** x

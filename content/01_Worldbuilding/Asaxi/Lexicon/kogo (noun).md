@@ -31,8 +31,12 @@ IPA: /ko̞ɡo̞/
 - Polish: kolano
 
 ### Example sentence
-**Sè wo kogo tètá.**
-_My knee hurts._
+
+#### Example 1
+
+- **Asaxi:** sè wo kogo tètá.
+- **English:** My knee hurts.
+- **Polish:** x
 
 ### Alternative Forms
 Null

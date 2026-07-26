@@ -31,8 +31,12 @@ IPA: /t̪ət̪ɑɾo/
 - Polish: rana
 
 ### Example sentence
-**Sè xő tètáŕo dănýj.**
-_His wound is big._
+
+#### Example 1
+
+- **Asaxi:** sè xő tètáŕo dănýj.
+- **English:** His wound is big.
+- **Polish:** x
 
 ### Alternative Forms
 Null

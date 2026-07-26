@@ -31,8 +31,12 @@ IPA: /t̻͡s̪ka/
 - Polish: łopata
 
 ### Example sentence
-**Cka cù ůshů.**
-_A spade digs the soil._
+
+#### Example 1
+
+- **Asaxi:** cka cù ůshů.
+- **English:** A spade digs the soil.
+- **Polish:** x
 
 ### Alternative Forms
 Null

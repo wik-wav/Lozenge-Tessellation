@@ -36,8 +36,12 @@ IPA: /bao̞ɾo̞/
 
 ### Example sentence
 
-**Xő då Pỏpỏ ỏ txepỏvă hjinýj baoŕo zèkamŕů.**
-_He made the Rabbit a little nest among the bracken._
+
+#### Example 1
+
+- **Asaxi:** xő då pỏpỏ ỏ txepỏvă hjinýj baoŕo zèkamŕů.
+- **English:** He made the Rabbit a little nest among the bracken.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

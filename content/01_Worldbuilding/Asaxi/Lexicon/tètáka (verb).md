@@ -39,7 +39,12 @@ IPA: /t̪ət̪ɑka/
 - Polish: walczyć
 
 ### Example sentence
-**To wa tètáka.** _We fight._
+
+#### Example 1
+
+- **Asaxi:** to wa tètáka.
+- **English:** We fight.
+- **Polish:** x
 
 ### Alternative Forms
 Null

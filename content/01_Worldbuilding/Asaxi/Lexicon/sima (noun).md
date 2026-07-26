@@ -32,8 +32,12 @@ IPA: /ɕima/
 - Polish: wyspa
 
 ### Example sentence
-**Sobieszewska sima gahjină xiŕa.**
-_Sobieszewska is a small island._
+
+#### Example 1
+
+- **Asaxi:** sobieszewska sima gahjină xiŕa.
+- **English:** Sobieszewska is a small island.
+- **Polish:** x
 
 ### Alternative Forms
 x

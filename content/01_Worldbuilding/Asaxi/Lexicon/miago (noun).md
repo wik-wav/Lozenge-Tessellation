@@ -31,8 +31,12 @@ IPA: /miaɡo̞/
 - Polish: cukier
 
 ### Example sentence
-**Miago miană.**
-_Sugar is sweet._
+
+#### Example 1
+
+- **Asaxi:** miago miană.
+- **English:** Sugar is sweet.
+- **Polish:** x
 
 ### Alternative Forms
 Null

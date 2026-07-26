@@ -31,8 +31,12 @@ IPA: /au̯kam/
 - Polish: termin
 
 ### Example sentence
-**Åkam pavwo xogă.**
-_The deadline falls tomorrow._
+
+#### Example 1
+
+- **Asaxi:** åkam pavwo xogă.
+- **English:** The deadline falls tomorrow.
+- **Polish:** x
 
 ### Alternative Forms
 Null

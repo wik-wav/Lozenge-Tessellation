@@ -36,8 +36,12 @@ IPA: /aksami/
 
 ### Example sentence
 
-**Xő aksami să izoŕa.**
-_He was made only of velveteen._
+
+#### Example 1
+
+- **Asaxi:** xő aksami să izoŕa.
+- **English:** He was made only of velveteen.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

@@ -39,8 +39,12 @@ IPA: /t̪ɑɦo̞/
 - Polish: witać, pozdrawiać
 
 ### Example sentence
-**Wo vashá táxo.**
-_I greet the guest._
+
+#### Example 1
+
+- **Asaxi:** wo vashá táxo.
+- **English:** I greet the guest.
+- **Polish:** x
 
 ### Alternative Forms
 Null

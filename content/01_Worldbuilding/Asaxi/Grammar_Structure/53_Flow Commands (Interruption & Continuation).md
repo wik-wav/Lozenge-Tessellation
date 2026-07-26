@@ -25,13 +25,13 @@ The particle can appear at either end of the verb, depending on the speaker's fo
 
 - **Structure:** `[Verb]-nă`.
 - **Example:**
-    > **Exenă!** `Cry-CEASE` _"Stop crying!"_
+    > exenă! `Cry-CEASE` "Stop crying!"
 
 **B. Prefix (Pre-emptive/Sharp)** Attaches to the front of the verb.
 
 - **Structure:** `nă-[Verb]`.
 - **Example:**
-    > **Năshěsonů!** `CEASE-read` _"Stop reading!"_
+    > năshěsonů! `CEASE-read` "Stop reading!"
 
 **Distinction from `náhè`**
 
@@ -48,10 +48,10 @@ The particle can appear at either end of the verb, depending on the speaker's fo
 
 - **Structure:** `[Verb]-sů`.
 - **Example:**
-    > **Tom, shěsonůsů.** `Tom` `read-CONTINUE` _"Tom, continue reading."_
+    > tom, shěsonůsů. `Tom` `read-CONTINUE` "Tom, continue reading."
 
 **B. Prefix (Persistence)** Attaches to the front of the verb.
 
 - **Structure:** `sů-[Verb]`.
 - **Example:**
-    > **John, ni jåhjo sůijo.** `John` `towards` `guiding-star` `CONT-look` _"John, don't give up!"_ (Lit: Continue looking towards the destination)
+    > john, ni jåhjo sůijo. `John` `towards` `guiding-star` `CONT-look` "John, don't give up!" (Lit: Continue looking towards the destination)

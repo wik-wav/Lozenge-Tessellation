@@ -41,8 +41,12 @@ IPA: /ʋənaɪ/
 - English: lushly, verdantly
 
 ### Example sentence
-**Onă kjèŕo vènă.**
-_The forest is lush and verdant._
+
+#### Example 1
+
+- **Asaxi:** onă kjèŕo vènă.
+- **English:** The forest is lush and verdant.
+- **Polish:** x
 
 ### Alternative Forms
 Null

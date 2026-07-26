@@ -50,16 +50,16 @@ This system applies to all standard time units (Seconds, Minutes, Hours, Days, W
 
 These phrases function as **Temporal Adverbs**. They typically appear at the start of the sentence (Topic position) or immediately after the Subject.
 
-**Example 1 (Past):** `Să txă hùwo, wo zèxoxo.`
+**Example 1 (Past):** `să txă hùwo, wo zèxoxo.`
 - _Gloss:_ One year behind-here, 1SG PAST-depart.
 - _Meaning:_ "One year ago, I departed."
 
-**Example 2 (Future):** `Tam pxăa pawo, wo paxogă.`
+**Example 2 (Future):** `tam pxăa pawo, wo paxogă.`
 
 - _Gloss:_ Two months front-here, 1SG FUT-arrive.
 - _Meaning:_ "In two months, I will arrive."
 
-**Example 3 (Mixed):** `Să txă hùwo wo zèshěsonů dzè, să txă pawo wo panábů.`
+**Example 3 (Mixed):** `să txă hùwo wo zèshěsonů dzè, să txă pawo wo panábů.`
 
 - _Meaning:_ "One year ago I read, but one year from now I will not."
 
@@ -68,4 +68,4 @@ These phrases function as **Temporal Adverbs**. They typically appear at the sta
 - **Tense Prefixes (`zè-`, `pa-`):** Modify the _verb_ to indicate general tense (Past/Future).
 - **Relative Time Phrases (`hùwo`, `pawo`):** Modify the _sentence_ to specify the exact distance from the present.
 
-You can combine them for precision: `Să txă hùwo, wo zèxoxo.`
+You can combine them for precision: `să txă hùwo, wo zèxoxo.`

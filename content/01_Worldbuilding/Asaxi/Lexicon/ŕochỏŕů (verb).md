@@ -35,8 +35,12 @@ IPA: /ɾot̠ʃou̯ɾuw/
 - Polish: być spragnionym
 
 ### Example sentence
-**Ă wo ŕochỏŕů.**
-_I am thirsty. (lit. I generate thirst.)_
+
+#### Example 1
+
+- **Asaxi:** ă wo ŕochỏŕů.
+- **English:** I am thirsty. (lit. I generate thirst.)
+- **Polish:** x
 
 ### Alternative Forms
 Null

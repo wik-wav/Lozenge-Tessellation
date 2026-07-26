@@ -31,8 +31,12 @@ IPA: /t̪aɪbino/
 - Polish: rysunek, szkic, schemat
 
 ### Example sentence
-**To wo tăbino tăbiŕů.**
-_I draw a drawing._
+
+#### Example 1
+
+- **Asaxi:** to wo tăbino tăbiŕů.
+- **English:** I draw a drawing.
+- **Polish:** x
 
 ### Alternative Forms
 Null

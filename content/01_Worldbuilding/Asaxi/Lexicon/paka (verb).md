@@ -39,8 +39,12 @@ IPA: /paka/
 - Polish: uderzać
 
 ### Example sentence
-**Wo jýmbo paka.**
-_I strike the drum._
+
+#### Example 1
+
+- **Asaxi:** wo jýmbo paka.
+- **English:** I strike the drum.
+- **Polish:** x
 
 ### Alternative Forms
 Null

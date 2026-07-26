@@ -30,8 +30,12 @@ IPA: /pavʷo/
 - Polish: jutro, następny dzień
 
 ### Example sentence
-**Pavwo, to wo pashěsonů.**
-_Tomorrow (the day after today), I will read._
+
+#### Example 1
+
+- **Asaxi:** pavwo, to wo pashěsonů.
+- **English:** Tomorrow (the day after today), I will read.
+- **Polish:** x
 
 ### Alternative Forms
 Null

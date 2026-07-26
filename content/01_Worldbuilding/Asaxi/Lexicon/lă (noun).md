@@ -31,8 +31,12 @@ IPA: /laɪ/
 - Polish: luz, obwisłość
 
 ### Example sentence
-**Sè gùŕo lă ma.**
-_The rope has slack._
+
+#### Example 1
+
+- **Asaxi:** sè gùŕo lă ma.
+- **English:** The rope has slack.
+- **Polish:** x
 
 ### Alternative Forms
 Null

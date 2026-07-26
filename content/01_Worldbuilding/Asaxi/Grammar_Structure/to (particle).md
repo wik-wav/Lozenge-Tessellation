@@ -36,7 +36,7 @@ The particle changes form to indicate the speaker's attitude or the specific foc
 - **IPA:** /aɪ/ (Based on `ă` = /aɪ/)
 - **Usage:** Used for internal monologues, deep emotions, or subjective impressions (Epistemic states). It marks the subject as "felt" rather than "observed."
 - **Structure:** `ă [Subject]` (or `ă-` when fused in Epistemic blocks).
-- **Example:** **Ă wo...** ("I [feel/internally]...").
+- **Example:** ă wo... ("I [feel/internally]...").
 
 **3. Pompous (`oto`)**
 
@@ -52,11 +52,23 @@ The particle changes form to indicate the speaker's attitude or the specific foc
 
 ### Example sentence
 
-**Standard Transitive:** **To** wo shěso zèshěsonů. _I read the book._
+#### Example 1
 
-**Explanatory (Correction):** **Otto** wo shěso zèshěsonů. _It is **I** (not him) who read the book._
+- **Asaxi:** to wo shěso zèshěsonů.
+- **English:** Standard transitive: I read the book.
+- **Polish:** x
 
-**Pompous (Grandiloquent):** **Oto** wo... _it is I, (the great, glorious, grand, genial, gallant, gracious, gargantuan, gutsy one)..._
+#### Example 2
+
+- **Asaxi:** otto wo shěso zèshěsonů.
+- **English:** Explanatory correction: It is I, not him, who read the book.
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** oto wo...
+- **English:** Pompous or grandiloquent: It is I, the great, glorious, grand, genial, gallant, gracious, gargantuan, gutsy one...
+- **Polish:** x
 
 ### Alternate forms
 - **[[ă (particle)|ă]]** - Subjective Subject Marker (Internal/Emotional).

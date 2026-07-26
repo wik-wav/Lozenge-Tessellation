@@ -33,8 +33,12 @@ IPA: /pʰaɪ/
 **pxăa** (months).
 
 ### Example sentence
-To wo pxăa hùwo zèxoxo.
-I departed months ago.
+
+#### Example 1
+
+- **Asaxi:** to wo pxăa hùwo zèxoxo.
+- **English:** I departed months ago.
+- **Polish:** x
 
 ### Alternative Forms
 x

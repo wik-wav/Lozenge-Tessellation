@@ -36,8 +36,12 @@ IPA: /çonaɪ/
 - Polish: jasny, lśniący, interesujący, ciekawe
 
 ### Example sentence
-**Toonă o-shěso hjonă xiŕa.**
-_This book is interesting._
+
+#### Example 1
+
+- **Asaxi:** toonă o-shěso hjonă xiŕa.
+- **English:** This book is interesting.
+- **Polish:** x
 
 ### Alternative Forms
 Null

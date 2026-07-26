@@ -30,8 +30,12 @@ IPA: /baɪdau̯/
 
 ### Example sentence
 
-**Wa bădå dăfrë paxăhètáka.**
-_We will be forced to wage war for and because of Great Freedom._ (The cause compels the action).
+
+#### Example 1
+
+- **Asaxi:** wa bădå dăfrë paxăhètáka.
+- **English:** We will be forced to wage war for and because of Great Freedom. (The cause compels the action).
+- **Polish:** x
 
 ### Etymology
 **[[bă (particle)|bă]]** (Instrumental/Cause) + **[[då (particle)|då]]** (Benefactive/Purpose).

@@ -39,8 +39,12 @@ IPA: /t̻͡s̪əɦa/
 - Polish: uświadamiać sobie
 
 ### Example sentence
-**Wo ăvi cèxa.**
-_I realise the truth._
+
+#### Example 1
+
+- **Asaxi:** wo ăvi cèxa.
+- **English:** I realise the truth.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /ɹo̞ɡi/
 - Polish: brąz
 
 ### Example sentence
-**Rogi gacù.**
-_Bronze is brown._
+
+#### Example 1
+
+- **Asaxi:** rogi gacù.
+- **English:** Bronze is brown.
+- **Polish:** x
 
 ### Alternative Forms
 Null

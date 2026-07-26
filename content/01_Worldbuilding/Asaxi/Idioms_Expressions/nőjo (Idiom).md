@@ -21,9 +21,9 @@ tags:
 
 ### Usage Note
 
-Literally "**(I) see (you) there.**"
-* Reply by echoing: **Nőjo!**
-* Full formal form: **To wo no ijo.** ("I see you.")
+Literally "(I) see (you) there."
+* Reply by echoing: nőjo!
+- **Full formal form:** to wo no ijo. ("I see you.")
 
 ### Structure
 `no-` (MED) + `ijo` (see), with i-coalescence (`o` + `i` → `ő`)
@@ -33,8 +33,12 @@ IPA: /noɪjo/
 
 ### Example sentence
 
-**Nőjo, ăjo John! Ă no ksá?**
-_"Hello, John! How are you feeling?"_
+
+#### Example 1
+
+- **Asaxi:** nőjo, ăjo john! ă no ksá?
+- **English:** Hello, John! How are you feeling?
+- **Polish:** x
 
 ### Etymology
 

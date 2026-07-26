@@ -41,8 +41,12 @@ IPA: /t͡sɯnɪj/
 - English: drably, dully
 
 ### Example sentence
-**Onýj xapỏ cùnýj.**
-_The coat is a drab earthy-brown._
+
+#### Example 1
+
+- **Asaxi:** onýj xapỏ cùnýj.
+- **English:** The coat is a drab earthy-brown.
+- **Polish:** x
 
 ### Alternative Forms
 Null

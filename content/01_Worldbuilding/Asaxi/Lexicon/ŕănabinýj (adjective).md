@@ -62,17 +62,21 @@ Null
 - **[[ŕănabină (adjective)]]** (Warm - Biological/Gazelle-like).
 
 ### Example sentences
-**As an adjective:**
-- **Toonýj o-car ŕănabinýj xiŕa.**
-  _This car is fast._
 
-**As an adverb:**
-1. **Intransitive (Simple):**
-   - **To [machine] ŕănabinýj xů.**
-     _The machine works (does) rapidly._
-2. **Transitive (Object separation):**
-   - **To wo shěso ŕănabinýj shěsonů.**
-     _I read the book rapidly._ (Focus on speed of processing).
-3. **Contrast (Adjective vs. Adverb):**
-   - **To John ŕănabinýj [car] ma.** (John has a fast car).
-   - **To John [car] ŕănabinýj ma.** (John holds the car rapidly? / John possesses the car quickly?).
+#### Example 1
+
+- **Asaxi:** toonýj o-car ŕănabinýj xiŕa.
+- **English:** This car is fast.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to john ŕănabinýj [car] ma.
+- **English:** John has a fast car
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** to john [car] ŕănabinýj ma.
+- **English:** John holds the car rapidly? / John possesses the car quickly?
+- **Polish:** x

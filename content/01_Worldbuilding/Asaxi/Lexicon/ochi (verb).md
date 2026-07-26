@@ -39,8 +39,12 @@ IPA: /o̞t̠ʃi/
 - Polish: tonąć, opadać
 
 ### Example sentence
-**Go ŕoŕo ochi.**
-_The stone sinks in the water._
+
+#### Example 1
+
+- **Asaxi:** go ŕoŕo ochi.
+- **English:** The stone sinks in the water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /ɡaɪɦaɪnaɪ/
 - Polish: nieskończony
 
 ### Example sentence
-**To siŕo găxănă xiŕa.**
-_The Void is infinite._
+
+#### Example 1
+
+- **Asaxi:** to siŕo găxănă xiŕa.
+- **English:** The Void is infinite.
+- **Polish:** x
 
 ### Alternative Forms
 Null

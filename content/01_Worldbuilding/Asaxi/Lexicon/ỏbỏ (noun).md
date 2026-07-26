@@ -31,8 +31,12 @@ IPA: /ou̯bou̯/
 - Polish: poduszka
 
 ### Example sentence
-**To wo ỏbỏ nanů.**
-_I am on the cushion._
+
+#### Example 1
+
+- **Asaxi:** to wo ỏbỏ nanů.
+- **English:** I am on the cushion.
+- **Polish:** x
 
 ### Alternative Forms
 Null

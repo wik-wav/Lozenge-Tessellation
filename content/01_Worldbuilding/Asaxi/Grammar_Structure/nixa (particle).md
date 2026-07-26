@@ -26,7 +26,12 @@ IPA: /ɲiɦa/
 
 ### Example sentence
 
-**To xa nixa ijo.** _They (men) see themselves._
+
+#### Example 1
+
+- **Asaxi:** to xa nixa ijo.
+- **English:** They (men) see themselves.
+- **Polish:** x
 
 ### Etymology
 

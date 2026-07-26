@@ -31,8 +31,12 @@ IPA: /bou̯çɑ/
 - Polish: syn
 
 ### Example sentence
-**Sè wo bỏhjá mmbă.**
-_My son is a joy._
+
+#### Example 1
+
+- **Asaxi:** sè wo bỏhjá mmbă.
+- **English:** My son is a joy.
+- **Polish:** x
 
 ### Alternative Forms
 Null

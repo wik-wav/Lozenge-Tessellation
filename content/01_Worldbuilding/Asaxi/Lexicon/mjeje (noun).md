@@ -31,8 +31,12 @@ IPA: /mʲe̞je̞/
 - Polish: niedźwiedź
 
 ### Example sentence
-**Mjeje kjèŕo vanů.**
-_The bear is in the forest._
+
+#### Example 1
+
+- **Asaxi:** mjeje kjèŕo vanů.
+- **English:** The bear is in the forest.
+- **Polish:** x
 
 ### Alternative Forms
 Null

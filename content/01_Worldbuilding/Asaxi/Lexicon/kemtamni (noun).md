@@ -31,8 +31,12 @@ IPA: /kemt̪amɲi/
 - Polish: rodzina
 
 ### Example sentence
-**Sè wo kemtamni dănă.**
-_My family is big._
+
+#### Example 1
+
+- **Asaxi:** sè wo kemtamni dănă.
+- **English:** My family is big.
+- **Polish:** x
 
 ### Alternative Forms
 Null

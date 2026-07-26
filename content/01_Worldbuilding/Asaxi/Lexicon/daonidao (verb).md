@@ -39,8 +39,12 @@ IPA: /daoɲidao/
 - Polish: handlować, wymieniać się
 
 ### Example sentence
-**Wa daonidao.**
-_We trade [with each other]._
+
+#### Example 1
+
+- **Asaxi:** wa daonidao.
+- **English:** We trade [with each other].
+- **Polish:** x
 
 ### Alternative Forms
 Null

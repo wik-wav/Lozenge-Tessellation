@@ -31,8 +31,12 @@ IPA: /ɾoɾobi/
 - Polish: strumień
 
 ### Example sentence
-**To ŕoŕobi shosaŕo niŕa.**
-_The stream leads into the river._
+
+#### Example 1
+
+- **Asaxi:** to ŕoŕobi shosaŕo niŕa.
+- **English:** The stream leads into the river.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /ʋiɾo/
 - Polish: pole
 
 ### Example sentence
-**To paoshá viŕo vanů.**
-_The horse is out in the field._
+
+#### Example 1
+
+- **Asaxi:** to paoshá viŕo vanů.
+- **English:** The horse is out in the field.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -39,8 +39,12 @@ IPA: /t̪apɯ/
 - Polish: brać, chwytać
 
 ### Example sentence
-**Wo daono tapù.**
-_I take the gift._
+
+#### Example 1
+
+- **Asaxi:** wo daono tapù.
+- **English:** I take the gift.
+- **Polish:** x
 
 ### Alternative Forms
 Null

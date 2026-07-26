@@ -36,8 +36,12 @@ IPA: /fuwno̞no̞/
 
 ### Example sentence
 
-**Zá txăný pjonoshěsa ja fůnono dăgo.**
-_With the old picture-books and a lot of rubbish._
+
+#### Example 1
+
+- **Asaxi:** zá txăný pjonoshěsa ja fůnono dăgo.
+- **English:** With the old picture-books and a lot of rubbish.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

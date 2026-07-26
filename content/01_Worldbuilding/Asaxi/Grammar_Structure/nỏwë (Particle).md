@@ -26,4 +26,9 @@ IPA: /nou̯weɪ/
 
 ### Example sentence
 
-**To no xoxo nỏwë.** _You don't have to leave._
+
+#### Example 1
+
+- **Asaxi:** to no xoxo nỏwë.
+- **English:** You don't have to leave.
+- **Polish:** x

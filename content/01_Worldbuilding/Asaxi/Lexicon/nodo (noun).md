@@ -30,8 +30,12 @@ IPA: /nodo/
 - Polish: szyja
 
 ### Example sentence
-Sè xő nodo dăschi xiŕa.
-His neck is long. (Lit: Of him neck long-cm [is]).
+
+#### Example 1
+
+- **Asaxi:** sè xő nodo dăschi xiŕa.
+- **English:** His neck is long. (Lit: Of him neck long-cm [is]).
+- **Polish:** x
 
 ### Alternative Forms
 x

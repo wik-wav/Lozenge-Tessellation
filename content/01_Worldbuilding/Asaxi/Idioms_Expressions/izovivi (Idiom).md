@@ -32,13 +32,18 @@ IPA: /izovivi/
 - Polish: z całych sił, ile sił w nogach/płucach
 
 ### Example sentences
-**Physical Intensity:**
-**To John izovivi haśù.**
-_John runs as fast as he can._ (Lit: John runs from-life/desperately).
 
-**Mental Intensity:**
-**To wo izovivi xèshěsonů.**
-_I try to read with all my might._
+#### Example 1
+
+- **Asaxi:** to john izovivi haśù.
+- **English:** Physical Intensity: John runs as fast as he can. (Lit: John runs from-life/desperately).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo izovivi xèshěsonů.
+- **English:** Mental Intensity: I try to read with all my might.
+- **Polish:** x
 
 ### Alternative Forms
 - **izovi** (Shortened form: `izo` + `vi`).

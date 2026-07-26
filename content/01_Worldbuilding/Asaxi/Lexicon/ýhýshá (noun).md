@@ -31,8 +31,12 @@ IPA: /ɪxɪʃɑ/
 - Polish: mysz
 
 ### Example sentence
-**To ýhýshá pùtobo flamiŋshů.**
-_The mouse hides under the table._
+
+#### Example 1
+
+- **Asaxi:** to ýhýshá pùtobo flamiŋshů.
+- **English:** The mouse hides under the table.
+- **Polish:** x
 
 ### Alternative Forms
 x

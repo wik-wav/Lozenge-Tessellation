@@ -36,8 +36,12 @@ IPA: /ʑɪtʰaɪ/
 
 ### Example sentence
 
-**Vănotxă ja zhýtxă zèxopa.**
-_Autumn passed, and Winter._
+
+#### Example 1
+
+- **Asaxi:** vănotxă ja zhýtxă zèxopa.
+- **English:** Autumn passed, and Winter.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

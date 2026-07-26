@@ -31,8 +31,12 @@ IPA: /ogaɪ/
 - Polish: tutaj, tu
 
 ### Example sentence
-Ispăshá o-gă sỏni zèvivinů.
-Once wild animals lived here.
+
+#### Example 1
+
+- **Asaxi:** ispăshá o-gă sỏni zèvivinů.
+- **English:** Once wild animals lived here.
+- **Polish:** x
 
 ### Alternative Forms
 x

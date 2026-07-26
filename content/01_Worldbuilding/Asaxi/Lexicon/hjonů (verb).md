@@ -34,8 +34,12 @@ IPA: /çonuu̯/
 - Polish: życzyć sobie, pragnąć, marzyć
 
 ### Example sentence
-**To wo frë hjonů.**
-_I wish for freedom._
+
+#### Example 1
+
+- **Asaxi:** to wo frë hjonů.
+- **English:** I wish for freedom.
+- **Polish:** x
 
 ### Alternative Forms
 Null

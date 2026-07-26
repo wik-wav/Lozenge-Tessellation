@@ -41,8 +41,12 @@ IPA: /ʑɪnɪj/
 - English: coldly
 
 ### Example sentence
-**Gotopo zhýnýj.**
-_Hail is cold._
+
+#### Example 1
+
+- **Asaxi:** gotopo zhýnýj.
+- **English:** Hail is cold.
+- **Polish:** x
 
 ### Alternative Forms
 Null

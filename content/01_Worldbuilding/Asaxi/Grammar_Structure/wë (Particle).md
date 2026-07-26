@@ -26,7 +26,12 @@ IPA: /weɪ/
 
 ### Example sentence
 
-**To wo haśù wë.** _I need to run._
+
+#### Example 1
+
+- **Asaxi:** to wo haśù wë.
+- **English:** I need to run.
+- **Polish:** x
 
 ### Etymology
 

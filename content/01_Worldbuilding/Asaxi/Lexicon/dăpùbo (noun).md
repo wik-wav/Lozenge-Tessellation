@@ -31,8 +31,12 @@ IPA: /daɪpɯbo̞/
 - Polish: ławka
 
 ### Example sentence
-**Dăpùbo bakam banů.**
-_A bench is beside the wall._
+
+#### Example 1
+
+- **Asaxi:** dăpùbo bakam banů.
+- **English:** A bench is beside the wall.
+- **Polish:** x
 
 ### Alternative Forms
 Null

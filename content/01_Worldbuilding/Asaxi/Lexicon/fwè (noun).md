@@ -31,8 +31,12 @@ IPA: /fʷə/
 - Polish: mgiełka
 
 ### Example sentence
-**To fwè fwogă xaŕa.**
-_Mist hangs above the valley._
+
+#### Example 1
+
+- **Asaxi:** to fwè fwogă xaŕa.
+- **English:** Mist hangs above the valley.
+- **Polish:** x
 
 ### Alternative Forms
 Null

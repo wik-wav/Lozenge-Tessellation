@@ -31,8 +31,12 @@ IPA: /ɡokam/
 - Polish: wieża
 
 ### Example sentence
-**To shá gokam vaŕa.**
-_The person is inside the tower._
+
+#### Example 1
+
+- **Asaxi:** to shá gokam vaŕa.
+- **English:** The person is inside the tower.
+- **Polish:** x
 
 ### Alternative Forms
 Null

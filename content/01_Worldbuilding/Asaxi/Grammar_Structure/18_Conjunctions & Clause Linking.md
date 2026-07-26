@@ -29,7 +29,7 @@ These particles establish the logical relationship between two statements.
 
 **Example (Contrast):**
 
-> **To wo aśù dzè, haśùná.** `SUBJ` `1SG` `walk` `BUT` `run-NEG` _"I walk, but I do not run."_
+> to wo aśù dzè, haśùná. `SUBJ` `1SG` `walk` `BUT` `run-NEG` "I walk, but I do not run."
 > _Note:_ `aśù` (Walk) and `haśù` (Run) are Root Verbs. Negation is marked by appending `ná`.
 
 ### 2. The Causal Chain (`sèwo` / `ninå`)
@@ -46,21 +46,21 @@ Causality involves a dynamic pair of particles. While Asaxi prefers Head-Final s
 - **Structure:** `[Cause] sèwo, [Effect].`
 - **Meaning:** "Because `[Cause]`, `[Effect]`."
 
-> **To topo toponů sèwo, wo shěsonů.** `SUBJ` `rain` `raining` `SINCE`, `1SG` `read` _"Because it is raining, I read."_
+> to topo toponů sèwo, wo shěsonů. `SUBJ` `rain` `raining` `SINCE`, `1SG` `read` "Because it is raining, I read."
 
 **B. The Front-Loaded Exception (Emphasis)** If the speaker wishes to emphasize the reason by placing `sèwo` at the very **start** of the sentence, they **must** use `ninå` (Therefore) to mark the beginning of the result clause. This bracket structure balances the violation of Head-Final syntax.
 
-- **Structure:** `Sèwo [Cause], ninå [Effect].`
+- **Structure:** `sèwo [Cause], ninå [Effect].`
 - **Meaning:** "Since `[Cause]`, therefore `[Effect]`."
 
-> **Sèwo topo toponů, ninå wo shěsonů.** `SINCE` `rain` `raining` `THEREFORE` `1SG` `read` _"Since it is raining, therefore I read."_
+> sèwo topo toponů, ninå wo shěsonů. `SINCE` `rain` `raining` `THEREFORE` `1SG` `read` "Since it is raining, therefore I read."
 
 **C. The Mid-Sentence Fusion (`sèni`)** If `sèwo` (end of Clause A) meets `ninå` (start of Clause B), they fuse into **[[sèni (particle)|sèni]]**.
 
 - **Structure:** `[Cause] sèni [Effect].`
 - **Meaning:** "`[Cause]`, so/therefore `[Effect]`."
 
-> **To wo haśù sèni, to wo aśùná.** `SUBJ` `1SG` `run` `SO` `SUBJ` `1SG` `walk-NEG` _"I run, so I do not walk."_
+> to wo haśù sèni, to wo aśùná. `SUBJ` `1SG` `run` `so` `SUBJ` `1SG` `walk-NEG` "I run, so I do not walk."
 
 ---
 
@@ -81,7 +81,7 @@ Used to link two specific events in time.
 
 #### B. Temporal Aspect (The `-nå` Matrix)
 
-These particles modify the state of the action relative to **Nå** (Now). They appear at the end of the sentence.
+These particles modify the state of the action relative to **nå** (Now). They appear at the end of the sentence.
 
 |Particle|Meaning|Etymology|Logic|
 |---|---|---|---|
@@ -105,13 +105,13 @@ These particles define how often an action occurs. Syntactically, they behave li
 ### Usage Examples
 
 **1. Frequency (Pre-Verbal)**
-> **To wo nanå shěsonů.** `SUBJ` `1SG` `OFTEN` `read` _"I often read."_
+> to wo nanå shěsonů. `SUBJ` `1SG` `OFTEN` `read` "I often read."
 
 **2. Negative Frequency**
-> **To wo nåsi shěsonů.** `SUBJ` `1SG` `NEVER` `read` _"I never read."_
+> to wo nåsi shěsonů. `SUBJ` `1SG` `NEVER` `read` "I never read."
 
 **3. Habitual**
-> **To wo opùnå shěso shěsonů.** `SUBJ` `1SG` `USUALLY` `book` `read` _"I usually read books."_
+> to wo opùnå shěso shěsonů. `SUBJ` `1SG` `USUALLY` `book` `read` "I usually read books."
 
 ### 4. Conditional (`chě`)
 
@@ -123,11 +123,11 @@ Marks the preceding clause as a hypothetical condition. Always Head-Final.
 **Context:**
 > Leaning over the railing of a zoo enclosure while holding an apple. The speaker gestures toward the specific animal directly below them (`o-jýnn`) and posits a hypothetical to a friend. The immediate physical presence of the fruit and the speaker allows for the efficient omission (Pro-drop) of the Subject ("I") and the Direct Object ("Apple").
 
-**Topù [[chě (particle)|chě]], onă o-jýnn chỏnů.** 
+topù [[chě (particle)|chě]], onă o-jýnn chỏnů. 
 `drop IF DEF.WARM PROX-hyena eat` 
-_If (I) drop (it), this hyena (will) eat (it)._
+If (I) drop (it), this hyena (will) eat (it).
 
-**To John dåni Tom onă gajýnapo dao chě, Tom gajýn niŕa.** 
+to john dåni tom onă gajýnapo dao chě, tom gajýn niŕa. 
 `SUBJ John DAT-ALL Tom DEF.WARM hyena-apple give IF Tom were-hyena destined-to-be_
 "If John gives Tom the hyena-apple (here), Tom is destined to become a were-hyena."_
 
@@ -143,13 +143,13 @@ The standard conditional particle **chě** can be modified by suffixes to alter 
 
 **1. Concessive (`chěxa`)**
 
-> **Topo toponů chěxa, pahaśù.** 
+> topo toponů chěxa, pahaśù. 
 > `rain` `raining` `EVEN.IF`, `FUT-run` _
 > "Even if it rains, (I) will run."_
 
 **2. Negative Conditional (`chěná`)**
 
-> **John chỏnů chěná, xő gadă panániŕa.** 
+> john chỏnů chěná, xő gadă panániŕa. 
 > `John` `eat` `UNLESS`, `he` `immensity` `FUT-NEG-destined-for` _
 > "Unless John eats, he will not become immense/giant._
 

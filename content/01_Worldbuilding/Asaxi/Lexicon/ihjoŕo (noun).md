@@ -31,8 +31,12 @@ IPA: /iço̞ɾo̞/
 - Polish: grób
 
 ### Example sentence
-**Ihjoŕo cù pùŕa.**
-_A tomb lies below the soil._
+
+#### Example 1
+
+- **Asaxi:** ihjoŕo cù pùŕa.
+- **English:** A tomb lies below the soil.
+- **Polish:** x
 
 ### Alternative Forms
 Null

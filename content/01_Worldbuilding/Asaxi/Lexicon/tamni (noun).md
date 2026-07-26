@@ -31,10 +31,12 @@ IPA: /t̪amni/
 - Polish: Robienie we dwójkę, bycie razem
 
 ### Example sentence
-- As a noun: 
-	**Toonă sháma då tamni ỏbwonů.** _The people cuddle for the sake of companionship (going as a pair)._
-- As an adverb:
-	**Onă sháma tamnină zèxoxo**. _The creatures departed together as a pair._
+
+#### Example 1
+
+- **Asaxi:** toonă sháma då tamni ỏbwonů.
+- **English:** As a noun: The people cuddle for the sake of companionship (going as a pair). As an adverb: Onă sháma tamnină zèxoxo. The creatures departed together as a pair.
+- **Polish:** x
 
 ### Alternative Forms
 Null

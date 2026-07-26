@@ -31,8 +31,12 @@ IPA: /sɯɡɡo̞/
 - Polish: marmur
 
 ### Example sentence
-**Sùggo gasi.**
-_Marble is white._
+
+#### Example 1
+
+- **Asaxi:** sùggo gasi.
+- **English:** Marble is white.
+- **Polish:** x
 
 ### Alternative Forms
 Null

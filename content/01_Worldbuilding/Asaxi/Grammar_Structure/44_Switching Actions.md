@@ -29,7 +29,7 @@ Used to command someone to stop what they are doing and do something else immedi
 
 **Example:**
 
-> **Shěsonů tomo nåhèhaśù!** `read` `STOP` `NOW-DO-run` _"Stop reading (and) run!"_ / _"Run instead of reading!"_
+> shěsonů tomo nåhèhaśù! `read` `STOP` `NOW-DO-run` "Stop reading (and) run!" / "Run instead of reading!"
 
 ### 2. The Declarative Switch (`panå-`)
 
@@ -41,7 +41,7 @@ Used to state that the subject will immediately switch to a new action, replacin
 
 **Example:**
 
-> **To wo panåshěsonů.** `SUBJ` `1SG` `FUT-NOW-read` _"I will read now (instead of what I am doing)."_
+> to wo panåshěsonů. `SUBJ` `1SG` `FUT-NOW-read` "I will read now (instead of what I am doing)."
 
 **Distinction:**
 

@@ -32,8 +32,12 @@ IPA: /kampou̯no/
 - Polish: ubranie, odzież
 
 ### Example sentence
-**Sèwo zhý, ninå wo kampỏno wë.**
-_Because it is cold, I need clothing._
+
+#### Example 1
+
+- **Asaxi:** sèwo zhý, ninå wo kampỏno wë.
+- **English:** Because it is cold, I need clothing.
+- **Polish:** x
 
 ### Alternative Forms
 x

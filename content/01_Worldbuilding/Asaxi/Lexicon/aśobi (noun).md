@@ -30,8 +30,12 @@ IPA: /aɕobi/
 - Polish: noga (cała)
 
 ### Example sentence
-**Aśobi dănă ůjů.**
-_(the) leg looks huge._
+
+#### Example 1
+
+- **Asaxi:** aśobi dănă ůjů.
+- **English:** (the) leg looks huge.
+- **Polish:** x
 
 ### Alternative Forms
 Null

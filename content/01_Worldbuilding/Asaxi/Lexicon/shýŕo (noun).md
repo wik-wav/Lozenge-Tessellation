@@ -32,8 +32,12 @@ IPA: /ʃɪɾo/
 - Polish: lód
 
 ### Example sentence
-**Zhý vå, ŕoŕo ni shýŕo ůků.**
-_When (it is) cold, water turns into ice._
+
+#### Example 1
+
+- **Asaxi:** zhý vå, ŕoŕo ni shýŕo ůků.
+- **English:** When (it is) cold, water turns into ice.
+- **Polish:** x
 
 ### Alternative Forms
 x

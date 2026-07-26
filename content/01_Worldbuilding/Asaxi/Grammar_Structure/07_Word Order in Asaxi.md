@@ -32,7 +32,7 @@ The default, neutral sentence places the actor first, the target second, and the
 
 **Example:**
 
-> **To John shěso shěsonů.** _John reads the book._
+> to john shěso shěsonů. John reads the book.
 
 ### Subject vs. Object Identification
 
@@ -57,7 +57,7 @@ Asaxi is a **Null-Topic Language**. This means the sentence is structured around
 
 1. **The Hidden Topic:** Once a topic is established, it is **omitted**.
     - _Context:_ "What about John?"
-    - _Answer:_ `Shěso shěsonů.` ("(As for him), reading a book.")
+    - _Answer:_ `shěso shěsonů.` ("(As for him), reading a book.")
 2. **Explicit Topic (`dhè`):** If you need to shift the topic or emphasize it, you use the particle **[[dhè (particle)|dhè]]**.
 
 ---
@@ -68,17 +68,17 @@ The marker (`to` or `ă`) is **not mandatory** in standard speech (both formal a
 
 **A. Intransitive / Stative Clauses** If there is only one noun, the marker is almost always dropped.
 
-- _Example:_ **John shá xiŕa.** (John is a person).
+- _Example:_ john shá xiŕa. (John is a person).
 
 **B. Transitive Clauses (Strict SOV)** If the subject marker is dropped in a sentence with two nouns, **Strict Word Order** is enforced to prevent ambiguity.
 
 - **Rule:** The **First** unmarked noun is the Subject. The **Second** unmarked noun is the Object.
-- _Example:_ **John shěso shěsonů.** (John reads the book).
+- _Example:_ john shěso shěsonů. (John reads the book).
 
  **C. Emphatic** `to`
 Even in standard S-O-V order, inserting `to` places specific focus on the Subject.
 - **Example:**
-    > **To John shěso shěsonů.** _Nuance:_ "It is **John** (specifically) who is reading the book."
+    > to john shěso shěsonů. _Nuance:_ "It is **John** (specifically) who is reading the book."
 
 ---
 
@@ -90,8 +90,8 @@ Because the Subject can be explicitly marked, it may be moved away from the star
 
 **Constraint B: The Pause (Disambiguation)** When moving the Subject to a position _after_ a prepositional phrase or object, a **Pause (Comma)** is often required to prevent the subject marker from being misinterpreted as a **Linker**.
 
-- _Without Pause:_ `Izo sháŕo **to** Mary...` (The Mary from the pool...). (`to` links the phrase to the noun).
-- _With Pause:_ `Izo sháŕo, **to** Mary...` (From the pool, Mary...). (The comma breaks the link, allowing `to` to mark the Subject).
+- _Without Pause:_ `izo sháŕo **to** mary...` (The Mary from the pool...). (`to` links the phrase to the noun).
+- _With Pause:_ `izo sháŕo, **to** mary...` (From the pool, Mary...). (The comma breaks the link, allowing `to` to mark the Subject).
 
 **Structure:**
 
@@ -99,7 +99,7 @@ Because the Subject can be explicitly marked, it may be moved away from the star
 
 **Example (Dramatic Reveal):**
 
-> **Shěso shěsonů, to John.** _Reading the book... is John._
+> shěso shěsonů, to john. Reading the book... is John.
 
 ---
 
@@ -111,7 +111,7 @@ While the Verb ends the _grammatical_ clause, specific particles may trail after
 
 > `[Verb] + (Mood/Imperative) + (Discourse Marker) + (Conjunction)`
 
-- **Example:** `Shěsonů **ë dzè**...` (Reads, right? But...)
+- **Example:** `shěsonů ë dzè...` (Reads, right? But...)
 
 ---
 
@@ -125,7 +125,7 @@ Asaxi achieves Passive Voice by promoting the Object to the **Topic** position u
 
 **Example:**
 
-> **Dhè kjèpo Tom zèchỏnů.** `TOP` `tree` `Tom` `PAST-chop` _"The tree was chopped by Tom."_
+> dhè kjèpo tom zèchỏnů. `TOP` `tree` `Tom` `PAST-chop` "The tree was chopped by Tom."
 
 ---
 
@@ -136,12 +136,12 @@ Specific temporal nouns (like **hwo** "Yesterday", **vwo** "Today", **pwo** "Tom
 **A. Sentence-Initial (Frame / Topic)**
 
 - **Structure:** `[Time], [Subject] ... [Verb]`
-- **Example:** **Hwo, to wo zèxoxo.** ("Yesterday, I departed.")
+- **Example:** hwo, to wo zèxoxo. ("Yesterday, I departed.")
 
 **B. Post-Subject (Standard Adverb)**
 
 - **Structure:** `[Subject] [Time] ... [Verb]`
-- **Example:** **To wo hwo zèxoxo.** ("I yesterday departed.")
+- **Example:** to wo hwo zèxoxo. ("I yesterday departed.")
 
 - - -
 
@@ -156,10 +156,10 @@ In **Causative** sentences ("Make X do Y"), ambiguity can arise regarding who is
 
 **Example: Waking Up**
 
-> **Wo hèpăŕokă.** `1SG` `CAUS-emerge-PLEASE` _"Please wake me up."_ (Lit: Please make me emerge).
+> wo hèpăŕokă. `1SG` `CAUS-emerge-PLEASE` "Please wake me up." (Lit: Please make me emerge).
 
-- **Parsing without `kă`:** `Wo hèpăŕo.` → Ambiguous. "I make (someone) emerge" OR "I am made to emerge."
-- **Parsing with `kă`:** Since you are asking the listener to do it, "You" are the Causer. Therefore, `Wo` must be the one waking.
+- **Parsing without `kă`:** `wo hèpăŕo.` → Ambiguous. "I make (someone) emerge" OR "I am made to emerge."
+- **Parsing with `kă`:** Since you are asking the listener to do it, "You" are the Causer. Therefore, `wo` must be the one waking.
 
 ---
 

@@ -31,8 +31,12 @@ IPA: /mou̯t̪am/
 - Polish: żona
 
 ### Example sentence
-**Sè wo mỏtam.**
-_My wife._
+
+#### Example 1
+
+- **Asaxi:** sè wo mỏtam.
+- **English:** My wife.
+- **Polish:** x
 
 ### Alternative Forms
 Null

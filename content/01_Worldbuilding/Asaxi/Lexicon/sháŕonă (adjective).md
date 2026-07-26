@@ -36,8 +36,12 @@ IPA: /ʃɑɾonaɪ/
 - Polish: bezpieczny
 
 ### Example sentence
-**To o-kamm sháŕonă xiŕa.**
-_This building is safe._
+
+#### Example 1
+
+- **Asaxi:** to o-kamm sháŕonă xiŕa.
+- **English:** This building is safe.
+- **Polish:** x
 
 ### Alternative Forms
 Null

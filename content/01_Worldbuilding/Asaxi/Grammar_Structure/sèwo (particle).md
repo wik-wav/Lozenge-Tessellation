@@ -28,7 +28,7 @@ aliases:
 - `[Cause] sèwo, [Effect].` 
 
 **B. Front-Loaded (Emphatic):** Placed at the start of the sentence. Requires **ninå** to mark the result.
-- `Sèwo [Cause], ninå [Effect].`
+- `sèwo [Cause], ninå [Effect].`
 
 ### Etymology
 
@@ -40,4 +40,9 @@ IPA: /səwo/
 
 ### Example sentence
 
-**To topo toponů sèwo, wo shěsonů.** _Because it is raining, I read._
+
+#### Example 1
+
+- **Asaxi:** to topo toponů sèwo, wo shěsonů.
+- **English:** Because it is raining, I read.
+- **Polish:** x

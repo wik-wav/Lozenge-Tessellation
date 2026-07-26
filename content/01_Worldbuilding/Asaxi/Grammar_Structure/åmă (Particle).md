@@ -30,8 +30,12 @@ IPA: /au̯maɪ/
 
 ### Example sentence
 
-**To wo åmă pashěsonů.**
-_I will read every time (I have the chance)._
+
+#### Example 1
+
+- **Asaxi:** to wo åmă pashěsonů.
+- **English:** I will read every time (I have the chance).
+- **Polish:** x
 
 ### Etymology
 

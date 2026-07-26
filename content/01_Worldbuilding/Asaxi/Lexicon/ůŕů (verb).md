@@ -39,8 +39,12 @@ IPA: /uu̯ɾɯ/
 - Polish: wytwarzać, wydawać
 
 ### Example sentence
-**Mùù sino ůŕů.**
-_The cow produces milk._
+
+#### Example 1
+
+- **Asaxi:** mùù sino ůŕů.
+- **English:** The cow produces milk.
+- **Polish:** x
 
 ### Alternative Forms
 Null

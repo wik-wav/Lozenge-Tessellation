@@ -31,8 +31,12 @@ IPA: /saɪmaka/
 - Polish: garnek
 
 ### Example sentence
-**Ŕoŕo sămaka vanů.**
-_Water is in the pot._
+
+#### Example 1
+
+- **Asaxi:** ŕoŕo sămaka vanů.
+- **English:** Water is in the pot.
+- **Polish:** x
 
 ### Alternative Forms
 Null

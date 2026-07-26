@@ -39,5 +39,5 @@ A reduplicative form of the quantifier **mă** (every), used to signal totality 
 
 ### Examples
 
-**Mămă apo gapo xiŕa.**
- _Every apple is red._
+mămă apo gapo xiŕa.
+Every apple is red.

@@ -31,8 +31,12 @@ IPA: /fʷɯno̞/
 - Polish: róg
 
 ### Example sentence
-**Fwùno jýno ůŕů.**
-_A horn sounds._
+
+#### Example 1
+
+- **Asaxi:** fwùno jýno ůŕů.
+- **English:** A horn sounds.
+- **Polish:** x
 
 ### Alternative Forms
 Null

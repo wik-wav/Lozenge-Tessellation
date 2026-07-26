@@ -40,8 +40,12 @@ IPA: /me.m̩/
 - Polish: zamykać
 
 ### Example sentence
-**Kem zèmemm.**
-_The door closed._
+
+#### Example 1
+
+- **Asaxi:** kem zèmemm.
+- **English:** The door closed.
+- **Polish:** x
 
 ### Alternative Forms
 Null

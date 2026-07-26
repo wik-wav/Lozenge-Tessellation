@@ -39,8 +39,12 @@ IPA: /pʲo̞b̪va/
 - Polish: żarzyć się
 
 ### Example sentence
-**Xagi pjova.**
-_The ember glows._
+
+#### Example 1
+
+- **Asaxi:** xagi pjova.
+- **English:** The ember glows.
+- **Polish:** x
 
 ### Alternative Forms
 Null

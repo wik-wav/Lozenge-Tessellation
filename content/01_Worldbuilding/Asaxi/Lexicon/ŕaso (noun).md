@@ -31,8 +31,12 @@ IPA: /ɾaso/
 - Polish: para
 
 ### Example sentence
-**To ŕaso ŕoŕo izoŕa.**
-_Steam comes off the water._
+
+#### Example 1
+
+- **Asaxi:** to ŕaso ŕoŕo izoŕa.
+- **English:** Steam comes off the water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

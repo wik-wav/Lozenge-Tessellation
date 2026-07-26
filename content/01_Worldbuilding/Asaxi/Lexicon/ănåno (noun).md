@@ -31,11 +31,18 @@ IPA: /aɪnau̯no/
 - Polish: czekanie, postój, zwłoka, okres oczekiwania
 
 ### Example sentence
-**Wa sè ănåno pawo zèhaśù.**
-_After the wait, we ran._
 
-**Ănåno gaå.**
-_A wait is made of time._ (aphoristic)
+#### Example 1
+
+- **Asaxi:** wa sè ănåno pawo zèhaśù.
+- **English:** After the wait, we ran.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** ănåno gaå.
+- **English:** A wait is made of time. (aphoristic)
+- **Polish:** x
 
 ### Alternative Forms
 Null

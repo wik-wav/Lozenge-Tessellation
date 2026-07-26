@@ -31,8 +31,12 @@ IPA: /içɑka/
 - Polish: igła
 
 ### Example sentence
-**Ihjáka pỏbi kma.**
-_A needle holds the thread._
+
+#### Example 1
+
+- **Asaxi:** ihjáka pỏbi kma.
+- **English:** A needle holds the thread.
+- **Polish:** x
 
 ### Alternative Forms
 Null

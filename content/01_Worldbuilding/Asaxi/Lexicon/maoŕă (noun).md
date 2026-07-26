@@ -36,8 +36,12 @@ IPA: /mao̞ɾaɪ/
 
 ### Example sentence
 
-**Va hjávakam gamaoŕă dăna åa.**
-_Those long moonlight hours in the nursery._
+
+#### Example 1
+
+- **Asaxi:** va hjávakam gamaoŕă dăna åa.
+- **English:** Those long moonlight hours in the nursery.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

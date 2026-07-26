@@ -31,8 +31,12 @@ IPA: /ɦaɡi/
 - Polish: żar
 
 ### Example sentence
-**To xagi ŕăană xiŕa.**
-_The ember is hot._
+
+#### Example 1
+
+- **Asaxi:** to xagi ŕăană xiŕa.
+- **English:** The ember is hot.
+- **Polish:** x
 
 ### Alternative Forms
 Null

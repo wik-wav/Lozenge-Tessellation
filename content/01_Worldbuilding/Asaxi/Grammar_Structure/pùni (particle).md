@@ -24,7 +24,7 @@ tags:
 
 Must be paired with the complement **[[izo (particle)|izo]]** (From/Than).
 
-- **Structure:** `Pùni [Noun A] izo [Noun B]...`
+- **Structure:** `pùni [Noun A] izo [Noun B]...`
 
 ### Pronunciation
 
@@ -36,4 +36,9 @@ IPA: /pɯɲi/
 
 ### Example sentence
 
-**Pùni John izo Tom apa dănă chỏnů.** _John munches on apples less heavily than Tom._
+
+#### Example 1
+
+- **Asaxi:** pùni john izo tom apa dănă chỏnů.
+- **English:** John munches on apples less heavily than Tom.
+- **Polish:** x

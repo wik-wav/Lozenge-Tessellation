@@ -37,8 +37,12 @@ IPA: /alaɪnuw/
 - Polish: poluzować, rozluźnić
 
 ### Example sentence
-Sè wo ỏbwo alănů.
-(I) loosen my belly.
+
+#### Example 1
+
+- **Asaxi:** sè wo ỏbwo alănů.
+- **English:** (I) loosen my belly.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -31,8 +31,12 @@ IPA: /bou̯t̪am/
 - Polish: mąż
 
 ### Example sentence
-**Sè wo bỏtam.**
-_My husband._
+
+#### Example 1
+
+- **Asaxi:** sè wo bỏtam.
+- **English:** My husband.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -23,7 +23,12 @@ tags:
 IPA: /waɪ/
 
 ### Example sentence
-**To wo wă apa ma.** _"I have nine apples."_
+
+#### Example 1
+
+- **Asaxi:** to wo wă apa ma.
+- **English:** I have nine apples.
+- **Polish:** x
 
 ### Derived terms
 - **biwă** (9th)

@@ -29,8 +29,12 @@ IPA: /ozə/
 - Polish: przed chwilą
 
 ### Example sentence
-**Vozè to wo zèxogă.**
-_I arrived (just) a moment ago._
+
+#### Example 1
+
+- **Asaxi:** vozè to wo zèxogă.
+- **English:** I arrived (just) a moment ago.
+- **Polish:** x
 
 ### Alternative Forms
 Null

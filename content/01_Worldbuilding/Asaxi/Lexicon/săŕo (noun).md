@@ -31,8 +31,12 @@ IPA: /saɪɾo̞/
 - Polish: pot
 
 ### Example sentence
-**Săŕo kamnawo nanů.**
-_Sweat lies on the skin._
+
+#### Example 1
+
+- **Asaxi:** săŕo kamnawo nanů.
+- **English:** Sweat lies on the skin.
+- **Polish:** x
 
 ### Alternative Forms
 Null

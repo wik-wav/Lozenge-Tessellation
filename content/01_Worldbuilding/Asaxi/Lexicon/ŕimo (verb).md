@@ -39,8 +39,12 @@ IPA: /ɾimo̞/
 - Polish: wyobrażać sobie
 
 ### Example sentence
-**Wo wao ŕimo.**
-_I imagine a world._
+
+#### Example 1
+
+- **Asaxi:** wo wao ŕimo.
+- **English:** I imagine a world.
+- **Polish:** x
 
 ### Alternative Forms
 Null

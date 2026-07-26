@@ -40,8 +40,12 @@ IPA: /naɪiꞲo/ (Contraction of ná-ă-ijo).
 Describes the absence of the "grip" or "realization" found in `ăijo`. The subject is adrift in the current context.
 
 ### Example sentence
-**Wo năijo.**
-_I am lost (in this situation)._ / _I don't get it._
+
+#### Example 1
+
+- **Asaxi:** wo năijo.
+- **English:** I am lost (in this situation)._ / _I don't get it.
+- **Polish:** x
 
 ### Alternative Forms
 x

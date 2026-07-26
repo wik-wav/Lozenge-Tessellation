@@ -36,8 +36,12 @@ IPA: /ɦae̞mbi/
 
 ### Example sentence
 
-**Dhè onă Bỏhjá ni xaembi hùzèmaaśù.**
-_The Boy had been carried out onto the balcony._
+
+#### Example 1
+
+- **Asaxi:** dhè onă bỏhjá ni xaembi hùzèmaaśù.
+- **English:** The Boy had been carried out onto the balcony.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

@@ -31,8 +31,12 @@ IPA: /saɪno̞ʃɑ/
 - Polish: kucharz
 
 ### Example sentence
-**Sănoshá chỏno ůků.**
-_The cook makes food._
+
+#### Example 1
+
+- **Asaxi:** sănoshá chỏno ůků.
+- **English:** The cook makes food.
+- **Polish:** x
 
 ### Alternative Forms
 Null

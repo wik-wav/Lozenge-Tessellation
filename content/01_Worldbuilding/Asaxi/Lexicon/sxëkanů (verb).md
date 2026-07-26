@@ -36,8 +36,12 @@ IPA: /sɦeɪkanuu̯/
 - Polish: strzyc
 
 ### Example sentence
-**Wo pỏ sxëkanů.**
-_I shear the wool._
+
+#### Example 1
+
+- **Asaxi:** wo pỏ sxëkanů.
+- **English:** I shear the wool.
+- **Polish:** x
 
 ### Alternative Forms
 Null

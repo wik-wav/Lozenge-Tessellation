@@ -39,8 +39,12 @@ IPA: /d̻͡z̪oʔ/
 - Polish: łamać, psuć
 
 ### Example sentence
-**Wo maka zèdzo'.**
-_I broke the container._
+
+#### Example 1
+
+- **Asaxi:** wo maka zèdzo'.
+- **English:** I broke the container.
+- **Polish:** x
 
 ### Alternative Forms
 Null

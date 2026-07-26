@@ -40,14 +40,19 @@ IPA: /zɯnɪj/
 - English: skillfully, well, adeptly
 - Polish: wprawnie, zręcznie
 
-### Example sentence
-**As an adverb (Manner):**
-- To John zùnýj shěsonů.
-John reads skillfully (John is skilled at reading).
+### Example sentences
 
-**As an adjective:**
-- To John zùnýj xiŕa.
-John is skilled.
+#### Example 1
+
+- **Asaxi:** to john zùnýj shěsonů.
+- **English:** Manner adverb: John reads skillfully (John is skilled at reading).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to john zùnýj xiŕa.
+- **English:** Adjective: John is skilled.
+- **Polish:** x
 
 ### Alternative Forms
 x

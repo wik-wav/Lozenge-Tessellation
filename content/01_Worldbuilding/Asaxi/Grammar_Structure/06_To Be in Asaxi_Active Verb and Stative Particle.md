@@ -33,7 +33,7 @@ This particle marks **Essential Identity**. It asserts that the subject _is_ the
 
 The Stative Particle `xiŕa` may be dropped from the sentence. The implied meaning of the dropped particle is "Existence".
 
-> **John shá.** (John (exists as) a human.) **Shěso.** (A book (exists).)
+> john shá. (John (exists as) a human.) shěso. (A book (exists).)
 
 ### 2. The Active Verb (`ů` / `ůná`)
 
@@ -83,7 +83,7 @@ It connects the Subject to an **Adjective** or **State**.
 
 **Example:**
 
-> **To apo gadă ů.** _"The apple is (presently) big."_
+> to apo gadă ů. "The apple is (presently) big."
 > 
 > - **Nuance:** It is big right now, but it could be eaten (made smaller). Bigness is treated as a current state, not an immutable definition of the apple's species.
 
@@ -113,20 +113,20 @@ Asaxi is strictly predicate-final. Both the particle and the verb appear at the 
 
 **1. Essential Identity (Stative)**
 
-> **John shá xiŕa.** _John is a person._ (Species/Fact) **John shěso nèra.** _John is not a book._
+> john shá xiŕa. John is a person. (Species/Fact) john shěso nèra. John is not a book.
 
 **2. Dynamic State (Active)**
 
-> **She sad ů.** _She is sad._ (Current emotional **state**). **John happy ůná.** _John is not happy._ (He is not currently **performing happiness**). **He doctor ů.** _He is a doctor._ (He **performs** this role).
+> she sad ů. She is sad. (Current emotional **state**). john happy ůná. John is not happy. (He is not currently **performing happiness**). he doctor ů. He is a doctor. (He **performs** this role).
 
 ### 3. Minimal Pair Comparison
 
 | Sentence              | Gloss                | Meaning                                                                 |
 | --------------------- | -------------------- | ----------------------------------------------------------------------- |
-| **Anna mother xiŕa.** | Anna mother `EXIST`  | **Anna is a mother.** (Biological fact / Kinship relation).             |
-| **Anna mother ů.**    | Anna mother `ACT.BE` | **Anna is being motherly.** (She is parenting right now).               |
-| **John stone xiŕa.**  | John stone `EXIST`   | **John is a stone.** (He is literally a rock).                          |
-| **John stone ů.**     | John stone `ACT.BE`  | **John is being a stone.** (He is standing still / acting emotionless). |
+| anna mother xiŕa. | Anna mother `EXIST`  | Anna is a mother. (Biological fact / Kinship relation).             |
+| anna mother ů.    | Anna mother `ACT.BE` | Anna is being motherly. (She is parenting right now).               |
+| john stone xiŕa.  | John stone `EXIST`   | John is a stone. (He is literally a rock).                          |
+| john stone ů.     | John stone `ACT.BE`  | John is being a stone. (He is standing still / acting emotionless). |
 ### 4. Modifying the Stative (Validity Particles)
 
 Because _xiŕa_ functions as a "stamp of fact," you can modify the **validity** or **strength** of that fact by placing specific particles immediately before it. This creates a "Validity Chain."
@@ -154,46 +154,46 @@ Because _xiŕa_ functions as a "stamp of fact," you can modify the **validity** 
 
 #### Example Comparison
 
-> **Standard:** _John hyena xiŕa._ (John is a hyena.) **Negative:** _John hyena nèŕa._ (John is not a hyena.) **Emphatic:** _John hyena náxăxiŕa!_ (John is absolutely NOT a hyena!)
+> **Standard:** john hyena xiŕa. (John is a hyena.) **Negative:** john hyena nèŕa. (John is not a hyena.) **Emphatic:** john hyena náxăxiŕa! (John is absolutely NOT a hyena!)
 
 ### 4. Additional Examples (Modes of Verbalization)
 
 #### 1. Semblance (`-w-`)
 
-> **To John shějýnsháwů.** `SUBJ` `John` `teacher-SEMB-ACT` _"John acts like a teacher."_
+> to john shějýnsháwů. `SUBJ` `John` `teacher-SEMB-ACT` "John acts like a teacher."
 
 #### 2. Performance (`-n-`)
 
-> **To wo kjèkiŕnů.** `SUBJ` `1SG` `axe-PERF-ACT` _"I use the axe."_ / _"I am axing."_
+> to wo kjèkiŕnů. `SUBJ` `1SG` `axe-PERF-ACT` "I use the axe." / "I am axing."
 
 #### 3. Interaction (`-x-`)
 
-> **To John wo apoxů.** `SUBJ` `John` `1SG` `apple-INTER-ACT` _"John apples me."_ (Context: He throws an apple at me or forces an apple on me).
+> to john wo apoxů. `SUBJ` `John` `1SG` `apple-INTER-ACT` "John apples me." (Context: He throws an apple at me or forces an apple on me).
 
 #### 4. Subjective Feeling (`-ch-`)
 
-> **To wo gadăchů.** `SUBJ` `1SG` `giant-SUBJ-ACT` _"I feel like a giant."_
+> to wo gadăchů. `SUBJ` `1SG` `giant-SUBJ-ACT` "I feel like a giant."
 
 #### 5. Visual (`-j-`)
 
-> **To fwoo gajýnnjů.** `SUBJ` `cloud` `were-hyena-VIS-ACT` _"The cloud looks like a were-hyena."_
+> to fwoo gajýnnjů. `SUBJ` `cloud` `were-hyena-VIS-ACT` "The cloud looks like a were-hyena."
 
 #### 6. Auditory (`-s-`)
 
-> **To xő jýnsů.** `SUBJ` `He` `hyena-AUD-ACT` _"He sounds like a hyena."_
+> to xő jýnsů. `SUBJ` `He` `hyena-AUD-ACT` "He sounds like a hyena."
 
 #### 7. Gustatory (`-zh-`)
 
-> **Toonă topo apozhů.** `SUBJ` `DEF.WARM` `rain` `apple-GUST-ACT` _"This rain tastes like apples."_
+> toonă topo apozhů. `SUBJ` `DEF.WARM` `rain` `apple-GUST-ACT` "This rain tastes like apples."
 
 #### 8. Transformative (`-k-`)
 
-> **To \[Wizard\] John gajýnnků.** `SUBJ` `[Wizard]` `John` `were-hyena-TRANSF-ACT` _"The wizard turns John into a were-hyena."_
+> to \[Wizard\] john gajýnnků. `SUBJ` `[Wizard]` `John` `were-hyena-TRANSF-ACT` "The wizard turns John into a were-hyena."
 
 #### 9. Generative (`-ŕ-`)
 
-> **To kjèpo apa jýnma ja apoŕů.** `SUBJ` `tree` `apples` `hyenas` `AND` `apple-GEN-ACT` _"The tree grows apples and hyenas."_
+> to kjèpo apa jýnma ja apoŕů. `SUBJ` `tree` `apples` `hyenas` `AND` `apple-GEN-ACT` "The tree grows apples and hyenas."
 
 #### 10. Privative (`-sh-`)
 
-> **To wo \[table\] shěsoshů.** `SUBJ` `1SG` `[table]` `book-PRIV-ACT` _"I clear the books from the table."_
+> to wo \[table\] shěsoshů. `SUBJ` `1SG` `[table]` `book-PRIV-ACT` "I clear the books from the table."

@@ -30,8 +30,12 @@ IPA: /eɕnau/
 - Polish: uśmiech (szeroki/złośliwy), grymas
 
 ### Example sentence
-**To xő eśnånů.**
-_He is grinning._
+
+#### Example 1
+
+- **Asaxi:** to xő eśnånů.
+- **English:** He is grinning.
+- **Polish:** x
 
 ### Alternative Forms
 Null

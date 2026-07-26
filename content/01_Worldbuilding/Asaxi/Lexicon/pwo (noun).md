@@ -30,7 +30,12 @@ IPA: /pʷo/
 - Polish: jutro
 
 ### Example sentence
-**To wo pwo paxoxo.** _I will depart tomorrow._
+
+#### Example 1
+
+- **Asaxi:** to wo pwo paxoxo.
+- **English:** I will depart tomorrow.
+- **Polish:** x
 
 ### Alternative Forms
 Null

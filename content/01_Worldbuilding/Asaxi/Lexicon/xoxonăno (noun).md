@@ -35,8 +35,12 @@ A physical object of such immense sentimental value that its loss is considered 
 Examples include: a childhood stuffed animal, a pen used to sign a life-changing document, or a lucky charm carried on every journey.
 
 ### Example sentence
-Sèwo sè wo xoxonăna ůshů ninå exenů maomă.
-Because I got rid of the things I love, I cry every night.
+
+#### Example 1
+
+- **Asaxi:** sèwo sè wo xoxonăna ůshů ninå exenů maomă.
+- **English:** Because I got rid of the things I love, I cry every night.
+- **Polish:** x
 
 ### Alternative Forms
 - xoxonăno' (Emphatic)

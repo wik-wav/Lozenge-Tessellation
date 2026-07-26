@@ -39,8 +39,12 @@ IPA: /ɾo̞ɾaɪ/
 - Polish: obracać się
 
 ### Example sentence
-**Pŕono ŕoŕă.**
-_The wheel turns._
+
+#### Example 1
+
+- **Asaxi:** pŕono ŕoŕă.
+- **English:** The wheel turns.
+- **Polish:** x
 
 ### Alternative Forms
 Null

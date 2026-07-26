@@ -31,8 +31,12 @@ IPA: /ɦaɪt̻͡s̪əno/
 - Polish: prawda, fakt
 
 ### Example sentence
-**Xăcèno ijùhè!**
-_Tell the truth!_
+
+#### Example 1
+
+- **Asaxi:** xăcèno ijùhè!
+- **English:** Tell the truth!
+- **Polish:** x
 
 ### Alternative Forms
 Null

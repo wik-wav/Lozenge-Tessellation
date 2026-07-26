@@ -36,8 +36,12 @@ IPA: /ipo̞/
 
 ### Example sentence
 
-**Sè xő pỏ gacù ja gasi ipa zèma.**
-_His coat had brown and white spots._
+
+#### Example 1
+
+- **Asaxi:** sè xő pỏ gacù ja gasi ipa zèma.
+- **English:** His coat had brown and white spots.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

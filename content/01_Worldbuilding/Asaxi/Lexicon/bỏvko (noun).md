@@ -31,8 +31,12 @@ IPA: /bou̯b̪vko̞/
 - Polish: dziadek
 
 ### Example sentence
-**Sè wo bỏvko.**
-_My grandfather._
+
+#### Example 1
+
+- **Asaxi:** sè wo bỏvko.
+- **English:** My grandfather.
+- **Polish:** x
 
 ### Alternative Forms
 Null

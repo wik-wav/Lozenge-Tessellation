@@ -31,8 +31,12 @@ IPA: /ɕiveɪʃɑ/
 - Polish: cyweta, żeneta
 
 ### Example sentence
-**To sivëshá dănă ů.**
-_The civet is being big (puffing itself up)._
+
+#### Example 1
+
+- **Asaxi:** to sivëshá dănă ů.
+- **English:** The civet is being big (puffing itself up).
+- **Polish:** x
 
 ### Alternative Forms
 x

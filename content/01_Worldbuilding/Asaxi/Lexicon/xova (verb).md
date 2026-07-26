@@ -40,8 +40,12 @@ IPA: /ɦova/
 - Polish: wkładać, wchodzić
 
 ### Example sentence
-**To wo [key] xova.**
-_I insert the key._
+
+#### Example 1
+
+- **Asaxi:** to wo [key] xova.
+- **English:** I insert the key.
+- **Polish:** x
 
 ### Alternative Forms
 Null

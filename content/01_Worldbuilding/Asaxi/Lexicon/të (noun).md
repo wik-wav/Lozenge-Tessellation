@@ -31,8 +31,12 @@ IPA: /t̪eɪ/
 - Polish: dłoń, ręka (dłoń)
 
 ### Example sentence
-**Bă të shěso kma.**
-_I hold the book with my hand._
+
+#### Example 1
+
+- **Asaxi:** bă të shěso kma.
+- **English:** I hold the book with my hand.
+- **Polish:** x
 
 ### Alternative Forms
 Null

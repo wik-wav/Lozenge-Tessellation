@@ -31,8 +31,12 @@ IPA: /ɾaɪnabɪʃɑ/
 - Polish: gazela
 
 ### Example sentence
-**To ŕănabishá izovivi haśù.**
-_The gazelle runs for dear life._
+
+#### Example 1
+
+- **Asaxi:** to ŕănabishá izovivi haśù.
+- **English:** The gazelle runs for dear life.
+- **Polish:** x
 
 ### Alternative Forms
 Null

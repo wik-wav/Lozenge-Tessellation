@@ -39,8 +39,12 @@ IPA: /dau̯ka/
 - Polish: obiecywać
 
 ### Example sentence
-**Wo dåka.**
-_I make a promise._
+
+#### Example 1
+
+- **Asaxi:** wo dåka.
+- **English:** I make a promise.
+- **Polish:** x
 
 ### Alternative Forms
 Null

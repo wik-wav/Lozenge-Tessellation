@@ -31,8 +31,12 @@ IPA: /t̪eɪŋo̞/
 - Polish: łokieć
 
 ### Example sentence
-**Sè wo tëŋo tètá.**
-_My elbow hurts._
+
+#### Example 1
+
+- **Asaxi:** sè wo tëŋo tètá.
+- **English:** My elbow hurts.
+- **Polish:** x
 
 ### Alternative Forms
 Null

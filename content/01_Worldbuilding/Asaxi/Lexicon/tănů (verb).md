@@ -35,8 +35,12 @@ IPA: /t̪anuu̯/
 - Polish: gromadzić, zbierać, łączyć, dodawać
 
 ### Example sentence
-**To wo shěsa tănů.**
-_I gather the books._ (I am plussing the books).
+
+#### Example 1
+
+- **Asaxi:** to wo shěsa tănů.
+- **English:** I gather the books. (I am plussing the books).
+- **Polish:** x
 
 ### Alternative Forms
 Null

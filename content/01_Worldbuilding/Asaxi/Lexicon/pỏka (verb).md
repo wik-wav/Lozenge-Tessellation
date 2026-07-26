@@ -39,8 +39,12 @@ IPA: /pou̯ka/
 - Polish: owijać, zawijać
 
 ### Example sentence
-**Wo daono pỏka.**
-_I wrap the gift._
+
+#### Example 1
+
+- **Asaxi:** wo daono pỏka.
+- **English:** I wrap the gift.
+- **Polish:** x
 
 ### Alternative Forms
 Null

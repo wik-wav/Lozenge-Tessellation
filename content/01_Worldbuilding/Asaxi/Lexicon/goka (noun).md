@@ -31,8 +31,12 @@ IPA: /goka/
 - Polish: młotek
 
 ### Example sentence
-**Bă goka wo bakam kamŕů.**
-_I build the wall with a hammer._
+
+#### Example 1
+
+- **Asaxi:** bă goka wo bakam kamŕů.
+- **English:** I build the wall with a hammer.
+- **Polish:** x
 
 ### Alternative Forms
 Null

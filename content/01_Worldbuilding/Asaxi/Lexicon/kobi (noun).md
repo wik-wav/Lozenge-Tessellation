@@ -31,8 +31,12 @@ IPA: /kobi/
 - Polish: dal, oddalenie
 
 ### Example sentence
-**Ijoŕokam kobi.**
-_"The temple (is) far." (zero copula)_
+
+#### Example 1
+
+- **Asaxi:** ijoŕokam kobi.
+- **English:** "The temple (is) far." (zero copula)
+- **Polish:** x
 
 ### Alternative Forms
 Null

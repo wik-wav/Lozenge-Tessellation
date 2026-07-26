@@ -35,8 +35,12 @@ IPA: /kozət̪ət̪ɑnuu̯/
 - Polish: żałować
 
 ### Example sentence
-**To wo \[decision\] kozètètánů.**
-_I regret the decision._
+
+#### Example 1
+
+- **Asaxi:** to wo \[decision\] kozètètánů.
+- **English:** I regret the decision.
+- **Polish:** x
 
 ### Alternative Forms
 Null

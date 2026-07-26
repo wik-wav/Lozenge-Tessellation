@@ -30,8 +30,12 @@ IPA: /fʲo/
 - Polish: pojęcie, koncept, idea
 
 ### Example sentence
-Frë fjo xiŕa.
-Freedom is a concept.
+
+#### Example 1
+
+- **Asaxi:** frë fjo xiŕa.
+- **English:** Freedom is a concept.
+- **Polish:** x
 
 ### Alternative Forms
 x

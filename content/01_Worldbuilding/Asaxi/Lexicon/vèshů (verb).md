@@ -36,8 +36,12 @@ IPA: /b̪vəʃuu̯/
 - Polish: więdnąć
 
 ### Example sentence
-**Kjèpo vèshů.**
-_The tree withers._
+
+#### Example 1
+
+- **Asaxi:** kjèpo vèshů.
+- **English:** The tree withers.
+- **Polish:** x
 
 ### Alternative Forms
 Null

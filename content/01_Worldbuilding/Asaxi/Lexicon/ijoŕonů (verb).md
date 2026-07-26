@@ -36,8 +36,12 @@ IPA: /ijo̞ɾo̞nuu̯/
 - Polish: śnić
 
 ### Example sentence
-**Wo mao ijoŕonů.**
-_I dream at night._
+
+#### Example 1
+
+- **Asaxi:** wo mao ijoŕonů.
+- **English:** I dream at night.
+- **Polish:** x
 
 ### Alternative Forms
 Null

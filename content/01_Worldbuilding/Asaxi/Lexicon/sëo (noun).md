@@ -34,8 +34,12 @@ IPA: /seɪo/
 Rule: Nouns ending in a vowel sequence replace the final vowel.
 
 ### Example sentence
-John gonýj sëo ma.
-John has nails tough as a rock. (Lit: John rock-like nail has).
+
+#### Example 1
+
+- **Asaxi:** john gonýj sëo ma.
+- **English:** John has nails tough as a rock. (Lit: John rock-like nail has).
+- **Polish:** x
 
 ### Alternative Forms
 x

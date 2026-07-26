@@ -31,8 +31,12 @@ IPA: /kaɾt̪ə/
 - Polish: ziemniak
 
 ### Example sentence
-**Kaŕtè cù vanů.**
-_The potato is in the soil._
+
+#### Example 1
+
+- **Asaxi:** kaŕtè cù vanů.
+- **English:** The potato is in the soil.
+- **Polish:** x
 
 ### Alternative Forms
 Null

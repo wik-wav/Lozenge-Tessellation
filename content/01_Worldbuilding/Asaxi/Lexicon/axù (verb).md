@@ -39,8 +39,12 @@ IPA: /aɦɯ/
 - Polish: śmiać się
 
 ### Example sentence
-**Shá axù.**
-_The people laugh._
+
+#### Example 1
+
+- **Asaxi:** shá axù.
+- **English:** The people laugh.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -1,7 +1,7 @@
 ---
 title: word in asaxi (what is it?) - english
 Word (Asaxi):
-trnsltion. En:
+trnsltion. en:
 trnsltion. Pl:
 tags:
   - Asaxi
@@ -12,9 +12,9 @@ tags:
 
 - - -
 
-<span class="asaxi-script">Word (Asaxi)</span>
+<span class="asaxi-script">word (asaxi)</span>
 
-<span class="asaxi-script-alpha">Word (Asaxi)</span>
+<span class="asaxi-script-alpha">word (asaxi)</span>
 ## Warm/Cold
 
 class:
@@ -43,17 +43,11 @@ x
 
 ### Example sentence
 
-**As an adjective:**
-- x
-- y
+#### Example 1
 
-**As an adverb:**
-1. Intransitive (Simple)
-	- a
-2. Transitive (Object separation)
-	- b
-3. Contrast (Adjective vs. Adverb)
-	- c
+- **Asaxi:**
+- **english:**
+- **Polish:**
 
 ### Alternative Forms
 x

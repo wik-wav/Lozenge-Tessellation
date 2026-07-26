@@ -31,8 +31,12 @@ IPA: /içokam/
 - Polish: szkielet, kościec
 
 ### Example sentence
-**To ihjokam vakamshá xiŕa.**
-_The skeleton is inside the body._
+
+#### Example 1
+
+- **Asaxi:** to ihjokam vakamshá xiŕa.
+- **English:** The skeleton is inside the body.
+- **Polish:** x
 
 ### Alternative Forms
 Null

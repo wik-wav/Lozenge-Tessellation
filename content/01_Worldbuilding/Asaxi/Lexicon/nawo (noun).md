@@ -30,8 +30,12 @@ IPA: /nawo/
 - Polish: wierzch, powierzchnia
 
 ### Example sentence
-**To nawo gavi xiŕa.**
-_The surface is green._
+
+#### Example 1
+
+- **Asaxi:** to nawo gavi xiŕa.
+- **English:** The surface is green.
+- **Polish:** x
 
 ### Alternative Forms
 Null

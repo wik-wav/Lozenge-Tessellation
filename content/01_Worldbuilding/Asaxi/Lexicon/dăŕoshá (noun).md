@@ -31,8 +31,12 @@ IPA: /daɪɾo̞ʃɑ/
 - Polish: wieloryb
 
 ### Example sentence
-**Dăŕoshá dăpăŕo vanů.**
-_The whale is in the ocean._
+
+#### Example 1
+
+- **Asaxi:** dăŕoshá dăpăŕo vanů.
+- **English:** The whale is in the ocean.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -30,8 +30,12 @@ IPA: /ɕt͡ɕʲino/
 - Polish: długość
 
 ### Example sentence
-**To  shosa śchino ma.**
-_This road has length._
+
+#### Example 1
+
+- **Asaxi:** to  shosa śchino ma.
+- **English:** This road has length.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /ou̯bi/
 - Polish: pasek
 
 ### Example sentence
-**To ỏbi aśbipỏ kma.**
-_The belt holds up the trousers._
+
+#### Example 1
+
+- **Asaxi:** to ỏbi aśbipỏ kma.
+- **English:** The belt holds up the trousers.
+- **Polish:** x
 
 ### Alternative Forms
 Null

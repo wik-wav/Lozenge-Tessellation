@@ -31,8 +31,12 @@ IPA: /ɲo̞/
 - Polish: rzecz
 
 ### Example sentence
-**Onýj ńo pùkŕo nanů.**
-_The thing is on the floor._
+
+#### Example 1
+
+- **Asaxi:** onýj ńo pùkŕo nanů.
+- **English:** The thing is on the floor.
+- **Polish:** x
 
 ### Alternative Forms
 Null

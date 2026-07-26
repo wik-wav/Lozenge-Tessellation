@@ -34,8 +34,12 @@ IPA: /ʃosaɾuw/
 - Polish: zrobić przejście, utorować drogę
 
 ### Example sentence
-**Hèshosaŕů!**
-_Make way! (Imperative)._
+
+#### Example 1
+
+- **Asaxi:** hèshosaŕů!
+- **English:** Make way! (Imperative).
+- **Polish:** x
 
 ### Alternative Forms
 Null

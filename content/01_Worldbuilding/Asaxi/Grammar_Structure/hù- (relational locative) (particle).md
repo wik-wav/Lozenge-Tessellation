@@ -34,7 +34,12 @@ IPA: /xɯ/
 
 ### Example sentence
 
-**To John hùkamm xiŕa.** _John is behind the building._
+
+#### Example 1
+
+- **Asaxi:** to john hùkamm xiŕa.
+- **English:** John is behind the building.
+- **Polish:** x
 
 ### Derived terms
 

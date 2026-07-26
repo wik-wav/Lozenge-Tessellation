@@ -39,8 +39,12 @@ IPA: /pɯɦa/
 - Polish: pchać
 
 ### Example sentence
-**Wo kem pùxa.**
-_I push the door._
+
+#### Example 1
+
+- **Asaxi:** wo kem pùxa.
+- **English:** I push the door.
+- **Polish:** x
 
 ### Alternative Forms
 Null

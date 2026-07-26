@@ -31,8 +31,12 @@ IPA: /kika/
 - Polish: wrona
 
 ### Example sentence
-**Kika gamao.**
-_The crow is black._
+
+#### Example 1
+
+- **Asaxi:** kika gamao.
+- **English:** The crow is black.
+- **Polish:** x
 
 ### Alternative Forms
 Null

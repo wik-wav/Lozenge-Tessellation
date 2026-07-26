@@ -26,7 +26,7 @@ aliases:
 
 * **As Prefix (`o-`):** Attaches to a noun to specify it is "right here" (e.g., `o-shěso` "This book here").
 * **As Adverb (`o`):** Stands alone to indicate the location.
-    * *Example:* **To apo o.** ("The apple is here").
+    * *Example:* to apo o. ("The apple is here").
 * **As Tense (`o-`):** Used as a prefix for Immediate Tense (e.g., `ozè-` "Just now").
 
 ### Pronunciation
@@ -35,8 +35,12 @@ IPA: /o/
 
 ### Example sentence
 
-**To wo o xiŕa.**
-_I am here._
+
+#### Example 1
+
+- **Asaxi:** to wo o xiŕa.
+- **English:** I am here.
+- **Polish:** x
 
 ### Etymology
 

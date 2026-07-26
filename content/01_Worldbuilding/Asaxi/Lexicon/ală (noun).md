@@ -31,11 +31,18 @@ IPA: /alaɪ/
 - Polish: luźność, luz
 
 ### Example sentence
-Ală tte sè wo jåhjo xiŕa.
-Looseness is my goal.
 
-John alănă shá xiŕa.
-John is a loose person (john is carefree in a positive sense).
+#### Example 1
+
+- **Asaxi:** ală tte sè wo jåhjo xiŕa.
+- **English:** Looseness is my goal.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** john alănă shá xiŕa.
+- **English:** John is a loose person (john is carefree in a positive sense).
+- **Polish:** x
 
 ### Alternative Forms
 x

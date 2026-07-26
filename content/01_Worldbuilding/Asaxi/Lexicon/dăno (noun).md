@@ -30,8 +30,12 @@ IPA: /daɪno/
 - Polish: rozmiar, wielkość
 
 ### Example sentence
-**To dăno sè shěso gahji xiŕa.**
-_The size of the book is smallness._
+
+#### Example 1
+
+- **Asaxi:** to dăno sè shěso gahji xiŕa.
+- **English:** The size of the book is smallness.
+- **Polish:** x
 
 ### Alternative Forms
 Null

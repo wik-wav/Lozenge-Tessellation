@@ -31,8 +31,12 @@ IPA: /çɑɾo̞/
 - Polish: staw
 
 ### Example sentence
-**Hjáŕo viŕo vanů.**
-_A pond is in the meadow._
+
+#### Example 1
+
+- **Asaxi:** hjáŕo viŕo vanů.
+- **English:** A pond is in the meadow.
+- **Polish:** x
 
 ### Alternative Forms
 Null

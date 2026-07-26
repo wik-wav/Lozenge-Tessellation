@@ -35,8 +35,12 @@ IPA: /t̻͡s̪ɯɡo̞ɾuu̯/
 - Polish: lepić z gliny
 
 ### Example sentence
-**Wo maka cùgoŕů.**
-_I throw a clay pot._
+
+#### Example 1
+
+- **Asaxi:** wo maka cùgoŕů.
+- **English:** I throw a clay pot.
+- **Polish:** x
 
 ### Alternative Forms
 Null

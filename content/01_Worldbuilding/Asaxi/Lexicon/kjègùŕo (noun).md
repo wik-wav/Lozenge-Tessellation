@@ -32,8 +32,12 @@ IPA: /kʲəgɯɾo/
 - Polish: pnącze, winorośl
 
 ### Example sentence
-**Kjègùŕo kjèpo xona.**
-_A vine climbs the tree._
+
+#### Example 1
+
+- **Asaxi:** kjègùŕo kjèpo xona.
+- **English:** A vine climbs the tree.
+- **Polish:** x
 
 ### Alternative Forms
 x

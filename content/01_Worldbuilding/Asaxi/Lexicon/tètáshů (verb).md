@@ -35,8 +35,12 @@ IPA: /t̪ət̪ɑʃuw/
 - Polish: poddać się, ustąpić
 
 ### Example sentence
-**To wo tètáshů.**
-_I give up (I end the pain)._
+
+#### Example 1
+
+- **Asaxi:** to wo tètáshů.
+- **English:** I give up (I end the pain).
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -39,8 +39,12 @@ IPA: /t̪ɑkʃɯ/
 - Polish: przegrywać
 
 ### Example sentence
-**Tètáshá tákshù.**
-_The enemy loses._
+
+#### Example 1
+
+- **Asaxi:** tètáshá tákshù.
+- **English:** The enemy loses.
+- **Polish:** x
 
 ### Alternative Forms
 Null

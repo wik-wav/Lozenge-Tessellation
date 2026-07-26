@@ -31,8 +31,12 @@ IPA: /pigɯmen̩/
 - Polish: pigment, barwnik (proszek)
 
 ### Example sentence
-**To wo pigùmenn zá ŕoŕo naŕonů.**
-_I mix (multiply) the pigment with water._
+
+#### Example 1
+
+- **Asaxi:** to wo pigùmenn zá ŕoŕo naŕonů.
+- **English:** I mix (multiply) the pigment with water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

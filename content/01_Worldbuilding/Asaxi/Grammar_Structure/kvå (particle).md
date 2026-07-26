@@ -29,4 +29,9 @@ Derived from the question prefix **k-** + **[[vå (particle)|vå]]** (When - Cla
 
 ### Example sentence
 
-**Kvå xoxo?** _When do (you) depart?_
+
+#### Example 1
+
+- **Asaxi:** kvå xoxo?
+- **English:** When do (you) depart?
+- **Polish:** x

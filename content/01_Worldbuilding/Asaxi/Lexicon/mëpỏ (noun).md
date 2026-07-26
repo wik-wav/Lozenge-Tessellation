@@ -31,8 +31,12 @@ IPA: /meɪpou̯/
 - Polish: maska
 
 ### Example sentence
-**Mëpỏ mëjo naŕa.**
-_A mask is over the face._
+
+#### Example 1
+
+- **Asaxi:** mëpỏ mëjo naŕa.
+- **English:** A mask is over the face.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /ɡɑmɾo̞nuu̯/
 - Polish: malować
 
 ### Example sentence
-**Wo bakam gámŕonů.**
-_I paint the wall._
+
+#### Example 1
+
+- **Asaxi:** wo bakam gámŕonů.
+- **English:** I paint the wall.
+- **Polish:** x
 
 ### Alternative Forms
 Null

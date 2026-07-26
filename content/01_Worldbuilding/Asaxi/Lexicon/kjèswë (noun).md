@@ -32,8 +32,12 @@ IPA: /kʲəsweɪ/
 - Polish: kora
 
 ### Example sentence
-**Kjèswë kjèpo nanů.**
-_Bark covers the tree._
+
+#### Example 1
+
+- **Asaxi:** kjèswë kjèpo nanů.
+- **English:** Bark covers the tree.
+- **Polish:** x
 
 ### Alternative Forms
 x

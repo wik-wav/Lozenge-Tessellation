@@ -33,8 +33,12 @@ IPA: /damtʰaɪ/
 **damtxăa** (decades).
 
 ### Example sentence
-Vazè, să damtxă hùwo, wo xő ijo.
-In the past, one decade ago, I saw him.
+
+#### Example 1
+
+- **Asaxi:** vazè, să damtxă hùwo, wo xő ijo.
+- **English:** In the past, one decade ago, I saw him.
+- **Polish:** x
 
 ### Alternative Forms
 x

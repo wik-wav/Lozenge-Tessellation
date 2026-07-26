@@ -26,7 +26,12 @@ IPA: /pɯɦaɪ/
 
 ### Example sentence
 
-**Topo toponů pùxă.** _I hope it doesn't rain._
+
+#### Example 1
+
+- **Asaxi:** topo toponů pùxă.
+- **English:** I hope it doesn't rain.
+- **Polish:** x
 
 ### Etymology
 

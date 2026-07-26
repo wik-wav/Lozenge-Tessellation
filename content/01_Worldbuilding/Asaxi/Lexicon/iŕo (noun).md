@@ -31,8 +31,12 @@ IPA: /iɾo/
 - Polish: kolor (światło), barwa
 
 ### Example sentence
-**Mëjo iŕo ijo.**
-_The eye sees colour._
+
+#### Example 1
+
+- **Asaxi:** mëjo iŕo ijo.
+- **English:** The eye sees colour.
+- **Polish:** x
 
 ### Alternative Forms
 Null

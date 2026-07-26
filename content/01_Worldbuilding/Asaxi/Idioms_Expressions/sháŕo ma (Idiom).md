@@ -21,7 +21,7 @@ tags:
 
 ### Usage Note
 
-Literally means "**To have the waterhole.**"
+Literally means "To have the waterhole."
 * *Cultural Context:* In the Lozenge Tessellation ecosystem, the one who controls the water (`sháŕo`) controls life. It implies absolute leverage over others.
 
 ### Structure
@@ -32,8 +32,12 @@ IPA: /ʃɑɾo ma/
 
 ### Example sentence
 
-**To John sháŕo ma.**
-_John is in charge / John holds all the cards._
+
+#### Example 1
+
+- **Asaxi:** to john sháŕo ma.
+- **English:** John is in charge / John holds all the cards.
+- **Polish:** x
 
 ### Etymology
 

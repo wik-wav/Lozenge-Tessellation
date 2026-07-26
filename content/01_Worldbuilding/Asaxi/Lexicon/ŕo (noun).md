@@ -31,9 +31,12 @@ IPA: /ɾo/
 - Polish: blok (budynek mieszkalny)
 
 ### Example sentence
-**John ŕo vanů.** 
-`John` `block` `in-ACT.BE` 
-_John lives in a block._ (Lit: John occupies the block).
+
+#### Example 1
+
+- **Asaxi:** john ŕo vanů.
+- **English:** Gloss: John block in-ACT.BE: John lives in a block. (Lit: John occupies the block).
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -41,8 +41,12 @@ IPA: /ɾaɪnaɪ/
 - English: fiercely, ardently
 
 ### Example sentence
-**To John ŕănă shá xiŕa.**
-_John is a fiery, hot-blooded person._
+
+#### Example 1
+
+- **Asaxi:** to john ŕănă shá xiŕa.
+- **English:** John is a fiery, hot-blooded person.
+- **Polish:** x
 
 ### Alternative Forms
 Null

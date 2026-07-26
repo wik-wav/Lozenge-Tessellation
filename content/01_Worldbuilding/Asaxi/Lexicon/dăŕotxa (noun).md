@@ -31,8 +31,12 @@ IPA: /daɪɾo̞t̪ʰa/
 - Polish: przypływ
 
 ### Example sentence
-**Dăŕotxa mao txa.**
-_The tide turns at night._
+
+#### Example 1
+
+- **Asaxi:** dăŕotxa mao txa.
+- **English:** The tide turns at night.
+- **Polish:** x
 
 ### Alternative Forms
 Null

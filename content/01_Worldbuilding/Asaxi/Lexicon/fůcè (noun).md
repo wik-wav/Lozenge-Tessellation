@@ -32,8 +32,12 @@ IPA: /fuu̯t͡sə/
 - Polish: nieznane, niewiedza
 
 ### Example sentence
-**To wo fůcè ůchů.**
-_I feel ignorance (I feel I do not know)._
+
+#### Example 1
+
+- **Asaxi:** to wo fůcè ůchů.
+- **English:** I feel ignorance (I feel I do not know).
+- **Polish:** x
 
 ### Alternative Forms
 Null

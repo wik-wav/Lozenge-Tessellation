@@ -36,8 +36,12 @@ IPA: /aɦanaɪ/
 - Polish: przystępny, pogodny, radosny
 
 ### Example sentence
-**To Dokùshá John axană shá xiŕa.**
-_Doctor John is an approachable person._
+
+#### Example 1
+
+- **Asaxi:** to dokùshá john axană shá xiŕa.
+- **English:** Doctor John is an approachable person.
+- **Polish:** x
 
 ### Alternative Forms
 Null

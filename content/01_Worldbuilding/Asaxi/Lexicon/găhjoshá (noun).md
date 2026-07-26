@@ -31,9 +31,12 @@ IPA: /ɡaɪçoʃɑ/
 - Polish: chudzielec, kościotrup (żywy), mizerota
 
 ### Example sentence
-**Sè găhjosháma tëbiwa hjihjină tamỏbwoxatëbibåba ma.**
-`of` `bony-people` `arms` `thin` `biceps` `have`
-_Skinny people's arms have small biceps._
+
+#### Example 1
+
+- **Asaxi:** sè găhjosháma tëbiwa hjihjină tamỏbwoxatëbibåba ma.
+- **English:** Gloss: of bony-people arms thin biceps have: Skinny people's arms have small biceps.
+- **Polish:** x
 
 ### Alternative Forms
 Null

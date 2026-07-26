@@ -40,8 +40,12 @@ IPA: /fʷoɦiꞲo/
 Implies a state of "dreaming of going places but not knowing how to get there." It is a passive, hazy vision, unlike the active desire of `jå`.
 
 ### Example sentence
-**To wo siŕo fwoxijo.**
-_I dream vaguely of the Unknown._
+
+#### Example 1
+
+- **Asaxi:** to wo siŕo fwoxijo.
+- **English:** I dream vaguely of the Unknown.
+- **Polish:** x
 
 ### Alternative Forms
 x

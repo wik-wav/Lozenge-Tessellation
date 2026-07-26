@@ -31,8 +31,12 @@ IPA: /ɾono/
 - Polish: napój
 
 ### Example sentence
-**Ŕono jå kè?**
-_Do [you] want a drink?_
+
+#### Example 1
+
+- **Asaxi:** ŕono jå kè?
+- **English:** Do [you] want a drink?
+- **Polish:** x
 
 ### Alternative Forms
 Null

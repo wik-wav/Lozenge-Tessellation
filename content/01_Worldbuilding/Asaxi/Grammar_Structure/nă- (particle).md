@@ -30,7 +30,13 @@ Duplication of the warm adjectival suffix **-nă**.
 
 ### Example sentence
 
-**To wo nădănă [eating]chů.** _I feel like I am eating the **most heavily** (gluttonously)._
+#### Example 1
 
-- _Adverb:_ `dănă` (Elephant-like/Heavy - Warm Source `dă`)
-- _Verbal Mode:_ `-ch-` (Subjective Feeling).
+- **Asaxi:** to wo nădănă [eating]chů.
+- **English:** I feel like I am eating the most heavily (gluttonously).
+- **Polish:** x
+
+### Analysis
+
+- **Adverb:** `dănă` (elephant-like/heavy; warm source `dă`)
+- **Verbal mode:** `-ch-` (subjective feeling)

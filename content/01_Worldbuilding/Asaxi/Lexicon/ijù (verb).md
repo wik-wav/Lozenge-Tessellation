@@ -65,10 +65,15 @@ Used with the quotative particle **[[tte (particle)]]**.
 * **Meaning:** "Say that \[Quote\]."
 
 ### Example sentences
-**Direct Object:**
-**To wo \[word\] ijù.**
-_I say the word._
 
-**Quotative:**
-**To John "xă" tte zëjù.**
-_John said "yes"._ (Lit: John "yes" quote said).
+#### Example 1
+
+- **Asaxi:** to wo \[word\] ijù.
+- **English:** Direct Object: I say the word.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to john „xă” tte zëjù.
+- **English:** Quotative: John said "yes". (Lit: John "yes" quote said).
+- **Polish:** x

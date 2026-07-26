@@ -45,19 +45,36 @@ IPA: /dau̯/
 
 ### Example sentences
 
-**1. Predicative Dative (Intended For)** _Used when the purpose of the subject is to be given to someone._ **To apo John dåŕa.** _The apple is for John._
 
-**2. Standard Dative Case (Beneficiary)** _Used when an action is performed for someone's benefit._ **To wo shěso då John ma.** _I have a book for John._ (Lit: I book for-John have).
+#### Example 1
 
-**3. Negative Predicative Dative** _Used to deny that an object is intended for a specific person._ **To onýj shěso wo nádåŕa.** _The book is not for me._
+- **Asaxi:** to apo john dåŕa.
+- **English:** Predicative Dative (Intended For); Used when the purpose of the subject is to be given to someone: The apple is for John.
+- **Polish:** x
 
-**Recipient:**
-**To wo shěso då John dao.**
-_I give the book to John._
+#### Example 2
 
-**Purpose:**
-**Då frë, to wa patáka.**
-_For (the sake of) freedom, we will wage war._
+- **Asaxi:** to wo shěso då john ma.
+- **English:** Standard Dative Case (Beneficiary); Used when an action is performed for someone's benefit: I have a book for John. (Lit: I book for-John have).
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** to onýj shěso wo nádåŕa.
+- **English:** Negative Predicative Dative; Used to deny that an object is intended for a specific person: The book is not for me.
+- **Polish:** x
+
+#### Example 4
+
+- **Asaxi:** to wo shěso då john dao.
+- **English:** Recipient: I give the book to John.
+- **Polish:** x
+
+#### Example 5
+
+- **Asaxi:** då frë, to wa patáka.
+- **English:** Purpose: For (the sake of) freedom, we will wage war.
+- **Polish:** x
 
 ### Alternative Forms
 

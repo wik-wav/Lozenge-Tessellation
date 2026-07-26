@@ -31,8 +31,12 @@ IPA: /paba/
 - Polish: warga
 
 ### Example sentence
-**Paba gapo.**
-_The lips are red._
+
+#### Example 1
+
+- **Asaxi:** paba gapo.
+- **English:** The lips are red.
+- **Polish:** x
 
 ### Alternative Forms
 Null

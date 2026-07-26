@@ -31,8 +31,12 @@ IPA: /no̞mɑka/
 - Polish: pudełko
 
 ### Example sentence
-**Nono nomáka vanů.**
-_Things are in the box._
+
+#### Example 1
+
+- **Asaxi:** nono nomáka vanů.
+- **English:** Things are in the box.
+- **Polish:** x
 
 ### Alternative Forms
 Null

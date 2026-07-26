@@ -32,8 +32,12 @@ IPA: /xɯso/
 - Polish: piasek
 
 ### Example sentence
-**Sopot tte ksùŕo, hùso naŕa.**
-_Sopot is a beach, and sand is on it._
+
+#### Example 1
+
+- **Asaxi:** sopot tte ksùŕo, hùso naŕa.
+- **English:** Sopot is a beach, and sand is on it.
+- **Polish:** x
 
 ### Alternative Forms
 x

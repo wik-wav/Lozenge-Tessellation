@@ -39,8 +39,12 @@ IPA: /mʷo̞ka/
 - Polish: zabijać
 
 ### Example sentence
-**Mwoshá vishá mwoka.**
-_The hunter kills the deer._
+
+#### Example 1
+
+- **Asaxi:** mwoshá vishá mwoka.
+- **English:** The hunter kills the deer.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -72,13 +72,13 @@ The particle **to** serves two distinct functions depending on its position:
 
 **Exception: The Genitive Zero-Link** When using the Genitive particle **[[sè (particle)|sè]]** (Of/Belonging to), the linker `to` is **optional** and frequently dropped. The possession relationship is considered strong enough to bind the phrase directly to the Head Noun.
 
-- **Full Form:** `Sè John to shěso` ("John's book").
-- **Efficient Form:** `Sè John shěso` ("John's book").
+- **Full Form:** `sè john to shěso` ("John's book").
+- **Efficient Form:** `sè john shěso` ("John's book").
 
 - - - 
 
 1. Basic Modification (The Compound) _Context: A book made of blue material (Bluebook)._
-	 **Gaoshěso.** 
+	 gaoshěso. 
 	`ATTR-blue-book` 
 	"Blue-book."
 2. Relational Case (Simple) _Context: John (as the possessor)._
@@ -86,30 +86,30 @@ The particle **to** serves two distinct functions depending on its position:
 	`ASSOC John` 
 	"Of John"
 3. The Passive Topic (`dhè`) _Context: The tree (as the receiver of chopping)._
-	 **Dhè kjèpo...** `TOP` `tree` 
+	 dhè kjèpo... `TOP` `tree` 
 	 _"The tree (was)..."_
 4. The Fused Block (Complex)** _Context: The red book (which is the Subject) located here._
-	**Toonýj gapowo-shěso...** `
+	toonýj gapowo-shěso... `
 	SUBJ DEF.COLD ATTR-red-here-book
 	`_"The Red-Here-Book (Subject)..."_
 5. Nested Structure (Possession of a Modified Noun) _Context: I see John's green book._
-	 **To wo sè John gavishěso ijo.** 
+	 to wo sè john gavishěso ijo. 
 	 `SUBJ` `1SG` `ASSOC` `John` `ATTR-green-book` `see` 
 	_"I see John's green-book."_
 6. Motion Towards (`ni`) _Context: I am going to the library._
 	- _Note: `ni` acts as a relational particle followed by a noun, so a space is used._
-	**To wo ni shěsokam xoxo.** 
+	to wo ni shěsokam xoxo. 
 	`SUBJ` `1SG` `ALL` `library` `depart` 
 	_"I depart to the library."_
 7. Motion From (`izo`) _Context: The book is from the library._
 	- _Note: `izo` fuses with the locative prefix `o-` via the bridge `w`._
-	**Onýj o-shěso izowo-shěsokam xiŕa.** 
+	onýj o-shěso izowo-shěsokam xiŕa. 
 	`DEF.COLD` `here-book` `ABL-here-library` `EXIST` 
 	_"The book is from-the-library-here."_
 8. Complex Path (Relational Stacking)** 
    _Context: I walk from the house up to the tree._
 	- _Note: `måmå` (Until) and `ni` (To) are both Relational Particles. Per Rule 2, they fuse into `måmåni`._
-	**Izo kamm måmåni kjèpo aśù.** 
+	izo kamm måmåni kjèpo aśù. 
 	`ABL` building TERM-ALL tree walk
 	"I walk from building as-far-as-to tree."
 9. **The Topical Argument (`ăni`)**
@@ -127,19 +127,19 @@ Because the `ga` particle creates descriptive words, it is easy to confuse it wi
 **Comparative Examples** _Root Word: **jýnnshá** (Hyena)_
 
 1. The Morphological Adjective (Behavior)
-	**John jýnă shá xiŕa.** 
+	john jýnă shá xiŕa. 
 	`John hyena-ADJ person EXIST`
 	_"John is a chatty person."_
 	 **Logic:** John is a person, he behaves **like** a hyena (he is talkative/loud).
 
 2. The Ga-Modified Noun (Classification)
-	 **John gajýnnshá xiŕa.** 
+	 john gajýnnshá xiŕa. 
 	 `John ATTR-hyena-person EXIST` 
 	 _"John is a hyena-person."_
 	 **Logic:** John is a specific **type** of creature (perhaps a hybrid or a specific clan member). It defines his essential constitution, not just his personality.
 
 3. The Root Identity (Fact)
- 	**John jýnnshá xiŕa.** 
+ 	john jýnnshá xiŕa. 
  	`John hyena EXIST` 
  	_"John is a hyena."_
  	**Logic:** John is _not_ a human. He is literally a hyena.
@@ -171,13 +171,13 @@ When a Relational Particle meets **xiŕa**, they fuse into a single Predicative 
 #### Usage Examples
 
 **1. Predicative Possession (sèŕa)**
-> **To shěso John sèŕa.** `SUBJ` `book` `John` `POSS-EXIST` _"The book belongs to John."_ (Lit: The book is-of John).
+> to shěso john sèŕa. `SUBJ` `book` `John` `POSS-EXIST` "The book belongs to John." (Lit: The book is-of John).
 
 **2. Predicative Origin (izoŕa)**
-> **To wo shěsokam izoŕa.** `SUBJ` `1SG` `library` `ABL-EXIST` _"I am from the library."_ (Lit: I exist-from the library).
+> to wo shěsokam izoŕa. `SUBJ` `1SG` `library` `ABL-EXIST` "I am from the library." (Lit: I exist-from the library).
 
 **3. Predicative Purpose (dåŕa)**
-> **To apo John dåŕa.** `SUBJ` `apple` `John` `DAT-EXIST` _"The apple is for John."_
+> to apo john dåŕa. `SUBJ` `apple` `John` `DAT-EXIST` "The apple is for John."
 
 ---
 
@@ -197,7 +197,7 @@ Applies negation to the relationship.
 - **sèŕa** (Belongs to) → **násèŕa** (Does not belong to).
 - **dåŕa** (Is for) → **nádåŕa** (Is NOT for).
 
-> **To gaoshěso John násèŕa.** _"The blue book does not belong to John."_
+> to gaoshěso john násèŕa. "The blue book does not belong to John."
 
 #### Emphatic Stacking (xă-)
 
@@ -205,7 +205,7 @@ Applies absolute certainty to the relationship.
 
 - **izoŕa** (Is from) → **xăizoŕa** (Is INDEED from).
 
-> **Wo gaŕo xăizoŕa.** _"I am absolutely from a city!"_
+> wo gaŕo xăizoŕa. "I am absolutely from a city!"
 
 #### Complex Stacking (Double Particles)
 
@@ -213,4 +213,4 @@ In rare cases, multiple particles may stack to express complex nuances, such as 
 
 - **ná** (Not) + **bă** (Instrumental) + **xiŕa** (Exist) → **nábăŕa**.
 
-> **Jośýstèm jomåsháma nábăŕa.** _"The societal system is not made by humans._
+> jośýstèm jomåsháma nábăŕa. "The societal system is not made by humans.

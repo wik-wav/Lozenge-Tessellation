@@ -31,8 +31,12 @@ IPA: /ɾimʃɑ/
 - Polish: lemur
 
 ### Example sentence
-**To ŕimshá ŕima.**
-_The lemur meditates._
+
+#### Example 1
+
+- **Asaxi:** to ŕimshá ŕima.
+- **English:** The lemur meditates.
+- **Polish:** x
 
 ### Alternative Forms
 x

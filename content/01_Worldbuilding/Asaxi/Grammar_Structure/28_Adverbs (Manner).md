@@ -21,7 +21,7 @@ Asaxi does not possess a distinct morphological class for "Adverbs of Manner." I
 
 Adjectives must strictly precede the noun.
 
-- _Example:_ **Dănă shá.** ("Big person").
+- _Example:_ dănă shá. ("Big person").
 
 ### 2. The Adverbial Position (Pre-Verbal)
 
@@ -35,7 +35,7 @@ Qualitative Adjectives placed before the verb function as Adverbs of Manner.
 
 **Example:**
 
-> **To wo nanå dănă aśù.** `SUBJ` `1SG` `often` `heavily` `walk` _"I often walk heavily."_
+> to wo nanå dănă aśù. `SUBJ` `1SG` `often` `heavily` `walk` "I often walk heavily."
 
 ### 3. Aspectual Modification (Prefixing)
 
@@ -56,12 +56,12 @@ Temporal and Frequency particles can attach to the front of the Adverb (or Adjec
 
 **1. Consistent Manner (Adverbial)**
 
-> **To John onådănă aśù.** `SUBJ` `John` `always-heavy` `walk` _"John walks consistently heavily."_ (Every time he walks, it is heavy).
+> to john onådănă aśù. `SUBJ` `John` `always-heavy` `walk` "John walks consistently heavily." (Every time he walks, it is heavy).
 
 **2. Habitual State (Adjectival)**
 
-> **To \[weather\] opùnågavi xiŕa.** `SUBJ` `[weather]` `usually-green` `IS` _"The weather is usually good."_ (It is good below-always).
+> to \[weather\] opùnågavi xiŕa. `SUBJ` `[weather]` `usually-green` `IS` "The weather is usually good." (It is good below-always).
 
 **3. Negative Attribute**
 
-> **To John sinåshěsonýj shá xiŕa.** `SUBJ` `John` `never-smart` `person` `IS` _"John is a never-smart person."_ (He is consistently unintelligent).
+> to john sinåshěsonýj shá xiŕa. `SUBJ` `John` `never-smart` `person` `IS` "John is a never-smart person." (He is consistently unintelligent).

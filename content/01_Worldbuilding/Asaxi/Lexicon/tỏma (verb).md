@@ -39,8 +39,12 @@ IPA: /t̪ou̯ma/
 - Polish: otrzymywać, dostawać
 
 ### Example sentence
-**To wo daono zètỏma.**
-_I received a gift._
+
+#### Example 1
+
+- **Asaxi:** to wo daono zètỏma.
+- **English:** I received a gift.
+- **Polish:** x
 
 ### Alternative Forms
 Null

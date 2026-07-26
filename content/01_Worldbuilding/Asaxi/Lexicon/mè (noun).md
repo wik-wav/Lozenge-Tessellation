@@ -31,8 +31,12 @@ IPA: /mə/
 - Polish: rosa
 
 ### Example sentence
-**Mè vivi naŕa.**
-_Dew is on the grass._
+
+#### Example 1
+
+- **Asaxi:** mè vivi naŕa.
+- **English:** Dew is on the grass.
+- **Polish:** x
 
 ### Alternative Forms
 Null

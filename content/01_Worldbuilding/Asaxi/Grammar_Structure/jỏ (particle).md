@@ -31,8 +31,12 @@ IPA: /Ʝou̯/
 
 ### Example sentence
 
-**Shěsonů jỏ.**
-_Reading, yo._ / _I'm reading, man._
+
+#### Example 1
+
+- **Asaxi:** shěsonů jỏ.
+- **English:** Reading, yo._ / _I'm reading, man.
+- **Polish:** x
 
 ### Etymology
 

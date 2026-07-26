@@ -31,8 +31,12 @@ IPA: /ɡɯɾko̞/
 - Polish: węzeł
 
 ### Example sentence
-**Gùŕko gùŕo nanů.**
-_A knot is in the rope._
+
+#### Example 1
+
+- **Asaxi:** gùŕko gùŕo nanů.
+- **English:** A knot is in the rope.
+- **Polish:** x
 
 ### Alternative Forms
 Null

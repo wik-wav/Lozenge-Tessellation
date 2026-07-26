@@ -31,8 +31,12 @@ IPA: /bou̯ʃɑ/
 - Polish: mężczyzna
 
 ### Example sentence
-**Bỏshá xago xona.**
-_The man climbs the peak._
+
+#### Example 1
+
+- **Asaxi:** bỏshá xago xona.
+- **English:** The man climbs the peak.
+- **Polish:** x
 
 ### Alternative Forms
 Null

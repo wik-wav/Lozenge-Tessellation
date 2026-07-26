@@ -35,8 +35,12 @@ IPA: /sʰeɪbo/
 **sxëba** (Wicked claws).
 
 ### Example sentence
-Sè Lem sëa ni sxëba ůků.
-Lem's nails transform into wicked-claws.
+
+#### Example 1
+
+- **Asaxi:** sè lem sëa ni sxëba ůků.
+- **English:** Lem's nails transform into wicked-claws.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -34,8 +34,12 @@ IPA: /ɡaso/
 - Polish: szary
 
 ### Example sentence
-**Onýj go gaso.**
-_The rock is grey._
+
+#### Example 1
+
+- **Asaxi:** onýj go gaso.
+- **English:** The rock is grey.
+- **Polish:** x
 
 ### Alternative Forms
 Null

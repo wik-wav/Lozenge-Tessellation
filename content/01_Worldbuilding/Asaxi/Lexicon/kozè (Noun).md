@@ -30,8 +30,12 @@ IPA: /kozə/
 - Polish: starożytność, dawne dzieje
 
 ### Example sentence
-**Vkozè, jomåsháwa zèvivinů.**
-_In the distant past, humans lived._
+
+#### Example 1
+
+- **Asaxi:** vkozè, jomåsháwa zèvivinů.
+- **English:** In the distant past, humans lived.
+- **Polish:** x
 
 ### Alternative Forms
 Null

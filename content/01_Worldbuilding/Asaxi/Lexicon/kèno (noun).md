@@ -31,8 +31,12 @@ IPA: /kəno/
 - Polish: pytanie
 
 ### Example sentence
-**Sè no kèno gavinýj.**
-_Your question is good._
+
+#### Example 1
+
+- **Asaxi:** sè no kèno gavinýj.
+- **English:** Your question is good.
+- **Polish:** x
 
 ### Alternative Forms
 Null

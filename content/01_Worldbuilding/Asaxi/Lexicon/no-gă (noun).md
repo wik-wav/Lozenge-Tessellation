@@ -30,8 +30,12 @@ IPA: /nogaɪ/
 - Polish: tam (blisko rozmówcy)
 
 ### Example sentence
-To shěso no-gă ỏnů.
-The book is there (near you).
+
+#### Example 1
+
+- **Asaxi:** to shěso no-gă ỏnů.
+- **English:** The book is there (near you).
+- **Polish:** x
 
 ### Alternative Forms
 x

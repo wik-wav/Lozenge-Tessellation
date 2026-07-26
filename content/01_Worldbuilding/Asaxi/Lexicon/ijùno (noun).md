@@ -31,8 +31,12 @@ IPA: /ijɯno/
 - Polish: słowo, wypowiedź
 
 ### Example sentence
-**O-ijùno kjo?**
-_What is this word?_
+
+#### Example 1
+
+- **Asaxi:** o-ijùno kjo?
+- **English:** What is this word?
+- **Polish:** x
 
 ### Alternative Forms
 Null

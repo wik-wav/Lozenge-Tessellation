@@ -34,8 +34,12 @@ IPA: /tʰepou̯/
 **txepỏa** (Feathers).
 
 ### Example sentence
-Onă dăbwonă gadăjală txepỏa shivënů.
-The very beautiful big bird is showing off its feathers.
+
+#### Example 1
+
+- **Asaxi:** onă dăbwonă gadăjală txepỏa shivënů.
+- **English:** The very beautiful big bird is showing off its feathers.
+- **Polish:** x
 
 ### Alternative Forms
 x

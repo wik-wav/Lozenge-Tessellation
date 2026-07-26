@@ -36,7 +36,7 @@ Particles must appear in this specific order. If a slot is not needed, it is ski
 
 **Target Sentence:**
 
-> **To no shěsonů ken xădăchỏxă kè me?** `SUBJ` `2SG` `read` `CAN` `PRAYER/WISH` `QUES` `SKEPTICISM`
+> to no shěsonů ken xădăchỏxă kè me? `SUBJ` `2SG` `read` `CAN` `PRAYER/WISH` `QUES` `SKEPTICISM`
 
 **Breakdown of Scope:**
 
@@ -54,13 +54,13 @@ Particles must appear in this specific order. If a slot is not needed, it is ski
 
 **Chain A: "I could stop."**
 
-> **Shěsonů tomo ken.** `read` `STOP` `CAN` _Meaning:_ "I am able to stop reading." (Result -> Ability).])]
+> shěsonů tomo ken. `read` `STOP` `CAN` _Meaning:_ "I am able to stop reading." (Result -> Ability).])]
 
 **Chain B: "I wish I could stop."**
 
-> **Shěsonů tomo ken dăxă.** `read` `STOP` `CAN` `HOPEFULLY` _Meaning:_ "I hope I can stop reading." (Result -> Ability -> Wish).
+> shěsonů tomo ken dăxă. `read` `STOP` `CAN` `HOPEFULLY` _Meaning:_ "I hope I can stop reading." (Result -> Ability -> Wish).
 
 **Chain C: "But could you stop?"**
 
-> **Shěsonů tomo ken kè dzè...** `read` `STOP` `CAN` `QUES` `BUT` _Meaning:_ "Can you stop reading? But..." (Result -> Ability -> Question -> Connector).
+> shěsonů tomo ken kè dzè... `read` `STOP` `CAN` `QUES` `BUT` _Meaning:_ "Can you stop reading? But..." (Result -> Ability -> Question -> Connector).
 

@@ -36,8 +36,12 @@ IPA: /siɡo̞nuu̯/
 - Polish: liczyć
 
 ### Example sentence
-**Wo daogo sigonů.**
-_I count the money._
+
+#### Example 1
+
+- **Asaxi:** wo daogo sigonů.
+- **English:** I count the money.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /Ʝɪn/
 - Polish: rozmowa, mowa
 
 ### Example sentence
-John zá kjèpowa jýnů.
-John is talking with the trees.
+
+#### Example 1
+
+- **Asaxi:** john zá kjèpowa jýnů.
+- **English:** John is talking with the trees.
+- **Polish:** x
 
 ### Alternative Forms
 x

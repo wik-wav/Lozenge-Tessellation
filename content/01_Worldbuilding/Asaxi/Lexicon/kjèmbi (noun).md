@@ -31,8 +31,12 @@ IPA: /kʲəmbi/
 - Polish: karta (do gry)
 
 ### Example sentence
-**Hjá kjèmbi kjèmbinů.**
-_The child plays with cards._
+
+#### Example 1
+
+- **Asaxi:** hjá kjèmbi kjèmbinů.
+- **English:** The child plays with cards.
+- **Polish:** x
 
 ### Alternative Forms
 Null

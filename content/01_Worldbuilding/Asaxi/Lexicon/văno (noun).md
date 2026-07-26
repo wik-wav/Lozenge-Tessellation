@@ -31,8 +31,12 @@ IPA: /b̪vaɪno̞/
 - Polish: plon, zbiory
 
 ### Example sentence
-**Văno văŕo izoŕa.**
-_The harvest comes from the garden._
+
+#### Example 1
+
+- **Asaxi:** văno văŕo izoŕa.
+- **English:** The harvest comes from the garden.
+- **Polish:** x
 
 ### Alternative Forms
 Null

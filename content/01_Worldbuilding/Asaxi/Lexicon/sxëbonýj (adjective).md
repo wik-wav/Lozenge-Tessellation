@@ -41,8 +41,12 @@ IPA: /sxəbonɪj/
 - English: sharply
 
 ### Example sentence
-**Nozho sxëbonýj.**
-_A knife is sharp._
+
+#### Example 1
+
+- **Asaxi:** nozho sxëbonýj.
+- **English:** A knife is sharp.
+- **Polish:** x
 
 ### Alternative Forms
 Null

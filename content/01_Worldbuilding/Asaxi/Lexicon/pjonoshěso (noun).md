@@ -36,8 +36,12 @@ IPA: /pʲo̞no̞ʃɚso̞/
 
 ### Example sentence
 
-**Pjonoshěsa ijonů ken zèbů.**
-_He was able to look at picture books._
+
+#### Example 1
+
+- **Asaxi:** pjonoshěsa ijonů ken zèbů.
+- **English:** He was able to look at picture books.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

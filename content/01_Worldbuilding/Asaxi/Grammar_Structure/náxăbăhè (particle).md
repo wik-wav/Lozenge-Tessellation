@@ -44,7 +44,12 @@ IPA: /nɑɦaɪbaɪxə/
 
 ### Example sentence
 
-**To John bă shějýnshá zènáxăbăhèshěsonů.** _The teacher prohibited John from reading._ (Lit: John, by-the-teacher, was-forcefully-disallowed-means-to-read).
+
+#### Example 1
+
+- **Asaxi:** to john bă shějýnshá zènáxăbăhèshěsonů.
+- **English:** The teacher prohibited John from reading. (Lit: John, by-the-teacher, was-forcefully-disallowed-means-to-read).
+- **Polish:** x
 
 ### Antonyms
 

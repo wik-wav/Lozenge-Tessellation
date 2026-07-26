@@ -31,8 +31,12 @@ IPA: /saɪfʷɯ/
 - Polish: oddech
 
 ### Example sentence
-**Săfwù fùvù izoŕa.**
-_Breath comes from the lungs._
+
+#### Example 1
+
+- **Asaxi:** săfwù fùvù izoŕa.
+- **English:** Breath comes from the lungs.
+- **Polish:** x
 
 ### Alternative Forms
 Null

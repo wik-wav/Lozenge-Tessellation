@@ -32,8 +32,12 @@ IPA: /popo/
 - Polish: muszla
 
 ### Example sentence
-**To popo hùso nanů.**
-_The shell is on the sand._
+
+#### Example 1
+
+- **Asaxi:** to popo hùso nanů.
+- **English:** The shell is on the sand.
+- **Polish:** x
 
 ### Alternative Forms
 Null

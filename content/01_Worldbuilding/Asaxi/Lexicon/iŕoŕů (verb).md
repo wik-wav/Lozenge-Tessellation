@@ -35,8 +35,12 @@ IPA: /iɾoɾuu̯/
 - Polish: kolorować, malować, barwić
 
 ### Example sentence
-**To wo hjo gapo iŕorů.**
-_The star shines red_ (Lit. The star generates red colour)
+
+#### Example 1
+
+- **Asaxi:** to wo hjo gapo iŕorů.
+- **English:** The star shines red (Lit. The star generates red colour)
+- **Polish:** x
 
 ### Alternative Forms
 Null

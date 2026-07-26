@@ -31,8 +31,12 @@ IPA: /mou̯b̪vko̞/
 - Polish: babcia
 
 ### Example sentence
-**Sè wo mỏvko.**
-_My grandmother._
+
+#### Example 1
+
+- **Asaxi:** sè wo mỏvko.
+- **English:** My grandmother.
+- **Polish:** x
 
 ### Alternative Forms
 Null

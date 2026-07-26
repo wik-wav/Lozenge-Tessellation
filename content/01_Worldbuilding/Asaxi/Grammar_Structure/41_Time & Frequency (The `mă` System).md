@@ -43,12 +43,12 @@ Frequency modifiers function as **Floating Adverbs**. Consistent with Asaxi's Le
 **A. Pre-Verbal (Default)** Placed between the Subject and the Verb (often before the Object).
 
 - **Structure:** `[Subject] + [Frequency] + [Object] + [Verb]`
-- **Example:** **To wo ximă shěso shěsonů.** ("I daily read books.")
+- **Example:** to wo ximă shěso shěsonů. ("I daily read books.")
 
 **B. Sentence-Initial (Topicalized)** Placed at the very start to frame the entire sentence.
 
 - **Structure:** `[Frequency], [Subject] ...`
-- **Example:** **Ximă, to wo shěsonů.** ("Daily, I read.")
+- **Example:** ximă, to wo shěsonů. ("Daily, I read.")
 
 ---
 
@@ -56,15 +56,15 @@ Frequency modifiers function as **Floating Adverbs**. Consistent with Asaxi's Le
 
 **1. Daily Action**
 
-> **Vakamshárokam, to wo ximă ronů.** `in-gym` `SUBJ` `1SG` `daily` `lift` _"I lift at the gym every day."_])]
+> vakamshárokam, to wo ximă ronů. `in-gym` `SUBJ` `1SG` `daily` `lift` "I lift at the gym every day."])]
 
 **2. Intervals**
 
-> **To wo tammă haśù.** `SUBJ` `1SG` `two-every` `run` _"I run every other day."_
+> to wo tammă haśù. `SUBJ` `1SG` `two-every` `run` "I run every other day."
 
 **3. Indefinite Frequency**
 
-> **To wo gămă shěsonů.** `SUBJ` `1SG` `whenever` `read` _"I read whenever (at any time)."_
+> to wo gămă shěsonů. `SUBJ` `1SG` `whenever` `read` "I read whenever (at any time)."
 
 ### 4. Iterative Time Phrases ("X to X")
 
@@ -75,13 +75,13 @@ To express a progression or continuous change over time units ("Day by day," "Mo
 
 **Examples:**
 
-- **Xi ni xi.** ("Day by day" / "From day to day").
-- **Mao ni mao.** ("Night after night").
-- **Å ni å.** ("Time to time" / "Moment to moment").
+- xi ni xi. ("Day by day" / "From day to day").
+- mao ni mao. ("Night after night").
+- å ni å. ("Time to time" / "Moment to moment").
 
 **Sentence:**
 
-> **To wo xi ni xi bwoŕů.** _"I am getting fat day by day."_
+> to wo xi ni xi bwoŕů. "I am getting fat day by day."
 
 ---
 
@@ -91,9 +91,9 @@ The unit inventory now spans: **åkamm** (moment) < **[[jhi (noun)|jhi]]** (hour
 
 **The Duration Rule:** in duration readings, the time unit is joined to the clause by **[[nixå (particle)|nixå]]** (`nixå [Number] [Unit-PL]`). Outside duration phrases the units behave as ordinary (Cold/Warm) nouns.
 
-> **Nixå tam jhiwa onă Bỏhjá ni xő zèsùkixů.**
+> nixå tam jhiwa onă bỏhjá ni xő zèsùkixů.
 > `DUR two hour-PL DEF.W boy ALL 3SG.M PST-love`
-> *"For two hours the Boy loved him."* — [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]]
+> *"For two hours the Boy loved him."* — [[onă gaksamipỏpỏ (The Velveteen Rabbit)]]
 
 This refines the bare-number shorthand of [[14_Future & Complex Tenses]] §7 (`nixå 3` "for three (units)"), which remains valid when the unit is contextually generic.
 

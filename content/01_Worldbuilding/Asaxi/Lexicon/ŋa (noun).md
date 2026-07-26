@@ -32,8 +32,12 @@ IPA: /ŋa/
 - Polish: grzyb
 
 ### Example sentence
-**To wo ŋa chỏnů.**
-_I eat the mushroom._
+
+#### Example 1
+
+- **Asaxi:** to wo ŋa chỏnů.
+- **English:** I eat the mushroom.
+- **Polish:** x
 
 ### Alternative Forms
 x

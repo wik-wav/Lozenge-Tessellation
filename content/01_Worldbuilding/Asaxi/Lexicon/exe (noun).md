@@ -31,11 +31,18 @@ IPA: /eɦe/
 - Polish: płacz, szloch
 
 ### Example sentence
-**Xa exe zèminů.**
-_They heard crying._
 
-**Exe ai izoŕa.**
-_Crying stems from sorrow._ (aphoristic — its essential origin)
+#### Example 1
+
+- **Asaxi:** xa exe zèminů.
+- **English:** They heard crying.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** exe ai izoŕa.
+- **English:** Crying stems from sorrow. (aphoristic — its essential origin)
+- **Polish:** x
 
 ### Alternative Forms
 x

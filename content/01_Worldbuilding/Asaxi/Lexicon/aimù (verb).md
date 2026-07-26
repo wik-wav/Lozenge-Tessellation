@@ -39,8 +39,12 @@ IPA: /aimɯ/
 - Polish: umierać
 
 ### Example sentence
-**Shá aimù.**
-_The person dies._
+
+#### Example 1
+
+- **Asaxi:** shá aimù.
+- **English:** The person dies.
+- **Polish:** x
 
 ### Alternative Forms
 Null

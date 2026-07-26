@@ -25,7 +25,12 @@ tags:
 IPA: /ken/
 
 ### Example sentence
-**To John haśù ken.** _John can run._
+
+#### Example 1
+
+- **Asaxi:** to john haśù ken.
+- **English:** John can run.
+- **Polish:** x
 
 ### Etymology
 Borrowed from Singlish **"Can"**.

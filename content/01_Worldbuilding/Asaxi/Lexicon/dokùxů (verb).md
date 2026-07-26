@@ -36,8 +36,12 @@ IPA: /dokɯɦuw/
 - Polish: leczyć
 
 ### Example sentence
-**Onă dokùshá wo zèdokùxů.**
-_The doctor healed me._
+
+#### Example 1
+
+- **Asaxi:** onă dokùshá wo zèdokùxů.
+- **English:** The doctor healed me.
+- **Polish:** x
 
 ### Alternative Forms
 Null

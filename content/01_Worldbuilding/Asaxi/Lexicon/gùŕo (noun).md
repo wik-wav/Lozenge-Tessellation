@@ -31,8 +31,12 @@ IPA: /gɯɾo/
 - Polish: lina, sznur
 
 ### Example sentence
-**Gùŕo maxogăhè!**
-_Bring the rope!_
+
+#### Example 1
+
+- **Asaxi:** gùŕo maxogăhè!
+- **English:** Bring the rope!
+- **Polish:** x
 
 ### Alternative Forms
 Null

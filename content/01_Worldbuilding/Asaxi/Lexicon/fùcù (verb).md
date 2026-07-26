@@ -39,8 +39,12 @@ IPA: /fɯt͡sɯ/
 - Polish: czyścić, myć
 
 ### Example sentence
-**Mýdo të fùcù.**
-_Soap cleans the hand._
+
+#### Example 1
+
+- **Asaxi:** mýdo të fùcù.
+- **English:** Soap cleans the hand.
+- **Polish:** x
 
 ### Alternative Forms
 Null

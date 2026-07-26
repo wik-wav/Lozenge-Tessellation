@@ -31,8 +31,12 @@ IPA: /t̪eɪkɯ/
 - Polish: nadgarstek
 
 ### Example sentence
-**Sè wo tëkù tètá.**
-_My wrist hurts._
+
+#### Example 1
+
+- **Asaxi:** sè wo tëkù tètá.
+- **English:** My wrist hurts.
+- **Polish:** x
 
 ### Alternative Forms
 Null

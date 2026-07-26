@@ -36,8 +36,12 @@ IPA: /zəvoʃuu̯/
 - Polish: zniesławiać, oczerniać, pozbawiać tytułu
 
 ### Example sentence
-To xő wo zèvoshů.
-He defamed me.
+
+#### Example 1
+
+- **Asaxi:** to xő wo zèvoshů.
+- **English:** He defamed me.
+- **Polish:** x
 
 ### Alternative Forms
 x

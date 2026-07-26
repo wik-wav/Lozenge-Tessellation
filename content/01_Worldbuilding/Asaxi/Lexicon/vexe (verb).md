@@ -39,8 +39,12 @@ IPA: /b̪ve̞ɦe̞/
 - Polish: drżeć (z zimna)
 
 ### Example sentence
-**Wo zhýchů sèni, vexe.**
-_I am cold, so I shiver._
+
+#### Example 1
+
+- **Asaxi:** wo zhýchů sèni, vexe.
+- **English:** I am cold, so I shiver.
+- **Polish:** x
 
 ### Alternative Forms
 Null

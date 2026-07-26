@@ -36,8 +36,12 @@ IPA: /ɾaɪb̪viɦuu̯/
 - Polish: przyprawiać
 
 ### Example sentence
-**Wo mwo ŕăvixů.**
-_I season the meat._
+
+#### Example 1
+
+- **Asaxi:** wo mwo ŕăvixů.
+- **English:** I season the meat.
+- **Polish:** x
 
 ### Alternative Forms
 Null

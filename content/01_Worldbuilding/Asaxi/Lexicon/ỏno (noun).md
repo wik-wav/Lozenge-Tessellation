@@ -30,8 +30,12 @@ IPA: /ou̯no/
 - Polish: średnica, szerokość
 
 ### Example sentence
-**To  kjèpo ỏno ma.**
-_The tree has a diameter_. (That's what trees have)
+
+#### Example 1
+
+- **Asaxi:** to  kjèpo ỏno ma.
+- **English:** The tree has a diameter. (That's what trees have)
+- **Polish:** x
 
 ### Alternative Forms
 Null

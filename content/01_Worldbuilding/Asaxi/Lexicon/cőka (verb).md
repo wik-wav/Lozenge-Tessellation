@@ -39,8 +39,12 @@ IPA: /t̻͡s̪oɪka/
 - Polish: rozwiązywać
 
 ### Example sentence
-**Wo fjo cőka.**
-_I solve the problem._
+
+#### Example 1
+
+- **Asaxi:** wo fjo cőka.
+- **English:** I solve the problem.
+- **Polish:** x
 
 ### Alternative Forms
 Null

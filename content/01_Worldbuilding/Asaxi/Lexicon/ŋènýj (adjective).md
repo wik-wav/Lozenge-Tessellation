@@ -41,8 +41,12 @@ IPA: /ŋənɪj/
 - English: darkly, grimly
 
 ### Example sentence
-**Onýj xăto ŋènýj.**
-_The hut is gloomy and dim._
+
+#### Example 1
+
+- **Asaxi:** onýj xăto ŋènýj.
+- **English:** The hut is gloomy and dim.
+- **Polish:** x
 
 ### Alternative Forms
 Null

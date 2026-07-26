@@ -35,8 +35,12 @@ IPA: /nou̯t͡səɾuu̯/
 - Polish: pisać (notatki), notować, zapisywać
 
 ### Example sentence
-**To wo bă Asaxi nỏcèŕů.**
-_I am writing in Asaxi._ (Lit: I, by-means-of Asaxi, note-generate).
+
+#### Example 1
+
+- **Asaxi:** to wo bă asaxi nỏcèŕů.
+- **English:** I am writing in Asaxi. (Lit: I, by-means-of Asaxi, note-generate).
+- **Polish:** x
 
 ### Alternative Forms
 Null

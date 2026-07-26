@@ -44,11 +44,24 @@ IPA: /oꞲano/
 
 ### Example sentences
 
-**1. Event Scope (Sentence Final)** **To wo shěso shěsonů ojano.** _I read books separately / on distinct occasions._
 
-**2. Argument Scope (Subject)** **To shějýnshá ojano shěso zèdao.** _The teachers **individually** gave a book._ (Teacher A gave one, then Teacher B gave one).
+#### Example 1
 
-**3. Argument Scope (Object)** **To shějýnshá shěso ojano zèdao.** _The teachers gave the books **individually**._ (Handed over Book A, then Book B).
+- **Asaxi:** to wo shěso shěsonů ojano.
+- **English:** Event Scope (Sentence Final): I read books separately / on distinct occasions.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to shějýnshá ojano shěso zèdao.
+- **English:** Argument Scope (Subject): The teachers individually gave a book. (Teacher A gave one, then Teacher B gave one).
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** to shějýnshá shěso ojano zèdao.
+- **English:** Argument Scope (Object): The teachers gave the books individually. (Handed over Book A, then Book B).
+- **Polish:** x
 
 ### Alternative Forms
 x

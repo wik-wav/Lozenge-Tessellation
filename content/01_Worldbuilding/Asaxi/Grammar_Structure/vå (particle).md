@@ -38,4 +38,9 @@ IPA: /vau̯/
 
 ### Example sentence
 
-**John pănů vå, ko shěsonů.** _When John goes outside, she reads._
+
+#### Example 1
+
+- **Asaxi:** john pănů vå, ko shěsonů.
+- **English:** When John goes outside, she reads.
+- **Polish:** x

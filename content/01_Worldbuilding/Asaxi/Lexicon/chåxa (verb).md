@@ -38,8 +38,12 @@ IPA: /t͡ʃau̯ɦa/
 - Polish: podskoczyć, wyskoczyć w górę
 
 ### Example sentence
-**To mmråhjá zèchåxa.**
-_The kitten jumped up._
+
+#### Example 1
+
+- **Asaxi:** to mmråhjá zèchåxa.
+- **English:** The kitten jumped up.
+- **Polish:** x
 
 ### Alternative Forms
 Null

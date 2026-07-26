@@ -40,7 +40,7 @@ aliases:
 
 - _Structure:_ `xă` + `hè` + `[Verb]` → **xăhè[verb]**.
 - _Meaning:_ "To force someone to do X."
-- _Example:_ **To wo John zèxăhèshěsonů.** ("I forced John to read.").
+- _Example:_ to wo john zèxăhèshěsonů. ("I forced John to read.").
 
 **4. Stative Fusion** Fuses with the validity marker to assert undeniable fact.
 
@@ -54,7 +54,7 @@ IPA: /ɦaɪ/
 
 **H-Fortition:** Because `xă` contains a voiced fricative (/ɦ/), if it is followed immediately by a syllable starting with `h`, the `h` hardens into `x` (/ɦ/).
 
-- _Rule:_ `xă` + `hù...` → **xăxù...**
+- _Rule:_ `xă` + `hù...` → xăxù...
 - _Example:_ **náxăxùfwoŕa** (Is absolutely not uncertain)])].
 
 ### Antonyms

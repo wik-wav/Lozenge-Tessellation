@@ -39,8 +39,12 @@ IPA: /ɦaɪja/
 - Polish: ostrzegać
 
 ### Example sentence
-**Wo shá xăja.**
-_I warn the person._
+
+#### Example 1
+
+- **Asaxi:** wo shá xăja.
+- **English:** I warn the person.
+- **Polish:** x
 
 ### Alternative Forms
 Null

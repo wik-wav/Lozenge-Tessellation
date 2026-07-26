@@ -29,8 +29,12 @@ IPA: /aɕbibau̯bau̯/
 - Polish: mięśnie nóg
 
 ### Example sentence
-**Sè Xő aśbibåba dănă ůjů nå toxăhè.**
-_I'm sure that his leg muscles look huge._
+
+#### Example 1
+
+- **Asaxi:** sè xő aśbibåba dănă ůjů nå toxăhè.
+- **English:** I'm sure that his leg muscles look huge.
+- **Polish:** x
 
 ### Alternative Forms
 Null

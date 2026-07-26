@@ -32,8 +32,12 @@ IPA: /xəno/
 - Polish: korzeń
 
 ### Example sentence
-**Hèno cù vaŕa.**
-_A root sits in the soil._
+
+#### Example 1
+
+- **Asaxi:** hèno cù vaŕa.
+- **English:** A root sits in the soil.
+- **Polish:** x
 
 ### Alternative Forms
 x

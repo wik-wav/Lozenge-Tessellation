@@ -35,8 +35,12 @@ IPA: /ɦəɹonuu̯/
 - Polish: trenować siłowo, robić masę
 
 ### Example sentence
-**Wo xèronů, sèni båbaŕů.**
-_I lift weights, so I gain muscle._
+
+#### Example 1
+
+- **Asaxi:** wo xèronů, sèni båbaŕů.
+- **English:** I lift weights, so I gain muscle.
+- **Polish:** x
 
 ### Alternative Forms
 Null

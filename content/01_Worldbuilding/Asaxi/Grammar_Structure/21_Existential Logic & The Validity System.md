@@ -29,11 +29,11 @@ Since `xiŕa` is treated as a statement of fact rather than an action, Tense Pre
 
 - **Past Existence (`zèxiŕa`):** "Existed" / "Was a fact."
     - _Structure:_ `zè` + `xi` + `ŕa`.
-    - _Example:_ **To John shějýnshá zèxiŕa.** ("John was a teacher.")
+    - _Example:_ to john shějýnshá zèxiŕa. ("John was a teacher.")
     - _Contrast:_ `zèbů` implies he _acted_ like a teacher; `zèxiŕa` implies he _was_ one by definition.
 - **Future Existence (`paxiŕa`):** "Will exist" / "Will be a fact."
     - _Structure:_ `pa` + `xi` + `ŕa`.
-    - _Example:_ **Ågă paxiŕa.** ("There will be a time.")
+    - _Example:_ ågă paxiŕa. ("There will be a time.")
 
 ---
 
@@ -49,7 +49,7 @@ The Proximal prefixes (`o`, `no`, `ko`) are deictic pointers. They require the e
 - **no-xiŕa** (There-Exists): "Is there."
 - **ko-xiŕa** (Yonder-Exists): "Is over there."
 
-> **To shěso o-xiŕa.** _"The book is here."_
+> to shěso o-xiŕa. "The book is here."
 
 ### B. Relational States (Topology fuses with `ŕa`)
 
@@ -58,7 +58,7 @@ Topological prefixes (`va`, `na`, `xa`) define the _mode_ of existence. They rep
 - **vaŕa** (In-Is): "Is inside."
 - **naŕa** (On-Is): "Is on."
 
-> **Mao xaŕa.** _"The moon is above."_
+> mao xaŕa. "The moon is above."
 
 ---
 
@@ -75,9 +75,9 @@ The **Attributive Particle `ga`** can fuse with the Validity Marker `ŕa`. This 
 
 **Examples:**
 
-- **John gajýnnŕa.** ("John is a were-hyena.")
+- john gajýnnŕa. ("John is a were-hyena.")
     - _Analysis:_ `gajýnnshá` (Were-hyena) + `ŕa`.
-- **To apo gapoŕa.** ("The apple is red.")
+- to apo gapoŕa. ("The apple is red.")
     - _Analysis:_ `gapo` (Red) + `ŕa`.
 
 ---
@@ -94,7 +94,7 @@ When negating pure existence (`xi`), the negative particle `ná` fuses with `xi`
 - **Past:** **zènèŕa** (Was not).
 - **Future:** **panèŕa** (Will not be).
 
-> **John shějýnshá zènèŕa.** ("John was not a teacher.")
+> john shějýnshá zènèŕa. ("John was not a teacher.")
 
 ### B. Relational/Constitutional Negation (`ná...ŕa`)
 
@@ -103,8 +103,8 @@ When "Slot A" is occupied by something _other_ than `xi` (like `ni`, `izo`, or a
 - **Relational:** `niŕa` (Becomes) → **nániŕa** (Does not become).
 - **Constitutional:** `gapoŕa` (Is red) → **nágapoŕa** (Is not red).
 
->A. **Tom gajýnnshá panániŕa.** 
->B. **Tom gajýnnshá panáni.** 
+>A. tom gajýnnshá panániŕa. 
+>B. tom gajýnnshá panáni. 
 >"Tom **will not become** a were-hyena."
 
 **Scenario A: no ambiguity about state of being: (`panániŕa`)** 
@@ -147,13 +147,13 @@ In specific contexts, the suffix **-ŕa** can be omitted. This is not merely a s
 
 **1. The Allative (`ni`)**
 
-- **niŕa** (Verb): `To shosa siŕo niŕa.` ("The road **leads to** the unknown." - _Permanent attribute/Destiny_).
-- **ni** (Particle): `To shosa siŕo ni.` ("The road **(is) towards** the unknown." - _Static orientation/Direction_).
+- **niŕa** (Verb): `to shosa siŕo niŕa.` ("The road **leads to** the unknown." - _Permanent attribute/Destiny_).
+- **ni** (Particle): `to shosa siŕo ni.` ("The road **(is) towards** the unknown." - _Static orientation/Direction_).
 
 **2. The Genitive (`sè`)**
 
-- **sèŕa** (Verb): `To shěso John sèŕa.` ("The book **belongs to** John." - _Legal ownership_).
-- **sè** (Particle): `To shěso sè John.` ("The book **(is) of** John." - _Description/Association_).
+- **sèŕa** (Verb): `to shěso john sèŕa.` ("The book **belongs to** John." - _Legal ownership_).
+- **sè** (Particle): `to shěso sè john.` ("The book **(is) of** John." - _Description/Association_).
 
 **3. The Invalid Drop (Prefixes)**
 
@@ -165,16 +165,16 @@ In specific contexts, the suffix **-ŕa** can be omitted. This is not merely a s
 The position of the particle determines whether it acts as a **Verb** (State), a **Predicate** (Orientation), or a **Case Marker** (Destination).
 
 **1. The Stative Verb (`niŕa`)**
-> **To shosa siŕo niŕa.** `SUBJ` `road` `unknown` `LEADS-TO` _"The road **leads to** the unknown."_
+> to shosa siŕo niŕa. `SUBJ` `road` `unknown` `LEADS-TO` "The road leads to the unknown."
 > - **Nuance:** **Definition / Destiny.** It defines the road's purpose or intrinsic nature. This is an unchangeable fact about the road.
 
 
 **2. The Particle Predicate (Drop `-ŕa`)**
-> **To shosa siŕo ni.** `SUBJ` `road` `unknown` `TOWARDS` _"The road **(is) towards** the unknown."_
+> to shosa siŕo ni. `SUBJ` `road` `unknown` `TOWARDS` "The road (is) towards the unknown."
 > - **Nuance:** **Description / Orientation.** It describes the road's current direction or heading relative to the unknown. It feels more circumstantial (e.g., "It's pointing that way").
 
 **3. The Existential Minimal (Front-loaded `ni`)**
-> **To shosa ni siŕo.** `SUBJ` `road` `ALL-unknown` `(EXIST)` _"The road (is) **to the unknown**."_
+> to shosa ni siŕo. `SUBJ` `road` `ALL-unknown` `(EXIST)` "The road (is) to the unknown."
 > - **Nuance:** **Classification.** Here, `ni` acts as a standard NPCP attached to `siŕo`. The phrase `ni siŕo` ("to the unknown") is treated as a Noun Phrase. The sentence equates the road with that concept. "This is a road-to-the-unknown."
 
 ### The General Rule
@@ -188,9 +188,9 @@ The position of the particle determines whether it acts as a **Verb** (State), a
 
 **Context:** John is holding a book.
 
-> **To shěso John sèŕa.** ("The book **belongs to** John.")
+> to shěso john sèŕa. ("The book **belongs to** John.")
 > - _Implication:_ He bought it. It is his property. Even if he loses it, it is still his.
-> **To shěso sè John.** ("The book **is with/of** John.")
+> to shěso sè john. ("The book **is with/of** John.")
 > - _Implication:_ He has it right now. It might not be his (he might be borrowing it), but structurally, it is currently associated with him.
 > - 
 ### 2. The Dative: `dåŕa` vs `då` (Purpose)
@@ -200,9 +200,9 @@ The position of the particle determines whether it acts as a **Verb** (State), a
 
 **Context:** A sword is on a table.
 
-> **To kjèkiŕo John dåŕa.** ("The axe **is intended for** John.")
+> to kjèkiŕo john dåŕa. ("The axe **is intended for** John.")
 > - _Implication:_ It was forged specifically for him. Only he should use it.
-> **To kjèkiŕo då John.** ("The axe **(is) for** John.")
+> to kjèkiŕo då john. ("The axe **(is) for** John.")
 > - _Implication:_ Use this axe, John. It is available for you to use right now.
 
 ### 3. The Ablative: `izoŕa` vs `izo` (Origin)
@@ -212,9 +212,9 @@ The position of the particle determines whether it acts as a **Verb** (State), a
 
 **Context:** John arrives from the city.
 
-> **To John gaŕo izoŕa.** ("John **originates from** the city.")
+> to john gaŕo izoŕa. ("John **originates from** the city.")
 > - _Implication:_ He was born there. He is a city-person (`gagaŕoshá`).
-> **To John izo gaŕo.** ("John **(is) from** the city.")
+> to john izo gaŕo. ("John **(is) from** the city.")
 > - _Implication:_ He just walked here from the city. He might actually be from the forest, but his current path started in the city.
 
 ### 4. The Comitative: `záŕa` vs `zá` (Association)
@@ -224,9 +224,9 @@ The position of the particle determines whether it acts as a **Verb** (State), a
 
 **Context:** Describes the relationship between two objects.
 
-> **To mao o záŕa.** ("The moon **belongs with** the sky.")
+> to mao o záŕa. ("The moon **belongs with** the sky.")
 > - _Implication:_ You cannot have one without the other. They are a cosmic pair.
-> **To mao zá o.** ("The moon **(is) with** the sky.")
+> to mao zá o. ("The moon **(is) with** the sky.")
 > - _Implication:_ Currently, they are seen together. (Perhaps poetically implying they could be separated).
 
 ### Summary Table for Writers

@@ -38,7 +38,7 @@ x
 ### Etymology
 - **English:** **T**-a-**b**-l-e
 - **Russian/Polish:** S-**t**-**o**-l / S-t-ó-ł
-- \-o (slavic neuter suffix) = **Tobo**.
+- \-o (slavic neuter suffix) = **tobo**.
 
 ### Synonyms
 x

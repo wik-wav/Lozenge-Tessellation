@@ -31,8 +31,12 @@ IPA: /saɪpou̯no̞/
 - Polish: koc
 
 ### Example sentence
-**Săpỏno ỏbỏŕo nanů.**
-_A blanket is on the bed._
+
+#### Example 1
+
+- **Asaxi:** săpỏno ỏbỏŕo nanů.
+- **English:** A blanket is on the bed.
+- **Polish:** x
 
 ### Alternative Forms
 Null

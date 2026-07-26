@@ -36,8 +36,12 @@ IPA: /itaɪnuu̯/
 - Polish: napinać się, spinać, naprężać
 
 ### Example sentence
-Sè wo båba itănů.
-My muscles tense up. (Lit: My muscles perform tension).
+
+#### Example 1
+
+- **Asaxi:** sè wo båba itănů.
+- **English:** My muscles tense up. (Lit: My muscles perform tension).
+- **Polish:** x
 
 ### Alternative Forms
 x

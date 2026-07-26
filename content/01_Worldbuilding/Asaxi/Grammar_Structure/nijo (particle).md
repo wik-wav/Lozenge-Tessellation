@@ -26,7 +26,12 @@ IPA: /ɲiꞲo/
 
 ### Example sentence
 
-**To jo nijo ijo.** _It sees itself._
+
+#### Example 1
+
+- **Asaxi:** to jo nijo ijo.
+- **English:** It sees itself.
+- **Polish:** x
 
 ### Etymology
 

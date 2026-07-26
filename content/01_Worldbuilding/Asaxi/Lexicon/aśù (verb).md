@@ -19,7 +19,7 @@ tags:
 <span class="asaxi-script-alpha">aśù</span>
 ### Transitivity / Valency
 _monotransitive verb_ 
-takes two, e.g. _He(1) kicked the ball(2)._
+takes two, e.g. He(1) kicked the ball(2).
 
 ### Lexical Aspect
 - **Durative (Activity)** — unfolds over time.

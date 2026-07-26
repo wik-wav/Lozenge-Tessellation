@@ -35,8 +35,12 @@ IPA: /eɦau̯nuu̯/
 - Polish: uśmiechać się
 
 ### Example sentence
-**To wo ni no exånů.**
-_I smile at you._
+
+#### Example 1
+
+- **Asaxi:** to wo ni no exånů.
+- **English:** I smile at you.
+- **Polish:** x
 
 ### Alternative Forms
 Null

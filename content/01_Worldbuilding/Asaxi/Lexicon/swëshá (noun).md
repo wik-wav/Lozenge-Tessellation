@@ -30,8 +30,12 @@ IPA: /sʷeɪʃɑ/
 - Polish: smok
 
 ### Example sentence
-Toonă gabwoswëshá bwonă xiŕa.
-The fat dragon is beautiful.
+
+#### Example 1
+
+- **Asaxi:** toonă gabwoswëshá bwonă xiŕa.
+- **English:** The fat dragon is beautiful.
+- **Polish:** x
 
 ### Alternative Forms
 x

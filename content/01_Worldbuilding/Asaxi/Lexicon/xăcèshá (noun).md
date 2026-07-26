@@ -36,8 +36,12 @@ IPA: /ɦaɪt̻͡s̪əʃɑ/
 
 ### Example sentence
 
-**Hjá ni no xăsùkixů zå, no Xăcèshá niŕa.**
-_When a child truly loves you, you become Real._
+
+#### Example 1
+
+- **Asaxi:** hjá ni no xăsùkixů zå, no xăcèshá niŕa.
+- **English:** When a child truly loves you, you become Real.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -45,7 +49,7 @@ x
 
 ### Etymology
 
-**xăcè** (true, certain; cf. xăcèno "truth") + **-shá** (creature): the genuine creature. The story-concept "Real" of [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+**xăcè** (true, certain; cf. xăcèno "truth") + **-shá** (creature): the genuine creature. The story-concept "Real" of [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].
 
 ### Synonyms
 
@@ -62,4 +66,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

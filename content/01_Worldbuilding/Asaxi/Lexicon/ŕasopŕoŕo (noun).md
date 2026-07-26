@@ -36,8 +36,12 @@ IPA: /ɾaso̞pɾo̞ɾo̞/
 
 ### Example sentence
 
-**Igùŕano ŕasopŕoŕo.**
-_A toy engine._
+
+#### Example 1
+
+- **Asaxi:** igùŕano ŕasopŕoŕo.
+- **English:** A toy engine.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

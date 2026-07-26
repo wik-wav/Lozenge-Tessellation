@@ -36,8 +36,12 @@ IPA: /tapɯʃɑ/
 
 ### Example sentence
 
-**Ỏ kjèpa tapùshá igùŕanů.**
-_Playing at brigands among the trees._
+
+#### Example 1
+
+- **Asaxi:** ỏ kjèpa tapùshá igùŕanů.
+- **English:** Playing at brigands among the trees.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

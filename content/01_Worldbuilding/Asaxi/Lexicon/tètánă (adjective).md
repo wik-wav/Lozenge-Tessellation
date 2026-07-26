@@ -41,8 +41,12 @@ IPA: /t̪ət̪ɑnaɪ/
 - English: painfully
 
 ### Example sentence
-**Onă tètáŕo tètánă.**
-_This wound is painful._
+
+#### Example 1
+
+- **Asaxi:** onă tètáŕo tètánă.
+- **English:** This wound is painful.
+- **Polish:** x
 
 ### Alternative Forms
 Null

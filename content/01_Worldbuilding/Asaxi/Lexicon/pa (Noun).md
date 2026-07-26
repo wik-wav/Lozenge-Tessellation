@@ -31,8 +31,12 @@ IPA: /pa/
 - Polish: przyszłość
 
 ### Example sentence
-**Nipa, wa pahaśù.**
-_Into the future, we will run._
+
+#### Example 1
+
+- **Asaxi:** nipa, wa pahaśù.
+- **English:** Into the future, we will run.
+- **Polish:** x
 
 ### Alternative Forms
 Null

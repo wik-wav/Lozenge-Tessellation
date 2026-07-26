@@ -33,7 +33,12 @@ IPA: /ɲiwo/
 
 ### Example sentence
 
-**To wo niwo ijo.** _I see myself._
+
+#### Example 1
+
+- **Asaxi:** to wo niwo ijo.
+- **English:** I see myself.
+- **Polish:** x
 
 ### Etymology
 

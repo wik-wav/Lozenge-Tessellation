@@ -39,8 +39,12 @@ IPA: /ma.aɕɯ/
 - Polish: nieść
 
 ### Example sentence
-**Wo shěso maaśù.**
-_I carry a book._
+
+#### Example 1
+
+- **Asaxi:** wo shěso maaśù.
+- **English:** I carry a book.
+- **Polish:** x
 
 ### Alternative Forms
 Null

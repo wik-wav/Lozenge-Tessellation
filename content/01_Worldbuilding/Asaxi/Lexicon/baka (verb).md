@@ -39,8 +39,12 @@ IPA: /baka/
 - Polish: zaprzyjaźniać się
 
 ### Example sentence
-**Wo siŕoshá baka.**
-_I befriend the stranger._
+
+#### Example 1
+
+- **Asaxi:** wo siŕoshá baka.
+- **English:** I befriend the stranger.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -32,8 +32,12 @@ IPA: /mɯɕo/
 - Polish: pleśń
 
 ### Example sentence
-**To mùśo vèno nanů.**
-_Mould is on the wood._
+
+#### Example 1
+
+- **Asaxi:** to mùśo vèno nanů.
+- **English:** Mould is on the wood.
+- **Polish:** x
 
 ### Alternative Forms
 Null

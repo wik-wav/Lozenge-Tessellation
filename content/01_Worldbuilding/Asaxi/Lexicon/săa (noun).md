@@ -31,8 +31,12 @@ IPA: /saɪa/
 - Polish: żar, ciepło, gorąco
 
 ### Example sentence
-**Ă wo săachů.**
-_I feel hot. (exogenous `-ch-`; one's own radiated heat is **săaŕů** — see [[65_Expressing States & Sensations (Source Doctrine)]].)_
+
+#### Example 1
+
+- **Asaxi:** ă wo săachů.
+- **English:** I feel hot. (exogenous `-ch-`; one's own radiated heat is săaŕů — see [[65_Expressing States & Sensations (Source Doctrine)]].)
+- **Polish:** x
 
 ### Alternative Forms
 Null

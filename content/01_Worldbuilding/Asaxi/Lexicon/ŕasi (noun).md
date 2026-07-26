@@ -31,8 +31,12 @@ IPA: /ɾasi/
 - Polish: iskra
 
 ### Example sentence
-**To ŕasi ŕăa izoŕa.**
-_A spark comes off the fire._
+
+#### Example 1
+
+- **Asaxi:** to ŕasi ŕăa izoŕa.
+- **English:** A spark comes off the fire.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -38,7 +38,18 @@ IPA: /ɦoɡaɪ/
 - Polish: przybyć, dotrzeć, osiągnąć
 
 ### Example sentence
-Null
+
+#### Example 1
+
+- **Asaxi:** to wo vashěsokam xogă.
+- **English:** Physical: I arrive at the library.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo gavină xogăni.
+- **English:** Abstract/emotional: I reach a good state / I arrive at wellness.
+- **Polish:** x
 
 ### Alternative Forms
 - **xogăni** (Fused Allative form: `xogă` + `ni`). Used to emphasize the *connection* made upon arrival.
@@ -59,13 +70,3 @@ Null
 
 ### Usage Note
 Can be used for physical travel ("reach the city") or abstract states ("reach a conclusion / emotional state").
-
-### Example sentences
-**Physical:**
-**To wo vashěsokam xogă.**
-_I arrive at the library._
-
-**Abstract/Emotional:**
-
-**To wo gavină xogăni.**
-_I reach a good state / I arrive at wellness._

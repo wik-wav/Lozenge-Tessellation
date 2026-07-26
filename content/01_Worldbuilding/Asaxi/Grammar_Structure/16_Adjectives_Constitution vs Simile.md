@@ -86,11 +86,11 @@ In the **Existential Minimal Sentence** (see **[[08_Minimal Sentence]]**), the c
 
 **A. Constitution (Ga-Noun as Predicate)**
 
-> **Apo gapo.** `Apple` `redness` _"The apple (is) red."_
+> apo gapo. `Apple` `redness` "The apple (is) red."
 
 **B. Simile (Adjective as Predicate)**
 
-> **John shánă.** `John` `human-like` _"John (is) wise/humane."_
+> john shánă. `John` `human-like` "John (is) wise/humane."
 
 ### Summary Rule
 
@@ -121,17 +121,17 @@ This distinction is crucial when, for example, describing physical bodies. Asaxi
 
 **1. Objective Fact (Constitution)**
 
-> **To John gafůbåbå shá.** _"John is a muscleless person."_
+> to john gafůbåbå shá. "John is a muscleless person."
 > 
 > - **Implication:** This is a medical fact. He has atrophy. The speaker knows this for sure.
 
 **2. Subjective Opinion (Aesthetic)**
 
-> **To John hjihjină shá.** _"John is a petite person."_
+> to john hjihjină shá. "John is a petite person."
 > 
 > - **Implication:** The speaker thinks John looks cute/small.
 
 
 **3. The Epistemic Fix (Uncertainty)** If you suspect John has atrophy but don't have proof, you cannot say Sentence 1. You must say:
 
-> **To John gafůbåbå shá tte ŕima.** _"I think that John is a muscleless person."_
+> to john gafůbåbå shá tte ŕima. "I think that John is a muscleless person."

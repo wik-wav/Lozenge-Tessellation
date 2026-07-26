@@ -36,8 +36,12 @@ IPA: /em.biʃuw/
 - Polish: pokonać, zwyciężyć
 
 ### Example sentence
-**To wo no embishů.**
-_I defeat you._ (I remove your plane).
+
+#### Example 1
+
+- **Asaxi:** to wo no embishů.
+- **English:** I defeat you. (I remove your plane).
+- **Polish:** x
 
 ### Alternative Forms
 Null

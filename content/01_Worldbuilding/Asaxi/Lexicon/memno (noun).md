@@ -31,8 +31,12 @@ IPA: /memno/
 - Polish: guzik
 
 ### Example sentence
-**To memno bwopỏ memm.**
-_A button closes the shirt._
+
+#### Example 1
+
+- **Asaxi:** to memno bwopỏ memm.
+- **English:** A button closes the shirt.
+- **Polish:** x
 
 ### Alternative Forms
 Null

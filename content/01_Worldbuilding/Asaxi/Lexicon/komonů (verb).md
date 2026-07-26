@@ -35,8 +35,12 @@ IPA: /ko̞mo̞nuu̯/
 - Polish: jeść posiłek
 
 ### Example sentence
-**Wo komonů.**
-_I eat a meal._
+
+#### Example 1
+
+- **Asaxi:** wo komonů.
+- **English:** I eat a meal.
+- **Polish:** x
 
 ### Alternative Forms
 Null

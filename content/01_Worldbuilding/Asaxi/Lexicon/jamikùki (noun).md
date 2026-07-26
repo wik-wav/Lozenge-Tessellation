@@ -36,8 +36,12 @@ IPA: /jamikɯki/
 
 ### Example sentence
 
-**Jo sè gapo-săaai jamikùkiwa maka xiŕa!**
-_It's a mass of scarlet fever germs!_
+
+#### Example 1
+
+- **Asaxi:** jo sè gapo-săaai jamikùkiwa maka xiŕa!
+- **English:** It's a mass of scarlet fever germs!
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

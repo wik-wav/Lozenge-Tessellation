@@ -31,8 +31,13 @@ IPA: /Ʝɑɡo/
 - Polish: jagoda
 
 ### Example sentence
-Jágo kjèro izoŕa.
-Berries grow in the forest. (Berries are from the woods)
+
+#### Example 1
+
+- **Asaxi:** jágo kjèro izoŕa.
+- **English:** Berries grow in the forest. (Berries are from the woods)
+- **Polish:** x
+
 ### Alternative Forms
 x
 

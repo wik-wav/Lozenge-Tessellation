@@ -37,7 +37,7 @@ Reflexive pronouns are formed by attaching the prefix **ni-** (Towards) to the s
 
 **Example:**
 
-> **To wo niwo ijo.** `SUBJ` `1SG` `REFL-1SG` `see` _"I see myself."_
+> to wo niwo ijo. `SUBJ` `1SG` `REFL-1SG` `see` "I see myself."
 
 ---
 
@@ -55,8 +55,8 @@ To express mutual action between members of a plural subject, Asaxi uses a fixed
 
 **Example (Transitive):**
 
-> **To wa gőnigő ijo.** `SUBJ` `1PL` `RECIP` `see` _"We see each other."_
+> to wa gőnigő ijo. `SUBJ` `1PL` `RECIP` `see` "We see each other."
 
 **Example (Oblique/Comitative):**
 
-> **To wa zá gőnigő aśù.** `SUBJ` `1PL` `COM` `RECIP` `walk` _"We walk with each other."_
+> to wa zá gőnigő aśù. `SUBJ` `1PL` `COM` `RECIP` `walk` "We walk with each other."

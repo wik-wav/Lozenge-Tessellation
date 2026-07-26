@@ -35,8 +35,12 @@ IPA: /miaz̪xuu̯/
 - Polish: smakować słodko
 
 ### Example sentence
-**Kae miazhů.**
-_The fruit tastes sweet._
+
+#### Example 1
+
+- **Asaxi:** kae miazhů.
+- **English:** The fruit tastes sweet.
+- **Polish:** x
 
 ### Alternative Forms
 Null

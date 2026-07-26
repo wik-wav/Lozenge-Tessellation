@@ -42,14 +42,19 @@ IPA: /nɑɦaɪnau̯ɕi/
 
 ### Example sentence
 
-**To wo shěsonů náxănåsi.** _I will absolutely never read._
+
+#### Example 1
+
+- **Asaxi:** to wo shěsonů náxănåsi.
+- **English:** I will absolutely never read.
+- **Polish:** x
 
 ### Alternative Forms
 - **onånáxănåsi**: "Forever never" / "Never in eternity".
     
     - _Etymology:_ ****[[onå (particle)|onå]] (Forever) + **náxănåsi**.
     - _Usage:_ Used for eternal vows, curses, or physics constants.
-    - _Example:_ **To xő pazèxoxo onånáxănåsi.** ("He is gone forever, absolutely never to return.")]), pazè- ([[14_Future & Complex Tenses]])]
+    - _Example:_ to xő pazèxoxo onånáxănåsi. ("He is gone forever, absolutely never to return.")]), pazè- ([[14_Future & Complex Tenses]])]
 
 ### Synonyms
 

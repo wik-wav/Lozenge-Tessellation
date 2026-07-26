@@ -34,8 +34,12 @@ IPA: /ɕiveɪnuu̯/
 - Polish: popisywać się, puszyć się
 
 ### Example sentence
-**To John sivënů.**
-_John is showing off._
+
+#### Example 1
+
+- **Asaxi:** to john sivënů.
+- **English:** John is showing off.
+- **Polish:** x
 
 ### Alternative Forms
 Null

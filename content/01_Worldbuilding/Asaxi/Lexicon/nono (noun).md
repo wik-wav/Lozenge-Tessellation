@@ -31,11 +31,15 @@ IPA: /nono/
 - Polish: rzecz, przedmiot, obiekt
 
 ### Definition & Cultural Note
-A generic physical object. **Nono** is used to refer to an item that has no specific name known to the speaker, or when the speaker wishes to emphasize the object's inanimate, ordinary nature.
+A generic physical object. **nono** is used to refer to an item that has no specific name known to the speaker, or when the speaker wishes to emphasize the object's inanimate, ordinary nature.
 
 ### Example sentence
-Sè shěsokam bwonă nono mëjonů.
-I'm looking at a beautiful thing from a library.
+
+#### Example 1
+
+- **Asaxi:** sè shěsokam bwonă nono mëjonů.
+- **English:** I'm looking at a beautiful thing from a library.
+- **Polish:** x
 
 ### Alternative Forms
 - no (root form, often used in compounds)

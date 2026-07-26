@@ -38,8 +38,12 @@ IPA: /ɲiɾo/
 - Polish: zanurzać, pławić
 
 ### Example sentence
-**To wo [body] niŕo.**
-_I submerge (my) body._
+
+#### Example 1
+
+- **Asaxi:** to wo [body] niŕo.
+- **English:** I submerge (my) body.
+- **Polish:** x
 
 ### Alternative Forms
 - **niŕoŕo** (Full compound: `ni` + `ŕoŕo`). Used for emphasis or poetic rhythm.

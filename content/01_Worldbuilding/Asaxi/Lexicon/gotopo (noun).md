@@ -31,8 +31,12 @@ IPA: /ɡo̞t̪o̞po̞/
 - Polish: grad
 
 ### Example sentence
-**Gotopo zhýnýj.**
-_Hail is cold._
+
+#### Example 1
+
+- **Asaxi:** gotopo zhýnýj.
+- **English:** Hail is cold.
+- **Polish:** x
 
 ### Alternative Forms
 Null

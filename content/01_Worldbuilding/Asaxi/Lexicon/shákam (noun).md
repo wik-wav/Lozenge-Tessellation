@@ -31,8 +31,12 @@ IPA: /ʃɑkam/
 - Polish: obora, stajnia
 
 ### Example sentence
-**Mùù shákam vanů.**
-_The cow is in the barn._
+
+#### Example 1
+
+- **Asaxi:** mùù shákam vanů.
+- **English:** The cow is in the barn.
+- **Polish:** x
 
 ### Alternative Forms
 Null

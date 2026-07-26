@@ -34,8 +34,12 @@ IPA: /ɡat͡sɯ/
 - Polish: brązowy
 
 ### Example sentence
-**Cù gacù.**
-_Soil is brown._
+
+#### Example 1
+
+- **Asaxi:** cù gacù.
+- **English:** Soil is brown.
+- **Polish:** x
 
 ### Alternative Forms
 Null

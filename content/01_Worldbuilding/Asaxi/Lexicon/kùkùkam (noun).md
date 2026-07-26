@@ -36,8 +36,12 @@ IPA: /kɯkɯkam/
 
 ### Example sentence
 
-**Ni sè văŕo tamo, hù kùkùkam, zèmaaśù.**
-_Carried to the end of the garden, behind the fowl-house._
+
+#### Example 1
+
+- **Asaxi:** ni sè văŕo tamo, hù kùkùkam, zèmaaśù.
+- **English:** Carried to the end of the garden, behind the fowl-house.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

@@ -31,8 +31,12 @@ IPA: /kʲəro/
 - Polish: las, zagajnik
 
 ### Example sentence
-Jágo kjèro izoŕa.
-Berries grow in the woods (lit. Berries are from the forest.)
+
+#### Example 1
+
+- **Asaxi:** jágo kjèro izoŕa.
+- **English:** Berries grow in the woods (lit. Berries are from the forest.)
+- **Polish:** x
 
 ### Alternative Forms
 x

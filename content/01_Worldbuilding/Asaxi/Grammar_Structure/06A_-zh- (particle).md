@@ -22,7 +22,7 @@ IPA: /ʑ/
 
 ### Example sentence
 
-**Toonă topo apozhů.** _This rain tastes like apples._
+toonă topo apozhů. This rain tastes like apples.
 
 ### Etymology
 

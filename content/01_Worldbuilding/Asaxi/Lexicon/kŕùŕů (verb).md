@@ -36,8 +36,12 @@ IPA: /kɾɯɾuu̯/
 - Polish: rdzewieć
 
 ### Example sentence
-**Ro kŕùŕů.**
-_The iron rusts._
+
+#### Example 1
+
+- **Asaxi:** ro kŕùŕů.
+- **English:** The iron rusts.
+- **Polish:** x
 
 ### Alternative Forms
 Null

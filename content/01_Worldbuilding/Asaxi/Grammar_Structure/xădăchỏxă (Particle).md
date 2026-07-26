@@ -26,7 +26,12 @@ IPA: /ɦaɪdaɪt̠ʃou̯ɦaɪ/
 
 ### Example sentence
 
-**Ko wő ijo xădăchỏxă.** _Please, let her see me._
+
+#### Example 1
+
+- **Asaxi:** ko wő ijo xădăchỏxă.
+- **English:** Please, let her see me.
+- **Polish:** x
 
 ### Etymology
 

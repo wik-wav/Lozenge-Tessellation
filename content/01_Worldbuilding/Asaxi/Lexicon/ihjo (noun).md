@@ -31,8 +31,12 @@ IPA: /iço/
 - Polish: kość
 
 ### Example sentence
-**To wo ihja gopů.**
-_My bones feel hard._
+
+#### Example 1
+
+- **Asaxi:** to wo ihja gopů.
+- **English:** My bones feel hard.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -29,8 +29,12 @@ IPA: /xɯbau̯bau̯/
 - Polish: mięśnie pleców
 
 ### Example sentence
-**To wo hùbåba zèxỏbåbåŕů.**
-_My back muscles have gotten defined._
+
+#### Example 1
+
+- **Asaxi:** to wo hùbåba zèxỏbåbåŕů.
+- **English:** My back muscles have gotten defined.
+- **Polish:** x
 
 ### Alternative Forms
 Null

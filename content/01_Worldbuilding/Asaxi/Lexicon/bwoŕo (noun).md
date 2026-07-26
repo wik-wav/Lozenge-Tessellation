@@ -31,8 +31,12 @@ IPA: /bʷo̞ɾo̞/
 - Polish: olej
 
 ### Example sentence
-**Bwoŕo ŕomáka vanů.**
-_Oil is in the cup._
+
+#### Example 1
+
+- **Asaxi:** bwoŕo ŕomáka vanů.
+- **English:** Oil is in the cup.
+- **Polish:** x
 
 ### Alternative Forms
 Null

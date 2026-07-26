@@ -26,7 +26,12 @@ IPA: /ɲina/
 
 ### Example sentence
 
-**To na nina ijo.** _You (all) see yourselves._
+
+#### Example 1
+
+- **Asaxi:** to na nina ijo.
+- **English:** You (all) see yourselves.
+- **Polish:** x
 
 ### Etymology
 

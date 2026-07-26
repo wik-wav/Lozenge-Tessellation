@@ -30,7 +30,7 @@ The particle can appear at either boundary of the sentence, dictating the regist
 
 **2. Sentence-Initial (Formal/Alert)** Placed before the Subject. It serves as a "Header" to announce an inquiry, often used in formal writing or complex sentences.
 
-- **Structure:** `Kè + [Statement]?`
+- **Structure:** `kè + [Statement]?`
 
 **3. Omission (Wh-Questions)** If the sentence contains an Interrogative Pronoun (Wh-word like `kshá`, `kjo`), `kè` acts as a redundant marker and may be dropped to increase efficiency, provided the context implies a direct inquiry.
 
@@ -43,15 +43,28 @@ IPA: /kə/
 ### Alternative Forms
 
 - **kkè** (Emphatic / Agitated). Pronounced with a geminated or aspirated initial /k/ (/kːə/). Used to express surprise or frustration in the question.
-    - _Example:_ **Wo ksá cè kkè?** ("How do I know?!").
+    - _Example:_ wo ksá cè kkè? ("How do I know?!").
 
 ### Example sentences
 
-**Standard Yes/No:** **John shěsonů kè?** _Does John read?_
 
-**Formal Header:** **Kè John shěsonů?** _Query: Does John read?_
+#### Example 1
 
-**Wh-Question (Dropped Particle):** **Kshá shěsonů?** _Who reads?_
+- **Asaxi:** john shěsonů kè?
+- **English:** Standard Yes/No: Does John read?
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** kè john shěsonů?
+- **English:** Formal Header: Query: Does John read?
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** kshá shěsonů?
+- **English:** Wh-Question (Dropped Particle): Who reads?
+- **Polish:** x
 
 ### Antonyms
 

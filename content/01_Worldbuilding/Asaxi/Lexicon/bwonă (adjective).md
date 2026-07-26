@@ -36,8 +36,12 @@ IPA: /bʷonaɪ/
 - Polish: krągły (gruby), piękny
 
 ### Example sentence
-**To ko bwonă shá xiŕa.**
-_She is a beautiful (curvy) person._
+
+#### Example 1
+
+- **Asaxi:** to ko bwonă shá xiŕa.
+- **English:** She is a beautiful (curvy) person.
+- **Polish:** x
 
 ### Alternative Forms
 Null

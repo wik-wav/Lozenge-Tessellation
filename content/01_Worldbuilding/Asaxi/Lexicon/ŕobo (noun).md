@@ -31,8 +31,12 @@ IPA: /ɾo̞bo̞/
 - Polish: butelka
 
 ### Example sentence
-**Vino ŕobo vanů.**
-_Wine is in the bottle._
+
+#### Example 1
+
+- **Asaxi:** vino ŕobo vanů.
+- **English:** Wine is in the bottle.
+- **Polish:** x
 
 ### Alternative Forms
 Null

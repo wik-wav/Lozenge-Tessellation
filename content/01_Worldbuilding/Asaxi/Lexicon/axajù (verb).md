@@ -39,8 +39,12 @@ IPA: /aɦajɯ/
 - Polish: wyśmiewać
 
 ### Example sentence
-**Shá wo axajù.**
-_The people mock me._
+
+#### Example 1
+
+- **Asaxi:** shá wo axajù.
+- **English:** The people mock me.
+- **Polish:** x
 
 ### Alternative Forms
 Null

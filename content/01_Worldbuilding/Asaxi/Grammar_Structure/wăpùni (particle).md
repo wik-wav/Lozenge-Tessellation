@@ -34,8 +34,12 @@ IPA: /waɪpɯɲi/
 
 ### Example sentence
 
-**To wăpùni shěsa tobo nanů.**
-_Few books are on the table._
+
+#### Example 1
+
+- **Asaxi:** to wăpùni shěsa tobo nanů.
+- **English:** Few books are on the table.
+- **Polish:** x
 
 ### Etymology
 

@@ -30,8 +30,12 @@ IPA: /saɪano/
 - Polish: strawa gotowana, pieczywo, chleb
 
 ### Example sentence
-**Săano ŕăanýj.**
-_The bread is hot._
+
+#### Example 1
+
+- **Asaxi:** săano ŕăanýj.
+- **English:** The bread is hot.
+- **Polish:** x
 
 ### Alternative Forms
 Null

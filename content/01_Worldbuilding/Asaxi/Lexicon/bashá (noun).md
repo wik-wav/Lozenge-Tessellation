@@ -31,8 +31,12 @@ IPA: /baʃɑ/
 - Polish: przyjaciel
 
 ### Example sentence
-**To John sè wo bashá.**
-_John is my friend._
+
+#### Example 1
+
+- **Asaxi:** to john sè wo bashá.
+- **English:** John is my friend.
+- **Polish:** x
 
 ### Alternative Forms
 Null

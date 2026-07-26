@@ -31,8 +31,12 @@ IPA: /kem.mo/
 - Polish: możliwość, opcja, potencjał
 
 ### Example sentence
-**Toonă gă-kem.ma găxănă xiŕa.**
-_The somewhere-possibilities are endless._
+
+#### Example 1
+
+- **Asaxi:** toonă gă-kem.ma găxănă xiŕa.
+- **English:** The somewhere-possibilities are endless.
+- **Polish:** x
 
 ### Alternative Forms
 Null

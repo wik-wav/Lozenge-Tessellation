@@ -36,8 +36,12 @@ IPA: /ait̠ʃuw/
 - Polish: odczuwać ból, boleć (kogoś coś)
 
 ### Example sentence
-**Ă wo no ijùno aichů.**
-_Your words pain me. (lit. I feel-pain-at your words.)_
+
+#### Example 1
+
+- **Asaxi:** ă wo no ijùno aichů.
+- **English:** Your words pain me. (lit. I feel-pain-at your words.)
+- **Polish:** x
 
 ### Alternative Forms
 Null

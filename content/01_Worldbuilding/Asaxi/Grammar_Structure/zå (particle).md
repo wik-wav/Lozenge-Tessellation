@@ -38,4 +38,9 @@ IPA: /zau̯/
 
 ### Example sentence
 
-**Paxoxo zå, ni shěsokam pahaśù.** _I'll depart, then I'll run to the library._
+
+#### Example 1
+
+- **Asaxi:** paxoxo zå, ni shěsokam pahaśù.
+- **English:** I'll depart, then I'll run to the library.
+- **Polish:** x

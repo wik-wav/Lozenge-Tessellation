@@ -41,9 +41,12 @@ IPA: /pʰou̯pʰou̯naɪ/
 - Polish: delikatnie
 
 ### Example sentence
-**As an adjective:**
-- Lem pxỏpxỏnă xiŕa.
-Lem is fragile (he is ruined easily).
+
+#### Example 1
+
+- **Asaxi:** lem pxỏpxỏnă xiŕa.
+- **English:** Adjective: Lem is fragile (he is ruined easily).
+- **Polish:** x
 
 ### Alternative Forms
 x

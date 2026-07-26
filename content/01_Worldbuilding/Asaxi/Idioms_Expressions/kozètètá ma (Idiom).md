@@ -21,10 +21,10 @@ tags:
 
 ### Usage Note
 
-Literally "**(I) hold regret.**"
+Literally "(I) hold regret."
 * Follows the possession-idiom pattern of [[sháŕo ma (Idiom)|sháŕo ma]]: the speaker carries the **kozètètá** (regret, "past-hurt") as a possessed burden.
-* **Formal:** **Kozètètá ma, cőkă.** ("I hold regret — please understand.")
-* **Reply (forgiveness):** **Nèŕa.** ("It is nothing.") or **Xůxůkă.** ("Please forget it." — from `xůxů`, to forget).
+* **Formal:** kozètètá ma, cőkă. ("I hold regret — please understand.")
+* **Reply (forgiveness):** nèŕa. ("It is nothing.") or xůxůkă. ("Please forget it." — from `xůxů`, to forget).
 
 ### Structure
 `[Subject (dropped)] kozètètá ma`
@@ -34,8 +34,12 @@ IPA: /kozətətɑ ma/
 
 ### Example sentence
 
-**Kozètètá ma — to wo då no shěso zènádao.**
-_"I'm sorry — I did not give you the book."_ (`då no` = DAT 2SG)
+
+#### Example 1
+
+- **Asaxi:** kozètètá ma — to wo då no shěso zènádao.
+- **English:** "I'm sorry — I did not give you the book." (`då no` = DAT 2SG)
+- **Polish:** x
 
 ### Etymology
 

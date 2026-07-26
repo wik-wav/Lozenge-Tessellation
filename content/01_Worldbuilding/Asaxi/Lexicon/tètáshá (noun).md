@@ -31,8 +31,12 @@ IPA: /t̪ət̪ɑʃɑ/
 - Polish: wróg
 
 ### Example sentence
-**Tètáshá táka.**
-_The enemy makes war._
+
+#### Example 1
+
+- **Asaxi:** tètáshá táka.
+- **English:** The enemy makes war.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -39,8 +39,12 @@ IPA: /aɪnɯ/
 - Polish: odpoczywać
 
 ### Example sentence
-**Wo ănù.**
-_I rest._
+
+#### Example 1
+
+- **Asaxi:** wo ănù.
+- **English:** I rest.
+- **Polish:** x
 
 ### Alternative Forms
 Null

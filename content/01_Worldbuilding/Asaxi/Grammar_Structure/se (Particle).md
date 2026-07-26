@@ -34,13 +34,18 @@ IPA: /se/
 
 ### Example sentences
 
-**Nouns:**
-**To John se Tom pashěsonů.**
-_John or Tom will read._
 
-**Adjectives:**
-**To wo gavină se gaponă apo jå.**
-_I want a green or red apple._
+#### Example 1
+
+- **Asaxi:** to john se tom pashěsonů.
+- **English:** Nouns: John or Tom will read.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo gavină se gaponă apo jå.
+- **English:** Adjectives: I want a green or red apple.
+- **Polish:** x
 
 ### Etymology
 

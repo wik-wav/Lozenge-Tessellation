@@ -39,8 +39,12 @@ IPA: /do̞pɯ/
 - Polish: spadać
 
 ### Example sentence
-**Kae dopù.**
-_The fruit falls._
+
+#### Example 1
+
+- **Asaxi:** kae dopù.
+- **English:** The fruit falls.
+- **Polish:** x
 
 ### Alternative Forms
 Null

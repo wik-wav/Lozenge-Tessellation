@@ -31,7 +31,12 @@ IPA: /ɕiɡo/
 - Polish: liczba, cyfra, numer
 
 ### Example sentence
-**To wo sigo dzeŕo ijo.** "I see number zero"
+
+#### Example 1
+
+- **Asaxi:** to wo sigo dzeŕo ijo.
+- **English:** I see number zero
+- **Polish:** x
 
 ### Alternative Forms
 x

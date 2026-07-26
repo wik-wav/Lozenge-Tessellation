@@ -39,8 +39,12 @@ IPA: /Ʝau̯/
 - Polish: chcieć, pragnąć
 
 ### Example sentence
-**To wo apo jå.**
-_I want an apple._
+
+#### Example 1
+
+- **Asaxi:** to wo apo jå.
+- **English:** I want an apple.
+- **Polish:** x
 
 ### Alternative Forms
 Null

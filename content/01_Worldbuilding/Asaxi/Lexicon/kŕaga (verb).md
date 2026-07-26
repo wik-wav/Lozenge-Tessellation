@@ -39,8 +39,12 @@ IPA: /kɾaɡa/
 - Polish: ciągnąć, wlec
 
 ### Example sentence
-**Wo kjègo kŕaga.**
-_I drag the log._
+
+#### Example 1
+
+- **Asaxi:** wo kjègo kŕaga.
+- **English:** I drag the log.
+- **Polish:** x
 
 ### Alternative Forms
 Null

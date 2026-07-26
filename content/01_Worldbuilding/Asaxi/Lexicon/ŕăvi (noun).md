@@ -31,8 +31,12 @@ IPA: /ɾaɪb̪vi/
 - Polish: przyprawa
 
 ### Example sentence
-**Ŕăvi chỏno vanů.**
-_Spice is in the food._
+
+#### Example 1
+
+- **Asaxi:** ŕăvi chỏno vanů.
+- **English:** Spice is in the food.
+- **Polish:** x
 
 ### Alternative Forms
 Null

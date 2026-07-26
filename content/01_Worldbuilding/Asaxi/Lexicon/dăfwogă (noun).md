@@ -31,8 +31,12 @@ IPA: /daɪfʷoɡaɪ/
 - Polish: kanion
 
 ### Example sentence
-**To shosaŕo dăfwogă vanů.**
-_The river runs through the canyon._
+
+#### Example 1
+
+- **Asaxi:** to shosaŕo dăfwogă vanů.
+- **English:** The river runs through the canyon.
+- **Polish:** x
 
 ### Alternative Forms
 Null

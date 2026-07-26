@@ -29,4 +29,9 @@ Derived from the question prefix **k-** + **[[shá (noun)|shá]]** (Person). _Li
 
 ### Example sentence
 
-**Kshá shěsonů?** _Who reads?_ (Note: The particle `kè` is dropped for efficiency).
+
+#### Example 1
+
+- **Asaxi:** kshá shěsonů?
+- **English:** Who reads? (Note: The particle `kè` is dropped for efficiency).
+- **Polish:** x

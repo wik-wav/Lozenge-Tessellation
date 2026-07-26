@@ -30,11 +30,11 @@ By swapping `xi-` for a **Relational Particle**, you create specific Stative Ver
 
 **Usage A: Becoming (Ontological)** Used when a subject is transforming into or assuming a new identity.
 
-> **Tom gajýnnshá niŕa.** `Tom` `were-hyena` `BECOME` _"Tom becomes a were-hyena."_ (Lit: Tom exists-towards were-hyena).
+> tom gajýnnshá niŕa. `Tom` `were-hyena` `BECOME` "Tom becomes a were-hyena." (Lit: Tom exists-towards were-hyena).
 
 **Usage B: Destiny (Abstract)** Used when a path or person is fated for a result.
 
-> **To shosa siŕo niŕa.** `SUBJ` `road` `unknown` `LEADS-TO` _"The road leads to the unknown."_
+> to shosa siŕo niŕa. `SUBJ` `road` `unknown` `LEADS-TO` "The road leads to the unknown."
 
 ---
 
@@ -46,7 +46,7 @@ By swapping `xi-` for a **Relational Particle**, you create specific Stative Ver
 
 **Usage:**
 
-> **To wo gaŕo izoŕa.** `SUBJ` `1SG` `city` `ORIGINATE` _"I am from the city."_ / _"I originate from the city."_
+> to wo gaŕo izoŕa. `SUBJ` `1SG` `city` `ORIGINATE` "I am from the city." / "I originate from the city."
 
 ---
 
@@ -58,7 +58,7 @@ By swapping `xi-` for a **Relational Particle**, you create specific Stative Ver
 
 **Usage:**
 
-> **To mao o záŕa.** `SUBJ` `moon` `sky` `ACCOMPANIES` _"The moon belongs with the sky."_ (Lit: The moon exists-with the sky).
+> to mao o záŕa. `SUBJ` `moon` `sky` `ACCOMPANIES` "The moon belongs with the sky." (Lit: The moon exists-with the sky).
 
 ---
 
@@ -70,7 +70,7 @@ By swapping `xi-` for a **Relational Particle**, you create specific Stative Ver
 
 **Usage:**
 
-> **To å shěsonů pwo måmåŕa.** `SUBJ` `time` `read` `LASTS-UNTIL` _"Reading time lasts until tomorrow."_ / _"The reading session expires tomorrow."_
+> to å shěsonů pwo måmåŕa. `SUBJ` `time` `read` `LASTS-UNTIL` "Reading time lasts until tomorrow." / "The reading session expires tomorrow."
 
 ---
 
@@ -86,7 +86,7 @@ Just as `ni` (Towards) becomes `niŕa` (Becomes), the spatial prefixes fuse dire
 - **hùŕa** (`hù` + `ŕa`): To be behind.
 - **paŕa** (`pa` + `ŕa`): To be in front.
 
-> **Mao xăsiŕo vaŕa.** _"The moon is (contained) in outer space."_
+> mao xăsiŕo vaŕa. "The moon is (contained) in outer space."
 
 ### Summary of -ŕa Verbs
 
@@ -103,7 +103,7 @@ Just as `ni` (Towards) becomes `niŕa` (Becomes), the spatial prefixes fuse dire
 
 **`sèŕa` — the inclusion sense.** Beyond pure possession, **`sèŕa`** also marks **part-whole inclusion / belonging-to-a-set** — a bay belongs to a coast, a chapter to a book:
 
-> **Dăŕobiwa sè simama ksùŕa sèŕa ken.** _"Bays can belong to islands' coasts."_
+> dăŕobiwa sè simama ksùŕa sèŕa ken. "Bays can belong to islands' coasts."
 
 #### Contrast with Active Spatial Verbs (-nů)
 
@@ -128,13 +128,13 @@ Because a "vicinity" is an abstract zone rather than a physical container, you g
 
 **Rule:** When describing presence in a general vicinity (`o-gă`, `no-gă`, `gă-gă`), use `ỏnů` or `ỏŕa`.
 
-- **Correct:** `To shěso o-gă **ỏnů**.`
+- **Correct:** `to shěso o-gă **ỏnů**.`
     - _Lit:_ "The book centers the here-vicinity." (The book is right around here).
 
-- **Incorrect:** `To shěso o-gă **vanů**.`
+- **Incorrect:** `to shěso o-gă **vanů**.`
     - _Lit:_ "The book inhabits the here-vicinity." (Implies the vicinity is a physical container like a box).
 
-> **Toonýj shěso no-gă ỏnů.** _"The book is around there."_
+> toonýj shěso no-gă ỏnů. "The book is around there."
 
 
 ---
@@ -148,8 +148,8 @@ The choice between the stative **`-ŕa`** verbs and the active **`-nů`** verbs 
 
 | Mutable (`-nů` / `ů`) | Immutable (`-ŕa` / `xiŕa`) |
 | --- | --- |
-| **Apo pùkŕo nanů.** — An apple is on the floor (it can be moved). | **Hèno cù vaŕa.** — A root sits in the soil (its place *is* the soil). |
-| **Mao dăotamo xanů.** — The moon is above the horizon (not always). | **Owao pxỏnýj xiŕa.** — The Earth is round (always). |
-| **Ŋè kjèpo pùnů.** — A shadow lies below the tree (move the light and it does not). | **Morskie oko tte fgăŕo jëga pùŕa.** — Morskie oko, a specific lake, is below the mountains. |
+| apo pùkŕo nanů. — An apple is on the floor (it can be moved). | hèno cù vaŕa. — A root sits in the soil (its place *is* the soil). |
+| mao dăotamo xanů. — The moon is above the horizon (not always). | owao pxỏnýj xiŕa. — The Earth is round (always). |
+| ŋè kjèpo pùnů. — A shadow lies below the tree (move the light and it does not). | morskie oko tte fgăŕo jëga pùŕa. — Morskie oko, a specific lake, is below the mountains. |
 
-Negation follows the same split: **Sè dătáwao cőcő bůná** ("there is no understanding of nature") uses the **mutable** negative — it leaves room for understanding to come; an `-ŕa` negative would assert it can *never* be understood. A generic claim likewise takes the mutable verb: **Vahùsoŕo, hùso dăgo bů** ("in the desert there is much sand") — `bů`, not `xiŕa`, because not every desert is sandy.
+Negation follows the same split: **sè dătáwao cőcő bůná** ("there is no understanding of nature") uses the **mutable** negative — it leaves room for understanding to come; an `-ŕa` negative would assert it can *never* be understood. A generic claim likewise takes the mutable verb: **Vahùsoŕo, hùso dăgo bů** ("in the desert there is much sand") — `bů`, not `xiŕa`, because not every desert is sandy.

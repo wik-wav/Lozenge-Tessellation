@@ -39,8 +39,12 @@ IPA: /t̻͡s̪ɯɦa/
 - Polish: zakopywać, sadzić
 
 ### Example sentence
-**Wo vigo cù cùxa.**
-_I plant the seed in the soil._
+
+#### Example 1
+
+- **Asaxi:** wo vigo cù cùxa.
+- **English:** I plant the seed in the soil.
+- **Polish:** x
 
 ### Alternative Forms
 Null

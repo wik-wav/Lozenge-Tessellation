@@ -31,8 +31,12 @@ IPA: /ŋəɦi/
 - Polish: półmrok
 
 ### Example sentence
-**Xipùŕo vå, ŋèxi.**
-_When it is dusk, there is twilight._
+
+#### Example 1
+
+- **Asaxi:** xipùŕo vå, ŋèxi.
+- **English:** When it is dusk, there is twilight.
+- **Polish:** x
 
 ### Alternative Forms
 Null

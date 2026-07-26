@@ -26,13 +26,13 @@ tags:
 
 - **Structure:** `[bă Causer] + xăhè-[Verb]`
 - **Meaning:** "To force to...", "To compel..."
-- **Example:** **To wo bă John zèxăhèshěsonů.** ("I was forced by John to read.")
+- **Example:** to wo bă john zèxăhèshěsonů. ("I was forced by John to read.")
 
 **2. As a Suffix (Imperative Mood)** When attached to the **end** of the verb (preceded by negation), it indicates a **Strict Prohibition** (Law/Rule).
 
 - **Structure:** `[Verb] náxăhè`
 - **Meaning:** "MUST NOT...", "NO [Verbing]."
-- **Example:** **Aśù náxăhè.** ("No Trespassing / Walking is strictly forbidden.")
+- **Example:** aśù náxăhè. ("No Trespassing / Walking is strictly forbidden.")
 
 ### Pronunciation
 
@@ -44,9 +44,18 @@ A fusion of **[[xă (particle)|xă]]** (Indeed/Force) and **[[hè (particle)|hè
 
 ### Example sentences
 
-**Coercion (Prefix):** **To John bă shějýnshá xăhèshěsonů.** _The teacher forces John to read._
 
-**Prohibition (Suffix):** **Shěso toponů náxăhè!** _Do not throw books!_ (Lit: Book dropping/placing must-not-be-done).
+#### Example 1
+
+- **Asaxi:** to john bă shějýnshá xăhèshěsonů.
+- **English:** Coercion (Prefix): The teacher forces John to read.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** shěso toponů náxăhè!
+- **English:** Prohibition (Suffix): Do not throw books! (Lit: Book dropping/placing must-not-be-done).
+- **Polish:** x
 
 ### Antonyms
 

@@ -33,13 +33,21 @@ IPA: /obi/
 - Polish: bliskość, pobliże
 
 ### Example sentence
-**Daoŕo obi xiŕa.**
-_"The market is near." (lit. The market is [in] nearness.)_
+
+#### Example 1
+
+- **Asaxi:** daoŕo obi xiŕa.
+- **English:** "The market is near." (lit. The market is [in] nearness.)
+- **Polish:** x
 
 ### Example Sentence 2
 
-> **Ko ni onă hjinýj Pỏpỏ obi zèxogă.**
-> "She came close to the little Rabbit."
+
+#### Example 1
+
+- **Asaxi:** ko ni onă hjinýj pỏpỏ obi zèxogă.
+- **English:** She came close to the little Rabbit.
+- **Polish:** x
 
 ### Alternative Forms
 Null
@@ -58,4 +66,4 @@ Null
 
 ### Usage Note
 
-**Sense 2 (adverb).** Bare **obi** floats in the pre-verbal manner slot, qualifying a motion or position verb ("close up, nearby") without a case particle: `obi zèŋawa` ("crept quite close"), `tëa xő obi zèmùxa` ("hands clasped close round him"). First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+**Sense 2 (adverb).** Bare **obi** floats in the pre-verbal manner slot, qualifying a motion or position verb ("close up, nearby") without a case particle: `obi zèŋawa` ("crept quite close"), `tëa xő obi zèmùxa` ("hands clasped close round him"). First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

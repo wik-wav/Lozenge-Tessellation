@@ -30,8 +30,12 @@ IPA: /kʲəno/
 - Polish: wysokość, wzrost
 
 ### Example sentence
-**Sè jëgo kjèno gonýj.**
-_The mountain's height is great._
+
+#### Example 1
+
+- **Asaxi:** sè jëgo kjèno gonýj.
+- **English:** The mountain's height is great.
+- **Polish:** x
 
 ### Alternative Forms
 Null

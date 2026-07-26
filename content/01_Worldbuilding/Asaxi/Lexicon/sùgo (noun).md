@@ -31,8 +31,12 @@ IPA: /sɯɡo/
 - Polish: kryształ
 
 ### Example sentence
-**To sùgo ganáfwa xiŕa.**
-_The crystal is clear._
+
+#### Example 1
+
+- **Asaxi:** to sùgo ganáfwa xiŕa.
+- **English:** The crystal is clear.
+- **Polish:** x
 
 ### Alternative Forms
 Null

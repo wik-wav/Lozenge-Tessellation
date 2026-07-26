@@ -36,8 +36,12 @@ IPA: /mɯɕo̞nuu̯/
 - Polish: gnić
 
 ### Example sentence
-**Vèno mùśonů.**
-_The wood rots._
+
+#### Example 1
+
+- **Asaxi:** vèno mùśonů.
+- **English:** The wood rots.
+- **Polish:** x
 
 ### Alternative Forms
 Null

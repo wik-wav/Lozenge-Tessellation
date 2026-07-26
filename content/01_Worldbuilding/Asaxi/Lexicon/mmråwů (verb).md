@@ -35,8 +35,12 @@ IPA: /m̩ɹau̯ʋuu̯/
 - Polish: zachowywać się jak kot
 
 ### Example sentence
-**Ko mmråwů.**
-_She acts catlike._
+
+#### Example 1
+
+- **Asaxi:** ko mmråwů.
+- **English:** She acts catlike.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -39,8 +39,12 @@ IPA: /xat̻͡s̪ɯ/
 - Polish: kichać
 
 ### Example sentence
-**Wo hacù.**
-_I sneeze._
+
+#### Example 1
+
+- **Asaxi:** wo hacù.
+- **English:** I sneeze.
+- **Polish:** x
 
 ### Alternative Forms
 Null

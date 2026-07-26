@@ -23,8 +23,8 @@ tags:
 ### Usage Notes
 
 Used as a standalone command to initiate an action or event. It can also function as a prefix to a verb to command the *start* of that specific action (though `nishěsonůè` is also valid, `nihè` emphasizes the *moment* of beginning).
-* **Standalone:** **Nihè!** ("Start!").
-* **Prefix:** **Nihèshěsonů!** ("Start reading!" - Emphatic).
+* **Standalone:** nihè! ("Start!").
+* **Prefix:** nihèshěsonů! ("Start reading!" - Emphatic).
 
 ### Pronunciation
 
@@ -33,11 +33,18 @@ IPA: /ɲixə/
 
 ### Example sentence
 
-**Nihè!**
-_Begin!_
 
-**To no nihè.**
-_You, start._
+#### Example 1
+
+- **Asaxi:** nihè!
+- **English:** Begin!
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to no nihè.
+- **English:** You, start.
+- **Polish:** x
 
 ### Etymology
 

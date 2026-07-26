@@ -28,8 +28,12 @@ IPA: /vazə/
 
 ### Example sentence
 
-**Vazè, to sháma zèvivinů.**
-_In the past, people lived._
+
+#### Example 1
+
+- **Asaxi:** vazè, to sháma zèvivinů.
+- **English:** In the past, people lived.
+- **Polish:** x
 
 ### Etymology
 

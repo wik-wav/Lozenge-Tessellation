@@ -33,18 +33,18 @@ Unlike English, which places the clause after the noun ("The book **that I read*
 **A. Subject Relative ("The one who...")** The Head Noun is the Subject of the relative verb.
 
 - _English:_ "The person **who** departed."
-- _Asaxi:_ **Onă \[zèxoxo\] shá.**
+- _Asaxi:_ onă \[zèxoxo\] shá.
     
     - _Structure:_ `DEF.WARM` `[PAST-depart]` `person`.
     - _Lit:_ "The \[departed\] person."
 **B. Object Relative ("The thing that...")** The Head Noun is the Object of the relative verb.
 - _English:_ "The book **that** John reads."
-- _Asaxi:_ **Onýj \[John shěsonů\] shěso.**
+- _Asaxi:_ onýj \[John shěsonů\] shěso.
     - _Structure:_ `DEF.COLD` `[John reads]` `book`.
     - _Lit:_ "The \[John-reads\] book."
 **C. Oblique Relative ("The place where...")** The Head Noun is an oblique argument (Location, Tool, etc.).
 - _English:_ "The library **where** I read."
-- _Asaxi:_ **Onýj \[wo shěsonů\] shěsokam.**
+- _Asaxi:_ onýj \[wo shěsonů\] shěsokam.
     - _Lit:_ "The \[I-read\] library." (Context implies "at which").
 
 ### 3. Disambiguation
@@ -57,7 +57,7 @@ In the Standard Register, ambiguity is impossible because of the **Position of t
 
 **Example:**
 
-> **Onýj zèshěsonů shěso toponů.** `DEF.COLD` `PST-to_read` `book` `to_fall` _Analysis:_ `Onýj` opens the NP. `Shěsonů` modifies `shěso`. `Toponů` is the main verb. _Meaning:_ "The book that was read is falling."
+> onýj zèshěsonů shěso toponů. `DEF.COLD` `PST-to_read` `book` `to_fall` _Analysis:_ `onýj` opens the NP. `shěsonů` modifies `shěso`. `toponů` is the main verb. _Meaning:_ "The book that was read is falling."
 
 **Disambiguation vs. Gerunds**
 
@@ -67,31 +67,31 @@ Since `anő + Verb` can also form a **Gerund** (e.g., `anő shěsonů` "A readin
 
 **Minimal Pair:**
 
-> **To wo \[anő shěsonů\] jå.** _"I want a reading."_ (Gerund).
-> **To wo \[anő shěsonů\] shěso jå.** _"I want a book that is read."_ (Relative Clause).
+> to wo \[anő shěsonů\] jå. "I want a reading." (Gerund).
+> to wo \[anő shěsonů\] shěso jå. "I want a book that is read." (Relative Clause).
 
 ### 4. Interaction with Particles
 
 The Relative Clause can contain its own internal particles (Negative, Tense, Causative).
 
-- **Negative:** `Onă [shěsonůná] shá...` ("The person who does not read...").
-- **Tensed:** `Onă [pazèxoxo] shá...` ("The person who will have left...").
+- **Negative:** `onă [shěsonůná] shá...` ("The person who does not read...").
+- **Tensed:** `onă [pazèxoxo] shá...` ("The person who will have left...").
 
 ### Example Sentences
 
 **1. Context: Identifying a specific item.**
 
-> **Onýj \[To John zètopù\] shěso ksi?**
-> _"Where is the book **that John dropped**?"_
+> onýj \[to john zètopù\] shěso ksi?
+> "Where is the book that John dropped?"
 
 **2. Context: Conditional Consequence.**
 
-> **Onýj \[John shěsonů\] shěso chěná, wo pashěsonů.**
-> _"Unless it is the book **that John reads**, I will read it."_ _(Lit: If-not the \[John-reads\] book...)_
+> onýj \[john shěsonů\] shěso chěná, wo pashěsonů.
+> "Unless it is the book that John reads, I will read it." (Literal: If-not the \[John-reads\] book...)
 
 ### 5. Listing Gerunds
 
 If the speaker wants to produce a list of gerunds, they use the anchor determiner as they would for a single gerund. The determiner is used once; the list concludes with the Connective particle `ja` before the last item, e.g.
 
-> To John ni anő shěsonů ja nỏcèŕů sùkixů.
-> _John loves reading and taking notes._
+> to john ni anő shěsonů ja nỏcèŕů sùkixů.
+> John loves reading and taking notes.

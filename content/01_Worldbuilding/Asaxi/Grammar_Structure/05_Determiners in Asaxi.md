@@ -47,7 +47,7 @@ Determiners play a critical role in converting Verbs into Nouns (Gerunds).
 **A. The Indefinite Nominalizer (`anő`)** The indefinite determiner **anő** is the **only** determiner that can attach directly to a verb. It treats the action as an abstract concept or an instance of the event.
 
 - **Rule:** `anő` + `[Verb]` = "A [Verbing]" / "The act of [Verbing]."
-- **Example:** **anő shěsonů** ("A reading").
+- **Example:** anő shěsonů ("A reading").
 
 **B. The Definite Nominalizer (`onă` or `onýj`)** You must use the proximal prefix if you choose to use them.
 

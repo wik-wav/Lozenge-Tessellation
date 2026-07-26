@@ -23,8 +23,12 @@ tags:
 IPA: /nɑnaɾə/
 
 ### Example sentence
-**To no haśù nánaŕè.**
-_You shouldn't run._
+
+#### Example 1
+
+- **Asaxi:** to no haśù nánaŕè.
+- **English:** You shouldn't run.
+- **Polish:** x
 
 ### Etymology
 **[[ná (particle)|ná]]** (Not) + **[[naŕè (particle)|naŕè]]** (Should).

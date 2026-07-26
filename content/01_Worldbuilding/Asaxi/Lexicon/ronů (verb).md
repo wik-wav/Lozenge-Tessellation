@@ -27,8 +27,12 @@ IPA: /ɹonuu̯/
 - Polish: pakować (na siłowni), dźwigać
 
 ### Example sentence
-**Vakamshárokam, ximă ronů.**
-_I  lift at the gym every day._
+
+#### Example 1
+
+- **Asaxi:** vakamshárokam, ximă ronů.
+- **English:** I  lift at the gym every day.
+- **Polish:** x
 
 ### Alternative Forms
 Null

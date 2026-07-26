@@ -35,19 +35,30 @@ IPA: /t̪amo/
 ### Usage Note
 Used for both physical edges (where the road stops) and abstract limits (end of patience, end of a process).
 
-**Sense 2 (concrete).** The abstract "limit" applied to physical extent: `bă sè ko papỏ tamo` ("with the corner of her apron"), `sxëbony tama` ("sharp edges"). First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+**Sense 2 (concrete).** The abstract "limit" applied to physical extent: `bă sè ko papỏ tamo` ("with the corner of her apron"), `sxëbony tama` ("sharp edges"). First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].
 
 ### Example sentence
-**To shosa tamo ma.**
-_The road has an end._
 
-**Sè John anő shěsonů tamo zèxogăni.**
-John's reading reached (the) limit. (John finished reading.)
+#### Example 1
+
+- **Asaxi:** to shosa tamo ma.
+- **English:** The road has an end.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** sè john anő shěsonů tamo zèxogăni.
+- **English:** John's reading reached (the) limit. (John finished reading.)
+- **Polish:** x
 
 ### Example Sentence 2
 
-> **Ni sè văŕo tamo zèmaaśù.**
-> "(He) was carried out to the end of the garden."
+
+#### Example 1
+
+- **Asaxi:** ni sè văŕo tamo zèmaaśù.
+- **English:** (He) was carried out to the end of the garden.
+- **Polish:** x
 
 ### Alternative Forms
 x

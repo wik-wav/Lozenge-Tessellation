@@ -36,8 +36,12 @@ IPA: /ʃɑsnɪj/
 - Polish: samotny, uwięziony
 
 ### Example sentence
-**To wo shásnýj ůchů.**
-_I feel lonely/trapped._
+
+#### Example 1
+
+- **Asaxi:** to wo shásnýj ůchů.
+- **English:** I feel lonely/trapped.
+- **Polish:** x
 
 ### Alternative Forms
 Null

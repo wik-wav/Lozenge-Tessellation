@@ -31,8 +31,12 @@ IPA: /ɾo̞t̻͡s̪ɯ/
 - Polish: bagno, mokradło
 
 ### Example sentence
-**Vivi ŕocù vaŕa.**
-_Reeds are in the marsh._
+
+#### Example 1
+
+- **Asaxi:** vivi ŕocù vaŕa.
+- **English:** Reeds are in the marsh.
+- **Polish:** x
 
 ### Alternative Forms
 Null

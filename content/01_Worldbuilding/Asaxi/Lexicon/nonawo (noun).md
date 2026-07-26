@@ -31,8 +31,12 @@ IPA: /no̞naʋo̞/
 - Polish: półka
 
 ### Example sentence
-**Shěso nonawo nanů.**
-_A book is on the shelf._
+
+#### Example 1
+
+- **Asaxi:** shěso nonawo nanů.
+- **English:** A book is on the shelf.
+- **Polish:** x
 
 ### Alternative Forms
 Null

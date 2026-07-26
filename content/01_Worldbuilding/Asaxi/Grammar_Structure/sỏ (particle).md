@@ -16,7 +16,7 @@ tags:
 <span class="asaxi-script-alpha">sỏ</span>
 Alternate form of `zè`. See [[zè (particle)]]
 
-**Example:** **To wo sỏshěsonů.** 
+**Example:** to wo sỏshěsonů. 
 "I remember reading / I was reading \[in my memory\].
 
 ### Grammatical function

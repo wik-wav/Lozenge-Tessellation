@@ -36,8 +36,12 @@ IPA: /t̻͡s̪ɯɾo̞/
 
 ### Example sentence
 
-**Onýj xăcèna pỏpa vanů cùŕa.**
-_The burrows the real rabbits live in._
+
+#### Example 1
+
+- **Asaxi:** onýj xăcèna pỏpa vanů cùŕa.
+- **English:** The burrows the real rabbits live in.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

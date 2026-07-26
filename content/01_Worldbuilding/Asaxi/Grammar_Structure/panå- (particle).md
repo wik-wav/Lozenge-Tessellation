@@ -32,8 +32,12 @@ IPA: /panau̯/
 
 ### Example sentence
 
-**To wo panåshěsonů.**
-_I will read now (instead of what I was doing)._
+
+#### Example 1
+
+- **Asaxi:** to wo panåshěsonů.
+- **English:** I will read now (instead of what I was doing).
+- **Polish:** x
 
 ### Etymology
 

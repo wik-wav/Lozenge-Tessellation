@@ -31,8 +31,12 @@ IPA: /b̪viʃɑ/
 - Polish: jeleń
 
 ### Example sentence
-**Vishá viŕo vanů.**
-_The deer is in the meadow._
+
+#### Example 1
+
+- **Asaxi:** vishá viŕo vanů.
+- **English:** The deer is in the meadow.
+- **Polish:** x
 
 ### Alternative Forms
 Null

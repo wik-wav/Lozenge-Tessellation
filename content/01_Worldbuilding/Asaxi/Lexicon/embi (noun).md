@@ -31,8 +31,12 @@ IPA: /em.bi/
 - Polish: płaszczyzna, poziom, tafla, strefa
 
 ### Example sentence
-**Shěso embi nanů.**
-_The book lies on the flat surface._
+
+#### Example 1
+
+- **Asaxi:** shěso embi nanů.
+- **English:** The book lies on the flat surface.
+- **Polish:** x
 
 ### Alternative Forms
 Null

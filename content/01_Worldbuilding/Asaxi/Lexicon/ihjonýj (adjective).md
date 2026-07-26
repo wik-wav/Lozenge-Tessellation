@@ -41,8 +41,12 @@ IPA: /içonɪj/
 - English: gauntly
 
 ### Example sentence
-**To ko ihjonýj shá xiŕa.**
-_She is a bony, skeletal person._
+
+#### Example 1
+
+- **Asaxi:** to ko ihjonýj shá xiŕa.
+- **English:** She is a bony, skeletal person.
+- **Polish:** x
 
 ### Alternative Forms
 Null

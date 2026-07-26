@@ -36,8 +36,12 @@ IPA: /ɡo̞kuu̯/
 - Polish: zamieniać w kamień
 
 ### Example sentence
-**Sxëbo shá goků.**
-_The curse turns the person to stone._
+
+#### Example 1
+
+- **Asaxi:** sxëbo shá goků.
+- **English:** The curse turns the person to stone.
+- **Polish:** x
 
 ### Alternative Forms
 Null

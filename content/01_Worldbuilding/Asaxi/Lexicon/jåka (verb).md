@@ -39,8 +39,12 @@ IPA: /jau̯ka/
 - Polish: zamierzać
 
 ### Example sentence
-**Wo jåka.**
-_I intend to._
+
+#### Example 1
+
+- **Asaxi:** wo jåka.
+- **English:** I intend to.
+- **Polish:** x
 
 ### Alternative Forms
 Null

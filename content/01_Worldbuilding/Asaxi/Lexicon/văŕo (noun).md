@@ -31,8 +31,12 @@ IPA: /vaɪɾo/
 - Polish: ogród, szklarnia, plantacja
 
 ### Example sentence
-**To văŕo hjonă xiŕa.**
-_The garden is beautiful._
+
+#### Example 1
+
+- **Asaxi:** to văŕo hjonă xiŕa.
+- **English:** The garden is beautiful.
+- **Polish:** x
 
 ### Alternative Forms
 Null

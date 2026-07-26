@@ -31,8 +31,12 @@ IPA: /kʰe̞pou̯no̞/
 - Polish: flaga, sztandar
 
 ### Example sentence
-**Kxepỏno gokam nanů.**
-_A flag is on the tower._
+
+#### Example 1
+
+- **Asaxi:** kxepỏno gokam nanů.
+- **English:** A flag is on the tower.
+- **Polish:** x
 
 ### Alternative Forms
 Null

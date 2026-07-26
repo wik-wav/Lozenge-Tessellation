@@ -30,7 +30,13 @@ IPA: /naɪnɑ/
 
 ### Example sentence
 
-**To John nănájýnă ůsů.** _John sounds the **least loudly** (hyena-like)._
+#### Example 1
 
-- _Adverb:_ `jýnă` (Hyena-like/Loud - Warm Source `jýnnshá`)
-- _Verbal Mode:_ `-w-` (Semblance/Acting).
+- **Asaxi:** to john nănájýnă ůsů.
+- **English:** John sounds the least loudly (hyena-like).
+- **Polish:** x
+
+### Analysis
+
+- **Adverb:** `jýnă` (hyena-like/loud; warm source `jýnnshá`)
+- **Verbal mode:** `-w-` (semblance/acting)

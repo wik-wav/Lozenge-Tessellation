@@ -69,10 +69,15 @@ Null
 Derives directly from the root **ýhý** (the quality of the mouse), omitting the `shá` suffix for flow, similar to `ŕănabină` (Fast).
 
 ### Example sentences
-**Adjective:**
-**To John ýhýnă shá xiŕa.**
-_John is a cowardly (mouse-like) person._
 
-**Adverb (Manner):**
-**To wo ýhýnă aśù.**
-_I walk nervously/quietly (scurring)._
+#### Example 1
+
+- **Asaxi:** to john ýhýnă shá xiŕa.
+- **English:** Adjective: John is a cowardly (mouse-like) person.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo ýhýnă aśù.
+- **English:** Adverb (Manner): I walk nervously/quietly (scurring).
+- **Polish:** x

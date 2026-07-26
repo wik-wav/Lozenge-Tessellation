@@ -31,8 +31,12 @@ IPA: /ɾaɪnabi/
 - Polish: prędkość, szybkość
 
 ### Example sentence
-**John ŕănabinýj.**
-_John is fast._
+
+#### Example 1
+
+- **Asaxi:** john ŕănabinýj.
+- **English:** John is fast.
+- **Polish:** x
 
 ### Alternative Forms
 Null

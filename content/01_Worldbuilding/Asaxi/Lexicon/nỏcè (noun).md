@@ -31,8 +31,12 @@ IPA: /nou̯t͡sə/
 - Polish: notatka, wpis, zapisek
 
 ### Example sentence
-**Wo nỏcè nỏcèŕů.**
-_I write a note._
+
+#### Example 1
+
+- **Asaxi:** wo nỏcè nỏcèŕů.
+- **English:** I write a note.
+- **Polish:** x
 
 ### Alternative Forms
 Null

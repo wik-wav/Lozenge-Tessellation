@@ -29,7 +29,7 @@ As a noun, [[gă (noun)]] refers to somewhere (an unknown place).
 
 #### As an adverb
 
-As an adverb, `gă` refers to the thing or place in an unknown location. (e.g, `O-gă.` "(it) (is) somewhere here").
+As an adverb, `gă` refers to the thing or place in an unknown location. (e.g, `o-gă.` "(it) (is) somewhere here").
 
 ### Pronunciation
 

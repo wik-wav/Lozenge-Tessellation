@@ -32,8 +32,12 @@ IPA: /gɯɾoʃɑ/
 - Polish: wąż
 
 ### Example sentence
-**Gùŕoshá bă cù fnonů.**
-_A snake glides through the soil._
+
+#### Example 1
+
+- **Asaxi:** gùŕoshá bă cù fnonů.
+- **English:** A snake glides through the soil.
+- **Polish:** x
 
 ### Alternative Forms
 x

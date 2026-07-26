@@ -29,8 +29,12 @@ IPA: /ʃɑ/
 - Polish: istota lądowa, kreatura, osoba, ktoś, coś żywego
 
 ### Example sentence
-John shá xiŕa.
-John is a [[People and Creatures in the Lozenge Tessellation|Person]].
+
+#### Example 1
+
+- **Asaxi:** john shá xiŕa.
+- **English:** John is a [[People and Creatures in the Lozenge Tessellation|Person]].
+- **Polish:** x
 
 ### Cultural note
 There is no distinction between person and animal (creature) in Asaxi. Animals are persons. You can specify that a person is a "human being" by saying, for example:

@@ -31,8 +31,12 @@ IPA: /pɾo/
 - Polish: torus, obręcz
 
 ### Example sentence
-**To pŕo pxỏnýj xiŕa.**
-_The torus is round._
+
+#### Example 1
+
+- **Asaxi:** to pŕo pxỏnýj xiŕa.
+- **English:** The torus is round.
+- **Polish:** x
 
 ### Alternative Forms
 Null

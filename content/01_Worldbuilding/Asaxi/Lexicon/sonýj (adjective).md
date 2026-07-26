@@ -41,8 +41,12 @@ IPA: /sonɪj/
 - English: murkily, hazily
 
 ### Example sentence
-**Onýj o sonýj.**
-_The sky is a smoky grey._
+
+#### Example 1
+
+- **Asaxi:** onýj o sonýj.
+- **English:** The sky is a smoky grey.
+- **Polish:** x
 
 ### Alternative Forms
 Null

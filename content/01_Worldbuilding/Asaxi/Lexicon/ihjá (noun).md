@@ -31,8 +31,12 @@ IPA: /içɑ/
 - Polish: kolec, igła
 
 ### Example sentence
-**Ihjá hjinýj.**
-_The quill is small._
+
+#### Example 1
+
+- **Asaxi:** ihjá hjinýj.
+- **English:** The quill is small.
+- **Polish:** x
 
 ### Alternative Forms
 Null

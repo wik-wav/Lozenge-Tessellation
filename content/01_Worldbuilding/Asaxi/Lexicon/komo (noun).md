@@ -31,8 +31,12 @@ IPA: /ko̞mo̞/
 - Polish: ryż
 
 ### Example sentence
-**Komo chỏno.**
-_Rice is food._
+
+#### Example 1
+
+- **Asaxi:** komo chỏno.
+- **English:** Rice is food.
+- **Polish:** x
 
 ### Alternative Forms
 Null

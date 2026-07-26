@@ -38,11 +38,18 @@ IPA: /t͡soɪ/
 - **Polish:** rozumieć, pojąć
 
 ### Example sentence
-**To wo ő cő.**
-_I understand (it) like this._ (My understanding follows this manner).
 
-**To wo no cő.**
-_I understand you._
+#### Example 1
+
+- **Asaxi:** to wo ő cő.
+- **English:** I understand (it) like this. (My understanding follows this manner).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo no cő.
+- **English:** I understand you.
+- **Polish:** x
 
 ### Alternative Forms
 Null

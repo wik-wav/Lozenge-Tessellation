@@ -31,8 +31,12 @@ IPA: /jeɪʋə/
 - Polish: kiełek
 
 ### Example sentence
-**To jëvè vigo izoŕa.**
-_A sprout springs from the seed._
+
+#### Example 1
+
+- **Asaxi:** to jëvè vigo izoŕa.
+- **English:** A sprout springs from the seed.
+- **Polish:** x
 
 ### Alternative Forms
 Null

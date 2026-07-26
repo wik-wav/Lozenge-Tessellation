@@ -32,8 +32,12 @@ IPA: /t̠ʃi/
 - Polish: krew
 
 ### Example sentence
-**Chi kamshá vanů.**
-_Blood runs through the body._
+
+#### Example 1
+
+- **Asaxi:** chi kamshá vanů.
+- **English:** Blood runs through the body.
+- **Polish:** x
 
 ### Alternative Forms
 x

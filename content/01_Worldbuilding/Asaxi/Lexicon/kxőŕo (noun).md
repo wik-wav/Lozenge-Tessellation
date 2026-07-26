@@ -30,8 +30,12 @@ IPA: /kʰoɪɾo/
 - Polish: gardło
 
 ### Example sentence
-Sè wo kxőŕo tètáŕů.
-My throat hurts. (Lit: Of me throat pain-generates).
+
+#### Example 1
+
+- **Asaxi:** sè wo kxőŕo tètáŕů.
+- **English:** My throat hurts. (Lit: Of me throat pain-generates).
+- **Polish:** x
 
 ### Alternative Forms
 x

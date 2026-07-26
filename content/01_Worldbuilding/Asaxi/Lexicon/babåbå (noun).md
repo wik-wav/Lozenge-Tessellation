@@ -30,8 +30,12 @@ IPA: /babau̯bau̯/
 - Polish: mięśnie skośne
 
 ### Example sentence
-**Sè wo babåbå itănů.**
-_I flex my obliques._
+
+#### Example 1
+
+- **Asaxi:** sè wo babåbå itănů.
+- **English:** I flex my obliques.
+- **Polish:** x
 
 ### Alternative Forms
 Null

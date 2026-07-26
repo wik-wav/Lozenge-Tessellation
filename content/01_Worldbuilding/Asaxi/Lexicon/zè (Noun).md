@@ -32,8 +32,12 @@ IPA: /zə/
 - Polish: przeszłość
 
 ### Example sentence
-**To xő vazè vanů.**
-_He lives in the past._
+
+#### Example 1
+
+- **Asaxi:** to xő vazè vanů.
+- **English:** He lives in the past.
+- **Polish:** x
 
 ### Alternative Forms
 Null

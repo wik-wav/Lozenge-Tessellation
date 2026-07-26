@@ -31,8 +31,12 @@ IPA: /ʋaokam/
 - Polish: dom (ognisko domowe)
 
 ### Example sentence
-**Wo ni waokam aśù.**
-_I walk home._
+
+#### Example 1
+
+- **Asaxi:** wo ni waokam aśù.
+- **English:** I walk home.
+- **Polish:** x
 
 ### Alternative Forms
 Null

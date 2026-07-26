@@ -34,4 +34,9 @@ IPA: /ɕi/
 
 ### Example sentence
 
-**John pashěsonů si, paxoxo?** _Will John read, or will he leave?_
+
+#### Example 1
+
+- **Asaxi:** john pashěsonů si, paxoxo?
+- **English:** Will John read, or will he leave?
+- **Polish:** x

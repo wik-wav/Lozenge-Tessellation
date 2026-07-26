@@ -36,8 +36,12 @@ IPA: /ɾaɪanaɪ/
 - Polish: gorący, ognisty
 
 ### Example sentence
-**Onă xi ŕăană.**
-_The sun is hot._
+
+#### Example 1
+
+- **Asaxi:** onă xi ŕăană.
+- **English:** The sun is hot.
+- **Polish:** x
 
 ### Alternative Forms
 Null

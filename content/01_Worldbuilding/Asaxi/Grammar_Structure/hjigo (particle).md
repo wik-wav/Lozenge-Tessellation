@@ -45,8 +45,12 @@ IPA: /çiɡo/
 
 ### Example sentence
 
-**Hjigo sháma zèxăja.**
-_Few people shouted._
+
+#### Example 1
+
+- **Asaxi:** hjigo sháma zèxăja.
+- **English:** Few people shouted.
+- **Polish:** x
 
 ### Etymology
 

@@ -37,5 +37,9 @@ Placed at the **end** of the sentence.
 
 ### Example sentence
 
-**To wo shěsonů nåsi.** _I never read._
-**To wo shěsonůná nåsi.** _I (definitely) never read._
+
+#### Example 1
+
+- **Asaxi:** to wo shěsonů nåsi. i never read.
+- **English:** To wo shěsonůná nåsi. I (definitely) never read.
+- **Polish:** x

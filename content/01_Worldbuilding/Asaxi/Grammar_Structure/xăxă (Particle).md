@@ -30,7 +30,12 @@ IPA: /ɦaɪɦaɪ/
 
 ### Example sentence
 
-**Xő jo topù chě, wo ma xăxă.** _If he dropped it, I **would** have (it)... (yes, yes...)_
+
+#### Example 1
+
+- **Asaxi:** xő jo topù chě, wo ma xăxă.
+- **English:** If he dropped it, I would have (it)... (yes, yes...)
+- **Polish:** x
 
 ### Etymology
 

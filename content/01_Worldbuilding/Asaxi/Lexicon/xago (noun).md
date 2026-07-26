@@ -31,8 +31,12 @@ IPA: /ɦaɡo/
 - Polish: szczyt
 
 ### Example sentence
-**To zhýtopo xago naŕa.**
-_Snow is on the peak._
+
+#### Example 1
+
+- **Asaxi:** to zhýtopo xago naŕa.
+- **English:** Snow is on the peak.
+- **Polish:** x
 
 ### Alternative Forms
 Null

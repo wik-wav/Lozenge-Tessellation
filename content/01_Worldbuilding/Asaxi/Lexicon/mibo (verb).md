@@ -39,8 +39,12 @@ IPA: /mibo̞/
 - Polish: dziękować
 
 ### Example sentence
-**Wo bashá mibo.**
-_I thank my friend._
+
+#### Example 1
+
+- **Asaxi:** wo bashá mibo.
+- **English:** I thank my friend.
+- **Polish:** x
 
 ### Alternative Forms
 Null

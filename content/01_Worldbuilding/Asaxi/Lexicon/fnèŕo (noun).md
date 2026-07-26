@@ -31,8 +31,12 @@ IPA: /fnəɾo/
 - Polish: port
 
 ### Example sentence
-**To fnè fnèŕo vaŕa.**
-_The boat is in the harbor._
+
+#### Example 1
+
+- **Asaxi:** to fnè fnèŕo vaŕa.
+- **English:** The boat is in the harbor.
+- **Polish:** x
 
 ### Alternative Forms
 Null

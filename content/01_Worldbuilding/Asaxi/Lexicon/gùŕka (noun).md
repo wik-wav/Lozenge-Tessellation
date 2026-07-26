@@ -31,8 +31,12 @@ IPA: /ɡɯɾka/
 - Polish: sieć
 
 ### Example sentence
-**Gùŕka ŕoshá kma.**
-_A net catches fish._
+
+#### Example 1
+
+- **Asaxi:** gùŕka ŕoshá kma.
+- **English:** A net catches fish.
+- **Polish:** x
 
 ### Alternative Forms
 Null

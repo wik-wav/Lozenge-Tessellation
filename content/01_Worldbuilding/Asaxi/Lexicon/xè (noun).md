@@ -31,8 +31,12 @@ IPA: /ɦə/
 - Polish: wysiłek, trud, próba
 
 ### Example sentence
-**Anő xèronů xè wëè.**
-_Weight-training requires effort._
+
+#### Example 1
+
+- **Asaxi:** anő xèronů xè wëè.
+- **English:** Weight-training requires effort.
+- **Polish:** x
 
 ### Alternative Forms
 x

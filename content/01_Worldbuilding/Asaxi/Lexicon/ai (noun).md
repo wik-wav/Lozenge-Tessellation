@@ -32,8 +32,12 @@ IPA: /ai/
 - Polish: ból, żal, smutek
 
 ### Example sentence
-**Ă wo aiŕů.**
-_I grieve. (endogenous `-ŕ-`; a long-carried sorrow remains **ai ma** — see [[65_Expressing States & Sensations (Source Doctrine)]].)_
+
+#### Example 1
+
+- **Asaxi:** ă wo aiŕů.
+- **English:** I grieve. (endogenous `-ŕ-`; a long-carried sorrow remains ai ma — see [[65_Expressing States & Sensations (Source Doctrine)]].)
+- **Polish:** x
 
 ### Alternative Forms
 Null

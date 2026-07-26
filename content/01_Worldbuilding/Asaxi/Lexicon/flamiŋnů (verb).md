@@ -27,8 +27,12 @@ IPA: /fla.miŋ.nuu̯/
 - Polish: pozować, przybierać pozę
 
 ### Example sentence
-**To sháma flamiŋnů.**
-_The people are posing._
+
+#### Example 1
+
+- **Asaxi:** to sháma flamiŋnů.
+- **English:** The people are posing.
+- **Polish:** x
 
 ### Alternative Forms
 Null

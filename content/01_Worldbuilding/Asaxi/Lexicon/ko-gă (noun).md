@@ -30,8 +30,12 @@ IPA: /kogaɪ/
 - Polish: tam (daleko), tamto miejsce
 
 ### Example sentence
-To shěso ko-gă ỏnů.
-The book is over there (yonder).
+
+#### Example 1
+
+- **Asaxi:** to shěso ko-gă ỏnů.
+- **English:** The book is over there (yonder).
+- **Polish:** x
 
 ### Alternative Forms
 x

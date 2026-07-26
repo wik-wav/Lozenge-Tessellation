@@ -32,8 +32,12 @@ IPA: /ɹ̠̊ɚno/
 - Polish: papier
 
 ### Example sentence
-**Jomåshá ni shěno kjèpo ůků.**
-_People turn trees into paper._
+
+#### Example 1
+
+- **Asaxi:** jomåshá ni shěno kjèpo ůků.
+- **English:** People turn trees into paper.
+- **Polish:** x
 
 ### Alternative Forms
 x

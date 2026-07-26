@@ -31,8 +31,12 @@ IPA: /mao̞ɡɑm/
 - Polish: atrament
 
 ### Example sentence
-**Maogám shěno nanů.**
-_Ink is on the paper._
+
+#### Example 1
+
+- **Asaxi:** maogám shěno nanů.
+- **English:** Ink is on the paper.
+- **Polish:** x
 
 ### Alternative Forms
 Null

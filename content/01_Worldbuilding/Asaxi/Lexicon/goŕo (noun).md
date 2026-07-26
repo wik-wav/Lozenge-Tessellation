@@ -31,8 +31,12 @@ IPA: /ɡoɾo/
 - Polish: jaskinia
 
 ### Example sentence
-**To mmråshá goŕo vaŕa.**
-_The cat is inside the cave._
+
+#### Example 1
+
+- **Asaxi:** to mmråshá goŕo vaŕa.
+- **English:** The cat is inside the cave.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -33,9 +33,18 @@ IPA: /nɑɦaɪkaɪ/
 
 ### Example sentence
 
-**Apo chỏnůnáxăkă.** _Please do not eat the apple._
 
-**Kamm pănůnáxăkă.** _Please do not exit the building._ (Polite request, not a safety order).])]
+#### Example 1
+
+- **Asaxi:** apo chỏnůnáxăkă.
+- **English:** Please do not eat the apple.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** kamm pănůnáxăkă.
+- **English:** Please do not exit the building. (Polite request, not a safety order).])]
+- **Polish:** x
 
 ### Etymology
 

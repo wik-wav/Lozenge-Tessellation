@@ -34,8 +34,12 @@ IPA: /tʰe/
 Rule: Nouns ending in a pure vowel other than -o/-a append -wa.
 
 ### Example sentence
-To txewa dănă xiŕa.
-The wings are huge.
+
+#### Example 1
+
+- **Asaxi:** to txewa dănă xiŕa.
+- **English:** The wings are huge.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -30,8 +30,12 @@ IPA: /kʰe/
 - Polish: kształt, forma, figura
 
 ### Example sentence
-To kxe dănă xiŕa.
-The shape is big.
+
+#### Example 1
+
+- **Asaxi:** to kxe dănă xiŕa.
+- **English:** The shape is big.
+- **Polish:** x
 
 ### Alternative Forms
 x

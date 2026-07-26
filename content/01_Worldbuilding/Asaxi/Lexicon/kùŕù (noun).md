@@ -31,8 +31,12 @@ IPA: /kɯɾɯ/
 - Polish: król
 
 ### Example sentence
-**Kùŕù gaŕo vanů.**
-_The king is in the city._
+
+#### Example 1
+
+- **Asaxi:** kùŕù gaŕo vanů.
+- **English:** The king is in the city.
+- **Polish:** x
 
 ### Alternative Forms
 Null

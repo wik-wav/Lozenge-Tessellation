@@ -33,8 +33,12 @@ IPA: /çit̪eɪbi/
 **hjitëbiwa** (Fingers).
 
 ### Example sentence
-To wo ŕă hjitëbiwa ma.
-I have five fingers.
+
+#### Example 1
+
+- **Asaxi:** to wo ŕă hjitëbiwa ma.
+- **English:** I have five fingers.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -32,8 +32,12 @@ IPA: /bauʃɑ/
 - Polish: świnia, wieprz
 
 ### Example sentence
-**Båshá aśù.**
-_The hog walks._
+
+#### Example 1
+
+- **Asaxi:** båshá aśù.
+- **English:** The hog walks.
+- **Polish:** x
 
 ### Alternative Forms
 x

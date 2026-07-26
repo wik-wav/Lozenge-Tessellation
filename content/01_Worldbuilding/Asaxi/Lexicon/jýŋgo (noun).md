@@ -31,8 +31,12 @@ IPA: /jɪŋɡo̞/
 - Polish: dzwon
 
 ### Example sentence
-**Jýŋgo jýno ůŕů.**
-_A bell makes a sound._
+
+#### Example 1
+
+- **Asaxi:** jýŋgo jýno ůŕů.
+- **English:** A bell makes a sound.
+- **Polish:** x
 
 ### Alternative Forms
 Null

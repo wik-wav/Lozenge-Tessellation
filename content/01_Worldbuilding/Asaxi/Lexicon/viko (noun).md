@@ -31,8 +31,12 @@ IPA: /b̪viko̞/
 - Polish: pszenica
 
 ### Example sentence
-**Viko viŕo nanů.**
-_Wheat grows on the field._
+
+#### Example 1
+
+- **Asaxi:** viko viŕo nanů.
+- **English:** Wheat grows on the field.
+- **Polish:** x
 
 ### Alternative Forms
 Null

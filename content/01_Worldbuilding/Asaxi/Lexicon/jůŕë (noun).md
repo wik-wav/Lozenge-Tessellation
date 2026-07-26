@@ -31,8 +31,12 @@ IPA: /juu̯ɾeɪ/
 - Polish: kosmos, przestrzeń kosmiczna
 
 ### Example sentence
-**To jhecè jůŕë ni pănů.**
-_The jet exits into space._
+
+#### Example 1
+
+- **Asaxi:** to jhecè jůŕë ni pănů.
+- **English:** The jet exits into space.
+- **Polish:** x
 
 ### Alternative Forms
 x

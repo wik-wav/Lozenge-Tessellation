@@ -38,8 +38,12 @@ IPA: /ono/
 
 ### Example sentence
 
-**Toonă ono-kem.ma găxănă xiŕa.**
-_The attainable possibilities are infinite._
+
+#### Example 1
+
+- **Asaxi:** toonă ono-kem.ma găxănă xiŕa.
+- **English:** The attainable possibilities are infinite.
+- **Polish:** x
 
 ### Synonyms
 - **[[no (medial locative) (particle)|no-]]** (There - specific).

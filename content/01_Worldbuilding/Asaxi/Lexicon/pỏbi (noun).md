@@ -31,8 +31,12 @@ IPA: /pou̯bi/
 - Polish: nić
 
 ### Example sentence
-**Pỏno pỏbi izoŕa.**
-_Cloth is made from thread._
+
+#### Example 1
+
+- **Asaxi:** pỏno pỏbi izoŕa.
+- **English:** Cloth is made from thread.
+- **Polish:** x
 
 ### Alternative Forms
 Null

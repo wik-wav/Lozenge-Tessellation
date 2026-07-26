@@ -31,8 +31,12 @@ IPA: /seɪo̞bi/
 - Polish: włócznia
 
 ### Example sentence
-**Sëobi tte sè táka nono.**
-_A spear is a thing of war._
+
+#### Example 1
+
+- **Asaxi:** sëobi tte sè táka nono.
+- **English:** A spear is a thing of war.
+- **Polish:** x
 
 ### Alternative Forms
 Null

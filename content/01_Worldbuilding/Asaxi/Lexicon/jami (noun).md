@@ -31,8 +31,12 @@ IPA: /jami/
 - Polish: choroba
 
 ### Example sentence
-**Ă wo jami ma.**
-_I am ill. (lit. I have illness — a **carried condition**, possession pattern per [[65_Expressing States & Sensations (Source Doctrine)]].)_
+
+#### Example 1
+
+- **Asaxi:** ă wo jami ma.
+- **English:** I am ill. (lit. I have illness — a carried condition, possession pattern per [[65_Expressing States & Sensations (Source Doctrine)]].)
+- **Polish:** x
 
 ### Alternative Forms
 Null

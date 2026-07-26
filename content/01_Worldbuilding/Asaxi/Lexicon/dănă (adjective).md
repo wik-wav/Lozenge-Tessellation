@@ -39,23 +39,37 @@ IPA: /daɪnaɪ/
 - Heavily, noticeably 
 - Ciężko, dobrze widocznie
 
-### Example sentence
-**As an adjective:**
-- **To wo dănă apo ijo.**
-  I see a big apple.
-- To John **dănă** shá ijo.
-  John sees the **huge** person.
+### Example sentences
 
-**As an adverb:**
-4. Intransitive (Simple)
-	 - **To John onådănă aśù .**
-	   John always walks heavily. (lit. John walks elephant-ly.)
-5. Transitive (Object separation)
-	- **To John bă nashosa onådănă haśù.**
-	  John always runs heavily (stomping) on the road
-6. Contrast (Adjective vs. Adverb)
-	- To John shá **shěsonýj** ijo. 
-	  John sees the person **smartly** / analytically.
+#### Example 1
+
+- **Asaxi:** to wo dănă apo ijo.
+- **English:** Adjective: I see a big apple.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to john dănă shá ijo.
+- **English:** Adjective: John sees the huge person.
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** to john onådănă aśù.
+- **English:** Intransitive adverb: John always walks heavily (literally, John walks elephant-like).
+- **Polish:** x
+
+#### Example 4
+
+- **Asaxi:** to john bă nashosa onådănă haśù.
+- **English:** Transitive adverb: John always runs heavily (stomping) on the road.
+- **Polish:** x
+
+#### Example 5
+
+- **Asaxi:** to john shá shěsonýj ijo.
+- **English:** Adjective/adverb contrast: John sees the person smartly or analytically.
+- **Polish:** x
 
 
 ### Alternative Forms

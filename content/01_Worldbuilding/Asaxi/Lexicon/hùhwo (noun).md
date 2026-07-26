@@ -30,8 +30,12 @@ IPA: /xɯxʷo/
 - Polish: przedwczoraj
 
 ### Example sentence
-**Vaxi hùhwo, to wo zèxoxo.**
-_On the day before yesterday, I departed._
+
+#### Example 1
+
+- **Asaxi:** vaxi hùhwo, to wo zèxoxo.
+- **English:** On the day before yesterday, I departed.
+- **Polish:** x
 
 ### Alternative Forms
 Null

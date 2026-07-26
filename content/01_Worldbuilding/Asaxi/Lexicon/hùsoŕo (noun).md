@@ -32,8 +32,12 @@ IPA: /xɯsoɾo/
 - Polish: pustynia
 
 ### Example sentence
-**Vahùsoŕo, hùso dăgo bů.**
-_In the desert, there is much sand._
+
+#### Example 1
+
+- **Asaxi:** vahùsoŕo, hùso dăgo bů.
+- **English:** In the desert, there is much sand.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -34,9 +34,18 @@ IPA: /ɡavi/
 - Polish: zieleń, dobroć, dobro
 
 ### Example sentence
-**To topobi opùnågavi xiŕa.** _The weather is usually green (good)._
 
-**Vivi gavi xiŕa.** Grass is green
+#### Example 1
+
+- **Asaxi:** to topobi opùnågavi xiŕa.
+- **English:** The weather is usually green (good).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** vivi gavi xiŕa.
+- **English:** Grass is green.
+- **Polish:** x
 
 ### Alternative Forms
 x

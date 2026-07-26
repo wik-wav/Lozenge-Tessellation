@@ -35,8 +35,12 @@ IPA: /eɕnau̯nuu̯/
 - Polish: szczerzyć się, uśmiechać się szeroko
 
 ### Example sentence
-**To gajýnnshá eśnånů.**
-_The were-hyena grins._
+
+#### Example 1
+
+- **Asaxi:** to gajýnnshá eśnånů.
+- **English:** The were-hyena grins.
+- **Polish:** x
 
 ### Alternative Forms
 Null

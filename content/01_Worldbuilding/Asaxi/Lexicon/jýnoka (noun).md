@@ -30,8 +30,12 @@ IPA: /jɪnoka/
 - Polish: instrument muzyczny
 
 ### Example sentence
-**Xő jýnoka jýnů.**
-_He plays (sounds) an instrument._
+
+#### Example 1
+
+- **Asaxi:** xő jýnoka jýnů.
+- **English:** He plays (sounds) an instrument.
+- **Polish:** x
 
 ### Alternative Forms
 Null

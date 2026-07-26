@@ -31,8 +31,12 @@ IPA: /au̯gaɪ/
 - Polish: kiedyś, pewnego razu
 
 ### Example sentence
-**Ågă pashěsonů.** 
-_I will read sometime (eventually)._
+
+#### Example 1
+
+- **Asaxi:** ågă pashěsonů.
+- **English:** I will read sometime (eventually).
+- **Polish:** x
 
 ### Alternative Forms
 x

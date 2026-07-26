@@ -28,10 +28,19 @@ Used as a standalone response to agree to a request or confirm a state.
 
 IPA: /vi/
 
-### Example sentence
+### Example sentences
 
-**John:** "Apo chỏnůkă." (Please eat the apple.)
-**Me:** "Vi!" (OK! / Will do!)
+#### Example 1
+
+- **Asaxi:** „apo chỏnůkă.”
+- **English:** John: “Please eat the apple.”
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** „vi!”
+- **English:** Me: “OK! / Will do!”
+- **Polish:** x
 
 ### Etymology
 

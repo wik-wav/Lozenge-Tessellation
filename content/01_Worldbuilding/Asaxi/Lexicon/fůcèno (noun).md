@@ -33,8 +33,12 @@ IPA: /fuu̯t̻͡s̪əno/
 A **fůcèno** is an object that plays a role in one's life or environment but receives no gratitude or attention. It is the opposite of a *xoxonăno*; where a *xoxonăno* is fiercely protected and personified, a *fůcèno* is barely registered as existing until it breaks or is lost. It implies a sense of complacency on the part of the owner.
 
 ### Example sentence
-Dăgo fůcèno o-gă xiŕa.
-There are a lot of things taken for granted here.
+
+#### Example 1
+
+- **Asaxi:** dăgo fůcèno o-gă xiŕa.
+- **English:** There are a lot of things taken for granted here.
+- **Polish:** x
 
 ### Alternative Forms
 - x

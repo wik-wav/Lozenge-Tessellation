@@ -31,8 +31,12 @@ IPA: /pou̯nkam/
 - Polish: namiot
 
 ### Example sentence
-**Pỏnkam ispă pănů.**
-_A tent is out in the wild._
+
+#### Example 1
+
+- **Asaxi:** pỏnkam ispă pănů.
+- **English:** A tent is out in the wild.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -19,7 +19,7 @@ tags:
 <span class="asaxi-script-alpha">topů</span>
 ### Transitivity / Valency
 _ditransitive verb_ 
-takes three, e.g. _He(1) gave her(2) a flower(3)._
+takes three, e.g. He(1) gave her(2) a flower(3).
 
 ### Lexical Aspect
 - **Punctual (Achievement)** — happens in a single moment.
@@ -39,8 +39,12 @@ IPA: /t̪opɯ/
 - Polish: położyć
 
 ### Example sentence
-Ni tobo shěso topù
-"(I) put the book on(to) the table."
+
+#### Example 1
+
+- **Asaxi:** ni tobo shěso topù
+- **English:** (I) put the book on(to) the table.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -36,8 +36,12 @@ IPA: /aiʃuu̯/
 - Polish: pocieszać
 
 ### Example sentence
-**Wo exeshá aishů.**
-_I comfort the weeping one._
+
+#### Example 1
+
+- **Asaxi:** wo exeshá aishů.
+- **English:** I comfort the weeping one.
+- **Polish:** x
 
 ### Alternative Forms
 Null

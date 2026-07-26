@@ -1,7 +1,7 @@
 ---
 freq: 58
-title: Itaŕi (noun) - Italy
-Word (Asaxi): Itaŕi
+title: itaŕi (noun) - Italy
+Word (Asaxi): itaŕi
 trnsltion. En: Italy
 trnsltion. Pl: Włochy
 tags:
@@ -9,7 +9,7 @@ tags:
   - language
   - noun
 ---
-# Itaŕi ([[01_Asaxi Nouns (List)]])
+# itaŕi ([[01_Asaxi Nouns (List)]])
 
 - - -
 
@@ -30,8 +30,12 @@ IPA: /it̪aɾi/
 - Polish: Włochy
 
 ### Example sentence
-John ni Itaŕi nijală nå.
-John starts to fly to Italy now.
+
+#### Example 1
+
+- **Asaxi:** john ni itaŕi nijală nå.
+- **English:** John starts to fly to Italy now.
+- **Polish:** x
 
 ### Alternative Forms
 x

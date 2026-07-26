@@ -39,8 +39,12 @@ IPA: /dau̯mə/
 - Polish: pokazywać, wskazywać
 
 ### Example sentence
-**Fŕo shosa dåmë.**
-_A map shows the way._
+
+#### Example 1
+
+- **Asaxi:** fŕo shosa dåmë.
+- **English:** A map shows the way.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /ɹo̞ʃɑ/
 - Polish: kowal
 
 ### Example sentence
-**Roshá goka ůků.**
-_The smith makes a hammer._
+
+#### Example 1
+
+- **Asaxi:** roshá goka ůků.
+- **English:** The smith makes a hammer.
+- **Polish:** x
 
 ### Alternative Forms
 Null

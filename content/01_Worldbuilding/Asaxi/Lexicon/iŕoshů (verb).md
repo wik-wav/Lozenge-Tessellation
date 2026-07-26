@@ -35,8 +35,12 @@ IPA: /iɾoʃuu̯/
 - Polish: odbarwiać się (światło), przygasać, tracić nasycenie
 
 ### Example sentence
-**To pjo iŕoshů.**
-_The light is dimming (losing its color intensity)._
+
+#### Example 1
+
+- **Asaxi:** to pjo iŕoshů.
+- **English:** The light is dimming (losing its color intensity).
+- **Polish:** x
 
 ### Alternative Forms
 Null

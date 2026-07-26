@@ -32,8 +32,12 @@ IPA: /gɯɾoçɑ/
 - Polish: robak
 
 ### Example sentence
-**Gùŕohjá cù vanů.**
-_A worm is in the soil._
+
+#### Example 1
+
+- **Asaxi:** gùŕohjá cù vanů.
+- **English:** A worm is in the soil.
+- **Polish:** x
 
 ### Alternative Forms
 x

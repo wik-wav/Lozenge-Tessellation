@@ -36,11 +36,18 @@ IPA: /vinaɪ/
 - Polish: w porządku, okej, dobry
 
 ### Example sentence
-**To wo vină ů.**
-_I am doing okay._
 
-**Tonă o-shá vină xiŕa.**
-_This person is alright._
+#### Example 1
+
+- **Asaxi:** to wo vină ů.
+- **English:** I am doing okay.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** tonă o-shá vină xiŕa.
+- **English:** This person is alright.
+- **Polish:** x
 
 ### Alternative Forms
 Null

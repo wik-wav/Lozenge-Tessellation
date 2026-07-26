@@ -18,7 +18,7 @@ tags:
 
 <span class="asaxi-script-alpha">ŕochỏchů</span>
 ### Transitivity / Valency
-_intransitive_ — **Ŕochỏchů.** ("(I) am thirsty.")
+_intransitive_ — ŕochỏchů. ("(I) am thirsty.")
 
 ### Lexical Aspect
 - **Durative (Activity)** — unfolds over time.
@@ -35,8 +35,12 @@ IPA: /ɾot̠ʃou̯t̠ʃuw/
 - Polish: odczuwać pragnienie, być spragnionym
 
 ### Example sentence
-**Ŕochỏchů — ŕono daokă.**
-_"(I'm) thirsty — please give (me) a drink."_
+
+#### Example 1
+
+- **Asaxi:** ŕochỏchů — ŕono daokă.
+- **English:** (I'm) thirsty — please give (me) a drink.
+- **Polish:** x
 
 ### Alternative Forms
 Null

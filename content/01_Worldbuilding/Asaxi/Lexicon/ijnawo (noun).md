@@ -31,8 +31,12 @@ IPA: /ijnaʋo̞/
 - Polish: lustro
 
 ### Example sentence
-**Bă ijnawo wo niwo ijo.**
-_I see myself in the mirror._
+
+#### Example 1
+
+- **Asaxi:** bă ijnawo wo niwo ijo.
+- **English:** I see myself in the mirror.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -32,8 +32,12 @@ IPA: /vat̠ʃou̯no/
 - Polish: warzywo
 
 ### Example sentence
-**To wo văchỏno chỏnů.**
-_I eat the vegetable._
+
+#### Example 1
+
+- **Asaxi:** to wo văchỏno chỏnů.
+- **English:** I eat the vegetable.
+- **Polish:** x
 
 ### Alternative Forms
 x

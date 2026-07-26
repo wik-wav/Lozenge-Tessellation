@@ -26,7 +26,12 @@ tags:
 IPA: /bam/
 
 ### Example sentence
-**To wo bam apa ma.** _"I have four apples."_
+
+#### Example 1
+
+- **Asaxi:** to wo bam apa ma.
+- **English:** I have four apples.
+- **Polish:** x
 
 ### Derived terms
 - **bibam** (4th)

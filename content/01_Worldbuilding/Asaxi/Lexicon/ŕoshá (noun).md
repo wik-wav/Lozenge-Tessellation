@@ -32,8 +32,12 @@ IPA: /ɾoʃɑ/
 - Polish: ryba
 
 ### Example sentence
-**Ŕoshá ŕoŕo vanů.**
-_A fish swims in the water._
+
+#### Example 1
+
+- **Asaxi:** ŕoshá ŕoŕo vanů.
+- **English:** A fish swims in the water.
+- **Polish:** x
 
 ### Alternative Forms
 x

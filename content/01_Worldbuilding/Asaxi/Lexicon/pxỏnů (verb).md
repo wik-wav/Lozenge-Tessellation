@@ -36,8 +36,12 @@ IPA: /pʰou̯nuu̯/
 - Polish: toczyć się
 
 ### Example sentence
-To pxỏ pxỏnů.
-The ball rolls.
+
+#### Example 1
+
+- **Asaxi:** to pxỏ pxỏnů.
+- **English:** The ball rolls.
+- **Polish:** x
 
 ### Alternative Forms
 x

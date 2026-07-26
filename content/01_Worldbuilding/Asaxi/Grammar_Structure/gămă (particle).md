@@ -35,11 +35,18 @@ Placed at the **end** of the clause (Head-Final) or used as a response.
 IPA: /ɡaɪmaɪ/
 
 ### Example sentence
-**To wo gămă shěsonů.**
-_I read whenever (at any time)._
 
-**Gămă toponů, wo shěsonů.**
-_Whenever it rains, I read._
+#### Example 1
+
+- **Asaxi:** to wo gămă shěsonů.
+- **English:** I read whenever (at any time).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** gămă toponů, wo shěsonů.
+- **English:** Whenever it rains, I read.
+- **Polish:** x
 
 ### Synonyms
 

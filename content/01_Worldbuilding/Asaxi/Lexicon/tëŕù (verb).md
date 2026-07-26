@@ -39,8 +39,12 @@ IPA: /t̪eɪɾɯ/
 - Polish: przeciągać się
 
 ### Example sentence
-**Wo tëŕù.**
-_I stretch._
+
+#### Example 1
+
+- **Asaxi:** wo tëŕù.
+- **English:** I stretch.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /çjinaɪ/
 - Polish: nieśmiały, zamknięty w sobie
 
 ### Example sentence
-**To John hjină shá xiŕa sèni, ỏbwonů nỏwă.**
-_John is a private person, so he does not want to cuddle._
+
+#### Example 1
+
+- **Asaxi:** to john hjină shá xiŕa sèni, ỏbwonů nỏwă.
+- **English:** John is a private person, so he does not want to cuddle.
+- **Polish:** x
 
 ### Alternative Forms
 Null

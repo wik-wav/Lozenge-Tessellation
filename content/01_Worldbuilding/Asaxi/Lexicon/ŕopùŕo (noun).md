@@ -31,8 +31,12 @@ IPA: /ɾo̞pɯɾo̞/
 - Polish: wodospad
 
 ### Example sentence
-**Ŕopùŕo jëgo nanů.**
-_A waterfall is on the mountain._
+
+#### Example 1
+
+- **Asaxi:** ŕopùŕo jëgo nanů.
+- **English:** A waterfall is on the mountain.
+- **Polish:** x
 
 ### Alternative Forms
 Null

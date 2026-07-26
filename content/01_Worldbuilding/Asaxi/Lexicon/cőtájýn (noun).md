@@ -32,8 +32,12 @@ IPA: /t͡soɪt̪ɑꞲɪn/
 - Polish: kłótnia, spór, sprzeczka
 
 ### Example sentence
-**To cőtájýn dănă zèxiŕa.**
-_The argument was huge._
+
+#### Example 1
+
+- **Asaxi:** to cőtájýn dănă zèxiŕa.
+- **English:** The argument was huge.
+- **Polish:** x
 
 ### Alternative Forms
 Null

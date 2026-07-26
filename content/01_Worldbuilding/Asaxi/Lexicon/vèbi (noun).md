@@ -31,8 +31,12 @@ IPA: /b̪vəbi/
 - Polish: łodyga
 
 ### Example sentence
-**Vèbi piva pùŕa.**
-_The stem is below the flower._
+
+#### Example 1
+
+- **Asaxi:** vèbi piva pùŕa.
+- **English:** The stem is below the flower.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -39,8 +39,12 @@ IPA: /paɪɦə/
 - Polish: rozpościerać, rozkładać (skrzydła)
 
 ### Example sentence
-To txenshá txewa zèpăxè.
-The angel spread (its) wings.
+
+#### Example 1
+
+- **Asaxi:** to txenshá txewa zèpăxè.
+- **English:** The angel spread (its) wings.
+- **Polish:** x
 
 ### Alternative Forms
 x

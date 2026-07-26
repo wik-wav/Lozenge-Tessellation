@@ -25,8 +25,8 @@ The polarity particle **[[ná (particle)|ná]]** ("not") shifts position dependi
 
 | Context | Position | Structure | Example |
 | --- | --- | --- | --- |
-| Unmarked Non-Past | Suffix | `[Verb]-ná` | **To wo shěsonůná.** ("I do not read.") |
-| Tensed (`zè-`, `pa-`, etc.) | Infix | `[Tense]-ná-[Root]` | **To wo zènáshěsonů.** ("I did not read.") |
+| Unmarked Non-Past | Suffix | `[Verb]-ná` | to wo shěsonůná. ("I do not read.") |
+| Tensed (`zè-`, `pa-`, etc.) | Infix | `[Tense]-ná-[Root]` | to wo zènáshěsonů. ("I did not read.") |
 | Pure Existence (`xi`) | Fusion | `ná` + `xi` → **nè** | **nèŕa** ("is not / does not exist") |
 | Other Statives | Prefix | `ná-[Stative]` | **nániŕa** |
 
@@ -49,7 +49,7 @@ Use `fů-` when the absence itself is the topic; use `ná` when denying a propos
 
 ## 4. Prohibition (Negative Commands)
 
-- **Strict:** `[Verb] + ná + hè` → **Aśùnáhè!** ("Do not walk!")
+- **Strict:** `[Verb] + ná + hè` → aśùnáhè! ("Do not walk!")
 - **Absolute ban:** `náxăhè` ("must not").
 - **Polite:** `náxăkă` ("please do not") — see [[36_Polite Requests]].
 
@@ -66,11 +66,11 @@ Use `fů-` when the absence itself is the topic; use `ná` when denying a propos
 
 Asaxi answers agree with the **proposition**, not with the polarity of the answer (as in Japanese):
 
-> **Q: To John shěsonůná kè?** ("Does John not read?")
-> **A: Xă.** = "Correct — he does not read."
-> **A: Ná.** = "Wrong — he does read."
+> **Q:** to john shěsonůná kè? ("Does John not read?")
+> a: xă. = "Correct — he does not read."
+> a: ná. = "Wrong — he does read."
 
-To avoid ambiguity in formal speech, the full negated or affirmed verb is echoed: **Xă, shěsonůná.** / **Ná, shěsonů.**
+To avoid ambiguity in formal speech, the full negated or affirmed verb is echoed: xă, shěsonůná. / ná, shěsonů.
 
 ## 7. Negative Coordination
 

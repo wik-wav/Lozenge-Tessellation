@@ -34,8 +34,12 @@ IPA: /ɦəjau̯ʃuu̯/
 - Polish: przestać próbować, zrezygnować
 
 ### Example sentence
-**To wo xèjåshů.**
-_I stop trying._
+
+#### Example 1
+
+- **Asaxi:** to wo xèjåshů.
+- **English:** I stop trying.
+- **Polish:** x
 
 ### Alternative Forms
 Null

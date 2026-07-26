@@ -18,7 +18,7 @@ tags:
 
 
 Alternate form of `to`. See [[to (particle)]]
-**Example:** **Ă wo...** ("I \[feel/internally\]...").
+**Example:** ă wo... ("I \[feel/internally\]...").
 
 ### Pronunciation
 

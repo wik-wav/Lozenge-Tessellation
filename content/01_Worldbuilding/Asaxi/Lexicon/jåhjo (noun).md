@@ -31,12 +31,18 @@ IPA: /Ʝau̯ço/
 - Polish: cel, przeznaczenie (miejsce)
 
 ### Example sentence
-**To wo jåhjo xogă.**
-_I reach the destination._
 
-**Poetic/Romantic:** 
-**No sè wo jåhjo jo.** 
-_You are my guiding star._ (Lit: You \[are\] my want-star.)
+#### Example 1
+
+- **Asaxi:** to wo jåhjo xogă.
+- **English:** I reach the destination.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** no sè wo jåhjo jo.
+- **English:** Poetic/Romantic: You are my guiding star. (Lit: You \[are\] my want-star.)
+- **Polish:** x
 
 ### Alternative Forms
 Null

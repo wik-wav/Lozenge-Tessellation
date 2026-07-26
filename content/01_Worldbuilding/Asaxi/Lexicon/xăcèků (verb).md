@@ -42,8 +42,12 @@ IPA: /ɦaɪt̻͡s̪əkuw/
 
 ### Example sentence
 
-**Wo hja zámaaśù ŕa hja xăcèků.**
-_I take them away with me and turn them into Real._
+
+#### Example 1
+
+- **Asaxi:** wo hja zámaaśù ŕa hja xăcèků.
+- **English:** I take them away with me and turn them into Real.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -71,4 +75,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

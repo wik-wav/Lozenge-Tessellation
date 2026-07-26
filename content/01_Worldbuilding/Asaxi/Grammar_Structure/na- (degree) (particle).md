@@ -30,7 +30,13 @@ Derived from **[[na- (relational locative) (particle)|na-]]** (On/Top/Stacking).
 
 ### Example sentence
 
-**To John izo Tom nashánă [judging]nů.** _John judges **more wisely** (humanely) than Tom._
+#### Example 1
 
-- _Adverb:_ `shánă` (Person-like/Wise)
-- _Verbal Mode:_ `-n-` (Performance).
+- **Asaxi:** to john izo tom nashánă [judging]nů.
+- **English:** John judges more wisely (humanely) than Tom.
+- **Polish:** x
+
+### Analysis
+
+- **Adverb:** `shánă` (person-like/wise)
+- **Verbal mode:** `-n-` (performance)

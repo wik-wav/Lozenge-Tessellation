@@ -38,8 +38,12 @@ IPA: /b̪vib̪vɑ/
 - Polish: rodzić się
 
 ### Example sentence
-**Hjáhjá vivá.**
-_The baby is born._
+
+#### Example 1
+
+- **Asaxi:** hjáhjá vivá.
+- **English:** The baby is born.
+- **Polish:** x
 
 ### Alternative Forms
 Null

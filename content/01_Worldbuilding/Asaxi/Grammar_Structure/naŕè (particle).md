@@ -25,8 +25,12 @@ IPA: /naɾə/
 
 ### Example sentence
 
-**To no aśù naŕè.**
-_You should walk._
+
+#### Example 1
+
+- **Asaxi:** to no aśù naŕè.
+- **English:** You should walk.
+- **Polish:** x
 
 ### Etymology
 

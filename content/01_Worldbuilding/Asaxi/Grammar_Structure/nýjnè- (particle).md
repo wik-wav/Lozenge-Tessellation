@@ -30,7 +30,13 @@ IPA: /nɪjnə/
 
 ### Example sentence
 
-**To [knife] nýjnègonýj [cutting]xů.** _The knife cuts the **least hard** (rock-like)._
+#### Example 1
 
-- _Adverb:_ `gonýj` (Rock-like/Hard - Cold Source `go`)
-- _Verbal Mode:_ `-x-` (Interaction/Force).
+- **Asaxi:** to [knife] nýjnègonýj [cutting]xů.
+- **English:** The knife cuts the least hard (rock-like).
+- **Polish:** x
+
+### Analysis
+
+- **Adverb:** `gonýj` (rock-like/hard; cold source `go`)
+- **Verbal mode:** `-x-` (interaction/force)

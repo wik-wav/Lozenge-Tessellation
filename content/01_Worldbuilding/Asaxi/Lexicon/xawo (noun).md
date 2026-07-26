@@ -31,8 +31,12 @@ IPA: /ɦawo/
 - Polish: góra (przestrzeń nad)
 
 ### Example sentence
-**To xawo gao xiŕa.**
-_The heights are blue._
+
+#### Example 1
+
+- **Asaxi:** to xawo gao xiŕa.
+- **English:** The heights are blue.
+- **Polish:** x
 
 ### Alternative Forms
 Null

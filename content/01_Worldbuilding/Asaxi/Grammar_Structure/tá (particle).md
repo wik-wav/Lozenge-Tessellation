@@ -24,7 +24,7 @@ tags:
 
 ### Usage Note
 
-Stands alone or before the clause; takes no particles or tense (see [[62_Vocatives & Interjections in Asaxi]]). Emphatic gemination for severe pain: **ttá!** (cf. `kè` → `kkè`).
+Stands alone or before the clause; takes no particles or tense (see [[62_Vocatives & Interjections in Asaxi]]). Emphatic gemination for severe pain: ttá! (cf. `kè` → `kkè`).
 
 ### Pronunciation
 
@@ -32,8 +32,12 @@ IPA: /t̪ɑ/
 
 ### Example sentence
 
-**Tá! Då wo nadaohè!**
-_"Ouch! Give it back to me!"_ (`då` DAT + `na-` ITER + `dao` give + `hè` IMP)
+
+#### Example 1
+
+- **Asaxi:** tá! då wo nadaohè!
+- **English:** "Ouch! Give it back to me!" (`då` DAT + `na-` ITER + `dao` give + `hè` IMP)
+- **Polish:** x
 
 ### Etymology
 

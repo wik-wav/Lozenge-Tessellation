@@ -31,8 +31,12 @@ IPA: /sipou̯/
 - Polish: jedwab
 
 ### Example sentence
-**Sipỏ tte pỏno.**
-_Silk is a kind of cloth._
+
+#### Example 1
+
+- **Asaxi:** sipỏ tte pỏno.
+- **English:** Silk is a kind of cloth.
+- **Polish:** x
 
 ### Alternative Forms
 Null

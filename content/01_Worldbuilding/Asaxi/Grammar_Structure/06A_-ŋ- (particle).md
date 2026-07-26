@@ -22,7 +22,7 @@ IPA: /ŋ/
 
 ### Example sentence
 
-**To wo apoŋů.** _I smell like an apple._
+to wo apoŋů. I smell like an apple.
 
 ### Etymology
 

@@ -23,8 +23,8 @@ tags:
 - **Logic:** `ná` (Not) + `xi` (Exist) + `ŕa` (Fact) → **nèŕa**.
 
 **Constraints:** `nèŕa` is **only** used to negate pure existence or definitions where `xi` is the root.
-- **Correct:** `John shějýnshá nèŕa.` ("John is not a teacher.")
-- **Incorrect:** `John gajýnnshá nèŕa.` (To negate specific states like `gajýn-ŕa` or `ni-ŕa`, use the infix `ná`: **nágajýnnŕa** / **nániŕa**).
+- **Correct:** `john shějýnshá nèŕa.` ("John is not a teacher.")
+- **Incorrect:** `john gajýnnshá nèŕa.` (To negate specific states like `gajýn-ŕa` or `ni-ŕa`, use the infix `ná`: **nágajýnnŕa** / **nániŕa**).
 
 
 **Modifications:**
@@ -38,7 +38,7 @@ tags:
 
 **Example:**
 
-> **Anő shěso nèŕa.** `NDEF` `book` `NEG.EXIST` _"(There is not) a book."_ / _"A book does not exist."_
+> anő shěso nèŕa. `NDEF` `book` `NEG.EXIST` "(There is not) a book." / "A book does not exist."
 
 ### Grammatical function
 

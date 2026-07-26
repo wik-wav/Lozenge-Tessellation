@@ -32,8 +32,12 @@ IPA: /t̻͡sɯpou̯/
 - Polish: kurz, pył
 
 ### Example sentence
-**Cùpỏ shěso nanů.**
-_Dust lies on the book._
+
+#### Example 1
+
+- **Asaxi:** cùpỏ shěso nanů.
+- **English:** Dust lies on the book.
+- **Polish:** x
 
 ### Alternative Forms
 x

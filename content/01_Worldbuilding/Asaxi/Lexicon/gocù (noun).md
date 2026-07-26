@@ -31,8 +31,12 @@ IPA: /ɡo̞t̻͡s̪ɯ/
 - Polish: cement, zaprawa
 
 ### Example sentence
-**Gocù go kma.**
-_Cement sticks the stones together._
+
+#### Example 1
+
+- **Asaxi:** gocù go kma.
+- **English:** Cement sticks the stones together.
+- **Polish:** x
 
 ### Alternative Forms
 Null

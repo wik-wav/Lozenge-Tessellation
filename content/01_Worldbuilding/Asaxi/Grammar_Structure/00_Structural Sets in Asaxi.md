@@ -121,7 +121,7 @@ Navigation:
 - [[33_Desiderative Subjunctive Moods]]: Hypotheticals (`xăxă`) and Wishes (`dăxă`).
 - [[34_Potential Mood]]: Ability and Possibility (`ken`).
 - [[36_Polite Requests]]: Solicitation (`kă`) and Instructions (`xăkă`).
-- [[53_Flow Commands (Interruption & Continuation)]]: Ordering another to stop or continue an action. (`nă`: _Stop [verbing]!_ or `sů`: _Continue [verbing]!_)
+- [[53_Flow Commands (Interruption & Continuation)]]: Ordering another to stop or continue an action. (`nă`: Stop [verbing]! or `sů`: Continue [verbing]!)
 - [[23_Modality & Verbal Compounding]]: Mood prefixes (`jå-` "Want", `xè-` "Try") and Cessative (`tomo'`).
 - [[40_Subjective Epistemic Markers (The To-Predicates)]]: Subjective certainty (`toxăhè`), doubt (`tohùfwo`), and impression (`toůchů`).
 - [[42_Volition & Necessity (Sentence Final)]]: Internal Volition ("Want" `wă`) and Necessity ("Need" `wë`)

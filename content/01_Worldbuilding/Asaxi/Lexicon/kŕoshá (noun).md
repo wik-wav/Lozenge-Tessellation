@@ -31,8 +31,12 @@ IPA: /kɾo̞ʃɑ/
 - Polish: krokodyl
 
 ### Example sentence
-**Kŕoshá ŕoŕo vanů.**
-_The crocodile is in the water._
+
+#### Example 1
+
+- **Asaxi:** kŕoshá ŕoŕo vanů.
+- **English:** The crocodile is in the water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

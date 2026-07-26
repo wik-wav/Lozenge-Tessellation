@@ -39,8 +39,12 @@ IPA: /niɾɯ/
 - Polish: stawać się
 
 ### Example sentence
-**Hjáhjá shá niŕù.**
-_The child becomes an adult._
+
+#### Example 1
+
+- **Asaxi:** hjáhjá shá niŕù.
+- **English:** The child becomes an adult.
+- **Polish:** x
 
 ### Alternative Forms
 Null

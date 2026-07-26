@@ -26,7 +26,12 @@ IPA: /ɲiça/
 
 ### Example sentence
 
-**To hja nihja ijo.** _They (things) see themselves._
+
+#### Example 1
+
+- **Asaxi:** to hja nihja ijo.
+- **English:** They (things) see themselves.
+- **Polish:** x
 
 ### Etymology
 

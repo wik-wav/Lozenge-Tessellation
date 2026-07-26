@@ -34,8 +34,12 @@ IPA: /ɡaɦaɡi/
 - Polish: pomarańczowy
 
 ### Example sentence
-**Xagi gaxagi.**
-_The ember is orange._
+
+#### Example 1
+
+- **Asaxi:** xagi gaxagi.
+- **English:** The ember is orange.
+- **Polish:** x
 
 ### Alternative Forms
 Null

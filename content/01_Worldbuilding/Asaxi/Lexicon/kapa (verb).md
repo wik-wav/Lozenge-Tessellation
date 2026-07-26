@@ -39,8 +39,12 @@ IPA: /kapa/
 - Polish: łapać
 
 ### Example sentence
-**Wo pxỏ kapa.**
-_I catch the ball._
+
+#### Example 1
+
+- **Asaxi:** wo pxỏ kapa.
+- **English:** I catch the ball.
+- **Polish:** x
 
 ### Alternative Forms
 Null

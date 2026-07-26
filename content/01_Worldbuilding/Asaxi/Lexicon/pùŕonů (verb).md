@@ -35,8 +35,12 @@ IPA: /pɯɾonuu̯/
 - Polish: dzielić się, rozdzielać
 
 ### Example sentence
-**To wa apo pùŕonů.**
-_We share (split) the apple._
+
+#### Example 1
+
+- **Asaxi:** to wa apo pùŕonů.
+- **English:** We share (split) the apple.
+- **Polish:** x
 
 ### Alternative Forms
 Null

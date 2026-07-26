@@ -31,9 +31,12 @@ IPA: /ɡaɪɦaɪ/
 - Polish: nieskończoność, bezkres
 
 ### Example sentence
-*Better Example:*
-**To siŕo găxă xiŕa.**
-_The Great Unknown is infinity._
+
+#### Example 1
+
+- **Asaxi:** *better example:* to siŕo găxă xiŕa.
+- **English:** The Great Unknown is infinity.
+- **Polish:** x
 
 ### Alternative Forms
 x

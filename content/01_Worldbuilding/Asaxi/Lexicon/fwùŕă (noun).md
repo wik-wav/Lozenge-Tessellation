@@ -31,8 +31,12 @@ IPA: /fʷɯɾaɪ/
 - Polish: tornado
 
 ### Example sentence
-**Fwùŕă bă viŕo xoxo.**
-_A tornado sweeps across the field._
+
+#### Example 1
+
+- **Asaxi:** fwùŕă bă viŕo xoxo.
+- **English:** A tornado sweeps across the field.
+- **Polish:** x
 
 ### Alternative Forms
 Null

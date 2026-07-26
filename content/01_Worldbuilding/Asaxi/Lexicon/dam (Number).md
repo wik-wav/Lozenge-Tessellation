@@ -23,7 +23,12 @@ tags:
 IPA: /d̪am/
 
 ### Example sentence
-**To wo dam apa ma.** _"I have ten apples."_
+
+#### Example 1
+
+- **Asaxi:** to wo dam apa ma.
+- **English:** I have ten apples.
+- **Polish:** x
 
 ### Derived terms
 - **dambam** (10 times)

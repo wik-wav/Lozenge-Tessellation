@@ -22,7 +22,7 @@ IPA: /k/
 
 ### Example sentence
 
-**To [Wizard] John gajýnnků.** _The wizard turns John into a were-hyena._
+to [Wizard] john gajýnnků. The wizard turns John into a were-hyena.
 
 ### Etymology
 

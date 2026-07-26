@@ -32,11 +32,11 @@ Unlike `xăhè` (Force/Must) or `wë` (Need), this mood implies a social or logi
 
 **A. Positive ("Should")**
 
-> **To John shěsonů naŕè.** `SUBJ` `John` `read` `SHOULD` _"John should read."_ (It is expected/proper).
+> to john shěsonů naŕè. `SUBJ` `John` `read` `SHOULD` "John should read." (It is expected/proper).
 
 **B. Negative ("Should not")**
 
-> **To John shěsonů nánaŕè.** `SUBJ` `John` `read` `NOT-SHOULD` _"John shouldn't read."_ (It is improper/wrong).
+> to john shěsonů nánaŕè. `SUBJ` `John` `read` `NOT-SHOULD` "John shouldn't read." (It is improper/wrong).
 
 ### 3. Hierarchy of Obligation
 

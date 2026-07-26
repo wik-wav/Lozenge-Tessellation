@@ -24,7 +24,7 @@ tags:
 
 The casual/standard antonym to **[[vi (particle)|vi]]** (OK/Good).
 * **Question:** `No pashěsonů kè?` (Will you read?)
-* **Answer:** `Pxů.` (No.)
+* **Answer:** `pxů.` (No.)
 
 ### Pronunciation
 

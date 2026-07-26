@@ -28,8 +28,12 @@ IPA: /fkozə/
 
 ### Example sentence
 
-**Vkozè, ă ponă ŕimshá zèxiŕa.**
-_Once upon a time, there was a certain lemur._
+
+#### Example 1
+
+- **Asaxi:** vkozè, ă ponă ŕimshá zèxiŕa.
+- **English:** Once upon a time, there was a certain lemur.
+- **Polish:** x
 
 ### Etymology
 

@@ -40,8 +40,12 @@ IPA: /em.mo/ (Two distinct syllables).
 - Polish: otwierać, otworzyć
 
 ### Example sentence
-**To wo kem em.mo.**
-_I open the door._
+
+#### Example 1
+
+- **Asaxi:** to wo kem em.mo.
+- **English:** I open the door.
+- **Polish:** x
 
 ### Alternative Forms
 Null

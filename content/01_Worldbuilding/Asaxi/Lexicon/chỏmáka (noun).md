@@ -31,8 +31,12 @@ IPA: /t̠ʃou̯mɑka/
 - Polish: miska
 
 ### Example sentence
-**Chỏŕono chỏmáka vanů.**
-_Soup is in the bowl._
+
+#### Example 1
+
+- **Asaxi:** chỏŕono chỏmáka vanů.
+- **English:** Soup is in the bowl.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -37,8 +37,12 @@ IPA: /jaminɪj/
 - Polish: chory
 
 ### Example sentence
-**Onă hjá jaminýj.**
-_The child is sick._
+
+#### Example 1
+
+- **Asaxi:** onă hjá jaminýj.
+- **English:** The child is sick.
+- **Polish:** x
 
 ### Alternative Forms
 Null

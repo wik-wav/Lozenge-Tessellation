@@ -32,8 +32,12 @@ IPA: /vətʰe/
 - Polish: liść
 
 ### Example sentence
-**Vètxe gavi xiŕa.**
-_A leaf is green._
+
+#### Example 1
+
+- **Asaxi:** vètxe gavi xiŕa.
+- **English:** A leaf is green.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -1,7 +1,8 @@
 ---
 title: word in asaxi (what is it?) - english
 Word (Asaxi):
-trnsltion. En:
+trnsltion. en:
+trnsltion. Pl:
 tags:
   - Asaxi
   - language
@@ -11,9 +12,9 @@ tags:
 
 - - -
 
-<span class="asaxi-script">Word (Asaxi)</span>
+<span class="asaxi-script">word (asaxi)</span>
 
-<span class="asaxi-script-alpha">Word (Asaxi)</span>
+<span class="asaxi-script-alpha">word (asaxi)</span>
 ### Grammatical function
 
 x
@@ -21,6 +22,14 @@ x
 ### Pronunciation
 
 x
+
+### Example sentence
+
+#### Example 1
+
+- **Asaxi:**
+- **english:**
+- **Polish:**
 
 ### Alternative Forms
 

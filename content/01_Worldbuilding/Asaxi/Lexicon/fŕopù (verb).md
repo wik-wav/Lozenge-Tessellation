@@ -39,8 +39,12 @@ IPA: /fɾo̞pɯ/
 - Polish: mdleć
 
 ### Example sentence
-**Shá fŕopù.**
-_The person faints._
+
+#### Example 1
+
+- **Asaxi:** shá fŕopù.
+- **English:** The person faints.
+- **Polish:** x
 
 ### Alternative Forms
 Null

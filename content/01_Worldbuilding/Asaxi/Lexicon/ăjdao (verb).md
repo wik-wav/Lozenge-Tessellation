@@ -39,8 +39,12 @@ IPA: /aɪjdao̞/
 - Polish: ogłaszać
 
 ### Example sentence
-**Kùŕù ăjdao.**
-_The king proclaims._
+
+#### Example 1
+
+- **Asaxi:** kùŕù ăjdao.
+- **English:** The king proclaims.
+- **Polish:** x
 
 ### Alternative Forms
 Null

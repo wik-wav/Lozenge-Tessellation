@@ -29,7 +29,12 @@ IPA: /opa/
 - Polish: najbliższa przyszłość, krawędź (czasowa)
 
 ### Example sentence
-**Ńopa, to wa gavină pabůchů.** `in-imm-future`, `SUBJ` `1PL` `well` `FUT-feel` _"We will feel well in the immediate future."_ (Lit: In the brink, we will feel well).
+
+#### Example 1
+
+- **Asaxi:** ńopa, to wa gavină pabůchů. ,
+- **English:** Gloss: in-imm-future SUBJ 1PL well FUT-feel: "We will feel well in the immediate future." (Lit: In the brink, we will feel well).
+- **Polish:** x
 
 ### Alternative Forms
 Null

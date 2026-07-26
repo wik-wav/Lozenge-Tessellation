@@ -35,8 +35,12 @@ IPA: /saɪat̠ʃuw/
 - Polish: czuć gorąco
 
 ### Example sentence
-**Xi ŕăană — ă wo săachů.**
-_The sun is hot — I feel the heat._
+
+#### Example 1
+
+- **Asaxi:** xi ŕăană — ă wo săachů.
+- **English:** The sun is hot — I feel the heat.
+- **Polish:** x
 
 ### Alternative Forms
 Null

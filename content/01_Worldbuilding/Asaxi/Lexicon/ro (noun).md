@@ -31,8 +31,12 @@ IPA: /ɹo/
 - Polish: żelazo
 
 ### Example sentence
-**To kiŕo garo xiŕa.**
-_The pickaxe is iron (made of iron)._
+
+#### Example 1
+
+- **Asaxi:** to kiŕo garo xiŕa.
+- **English:** The pickaxe is iron (made of iron).
+- **Polish:** x
 
 ### Alternative Forms
 x

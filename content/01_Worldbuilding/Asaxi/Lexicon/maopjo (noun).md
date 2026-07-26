@@ -36,8 +36,12 @@ IPA: /mao̞pʲo̞/
 
 ### Example sentence
 
-**Maopjo na sè ŕămáka nonawo pjonů zèbăhè.**
-_She left the night-light burning on the mantelpiece._
+
+#### Example 1
+
+- **Asaxi:** maopjo na sè ŕămáka nonawo pjonů zèbăhè.
+- **English:** She left the night-light burning on the mantelpiece.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

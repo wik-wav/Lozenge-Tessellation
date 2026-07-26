@@ -35,8 +35,12 @@ IPA: /pʲonuu̯/
 - Polish: oświetlać, zapalać (światło), rozjaśniać
 
 ### Example sentence
-**To wo xëjá pjonů.**
-_I light up the room._
+
+#### Example 1
+
+- **Asaxi:** to wo xëjá pjonů.
+- **English:** I light up the room.
+- **Polish:** x
 
 ### Alternative Forms
 Null

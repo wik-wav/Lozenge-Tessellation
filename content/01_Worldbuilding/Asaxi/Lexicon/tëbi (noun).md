@@ -30,8 +30,12 @@ IPA: /t̪eɪbi/
 - Polish: ramię, ręka (cała)
 
 ### Example sentence
-**Bă tëbi hjá maaśù.**
-_I carry the child in my arms._
+
+#### Example 1
+
+- **Asaxi:** bă tëbi hjá maaśù.
+- **English:** I carry the child in my arms.
+- **Polish:** x
 
 ### Alternative Forms
 Null

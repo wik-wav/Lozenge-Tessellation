@@ -34,8 +34,12 @@ IPA: /ɡaɪço/
 - Polish: wychudzenie, kościstość
 
 ### Example sentence
-**Găhjo chỏ băŕa.**
-_Emaciation is caused by hunger._
+
+#### Example 1
+
+- **Asaxi:** găhjo chỏ băŕa.
+- **English:** Emaciation is caused by hunger.
+- **Polish:** x
 
 ### Alternative Forms
 Null

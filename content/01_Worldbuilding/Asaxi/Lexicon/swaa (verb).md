@@ -39,8 +39,12 @@ IPA: /sʷaa/
 - Polish: szybować
 
 ### Example sentence
-**Xajaŕă o swaa.**
-_The eagle glides in the sky._
+
+#### Example 1
+
+- **Asaxi:** xajaŕă o swaa.
+- **English:** The eagle glides in the sky.
+- **Polish:** x
 
 ### Alternative Forms
 Null

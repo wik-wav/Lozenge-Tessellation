@@ -40,11 +40,24 @@ IPA: /baɪ/
 
 ### Example sentences
 
-**1. Perlative Path (Along/Via)** John **bă shosa** aśù. _John walks **along** the road._
 
-**2. Causal Case (Because of)** John **bă topo** shěsonůná. _John does not read **because of** the rain._
+#### Example 1
 
-**3. Temporal Duration (Throughout)** John **bă mao** shěsonů. _John reads **through** the night._
+- **Asaxi:** john bă shosa aśù.
+- **English:** Perlative Path (Along/Via): John walks along the road.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** john bă topo shěsonůná.
+- **English:** Causal Case (Because of): John does not read because of the rain.
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** john bă mao shěsonů.
+- **English:** Temporal Duration (Throughout): John reads through the night.
+- **Polish:** x
 
 ### Alternative Forms
 

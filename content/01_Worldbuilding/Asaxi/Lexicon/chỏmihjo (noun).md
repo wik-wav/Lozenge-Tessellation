@@ -32,8 +32,12 @@ IPA: /t̠ʃou̯miço/
 - Polish: ząb
 
 ### Example sentence
-**Chỏmihjo chỏmă vaŕa.**
-_A tooth sits in the mouth._
+
+#### Example 1
+
+- **Asaxi:** chỏmihjo chỏmă vaŕa.
+- **English:** A tooth sits in the mouth.
+- **Polish:** x
 
 ### Alternative Forms
 x

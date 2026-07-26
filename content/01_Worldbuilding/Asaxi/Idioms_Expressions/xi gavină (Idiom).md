@@ -33,8 +33,12 @@ IPA: /ɦi gaʋinaɪ/
 
 ### Example sentence
 
-**Xi gavină! Sè no zèvo kjo?**
-_"Good day! What is your name?"_
+
+#### Example 1
+
+- **Asaxi:** xi gavină! sè no zèvo kjo?
+- **English:** Good day! What is your name?
+- **Polish:** x
 
 ### Etymology
 

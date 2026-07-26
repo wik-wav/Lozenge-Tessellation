@@ -32,8 +32,12 @@ IPA: /ɾaɡo/
 - Polish: węgiel drzewny
 
 ### Example sentence
-**To ŕago ŕăa izoŕa.**
-_Charcoal comes from fire._
+
+#### Example 1
+
+- **Asaxi:** to ŕago ŕăa izoŕa.
+- **English:** Charcoal comes from fire.
+- **Polish:** x
 
 ### Alternative Forms
 Null

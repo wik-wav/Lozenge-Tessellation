@@ -32,5 +32,9 @@ IPA: /o̞pa/
 
 ### Example sentence
 
-**To wo opashěsonů.**
-_I am about to read._
+
+#### Example 1
+
+- **Asaxi:** to wo opashěsonů.
+- **English:** I am about to read.
+- **Polish:** x

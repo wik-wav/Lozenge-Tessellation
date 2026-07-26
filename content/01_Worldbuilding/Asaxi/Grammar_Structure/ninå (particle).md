@@ -26,7 +26,7 @@ aliases:
 
 **A. Standard (Head-Final):** Placed at the end of the Cause clause.
 
-- `Sèwo [Cause] ninå, [Effect].`
+- `sèwo [Cause] ninå, [Effect].`
 
 ### Etymology
 
@@ -39,5 +39,9 @@ IPA: /ɲinau̯/
 
 ### Example sentence
 
-**To topo toponů sèwo, wo shěsonů.** _Because it is raining, I read._
 
+#### Example 1
+
+- **Asaxi:** to topo toponů sèwo, wo shěsonů.
+- **English:** Because it is raining, I read.
+- **Polish:** x

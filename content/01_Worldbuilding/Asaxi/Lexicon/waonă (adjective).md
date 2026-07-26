@@ -36,8 +36,12 @@ IPA: /wa.o.naɪ/
 - Polish: swojski, domowy, znajomy
 
 ### Example sentence
-**To o-kamm waonă xiŕa.**
-_This building is homely (feels like my world)._
+
+#### Example 1
+
+- **Asaxi:** to o-kamm waonă xiŕa.
+- **English:** This building is homely (feels like my world).
+- **Polish:** x
 
 ### Alternative Forms
 Null

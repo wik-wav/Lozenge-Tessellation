@@ -36,8 +36,12 @@ IPA: /fɾo̞nuu̯/
 - Polish: mapować
 
 ### Example sentence
-**Wo waoŕo fŕonů.**
-_I map the country._
+
+#### Example 1
+
+- **Asaxi:** wo waoŕo fŕonů.
+- **English:** I map the country.
+- **Polish:** x
 
 ### Alternative Forms
 Null

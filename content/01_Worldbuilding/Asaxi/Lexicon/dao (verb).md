@@ -19,10 +19,10 @@ tags:
 <span class="asaxi-script-alpha">dao</span>
 ### Transitivity / Valency
 _monotransitive verb_ 
-takes two, e.g. _He(1) kicked the ball(2)._
+takes two, e.g. He(1) kicked the ball(2).
 
 _ditransitive verb_ 
-takes three, e.g. _He(1) gave her(2) a flower(3)._
+takes three, e.g. He(1) gave her(2) a flower(3).
 
 ### Lexical Aspect
 - **Punctual (Achievement)** — happens in a single moment.
@@ -42,8 +42,12 @@ IPA: /da.o/
 - Polish: dać
 
 ### Example sentence
-John dåni Tom apa zèdao.
-John gave Tom apples.
+
+#### Example 1
+
+- **Asaxi:** john dåni tom apa zèdao.
+- **English:** John gave Tom apples.
+- **Polish:** x
 
 ### Alternative Forms
 x

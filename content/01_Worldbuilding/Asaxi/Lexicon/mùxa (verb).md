@@ -39,8 +39,12 @@ IPA: /mɯɦa/
 - Polish: ściskać
 
 ### Example sentence
-**Wo kae mùxa.**
-_I squeeze the fruit._
+
+#### Example 1
+
+- **Asaxi:** wo kae mùxa.
+- **English:** I squeeze the fruit.
+- **Polish:** x
 
 ### Alternative Forms
 Null

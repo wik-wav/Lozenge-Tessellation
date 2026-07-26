@@ -39,8 +39,12 @@ IPA: /ɦɯb̪va/
 - Polish: być posłusznym
 
 ### Example sentence
-**Xèshá kùŕù xùva.**
-_The servant obeys the king._
+
+#### Example 1
+
+- **Asaxi:** xèshá kùŕù xùva.
+- **English:** The servant obeys the king.
+- **Polish:** x
 
 ### Alternative Forms
 Null

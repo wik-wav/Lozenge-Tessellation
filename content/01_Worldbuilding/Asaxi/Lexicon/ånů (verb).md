@@ -36,8 +36,12 @@ IPA: /au̯nɯ/
 - Polish: podawać czas
 
 ### Example sentence
-**Åka å ånů.**
-_A clock tells the time._
+
+#### Example 1
+
+- **Asaxi:** åka å ånů.
+- **English:** A clock tells the time.
+- **Polish:** x
 
 ### Alternative Forms
 Null

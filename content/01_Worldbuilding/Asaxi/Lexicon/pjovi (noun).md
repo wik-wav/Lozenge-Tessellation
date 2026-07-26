@@ -31,8 +31,12 @@ IPA: /pʲovi/
 - Polish: laser, promień
 
 ### Example sentence
-**To pjovi hjonă xiŕa.**
-_The laser is bright._
+
+#### Example 1
+
+- **Asaxi:** to pjovi hjonă xiŕa.
+- **English:** The laser is bright.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -42,19 +42,19 @@ This structure (O-S-V) shifts the focus to _what happened to the object_, rather
 
 **1. Standard Passive (with Agent)**
 
-> **Dhè kjèpo Tom bă kjèkiŕo zèchỏnů.** `TOP` `tree` `Tom` `INSTR` `axe` `PAST-chop` _"The tree was chopped by Tom with an axe."_
+> dhè kjèpo tom bă kjèkiŕo zèchỏnů. `TOP` `tree` `Tom` `INSTR` `axe` `PAST-chop` "The tree was chopped by Tom with an axe."
 
 **2. Agentless Passive (Unknown Doer)**
 
-> **Dhè shěso zètopù.** `TOP` `book` `PAST-drop` _"The book was dropped."_
+> dhè shěso zètopù. `TOP` `book` `PAST-drop` "The book was dropped."
 
 **3. Reflexive Passive**
 
-> **Dhè wo zèxijo.** `TOP` `1SG` `PAST-see` _"I was seen."_
+> dhè wo zèxijo. `TOP` `1SG` `PAST-see` "I was seen."
 
 ### Comparison (Active vs. Passive)
 
 |Voice|Asaxi|Literal|Meaning|
 |---|---|---|---|
-|**Active**|**(To) Tom kjèpo zèchỏnů.**|Tom tree chopped.|Tom chopped the tree.|
-|**Passive**|**Dhè kjèpo Tom zèchỏnů.**|Tree(TOP) Tom chopped.|The tree was chopped by Tom.|
+|**Active**|(to) tom kjèpo zèchỏnů.|Tom tree chopped.|Tom chopped the tree.|
+|**Passive**|dhè kjèpo tom zèchỏnů.|Tree(TOP) Tom chopped.|The tree was chopped by Tom.|

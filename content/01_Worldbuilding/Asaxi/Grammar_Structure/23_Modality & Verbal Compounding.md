@@ -33,9 +33,9 @@ Derived from **[[jå (verb)|jå]]** (to want). Expresses desire to perform an ac
 
 **Example:**
 
-> **To wo jåshěsonů.** `SUBJ` `1SG` `WANT-read` _"I want to read."_
+> to wo jåshěsonů. `SUBJ` `1SG` `WANT-read` "I want to read."
 
-> **To wo zènájåijo.** `SUBJ` `1SG` `PAST-NEG-WANT-see` _"I did not want to see."_
+> to wo zènájåijo. `SUBJ` `1SG` `PAST-NEG-WANT-see` "I did not want to see."
 
 ---
 
@@ -49,11 +49,11 @@ Derived from the exertion component (`xè`) of **[[xèjå (verb)|xèjå]]** (to 
 
 **Example:**
 
-> **To wo xèshěsonů.** `SUBJ` `1SG` `TRY-read` _"I try to read."_
+> to wo xèshěsonů. `SUBJ` `1SG` `TRY-read` "I try to read."
 
 **Example (Future Conative):**
 
-> **To wo paxèhaśù.** `SUBJ` `1SG` `FUT-TRY-run` _"I will try to run."_
+> to wo paxèhaśù. `SUBJ` `1SG` `FUT-TRY-run` "I will try to run."
 
 ---
 
@@ -67,7 +67,7 @@ Strictly Post-Verbal. Expresses the cessation of an action.
 
 - **Structure:** `[Main Verb] + tomo'`.
 - **Meaning:** "Stop \[Verbing\]."
-- **Example:** **Shěsonů tomo'.** ("I stop reading.")
+- **Example:** shěsonů tomo'. ("I stop reading.")
 
 #### 5. The Distributive Aspect (Floating)
 

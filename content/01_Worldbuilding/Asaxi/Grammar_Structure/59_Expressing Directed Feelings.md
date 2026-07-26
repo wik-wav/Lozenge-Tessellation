@@ -29,7 +29,7 @@ The logic behind this structure is that one does not simply "have" a feeling rel
 
 | Component    | Function                       | Example                   |
 |:------------ |:------------------------------ |:------------------------- |
-| **Subject**  | The feeler                     | **Wo** (I/Subject)        |
+| **Subject**  | The feeler                     | **wo** (I/Subject)        |
 | **Particle** | Direction marker (Toward)      | **ni**                    |
 | **Target**   | The object of the feeling      | **John**                  |
 | **Verb**     | The feeling + Transitive Infix | **sùkixů** (sùki + x + ů) |
@@ -37,10 +37,10 @@ The logic behind this structure is that one does not simply "have" a feeling rel
 ## Examples
 
 **1. Liking / Affection**
-* **Wo ni John sùkixů.**
+* wo ni john sùkixů.
     * *Translation:* I like John. (Literally: I direct goodness toward John).
 **2. Anger / Hatred**
-* **Ni jo fůkőxů.**
+* ni jo fůkőxů.
     * *Translation:* (I) hate it. (Literally: I direct hatred toward it).
 
 **3. General Rule**

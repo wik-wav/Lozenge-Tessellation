@@ -39,8 +39,12 @@ IPA: /keɪjɯ/
 - Polish: pytać
 
 ### Example sentence
-**Då wo këjùhè!**
-_Ask me!_
+
+#### Example 1
+
+- **Asaxi:** då wo këjùhè!
+- **English:** Ask me!
+- **Polish:** x
 
 ### Alternative Forms
 Null

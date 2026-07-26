@@ -39,8 +39,12 @@ IPA: /t̻͡s̪əʋo̞/
 - Polish: zakładać
 
 ### Example sentence
-**Wo cèwo.**
-_I assume so._
+
+#### Example 1
+
+- **Asaxi:** wo cèwo.
+- **English:** I assume so.
+- **Polish:** x
 
 ### Alternative Forms
 Null

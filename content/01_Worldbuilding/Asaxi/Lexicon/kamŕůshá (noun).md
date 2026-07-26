@@ -31,8 +31,12 @@ IPA: /kamɾuwʃɑ/
 - Polish: budowniczy
 
 ### Example sentence
-**Onă kamŕůshá kamm kamŕů.**
-_The builder builds a building._
+
+#### Example 1
+
+- **Asaxi:** onă kamŕůshá kamm kamŕů.
+- **English:** The builder builds a building.
+- **Polish:** x
 
 ### Alternative Forms
 Null

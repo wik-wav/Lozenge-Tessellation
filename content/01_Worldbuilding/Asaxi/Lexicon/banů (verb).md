@@ -35,8 +35,12 @@ IPA: /banɯ/
 - Polish: być obok
 
 ### Example sentence
-**Pùbo tobo banů.**
-_A chair is beside the table._
+
+#### Example 1
+
+- **Asaxi:** pùbo tobo banů.
+- **English:** A chair is beside the table.
+- **Polish:** x
 
 ### Alternative Forms
 Null

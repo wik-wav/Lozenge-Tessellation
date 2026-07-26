@@ -32,8 +32,12 @@ IPA: /içɑʃɑ/
 - Polish: pszczoła, osa
 
 ### Example sentence
-**Ihjáshá piva nanů.**
-_A bee is on the flower._
+
+#### Example 1
+
+- **Asaxi:** ihjáshá piva nanů.
+- **English:** A bee is on the flower.
+- **Polish:** x
 
 ### Alternative Forms
 x

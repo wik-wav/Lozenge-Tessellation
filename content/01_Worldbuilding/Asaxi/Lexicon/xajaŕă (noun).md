@@ -31,8 +31,12 @@ IPA: /ɦajaɾaɪ/
 - Polish: orzeł
 
 ### Example sentence
-**Xajaŕă o vanů.**
-_The eagle is in the sky._
+
+#### Example 1
+
+- **Asaxi:** xajaŕă o vanů.
+- **English:** The eagle is in the sky.
+- **Polish:** x
 
 ### Alternative Forms
 Null

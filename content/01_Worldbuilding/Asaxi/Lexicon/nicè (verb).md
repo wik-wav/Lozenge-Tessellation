@@ -39,8 +39,12 @@ IPA: /ɲit̻͡s̪ə/
 - Polish: uczyć się
 
 ### Example sentence
-**Wo Asaxi nicè.**
-_I am learning Asaxi._
+
+#### Example 1
+
+- **Asaxi:** wo asaxi nicè.
+- **English:** I am learning Asaxi.
+- **Polish:** x
 
 ### Alternative Forms
 Null

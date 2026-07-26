@@ -34,19 +34,19 @@ While normally used as Clause Connectors (appearing _between_ clauses), the logi
 
 |Marker|Literal|Sentence-Initial Meaning|Example|
 |---|---|---|---|
-|**dzè**|But|"But wait..." / "However..." (Objection)|**Dzè, to no kjo xů?** ("But, what are you doing?")|
-|**ŕa**|And|"And then..." / "So..." (Continuation)|**Ŕa, wo paxoxo.** ("And so, I will leave.")|
+|**dzè**|But|"But wait..." / "However..." (Objection)|dzè, to no kjo xů? ("But, what are you doing?")|
+|**ŕa**|And|"And then..." / "So..." (Continuation)|ŕa, wo paxoxo. ("And so, I will leave.")|
 ### B. Exclamations (Awe & Emotion)
 
 - **wå** ("Woah!")
     - _Meaning:_ Awe, amazement, shock.
     - _Pronunciation:_ /wau̯/
-    - _Example:_ **Wå, to o-kamm dănă ůjů!** ("Woah, this building looks huge!")
+    - _Example:_ wå, to o-kamm dănă ůjů! ("Woah, this building looks huge!")
 
 - **ox** ("Oh!")
     - _Meaning:_ Emotional emphasis, longing, realization (Similar to Polish _och_).
     - _Pronunciation:_ /oɦ/ (or /oɦ/)
-    - _Example:_ **Ox, to wo no jåijo måmåni onå.** ()"Oh, how I want to see you forever.")
+    - _Example:_ ox, to wo no jåijo måmåni onå. ()"Oh, how I want to see you forever.")
 
 ---
 
@@ -64,7 +64,7 @@ Grammatically optional, but pragmatically vital. A sentence without a marker fee
 
 - **Soliciting Agreement ("Right?"):**
     - **[[ë (particle)|ë]]** (after Consonant) / **në** (after Vowel).
-    - _Ex:_ `John shánă ë` ("John is fallible, right?").
+    - _Ex:_ `john shánă ë` ("John is fallible, right?").
 - **Assertion / Frustration ("I tell you"):**
     - **[[ő (discourse) (particle)|ő]]** (after Consonant) / **wő** (after Vowel).
     - _Ex:_ `John shánă ő` ("John is fallible, he really is.").
@@ -72,15 +72,15 @@ Grammatically optional, but pragmatically vital. A sentence without a marker fee
     - **[[jỏ (particle)|jỏ]]** ("Yo" / "Hey").
     - _Function:_ Casual punctuation, calling attention, or adding a "street" vibe. Similar to English "Yo."
     - _Pronunciation:_ /jou̯/
-    - _Ex:_ **Shěsonů jỏ.** ("Reading, yo.")
+    - _Ex:_ shěsonů jỏ. ("Reading, yo.")
 - **Skepticism / Challenge ("Is that so?"):**
     - **[[e (particle)|e]]** (after Consonant) / **me** (after Vowel).
-    - _Ex:_ `John shánă ů e?` ("John is being fallible, is he?").
+    - _Ex:_ `john shánă ů e?` ("John is being fallible, is he?").
 - **Resignation ("It is what it is"):**
     - **[[aŕa (particle)|aŕa]]**.
     - _Meaning:_ Acceptance of an unchangeable situation. "Alas," "So be it."
-    - _Ex:_ **John shánă ů aŕa.** ("John is being fallible, can't help it.").
+    - _Ex:_ john shánă ů aŕa. ("John is being fallible, can't help it.").
 - **Contention ("I don't accept that"):**
     - **[[iŕè (particle)|iŕè]]**.
     - _Meaning:_ Active disagreement or shock at the statement. "I object," "No way."
-    - _Ex:_ **John shánă ů iŕè.** ("John is being fallible? I object!").
+    - _Ex:_ john shánă ů iŕè. ("John is being fallible? I object!").

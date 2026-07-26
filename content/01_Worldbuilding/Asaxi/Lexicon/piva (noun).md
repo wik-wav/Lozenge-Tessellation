@@ -32,8 +32,12 @@ IPA: /piva/
 - Polish: kwiat
 
 ### Example sentence
-**Onă piva gapo iŕo xiŕa.**
-_This flower is red._
+
+#### Example 1
+
+- **Asaxi:** onă piva gapo iŕo xiŕa.
+- **English:** This flower is red.
+- **Polish:** x
 
 ### Alternative Forms
 x

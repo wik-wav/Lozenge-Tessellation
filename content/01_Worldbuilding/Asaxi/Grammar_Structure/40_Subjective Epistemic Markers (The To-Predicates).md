@@ -43,7 +43,7 @@ Asaxi allows speakers to frame an entire preceding statement as the **Subject** 
 
 The marker `to` is frequently dropped in rapid speech. The listener understands that the preceding clause is the subject.
 
-- _Example:_ `Xő shěsonů ůchů.` ("He reads, feels like.")
+- _Example:_ `xő shěsonů ůchů.` ("He reads, feels like.")
 
 ### 3. Comparison with Objective Markers
 
@@ -62,11 +62,11 @@ The marker `to` is frequently dropped in rapid speech. The listener understands 
 
 - **Objective (`xăxiŕa`):**
     
-    > **John shěsonů xăxiŕa.** _Translation:_ "It is a fact that John reads." _Nuance:_ An undeniable, objective truth. You might have video evidence or he is doing it right in front of you.
+    > john shěsonů xăxiŕa. _Translation:_ "It is a fact that John reads." _Nuance:_ An undeniable, objective truth. You might have video evidence or he is doing it right in front of you.
     
 - **Subjective (`toxăhè`):**
     
-    > **John shěsonů toxăhè.** _Translation:_ "I am convinced John reads." _Nuance:_ A personal conviction. You haven't necessarily seen it, but you are forced to believe it by your own logic or faith.
+    > john shěsonů toxăhè. _Translation:_ "I am convinced John reads." _Nuance:_ A personal conviction. You haven't necessarily seen it, but you are forced to believe it by your own logic or faith.
     
 
 ---
@@ -77,11 +77,11 @@ The marker `to` is frequently dropped in rapid speech. The listener understands 
 
 - **Objective (`hùfwoŕa`):**
     
-    > **Ko kőnů hùfwoŕa.** _Translation:_ "It is unclear if she understands." / "She might understand." _Nuance:_ The facts are obscured. It is possible she does, possible she doesn't. The universe hasn't revealed the answer.
+    > ko kőnů hùfwoŕa. _Translation:_ "It is unclear if she understands." / "She might understand." _Nuance:_ The facts are obscured. It is possible she does, possible she doesn't. The universe hasn't revealed the answer.
     
 - **Subjective (`tohùfwo`):**
     
-    > **Ko kőnů tohùfwo.** _Translation:_ "I doubt she understands." _Nuance:_ A personal skepticism. You actively suspect she does not understand, regardless of the available evidence.
+    > ko kőnů tohùfwo. _Translation:_ "I doubt she understands." _Nuance:_ A personal skepticism. You actively suspect she does not understand, regardless of the available evidence.
     
 
 ---
@@ -92,11 +92,11 @@ The marker `to` is frequently dropped in rapid speech. The listener understands 
 
 - **Objective (`xăxăŕa`):**
     
-    > **Xő kőnů xăxăŕa.** _Translation:_ "It is as if he understands." _Nuance:_ A hypothetical comparison. He is behaving in a way that mimics understanding, but the speaker implies it is a construction or "acting."
+    > xő kőnů xăxăŕa. _Translation:_ "It is as if he understands." _Nuance:_ A hypothetical comparison. He is behaving in a way that mimics understanding, but the speaker implies it is a construction or "acting."
     
 - **Subjective (`toůchů`):**
     
-    > **Xő kőnů toůchů.** _Translation:_ "It feels like he understands." _Nuance:_ An internal impression. The speaker gets the specific "vibe" or sensation that understanding is happening, even if they can't prove it.
+    > xő kőnů toůchů. _Translation:_ "It feels like he understands." _Nuance:_ An internal impression. The speaker gets the specific "vibe" or sensation that understanding is happening, even if they can't prove it.
 
 ### 4. Universal Disambiguation (The `xiŕa` Check)
 
@@ -104,7 +104,7 @@ When the `to-` marker is dropped from the Epistemic predicate, ambiguity can ari
 
 **The Ambiguity Trap:**
 
-> **John gavină ůchů.**
+> john gavină ůchů.
 > 
 > 1. _Main Verb Interpretation:_ "John feels good." (Internal state).
 > 2. _Epistemic Interpretation:_ "(It) feels like John (is) good." (External impression).
@@ -113,12 +113,12 @@ When the `to-` marker is dropped from the Epistemic predicate, ambiguity can ari
 **The Solution:** To explicitly mark the sentence as Epistemic, restore the Stative Particle **[[xiŕa (particle)|xiŕa]]** to the subordinate clause. This acts as a "Clause Closer," forcing the final word to be interpreted as an external comment on the whole thought. Alternatively, the speaker can always restate with the `to-` marker to resolve the ambiguity.
 
 **Examples of Resolution: Impression (`ůchů`)**:
-- _Ambiguous:_ `John gavină ůchů.`
+- _Ambiguous:_ `john gavină ůchů.`
 **1.**
-- _Resolved:_ **John gavină xiŕa ůchů.** ("It feels like \[John is good\].")
+- _Resolved:_ john gavină xiŕa ůchů. ("It feels like \[John is good\].")
 **2.**
-- _Ambiguous:_ `John gavină ůchů.`
-- _Resolved:_ **John gavină toůchů.** ("It feels like \[John is good\].")
+- _Ambiguous:_ `john gavină ůchů.`
+- _Resolved:_ john gavină toůchů. ("It feels like \[John is good\].")
 
 ### 5. Temporal & Register Variation
 
@@ -131,9 +131,9 @@ The Subjective State can be placed in the past or future by inserting a Tense Pr
 - **Structure:** `to` + `[Tense]` + `[Root]`.
     
 
-> **Xő shěsonů tozèůchů.** _"It **felt like** he was reading."_ (Past Impression).
+> xő shěsonů tozèůchů. "It felt like he was reading." (Past Impression).
 
-> **Ko kőnů topatohùfwo.** _"I **will doubt** that she understands."_ (Future Doubt).
+> ko kőnů topatohùfwo. "I will doubt that she understands." (Future Doubt).
 
 #### B. The Subjective Register (`ă` / `sỏ`)
 
@@ -159,6 +159,6 @@ In this specific Epistemic construction, the binding between the Subject Marker 
 
 **Examples:**
 
-> **Xő shěsonů sỏăůchů.** _"It felt like he read."_ (Deeply subjective/poetic order).
+> xő shěsonů sỏăůchů. "It felt like he read." (Deeply subjective/poetic order).
 
-> **Xő shěsonů ăsỏxăhè.** _"I was convinced he read."_ (Internal conviction).
+> xő shěsonů ăsỏxăhè. "I was convinced he read." (Internal conviction).

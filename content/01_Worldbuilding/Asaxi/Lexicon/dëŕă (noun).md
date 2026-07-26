@@ -30,8 +30,12 @@ IPA: /deɪɾaɪ/
 - Polish: ogon
 
 ### Example sentence
-To John bwonă dëŕă ma.
-John has a beautiful tail.
+
+#### Example 1
+
+- **Asaxi:** to john bwonă dëŕă ma.
+- **English:** John has a beautiful tail.
+- **Polish:** x
 
 ### Alternative Forms
 x

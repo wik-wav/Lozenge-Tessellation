@@ -31,8 +31,12 @@ IPA: /ŋo̞ŋo̞/
 - Polish: ślimak
 
 ### Example sentence
-**Ŋoŋo vivi nanů.**
-_The snail is on the grass._
+
+#### Example 1
+
+- **Asaxi:** ŋoŋo vivi nanů.
+- **English:** The snail is on the grass.
+- **Polish:** x
 
 ### Alternative Forms
 Null

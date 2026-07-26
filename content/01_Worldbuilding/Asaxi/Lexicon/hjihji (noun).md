@@ -32,9 +32,12 @@ IPA: /çiçi/
 - Polish: chudość, mizerność
 
 ### Example sentence
-**To Tom xăhjihjijů.**
-_Tom looks very skinny._ (Lit: Tom very-thinness-visually-acts).
-* *Morphology:* `xă` (Very) + `hjihji` (Thinness) + `j` (Visual) + `ů` (Act).
+
+#### Example 1
+
+- **Asaxi:** to tom xăhjihjijů.
+- **English:** Tom looks very skinny. (Lit: Tom very-thinness-visually-acts). * *Morphology:* `xă` (Very) + `hjihji` (Thinness) + `j` (Visual) + `ů` (Act).
+- **Polish:** x
 
 ### Alternative Forms
 Null

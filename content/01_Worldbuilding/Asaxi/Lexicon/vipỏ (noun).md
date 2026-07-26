@@ -31,8 +31,12 @@ IPA: /b̪vipou̯/
 - Polish: bawełna
 
 ### Example sentence
-**Vipỏ pỏno izoŕa.**
-_Cloth is made from cotton._
+
+#### Example 1
+
+- **Asaxi:** vipỏ pỏno izoŕa.
+- **English:** Cloth is made from cotton.
+- **Polish:** x
 
 ### Alternative Forms
 Null

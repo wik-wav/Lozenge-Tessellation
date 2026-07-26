@@ -31,8 +31,12 @@ IPA: /bʷo/
 - Polish: tłuszcz, sadło
 
 ### Example sentence
-**To wo bwo chỏnů.**
-_I eat the fat._
+
+#### Example 1
+
+- **Asaxi:** to wo bwo chỏnů.
+- **English:** I eat the fat.
+- **Polish:** x
 
 ### Alternative Forms
 x

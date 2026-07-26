@@ -60,5 +60,5 @@ Null
 A collective noun representing the sum total of physical or spiritual exertion a person has expended. Based on the concept that breathing (`pxỏpxỏ`) is the fundamental unit of effort and life-force exertion, `pxỏmă` ("every breath") metaphorically quantifies the cost of living or achieving. It is classified as **Warm** because it represents active energy and the vitality required to struggle or build.
 
 ### Examples
-- **Ă wo izovivi sỏxèjå sèni ni pxỏmă sỏsùkixů.**
+- ă wo izovivi sỏxèjå sèni ni pxỏmă sỏsùkixů.
 	  _I tried with utmost effort, and so I loved the sum of toil_

@@ -39,8 +39,12 @@ IPA: /t̻͡s̪əb̪va/
 - Polish: wierzyć
 
 ### Example sentence
-**Wo waojýn cèva.**
-_I believe the story._
+
+#### Example 1
+
+- **Asaxi:** wo waojýn cèva.
+- **English:** I believe the story.
+- **Polish:** x
 
 ### Alternative Forms
 Null

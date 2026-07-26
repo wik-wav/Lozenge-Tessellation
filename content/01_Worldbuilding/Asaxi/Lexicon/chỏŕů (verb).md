@@ -35,8 +35,12 @@ IPA: /t̠ʃou̯ɾuw/
 - Polish: być głodnym
 
 ### Example sentence
-**Ă wo chỏŕů. Chỏno daokă.**
-_I am hungry. Please give me food._
+
+#### Example 1
+
+- **Asaxi:** ă wo chỏŕů. chỏno daokă.
+- **English:** I am hungry. Please give me food.
+- **Polish:** x
 
 ### Alternative Forms
 Null

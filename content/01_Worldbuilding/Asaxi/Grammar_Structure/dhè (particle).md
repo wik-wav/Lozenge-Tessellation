@@ -32,9 +32,18 @@ IPA: /ðə/
 
 ### Example sentences
 
-**Standard Passive:** **Dhè kjèpo Tom zèchỏnů.** _The tree was chopped by Tom._ (Lit: As for the tree, Tom chopped).
 
-**Agentless Passive:** **Dhè shěso zètopù.** _The book was dropped._
+#### Example 1
+
+- **Asaxi:** dhè kjèpo tom zèchỏnů.
+- **English:** Standard Passive: The tree was chopped by Tom. (Lit: As for the tree, Tom chopped).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** dhè shěso zètopù.
+- **English:** Agentless Passive: The book was dropped.
+- **Polish:** x
 
 ### Alternative Forms
 x

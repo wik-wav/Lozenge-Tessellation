@@ -31,8 +31,12 @@ IPA: /kemka/
 - Polish: klucz
 
 ### Example sentence
-**Sè wo kemka nèŕa!**
-_My key is gone! (lit. does not exist)_
+
+#### Example 1
+
+- **Asaxi:** sè wo kemka nèŕa!
+- **English:** My key is gone! (lit. does not exist)
+- **Polish:** x
 
 ### Alternative Forms
 Null

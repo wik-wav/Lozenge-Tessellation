@@ -30,8 +30,12 @@ IPA: /Ʝomau̯ʃɑ/
 - Polish: człowiek, homo sapiens
 
 ### Example sentence
-John jomåshá xiŕa.
-John is a human being (homo sapiens).
+
+#### Example 1
+
+- **Asaxi:** john jomåshá xiŕa.
+- **English:** John is a human being (homo sapiens).
+- **Polish:** x
 
 ### Alternative Forms
 x

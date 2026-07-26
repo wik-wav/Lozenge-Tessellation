@@ -39,8 +39,12 @@ IPA: /ɾo̞pʰa/
 - Polish: pluskać, chlapać
 
 ### Example sentence
-**Ŕoŕo ŕopxa.**
-_The water splashes._
+
+#### Example 1
+
+- **Asaxi:** ŕoŕo ŕopxa.
+- **English:** The water splashes.
+- **Polish:** x
 
 ### Alternative Forms
 Null

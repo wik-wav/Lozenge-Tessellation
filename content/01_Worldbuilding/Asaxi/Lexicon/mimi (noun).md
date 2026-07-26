@@ -31,8 +31,12 @@ IPA: /mimi/
 - Polish: ucho
 
 ### Example sentence
-**Mimi aichů.**
-_(My) ears hurt._
+
+#### Example 1
+
+- **Asaxi:** mimi aichů.
+- **English:** (My) ears hurt.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -40,8 +40,12 @@ IPA: /ɦopa/
 - Polish: naprzód, postępować, popychać
 
 ### Example sentence
-**Nipa, to wa xopa.**
-_Into the future, we advance._
+
+#### Example 1
+
+- **Asaxi:** nipa, to wa xopa.
+- **English:** Into the future, we advance.
+- **Polish:** x
 
 ### Alternative Forms
 Null

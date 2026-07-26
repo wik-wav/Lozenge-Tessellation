@@ -39,8 +39,12 @@ IPA: /z̪xau̯ɦa/
 - Polish: straszyć
 
 ### Example sentence
-**Mèdo hjáhjá zhåxa.**
-_The bear scares the child._
+
+#### Example 1
+
+- **Asaxi:** mèdo hjáhjá zhåxa.
+- **English:** The bear scares the child.
+- **Polish:** x
 
 ### Alternative Forms
 Null

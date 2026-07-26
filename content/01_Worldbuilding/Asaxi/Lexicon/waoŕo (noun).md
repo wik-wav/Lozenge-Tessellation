@@ -31,8 +31,12 @@ IPA: /ʋao̞ɾo̞/
 - Polish: kraj, państwo
 
 ### Example sentence
-**Itaŕi tte waoŕo.**
-_Italy is a country._
+
+#### Example 1
+
+- **Asaxi:** itaŕi tte waoŕo.
+- **English:** Italy is a country.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -41,9 +41,12 @@ IPA: /seɪonaɪ/
 - Polish: w istocie, zasadniczo
 
 ### Example sentence
-**As an adjective:**
-- Toonă shěso sëonă xiŕa.
-This book is essential.
+
+#### Example 1
+
+- **Asaxi:** toonă shěso sëonă xiŕa. this book is essential.
+- **English:** x
+- **Polish:** x
 
 ### Alternative Forms
 x

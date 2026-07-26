@@ -29,11 +29,11 @@ Questions in Asaxi are formed morphosyntactically using the particle **kè**. It
 
 - **A. Sentence-Final (Standard):** Placed at the very end of the sentence, after the verb (and potentially after discourse markers).
     - _Nuance:_ Standard, conversational, natural flow.
-    - _Example:_ **John shěsonů kè?** ("Does John read?")
+    - _Example:_ john shěsonů kè? ("Does John read?")
 
 - **B. Sentence-Initial (Formal/Alert):** Placed before the Subject Marker (`to`). It serves as a "Header" to announce an inquiry.
     - _Nuance:_ Formal, emphatic, or used to clarify complex sentences.
-    - _Example:_ **Kè John shěsonů?** ("Query: Does John read?")
+    - _Example:_ kè john shěsonů? ("Query: Does John read?")
 
 ### 2. Intonation
 
@@ -44,7 +44,7 @@ Questions in Asaxi are formed morphosyntactically using the particle **kè**. It
 
 - **Discourse Markers:** If used Final, `kè` usually precedes purely emotional markers (like `iŕa`), or replaces them if they are redundant.
 - **Negation:** To ask a negative question ("Doesn't he read?"), use the standard negative verb form + `kè`.
-    - _Example:_ **To John shěsonůná kè?** ("Does John not read?")
+    - _Example:_ to john shěsonůná kè? ("Does John not read?")
 
 ### 4. Emphatic Gemination (`kkè`)
 
@@ -56,7 +56,7 @@ For added emphasis, agitation, or surprise, the initial **k** of the particle ca
 
 **Example:**
 
-> **Wo ksá cè kkè?** `1SG` `HOW` `know` `QUES-EMPH` _"How do I know?!"_ (Agitated/Surprised).
+> wo ksá cè kkè? `1SG` `HOW` `know` `QUES-EMPH` "How do I know?!" (Agitated/Surprised).
 
 ---
 
@@ -64,15 +64,15 @@ For added emphasis, agitation, or surprise, the initial **k** of the particle ca
 
 **1. Yes/No Question (Present)**
 
-> **No wo ijo kè?** `SUBJ` `2SG` `1SG` `see` `QUES` _"Do you see me?"_
+> no wo ijo kè? `SUBJ` `2SG` `1SG` `see` `QUES` "Do you see me?"
 
 **2. Past Question (Initial)**
 
-> **Kè John zèxoxo?** `QUES` `SUBJ` `John` `PAST-depart` _"Did John depart?"_
+> kè john zèxoxo? `QUES` `SUBJ` `John` `PAST-depart` "Did John depart?"
 
 **3. Future Negative Question**
 
-> **Ko panáshěsonů kè?** `she` `FUT-NEG-read` `QUES` _"Will she not read?"_
+> ko panáshěsonů kè? `she` `FUT-NEG-read` `QUES` "Will she not read?"
 
 # Interrogative Pronouns (Wh-Words)
 
@@ -112,23 +112,23 @@ While the Wh-word itself indicates a question, the sentence usually retains the 
 
 **1. Subject Question (Who?)**
 
-> **Kshá shěsonů kè?** `who` `read` `QUES` _"Who is reading?"_
+> kshá shěsonů kè? `who` `read` `QUES` "Who is reading?"
 
 **2. Object Question (What?)**
 
-> **No kjo ijo kè?** `2SG` `what` `see` `QUES` _"What do you see?"_
+> no kjo ijo kè? `2SG` `what` `see` `QUES` "What do you see?"
 
 **3. Spatial Question (Where?)**
 
-> **John ksi aśù kè?** `John` `where` `walk` `QUES` _"Where is John walking?"_
+> john ksi aśù kè? `John` `where` `walk` `QUES` "Where is John walking?"
 
 **4. Causal Question (Why?)**
 
-> **Ko ksè xoxo kè?** `3SG.FEM` `why` `depart` `QUES` _"Why does she depart?"_
+> ko ksè xoxo kè? `3SG.FEM` `why` `depart` `QUES` "Why does she depart?"
 
 **5. Modal Question (How?)**
 
-> **John ksá shěsonů kè?** `John` `how` `read` `QUES` _"How does John read?"_ (e.g., With glasses? Quickly? Via Braille?)
+> john ksá shěsonů kè? `John` `how` `read` `QUES` "How does John read?" (e.g., With glasses? Quickly? Via Braille?)
 
 ## 4. Dropping the Question Particle (`kè`)
 
@@ -136,9 +136,9 @@ Because Wh-words (`kshá`, `kjo`, `ksi`, etc.) inherently signal missing informa
 
 **Rule:** You may drop `kè` **only** if the context clearly implies a direct inquiry.
 
-- **Full Form:** `Kshá shěsonů kè?` ("Who is reading?")
+- **Full Form:** `kshá shěsonů kè?` ("Who is reading?")
     
-- **Dropped Form:** `Kshá shěsonů?` ("Who is reading?")
+- **Dropped Form:** `kshá shěsonů?` ("Who is reading?")
     
 
 ### Constraint: Indirect Questions
@@ -149,11 +149,11 @@ Context is vital because Wh-words also function as relative pronouns in declarat
 
 **A. Direct Question (Asking)**
 
-> **Kshá cè?** `Who` `knows` `(QUES-Dropped)` _"Who knows?"_])]
+> kshá cè? `Who` `knows` `(QUES-Dropped)` "Who knows?"])]
 
 **B. Indirect Statement (Answering)**
 
-> **(Wo) kshá cèná.** `(I)` `who` `know-NEG` _"(I) do not know who."_ _Analysis:_ Here, `kshá` acts as the Object of `cèná`. Since it is a statement of ignorance rather than a request for information, `kè` is absent, but the meaning is declarative.
+> (wo) kshá cèná. `(I)` `who` `know-NEG` "(I) do not know who." _Analysis:_ Here, `kshá` acts as the Object of `cèná`. Since it is a statement of ignorance rather than a request for information, `kè` is absent, but the meaning is declarative.
 
 ## 5. Distinction from Clause Connectors
 
@@ -173,8 +173,8 @@ The **Interrogative Prefix `k-`** (derived from `kè`) marks the difference.
 
 **1. Connector (`vå`)**
 
-> **John xoxo vå...** `John` `depart` `WHEN`... _"When John departs..."_ (Sets a timeframe for another event).
+> john xoxo vå... `John` `depart` `WHEN`... "When John departs..." (Sets a timeframe for another event).
 
 **2. Wh-Word (`kvå`)**
 
-> **John kvå xoxo?** `John` `WHEN?` `depart` _"When does John depart?"_ (Requests specific time data).
+> john kvå xoxo? `John` `WHEN?` `depart` "When does John depart?" (Requests specific time data).

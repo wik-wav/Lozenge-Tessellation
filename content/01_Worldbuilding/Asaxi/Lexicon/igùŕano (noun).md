@@ -36,8 +36,12 @@ IPA: /iɡɯɾano̞/
 
 ### Example sentence
 
-**Xő igùŕano nèŕa. Xő XĂCÈSHÁ xiŕa!**
-_He isn't a toy. He's REAL!_
+
+#### Example 1
+
+- **Asaxi:** xő igùŕano nèŕa. xő xăcèshá xiŕa!
+- **English:** He isn't a toy. He's REAL!
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

@@ -31,8 +31,12 @@ IPA: /bʷopou̯/
 - Polish: koszula
 
 ### Example sentence
-**Bwopỏ ỏbwo naŕa.**
-_A shirt is on the torso._
+
+#### Example 1
+
+- **Asaxi:** bwopỏ ỏbwo naŕa.
+- **English:** A shirt is on the torso.
+- **Polish:** x
 
 ### Alternative Forms
 Null

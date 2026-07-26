@@ -35,8 +35,12 @@ IPA: /iço̞puu̯/
 - Polish: być twardym w dotyku
 
 ### Example sentence
-**Tëbi ihjopů.**
-_The arm feels bony._
+
+#### Example 1
+
+- **Asaxi:** tëbi ihjopů.
+- **English:** The arm feels bony.
+- **Polish:** x
 
 ### Alternative Forms
 Null

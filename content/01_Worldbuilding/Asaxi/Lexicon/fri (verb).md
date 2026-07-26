@@ -40,8 +40,12 @@ IPA: /fɹi/
 - Polish: uwolnić, wyzwolić
 
 ### Example sentence
-**To wo no fri.**
-_I set you free._
+
+#### Example 1
+
+- **Asaxi:** to wo no fri.
+- **English:** I set you free.
+- **Polish:** x
 
 ### Alternative Forms
 x

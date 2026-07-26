@@ -26,7 +26,12 @@ IPA: /ɲiko/
 
 ### Example sentence
 
-**To ko niko ijo.** _She sees herself._
+
+#### Example 1
+
+- **Asaxi:** to ko niko ijo.
+- **English:** She sees herself.
+- **Polish:** x
 
 ### Etymology
 

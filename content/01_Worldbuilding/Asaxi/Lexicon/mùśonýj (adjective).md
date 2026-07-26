@@ -41,8 +41,12 @@ IPA: /mɯɕonɪj/
 - English: dankly
 
 ### Example sentence
-**To vèno mùśonýj bů.**
-_The wood has gone mouldy-green._
+
+#### Example 1
+
+- **Asaxi:** to vèno mùśonýj bů.
+- **English:** The wood has gone mouldy-green.
+- **Polish:** x
 
 ### Alternative Forms
 Null

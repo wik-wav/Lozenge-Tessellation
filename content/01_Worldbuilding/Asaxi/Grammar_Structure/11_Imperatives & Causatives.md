@@ -28,11 +28,11 @@ The most common way to give an order. The command lands at the end of the senten
 
 - **Rule:** `[Verb] + hè`.
 - **Phonotactics:**
-    - **Vowel-Ending:** `kata` + `hè` → **katahè!**
-    - **Consonant / Diphthong Ending:** `h` elision occurs. `ů` + `hè` → **ůè!**
+    - **Vowel-Ending:** `kata` + `hè` → katahè!
+    - **Consonant / Diphthong Ending:** `h` elision occurs. `ů` + `hè` → ůè!
 
 - **Example:**
-    > **Na, Shěsonůè!** `You`, `read-IMP` _"You, read!"_
+    > na, shěsonůè! `You`, `read-IMP` "You, read!"
 
 #### B. Prefix Position (Emphatic Command)
 
@@ -40,7 +40,7 @@ Used to signal the order immediately. Placing `hè-` at the front creates a "Fro
 
 - **Rule:** `hè-` + `[Verb]`.
 - **Example:**
-    > **Hèshěsonů!** `IMP-read` _"Read! / Do read!"_
+    > hèshěsonů! `IMP-read` "Read! / Do read!"
 
 #### C. The Fused Imperative (`-wë`)
 
@@ -49,7 +49,7 @@ When the **Suffix** `hè` attaches to a verb ending in the Universal Verbalizer 
 - **Fusion Rule:** `ů` + `hè` → **wë**.
 - **Pronunciation:** /weː/
 - **Example:**
-    > **Shivënů** (Show off) + **hè** → **Shivënwë!** ("Show off!")
+    > **Shivënů** (Show off) + **hè** → shivënwë! ("Show off!")
 
 ---
 
@@ -60,12 +60,12 @@ To forbid an action, the negation particle **ná** is inserted before the impera
 **A. Standard Prohibition ("Don't")**
 
 - **Structure:** `[Verb] + ná + hè`.
-- **Example:** **Xůnáhè.** ("Don't do it.")
+- **Example:** xůnáhè. ("Don't do it.")
 
 **B. Explicit Ban ("No X-ing")** Used for laws or strict forbiddance. Stacks the emphatic particle `xă`.
 
 - **Structure:** `[Verb] + náxăhè`.
-- **Example:** **Aśù náxăhè!** ("NO Walking / No Trespassing!").
+- **Example:** aśù náxăhè! ("NO Walking / No Trespassing!").
 
 ---
 
@@ -96,15 +96,15 @@ The "Causer" is marked by the instrumental particle **[[bă (particle)|bă]]**.
 
 **1. Forced (Coercive)**
 
-> **To John bă shějýnshá zèxăhèshěsonů.** _"The teacher forced John to read."_
+> to john bă shějýnshá zèxăhèshěsonů. "The teacher forced John to read."
 
 **2. Allowed / Enabled (Permissive)**
 
-> **To John bă shějýnshá zèbăhèshěsonů.** _"The teacher allowed John to read."_
+> to john bă shějýnshá zèbăhèshěsonů. "The teacher allowed John to read."
 
 **3. Prohibited (Active Restriction)**
 
-> **To John bă shějýnshá zènáxăbăhèshěsonů.** _"The teacher prohibited John from reading."_
+> to john bă shějýnshá zènáxăbăhèshěsonů. "The teacher prohibited John from reading."
 
 ---
 
@@ -122,6 +122,6 @@ For extreme emphasis or to command a sudden switch in action, the speaker can us
 
 **Examples:**
 
-> **Nåhèshivënůè!** _"Show off right now!"_
+> nåhèshivënůè! "Show off right now!"
 
-> **Nåhèshivënwë!** _"Show off!"_ (Fused variant).
+> nåhèshivënwë! "Show off!" (Fused variant).

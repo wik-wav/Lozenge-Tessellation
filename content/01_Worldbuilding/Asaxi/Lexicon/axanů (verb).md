@@ -36,8 +36,12 @@ IPA: /aɦanuu̯/
 - Polish: śmiać się
 
 ### Example sentence
-**Shá axanů.**
-_The people laugh._
+
+#### Example 1
+
+- **Asaxi:** shá axanů.
+- **English:** The people laugh.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -38,4 +38,9 @@ IPA: /səɲi/
 
 ### Example sentence
 
-**Toponů sèni, wo izo kamm panápănů wő.** _It's raining, so I won't exit from the building, I tell you._
+
+#### Example 1
+
+- **Asaxi:** toponů sèni, wo izo kamm panápănů wő.
+- **English:** It's raining, so I won't exit from the building, I tell you.
+- **Polish:** x

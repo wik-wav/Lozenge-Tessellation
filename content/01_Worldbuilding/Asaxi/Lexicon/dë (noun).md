@@ -34,8 +34,12 @@ IPA: /deɪ/
 Rule: Nouns ending in a diphthong append -a.
 
 ### Example sentence
-Dăgo sháma ŕă dëa ma.
-A lot of creatures have five limbs.
+
+#### Example 1
+
+- **Asaxi:** dăgo sháma ŕă dëa ma.
+- **English:** A lot of creatures have five limbs.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -32,5 +32,9 @@ A reduplicative chain of proximal locatives: **[[o (proximal locative) (particle
 
 ### Example sentence
 
-**Topo toponů okonoko.**
-_It is raining here and there (scattered showers)._
+
+#### Example 1
+
+- **Asaxi:** topo toponů okonoko.
+- **English:** It is raining here and there (scattered showers).
+- **Polish:** x

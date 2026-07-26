@@ -35,8 +35,12 @@ IPA: /ɾo̞no̞ɦuu̯/
 - Polish: podawać napój
 
 ### Example sentence
-**Wo vashá ŕonoxů.**
-_I serve the guest a drink._
+
+#### Example 1
+
+- **Asaxi:** wo vashá ŕonoxů.
+- **English:** I serve the guest a drink.
+- **Polish:** x
 
 ### Alternative Forms
 Null

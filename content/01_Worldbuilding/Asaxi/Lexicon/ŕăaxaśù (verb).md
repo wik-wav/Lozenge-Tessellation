@@ -39,8 +39,12 @@ IPA: /ɾaɪaɦaɕɯ/
 - Polish: tańczyć
 
 ### Example sentence
-**Wa ŕăaxaśù.**
-_We dance._
+
+#### Example 1
+
+- **Asaxi:** wa ŕăaxaśù.
+- **English:** We dance.
+- **Polish:** x
 
 ### Alternative Forms
 Null

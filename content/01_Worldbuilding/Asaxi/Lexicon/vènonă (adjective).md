@@ -41,8 +41,12 @@ IPA: /ʋənonaɪ/
 - English: warmly (brown)
 
 ### Example sentence
-**To kjègo vènonă xiŕa.**
-_The trunk is chestnut-brown._
+
+#### Example 1
+
+- **Asaxi:** to kjègo vènonă xiŕa.
+- **English:** The trunk is chestnut-brown.
+- **Polish:** x
 
 ### Alternative Forms
 Null

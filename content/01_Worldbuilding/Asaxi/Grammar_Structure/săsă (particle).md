@@ -28,7 +28,7 @@ aliases:
 
 Can be used as a standalone word (`săsă`) or reduced to a prefix (`să-`) when attaching to units like days.
 
-**Sense 2 (negative polarity).** Under negation (`fůma`, `nèŕa`, `...ná`), **săsă** reads as "(not) at all, (not) any" — the full extent, denied: `hùwaśbiwa săsă fůma` ("has no hind legs at all"). First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+**Sense 2 (negative polarity).** Under negation (`fůma`, `nèŕa`, `...ná`), **săsă** reads as "(not) at all, (not) any" — the full extent, denied: `hùwaśbiwa săsă fůma` ("has no hind legs at all"). First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].
 
 ### Pronunciation
 
@@ -36,16 +36,27 @@ IPA: /saɪsaɪ/
 
 ### Example sentence
 
-**Săhwo topo zètoponů.**
-_It rained all yesterday._
 
-**To wo săsă apo zèchỏnů.**
-_I ate the entire apple._
+#### Example 1
+
+- **Asaxi:** săhwo topo zètoponů.
+- **English:** It rained all yesterday.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo săsă apo zèchỏnů.
+- **English:** I ate the entire apple.
+- **Polish:** x
 
 ### Example Sentence 2
 
-> **Xő pỏpỏ săsă nèŕa!**
-> "He isn't a rabbit at all!"
+
+#### Example 1
+
+- **Asaxi:** xő pỏpỏ săsă nèŕa!
+- **English:** He isn't a rabbit at all!
+- **Polish:** x
 
 ### Etymology
 

@@ -31,8 +31,12 @@ IPA: /pɯɡo̞/
 - Polish: stołek
 
 ### Example sentence
-**Pùgo pùbo hjihjină.**
-_A stool is a small chair._
+
+#### Example 1
+
+- **Asaxi:** pùgo pùbo hjihjină.
+- **English:** A stool is a small chair.
+- **Polish:** x
 
 ### Alternative Forms
 Null

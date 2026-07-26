@@ -30,14 +30,14 @@ Therefore, they can **ONLY** be used for the **Speaker** (First Person "I/We") o
 |---|---|---|
 |**Perspective**|**Internal Only** (1st Person)|**External / Observer** (Any Person)|
 |**Logic**|"I am feeling this now."|"It seems/feels like..."|
-|**Usage**|_I am immersed in pain._|_He looks like he is in pain._|
-|**Valid Subjects**|`wo`, `wa` (or Narrative POV)|`wo`, `xő`, `ko`, `Tom`, etc.|
+|**Usage**|I am immersed in pain.|He looks like he is in pain.|
+|**Valid Subjects**|`wo`, `wa` (or Narrative POV)|`wo`, `xő`, `ko`, `tom`, etc.|
 
 **Examples of Constraint:**
 
-- **Correct:** **Ă wo mijůchů.** ("I am feeling..." - My experience).
+- **Correct:** ă wo mijůchů. ("I am feeling..." - My experience).
 - **Incorrect:** ~~Ă John mijůchů.~~ ("John is feeling..." - You cannot inhabit John's mind).
-- **Correct Alternative:** **To John ůchů.** ("John feels..." - Fact) OR **John... toůchů.** ("It feels like John..." - Epistemic).
+- **Correct Alternative:** to john ůchů. ("John feels..." - Fact) OR john... toůchů. ("It feels like John..." - Epistemic).
 
 ---
 
@@ -62,7 +62,7 @@ Used to describe feelings, sensations, or internal states occurring _right now_.
 
 **Example:**
 
-> **Ă wo no midăsùki.** `SUBJ(Int)` `1SG` `2SG` `SUBJ.PRES-love` _"I so-love you."_ / _"I am feeling such love for you right now."_])]
+> ă wo no midăsùki. `SUBJ(Int)` `1SG` `2SG` `SUBJ.PRES-love` "I so-love you." / "I am feeling such love for you right now."])]
 
 ---
 
@@ -76,7 +76,7 @@ Used for memories, nostalgia, or events that exist primarily in the speaker's mi
 
 **Example:**
 
-> **Ă wa sỏtètáka.** `SUBJ(Int)` `1PL` `MEMORIC-fight` _"We so-fought."_ / _"I remember how we fought."_
+> ă wa sỏtètáka. `SUBJ(Int)` `1PL` `MEMORIC-fight` "We so-fought." / "I remember how we fought."
 
 ---
 
@@ -84,15 +84,15 @@ Used for memories, nostalgia, or events that exist primarily in the speaker's mi
 
 **Scenario A: Pain (Reporting vs. Feeling)**
 
-- **Objective:** `To wo tètá ůchů.`
-    - _"I feel pain."_ (Reporting a symptom to a doctor).
-- **Subjective:** `Ă wo tètá mijůchů.`
-    - _"I am **feeling** pain!"_ (Crying out in the moment).
+- **Objective:** `to wo tètá ůchů.`
+    - "I feel pain." (Reporting a symptom to a doctor).
+- **Subjective:** `ă wo tètá mijůchů.`
+    - "I am feeling pain!" (Crying out in the moment).
 
 **Scenario B: Third Person (The Boundary)**
 
-- **Objective:** `To John tètá ůchů.`
-    - _"John feels pain."_ (Fact).
-- **Epistemic:** `John tètá toůchů.`
-    - _"It feels like John is in pain."_ (My impression of him).
-- **Invalid:** ~~Ă John tètá mijůchů.~~ (Impossible; I cannot be inside John).
+- **Objective:** `to john tètá ůchů.`
+    - "John feels pain." (Fact).
+- **Epistemic:** `john tètá toůchů.`
+    - "It feels like John is in pain." (My impression of him).
+- **Invalid:** ~~ă john tètá mijůchů.~~ (Impossible; I cannot be inside John).

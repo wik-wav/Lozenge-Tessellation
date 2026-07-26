@@ -39,8 +39,12 @@ IPA: /sɯka/
 - Polish: lubić
 
 ### Example sentence
-**Wo chă sùka.**
-_I like tea._
+
+#### Example 1
+
+- **Asaxi:** wo chă sùka.
+- **English:** I like tea.
+- **Polish:** x
 
 ### Alternative Forms
 Null

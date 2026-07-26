@@ -30,7 +30,13 @@ Derived from **[[pù- (relational locative) (particle)|pù-]]** (Below).
 
 ### Example sentence
 
-**To [speaker] pùjýnă [shouting]sů.** _The speaker shouts **less loudly** (hyena-like)._
+#### Example 1
 
-- _Adverb:_ `jýnă` (Hyena-like/Loud)
-- _Verbal Mode:_ `-s-` (Auditory/Sounding).
+- **Asaxi:** to [speaker] pùjýnă [shouting]sů.
+- **English:** The speaker shouts less loudly (hyena-like).
+- **Polish:** x
+
+### Analysis
+
+- **Adverb:** `jýnă` (hyena-like/loud)
+- **Verbal mode:** `-s-` (auditory/sounding)

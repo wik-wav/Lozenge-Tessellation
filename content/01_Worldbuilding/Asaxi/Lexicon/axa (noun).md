@@ -31,8 +31,12 @@ IPA: /aɦa/
 - Polish: śmiech
 
 ### Example sentence
-**Xa axa zèminů.**
-_They heard laughter._
+
+#### Example 1
+
+- **Asaxi:** xa axa zèminů.
+- **English:** They heard laughter.
+- **Polish:** x
 
 ### Alternative Forms
 x

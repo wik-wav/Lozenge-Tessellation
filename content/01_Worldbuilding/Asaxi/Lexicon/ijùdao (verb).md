@@ -39,8 +39,12 @@ IPA: /ijɯdao̞/
 - Polish: opowiadać
 
 ### Example sentence
-**Wo ko waojýn ijùdao.**
-_I tell her the story._
+
+#### Example 1
+
+- **Asaxi:** wo ko waojýn ijùdao.
+- **English:** I tell her the story.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -34,8 +34,12 @@ IPA: /iꞲau̯/
 Refers to the specific instance of something being seen ("That was quite a sight") or the visual field itself.
 
 ### Example sentence
-**Toonă o-wao gavină ijå xiŕa.**
-_This world is a good sight (beautiful view)._
+
+#### Example 1
+
+- **Asaxi:** toonă o-wao gavină ijå xiŕa.
+- **English:** This world is a good sight (beautiful view).
+- **Polish:** x
 
 ### Alternative Forms
 x

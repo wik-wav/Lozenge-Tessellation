@@ -37,8 +37,12 @@ IPA: /bafʷaɪ/
 
 ### Example sentence
 
-**Ni bafwai aśùhè.**
-_"Walk to the left."_
+
+#### Example 1
+
+- **Asaxi:** ni bafwai aśùhè.
+- **English:** Walk to the left.
+- **Polish:** x
 
 ### Alternative Forms
 

@@ -31,8 +31,12 @@ IPA: /daɪmaka/
 - Polish: beczka
 
 ### Example sentence
-**Ŕoŕo dămaka vanů.**
-_Water is in the barrel._
+
+#### Example 1
+
+- **Asaxi:** ŕoŕo dămaka vanů.
+- **English:** Water is in the barrel.
+- **Polish:** x
 
 ### Alternative Forms
 Null

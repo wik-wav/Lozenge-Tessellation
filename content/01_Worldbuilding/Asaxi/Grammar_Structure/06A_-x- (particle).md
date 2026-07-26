@@ -22,7 +22,7 @@ IPA: /ɦ/
 
 ### Example sentence
 
-**To John wo apoxů.** _John apples me._ (Context: He throws an apple at me or gives me one).
+to john wo apoxů. John apples me. (Context: He throws an apple at me or gives me one).
 
 ### Etymology
 

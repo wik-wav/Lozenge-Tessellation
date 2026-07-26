@@ -36,8 +36,12 @@ IPA: /au̯kamo̞bo̞/
 
 ### Example sentence
 
-**Sè hja åkamoba dzo'.**
-_Their mainsprings break._
+
+#### Example 1
+
+- **Asaxi:** sè hja åkamoba dzo'.
+- **English:** Their mainsprings break.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

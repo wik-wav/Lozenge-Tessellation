@@ -31,8 +31,12 @@ IPA: /bi/
 - Polish: linia, poziom, rząd, granica
 
 ### Example sentence
-**To shěsa bi xiŕa.**
-_The books are (in) a line._
+
+#### Example 1
+
+- **Asaxi:** to shěsa bi xiŕa.
+- **English:** The books are (in) a line.
+- **Polish:** x
 
 ### Alternative Forms
 Null

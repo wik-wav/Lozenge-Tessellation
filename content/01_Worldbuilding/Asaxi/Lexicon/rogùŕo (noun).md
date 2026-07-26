@@ -31,8 +31,12 @@ IPA: /ɹo̞ɡɯɾo̞/
 - Polish: łańcuch
 
 ### Example sentence
-**Rogùŕo ŋogo kma.**
-_A chain holds the anchor._
+
+#### Example 1
+
+- **Asaxi:** rogùŕo ŋogo kma.
+- **English:** A chain holds the anchor.
+- **Polish:** x
 
 ### Alternative Forms
 Null

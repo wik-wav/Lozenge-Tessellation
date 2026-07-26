@@ -36,8 +36,12 @@ IPA: /pʲo̞no̞nuu̯/
 - Polish: odwzorowywać
 
 ### Example sentence
-**Wo shá pjononů.**
-_I depict the person._
+
+#### Example 1
+
+- **Asaxi:** wo shá pjononů.
+- **English:** I depict the person.
+- **Polish:** x
 
 ### Alternative Forms
 Null

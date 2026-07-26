@@ -31,8 +31,12 @@ IPA: /t̻͡s̪pou̯ka/
 - Polish: miotła
 
 ### Example sentence
-**Cpỏka cùpỏ ůshů.**
-_A broom sweeps the dust._
+
+#### Example 1
+
+- **Asaxi:** cpỏka cùpỏ ůshů.
+- **English:** A broom sweeps the dust.
+- **Polish:** x
 
 ### Alternative Forms
 Null

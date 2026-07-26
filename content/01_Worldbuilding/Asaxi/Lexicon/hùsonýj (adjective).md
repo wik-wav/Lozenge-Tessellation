@@ -41,8 +41,12 @@ IPA: /xɯsonɪj/
 - English: wanly
 
 ### Example sentence
-**To ko hùsonýj bů.**
-_She is looking pale and sallow._
+
+#### Example 1
+
+- **Asaxi:** to ko hùsonýj bů.
+- **English:** She is looking pale and sallow.
+- **Polish:** x
 
 ### Alternative Forms
 Null

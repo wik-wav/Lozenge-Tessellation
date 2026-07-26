@@ -30,8 +30,12 @@ IPA: /vawo/
 - Polish: wnętrze
 
 ### Example sentence
-**Apo kjèmaka vawo vanů.**
-_An apple is in the inside of the basket._
+
+#### Example 1
+
+- **Asaxi:** apo kjèmaka vawo vanů.
+- **English:** An apple is in the inside of the basket.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -35,12 +35,19 @@ IPA: /jau̯/
 
 ### Example sentence
 
-**To wo zènájåijo.** _I did not want to see._
+#### Example 1
 
-|Asaxi|**To**|**wo**|**zè-ná-jå-ijo**|
+- **Asaxi:** to wo zènájåijo.
+- **English:** I did not want to see.
+- **Polish:** x
+
+### Analysis
+
+|Asaxi|to|wo|zè-ná-jå-ijo|
 |---|---|---|---|
 |**Morphemes**|to|wo|zè - ná - jå - ijo|
 |**Gloss**|SUBJ|1SG|PST-NEG-DES-see|
+
 ### Alternative Forms
 
 - x

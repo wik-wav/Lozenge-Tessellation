@@ -39,8 +39,12 @@ IPA: /ɦo̞bɯ/
 - Polish: kłaniać się
 
 ### Example sentence
-**Wo xobù.**
-_I bow._
+
+#### Example 1
+
+- **Asaxi:** wo xobù.
+- **English:** I bow.
+- **Polish:** x
 
 ### Alternative Forms
 Null

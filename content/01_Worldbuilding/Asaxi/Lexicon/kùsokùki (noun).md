@@ -31,8 +31,12 @@ IPA: /kɯso̞kɯki/
 - Polish: mucha
 
 ### Example sentence
-**Kùsokùki chỏno nanů.**
-_A fly is on the food._
+
+#### Example 1
+
+- **Asaxi:** kùsokùki chỏno nanů.
+- **English:** A fly is on the food.
+- **Polish:** x
 
 ### Alternative Forms
 Null

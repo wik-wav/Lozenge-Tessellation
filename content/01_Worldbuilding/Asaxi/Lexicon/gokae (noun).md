@@ -31,8 +31,12 @@ IPA: /ɡo̞kae̞/
 - Polish: orzech
 
 ### Example sentence
-**Gokae kjèpo nanů.**
-_Nuts are on the tree._
+
+#### Example 1
+
+- **Asaxi:** gokae kjèpo nanů.
+- **English:** Nuts are on the tree.
+- **Polish:** x
 
 ### Alternative Forms
 Null

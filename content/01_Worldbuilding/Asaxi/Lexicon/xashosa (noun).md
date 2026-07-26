@@ -32,8 +32,12 @@ IPA: /ɦaɕosa/
 - Polish: most
 
 ### Example sentence
-**Xashosa shosaŕo xanů.**
-_The bridge spans above the river._
+
+#### Example 1
+
+- **Asaxi:** xashosa shosaŕo xanů.
+- **English:** The bridge spans above the river.
+- **Polish:** x
 
 ### Alternative Forms
 x

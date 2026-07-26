@@ -31,8 +31,12 @@ IPA: /sau̯ɾau̯/
 - Polish: pieśń, piosenka, melodia
 
 ### Example sentence
-**O-såŕå jovină.**
-_This song is beautiful._
+
+#### Example 1
+
+- **Asaxi:** o-såŕå jovină.
+- **English:** This song is beautiful.
+- **Polish:** x
 
 ### Alternative Forms
 Null

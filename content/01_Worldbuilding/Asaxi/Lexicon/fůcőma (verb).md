@@ -38,8 +38,12 @@ IPA: /fuu̯t̻͡s̪oɪma/
 - Polish: posiadać nieświadomie; nie doceniać (tego co się ma)
 
 ### Example sentence
-John dăŕăijo fůcőma.
-John has great strength without being aware of it.
+
+#### Example 1
+
+- **Asaxi:** john dăŕăijo fůcőma.
+- **English:** John has great strength without being aware of it.
+- **Polish:** x
 
 ### Alternative Forms
 - x

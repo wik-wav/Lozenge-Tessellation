@@ -37,4 +37,9 @@ IPA: /tʃɚnɑ/
 
 ### Example sentence
 
-**John aśù chěná, wo pahaśù.** _Unless John walks, I will run._
+
+#### Example 1
+
+- **Asaxi:** john aśù chěná, wo pahaśù.
+- **English:** Unless John walks, I will run.
+- **Polish:** x

@@ -32,8 +32,12 @@ IPA: /fuu̯koɪ/
 - Polish: nienawiść, odraza, brak empatii
 
 ### Example sentence
-**To wo ni xő fůkő ůchů.**
-_I feel hatred towards him._
+
+#### Example 1
+
+- **Asaxi:** to wo ni xő fůkő ůchů.
+- **English:** I feel hatred towards him.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /aɪjawo/
 - Polish: krzyk, wołanie
 
 ### Example sentence
-**Xa ăjawo zèminů.**
-_They heard a scream._
+
+#### Example 1
+
+- **Asaxi:** xa ăjawo zèminů.
+- **English:** They heard a scream.
+- **Polish:** x
 
 ### Alternative Forms
 Null

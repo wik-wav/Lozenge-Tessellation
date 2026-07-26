@@ -31,8 +31,12 @@ IPA: /jeɪbo̞/
 - Polish: podbródek
 
 ### Example sentence
-**Jëbo chỏmă pùŕa.**
-_The chin is below the mouth._
+
+#### Example 1
+
+- **Asaxi:** jëbo chỏmă pùŕa.
+- **English:** The chin is below the mouth.
+- **Polish:** x
 
 ### Alternative Forms
 Null

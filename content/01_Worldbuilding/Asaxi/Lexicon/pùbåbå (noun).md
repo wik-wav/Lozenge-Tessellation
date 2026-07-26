@@ -30,8 +30,12 @@ IPA: /pɯbau̯bau̯/
 - Polish: mięśnie pośladkowe
 
 ### Example sentence
-**To pùbåba gavină zèxỏbåbåŕů.**
-_The glutes are well defined._
+
+#### Example 1
+
+- **Asaxi:** to pùbåba gavină zèxỏbåbåŕů.
+- **English:** The glutes are well defined.
+- **Polish:** x
 
 ### Alternative Forms
 Null

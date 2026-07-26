@@ -26,12 +26,12 @@ tags:
 **1. Standard Negation (Suffix)** In the **Unmarked Non-Past** tense, `ná` attaches to the **end** of the verb or predicate.
 
 - _Structure:_ `[Verb]-ná`
-- _Example:_ **To wo shěsonůná.** ("I do not read.")
+- _Example:_ to wo shěsonůná. ("I do not read.")
 
 **2. Tensed Negation (Infix)** When a Tense Prefix (`zè-`, `pa-`) is present, `ná` migrates to the **front** of the verb root, sitting inside the tense frame.
 
 - _Structure:_ `[Tense] + ná + (x) + [Root]`
-- _Example:_ **To wo pazènáshěsonů.** ("I will not have read.")
+- _Example:_ to wo pazènáshěsonů. ("I will not have read.")
 
 **3. Stative Fusion (`nè-`)** When negating **Pure Existence** (`xi`), `ná` fuses with the root to form **nè**.
 
@@ -42,7 +42,7 @@ tags:
 **4. Prohibitive Mood (Command)** Used with the Imperative particle `hè` to forbid an action.
 
 - _Structure:_ `[Verb] + ná + hè`
-- _Example:_ **Aśùnáhè!** ("Do not walk!")
+- _Example:_ aśùnáhè! ("Do not walk!")
 
 ### Pronunciation
 
@@ -50,9 +50,24 @@ IPA: /nɑ/
 
 ### Example sentences
 
-**Standard:** **To wo aśùná.** _I do not walk._
-**Tensed:** **To wo zènâxijo.** _I did not see._ (Note: `ná` + `x` + `ijo`).
-**Conditional (Unless):** **John aśù chěná...** _Unless John walks..._ (Lit: if-not John walks).
+
+#### Example 1
+
+- **Asaxi:** to wo aśùná.
+- **English:** Standard: I do not walk.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo zènâxijo.
+- **English:** Tensed: I did not see. (Note: `ná` + `x` + `ijo`).
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** john aśù chěná...
+- **English:** Conditional (Unless): Unless John walks... (Lit: if-not John walks).
+- **Polish:** x
 
 ### Antonyms
 

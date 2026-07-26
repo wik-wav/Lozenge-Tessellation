@@ -63,10 +63,15 @@ Null
 - **Source Agreement:** **Warm** (Root `pjovi` is Warm).
 
 ### Example sentences
-**Adjective:**
-**Toonă shosa pjovină xiŕa.**
-_The road is straight (laser-like)._
 
-**Adverb (Manner):**
-**To wo pjovină aśù.**
-_I walk without changing course._ (I walk laser-ly).
+#### Example 1
+
+- **Asaxi:** toonă shosa pjovină xiŕa.
+- **English:** Adjective: The road is straight (laser-like).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo pjovină aśù.
+- **English:** Adverb (Manner): I walk without changing course. (I walk laser-ly).
+- **Polish:** x

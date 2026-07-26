@@ -34,7 +34,12 @@ Abstract / Logic
 
 ### Example sentence
 
-**Ko pashěsonů hùfwoŕa.** _It is uncertain if she will read._ / _She might read._ (Lit: She will-read is-undercloud).
+
+#### Example 1
+
+- **Asaxi:** ko pashěsonů hùfwoŕa.
+- **English:** It is uncertain if she will read. / She might read. (Lit: She will-read is-undercloud).
+- **Polish:** x
 
 ### Alternative Forms
 x

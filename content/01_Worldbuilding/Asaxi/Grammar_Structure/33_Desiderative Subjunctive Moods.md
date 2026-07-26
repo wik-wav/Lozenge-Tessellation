@@ -28,7 +28,7 @@ These particles appear at the **end** of the clause (Head-Final).
 
 **Example:**
 
-> **Xő jo topù chě, wo ma xăxă.** `3SG.M` `3SG.INAN` `drop` `IF`, `1SG` `have` `WOULD` _"If he dropped it, I **would** have (it)... (yes, yes...)"_
+> xő jo topù chě, wo ma xăxă. `3SG.M` `3SG.INAN` `drop` `IF`, `1SG` `have` `WOULD` "If he dropped it, I would have (it)... (yes, yes...)"
 
 ---
 
@@ -45,7 +45,7 @@ These particles mark the preceding clause as a **Desire** or **Wish**. They repl
 
 **Example:**
 
-> **To wo gajýnnshá niŕa dăxă.** `SUBJ` `1SG` `were-hyena` `BECOME` `HOPEFULLY` _"I wish I were a were-hyena."_ (Lit: I become were-hyena, high-elephant).
+> to wo gajýnnshá niŕa dăxă. `SUBJ` `1SG` `were-hyena` `BECOME` `HOPEFULLY` "I wish I were a were-hyena." (Lit: I become were-hyena, high-elephant).
 
 #### B. Negative Desire / Aversive (`pùxă`)
 
@@ -56,18 +56,18 @@ These particles mark the preceding clause as a **Desire** or **Wish**. They repl
 
 **Example:**
 
-> **Topo toponů pùxă.** `Rain` `raining` `HOPE-NOT` _"I hope it doesn't rain."_ (Lit: Rain rains, under-want).
+> topo toponů pùxă. `Rain` `raining` `HOPE-NOT` "I hope it doesn't rain." (Lit: Rain rains, under-want).
 
 #### C. The Prayer / Desperate Wish (`xădăchỏxă`)
 
 **Function:** **Supplicative Marker** ("Please God", "By the Deity"). **Nuance:** An intense, almost begging desire. It invokes the deity of desire directly.
 
-- **Etymology:** **xă** (Yes) + **[[Dă Chỏ (deity)|Dă Chỏ]]** (Deity of Desire) + **xă** (Yes).
+- **Etymology:** **xă** (Yes) + **[[Dă Chỏ (deity)|dă chỏ]]** (Deity of Desire) + **xă** (Yes).
 - **Literal:** "Yes, Dă Chỏ, Yes."
 
 **Example:**
 
-> **Ko wő ijo xădăchỏxă.** `She` `me` `see` `PRAYER` _"Please, let her see me."_ / _"Oh Dă Chỏ, may she see me."_
+> ko wő ijo xădăchỏxă. `She` `me` `see` `PRAYER` "Please, let her see me." / "Oh Dă Chỏ, may she see me."
 
 ---
 

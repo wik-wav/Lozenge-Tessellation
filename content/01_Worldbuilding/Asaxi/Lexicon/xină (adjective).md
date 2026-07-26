@@ -41,8 +41,12 @@ IPA: /ɦinaɪ/
 - English: radiantly, cheerfully
 
 ### Example sentence
-**To ko xină shá xiŕa.**
-_She is a radiant, sunny soul._
+
+#### Example 1
+
+- **Asaxi:** to ko xină shá xiŕa.
+- **English:** She is a radiant, sunny soul.
+- **Polish:** x
 
 ### Alternative Forms
 Null

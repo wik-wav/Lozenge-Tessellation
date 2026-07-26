@@ -31,14 +31,17 @@ IPA: /suu̯/
 
 ### Example sentence
 
-**Standard:**
-**Tom, shěsonůsů.**
-_Tom, continue reading._
+#### Example 1
 
-**Idiomatic:**
+- **Asaxi:** tom, shěsonůsů.
+- **English:** Standard: Tom, continue reading.
+- **Polish:** x
 
-**John, ni jåhjo sůijo.**
-_John, don't give up!_ (Keep your eyes on the prize).
+#### Example 2
+
+- **Asaxi:** john, ni jåhjo sůijo.
+- **English:** Idiomatic: John, don't give up! (Keep your eyes on the prize.)
+- **Polish:** x
 
 ### Etymology
 

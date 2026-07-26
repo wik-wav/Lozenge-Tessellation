@@ -40,4 +40,9 @@ IPA: /dauɲi/
 
 ### Example sentence
 
-**John dåni Tom apa zèdao.** _John gave apples to Tom._
+
+#### Example 1
+
+- **Asaxi:** john dåni tom apa zèdao.
+- **English:** John gave apples to Tom.
+- **Polish:** x

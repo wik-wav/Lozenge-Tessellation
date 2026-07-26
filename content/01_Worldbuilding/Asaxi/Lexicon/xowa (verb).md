@@ -39,8 +39,12 @@ IPA: /ɦo̞ʋa/
 - Polish: prowadzić
 
 ### Example sentence
-**Kùŕù shá xowa.**
-_The king leads the people._
+
+#### Example 1
+
+- **Asaxi:** kùŕù shá xowa.
+- **English:** The king leads the people.
+- **Polish:** x
 
 ### Alternative Forms
 Null

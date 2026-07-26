@@ -25,7 +25,12 @@ tags:
 IPA: /ken.nɑ/
 
 ### Example sentence
-**Topo tomo ken.ná.** _The rain cannot stop._
+
+#### Example 1
+
+- **Asaxi:** topo tomo ken.ná.
+- **English:** The rain cannot stop.
+- **Polish:** x
 
 ### Etymology
 Borrowed from Singlish **"Cannot"** (or `ken` + `ná`).

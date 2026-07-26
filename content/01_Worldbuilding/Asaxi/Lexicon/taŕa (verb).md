@@ -39,8 +39,12 @@ IPA: /t̪aɾa/
 - Polish: słuchać
 
 ### Example sentence
-**Wo jýno taŕa.**
-_I listen to the sound._
+
+#### Example 1
+
+- **Asaxi:** wo jýno taŕa.
+- **English:** I listen to the sound.
+- **Polish:** x
 
 ### Alternative Forms
 Null

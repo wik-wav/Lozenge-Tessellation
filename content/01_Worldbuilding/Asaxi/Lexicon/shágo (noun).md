@@ -31,8 +31,12 @@ IPA: /ʃɑɡo̞/
 - Polish: posąg
 
 ### Example sentence
-**Shágo gaŕo vanů.**
-_A statue is in the city._
+
+#### Example 1
+
+- **Asaxi:** shágo gaŕo vanů.
+- **English:** A statue is in the city.
+- **Polish:** x
 
 ### Alternative Forms
 Null

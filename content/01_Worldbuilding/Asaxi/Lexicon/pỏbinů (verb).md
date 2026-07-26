@@ -36,8 +36,12 @@ IPA: /pou̯binuu̯/
 - Polish: szyć
 
 ### Example sentence
-**Wo pỏno pỏbinů.**
-_I sew the cloth._
+
+#### Example 1
+
+- **Asaxi:** wo pỏno pỏbinů.
+- **English:** I sew the cloth.
+- **Polish:** x
 
 ### Alternative Forms
 Null

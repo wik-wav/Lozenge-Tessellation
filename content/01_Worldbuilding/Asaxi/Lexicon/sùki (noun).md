@@ -31,8 +31,12 @@ IPA: /sɯki/
 - Polish: miłość, sympatia, upodobanie
 
 ### Example sentence
-**Wo då no sùki ůchů.**
-_I feel love for you._
+
+#### Example 1
+
+- **Asaxi:** wo då no sùki ůchů.
+- **English:** I feel love for you.
+- **Polish:** x
 
 ### Alternative Forms
 Null
@@ -52,5 +56,5 @@ Null
 
 ### Usage Note
 Distinct from the verb **[[sùkixů (verb)|sùki]]** (To like).
-* **Verb:** `Wo no sùki.` (I like you).
-* **Noun:** `To sùki gavină xiŕa.` (Love is good).
+* **Verb:** `wo no sùki.` (I like you).
+* **Noun:** `to sùki gavină xiŕa.` (Love is good).

@@ -34,8 +34,12 @@ IPA: /ou̯bou̯ɾuu̯/
 - Polish: tracić rzeźbę, robić się miękkim
 
 ### Example sentence
-**Sèwo haśùná, to wo ỏbỏŕů.**
-_Because I do not run, I am losing definition._
+
+#### Example 1
+
+- **Asaxi:** sèwo haśùná, to wo ỏbỏŕů.
+- **English:** Because I do not run, I am losing definition.
+- **Polish:** x
 
 ### Alternative Forms
 Null

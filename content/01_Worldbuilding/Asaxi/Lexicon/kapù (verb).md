@@ -39,8 +39,12 @@ IPA: /kapɯ/
 - Polish: kopać
 
 ### Example sentence
-**Wo pxỏ kapù.**
-_I kick the ball._
+
+#### Example 1
+
+- **Asaxi:** wo pxỏ kapù.
+- **English:** I kick the ball.
+- **Polish:** x
 
 ### Alternative Forms
 Null

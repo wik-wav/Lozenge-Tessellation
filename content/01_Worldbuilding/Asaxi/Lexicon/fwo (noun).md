@@ -31,8 +31,12 @@ IPA: /fʷo/
 - Polish: mgła, chmura
 
 ### Example sentence
-**Fwo toponů.** 
-_Fog is descending._ (Lit: Fog is raining/placing itself).
+
+#### Example 1
+
+- **Asaxi:** fwo toponů.
+- **English:** Fog is descending. (Lit: Fog is raining/placing itself).
+- **Polish:** x
 
 ### Alternative Forms
 x

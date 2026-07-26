@@ -19,7 +19,7 @@ tags:
 <span class="asaxi-script-alpha">chěcho'</span>
 ### Transitivity / Valency
 _monotransitive verb_ 
-takes two, e.g. _He(1) kicked the ball(2)._
+takes two, e.g. He(1) kicked the ball(2).
 
 ### Lexical Aspect
 - **Punctual (Achievement)** — happens in a single moment.
@@ -39,8 +39,12 @@ IPA: /t̠ʃɚt̠ʃoʔ/
 - Polish: zamykać coś
 
 ### Example sentence
-John shěsokam zèchěcho'.
-John closed the library
+
+#### Example 1
+
+- **Asaxi:** john shěsokam zèchěcho'.
+- **English:** John closed the library
+- **Polish:** x
 
 ### Alternative Forms
 x

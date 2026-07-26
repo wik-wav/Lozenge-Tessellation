@@ -29,4 +29,9 @@ Stacks on top of Tense prefixes.
 
 ### Example sentence
 
-**Kozèxoxo.** _He departed long ago._
+
+#### Example 1
+
+- **Asaxi:** kozèxoxo.
+- **English:** He departed long ago.
+- **Polish:** x

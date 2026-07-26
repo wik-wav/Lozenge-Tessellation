@@ -39,8 +39,12 @@ IPA: /kuu̯ɦo̞/
 - Polish: nienawidzić
 
 ### Example sentence
-**Wo tètáshá kůxo.**
-_I hate the enemy._
+
+#### Example 1
+
+- **Asaxi:** wo tètáshá kůxo.
+- **English:** I hate the enemy.
+- **Polish:** x
 
 ### Alternative Forms
 Null

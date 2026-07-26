@@ -31,7 +31,12 @@ IPA: /au̯kam̩/
 - Polish: moment, chwila, termin
 
 ### Example sentence
-**Åo sè anő xoxo åkamm.** _Now is the time of departure._
+
+#### Example 1
+
+- **Asaxi:** åo sè anő xoxo åkamm.
+- **English:** Now is the time of departure.
+- **Polish:** x
 
 ### Alternative Forms
 x

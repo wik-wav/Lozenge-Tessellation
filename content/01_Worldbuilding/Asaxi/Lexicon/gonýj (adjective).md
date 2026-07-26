@@ -47,20 +47,24 @@ IPA: /ɡonɪj/
 - Polish: znacznie, solidnie, wielce
 
 ### Example sentence
-**As an adjective:**
 
-- **To wo gonýj shěso ijo.** I see a big book.
-- **Hjosùgo gonýj.** A diamond is hard (rock-like).
+#### Example 1
 
-**As an adverb:**
+- **Asaxi:** to wo gonýj shěso ijo. i see a big book.
+- **English:** Hjosùgo gonýj. A diamond is hard (rock-like).
+- **Polish:** x
 
-1. Intransitive (Simple)
-    - **To John gonýj chỏnů.** John eats significantly (solidly).
-2. Transitive (Object separation)
-    - **To John apo gonýj chỏnů.** John eats the apple significantly.
-3. Contrast (Adjective vs. Adverb)
-    - **To John gonýj shěso ijo.** (John sees the big book).
-    - **To John shěso gonýj ijo.** (John sees the book significantly/solidly).
+#### Example 2
+
+- **Asaxi:** to john gonýj shěso ijo.
+- **English:** John sees the big book
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** to john shěso gonýj ijo.
+- **English:** John sees the book significantly/solidly
+- **Polish:** x
 
 ### Alternative Forms
 x

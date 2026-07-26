@@ -39,8 +39,12 @@ IPA: /t̻͡s̪apɯ/
 - Polish: dźgać, przebijać
 
 ### Example sentence
-**Wo sëobi capù.**
-_I stab with the spear._
+
+#### Example 1
+
+- **Asaxi:** wo sëobi capù.
+- **English:** I stab with the spear.
+- **Polish:** x
 
 ### Alternative Forms
 Null

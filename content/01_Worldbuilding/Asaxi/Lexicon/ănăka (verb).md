@@ -39,8 +39,12 @@ IPA: /aɪnaɪka/
 - Polish: oczekiwać
 
 ### Example sentence
-**Wo vashá ănăka.**
-_I expect a guest._
+
+#### Example 1
+
+- **Asaxi:** wo vashá ănăka.
+- **English:** I expect a guest.
+- **Polish:** x
 
 ### Alternative Forms
 Null

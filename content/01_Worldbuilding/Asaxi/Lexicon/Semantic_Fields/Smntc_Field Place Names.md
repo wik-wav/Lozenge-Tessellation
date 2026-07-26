@@ -18,4 +18,4 @@ Navigation:
 
 - - -
 
-- [[Itaŕi (noun)]] - Italy
+- [[itaŕi (noun)]] - Italy

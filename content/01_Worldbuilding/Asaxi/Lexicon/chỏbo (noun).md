@@ -31,8 +31,12 @@ IPA: /t̠ʃou̯bo̞/
 - Polish: żołądek
 
 ### Example sentence
-**Chỏno chỏbo vanů.**
-_Food is in the stomach._
+
+#### Example 1
+
+- **Asaxi:** chỏno chỏbo vanů.
+- **English:** Food is in the stomach.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -38,7 +38,7 @@ It signals that the preceding phrase is being quoted, defined, or used as the co
 - **Structure:** `[Clause] tte [Verb (say/think)].`
 - **Example:**
     
-    > **Wo pashěsonů tte, John zèjýnů.** `1SG` `FUT-read` `QT` `John` `PAST-say` _"John said **that** I will read."_
+    > wo pashěsonů tte, john zèjýnů. `1SG` `FUT-read` `QT` `John` `PAST-say` "John said that I will read."
 
 
 **B. Casual Explanatory ("So...")** Marks the preceding clause as the context or "gist" that explains the result.
@@ -46,7 +46,7 @@ It signals that the preceding phrase is being quoted, defined, or used as the co
 - **Structure:** `[Clause] tte, [Result].`
 - **Example:**
     
-    > **John zèshěsonů tte, gavină.** `John` `PAST-read` `QT` `good` _"John read, **(so)** he's good."_ (Lit: John read [is the context], good.)
+    > john zèshěsonů tte, gavină. `John` `PAST-read` `QT` `good` "John read, (so) he's good." (Lit: John read [is the context], good.)
     
 
 **C. Definition / Topic ("As for...")** Used to define a word or bring up a topic casually.
@@ -54,4 +54,4 @@ It signals that the preceding phrase is being quoted, defined, or used as the co
 - **Structure:** `[Word] tte...`
 - **Example:**
     
-    > **Asaxi tte, gavină kè?** _"(As for) Asaxi, is it good?"_
+    > asaxi tte, gavină kè? "(As for) Asaxi, is it good?"

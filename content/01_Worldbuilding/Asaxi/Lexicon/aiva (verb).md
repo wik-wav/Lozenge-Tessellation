@@ -40,8 +40,12 @@ IPA: /aib̪va/
 - Polish: litować się
 
 ### Example sentence
-**Wo jamishá aiva.**
-_I pity the sick one._
+
+#### Example 1
+
+- **Asaxi:** wo jamishá aiva.
+- **English:** I pity the sick one.
+- **Polish:** x
 
 ### Alternative Forms
 Null

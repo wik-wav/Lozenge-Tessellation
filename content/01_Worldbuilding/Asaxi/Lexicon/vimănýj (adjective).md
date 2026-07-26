@@ -37,19 +37,28 @@ IPA: /vimaɪnɪꞲ/
 - Polish: zgodnie, akceptowalnie, z przyzwoleniem
 
 ### Example sentence
-**As an adjective:**
-- **Onă vimănýj shá ijo.**
-- _I see an agreeable creature_
 
-**As an adverb:**
-1. Intransitive (Simple)
-  - **Gő vimănýj xiŕa.**
-    They are agreeable.
-1. Transitive
-  - **Wo sè pwo onă shěsonů vimănýj påxů.**
-    I will gladly read tomorrow.
-1. Contrast (Adjective vs. Adverb)
-  - *Note: As an adjective, it describes the nature of the noun (an agreeable person). As an adverb, it describes the compliant manner of the action.*
+#### Example 1
+
+- **Asaxi:** onă vimănýj shá ijo.
+- **English:** Adjective: I see an agreeable creature.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** gő vimănýj xiŕa.
+- **English:** Adverb, intransitive: they are agreeable.
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** wo sè pwo onă shěsonů vimănýj påxů.
+- **English:** Adverb, transitive: I will gladly read tomorrow.
+- **Polish:** x
+
+### Usage Note
+
+As an adjective, `vimănýj` describes the nature of a noun (an agreeable person). As an adverb, it describes the compliant manner of an action.
 
 ### Alternative Forms
 - x

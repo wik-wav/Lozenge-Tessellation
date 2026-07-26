@@ -37,6 +37,10 @@ Navigation
 
 [[00_Asaxi Glossing & Interlinearization Standard]]
 
+#### Writing Standard
+
+[[00_Asaxi Orthography & Punctuation Standard]]
+
 - - -
 
 # Asaxi Language Meta

@@ -30,8 +30,12 @@ IPA: /fɯ/
 - Polish: nos
 
 ### Example sentence
-Sè wo fù fùnýj ůŋů.
-My nose smells (perceives scent) well (skillfully).
+
+#### Example 1
+
+- **Asaxi:** sè wo fù fùnýj ůŋů.
+- **English:** My nose smells (perceives scent) well (skillfully).
+- **Polish:** x
 
 ### Alternative Forms
 x

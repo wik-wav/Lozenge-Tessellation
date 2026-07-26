@@ -1,6 +1,6 @@
 ---
 Word (Asaxi):
-trnsltion. En:
+trnsltion. en:
 trnsltion. Pl:
 tags:
   - Asaxi
@@ -12,9 +12,9 @@ tags:
 
 - - -
 
-<span class="asaxi-script">Word (Asaxi)</span>
+<span class="asaxi-script">word (asaxi)</span>
 
-<span class="asaxi-script-alpha">Word (Asaxi)</span>
+<span class="asaxi-script-alpha">word (asaxi)</span>
 ### Noun class (warm / cold)
 
 x
@@ -34,7 +34,11 @@ x
 
 ### Example sentence
 
-x
+#### Example 1
+
+- **Asaxi:**
+- **english:**
+- **Polish:**
 
 ### Alternative Forms
 x

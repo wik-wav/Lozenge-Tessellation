@@ -25,8 +25,8 @@ aliases:
 ### Usage Notes
 
 1. **Constitutional vs. Adjectival:** Unlike [[09_Adjectives_Forming Adjectives in Asaxi|Morphological Adjectives]] (ending in _-nă/-nýj_), which describe **behavior** or **simile** ("acting like X"), the particle `ga` describes **constitution** or **taxonomy** ("is physically X").
-    - _Adjective:_ `Jýnă shá` = "Hyena-like person" (Chatty/Loud behavior).
-    - _Ga-Modifier:_ `Gajýnnshá` = "Hyena-person" (A specific species or hybrid).
+    - _Adjective:_ `jýnă shá` = "Hyena-like person" (Chatty/Loud behavior).
+    - _Ga-Modifier:_ `gajýnnshá` = "Hyena-person" (A specific species or hybrid).
 
 2. **Fusion Rules:** This particle **always** fuses with the following noun.
     - **Before /a/:** Merges into `g-` (`ga` + `apo` = `gapo`).
@@ -40,8 +40,18 @@ IPA: /ɡa/
 
 ### Example sentence
 
-**1. Basic Attribute (Color/Type)** **Gaoshěso.** _Blue-book._ (Lit: Sky-type-book)
-**2. Constitutional Definition** John **gajýnnshá** xiŕa. _John is a hyena-person._
+
+#### Example 1
+
+- **Asaxi:** gaoshěso.
+- **English:** Basic Attribute (Color/Type): Blue-book. (Lit: Sky-type-book)
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** john gajýnnshá xiŕa.
+- **English:** Constitutional Definition: John is a hyena-person.
+- **Polish:** x
 
 ### Alternative Forms
 

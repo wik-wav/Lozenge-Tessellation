@@ -39,12 +39,18 @@ IPA: /paɪɾo/
 - Polish: wynurzać się
 
 ### Example sentence
-**To wo izo ŕoŕo păŕo.**
-_I emerge from water._
 
-**Wo izo ijoŕo păŕo toůchů.**
-`1SG` `ABL` `dream` `emerge` `SEEMS` 
-_"It feels like I emerge from a dream."_
+#### Example 1
+
+- **Asaxi:** to wo izo ŕoŕo păŕo.
+- **English:** I emerge from water.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** wo izo ijoŕo păŕo toůchů.
+- **English:** Gloss: 1SG ABL dream emerge SEEMS: It feels like I emerge from a dream.
+- **Polish:** x
 
 ### Alternative Forms
 - **păŕoŕo** (Full compound: `pă` + `ŕoŕo`). Used for emphasis or poetic rhythm.

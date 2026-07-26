@@ -39,8 +39,12 @@ IPA: /tʰa/
 - Polish: przeobrażać się, zmieniać stan
 
 ### Example sentence
-**Shýŕo ni ŕoŕo txa.**
-_The ice morphs into water._
+
+#### Example 1
+
+- **Asaxi:** shýŕo ni ŕoŕo txa.
+- **English:** The ice morphs into water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

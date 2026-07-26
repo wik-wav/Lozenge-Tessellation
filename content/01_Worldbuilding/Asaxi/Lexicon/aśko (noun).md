@@ -31,8 +31,12 @@ IPA: /aɕko̞/
 - Polish: pięta
 
 ### Example sentence
-**Sè wo aśko tètá.**
-_My heel hurts._
+
+#### Example 1
+
+- **Asaxi:** sè wo aśko tètá.
+- **English:** My heel hurts.
+- **Polish:** x
 
 ### Alternative Forms
 Null

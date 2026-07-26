@@ -36,8 +36,12 @@ IPA: /eɦenɪj/
 - Polish: płaczliwy, lamentujący, tragiczny
 
 ### Example sentence
-**Toonă o-shá exenýj xiŕa.**
-_This person is weepy (a tragic figure)._
+
+#### Example 1
+
+- **Asaxi:** toonă o-shá exenýj xiŕa.
+- **English:** This person is weepy (a tragic figure).
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /xka/
 - Polish: tarcza
 
 ### Example sentence
-**Hka wo hkanů.**
-_A shield protects me._
+
+#### Example 1
+
+- **Asaxi:** hka wo hkanů.
+- **English:** A shield protects me.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -34,11 +34,18 @@ IPA: /uu̯t͡ʃo/
 **ůcha** (Feelings).
 
 ### Example sentence
-**To wo gavină ůcho ma.**
-_I have a good feeling._
 
-**To ůcha wo fri.** `SUBJ` `feelings` `1SG` `free` 
-_The feelings set me free._
+#### Example 1
+
+- **Asaxi:** to wo gavină ůcho ma.
+- **English:** I have a good feeling.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to ůcha wo fri.
+- **English:** Gloss: SUBJ feelings 1SG free: The feelings set me free.
+- **Polish:** x
 
 ### Alternative Forms
 x

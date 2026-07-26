@@ -31,8 +31,12 @@ IPA: /t̪əmpou̯/
 - Polish: kapelusz
 
 ### Example sentence
-**Těmpỏ těněn naŕa.**
-_A hat sits on the head._
+
+#### Example 1
+
+- **Asaxi:** těmpỏ těněn naŕa.
+- **English:** A hat sits on the head.
+- **Polish:** x
 
 ### Alternative Forms
 Null

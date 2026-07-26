@@ -31,8 +31,12 @@ IPA: /b̪vako̞/
 - Polish: kukurydza
 
 ### Example sentence
-**Vako viŕo nanů.**
-_Corn grows on the field._
+
+#### Example 1
+
+- **Asaxi:** vako viŕo nanů.
+- **English:** Corn grows on the field.
+- **Polish:** x
 
 ### Alternative Forms
 Null

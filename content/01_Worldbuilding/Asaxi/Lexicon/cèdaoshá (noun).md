@@ -31,8 +31,12 @@ IPA: /t̻͡s̪ədaoʃɑ/
 - Polish: nauczyciel, nauczycielka
 
 ### Example sentence
-**Sè wo cèdaoshá gavină.**
-_My teacher is good._
+
+#### Example 1
+
+- **Asaxi:** sè wo cèdaoshá gavină.
+- **English:** My teacher is good.
+- **Polish:** x
 
 ### Alternative Forms
 Null

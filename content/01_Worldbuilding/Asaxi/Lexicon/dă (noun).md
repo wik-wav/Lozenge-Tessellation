@@ -31,8 +31,12 @@ IPA: /daɪ/
 - Polish: słoń
 
 ### Example sentence
-**Dă mimi gonýj ma.**
-_The elephant has huge ears._
+
+#### Example 1
+
+- **Asaxi:** dă mimi gonýj ma.
+- **English:** The elephant has huge ears.
+- **Polish:** x
 
 ### Alternative Forms
 Null

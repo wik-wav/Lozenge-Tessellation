@@ -31,8 +31,12 @@ IPA: /pou̯mɑka/
 - Polish: torba, worek
 
 ### Example sentence
-**Chỏno pỏmáka vanů.**
-_Food is in the bag._
+
+#### Example 1
+
+- **Asaxi:** chỏno pỏmáka vanů.
+- **English:** Food is in the bag.
+- **Polish:** x
 
 ### Alternative Forms
 Null

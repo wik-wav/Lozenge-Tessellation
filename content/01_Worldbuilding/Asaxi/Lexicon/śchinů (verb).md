@@ -36,8 +36,12 @@ IPA: /ɕt͡ɕʲinuw/
 - Polish: mierzyć (ileś cm), mieć wzrost
 
 ### Example sentence
-**To wo dasă ŕă śchinů.**
-_I am 105cm tall._
+
+#### Example 1
+
+- **Asaxi:** to wo dasă ŕă śchinů.
+- **English:** I am 105cm tall.
+- **Polish:** x
 
 ### Alternative Forms
 Null

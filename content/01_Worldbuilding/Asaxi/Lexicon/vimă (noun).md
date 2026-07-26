@@ -61,5 +61,5 @@ Null
 A collective noun representing the sum total of all things, ideas, opportunities, or people that an individual or group has accepted or said "yes" to. It is the direct semantic antonym of **pxůmă** (the rejected). It carries a "Warm" classification, reflecting the vitality, growth, and integration associated with affirmed choices.
 
 ### Examples
-**Sè wo vimă zëijo ŕa zèxăijo.**
+sè wo vimă zëijo ŕa zèxăijo.
 _I saw the things I agreed to and got a grip on the situation. _

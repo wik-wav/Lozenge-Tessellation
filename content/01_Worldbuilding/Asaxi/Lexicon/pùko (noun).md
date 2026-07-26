@@ -31,8 +31,12 @@ IPA: /pɯko̞/
 - Polish: biodro
 
 ### Example sentence
-**Sè wo pùko tètá.**
-_My hip hurts._
+
+#### Example 1
+
+- **Asaxi:** sè wo pùko tètá.
+- **English:** My hip hurts.
+- **Polish:** x
 
 ### Alternative Forms
 Null

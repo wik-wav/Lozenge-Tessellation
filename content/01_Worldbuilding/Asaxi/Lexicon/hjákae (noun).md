@@ -31,8 +31,12 @@ IPA: /çɑkae̞/
 - Polish: jagoda
 
 ### Example sentence
-**Hjákae bù nanů.**
-_Berries are on the shrub._
+
+#### Example 1
+
+- **Asaxi:** hjákae bù nanů.
+- **English:** Berries are on the shrub.
+- **Polish:** x
 
 ### Alternative Forms
 Null

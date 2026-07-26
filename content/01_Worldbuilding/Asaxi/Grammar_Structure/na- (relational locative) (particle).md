@@ -36,11 +36,18 @@ IPA: /na/
 
 ### Example sentence
 
-**John navivi aśù.**
-_John walks on the grass._
 
-**To wo najhecèŕănabinýj.**
-_I am faster than a jet._
+#### Example 1
+
+- **Asaxi:** john navivi aśù.
+- **English:** John walks on the grass.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo najhecèŕănabinýj.
+- **English:** I am faster than a jet.
+- **Polish:** x
 
 ### Derived terms
 

@@ -30,8 +30,12 @@ IPA: /ɹokam/
 - Polish: więzienie
 
 ### Example sentence
-**To rokam sháma kamnů.**
-_There are people in prison._ (The prison contains people)
+
+#### Example 1
+
+- **Asaxi:** to rokam sháma kamnů.
+- **English:** There are people in prison. (The prison contains people)
+- **Polish:** x
 
 ### Alternative Forms
 Null

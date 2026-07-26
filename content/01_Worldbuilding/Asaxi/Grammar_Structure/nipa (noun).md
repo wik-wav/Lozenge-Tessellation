@@ -28,8 +28,12 @@ IPA: /ɲipa/
 
 ### Example sentence
 
-**Nipa, to wa pahaśù.**
-_In the future, we will run._
+
+#### Example 1
+
+- **Asaxi:** nipa, to wa pahaśù.
+- **English:** In the future, we will run.
+- **Polish:** x
 
 ### Etymology
 

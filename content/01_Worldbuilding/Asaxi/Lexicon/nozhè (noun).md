@@ -31,8 +31,12 @@ IPA: /no̞z̪xə/
 - Polish: nóż
 
 ### Example sentence
-**Nozhè sxëbonýj.**
-_A knife is sharp._
+
+#### Example 1
+
+- **Asaxi:** nozhè sxëbonýj.
+- **English:** A knife is sharp.
+- **Polish:** x
 
 ### Alternative Forms
 Null

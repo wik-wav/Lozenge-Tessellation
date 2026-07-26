@@ -33,4 +33,9 @@ Placed at the **end** of the sentence or clause.
 
 ### Example sentence
 
-**To wo shěsonů nanå.** _I read often._
+
+#### Example 1
+
+- **Asaxi:** to wo shěsonů nanå.
+- **English:** I read often.
+- **Polish:** x

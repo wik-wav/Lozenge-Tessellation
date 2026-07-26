@@ -39,8 +39,12 @@ IPA: /ɦɯsa/
 - Polish: schnąć
 
 ### Example sentence
-**Topobi cù xùsa.**
-_The weather dries the soil._
+
+#### Example 1
+
+- **Asaxi:** topobi cù xùsa.
+- **English:** The weather dries the soil.
+- **Polish:** x
 
 ### Alternative Forms
 Null

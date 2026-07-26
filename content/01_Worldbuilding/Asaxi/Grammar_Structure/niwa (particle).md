@@ -26,7 +26,12 @@ IPA: /ɲiwa/
 
 ### Example sentence
 
-**To wa niwa ijo.** _We see ourselves._
+
+#### Example 1
+
+- **Asaxi:** to wa niwa ijo.
+- **English:** We see ourselves.
+- **Polish:** x
 
 ### Etymology
 

@@ -36,8 +36,12 @@ IPA: /ɡaɪdaɪɾuu̯/
 - Polish: powiększać
 
 ### Example sentence
-**Wo nono gădăŕů.**
-_I enlarge the thing._
+
+#### Example 1
+
+- **Asaxi:** wo nono gădăŕů.
+- **English:** I enlarge the thing.
+- **Polish:** x
 
 ### Alternative Forms
 Null

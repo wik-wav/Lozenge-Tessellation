@@ -36,8 +36,12 @@ IPA: /ɡo̞siɦuu̯/
 - Polish: solić
 
 ### Example sentence
-**Wo chỏno gosixů.**
-_I salt the food._
+
+#### Example 1
+
+- **Asaxi:** wo chỏno gosixů.
+- **English:** I salt the food.
+- **Polish:** x
 
 ### Alternative Forms
 Null

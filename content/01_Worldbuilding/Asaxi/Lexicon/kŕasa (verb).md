@@ -39,8 +39,12 @@ IPA: /kɾasa/
 - Polish: drapać
 
 ### Example sentence
-**Mmråshá kjèpo kŕasa.**
-_The cat scratches the tree._
+
+#### Example 1
+
+- **Asaxi:** mmråshá kjèpo kŕasa.
+- **English:** The cat scratches the tree.
+- **Polish:** x
 
 ### Alternative Forms
 Null

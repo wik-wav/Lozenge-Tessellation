@@ -31,8 +31,12 @@ IPA: /daɪofʷo/
 - Polish: chmura
 
 ### Example sentence
-**Dăofwo nèŕa.**
-_There are no clouds._
+
+#### Example 1
+
+- **Asaxi:** dăofwo nèŕa.
+- **English:** There are no clouds.
+- **Polish:** x
 
 ### Alternative Forms
 Null

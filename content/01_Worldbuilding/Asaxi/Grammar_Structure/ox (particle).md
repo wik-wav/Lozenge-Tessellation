@@ -32,9 +32,15 @@ IPA: /oɦ/ (or /oɦ/)
 
 ### Example sentence
 
-**Ox, to wo no jåijo måmåni onå.**
+#### Example 1
 
-_Oh, how I want to see you forever._ (Lit: Oh, I want-see you as-far-as-to forever).]), onå (FOREVER Aspectual Marker)]
+- **Asaxi:** ox, to wo no jåijo måmåni onå.
+- **English:** Oh, how I want to see you forever. (Literally: oh, I want-see you as-far-as-to forever.)
+- **Polish:** x
+
+### Analysis
+
+- The sentence uses [[onå (particle)|onå]], the forever aspectual marker.
 
 ### Etymology
 

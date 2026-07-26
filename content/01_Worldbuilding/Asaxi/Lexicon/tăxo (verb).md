@@ -39,8 +39,12 @@ IPA: /t̪aɪɦo̞/
 - Polish: wybierać
 
 ### Example sentence
-**Wo chỏno tăxo.**
-_I choose the food._
+
+#### Example 1
+
+- **Asaxi:** wo chỏno tăxo.
+- **English:** I choose the food.
+- **Polish:** x
 
 ### Alternative Forms
 Null

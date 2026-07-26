@@ -38,8 +38,12 @@ IPA: /aɪja/
 - Polish: krzyczeć, wołać, wrzeszczeć
 
 ### Example sentence
-**To săsháma zèxăja.**
-_All the people shouted._
+
+#### Example 1
+
+- **Asaxi:** to săsháma zèxăja.
+- **English:** All the people shouted.
+- **Polish:** x
 
 ### Alternative Forms
 Null

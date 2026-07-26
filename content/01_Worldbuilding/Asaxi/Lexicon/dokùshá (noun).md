@@ -33,11 +33,15 @@ IPA: /dokɯʃɑ/
 ### Usage Note (Titles)
 Titles in Asaxi function as descriptors and strictly **precede** the name they modify (Left-Branching).
 * **Structure:** `[Title] + [Name]`
-* **Example:** **Dokùshá John.** (Doctor John).
+* **Example:** dokùshá john. (Doctor John).
 
 ### Example sentence
-**To Dokùshá John gavină xiŕa.**
-_Doctor John is good._])]
+
+#### Example 1
+
+- **Asaxi:** to dokùshá john gavină xiŕa.
+- **English:** Doctor John is good.])]
+- **Polish:** x
 
 ### Alternative Forms
 - **dokshá** (Shortened / Casual).

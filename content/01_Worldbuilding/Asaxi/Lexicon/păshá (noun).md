@@ -34,11 +34,18 @@ IPA: /paɪʃɑ/
 Refers to an entity that is not the Self (`niwo`) or the immediate group (`wa`). It spatially locates the person "outside" the self-concept.
 
 ### Example sentence
-**To păshá xogă.**
-_Another person arrives._
 
-**To wo ni păsháma gavină ů.**
-_I am good to others._
+#### Example 1
+
+- **Asaxi:** to păshá xogă.
+- **English:** Another person arrives.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo ni păsháma gavină ů.
+- **English:** I am good to others.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -31,8 +31,12 @@ IPA: /fuu̯aɪvi/
 - Polish: niepoprawność, zło, okropność
 
 ### Example sentence
-**To wo fůăvi ůchů.**
-_I feel wrongness (Something is wrong, I can feel it)._
+
+#### Example 1
+
+- **Asaxi:** to wo fůăvi ůchů.
+- **English:** I feel wrongness (Something is wrong, I can feel it).
+- **Polish:** x
 
 ### Alternative Forms
 Null

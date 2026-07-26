@@ -31,8 +31,12 @@ IPA: /igɯɾa/
 - Polish: gra, zabawa
 
 ### Example sentence
-**Hjá igùŕa kjèmbinů.**
-_The child plays a game._
+
+#### Example 1
+
+- **Asaxi:** hjá igùŕa kjèmbinů.
+- **English:** The child plays a game.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /xɯsɡo̞/
 - Polish: wydma
 
 ### Example sentence
-**Hùsgo hùsoŕo vaŕa.**
-_A dune is in the desert._
+
+#### Example 1
+
+- **Asaxi:** hùsgo hùsoŕo vaŕa.
+- **English:** A dune is in the desert.
+- **Polish:** x
 
 ### Alternative Forms
 Null

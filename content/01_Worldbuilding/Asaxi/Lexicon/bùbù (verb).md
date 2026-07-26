@@ -39,8 +39,12 @@ IPA: /bɯbɯ/
 - Polish: wrzeć
 
 ### Example sentence
-**Ŕoŕo bùbù.**
-_The water boils._
+
+#### Example 1
+
+- **Asaxi:** ŕoŕo bùbù.
+- **English:** The water boils.
+- **Polish:** x
 
 ### Alternative Forms
 Null

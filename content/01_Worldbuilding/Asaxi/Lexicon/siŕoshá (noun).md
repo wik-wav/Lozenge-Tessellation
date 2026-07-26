@@ -31,8 +31,12 @@ IPA: /siɾo̞ʃɑ/
 - Polish: obcy, nieznajomy
 
 ### Example sentence
-**Siŕoshá obi.**
-_A stranger is near._
+
+#### Example 1
+
+- **Asaxi:** siŕoshá obi.
+- **English:** A stranger is near.
+- **Polish:** x
 
 ### Alternative Forms
 Null

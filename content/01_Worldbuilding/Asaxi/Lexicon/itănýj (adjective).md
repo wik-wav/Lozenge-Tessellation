@@ -42,9 +42,12 @@ IPA: /itaɪnɪj/
 - Polish: w napięciu, sztywno
 
 ### Example sentence
-**As an adjective:**
-- Sè wo tëa itănýj ů.
-My hands are tensed up.
+
+#### Example 1
+
+- **Asaxi:** sè wo tëa itănýj ů. my hands are tensed up.
+- **English:** x
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -31,8 +31,12 @@ IPA: /kʲəɾoɾo/
 - Polish: żywica
 
 ### Example sentence
-**To kjèŕoŕo kjèpo izoŕa.**
-_Sap comes from the tree._
+
+#### Example 1
+
+- **Asaxi:** to kjèŕoŕo kjèpo izoŕa.
+- **English:** Sap comes from the tree.
+- **Polish:** x
 
 ### Alternative Forms
 Null

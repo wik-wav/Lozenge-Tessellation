@@ -35,7 +35,12 @@ IPA: /uu̯.wuu̯/
 - Polish: udawać, zachowywać się jak
 
 ### Example sentence
-**To John shějýnshá ůwů.** _John acts like a teacher._ (He behaves in that manner, regardless of reality).
+
+#### Example 1
+
+- **Asaxi:** to john shějýnshá ůwů.
+- **English:** John acts like a teacher. (He behaves in that manner, regardless of reality).
+- **Polish:** x
 
 ### Alternative Forms
 Null

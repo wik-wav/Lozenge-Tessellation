@@ -31,8 +31,12 @@ IPA: /mo̞bo̞/
 - Polish: serce
 
 ### Example sentence
-**Mobo kamshá vaŕa.**
-_The heart is in the body._
+
+#### Example 1
+
+- **Asaxi:** mobo kamshá vaŕa.
+- **English:** The heart is in the body.
+- **Polish:** x
 
 ### Alternative Forms
 Null

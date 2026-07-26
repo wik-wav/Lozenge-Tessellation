@@ -31,8 +31,12 @@ IPA: /kʲəka/
 - Polish: piła
 
 ### Example sentence
-**Kjèka vèno kiŕonů.**
-_A saw cuts the wood._
+
+#### Example 1
+
+- **Asaxi:** kjèka vèno kiŕonů.
+- **English:** A saw cuts the wood.
+- **Polish:** x
 
 ### Alternative Forms
 Null

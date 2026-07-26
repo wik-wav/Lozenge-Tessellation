@@ -22,7 +22,7 @@ IPA: /s/
 
 ### Example sentence
 
-**To xő jýnsů.** _He sounds like a hyena._
+to xő jýnsů. He sounds like a hyena.
 
 ### Etymology
 

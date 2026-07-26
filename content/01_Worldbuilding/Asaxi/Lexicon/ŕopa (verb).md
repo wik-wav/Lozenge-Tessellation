@@ -39,8 +39,12 @@ IPA: /ɾo̞pa/
 - Polish: brodzić
 
 ### Example sentence
-**Mùù ŕoŕo ŕopa.**
-_The cow wades in the water._
+
+#### Example 1
+
+- **Asaxi:** mùù ŕoŕo ŕopa.
+- **English:** The cow wades in the water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

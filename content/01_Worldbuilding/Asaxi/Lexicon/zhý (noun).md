@@ -31,8 +31,12 @@ IPA: /ʑɪ/
 - Polish: zimno, chłód
 
 ### Example sentence
-**Ă wo zhýchů.**
-_I am cold. (lit. I feel the cold — exogenous `-ch-`, see [[65_Expressing States & Sensations (Source Doctrine)]].)_
+
+#### Example 1
+
+- **Asaxi:** ă wo zhýchů.
+- **English:** I am cold. (lit. I feel the cold — exogenous `-ch-`, see [[65_Expressing States & Sensations (Source Doctrine)]].)
+- **Polish:** x
 
 ### Alternative Forms
 Null

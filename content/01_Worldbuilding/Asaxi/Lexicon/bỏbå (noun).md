@@ -31,8 +31,12 @@ IPA: /bou̯bau̯/
 - Polish: ojciec
 
 ### Example sentence
-**Sè wo bỏbå văshá.**
-_My father is a farmer._
+
+#### Example 1
+
+- **Asaxi:** sè wo bỏbå văshá.
+- **English:** My father is a farmer.
+- **Polish:** x
 
 ### Alternative Forms
 Null

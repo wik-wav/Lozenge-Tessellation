@@ -39,8 +39,12 @@ IPA: /d̻͡z̪o̞pɯ/
 - Polish: pękać, trzaskać
 
 ### Example sentence
-**Kjèbi dzopù.**
-_The twig snaps._
+
+#### Example 1
+
+- **Asaxi:** kjèbi dzopù.
+- **English:** The twig snaps.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /o̞biʃɑ/
 - Polish: sąsiad
 
 ### Example sentence
-**Obishá waokam baŕa.**
-_The neighbour's home is next door._
+
+#### Example 1
+
+- **Asaxi:** obishá waokam baŕa.
+- **English:** The neighbour's home is next door.
+- **Polish:** x
 
 ### Alternative Forms
 Null

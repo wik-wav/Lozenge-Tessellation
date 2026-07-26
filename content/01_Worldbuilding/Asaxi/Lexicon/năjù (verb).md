@@ -39,8 +39,12 @@ IPA: /naɪjɯ/
 - Polish: odpowiadać
 
 ### Example sentence
-**Wo panăjù.**
-_I will answer._
+
+#### Example 1
+
+- **Asaxi:** wo panăjù.
+- **English:** I will answer.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -33,10 +33,12 @@ IPA: /saɪt̪amɲi/
 - Polish: Jednomyślność, unisono, wszyscy razem
 
 ### Example sentence
-- As a noun: 
-	  **Wo sè sătamni åkamm sùkixů.** _I love the moment of unison._
-- As an adverb/adjective: 
-	  **Săsă sháma jo sătamnină zëcő.** _Everyone understood it together (in unison)._
+
+#### Example 1
+
+- **Asaxi:** wo sè sătamni åkamm sùkixů.
+- **English:** As a noun: I love the moment of unison. As an adverb/adjective: Săsă sháma jo sătamnină zëcő. Everyone understood it together (in unison).
+- **Polish:** x
 
 ### Alternative Forms
 Null

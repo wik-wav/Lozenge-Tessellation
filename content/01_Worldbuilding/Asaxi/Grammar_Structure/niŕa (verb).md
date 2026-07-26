@@ -32,8 +32,12 @@ IPA: /ɲiɾa/
 
 ### Example sentence
 
-**To wa jýnma paniŕa.**
-_We will become hyenas._
+
+#### Example 1
+
+- **Asaxi:** to wa jýnma paniŕa.
+- **English:** We will become hyenas.
+- **Polish:** x
 
 ### Antonyms
 

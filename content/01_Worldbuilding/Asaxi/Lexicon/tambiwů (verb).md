@@ -35,8 +35,12 @@ IPA: /t̪ambiwuu̯/
 - Polish: naśladować, imitować
 
 ### Example sentence
-**To wo no tambiwů.**
-_I am imitating you._
+
+#### Example 1
+
+- **Asaxi:** to wo no tambiwů.
+- **English:** I am imitating you.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -41,8 +41,12 @@ IPA: /pinaɪ/
 - English: rosily, daintily
 
 ### Example sentence
-**Onă hjá pină xiŕa.**
-_The child is rosy-cheeked._
+
+#### Example 1
+
+- **Asaxi:** onă hjá pină xiŕa.
+- **English:** The child is rosy-cheeked.
+- **Polish:** x
 
 ### Alternative Forms
 Null

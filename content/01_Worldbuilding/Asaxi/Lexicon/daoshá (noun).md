@@ -31,8 +31,12 @@ IPA: /daoʃɑ/
 - Polish: kupiec, handlarz
 
 ### Example sentence
-**Onă daoshá daogo ma.**
-_The merchant has money._
+
+#### Example 1
+
+- **Asaxi:** onă daoshá daogo ma.
+- **English:** The merchant has money.
+- **Polish:** x
 
 ### Alternative Forms
 Null

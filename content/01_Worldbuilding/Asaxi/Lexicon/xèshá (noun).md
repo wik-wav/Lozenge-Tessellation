@@ -31,8 +31,12 @@ IPA: /ɦəʃɑ/
 - Polish: sługa
 
 ### Example sentence
-**Xèshá xè.**
-_The servant toils._
+
+#### Example 1
+
+- **Asaxi:** xèshá xè.
+- **English:** The servant toils.
+- **Polish:** x
 
 ### Alternative Forms
 Null

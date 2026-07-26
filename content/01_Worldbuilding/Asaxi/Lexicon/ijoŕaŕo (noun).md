@@ -31,8 +31,12 @@ IPA: /iꞲoɾaɾo/
 - Polish: miejsce medytacji, sanktuarium, świątynia snów
 
 ### Example sentence
-**Wo vajoŕaŕo shěsonů.**
-_I read in the vajoŕaŕo (dream-place)._
+
+#### Example 1
+
+- **Asaxi:** wo vajoŕaŕo shěsonů.
+- **English:** I read in the vajoŕaŕo (dream-place).
+- **Polish:** x
 
 ### Alternative Forms
 Null

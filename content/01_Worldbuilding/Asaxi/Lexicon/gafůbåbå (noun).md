@@ -33,8 +33,12 @@ IPA: /ɡafuu̯bau̯bau̯/
 - Polish: atrofia, stan nie posiadania masy mięśniowe,
 
 ### Example sentence
-**To John gafůbåbåshá.**
-_John is a muscleless person._ (He belongs to the category of those without muscle).
+
+#### Example 1
+
+- **Asaxi:** to john gafůbåbåshá.
+- **English:** John is a muscleless person. (He belongs to the category of those without muscle).
+- **Polish:** x
 
 ### Alternative Forms
 Null

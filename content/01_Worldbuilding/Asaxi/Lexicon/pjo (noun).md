@@ -31,8 +31,12 @@ IPA: /pʲo/
 - Polish: światło (źródło), lampa, świecidełko
 
 ### Example sentence
-**To pjo hjonă xiŕa.**
-_The light is bright._
+
+#### Example 1
+
+- **Asaxi:** to pjo hjonă xiŕa.
+- **English:** The light is bright.
+- **Polish:** x
 
 ### Alternative Forms
 x

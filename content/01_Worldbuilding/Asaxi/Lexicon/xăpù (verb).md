@@ -39,8 +39,12 @@ IPA: /ɦaɪpɯ/
 - Polish: ziewać
 
 ### Example sentence
-**Wo xăpù.**
-_I yawn._
+
+#### Example 1
+
+- **Asaxi:** wo xăpù.
+- **English:** I yawn.
+- **Polish:** x
 
 ### Alternative Forms
 Null

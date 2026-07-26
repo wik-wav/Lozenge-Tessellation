@@ -30,7 +30,12 @@ IPA: /vʷo/
 - Polish: dzisiaj
 
 ### Example sentence
-**To wo vwo shěsonů.** _I read today._
+
+#### Example 1
+
+- **Asaxi:** to wo vwo shěsonů.
+- **English:** I read today.
+- **Polish:** x
 
 ### Alternative Forms
 Null

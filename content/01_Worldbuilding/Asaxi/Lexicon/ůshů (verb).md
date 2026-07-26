@@ -39,8 +39,12 @@ IPA: /uu̯ɕɯ/
 - Polish: uprzątać, kopać, zamiatać
 
 ### Example sentence
-**Cka cù ůshů.**
-_A spade digs the soil._
+
+#### Example 1
+
+- **Asaxi:** cka cù ůshů.
+- **English:** A spade digs the soil.
+- **Polish:** x
 
 ### Alternative Forms
 Null

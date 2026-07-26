@@ -39,11 +39,18 @@ IPA: /kma/
 - Polish: trzymać; przyklejać, mocować
 
 ### Example sentence
-**Wo gùŕo kma.**
-_I hold the rope._
 
-**Gocù go kma.**
-_Cement sticks the stones together._
+#### Example 1
+
+- **Asaxi:** wo gùŕo kma.
+- **English:** I hold the rope.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** gocù go kma.
+- **English:** Cement sticks the stones together.
+- **Polish:** x
 
 ### Alternative Forms
 Null

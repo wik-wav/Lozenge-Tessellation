@@ -32,8 +32,12 @@ IPA: /ɡɑm̩/
 - Polish: guma
 
 ### Example sentence
-**To gámm gopů.**
-_The gum feels hard (to the touch)._
+
+#### Example 1
+
+- **Asaxi:** to gámm gopů.
+- **English:** The gum feels hard (to the touch).
+- **Polish:** x
 
 ### Alternative Forms
 Null

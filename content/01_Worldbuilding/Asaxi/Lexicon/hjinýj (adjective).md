@@ -64,10 +64,15 @@ Null
 - **Source Agreement:** **Cold** (Root `hji` is Cold).
 
 ### Example sentences
-**Adjective:**
-**Toonýj shěso hjinýj xiŕa.**
-_The book is small._
 
-**Adverb:**
-**To wo hjinýj shěsonů.**
-_I read small (shyly)._
+#### Example 1
+
+- **Asaxi:** toonýj shěso hjinýj xiŕa.
+- **English:** Adjective: The book is small.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo hjinýj shěsonů.
+- **English:** Adverb: I read small (shyly).
+- **Polish:** x

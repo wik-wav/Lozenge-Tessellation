@@ -31,8 +31,12 @@ IPA: /bou̯ba/
 - Polish: wujek
 
 ### Example sentence
-**Sè wo bỏba.**
-_My uncle._
+
+#### Example 1
+
+- **Asaxi:** sè wo bỏba.
+- **English:** My uncle.
+- **Polish:** x
 
 ### Alternative Forms
 Null

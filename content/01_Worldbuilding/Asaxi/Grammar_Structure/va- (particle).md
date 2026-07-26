@@ -32,7 +32,12 @@ IPA: /va/
 
 ### Example sentence
 
-**To shěso vashěsokam xiŕa.** _The book is inside the library._ (Standard Locative).
+
+#### Example 1
+
+- **Asaxi:** to shěso vashěsokam xiŕa.
+- **English:** The book is inside the library. (Standard Locative).
+- **Polish:** x
 
 ### Derived terms
 

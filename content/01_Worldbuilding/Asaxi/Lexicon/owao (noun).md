@@ -30,8 +30,12 @@ IPA: /owa.o/
 - Polish: Ziemia
 
 ### Example sentence
-**Owao pxỏnýj xiŕa.**
-_The Earth is round._
+
+#### Example 1
+
+- **Asaxi:** owao pxỏnýj xiŕa.
+- **English:** The Earth is round.
+- **Polish:** x
 
 ### Alternative Forms
 Null

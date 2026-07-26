@@ -39,8 +39,12 @@ IPA: /t̪aɪpɯ/
 - Polish: decydować
 
 ### Example sentence
-**Wo tăpù.**
-_I decide._
+
+#### Example 1
+
+- **Asaxi:** wo tăpù.
+- **English:** I decide.
+- **Polish:** x
 
 ### Alternative Forms
 Null

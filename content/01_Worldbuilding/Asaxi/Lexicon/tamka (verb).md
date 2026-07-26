@@ -39,8 +39,12 @@ IPA: /t̪amka/
 - Polish: poślubić
 
 ### Example sentence
-**Wo mỏtam tamka.**
-_I marry my wife._
+
+#### Example 1
+
+- **Asaxi:** wo mỏtam tamka.
+- **English:** I marry my wife.
+- **Polish:** x
 
 ### Alternative Forms
 Null

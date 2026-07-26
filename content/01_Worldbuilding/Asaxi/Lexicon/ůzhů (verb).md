@@ -35,7 +35,12 @@ IPA: /uu̯ʑuu̯/
 - Polish: smakować
 
 ### Example sentence
-**To apo gavină ůzhů.** _The apple tastes good._
+
+#### Example 1
+
+- **Asaxi:** to apo gavină ůzhů.
+- **English:** The apple tastes good.
+- **Polish:** x
 
 ### Alternative Forms
 Null

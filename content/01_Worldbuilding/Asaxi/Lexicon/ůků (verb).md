@@ -35,7 +35,12 @@ IPA: /uu̯kuu̯/
 - Polish: zmieniać się, transformować
 
 ### Example sentence
-**To wo ůků.** _I am transforming._
+
+#### Example 1
+
+- **Asaxi:** to wo ůků.
+- **English:** I am transforming.
+- **Polish:** x
 
 ### Alternative Forms
 Null

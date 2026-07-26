@@ -39,8 +39,12 @@ IPA: /nɯnɯ/
 - Polish: spać
 
 ### Example sentence
-**Hjáhjá nùnù.**
-_The baby sleeps._
+
+#### Example 1
+
+- **Asaxi:** hjáhjá nùnù.
+- **English:** The baby sleeps.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -32,7 +32,7 @@ The body **produces** the state. Bridge: **[[06A_-ŕ- (particle)|-ŕ-]]** (Gener
 | **[[săaŕů (verb)\|săaŕů]]** | "generate heat" | to radiate heat, be feverish-hot |
 | **[[săaaiŕů (verb)\|săaaiŕů]]** | "generate heat-pain" | to run a fever |
 
-> **Ă wo ŕochỏŕů.** — "I am thirsty." (lit. "I generate thirst.")
+> ă wo ŕochỏŕů. — "I am thirsty." (lit. "I generate thirst.")
 
 ## 2. Exogenous Impressions — `-ch-` (Subjective)
 
@@ -44,16 +44,16 @@ The world **imposes** the state; you register it. Bridge: **[[06A_-ch- (particle
 | **[[săachů (verb)\|săachů]]** | "feel the heat" | to feel hot (the day's heat, not yours) |
 | **[[aichů (verb)\|aichů]]** | "feel pain at" | to be pained by something external |
 
-> **Ă wo zhýchů.** — "I am cold." (lit. "I feel the cold.")
+> ă wo zhýchů. — "I am cold." (lit. "I feel the cold.")
 
 ## 3. Carried Conditions — `ma` (Possession)
 
 Lasting conditions are **held**, on the idiom pattern of [[sháŕo ma (Idiom)|sháŕo ma]]:
 
-- **Jami ma.** — "(I) have an illness." (the disease as a possessed burden)
-- **[[kozètètá ma (Idiom)|Kozètètá ma.]]** — "(I) hold regret."
-- **[[fůjå ma (Idiom)|Fůjå ma.]]** — "(I) have wantlessness."
-- **Ai ma.** — "(I) carry a sorrow." (a grief held for years — contrast §1/§2)
+- jami ma. — "(I) have an illness." (the disease as a possessed burden)
+- [[kozètètá ma (Idiom)|kozètètá ma.]] — "(I) hold regret."
+- [[fůjå ma (Idiom)|fůjå ma.]] — "(I) have wantlessness."
+- ai ma. — "(I) carry a sorrow." (a grief held for years — contrast §1/§2)
 
 ## 4. The Minimal Pairs
 
@@ -68,4 +68,4 @@ Bodies generate heat, never cold — so **cold has no ordinary `-ŕ-` form**. **
 
 ## 6. Choosing in Practice
 
-Ask: *did my body make it* (`-ŕ-`), *did the world push it on me* (`-ch-`), or *do I carry it* (`ma`)? Wellbeing answers ([[63_Social Formulae (Greetings & Everyday Speech)]] §7) follow the same logic: **Ŕochỏŕů!** ("Thirsty!"), **Zhýchů...** ("Cold..."), **Jami ma.** ("Unwell.")
+Ask: *did my body make it* (`-ŕ-`), *did the world push it on me* (`-ch-`), or *do I carry it* (`ma`)? Wellbeing answers ([[63_Social Formulae (Greetings & Everyday Speech)]] §7) follow the same logic: ŕochỏŕů! ("Thirsty!"), zhýchů... ("Cold..."), jami ma. ("Unwell.")

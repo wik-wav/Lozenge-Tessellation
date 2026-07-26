@@ -31,8 +31,12 @@ IPA: /ɾaɪɡo̞/
 - Polish: wulkan
 
 ### Example sentence
-**Ŕăŕo gokŕo vaŕa, ŕa xopă ken, to jëgo tte ŕăgo xiŕa.**
-_Magma sits in a crater and can erupt — that mountain is called a volcano._
+
+#### Example 1
+
+- **Asaxi:** ŕăŕo gokŕo vaŕa, ŕa xopă ken, to jëgo tte ŕăgo xiŕa.
+- **English:** Magma sits in a crater and can erupt — that mountain is called a volcano.
+- **Polish:** x
 
 ### Alternative Forms
 Null

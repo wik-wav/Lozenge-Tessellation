@@ -23,7 +23,12 @@ tags:
 IPA: /faɪ/
 
 ### Example sentence
-**To wo fă apa ma.** _"I have three apples."_
+
+#### Example 1
+
+- **Asaxi:** to wo fă apa ma.
+- **English:** I have three apples.
+- **Polish:** x
 
 ### Derived terms
 - **bifă** (3rd)

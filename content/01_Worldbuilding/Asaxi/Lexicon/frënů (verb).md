@@ -35,8 +35,12 @@ IPA: /fɹeɪnuu̯/
 - Polish: działać swobodnie
 
 ### Example sentence
-**Shá frënů.**
-_People act freely._
+
+#### Example 1
+
+- **Asaxi:** shá frënů.
+- **English:** People act freely.
+- **Polish:** x
 
 ### Alternative Forms
 Null

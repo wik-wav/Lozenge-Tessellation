@@ -22,7 +22,7 @@ IPA: /w/
 
 ### Example sentence
 
-**To John apowů.** _John acts like an apple._ (He is being passive/crisp/etc.).
+to john apowů. John acts like an apple. (He is being passive/crisp/etc.).
 
 ### Etymology
 

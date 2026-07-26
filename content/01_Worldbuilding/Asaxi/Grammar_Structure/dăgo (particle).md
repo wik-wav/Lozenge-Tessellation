@@ -44,8 +44,12 @@ IPA: /daɪgo/
 
 ### Example sentence
 
-**Dăgo sháma tambam zèxăja.**
-_Many people shouted twice._]), ăja (verb).md]
+
+#### Example 1
+
+- **Asaxi:** dăgo sháma tambam zèxăja.
+- **English:** Many people shouted twice.]), ăja (verb).md]
+- **Polish:** x
 
 ### Etymology
 

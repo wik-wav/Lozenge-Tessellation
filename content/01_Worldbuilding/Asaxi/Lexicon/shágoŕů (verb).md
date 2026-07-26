@@ -36,8 +36,12 @@ IPA: /ʃɑɡo̞ɾuu̯/
 - Polish: rzeźbić
 
 ### Example sentence
-**Wo go shágoŕů.**
-_I carve a statue from stone._
+
+#### Example 1
+
+- **Asaxi:** wo go shágoŕů.
+- **English:** I carve a statue from stone.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -25,7 +25,7 @@ Attaches to Nouns, Verbs, and Adjectives to increase their scale or intensity.
 
 **1. With Verbs ("A lot")**
 * **Meaning:** To do the action intensely or frequently.
-* **Example:** **To wo dăshěsonů.** ("I read a lot.")
+* **Example:** to wo dăshěsonů. ("I read a lot.")
 
 **2. With Adjectives ("Very")**
 * **Meaning:** High degree of the quality.

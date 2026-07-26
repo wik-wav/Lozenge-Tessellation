@@ -34,8 +34,12 @@ IPA: /bau̯baʃuu̯/
 - Polish: tracić mięśnie
 
 ### Example sentence
-**Sèwo haśùná, sè wo aśbibåbå båbashů.**
-_Because I don't run, my leg muscles are atrophying._
+
+#### Example 1
+
+- **Asaxi:** sèwo haśùná, sè wo aśbibåbå båbashů.
+- **English:** Because I don't run, my leg muscles are atrophying.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -30,8 +30,12 @@ IPA: /fuu̯zɯ/
 - Polish: brak umiejętności, niekompetencja
 
 ### Example sentence
-To wo fůzù ůchů.
-I feel incompetence (I feel unskilled).
+
+#### Example 1
+
+- **Asaxi:** to wo fůzù ůchů.
+- **English:** I feel incompetence (I feel unskilled).
+- **Polish:** x
 
 ### Alternative Forms
 x

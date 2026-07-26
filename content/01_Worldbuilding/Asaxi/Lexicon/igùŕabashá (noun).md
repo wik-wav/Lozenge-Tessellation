@@ -36,8 +36,12 @@ IPA: /iɡɯɾabaʃɑ/
 
 ### Example sentence
 
-**Wo dåni na jënýj igùŕabashá zèmaxogă.**
-_I've brought you a new playfellow._
+
+#### Example 1
+
+- **Asaxi:** wo dåni na jënýj igùŕabashá zèmaxogă.
+- **English:** I've brought you a new playfellow.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

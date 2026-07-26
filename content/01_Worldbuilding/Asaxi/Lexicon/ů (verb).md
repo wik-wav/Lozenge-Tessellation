@@ -84,20 +84,20 @@ This is the **Active Copula**. It contrasts with:
 ### Example Sentences (Contextual)
 **1. Present (Performance)**
 
-> **To John shějýnshá bů.** `SUBJ` `John` `teacher` `ACT.BE` _"John is being a teacher."_ (He is currently teaching/acting the role).
+> to john shějýnshá bů. `SUBJ` `John` `teacher` `ACT.BE` "John is being a teacher." (He is currently teaching/acting the role).
 
 **2. Standard Past (Behavior)**
 
-> **Vwo, to John gavină zèbů.** `Today`, `SUBJ` `John` `good` `PAST-be` _"Today, John was (being) good."_ (He behaved well).
+> vwo, to john gavină zèbů. `Today`, `SUBJ` `John` `good` `PAST-be` "Today, John was (being) good." (He behaved well).
 
 **3. Distant Past (Change of State)**
 
-> **To o-kamm sỏnidănă kozèbů.** `SUBJ` `this-building` `once-big` `DIST.PAST-be` _"This building used to be big long ago."_ (It maintained a state of bigness, but has since changed).
+> to o-kamm sỏnidănă kozèbů. `SUBJ` `this-building` `once-big` `DIST.PAST-be` "This building used to be big long ago." (It maintained a state of bigness, but has since changed).
 
 **4. Immediate Future (Warning)**
 
-> **Nă! To xő jýnă opabů!** `Stop!` `SUBJ` `he` `loud` `IMM.FUT-be` _"Stop! He is about to be loud!"_ (He is on the brink of shouting).
+> nă! to xő jýnă opabů! `Stop!` `SUBJ` `he` `loud` `IMM.FUT-be` "Stop! He is about to be loud!" (He is on the brink of shouting).
 
 **5. Pluperfect (Sequence)**
 
-> **John xogă vå, Mary hùzèbů.** `John` `arrive` `WHEN`, `Mary` `PLUP-be` _"When John arrived, Mary had (already) been (there/active)."_
+> john xogă vå, mary hùzèbů. `John` `arrive` `WHEN`, `Mary` `PLUP-be` "When John arrived, Mary had (already) been (there/active)."

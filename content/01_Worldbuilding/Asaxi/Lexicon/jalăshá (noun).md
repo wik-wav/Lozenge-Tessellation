@@ -30,8 +30,12 @@ IPA: /Ʝalaɪʃɑ/
 - Polish: ptak
 
 ### Example sentence
-To săni jalăsháma anő jală sháma.
-Most birds are flying creatures.
+
+#### Example 1
+
+- **Asaxi:** to săni jalăsháma anő jală sháma.
+- **English:** Most birds are flying creatures.
+- **Polish:** x
 
 ### Alternative Forms
 x

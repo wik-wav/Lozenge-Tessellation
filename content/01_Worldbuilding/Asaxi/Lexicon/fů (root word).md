@@ -51,8 +51,12 @@ Attaches to a Noun to create a new Noun representing the **absence** of that con
 * *See:* **[[50_Privative Derivation (The `fů-` Prefix)|50_Privative Derivation (The `fů-` Prefix)]]** for syntactic rules regarding possession.
 
 ### Example sentence
-**To wo fůŋono ůchů.**
-_I feel weightlessness._
+
+#### Example 1
+
+- **Asaxi:** to wo fůŋono ůchů.
+- **English:** I feel weightlessness.
+- **Polish:** x
 
 ### Etymology
 Borrowed from Japanese **不** (*fu* - non-/un-).

@@ -23,7 +23,7 @@ Navigation:
 - [[no-gă (noun)]] - there (near you)
 - [[ko-gă (noun)]] - over there
 - [[gă-gă (noun)]] - somewhere
-- [[Itaŕi (noun)]] - Italy
+- [[itaŕi (noun)]] - Italy
 - [[siŕo (noun)]] - the great unknown
 - [[xăsiŕo (noun)]] - outer space
 - [[tamo (noun)]] - limit

@@ -32,8 +32,12 @@ IPA: /t̻͡sɯɾoɾo/
 - Polish: błoto
 
 ### Example sentence
-**Cùŕoŕo aśo nanů.**
-_Mud is on the foot._
+
+#### Example 1
+
+- **Asaxi:** cùŕoŕo aśo nanů.
+- **English:** Mud is on the foot.
+- **Polish:** x
 
 ### Alternative Forms
 x

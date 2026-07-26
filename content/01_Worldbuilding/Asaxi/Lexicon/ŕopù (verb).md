@@ -39,8 +39,12 @@ IPA: /ɾo̞pɯ/
 - Polish: lać, nalewać
 
 ### Example sentence
-**Wo ŕoŕo ŕopù.**
-_I pour the water._
+
+#### Example 1
+
+- **Asaxi:** wo ŕoŕo ŕopù.
+- **English:** I pour the water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

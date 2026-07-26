@@ -28,9 +28,11 @@ IPA: /zɑ/ (Based on phoneme `á` = /ɑ/)
 
 ### Example sentence
 
-1. **Standard Comitative:** 
-	John **zá** kjèpowa jýnů. 
-	_John is talking with the trees._
+#### Example 1
+
+- **Asaxi:** john zá kjèpowa jýnů.
+- **English:** Standard comitative: John is talking with the trees.
+- **Polish:** x
 
 ### Derived terms
 

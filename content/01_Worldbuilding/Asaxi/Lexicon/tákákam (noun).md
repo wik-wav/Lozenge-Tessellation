@@ -31,8 +31,12 @@ IPA: /t̪ɑkɑkam/
 - Polish: zamek
 
 ### Example sentence
-**Tákákam jëgo nanů.**
-_A castle is on the mountain._
+
+#### Example 1
+
+- **Asaxi:** tákákam jëgo nanů.
+- **English:** A castle is on the mountain.
+- **Polish:** x
 
 ### Alternative Forms
 Null

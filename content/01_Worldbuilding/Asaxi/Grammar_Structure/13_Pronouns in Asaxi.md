@@ -56,7 +56,7 @@ Asaxi possesses a dedicated singular pronoun for non-binary gender (_gő_). Unli
 Pronouns occupy the Noun Phrase slot.
 
 **Subject Position:** `[to] + [Pronoun] + (Object) + [Verb]`
-- _Example:_ `To ko shěsonů.` or simply `Ko shěso shěsonů` (She reads a book.)
+- _Example:_ `to ko shěsonů.` or simply `ko shěso shěsonů` (She reads a book.)
 
 **Object Position:** `[to Subject] + [Pronoun] + [Verb]`
 - _Example:_ `To ko wo ijo.` (She sees me.)
@@ -68,24 +68,24 @@ Asaxi is a **Pro-drop** (Pronoun Dropping) language. This means that pronouns ar
 #### Rules of Omission
 
 1. **Universal Scope:** Dropping is not limited to the first clause or the Subject position. Any pronoun (Subject, Object, or Oblique) **anywhere in the sentence** is dropped if it is understood.
-    - _Example:_ "I see him." → `Ijo.` (Both "I" and "Him" are dropped if context implies I am looking at him).
+    - _Example:_ "I see him." → `ijo.` (Both "I" and "Him" are dropped if context implies I am looking at him).
 
 2. **Implied Existence:** The absence of a noun/pronoun in a mandatory slot implies that the slot is filled by the context.
 
 3. **Emphasis:** If a pronoun **is** spoken when it could have been dropped, it acts as **Emphatic**.
-    - _Explicit:_ `To wo aśù.` = "It is **I** who walks."
-    - _Default:_ `Aśù.` = "(I) walk."
+    - _Explicit:_ `to wo aśù.` = "It is **I** who walks."
+    - _Default:_ `aśù.` = "(I) walk."
 
 #### Examples
 
 **Context 1: Talking about oneself (Subject Drop)**
-- _Redundant:_ `To wo apa sùki.` (It is I who likes apples).
-- _Correct:_ **Apa sùkixů.** ((I) like apples).
+- _Redundant:_ `to wo apa sùki.` (It is I who likes apples).
+- _Correct:_ apa sùkixů. ((I) like apples).
 
 **Context 2: Answering "What is he doing?" (Subject & Object Drop)**
 
-- _Redundant:_ `To xő shěso shěsonů.` (He is reading the book).
-- _Correct:_ **Shěsonů.** ((He) reads (it)).
+- _Redundant:_ `to xő shěso shěsonů.` (He is reading the book).
+- _Correct:_ shěsonů. ((He) reads (it)).
 
 ### 4. Poetic Prefixing (The Euphonic `o-`)
 
@@ -101,5 +101,5 @@ In poetry, lyrics, and rhythmic speech, pronouns may take a semantically null pr
 
 | Standard         | Poetic / Metric   |
 | ---------------- | ----------------- |
-| **Wo** aśù.      | **Owo** aśù.      |
+| **wo** aśù.      | **Owo** aśù.      |
 | John **jo** ijo. | John **ojo** ijo. |

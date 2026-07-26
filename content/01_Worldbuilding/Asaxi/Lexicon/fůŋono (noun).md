@@ -30,8 +30,12 @@ IPA: /fuŋono/
 - Polish: nieważkość
 
 ### Example sentence
-**Vaxăsiŕo shá gafůŋono niŕa.**
-_In space, creatures become weightless (weightless-type)._
+
+#### Example 1
+
+- **Asaxi:** vaxăsiŕo shá gafůŋono niŕa.
+- **English:** In space, creatures become weightless (weightless-type).
+- **Polish:** x
 
 ### Alternative Forms
 Null

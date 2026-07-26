@@ -31,8 +31,12 @@ IPA: /nodobi/
 - Polish: naszyjnik
 
 ### Example sentence
-**Nodobi nodo naŕa.**
-_A necklace is on the neck._
+
+#### Example 1
+
+- **Asaxi:** nodobi nodo naŕa.
+- **English:** A necklace is on the neck.
+- **Polish:** x
 
 ### Alternative Forms
 Null

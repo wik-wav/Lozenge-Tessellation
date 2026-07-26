@@ -39,8 +39,12 @@ IPA: /t̪ou̯b̪va/
 - Polish: przyjmować
 
 ### Example sentence
-**Wo daono tỏva.**
-_I accept the gift._
+
+#### Example 1
+
+- **Asaxi:** wo daono tỏva.
+- **English:** I accept the gift.
+- **Polish:** x
 
 ### Alternative Forms
 Null

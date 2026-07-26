@@ -31,8 +31,12 @@ IPA: /ʋou̯bi/
 - Polish: rura
 
 ### Example sentence
-**Ŕoŕo wỏbi vanů.**
-_Water is in the pipe._
+
+#### Example 1
+
+- **Asaxi:** ŕoŕo wỏbi vanů.
+- **English:** Water is in the pipe.
+- **Polish:** x
 
 ### Alternative Forms
 Null

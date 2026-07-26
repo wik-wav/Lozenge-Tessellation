@@ -31,8 +31,12 @@ IPA: /ɾaɪ.iꞲoʃɑ/
 - Polish: lew
 
 ### Example sentence
-**To ŕăijoshá sháŕo ma.**
-_The lion owns (has) the world (pond)._
+
+#### Example 1
+
+- **Asaxi:** to ŕăijoshá sháŕo ma.
+- **English:** The lion owns (has) the world (pond).
+- **Polish:** x
 
 ### Alternative Forms
 Null

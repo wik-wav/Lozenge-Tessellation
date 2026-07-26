@@ -30,8 +30,12 @@ IPA: /pawo/
 - Polish: przód
 
 ### Example sentence
-**To John pawo vanů.**
-_John occupies the front._
+
+#### Example 1
+
+- **Asaxi:** to john pawo vanů.
+- **English:** John occupies the front.
+- **Polish:** x
 
 ### Alternative Forms
 Null

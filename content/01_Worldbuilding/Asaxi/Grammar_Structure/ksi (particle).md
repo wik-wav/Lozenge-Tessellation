@@ -29,4 +29,9 @@ Derived from the question prefix **k-** + **[[siŕo (noun)|si]]** (Root of _siŕ
 
 ### Example sentence
 
-**John ksi aśù?** _Where is John walking?_
+
+#### Example 1
+
+- **Asaxi:** john ksi aśù?
+- **English:** Where is John walking?
+- **Polish:** x

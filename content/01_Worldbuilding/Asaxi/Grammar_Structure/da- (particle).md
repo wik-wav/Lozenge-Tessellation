@@ -26,4 +26,15 @@ IPA: /da/
 
 ### Example sentence
 
-**dasă** (100). **datam** (200).
+
+#### Example 1
+
+- **Asaxi:** dasă
+- **English:** 100
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** datam
+- **English:** 200
+- **Polish:** x

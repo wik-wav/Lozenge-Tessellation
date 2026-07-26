@@ -31,8 +31,12 @@ IPA: /maɾə/
 - Polish: marchew
 
 ### Example sentence
-**Maŕè cù vanů.**
-_The carrot is in the soil._
+
+#### Example 1
+
+- **Asaxi:** maŕè cù vanů.
+- **English:** The carrot is in the soil.
+- **Polish:** x
 
 ### Alternative Forms
 Null

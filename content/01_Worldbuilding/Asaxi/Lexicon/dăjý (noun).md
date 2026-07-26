@@ -31,8 +31,12 @@ IPA: /daɪjɪ/
 - Polish: grzmot
 
 ### Example sentence
-**Wå, dăjý!**
-_Woah — thunder!_
+
+#### Example 1
+
+- **Asaxi:** wå, dăjý!
+- **English:** Woah — thunder!
+- **Polish:** x
 
 ### Alternative Forms
 Null

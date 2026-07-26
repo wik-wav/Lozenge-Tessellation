@@ -31,8 +31,12 @@ IPA: /fɯko/
 - Polish: szata
 
 ### Example sentence
-**To shá fùko ma.**
-_The person has a robe._
+
+#### Example 1
+
+- **Asaxi:** to shá fùko ma.
+- **English:** The person has a robe.
+- **Polish:** x
 
 ### Alternative Forms
 Null

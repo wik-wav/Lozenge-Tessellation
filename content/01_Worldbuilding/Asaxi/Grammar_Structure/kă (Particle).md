@@ -35,9 +35,18 @@ IPA: /kaɪ/
 
 ### Example sentence
 
-**Suffix:** **Apo chỏnůkă.** _Please eat the apple._
 
-**Prefix:** **To no wő kăxijo.** _Kindly look at me._
+#### Example 1
+
+- **Asaxi:** apo chỏnůkă.
+- **English:** Suffix: Please eat the apple.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to no wő kăxijo.
+- **English:** Prefix: Kindly look at me.
+- **Polish:** x
 
 ### Etymology
 

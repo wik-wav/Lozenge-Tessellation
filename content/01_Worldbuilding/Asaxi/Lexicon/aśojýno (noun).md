@@ -36,8 +36,12 @@ IPA: /aɕo̞jɪno̞/
 
 ### Example sentence
 
-**Ămă aśojýno zèxiŕa.**
-_Just then there was a sound of footsteps._
+
+#### Example 1
+
+- **Asaxi:** ămă aśojýno zèxiŕa.
+- **English:** Just then there was a sound of footsteps.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

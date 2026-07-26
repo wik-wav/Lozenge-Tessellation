@@ -31,8 +31,12 @@ IPA: /mao̞ɦi/
 - Polish: zaćmienie
 
 ### Example sentence
-**Mao xi ŋèxů sèni, maoxi bů.**
-_The moon occludes the sun, so there is an eclipse._
+
+#### Example 1
+
+- **Asaxi:** mao xi ŋèxů sèni, maoxi bů.
+- **English:** The moon occludes the sun, so there is an eclipse.
+- **Polish:** x
 
 ### Alternative Forms
 Null

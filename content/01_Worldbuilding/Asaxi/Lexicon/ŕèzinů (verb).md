@@ -34,8 +34,12 @@ IPA: /ɾəz̪inuu̯/
 - Polish: być dumnym
 
 ### Example sentence
-**To wo ŕèzinů.**
-_I am acting proud._
+
+#### Example 1
+
+- **Asaxi:** to wo ŕèzinů.
+- **English:** I am acting proud.
+- **Polish:** x
 
 ### Alternative Forms
 Null

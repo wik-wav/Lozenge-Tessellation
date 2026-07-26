@@ -39,8 +39,12 @@ IPA: /maɦogaɪ/
 - Polish: przynosić
 
 ### Example sentence
-**Ŕoŕo maxogăkă.**
-_Please bring water._
+
+#### Example 1
+
+- **Asaxi:** ŕoŕo maxogăkă.
+- **English:** Please bring water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

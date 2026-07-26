@@ -23,7 +23,7 @@ tags:
 ### Syntax
 
 Placed at the very **start** of the sentence, separated by a pause (comma).
-* **Structure:** `Wå, [Sentence].`
+* **Structure:** `wå, [Sentence].`
 
 ### Pronunciation
 
@@ -31,8 +31,12 @@ IPA: /wau̯/
 
 ### Example sentence
 
-**Wå, to o-kamm dănă ůjů!**
-_Woah, this building looks huge!_
+
+#### Example 1
+
+- **Asaxi:** wå, to o-kamm dănă ůjů!
+- **English:** Woah, this building looks huge!
+- **Polish:** x
 
 ### Etymology
 

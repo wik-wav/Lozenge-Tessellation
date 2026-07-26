@@ -31,8 +31,12 @@ IPA: /kem/
 - Polish: drzwi, brama
 
 ### Example sentence
-**To wo kem zèchěcho'.**
-_I closed the door._
+
+#### Example 1
+
+- **Asaxi:** to wo kem zèchěcho'.
+- **English:** I closed the door.
+- **Polish:** x
 
 ### Alternative Forms
 x

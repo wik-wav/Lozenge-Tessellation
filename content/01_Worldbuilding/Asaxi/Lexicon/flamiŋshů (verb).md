@@ -36,11 +36,18 @@ IPA: /fla.mi.ŋ.ʃuw/
 - Polish: chować się, ukrywać, kamuflować
 
 ### Example sentence
-**To wo flamiŋshů.**
-_I am hiding._ (I am being un-conspicuous).
 
-**To wo shěso flamiŋshů.**
-_I hide the book._
+#### Example 1
+
+- **Asaxi:** to wo flamiŋshů.
+- **English:** I am hiding. (I am being un-conspicuous).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo shěso flamiŋshů.
+- **English:** I hide the book.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /mao̞ɪtʰe̞ʃɑ/
 
 ### Example sentence
 
-**Hjiny gasi maőtxesháma zèpăjală.**
-_The little white moths fluttered out._
+
+#### Example 1
+
+- **Asaxi:** hjiny gasi maőtxesháma zèpăjală.
+- **English:** The little white moths fluttered out.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

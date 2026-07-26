@@ -31,8 +31,12 @@ IPA: /z̪iz̪i/
 - Polish: komar
 
 ### Example sentence
-**Zizi chi tănů.**
-_The mosquito collects blood._
+
+#### Example 1
+
+- **Asaxi:** zizi chi tănů.
+- **English:** The mosquito collects blood.
+- **Polish:** x
 
 ### Alternative Forms
 Null

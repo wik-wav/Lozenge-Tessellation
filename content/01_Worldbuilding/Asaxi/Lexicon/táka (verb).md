@@ -39,8 +39,12 @@ IPA: /t̪ɑka/
 - Polish: wojować, toczyć wojnę
 
 ### Example sentence
-**To gaŕa zá păgaŕa táka.**
-_Cities wage war against other cities._
+
+#### Example 1
+
+- **Asaxi:** to gaŕa zá păgaŕa táka.
+- **English:** Cities wage war against other cities.
+- **Polish:** x
 
 ### Alternative Forms
 Null

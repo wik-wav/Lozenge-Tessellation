@@ -22,7 +22,7 @@ IPA: /ɾ/
 
 ### Example sentence
 
-**To kjèpo apa apoŕů.** _The tree grows apples._
+to kjèpo apa apoŕů. The tree grows apples.
 
 ### Etymology
 

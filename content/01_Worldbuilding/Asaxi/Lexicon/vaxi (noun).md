@@ -31,8 +31,12 @@ IPA: /b̪vaɦi/
 - Polish: data, dzień
 
 ### Example sentence
-**Vaxi pavwo, wo xogă.**
-_On tomorrow's date, I arrive._
+
+#### Example 1
+
+- **Asaxi:** vaxi pavwo, wo xogă.
+- **English:** On tomorrow's date, I arrive.
+- **Polish:** x
 
 ### Alternative Forms
 Null

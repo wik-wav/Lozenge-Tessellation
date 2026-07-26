@@ -39,8 +39,12 @@ IPA: /ijʃa/
 - Polish: ignorować
 
 ### Example sentence
-**Wo tètá ijsha.**
-_I ignore the pain._
+
+#### Example 1
+
+- **Asaxi:** wo tètá ijsha.
+- **English:** I ignore the pain.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /ɦaŋobwo/
 - Polish: otyłość, nadwaga (chorobliwa)
 
 ### Example sentence
-**To xaŋobwo tètánă xiŕa.**
-_Obesity is painful._
+
+#### Example 1
+
+- **Asaxi:** to xaŋobwo tètánă xiŕa.
+- **English:** Obesity is painful.
+- **Polish:** x
 
 ### Alternative Forms
 Null

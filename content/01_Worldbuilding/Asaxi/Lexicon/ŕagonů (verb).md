@@ -36,8 +36,12 @@ IPA: /ɾaɡo̞nuu̯/
 - Polish: zwęglać
 
 ### Example sentence
-**Wo vèno ŕagonů.**
-_I char the wood._
+
+#### Example 1
+
+- **Asaxi:** wo vèno ŕagonů.
+- **English:** I char the wood.
+- **Polish:** x
 
 ### Alternative Forms
 Null

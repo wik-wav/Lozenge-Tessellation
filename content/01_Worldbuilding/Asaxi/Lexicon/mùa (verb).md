@@ -39,8 +39,12 @@ IPA: /mɯa/
 - Polish: całować
 
 ### Example sentence
-**Wo mỏtam mùa.**
-_I kiss my wife._
+
+#### Example 1
+
+- **Asaxi:** wo mỏtam mùa.
+- **English:** I kiss my wife.
+- **Polish:** x
 
 ### Alternative Forms
 Null

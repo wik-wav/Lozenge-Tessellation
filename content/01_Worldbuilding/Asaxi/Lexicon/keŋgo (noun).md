@@ -31,8 +31,12 @@ IPA: /ke̞ŋɡo̞/
 - Polish: zamek (do drzwi)
 
 ### Example sentence
-**Keŋgo kem kma.**
-_A lock holds the door._
+
+#### Example 1
+
+- **Asaxi:** keŋgo kem kma.
+- **English:** A lock holds the door.
+- **Polish:** x
 
 ### Alternative Forms
 Null

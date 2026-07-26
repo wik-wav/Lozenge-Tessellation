@@ -31,8 +31,12 @@ IPA: /ijoɾoʃɑ/
 - Polish: szary człowiek, istota pospolita
 
 ### Example sentence
-**To wo ijoŕoshá xiŕa.**
-_I am [just] an everyman._
+
+#### Example 1
+
+- **Asaxi:** to wo ijoŕoshá xiŕa.
+- **English:** I am [just] an everyman.
+- **Polish:** x
 
 ### Alternative Forms
 Null

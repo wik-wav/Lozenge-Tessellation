@@ -31,8 +31,12 @@ IPA: /ɾo̞iz̪o̞/
 - Polish: źródło
 
 ### Example sentence
-**Ŕo ŕoizo izoŕa.**
-_Water comes from a spring._
+
+#### Example 1
+
+- **Asaxi:** ŕo ŕoizo izoŕa.
+- **English:** Water comes from a spring.
+- **Polish:** x
 
 ### Alternative Forms
 Null

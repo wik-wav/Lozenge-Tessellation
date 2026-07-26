@@ -27,9 +27,9 @@ In Asaxi, Tense and Aspect are not restricted to the main verb. Specific particl
 These particles function as **Floating Modifiers**. They can appear **before** or **after** the element they modify.
 
 - **Pre-Position (`sỏni-X`):** Standard modification.
-    - _Example:_ **To śýstèm sỏnigavină.** ("This system is [once-good].") -> _It used to be good._
+    - _Example:_ to śýstèm sỏnigavină. ("This system is [once-good].") -> It used to be good.
 - **Post-Position (`X-sỏni`):** Dramatic or emphatic modification.
-    - _Example:_ **To śýstèm gavinăsỏni.** ("This system... good-used-to-be.") -> _Same meaning, different rhythm._
+    - _Example:_ to śýstèm gavinăsỏni. ("This system... good-used-to-be.") -> Same meaning, different rhythm.
 
 ### 3. Usage by Category
 
@@ -43,4 +43,4 @@ These particles function as **Floating Modifiers**. They can appear **before** o
 
 **C. Verbs (Adverbial Tense)**
 
-> **To wo sỏni aśù.** _"I walk [as I once did]."_ (Modifies the manner).
+> to wo sỏni aśù. "I walk [as I once did]." (Modifies the manner).

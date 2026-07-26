@@ -31,8 +31,12 @@ IPA: /vakam/
 - Polish: pokój, izba
 
 ### Example sentence
-**O-vakam hjinýj.**
-_This room is small._
+
+#### Example 1
+
+- **Asaxi:** o-vakam hjinýj.
+- **English:** This room is small.
+- **Polish:** x
 
 ### Alternative Forms
 Null

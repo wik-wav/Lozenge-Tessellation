@@ -38,4 +38,9 @@ IPA: /tʃɚɦa/
 
 ### Example sentence
 
-**Topo toponů chěxa, pahaśù.** _Even if it rains, (I) will run._
+
+#### Example 1
+
+- **Asaxi:** topo toponů chěxa, pahaśù.
+- **English:** Even if it rains, (I) will run.
+- **Polish:** x

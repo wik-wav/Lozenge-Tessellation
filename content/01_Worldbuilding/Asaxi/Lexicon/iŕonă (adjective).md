@@ -67,10 +67,15 @@ Null
 When applied to a person, it implies a "good weirdness"—someone who lives freely, authentically, or interestingly. It corresponds to the verb **[[iŕonů (verb)|iŕonů]]** (To enjoy oneself/act freely).
 
 ### Example sentences
-**Phenomenon:**
-**Toonă o-wao iŕonă xiŕa.**
-_This world is colourful._
 
-**Person:**
-**To John iŕonă shá xiŕa.**
-_John is an odd (colourful/interesting) person._
+#### Example 1
+
+- **Asaxi:** toonă o-wao iŕonă xiŕa.
+- **English:** Phenomenon: This world is colourful.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to john iŕonă shá xiŕa.
+- **English:** Person: John is an odd (colourful/interesting) person.
+- **Polish:** x

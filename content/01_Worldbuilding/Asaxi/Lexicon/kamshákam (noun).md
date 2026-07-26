@@ -31,8 +31,12 @@ IPA: /kamʃɑkam/
 - Polish: siłownia
 
 ### Example sentence
-**Gabåbåshá kamshákam vanů.**
-_The bodybuilder is in the gym._
+
+#### Example 1
+
+- **Asaxi:** gabåbåshá kamshákam vanů.
+- **English:** The bodybuilder is in the gym.
+- **Polish:** x
 
 ### Alternative Forms
 Null

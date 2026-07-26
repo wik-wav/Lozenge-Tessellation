@@ -31,8 +31,12 @@ IPA: /kɯkɯ/
 - Polish: kura
 
 ### Example sentence
-**Kùkù bao ůŕů.**
-_The hen lays an egg._
+
+#### Example 1
+
+- **Asaxi:** kùkù bao ůŕů.
+- **English:** The hen lays an egg.
+- **Polish:** x
 
 ### Alternative Forms
 Null

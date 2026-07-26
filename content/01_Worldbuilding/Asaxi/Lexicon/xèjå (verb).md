@@ -39,8 +39,12 @@ IPA: /ɦəjau̯/
 - Polish: próbować, starać się
 
 ### Example sentence
-**To wo \[task\] xèjå.**
-_I attempt the task._
+
+#### Example 1
+
+- **Asaxi:** to wo \[task\] xèjå.
+- **English:** I attempt the task.
+- **Polish:** x
 
 ### Alternative Forms
 Null

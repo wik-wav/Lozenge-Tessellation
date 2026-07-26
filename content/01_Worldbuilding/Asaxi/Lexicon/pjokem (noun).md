@@ -31,8 +31,12 @@ IPA: /pʲokem/
 - Polish: okno
 
 ### Example sentence
-**Pjokem em.mohè!**
-_Open the window!_
+
+#### Example 1
+
+- **Asaxi:** pjokem em.mohè!
+- **English:** Open the window!
+- **Polish:** x
 
 ### Alternative Forms
 Null

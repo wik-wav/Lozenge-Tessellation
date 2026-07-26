@@ -31,8 +31,12 @@ IPA: /t̠ʃo̞snə/
 - Polish: czosnek
 
 ### Example sentence
-**Chosnè chỏno vanů.**
-_Garlic is in the food._
+
+#### Example 1
+
+- **Asaxi:** chosnè chỏno vanů.
+- **English:** Garlic is in the food.
+- **Polish:** x
 
 ### Alternative Forms
 Null

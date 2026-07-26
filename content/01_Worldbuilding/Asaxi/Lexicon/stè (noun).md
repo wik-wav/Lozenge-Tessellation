@@ -31,8 +31,12 @@ IPA: /st̪ə/
 - Polish: równina
 
 ### Example sentence
-**To paoshá stè vanů.**
-_The horse ranges across the plain._
+
+#### Example 1
+
+- **Asaxi:** to paoshá stè vanů.
+- **English:** The horse ranges across the plain.
+- **Polish:** x
 
 ### Alternative Forms
 Null

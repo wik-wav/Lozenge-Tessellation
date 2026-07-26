@@ -26,7 +26,12 @@ IPA: /ɲika/
 
 ### Example sentence
 
-**To ka nika ijo.** _They (women) see themselves._
+
+#### Example 1
+
+- **Asaxi:** to ka nika ijo.
+- **English:** They (women) see themselves.
+- **Polish:** x
 
 ### Etymology
 

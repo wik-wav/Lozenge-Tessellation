@@ -21,10 +21,10 @@ tags:
 
 ### Usage Note
 
-Literally "**(I) have wantlessness.**"
+Literally "(I) have wantlessness."
 * *Cultural Context:* Gratitude in Asaxi is framed as **fůjå** — contentment, freedom from desire. To thank someone is to declare that, because of them, you currently lack nothing. It follows the possession-idiom pattern of [[sháŕo ma (Idiom)|sháŕo ma]].
-* **Emphatic/formal:** **Ă wo fůjå ma.** — the subjective subject `ă` marks the gratitude as deeply felt.
-* **Reply:** **Nèŕa.** ("It is nothing.")
+* **Emphatic/formal:** ă wo fůjå ma. — the subjective subject `ă` marks the gratitude as deeply felt.
+* **Reply:** nèŕa. ("It is nothing.")
 
 ### Structure
 `[Subject (dropped)] fůjå ma`
@@ -34,8 +34,12 @@ IPA: /fuu̯Ʝau̯ ma/
 
 ### Example sentence
 
-**Fůjå ma, ăjo John. — Nèŕa.**
-_"Thank you, John." — "It's nothing."_
+
+#### Example 1
+
+- **Asaxi:** fůjå ma, ăjo john. — nèŕa.
+- **English:** Thank you, John." — "It's nothing.
+- **Polish:** x
 
 ### Etymology
 

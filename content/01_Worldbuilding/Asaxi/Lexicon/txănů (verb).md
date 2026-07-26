@@ -36,8 +36,12 @@ IPA: /tʰaɪnuu̯/
 - Polish: starzeć się, przybywać lat
 
 ### Example sentence
-To wo txănů.
-I am aging.
+
+#### Example 1
+
+- **Asaxi:** to wo txănů.
+- **English:** I am aging.
+- **Polish:** x
 
 ### Alternative Forms
 x

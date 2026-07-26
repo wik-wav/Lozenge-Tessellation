@@ -39,7 +39,12 @@ IPA: /opɯnau̯/
 
 ### Example sentence
 
-**To wo shěsonů opùnå.** _I usually read._
+
+#### Example 1
+
+- **Asaxi:** to wo shěsonů opùnå.
+- **English:** I usually read.
+- **Polish:** x
 
 ### Antonyms
 

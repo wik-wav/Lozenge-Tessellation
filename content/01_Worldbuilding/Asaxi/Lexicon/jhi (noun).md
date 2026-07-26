@@ -36,8 +36,12 @@ IPA: /d̠ʒi/
 
 ### Example sentence
 
-**Nixå tam jhiwa onă Bỏhjá ni xő zèsùkixů.**
-_For two hours the Boy loved him._
+
+#### Example 1
+
+- **Asaxi:** nixå tam jhiwa onă bỏhjá ni xő zèsùkixů.
+- **English:** For two hours the Boy loved him.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -63,5 +67,5 @@ Null
 
 Duration rule: time units join [[nixå (particle)|nixå]] for duration readings (`nixå tam jhiwa` "for two hours") but stand alone as ordinary nouns elsewhere. See [[41_Time & Frequency (The `mă` System)]].
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].
 

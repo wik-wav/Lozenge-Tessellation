@@ -24,7 +24,7 @@ To indicate the entirety of an object or time unit, use the prefix **să-** (One
 - **Examples:**
     - **săhwo** ("All yesterday" / "The whole day of yesterday").
     - **săsăshěso** ("The entire book").
-    - Example sentence: **Săhwo to John shěso zèshěsonů.** _All day yesterday, John was reading a book. _
+    - Example sentence: săhwo to john shěso zèshěsonů. All day yesterday, John was reading a book. 
 
 ### 2. Partiality ("Half / Part")
 
@@ -39,4 +39,4 @@ To indicate a fraction of an object, use the fractional prefixes established in 
 
 These compounds function as **Nouns**.
 
-> **To [săsă-wao] gavină xiŕa.** _"The entire world is good."_
+> to [săsă-wao] gavină xiŕa. "The entire world is good."

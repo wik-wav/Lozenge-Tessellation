@@ -30,8 +30,12 @@ IPA: /t̪amou̯bʷoɦat̪eɪbibau̯bau̯/
 - Polish: biceps, mięsień dwugłowy ramienia
 
 ### Example sentence
-**To tamỏbwoxatëbibåba gavină zèỏbåbåŕů.**
-_The biceps are well defined._
+
+#### Example 1
+
+- **Asaxi:** to tamỏbwoxatëbibåba gavină zèỏbåbåŕů.
+- **English:** The biceps are well defined.
+- **Polish:** x
 
 ### Alternative Forms
 Null

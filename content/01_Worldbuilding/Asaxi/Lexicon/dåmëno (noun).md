@@ -31,8 +31,12 @@ IPA: /dau̯meɪno/
 - Polish: wiadomość, list
 
 ### Example sentence
-**To wo dåmëno zètỏma.**
-_I received a message._
+
+#### Example 1
+
+- **Asaxi:** to wo dåmëno zètỏma.
+- **English:** I received a message.
+- **Polish:** x
 
 ### Alternative Forms
 Null

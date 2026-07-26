@@ -39,8 +39,12 @@ IPA: /ɡɯko̞/
 - Polish: wiązać
 
 ### Example sentence
-**Wo gùŕo gùko.**
-_I tie the rope._
+
+#### Example 1
+
+- **Asaxi:** wo gùŕo gùko.
+- **English:** I tie the rope.
+- **Polish:** x
 
 ### Alternative Forms
 Null

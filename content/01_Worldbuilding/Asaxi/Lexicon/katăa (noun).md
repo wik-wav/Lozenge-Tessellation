@@ -31,8 +31,12 @@ IPA: /kat̪aɪa/
 - Polish: miecz, katana
 
 ### Example sentence
-**Katăa sxëbonýj.**
-_Katanas are sharp._
+
+#### Example 1
+
+- **Asaxi:** katăa sxëbonýj.
+- **English:** Katanas are sharp.
+- **Polish:** x
 
 ### Alternative Forms
 Null

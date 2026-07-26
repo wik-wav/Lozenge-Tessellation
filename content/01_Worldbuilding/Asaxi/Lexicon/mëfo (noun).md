@@ -31,8 +31,12 @@ IPA: /meɪfo̞/
 - Polish: czoło
 
 ### Example sentence
-**Mëfo mëjo xaŕa.**
-_The forehead is above the eyes._
+
+#### Example 1
+
+- **Asaxi:** mëfo mëjo xaŕa.
+- **English:** The forehead is above the eyes.
+- **Polish:** x
 
 ### Alternative Forms
 Null

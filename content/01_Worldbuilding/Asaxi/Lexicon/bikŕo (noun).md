@@ -31,8 +31,12 @@ IPA: /bikɾo/
 - Polish: płot
 
 ### Example sentence
-**To haoshá bikŕo hùŕa.**
-_The dog is behind the fence._
+
+#### Example 1
+
+- **Asaxi:** to haoshá bikŕo hùŕa.
+- **English:** The dog is behind the fence.
+- **Polish:** x
 
 ### Alternative Forms
 Null

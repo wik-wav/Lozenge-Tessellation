@@ -64,8 +64,21 @@ Null
 Describes a moment of clarity where the speaker assesses their reality and forms a strong, unshakeable belief (positive or negative) about the outcome. It implies looking "inward" (`ă`) to see (`ijo`) the truth.
 
 ### Example sentences
-**Positive Conviction:** **Wo ăijo. Pwo gavină paniŕa.** _I grasp the situation. Tomorrow will turn out well._
 
-**Negative Realization:** **Wo ăijo. To wa pazènáxăhèxoxo.** _I realize it. We will definitely not be forced to leave._ (Conviction about a future outcome).
+#### Example 1
 
-**To John \[situation\] xădănă ăijo.** `SUBJ` `John` `[situation]` `very-heavily` `REALIZED` _"John got a very heavy (serious) grip on the situation."_ _(Note: Using `xădănă` as an adverb for mental weight)._
+- **Asaxi:** wo ăijo. pwo gavină paniŕa.
+- **English:** Positive Conviction: I grasp the situation. Tomorrow will turn out well.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** wo ăijo. to wa pazènáxăhèxoxo.
+- **English:** Negative Realization: I realize it. We will definitely not be forced to leave. (Conviction about a future outcome).
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** to john \[situation\] xădănă ăijo.
+- **English:** Gloss: SUBJ John [situation] very-heavily REALIZED: "John got a very heavy (serious) grip on the situation." (Note: Using `xădănă` as an adverb for mental weight).
+- **Polish:** x

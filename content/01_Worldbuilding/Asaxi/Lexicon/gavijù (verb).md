@@ -39,8 +39,12 @@ IPA: /ɡab̪vijɯ/
 - Polish: chwalić
 
 ### Example sentence
-**Wo bỏhjá gavijù.**
-_I praise my son._
+
+#### Example 1
+
+- **Asaxi:** wo bỏhjá gavijù.
+- **English:** I praise my son.
+- **Polish:** x
 
 ### Alternative Forms
 Null

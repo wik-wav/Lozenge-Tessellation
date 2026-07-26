@@ -31,8 +31,12 @@ IPA: /ɾoɾo/
 - Polish: woda
 
 ### Example sentence
-**To wo ŕoŕo ŕoŕonů.**
-_I drink water._
+
+#### Example 1
+
+- **Asaxi:** to wo ŕoŕo ŕoŕonů.
+- **English:** I drink water.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -35,8 +35,12 @@ IPA: /ɦaŋonuu̯/
 - Polish: ważyć (w tonach)
 
 ### Example sentence
-**To kamm xatam daŕă damŕă ŕă xaŋonů.**
-_The building weighs 2555 tonnes._
+
+#### Example 1
+
+- **Asaxi:** to kamm xatam daŕă damŕă ŕă xaŋonů.
+- **English:** The building weighs 2555 tonnes.
+- **Polish:** x
 
 ### Alternative Forms
 Null

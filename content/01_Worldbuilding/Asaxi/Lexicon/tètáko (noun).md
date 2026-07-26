@@ -30,8 +30,12 @@ IPA: /t̪ət̪ɑko/
 - Polish: walka
 
 ### Example sentence
-**Sháma tètáko táka.**
-_The people wage a fight._
+
+#### Example 1
+
+- **Asaxi:** sháma tètáko táka.
+- **English:** The people wage a fight.
+- **Polish:** x
 
 ### Alternative Forms
 Null

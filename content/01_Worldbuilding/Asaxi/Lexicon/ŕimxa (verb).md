@@ -39,8 +39,12 @@ IPA: /ɾimɦa/
 - Polish: skupiać się
 
 ### Example sentence
-**Wo shěso ŕimxa.**
-_I focus on the book._
+
+#### Example 1
+
+- **Asaxi:** wo shěso ŕimxa.
+- **English:** I focus on the book.
+- **Polish:** x
 
 ### Alternative Forms
 Null

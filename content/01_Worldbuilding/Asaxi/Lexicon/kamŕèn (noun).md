@@ -30,8 +30,12 @@ IPA: /kamɾən/
 - Polish: zarządca, dozorca, strażnik
 
 ### Example sentence
-**To ijoŕaŕokamŕèn vănýj aśù.** 
-_The temple keeper walks slowly._
+
+#### Example 1
+
+- **Asaxi:** to ijoŕaŕokamŕèn vănýj aśù.
+- **English:** The temple keeper walks slowly.
+- **Polish:** x
 
 ### Alternative Forms
 Null

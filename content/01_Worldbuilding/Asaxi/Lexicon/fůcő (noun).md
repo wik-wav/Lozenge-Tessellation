@@ -30,8 +30,12 @@ IPA: /fuu̯t͡soɪ/
 - Polish: nieporozumienie, niezrozumienie
 
 ### Example sentence
-**Toonă o-tètáko bă fůcő xiŕa.**
-_This fight is a misunderstanding._
+
+#### Example 1
+
+- **Asaxi:** toonă o-tètáko bă fůcő xiŕa.
+- **English:** This fight is a misunderstanding.
+- **Polish:** x
 
 ### Alternative Forms
 Null

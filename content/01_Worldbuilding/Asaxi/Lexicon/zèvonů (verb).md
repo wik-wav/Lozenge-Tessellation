@@ -36,8 +36,12 @@ IPA: /zəvonuu̯/
 - Polish: nazywać, mianować, wołać (po imieniu)
 
 ### Example sentence
-To wo mmråhjá "Luna" zèzèvonů.
-I named the kitten "Luna."
+
+#### Example 1
+
+- **Asaxi:** to wo mmråhjá „luna” zèzèvonů.
+- **English:** I named the kitten "Luna."
+- **Polish:** x
 
 ### Alternative Forms
 x

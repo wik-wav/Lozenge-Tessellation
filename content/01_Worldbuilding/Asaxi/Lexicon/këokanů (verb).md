@@ -36,8 +36,12 @@ IPA: /keɪo̞kanuu̯/
 - Polish: łapać na hak
 
 ### Example sentence
-**Wo ŕoshá këokanů.**
-_I hook the fish._
+
+#### Example 1
+
+- **Asaxi:** wo ŕoshá këokanů.
+- **English:** I hook the fish.
+- **Polish:** x
 
 ### Alternative Forms
 Null

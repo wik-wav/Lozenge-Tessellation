@@ -36,9 +36,18 @@ IPA: /t̪onau̯juu̯/
 
 ### Example sentence
 
-**Xő pahaśù tonåjů.** _I predict he will run._ (Lit: He will-run, [I]-time-see-[that]).
 
-**Topo patoponů tonåjů.** _I predict it will raining (right now, somewhere else)._ / _I foresee rain._
+#### Example 1
+
+- **Asaxi:** xő pahaśù tonåjů.
+- **English:** I predict he will run. (Lit: He will-run, [I]-time-see-[that]).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** topo patoponů tonåjů.
+- **English:** I predict it will raining (right now, somewhere else). / I foresee rain.
+- **Polish:** x
 
 ### Alternative Forms
 

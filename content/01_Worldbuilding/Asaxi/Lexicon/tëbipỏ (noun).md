@@ -31,8 +31,12 @@ IPA: /t̪eɪbipou̯/
 - Polish: rękaw
 
 ### Example sentence
-**Tëbipỏ tëbi naŕa.**
-_A sleeve is on the arm._
+
+#### Example 1
+
+- **Asaxi:** tëbipỏ tëbi naŕa.
+- **English:** A sleeve is on the arm.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /t̻͡s̪pou̯kanuu̯/
 - Polish: zamiatać
 
 ### Example sentence
-**Wo pùkŕo cpỏkanů.**
-_I sweep the floor._
+
+#### Example 1
+
+- **Asaxi:** wo pùkŕo cpỏkanů.
+- **English:** I sweep the floor.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /kʲəbʷo̞/
 - Polish: guma
 
 ### Example sentence
-**Kjèbwo śchi tănů.**
-_Rubber stretches (adds length)._
+
+#### Example 1
+
+- **Asaxi:** kjèbwo śchi tănů.
+- **English:** Rubber stretches (adds length).
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,9 +31,12 @@ IPA: /iꞲoɾo/
 - Polish: sen (marzenie senne)
 
 ### Example sentence
-**Izo hwo mao, wo tam ijoŕa zèŕoŕonů.**
-_Yesterday (night), I had (drank) two dreams._
-*(Lit: From yesterday night, I two dreams drank).*]), mao (noun) - as in night-time.md]
+
+#### Example 1
+
+- **Asaxi:** izo hwo mao, wo tam ijoŕa zèŕoŕonů.
+- **English:** Yesterday (night), I had (drank) two dreams. *(Lit: From yesterday night, I two dreams drank).*]), mao (noun) - as in night-time.md]
+- **Polish:** x
 
 ### Alternative Forms
 Null

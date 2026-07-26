@@ -31,8 +31,12 @@ IPA: /fkozəʃɑ/
 - Polish: starszy; dziadek, babcia
 
 ### Example sentence
-**To xő vkozèshá xiŕa.**
-_He is an elder._
+
+#### Example 1
+
+- **Asaxi:** to xő vkozèshá xiŕa.
+- **English:** He is an elder.
+- **Polish:** x
 
 ### Alternative Forms
 Null

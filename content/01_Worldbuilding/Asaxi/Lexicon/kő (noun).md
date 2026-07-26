@@ -32,8 +32,12 @@ IPA: /koɪ/
 - **Polish:** zrozumienie, empatia, uczucie
 
 ### Example sentence
-**Sè shá kő bůná.**
-_There is no empathy among people._ (bůná = mutable 'is-not')
+
+#### Example 1
+
+- **Asaxi:** sè shá kő bůná.
+- **English:** There is no empathy among people. (bůná = mutable 'is-not')
+- **Polish:** x
 
 ### Alternative Forms
 - koi

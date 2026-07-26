@@ -34,8 +34,12 @@ IPA: /iɾonuu̯/
 - Polish: bawić się dobrze, być barwnym, używać życia
 
 ### Example sentence
-**Sháma vakamshárokam iŕonů.**
-_In the gym, people enjoy themselves (acting freely/oddly)._
+
+#### Example 1
+
+- **Asaxi:** sháma vakamshárokam iŕonů.
+- **English:** In the gym, people enjoy themselves (acting freely/oddly).
+- **Polish:** x
 
 ### Alternative Forms
 Null

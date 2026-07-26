@@ -33,8 +33,12 @@ IPA: /t̪ɚnɚn/
 **těněna** (heads).
 
 ### Example sentence
-Těněn tètáŕů.
-(My) head hurts. (Lit: Head generates-pain).
+
+#### Example 1
+
+- **Asaxi:** těněn tètáŕů.
+- **English:** (My) head hurts. (Lit: Head generates-pain).
+- **Polish:** x
 
 ### Alternative Forms
 x

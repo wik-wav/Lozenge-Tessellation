@@ -36,8 +36,12 @@ IPA: /bʷo̞ɾo̞nuu̯/
 - Polish: oliwić
 
 ### Example sentence
-**Wo sămaka bwoŕonů.**
-_I oil the pan._
+
+#### Example 1
+
+- **Asaxi:** wo sămaka bwoŕonů.
+- **English:** I oil the pan.
+- **Polish:** x
 
 ### Alternative Forms
 Null

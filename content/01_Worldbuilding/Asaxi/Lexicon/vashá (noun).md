@@ -31,8 +31,12 @@ IPA: /b̪vaʃɑ/
 - Polish: gość
 
 ### Example sentence
-**Vashá waokam vanů.**
-_A guest is in the home._
+
+#### Example 1
+
+- **Asaxi:** vashá waokam vanů.
+- **English:** A guest is in the home.
+- **Polish:** x
 
 ### Alternative Forms
 Null

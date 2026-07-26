@@ -39,8 +39,12 @@ IPA: /b̪vuu̯ʋɯ/
 - Polish: pływać
 
 ### Example sentence
-**Ŕoshá ŕoŕo vůwù.**
-_A fish swims in the water._
+
+#### Example 1
+
+- **Asaxi:** ŕoshá ŕoŕo vůwù.
+- **English:** A fish swims in the water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

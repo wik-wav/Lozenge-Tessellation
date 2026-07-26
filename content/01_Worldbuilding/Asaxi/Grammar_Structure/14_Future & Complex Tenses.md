@@ -25,7 +25,7 @@ Used to mark an action that will definitely happen in the future. It removes the
 
 **Structure:** `pa-[Verb]`
 
-> **To wo pashěsonů.** _"I will read."_
+> to wo pashěsonů. "I will read."
 
 ### 2. The Future Perfect (`pazè-`)
 
@@ -34,7 +34,7 @@ Used to express an action that _will be completed_ at a specific point in the fu
 - **Logic:** Future (`pa`) + Past (`zè`). "In the future, looking back at the past."
 - **Structure:** `pa` (Outer Frame) + `zè` (Inner Aspect) + `[Verb]`.
 
->  **Ko pazèshěsonů måniåkam, xő pazèxoxo.** 
+>  ko pazèshěsonů måniåkam, xő pazèxoxo. 
 >  `she` `FUT-PAST-read``UNTIL-TIME` , `he` `FUT-PAST-depart` 
 >  _"By the time she will have read, he will have departed."_])]
 
@@ -46,7 +46,7 @@ Used to express an action that happened _before_ another past action ("Had done"
 - **Logic:** The action is "behind" the past tense.
 - **Structure:** `hù` + `zè` + `[Verb]`.
 
-> **John hùpashěsonů, dzè shěsokam hùzèchěcho'.** `John` `PAST-FUT-read` `BUT` `library` `PLUP-close` _"John was going to read, but the library **had closed** (already)."_
+> john hùpashěsonů, dzè shěsokam hùzèchěcho'. `John` `PAST-FUT-read` `BUT` `library` `PLUP-close` "John was going to read, but the library had closed (already)."
 
 ### 4. The Past Future / Conditional (`hùpa-`)
 
@@ -54,7 +54,7 @@ Used to express "Was going to" or a hypothetical future from a past perspective.
 - **Logic:** Behind (`hù`) + Front (`pa`). "Standing in the past, looking forward."
 - **Structure:** `hù` + `pa` + `[Verb]`.
 
-> **To wo hùpaxoxo.** _"I was going to leave."_
+> to wo hùpaxoxo. "I was going to leave."
 
 ---
 
@@ -66,7 +66,7 @@ Used to express actions that occurred regularly in the past but have ceased ("Us
 - **Logic:** "From the past." It marks the action as originating in a past era that is now disconnected from the present.
 - **Structure:** `izo` + `zè` + `[Verb]`.
 
-> **To wo izozèshěsonů.** `SUBJ` `1SG` `HAB-PAST-read` _"I used to read."_ (Implies I do not read anymore, or referring to a bygone era).
+> to wo izozèshěsonů. `SUBJ` `1SG` `HAB-PAST-read` "I used to read." (Implies I do not read anymore, or referring to a bygone era).
 
 ### 6. Immediate Proximity (The `o-` Tenses)
 
@@ -76,11 +76,11 @@ Used to express actions that are immediately adjacent to the present moment ("Ri
 
 **A. Immediate Past (`ozè-`)** "Just now" / "Just finished."
 - **Structure:** `o` + `zè` + `[Verb]`.
-- **Example:** **To wo ozètopù.** ("I **just** dropped (it).")
+- **Example:** to wo ozètopù. ("I **just** dropped (it).")
 
 **B. Immediate Future (`opa-`)** "About to" / "On the verge of."
 - **Structure:** `o` + `pa` + `[Verb]`.
-- **Example:** **To wo opaxoxo.** ("I am **about to** leave.")
+- **Example:** to wo opaxoxo. ("I am about to leave.")
 
 ---
 
@@ -100,7 +100,7 @@ Used to express an action that started in the past and continues into the presen
 
 **Example:**
 
-> **To wo nixå 3 shěsonů.** `SUBJ` `1SG` `DUR` `3` `read` _"I have been reading for 3 (hours/units)."_ (Lit: I, into-time-3, read).
+> to wo nixå 3 shěsonů. `SUBJ` `1SG` `DUR` `3` `read` "I have been reading for 3 (hours/units)." (Lit: I, into-time-3, read).
 
 ### 8. The Remote / Mythic Tenses (The `ko-` Tenses)
 
@@ -112,11 +112,11 @@ Used to place actions in a timeframe that feels disconnected or far removed from
 
 - **Structure:** `ko` + `zè` + `[Verb]`.
 - **Usage:** Storytelling, legends, or history that has no direct impact on the current moment.
-- **Example:** **Kozèxoxo.** ("He departed long ago / Legend says he left.")
+- **Example:** kozèxoxo. ("He departed long ago / Legend says he left.")
 
 **B. The Distant Future (`kopa-`)** "Someday," "In the far future," "Generations from now."
 - **Structure:** `ko` + `pa` + `[Verb]`.
-- **Example:** **Kopaxoxo.** ("He will depart someday.")
+- **Example:** kopaxoxo. ("He will depart someday.")
 
 ### 9. The Subjective Past (`sỏ-`)
 
@@ -124,7 +124,7 @@ Used for memories, nostalgia, or events that exist primarily in the speaker's mi
 
 - **Logic:** **[[ỏ- (particle)|ỏ]]** (Middle) + **[[06A_-s- (particle)|s]]** (Auditory/Sense) or derived from `zè` → `sỏ`.
 - **Structure:** `sỏ-[Verb]`
-- **Example:** **To wo sỏshěsonů.** ("I remember reading / I was reading \[in my memory\].")
+- **Example:** to wo sỏshěsonů. ("I remember reading / I was reading \[in my memory\].")
 
 ### 10. The Subjective Present (`mi-`)
 
@@ -137,9 +137,9 @@ Used to describe feelings, sensations, or internal states occurring _right now_.
 
 **Comparison:**
 
-- **Standard:** `To wo ůchů.` ("I feel..." - Reporting the state).
-- **Subjective:** `Ă wo mijůchů.` ("I am _feeling_..." - Immersed in the sensation).
+- **Standard:** `to wo ůchů.` ("I feel..." - Reporting the state).
+- **Subjective:** `ă wo mijůchů.` ("I am _feeling_..." - Immersed in the sensation).
 
 **Example:**
 
-> **Ă wo mijůchů.** `SUBJ(Int)` `1SG` `SUBJ.PRES-j-feel` _"That is what I am feeling."_ / _"I am feeling this."_
+> ă wo mijůchů. `SUBJ(Int)` `1SG` `SUBJ.PRES-j-feel` "That is what I am feeling." / "I am feeling this."

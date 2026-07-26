@@ -39,8 +39,12 @@ IPA: /kɾo̞ma/
 - Polish: gryźć
 
 ### Example sentence
-**Haoshá ihjo kŕoma.**
-_The dog bites the bone._
+
+#### Example 1
+
+- **Asaxi:** haoshá ihjo kŕoma.
+- **English:** The dog bites the bone.
+- **Polish:** x
 
 ### Alternative Forms
 Null

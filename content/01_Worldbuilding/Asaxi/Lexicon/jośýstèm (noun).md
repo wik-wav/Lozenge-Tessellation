@@ -30,8 +30,12 @@ IPA: /Ʝoɕɪst̪əm/
 - Polish: system społeczny
 
 ### Example sentence
-Jomåsháwa **jo**śýstèma ma.
-Humans have social-systems.
+
+#### Example 1
+
+- **Asaxi:** jomåsháwa jośýstèma ma.
+- **English:** Humans have social-systems.
+- **Polish:** x
 
 ### Alternative Forms
 x

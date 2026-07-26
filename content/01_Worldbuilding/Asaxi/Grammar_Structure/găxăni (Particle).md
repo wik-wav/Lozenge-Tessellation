@@ -36,8 +36,12 @@ IPA: /gaɪɦaɪɲi/
 
 ### Example sentence
 
-**To wo no găxăni jåijo.**
-_I want to see you for eternity._ (Lit: I want to see you into-infinity).
+
+#### Example 1
+
+- **Asaxi:** to wo no găxăni jåijo.
+- **English:** I want to see you for eternity. (Lit: I want to see you into-infinity).
+- **Polish:** x
 
 ### Etymology
 

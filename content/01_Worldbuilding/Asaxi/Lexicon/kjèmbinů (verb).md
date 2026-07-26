@@ -35,13 +35,18 @@ IPA: /kʲəmbinuw/
 - Polish: grać, kombinować
 
 ### Example sentence
-**Literal:**
-**To wo igùŕa kjèmbinů.**
-_I play a game._
 
-**Figurative:**
-**To John kjèmbinů.**
-_John is scheming / up to something._
+#### Example 1
+
+- **Asaxi:** to wo igùŕa kjèmbinů.
+- **English:** Literal: I play a game.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to john kjèmbinů.
+- **English:** Figurative: John is scheming / up to something.
+- **Polish:** x
 
 ### Alternative Forms
 Null

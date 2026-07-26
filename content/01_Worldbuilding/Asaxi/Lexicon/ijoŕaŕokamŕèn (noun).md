@@ -30,11 +30,18 @@ IPA: /iꞲoɾaɾokamɾən/
 - Polish: strażnik świątyni, bibliotekarz
 
 ### Example sentence
-**To ijoŕaŕokamŕèn ăni shěso ŕima.**
-_The temple keeper is thinking about a book._
 
-**To ijoŕaŕokamŕèn vănýj aśù.** 
-_The temple keeper walks slowly._
+#### Example 1
+
+- **Asaxi:** to ijoŕaŕokamŕèn ăni shěso ŕima.
+- **English:** The temple keeper is thinking about a book.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to ijoŕaŕokamŕèn vănýj aśù.
+- **English:** The temple keeper walks slowly.
+- **Polish:** x
 
 ### Alternative Forms
 Null

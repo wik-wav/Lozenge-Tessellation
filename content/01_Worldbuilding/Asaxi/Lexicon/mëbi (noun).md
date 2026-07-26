@@ -31,8 +31,12 @@ IPA: /meɪbi/
 - Polish: brew
 
 ### Example sentence
-**Mëbi mëjo xaŕa.**
-_The eyebrow is above the eye._
+
+#### Example 1
+
+- **Asaxi:** mëbi mëjo xaŕa.
+- **English:** The eyebrow is above the eye.
+- **Polish:** x
 
 ### Alternative Forms
 Null

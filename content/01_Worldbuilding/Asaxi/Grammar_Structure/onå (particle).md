@@ -33,4 +33,9 @@ Can function as a **Sentence-Final Particle** (Adverbial) or a **Floating Modifi
 
 ### Example sentence
 
-**To wo no jåijo onå.** _I want to see you forever._ (Lit: I want-see you sky-now).
+
+#### Example 1
+
+- **Asaxi:** to wo no jåijo onå.
+- **English:** I want to see you forever. (Lit: I want-see you sky-now).
+- **Polish:** x

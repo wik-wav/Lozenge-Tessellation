@@ -59,10 +59,15 @@ Derived from the Relational Prefix **[[07_Describing Location in Asaxi|va-]]** (
 * *See:* **[[07_Describing Location in Asaxi]]** (Spatial Verbs section).
 
 ### Example sentences
-**State (Transitive):**
-**To John kamm vanů.**
-_John is inside the building._ (Lit: John occupies-the-inside-of the building).
 
-**Action (Intransitive):**
-**To wo vanů.**
-_I go inside._ / _I enter._
+#### Example 1
+
+- **Asaxi:** to john kamm vanů.
+- **English:** State (Transitive): John is inside the building. (Lit: John occupies-the-inside-of the building).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo vanů.
+- **English:** Action (Intransitive): I go inside. / I enter.
+- **Polish:** x

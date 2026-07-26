@@ -36,8 +36,12 @@ IPA: /ʃaɪɦi/
 
 ### Example sentence
 
-**Shăxiwa zèxopa.**
-_Weeks passed._
+
+#### Example 1
+
+- **Asaxi:** shăxiwa zèxopa.
+- **English:** Weeks passed.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

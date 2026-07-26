@@ -39,8 +39,12 @@ IPA: /jau̯jɯ/
 - Polish: błagać
 
 ### Example sentence
-**Xèshá jåjù.**
-_The servant pleads._
+
+#### Example 1
+
+- **Asaxi:** xèshá jåjù.
+- **English:** The servant pleads.
+- **Polish:** x
 
 ### Alternative Forms
 Null

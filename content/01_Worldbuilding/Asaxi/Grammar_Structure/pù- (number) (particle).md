@@ -26,4 +26,15 @@ Derived from **[[pù- (relational locative) (particle)|pù-]]** (Below).
 
 ### Example sentence
 
-**pùtam** (Half). **pùbam** (Quarter).
+
+#### Example 1
+
+- **Asaxi:** pùtam
+- **English:** Half
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** pùbam
+- **English:** Quarter
+- **Polish:** x

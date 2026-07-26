@@ -26,9 +26,18 @@ IPA: /tːe/
 
 ### Example sentences
 
-**Quotation:** **Xő xoxo tte.** _He says he is leaving._ (Lit: He leaves [quote]).
 
-**Explanation:** **John zèshěsonů tte, gavină.** _John read, so he is good._
+#### Example 1
+
+- **Asaxi:** xő xoxo tte.
+- **English:** Quotation: He says he is leaving. (Lit: He leaves [quote]).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** john zèshěsonů tte, gavină.
+- **English:** Explanation: John read, so he is good.
+- **Polish:** x
 
 ### Etymology
 

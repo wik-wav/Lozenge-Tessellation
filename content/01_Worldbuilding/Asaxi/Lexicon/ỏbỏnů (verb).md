@@ -36,9 +36,12 @@ IPA: /ou̯bou̯nuu̯/
 - Polish: amortyzować, łagodzić
 
 ### Example sentence
-Context: Tom just fell out of a window from a high-rise building.
-**Wo Tom zèxỏbỏnů.**
-_I cushioned Tom (from something)._
+
+#### Example 1
+
+- **Asaxi:** wo tom zèxỏbỏnů.
+- **English:** Context: Tom has just fallen from a high-rise window. I cushioned Tom from something.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /ijoɾokam/
 - Polish: świątynia
 
 ### Example sentence
-**Sháma vaijoŕokam dăxijù.**
-_People pray in the temple._
+
+#### Example 1
+
+- **Asaxi:** sháma vaijoŕokam dăxijù.
+- **English:** People pray in the temple.
+- **Polish:** x
 
 ### Alternative Forms
 Null

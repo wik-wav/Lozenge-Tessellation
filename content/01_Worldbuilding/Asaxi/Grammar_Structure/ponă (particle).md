@@ -22,8 +22,12 @@ tags:
 
 ### Example sentence
 
-**Ă ponă ŕimshá zèxiŕa.**
-_There was a certain lemur._
+
+#### Example 1
+
+- **Asaxi:** ă ponă ŕimshá zèxiŕa.
+- **English:** There was a certain lemur.
+- **Polish:** x
 
 ### Etymology
 

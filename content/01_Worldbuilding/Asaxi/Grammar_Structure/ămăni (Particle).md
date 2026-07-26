@@ -30,8 +30,12 @@ IPA: /aɪmaɲi/
 
 ### Example sentence
 
-**No ămăni shěsonů kă.**
-_Please read whenever you feel like it._])]
+
+#### Example 1
+
+- **Asaxi:** no ămăni shěsonů kă.
+- **English:** Please read whenever you feel like it.])]
+- **Polish:** x
 
 ### Etymology
 

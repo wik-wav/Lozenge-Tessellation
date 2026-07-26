@@ -38,12 +38,18 @@ IPA: /aɪnau̯/
 - Polish: czekać, oczekiwać
 
 ### Example sentence
-**To wo no ănå.**
-_I wait for you._
 
-**Vozè, to wo zèxănå.**
+#### Example 1
 
-_I was waiting a moment ago._
+- **Asaxi:** to wo no ănå.
+- **English:** I wait for you.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** vozè, to wo zèxănå.
+- **English:** I was waiting a moment ago.
+- **Polish:** x
 
 ### Alternative Forms
 Null

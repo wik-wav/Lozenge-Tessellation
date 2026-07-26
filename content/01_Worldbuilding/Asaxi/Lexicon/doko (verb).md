@@ -39,8 +39,12 @@ IPA: /do̞ko̞/
 - Polish: kiwać głową
 
 ### Example sentence
-**Wo doko.**
-_I nod._
+
+#### Example 1
+
+- **Asaxi:** wo doko.
+- **English:** I nod.
+- **Polish:** x
 
 ### Alternative Forms
 Null

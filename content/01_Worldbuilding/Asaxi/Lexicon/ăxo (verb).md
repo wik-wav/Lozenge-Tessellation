@@ -58,6 +58,9 @@ Null
 - **ăxoshá** (agent noun) *(potential)*
 
 ### Example sentences
-**Literal:**
-**To wo no ăxo.**
-_I follow you._
+
+#### Example 1
+
+- **Asaxi:** to wo no ăxo.
+- **English:** Literal: I follow you.
+- **Polish:** x

@@ -30,8 +30,12 @@ IPA: /ɡaɦiɾo/
 - Polish: jaskrawość, żywość barw
 
 ### Example sentence
-**To hja gaxiŕo.**
-_The stars are vibrant._
+
+#### Example 1
+
+- **Asaxi:** to hja gaxiŕo.
+- **English:** The stars are vibrant.
+- **Polish:** x
 
 ### Alternative Forms
 Null

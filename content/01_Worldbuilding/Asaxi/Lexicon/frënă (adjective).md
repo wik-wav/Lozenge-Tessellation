@@ -41,8 +41,12 @@ IPA: /fɹeɪnaɪ/
 - English: freely
 
 ### Example sentence
-**To shá frënă.**
-_The person is free._
+
+#### Example 1
+
+- **Asaxi:** to shá frënă.
+- **English:** The person is free.
+- **Polish:** x
 
 ### Alternative Forms
 Null

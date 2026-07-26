@@ -31,8 +31,12 @@ IPA: /ʃɯko/
 - Polish: urwisko
 
 ### Example sentence
-**To shùko dăpăŕo xaŕa.**
-_The cliff stands above the sea._
+
+#### Example 1
+
+- **Asaxi:** to shùko dăpăŕo xaŕa.
+- **English:** The cliff stands above the sea.
+- **Polish:** x
 
 ### Alternative Forms
 Null

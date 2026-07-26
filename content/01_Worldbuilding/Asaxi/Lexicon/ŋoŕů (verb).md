@@ -35,8 +35,12 @@ IPA: /ŋoɾuu̯/
 - Polish: dociążyć, ciążyć (komuś), obciążać
 
 ### Example sentence
-**Kozètètá wo ŋoŕů izånixå.**
-_Regrets weigh on me from time to time._
+
+#### Example 1
+
+- **Asaxi:** kozètètá wo ŋoŕů izånixå.
+- **English:** Regrets weigh on me from time to time.
+- **Polish:** x
 
 ### Alternative Forms
 Null

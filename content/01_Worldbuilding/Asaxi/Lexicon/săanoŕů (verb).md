@@ -35,8 +35,12 @@ IPA: /saɪano̞ɾuu̯/
 - Polish: piec chleb
 
 ### Example sentence
-**Sănoshá săanoŕů.**
-_The cook bakes bread._
+
+#### Example 1
+
+- **Asaxi:** sănoshá săanoŕů.
+- **English:** The cook bakes bread.
+- **Polish:** x
 
 ### Alternative Forms
 Null

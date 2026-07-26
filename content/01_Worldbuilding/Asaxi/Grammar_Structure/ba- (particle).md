@@ -32,7 +32,12 @@ IPA: /ba/
 
 ### Example sentence
 
-**To shěso batobo xiŕa.** _The book is beside the table._
+
+#### Example 1
+
+- **Asaxi:** to shěso batobo xiŕa.
+- **English:** The book is beside the table.
+- **Polish:** x
 
 ### Derived terms
 

@@ -31,8 +31,12 @@ IPA: /pɾo̞bi/
 - Polish: łuk
 
 ### Example sentence
-**Pŕobi ŕăbi xopă.**
-_A bow ejects an arrow._
+
+#### Example 1
+
+- **Asaxi:** pŕobi ŕăbi xopă.
+- **English:** A bow ejects an arrow.
+- **Polish:** x
 
 ### Alternative Forms
 Null

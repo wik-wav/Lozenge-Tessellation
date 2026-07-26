@@ -1,0 +1,15 @@
+{
+  "version": "0.2",
+  "language": "en,pl",
+  "useGitignore": true,
+  "dictionaryDefinitions": [
+    {
+      "name": "asaxi-vault",
+      "path": "./dictionaries/asaxi.txt",
+      "addWords": true
+    }
+  ],
+  "dictionaries": [
+    "asaxi-vault"
+  ]
+}

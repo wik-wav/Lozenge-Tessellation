@@ -39,8 +39,12 @@ IPA: /t̻͡s̪ədao/
 - Polish: uczyć (kogoś), nauczać
 
 ### Example sentence
-**To ko då wo cèdao.**
-_She teaches me._
+
+#### Example 1
+
+- **Asaxi:** to ko då wo cèdao.
+- **English:** She teaches me.
+- **Polish:** x
 
 ### Alternative Forms
 Null

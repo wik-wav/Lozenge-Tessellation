@@ -39,8 +39,12 @@ IPA: /kʰo̞ko̞/
 - Polish: kaszleć
 
 ### Example sentence
-**Jamishá kxoko.**
-_The sick one coughs._
+
+#### Example 1
+
+- **Asaxi:** jamishá kxoko.
+- **English:** The sick one coughs.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /xao̞suu̯/
 - Polish: odbijać się echem
 
 ### Example sentence
-**Goŕo haosů.**
-_The cave echoes._
+
+#### Example 1
+
+- **Asaxi:** goŕo haosů.
+- **English:** The cave echoes.
+- **Polish:** x
 
 ### Alternative Forms
 Null

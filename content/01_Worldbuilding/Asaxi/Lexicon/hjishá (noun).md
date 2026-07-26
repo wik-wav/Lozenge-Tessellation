@@ -31,8 +31,12 @@ IPA: /çjiʃɑ/
 - Polish: ważka (równoskrzydła)
 
 ### Example sentence
-**To hjishá nanåsháŕo xiŕa.**
-_The damselfly is often at the pool._
+
+#### Example 1
+
+- **Asaxi:** to hjishá nanåsháŕo xiŕa.
+- **English:** The damselfly is often at the pool.
+- **Polish:** x
 
 ### Alternative Forms
 Null

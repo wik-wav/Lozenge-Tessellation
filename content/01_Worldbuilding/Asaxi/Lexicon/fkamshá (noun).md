@@ -29,8 +29,12 @@ IPA: /fkamʃɑ/
 - Polish: zwierzę domowe, bydło
 
 ### Example sentence
-**To fkamshá sháŕokam vanů.**
-_The domesticated animal is in the shelter._
+
+#### Example 1
+
+- **Asaxi:** to fkamshá sháŕokam vanů.
+- **English:** The domesticated animal is in the shelter.
+- **Polish:** x
 
 ### Alternative Forms
 Null

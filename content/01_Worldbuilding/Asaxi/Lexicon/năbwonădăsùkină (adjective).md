@@ -36,8 +36,12 @@ IPA: /naɪbʷonaɪdaɪsɯkinaɪ/
 - Polish: najukochańszy, najdroższy
 
 ### Example sentence
-**To no năbwonădăsùkină xiŕa.**
-_You are the most beloved._
+
+#### Example 1
+
+- **Asaxi:** to no năbwonădăsùkină xiŕa.
+- **English:** You are the most beloved.
+- **Polish:** x
 
 ### Alternative Forms
 Null

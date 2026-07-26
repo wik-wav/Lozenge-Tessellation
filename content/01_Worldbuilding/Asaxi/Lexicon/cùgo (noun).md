@@ -31,8 +31,12 @@ IPA: /t̻͡s̪ɯɡo/
 - Polish: glina
 
 ### Example sentence
-**To ŕomaka cùgo izoŕa.**
-_The cup is made of clay._
+
+#### Example 1
+
+- **Asaxi:** to ŕomaka cùgo izoŕa.
+- **English:** The cup is made of clay.
+- **Polish:** x
 
 ### Alternative Forms
 Null

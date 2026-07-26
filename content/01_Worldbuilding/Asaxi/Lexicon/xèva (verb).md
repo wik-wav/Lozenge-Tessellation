@@ -39,8 +39,12 @@ IPA: /ɦəb̪va/
 - Polish: służyć
 
 ### Example sentence
-**Xèshá kùŕù xèva.**
-_The servant serves the king._
+
+#### Example 1
+
+- **Asaxi:** xèshá kùŕù xèva.
+- **English:** The servant serves the king.
+- **Polish:** x
 
 ### Alternative Forms
 Null

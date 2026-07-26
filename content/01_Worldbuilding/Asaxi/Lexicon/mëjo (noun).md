@@ -31,8 +31,12 @@ IPA: /meɪꞲo/
 - Polish: oko
 
 ### Example sentence
-**Sè no mëja dă ja hjonă xiŕa.**
-_Your eyes are big and beautiful._
+
+#### Example 1
+
+- **Asaxi:** sè no mëja dă ja hjonă xiŕa.
+- **English:** Your eyes are big and beautiful.
+- **Polish:** x
 
 ### Alternative Forms
 Null

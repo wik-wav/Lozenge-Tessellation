@@ -31,8 +31,12 @@ IPA: /kʲəbi/
 - Polish: patyk
 
 ### Example sentence
-**To haoshá kjèbi maaśù.**
-_The dog carries a stick._
+
+#### Example 1
+
+- **Asaxi:** to haoshá kjèbi maaśù.
+- **English:** The dog carries a stick.
+- **Polish:** x
 
 ### Alternative Forms
 Null

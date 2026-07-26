@@ -35,8 +35,12 @@ IPA: /saɪɲi/
 
 ### Example sentence
 
-Săni sháma jýnů ken.
-Most creatures can chat.
+
+#### Example 1
+
+- **Asaxi:** săni sháma jýnů ken.
+- **English:** Most creatures can chat.
+- **Polish:** x
 
 ### Alternative Forms
 x

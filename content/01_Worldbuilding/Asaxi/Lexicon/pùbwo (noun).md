@@ -31,8 +31,12 @@ IPA: /pɯbʷo/
 - Polish: tyłek, pośladki, zad
 
 ### Example sentence
-**To wo pùbwo nanů.**
-_I sit on my buttocks._ (Lit: I occupy-on the buttocks).
+
+#### Example 1
+
+- **Asaxi:** to wo pùbwo nanů.
+- **English:** I sit on my buttocks. (Lit: I occupy-on the buttocks).
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -35,7 +35,12 @@ IPA: /ɦaɪɦaɪɾa/
 
 ### Example sentence
 
-**John gajýnnshá chě, xő jýnă xăxăŕa.** _If John were a were-hyena, he would be loud._ (Lit: If John were-hyena, he loud would-exist-as).
+
+#### Example 1
+
+- **Asaxi:** john gajýnnshá chě, xő jýnă xăxăŕa.
+- **English:** If John were a were-hyena, he would be loud. (Lit: If John were-hyena, he loud would-exist-as).
+- **Polish:** x
 
 ### Alternative Forms
 

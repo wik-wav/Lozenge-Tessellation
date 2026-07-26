@@ -59,16 +59,27 @@ Derived from the root noun **[[no (pronoun) (particle)|no]]** (thing) + the cold
 - [[fjonýj (adjective)]] - concept-like
 
 ### Example sentences
-**As an adjective:**
-- **Apa nonýj nona xiŕa.**
-	_Apples are material objects._ (referring to physical quality of the things which apples are).*
-- **Iŕa nonýj nèŕa.** 
-	 _Colours aren't object-like._
 
-**As an adverb:**
-1. Intransitive (Simple)
-	**To jo nonýj fnonů.**
-    *It moves physically (like an object).*
-2. Transitive (Object separation)
-	**Xő nona nonýj ůpů.**
-	_He touches things physically_
+#### Example 1
+
+- **Asaxi:** apa nonýj nona xiŕa.
+- **English:** Adjective: Apples are material objects, referring to their physical quality.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** iŕa nonýj nèŕa.
+- **English:** Adjective: Colours are not object-like.
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** to jo nonýj fnonů.
+- **English:** Intransitive adverb: It moves physically, like an object.
+- **Polish:** x
+
+#### Example 4
+
+- **Asaxi:** xő nona nonýj ůpů.
+- **English:** Transitive adverb: He touches things physically.
+- **Polish:** x

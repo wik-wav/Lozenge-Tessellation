@@ -31,8 +31,12 @@ IPA: /mɯko̞/
 - Polish: byk, wół
 
 ### Example sentence
-**Mùko táka.**
-_The bull charges._
+
+#### Example 1
+
+- **Asaxi:** mùko táka.
+- **English:** The bull charges.
+- **Polish:** x
 
 ### Alternative Forms
 Null

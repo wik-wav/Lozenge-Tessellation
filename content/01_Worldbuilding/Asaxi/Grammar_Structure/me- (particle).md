@@ -30,7 +30,13 @@ Derived from **[[e (particle)|me]]** (Skepticism/Question).
 
 ### Example sentence
 
-**To [machine] meshěsonýj [calculating]nů.** _The machine calculates **about as intelligently** (as a book)._
+#### Example 1
 
-- _Adverb:_ `shěsonýj` (Book-like/Smart)
-- _Verbal Mode:_ `-n-` (Performance/Function).
+- **Asaxi:** to [machine] meshěsonýj [calculating]nů.
+- **English:** The machine calculates about as intelligently (as a book).
+- **Polish:** x
+
+### Analysis
+
+- **Adverb:** `shěsonýj` (book-like/smart)
+- **Verbal mode:** `-n-` (performance/function)

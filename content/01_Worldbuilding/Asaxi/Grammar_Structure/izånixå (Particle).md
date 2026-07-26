@@ -31,8 +31,12 @@ IPA: /izau̯ɲiɦau̯/
 
 ### Example sentence
 
-**To Tom izånixå shěsonů.**
-_Tom reads every now and again._
+
+#### Example 1
+
+- **Asaxi:** to tom izånixå shěsonů.
+- **English:** Tom reads every now and again.
+- **Polish:** x
 
 ### Etymology
 

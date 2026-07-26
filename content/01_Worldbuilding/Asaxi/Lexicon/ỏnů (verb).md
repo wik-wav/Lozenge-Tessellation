@@ -35,11 +35,18 @@ IPA: /ou̯nuu̯/
 - Polish: być w środku, pośrodku
 
 ### Example sentence
-**To shěso tobo ỏnů.**
-_The book is in the middle of the table._
 
-**Toonýj shěso no-gă ỏnů.** 
-_The book is around there._
+#### Example 1
+
+- **Asaxi:** to shěso tobo ỏnů.
+- **English:** The book is in the middle of the table.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** toonýj shěso no-gă ỏnů.
+- **English:** The book is around there.
+- **Polish:** x
 
 ### Alternative Forms
 Null

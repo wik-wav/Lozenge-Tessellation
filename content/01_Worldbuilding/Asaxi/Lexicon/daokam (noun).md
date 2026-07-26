@@ -31,8 +31,12 @@ IPA: /dao̞kam/
 - Polish: sklep
 
 ### Example sentence
-**Chỏno daokam vanů.**
-_Goods are in the shop._
+
+#### Example 1
+
+- **Asaxi:** chỏno daokam vanů.
+- **English:** Goods are in the shop.
+- **Polish:** x
 
 ### Alternative Forms
 Null

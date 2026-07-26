@@ -33,8 +33,12 @@ IPA: /ɡabau̯bau̯ʃɑ/
 - Polish: umięśniona istota, mięśniak, pakero
 
 ### Example sentence
-**To gabåbåshá ronů.**
-_The muscle-creature lifts._
+
+#### Example 1
+
+- **Asaxi:** to gabåbåshá ronů.
+- **English:** The muscle-creature lifts.
+- **Polish:** x
 
 ### Alternative Forms
 Null

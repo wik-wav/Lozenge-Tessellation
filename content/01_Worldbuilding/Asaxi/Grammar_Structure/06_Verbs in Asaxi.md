@@ -51,7 +51,7 @@ All Derived Verbs (`-ů`) share the same inherent aspect: **Activity**.
 
 **Disambiguation:** Asaxi `-ů` is **not** a participle (like English "-ing"). It is the main verb.
 
-- `John shěsonů.` = "John reads." / "John is reading." (Full Predicate).
+- `john shěsonů.` = "John reads." / "John is reading." (Full Predicate).
 
 ---
 
@@ -73,6 +73,6 @@ Asaxi is strictly predicate-final. The verbalized word acts as a single, indivis
 
 ### Sentence Construction
 
-> **To John shěso shěsonů.** `SUBJ` `John` `book` `book-PERF-ACT` _"John reads the book."_ (Literally: John performs-book the book).
+> to john shěso shěsonů. `SUBJ` `John` `book` `book-PERF-ACT` "John reads the book." (Literally: John performs-book the book).
 
-> **To John shěso shěsoxů.** `SUBJ` `John` `book` `book-INTER-ACT` _"John does the book to (someone)."_ (Context: Gives/Throws).
+> to john shěso shěsoxů. `SUBJ` `John` `book` `book-INTER-ACT` "John does the book to (someone)." (Context: Gives/Throws).

@@ -26,9 +26,9 @@ Once an NPCP is invoked, the listener "opens" a mental bracket. Every word that 
 
 ### Sentence Analysis & Gloss
 
-**Sè o dănă jalăsháma wo táka.** _Free Translation: The big birds of the sky wage war with me._
+sè o dănă jalăsháma wo táka. Free Translation: The big birds of the sky wage war with me.
 
-| Asaxi         | **sè**      | **o**    | **dă-nă** | **jalăshá-ma**        | **wo** | **táka**    |
+| Asaxi         | sè | o | dă-nă | jalăshá-ma | wo | táka |
 | ------------- | ----------- | -------- | --------- | --------------------- | ------ | ----------- |
 | **Morphemes** | sè          | o        | dă - nă   | jală-shá - ma         | wo     | táka        |
 | **Gloss**     | GEN         | sky      | big-ADJ.W | to.fly-creature- PL   | 1SG    | wage.war    |
@@ -51,7 +51,7 @@ When comparing two nouns, Asaxi creates a **Correlative Block**. This entire blo
 | **pùni** (Less) | **izo**    | Down A from B  |
 **Example (As Subject):**
 
-> **[Nani John izo Tom] apa dănă chỏnů.** `[More` `John` `than` `Tom]` `apples` `heavily` `eats` _"John eats apples more heavily than Tom."_
+> [Nani John izo Tom] apa dănă chỏnů. `[More` `John` `than` `Tom]` `apples` `heavily` `eats` "John eats apples more heavily than Tom."
 
 ---
 
@@ -85,7 +85,7 @@ Modifiers stack from the **outside in**. The outermost prefix has the widest sco
 
 **The Sentence:**
 
-> **Måniåkam xő pazènánixèshěsonů.** _"By the time, he **will not have started trying to read**."_
+> måniåkam xő pazènánixèshěsonů. "By the time, he will not have started trying to read."
 
 ---
 
@@ -103,11 +103,11 @@ This is the only part of the language that branches Right. It handles the **Cons
 
 **The Sentence:**
 
-> **Shěsonů tomo kè ë dzè...** `read` `STOP` `QUES` `RIGHT` `BUT`...
+> shěsonů tomo kè ë dzè... `read` `STOP` `QUES` `RIGHT` `BUT`...
 
 **Breakdown:**
 
-1. **Shěsonů:** The Action (Reading).
+1. **shěsonů:** The Action (Reading).
 2. **tomo:** The Result (Stop). _"He stops reading."_
 3. **kè:** The Inquiry. _"Does he stop reading?"_
 4. **ë:** The Appeal for Agreement. _"He stops reading, right?"_
@@ -131,10 +131,10 @@ The core sentence follows **SOV**, but includes specific slots for Floating Modi
 | **4. Object**    | Noun Phrase    | **shěso** (the book)              |
 | **5. Manner**    | Quality Adverb | **gadăchỏnă** (ravenously)       |
 | **6. Verb**      | Predicate      | **shěsonů** (read)                |
-| **7. Tail**      | Connector      | **ŕa...** (and...)                |
+| **7. Tail**      | Connector      | ŕa... (and...)                |
 **Full Sentence:**
 
-> **Vashěsokam, to wo ximă shěso gadăchỏnă shěsonů ŕa...** `in-library` `SUBJ` `1SG` `daily` `book` `ravenously` `read` `AND` _"In the library, I daily read the book ravenously, and..."_
+> vashěsokam, to wo ximă shěso gadăchỏnă shěsonů ŕa... `in-library` `SUBJ` `1SG` `daily` `book` `ravenously` `read` `AND` "In the library, I daily read the book ravenously, and..."
 
 ### Ambiguity Resolution (Pro-drop Contexts)
 
@@ -145,4 +145,4 @@ When pronouns are dropped, Asaxi relies on **Strict Position**.
 
 **Example:**
 
-> **Onýj [zètopù] shěsa toponů.** `DEF` `[PAST-drop]` `books` `raining/falling` _Analysis:_ `Zètopù` is inside the phrase started by `Onýj`, so it is a modifier. `Toponů` is the main verb. _Meaning:_ "The books that were dropped are falling."
+> onýj [zètopù] shěsa toponů. `DEF` `[PAST-drop]` `books` `raining/falling` _Analysis:_ `Zètopù` is inside the phrase started by `onýj`, so it is a modifier. `toponů` is the main verb. _Meaning:_ "The books that were dropped are falling."

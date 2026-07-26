@@ -36,8 +36,12 @@ IPA: /sau̯ɾau̯nuw/
 - Polish: śpiewać
 
 ### Example sentence
-**Sè wo mỏmå såŕånů.**
-_My mother sings._
+
+#### Example 1
+
+- **Asaxi:** sè wo mỏmå såŕånů.
+- **English:** My mother sings.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /ʃɑsə/
 - Polish: uwięzienie, niewola
 
 ### Example sentence
-**To shásè tètánă xiŕa.**
-_Captivity is painful._
+
+#### Example 1
+
+- **Asaxi:** to shásè tètánă xiŕa.
+- **English:** Captivity is painful.
+- **Polish:** x
 
 ### Alternative Forms
 Null

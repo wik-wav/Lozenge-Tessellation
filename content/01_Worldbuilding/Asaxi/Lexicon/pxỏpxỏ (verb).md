@@ -39,8 +39,12 @@ IPA: /pʰou̯pʰou̯/
 - Polish: dmuchać, wiać
 
 ### Example sentence
-To wo ni no pxỏpxỏ.
-The blow toward you.
+
+#### Example 1
+
+- **Asaxi:** to wo ni no pxỏpxỏ.
+- **English:** The blow toward you.
+- **Polish:** x
 
 ### Alternative Forms
 x

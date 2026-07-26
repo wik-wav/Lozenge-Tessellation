@@ -34,8 +34,12 @@ IPA: /sʷeɪ/
 Rule: Nouns ending in a diphthong append -a.
 
 ### Example sentence
-To swëa gonýj ůjů.
-The scales look hard (rock-like).
+
+#### Example 1
+
+- **Asaxi:** to swëa gonýj ůjů.
+- **English:** The scales look hard (rock-like).
+- **Polish:** x
 
 ### Alternative Forms
 x

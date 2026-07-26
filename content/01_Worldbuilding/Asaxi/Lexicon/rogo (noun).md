@@ -31,8 +31,12 @@ IPA: /ɹo̞ɡo̞/
 - Polish: stal
 
 ### Example sentence
-**Kată rogo izoŕa.**
-_A sword is made of steel._
+
+#### Example 1
+
+- **Asaxi:** kată rogo izoŕa.
+- **English:** A sword is made of steel.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -32,8 +32,12 @@ IPA: /kʲəmaka/
 - Polish: kosz, koszyk
 
 ### Example sentence
-**Apa kjèmaka vanů.**
-_Apples are in the basket._
+
+#### Example 1
+
+- **Asaxi:** apa kjèmaka vanů.
+- **English:** Apples are in the basket.
+- **Polish:** x
 
 ### Alternative Forms
 x

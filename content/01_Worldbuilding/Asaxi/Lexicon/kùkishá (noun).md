@@ -32,8 +32,12 @@ IPA: /kɯkiʃɑ/
 - Polish: owad, robak
 
 ### Example sentence
-**Kùkishá vivi vanů.**
-_An insect moves through the grass._
+
+#### Example 1
+
+- **Asaxi:** kùkishá vivi vanů.
+- **English:** An insect moves through the grass.
+- **Polish:** x
 
 ### Alternative Forms
 x

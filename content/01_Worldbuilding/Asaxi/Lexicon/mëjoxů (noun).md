@@ -32,11 +32,18 @@ IPA: /meɪjoɦuu̯/
 - Polish: wyglądać, zdawać się (wizualnie)
 
 ### Example sentence
-To flaminŋshá gavină mëjoxů.
-The flamingo looks good.
 
-Toonă o-kamm dănă mëjoxů.
-This building appears huge.
+#### Example 1
+
+- **Asaxi:** to flaminŋshá gavină mëjoxů.
+- **English:** The flamingo looks good.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** toonă o-kamm dănă mëjoxů.
+- **English:** This building appears huge.
+- **Polish:** x
 
 ### Alternative Forms
 x

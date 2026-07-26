@@ -31,8 +31,12 @@ IPA: /aɕŋo̞/
 - Polish: kostka
 
 ### Example sentence
-**Sè wo aśŋo tètá.**
-_My ankle hurts._
+
+#### Example 1
+
+- **Asaxi:** sè wo aśŋo tètá.
+- **English:** My ankle hurts.
+- **Polish:** x
 
 ### Alternative Forms
 Null

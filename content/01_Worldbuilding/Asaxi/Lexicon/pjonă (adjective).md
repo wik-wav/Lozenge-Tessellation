@@ -40,14 +40,19 @@ IPA: /pʲonaɪ/
 - English: brightly, radiantly
 - Polish: jaśnie, świetliście
 
-### Example sentence
-**As an adjective:**
-- Toonă o-pjo pjonă xiŕa.
-The light here is bright.
+### Example sentences
 
-**As an adverb:**
-- To hjo pjonă pjoŕů.
-The star shines brightly.
+#### Example 1
+
+- **Asaxi:** toonă o-pjo pjonă xiŕa.
+- **English:** Adjective: The light here is bright.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to hjo pjonă pjoŕů.
+- **English:** Adverb: The star shines brightly.
+- **Polish:** x
 
 ### Alternative Forms
 x

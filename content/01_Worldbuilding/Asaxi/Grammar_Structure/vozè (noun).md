@@ -28,8 +28,12 @@ IPA: /vozə/
 
 ### Example sentence
 
-**Vozè, to wo zèxogă.**
-_I arrived a moment ago._
+
+#### Example 1
+
+- **Asaxi:** vozè, to wo zèxogă.
+- **English:** I arrived a moment ago.
+- **Polish:** x
 
 ### Etymology
 

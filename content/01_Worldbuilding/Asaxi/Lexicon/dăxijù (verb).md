@@ -39,8 +39,12 @@ IPA: /daɪɦijɯ/
 - Polish: modlić się
 
 ### Example sentence
-**Mỏmå dăxijù.**
-_Mother prays._
+
+#### Example 1
+
+- **Asaxi:** mỏmå dăxijù.
+- **English:** Mother prays.
+- **Polish:** x
 
 ### Alternative Forms
 Null

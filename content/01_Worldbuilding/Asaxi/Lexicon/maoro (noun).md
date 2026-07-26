@@ -32,8 +32,12 @@ IPA: /maoro/
 - Polish: srebro
 
 ### Example sentence
-**Mibi gamaoro xiŕa.**
-_The earring is (made of) silver._
+
+#### Example 1
+
+- **Asaxi:** mibi gamaoro xiŕa.
+- **English:** The earring is (made of) silver.
+- **Polish:** x
 
 ### Alternative Forms
 x

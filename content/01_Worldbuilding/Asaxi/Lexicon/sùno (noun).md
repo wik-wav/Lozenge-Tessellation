@@ -32,8 +32,12 @@ IPA: /sɯno/
 - Polish: szkło
 
 ### Example sentence
-**Sùno gapjokem xiŕa.**
-_Glass is window-stuff._
+
+#### Example 1
+
+- **Asaxi:** sùno gapjokem xiŕa.
+- **English:** Glass is window-stuff.
+- **Polish:** x
 
 ### Alternative Forms
 x

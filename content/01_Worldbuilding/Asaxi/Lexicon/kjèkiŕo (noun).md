@@ -30,8 +30,12 @@ IPA: /kʲəkiɾo/
 - Polish: siekiera
 
 ### Example sentence
-John bă kjèkiŕo onýj gonýj kjèpo zèchỏnů. 
-John cut down the tree with an axe.
+
+#### Example 1
+
+- **Asaxi:** john bă kjèkiŕo onýj gonýj kjèpo zèchỏnů.
+- **English:** John cut down the tree with an axe.
+- **Polish:** x
 
 ### Alternative Forms
 x

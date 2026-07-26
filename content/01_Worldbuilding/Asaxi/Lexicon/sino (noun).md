@@ -32,8 +32,12 @@ IPA: /sino/
 - Polish: mleko
 
 ### Example sentence
-**To wo sino ŕoŕonů.**
-_I drink the milk._
+
+#### Example 1
+
+- **Asaxi:** to wo sino ŕoŕonů.
+- **English:** I drink the milk.
+- **Polish:** x
 
 ### Alternative Forms
 x

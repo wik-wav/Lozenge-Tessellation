@@ -39,8 +39,12 @@ IPA: /t̻͡s̪əɦo̞/
 - Polish: zastanawiać się
 
 ### Example sentence
-**Wo o cèxo.**
-_I wonder about the sky._
+
+#### Example 1
+
+- **Asaxi:** wo o cèxo.
+- **English:** I wonder about the sky.
+- **Polish:** x
 
 ### Alternative Forms
 Null

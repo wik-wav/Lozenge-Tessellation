@@ -26,7 +26,12 @@ IPA: /ɲigʲa/
 
 ### Example sentence
 
-**To gja nigja ijo.** _They (nb) see themselves._
+
+#### Example 1
+
+- **Asaxi:** to gja nigja ijo.
+- **English:** They (nb) see themselves.
+- **Polish:** x
 
 ### Etymology
 

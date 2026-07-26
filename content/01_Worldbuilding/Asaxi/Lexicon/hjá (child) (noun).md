@@ -35,8 +35,12 @@ IPA: /çɑ/
 
 ### Example sentence
 
-**To hjá ŕima.**
-_The child thinks._
+
+#### Example 1
+
+- **Asaxi:** to hjá ŕima.
+- **English:** The child thinks.
+- **Polish:** x
 
 ### Alternative Forms
 Null

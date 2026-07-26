@@ -31,8 +31,12 @@ IPA: /ɦaɪt̪o/
 - Polish: chata
 
 ### Example sentence
-**To văshá xăto vaŕa.**
-_The farmer is inside the hut._
+
+#### Example 1
+
+- **Asaxi:** to văshá xăto vaŕa.
+- **English:** The farmer is inside the hut.
+- **Polish:** x
 
 ### Alternative Forms
 Null

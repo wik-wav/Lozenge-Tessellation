@@ -38,7 +38,12 @@ IPA: /panau̯/
 
 ### Example sentence
 
-**To wo xoxo panå.** _I have not departed yet._
+
+#### Example 1
+
+- **Asaxi:** to wo xoxo panå.
+- **English:** I have not departed yet.
+- **Polish:** x
 
 ### Antonyms
 

@@ -22,7 +22,7 @@ IPA: /Ʝ/
 
 ### Example sentence
 
-**To fwoo gajýnnjů.** _The cloud looks like a were-hyena._
+to fwoo gajýnnjů. The cloud looks like a were-hyena.
 
 ### Etymology
 

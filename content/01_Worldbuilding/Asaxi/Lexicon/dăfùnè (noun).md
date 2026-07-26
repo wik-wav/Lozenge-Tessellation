@@ -31,8 +31,12 @@ IPA: /daɪfɯnə/
 - Polish: statek
 
 ### Example sentence
-**To dăfùnè sháma maaśù.**
-_The ship carries many people._
+
+#### Example 1
+
+- **Asaxi:** to dăfùnè sháma maaśù.
+- **English:** The ship carries many people.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /mao̞ʃɑ/
 - Polish: nietoperz
 
 ### Example sentence
-**Mao vå, maoshá fnonů.**
-_When it is night, the bat flies._
+
+#### Example 1
+
+- **Asaxi:** mao vå, maoshá fnonů.
+- **English:** When it is night, the bat flies.
+- **Polish:** x
 
 ### Alternative Forms
 Null

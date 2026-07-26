@@ -35,8 +35,12 @@ IPA: /meɪꞲonuu̯/
 - Polish: patrzeć, oglądać, doglądać
 
 ### Example sentence
-**To ko zèmëjonů.**
-_She looked._
+
+#### Example 1
+
+- **Asaxi:** to ko zèmëjonů.
+- **English:** She looked.
+- **Polish:** x
 
 ### Alternative Forms
 Null

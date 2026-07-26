@@ -38,8 +38,12 @@ IPA: /meɪka/
 - Polish: rozdzielać się, rozstawać się
 
 ### Example sentence
-**To wa zèmëka.**
-_We separated / broke up._
+
+#### Example 1
+
+- **Asaxi:** to wa zèmëka.
+- **English:** We separated / broke up.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -26,7 +26,12 @@ IPA: /daɪɦaɪ/
 
 ### Example sentence
 
-**To wo gajýnnshá niŕa dăxă.** _I wish I were a were-hyena._
+
+#### Example 1
+
+- **Asaxi:** to wo gajýnnshá niŕa dăxă.
+- **English:** I wish I were a were-hyena.
+- **Polish:** x
 
 ### Etymology
 

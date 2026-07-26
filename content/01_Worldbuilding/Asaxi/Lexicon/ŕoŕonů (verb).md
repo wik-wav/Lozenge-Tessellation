@@ -36,11 +36,18 @@ IPA: /ɾoɾonuu̯/
 - Polish: pić
 
 ### Example sentence
-**To wo ŕoŕo ŕoŕonů.**
-_I drink water._
 
-**Wo ijoŕo zèŕoŕonů.**
-_I dreamt (drank) a dream._
+#### Example 1
+
+- **Asaxi:** to wo ŕoŕo ŕoŕonů.
+- **English:** I drink water.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** wo ijoŕo zèŕoŕonů.
+- **English:** I dreamt (drank) a dream.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /mou̯mau̯/
 - Polish: matka
 
 ### Example sentence
-**Sè wo mỏmå mmbănă.**
-_My mother is happy._
+
+#### Example 1
+
+- **Asaxi:** sè wo mỏmå mmbănă.
+- **English:** My mother is happy.
+- **Polish:** x
 
 ### Alternative Forms
 Null

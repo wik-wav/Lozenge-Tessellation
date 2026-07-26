@@ -62,11 +62,21 @@ x
 * *Structure:* `[Verb] + tomo'`.
 
 ### Example sentences
-**Topo zètomo'.**
-_The rain stopped._
 
-**To wo zèshěsonů tomo'.**
-_I stopped reading._
+#### Example 1
 
-**Wo tomoná**
-_I will not stop._ (or: "I do not stop.")
+- **Asaxi:** topo zètomo'.
+- **English:** The rain stopped.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo zèshěsonů tomo'.
+- **English:** I stopped reading.
+- **Polish:** x
+
+#### Example 3
+
+- **Asaxi:** wo tomoná
+- **English:** I will not stop. (or: "I do not stop.")
+- **Polish:** x

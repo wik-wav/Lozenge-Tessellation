@@ -31,8 +31,12 @@ IPA: /ʃɑɾokam/
 - Polish: schron
 
 ### Example sentence
-**To sháŕokam sháma kamnů.**
-_The shelter houses people._ (Lit: The shelter buildings the people / performs building-function upon them).
+
+#### Example 1
+
+- **Asaxi:** to sháŕokam sháma kamnů.
+- **English:** The shelter houses people. (Lit: The shelter buildings the people / performs building-function upon them).
+- **Polish:** x
 
 ### Alternative Forms
 Null

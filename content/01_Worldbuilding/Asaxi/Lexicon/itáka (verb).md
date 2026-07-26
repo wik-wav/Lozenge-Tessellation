@@ -39,8 +39,12 @@ IPA: /it̪ɑka/
 - Polish: martwić się
 
 ### Example sentence
-**Wo bỏhjá itáka.**
-_I worry about my son._
+
+#### Example 1
+
+- **Asaxi:** wo bỏhjá itáka.
+- **English:** I worry about my son.
+- **Polish:** x
 
 ### Alternative Forms
 Null

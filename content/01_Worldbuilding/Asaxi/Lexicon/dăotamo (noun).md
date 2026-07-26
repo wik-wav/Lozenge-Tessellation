@@ -32,8 +32,12 @@ IPA: /daotamo/
 - Polish: horyzont, widnokrąg
 
 ### Example sentence
-**Mao dăotamo xanů.**
-_The moon is above the horizon._ (xanů, not xaŕa — it is not always so)
+
+#### Example 1
+
+- **Asaxi:** mao dăotamo xanů.
+- **English:** The moon is above the horizon. (xanů, not xaŕa — it is not always so)
+- **Polish:** x
 
 ### Alternative Forms
 x

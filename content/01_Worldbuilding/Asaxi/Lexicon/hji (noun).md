@@ -32,8 +32,12 @@ IPA: /çi/
 - Polish: introwersja, nieśmiałość, drobność
 
 ### Example sentence
-**To wo hji xiŕa.**
-_I am introversion (I am so introverted it defines what I am)._
+
+#### Example 1
+
+- **Asaxi:** to wo hji xiŕa.
+- **English:** I am introversion (I am so introverted it defines what I am).
+- **Polish:** x
 
 ### Alternative Forms
 x

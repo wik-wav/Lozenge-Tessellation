@@ -39,8 +39,12 @@ IPA: /pɯt̪o̞/
 - Polish: opuszczać, stawiać
 
 ### Example sentence
-**Wo nomáka pùto.**
-_I set down the box._
+
+#### Example 1
+
+- **Asaxi:** wo nomáka pùto.
+- **English:** I set down the box.
+- **Polish:** x
 
 ### Alternative Forms
 Null

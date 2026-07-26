@@ -39,8 +39,12 @@ IPA: /Ʝalaɪ/
 - Polish: latać, frunąć
 
 ### Example sentence
-John ni Itaŕi nijală nå.
-John is now preparing to fly (starts to fly) to Italy.
+
+#### Example 1
+
+- **Asaxi:** john ni itaŕi nijală nå.
+- **English:** John is now preparing to fly (starts to fly) to Italy.
+- **Polish:** x
 
 ### Alternative Forms
 x

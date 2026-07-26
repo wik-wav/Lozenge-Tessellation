@@ -40,8 +40,12 @@ IPA: /aɪka/
 - Polish: wołać, wzywać
 
 ### Example sentence
-**Wo bashá ăka.**
-_I call my friend._
+
+#### Example 1
+
+- **Asaxi:** wo bashá ăka.
+- **English:** I call my friend.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /ɡo̞kanuu̯/
 - Polish: wbijać młotkiem
 
 ### Example sentence
-**Wo memno gokanů.**
-_I hammer the nail._
+
+#### Example 1
+
+- **Asaxi:** wo memno gokanů.
+- **English:** I hammer the nail.
+- **Polish:** x
 
 ### Alternative Forms
 Null

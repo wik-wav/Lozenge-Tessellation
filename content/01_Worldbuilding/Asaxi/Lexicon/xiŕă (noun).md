@@ -32,8 +32,12 @@ IPA: /ɦiɾaɪ/
 - Polish: blask słońca, światło słoneczne
 
 ### Example sentence
-**Xiŕă xi izoŕa.**
-_Sunlight comes from the sun._
+
+#### Example 1
+
+- **Asaxi:** xiŕă xi izoŕa.
+- **English:** Sunlight comes from the sun.
+- **Polish:** x
 
 ### Alternative Forms
 x

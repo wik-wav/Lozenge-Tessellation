@@ -30,7 +30,12 @@ IPA: /xʷo/
 - Polish: wczoraj
 
 ### Example sentence
-**To wo hwo zèxoxo.** _I departed yesterday._
+
+#### Example 1
+
+- **Asaxi:** to wo hwo zèxoxo.
+- **English:** I departed yesterday.
+- **Polish:** x
 
 ### Alternative Forms
 Null

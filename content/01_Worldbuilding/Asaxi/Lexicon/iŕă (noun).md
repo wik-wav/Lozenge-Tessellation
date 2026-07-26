@@ -32,8 +32,12 @@ IPA: /iɾaɪ/
 - Polish: tęcza
 
 ### Example sentence
-**Sèwo topo, ninå iŕă vao ijo.**
-_Because it rained, (I) see a rainbow in the sky._
+
+#### Example 1
+
+- **Asaxi:** sèwo topo, ninå iŕă vao ijo.
+- **English:** Because it rained, (I) see a rainbow in the sky.
+- **Polish:** x
 
 ### Alternative Forms
 x

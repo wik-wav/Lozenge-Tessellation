@@ -36,8 +36,12 @@ IPA: /kiɾonɯ/
 - Polish: ciąć, kroić
 
 ### Example sentence
-**Sxëka pỏno kiŕonů.**
-_Scissors cut the cloth._
+
+#### Example 1
+
+- **Asaxi:** sxëka pỏno kiŕonů.
+- **English:** Scissors cut the cloth.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -59,10 +59,15 @@ Derived from the word **"Lemur"**, referencing the "meditative" lotus-like pose 
 Implies a calm, stationary state of thought, distinct from the active calculation of `shěsonů` (reading/studying) or the realization of `ăijo` (grasping).
 
 ### Example sentences
-**Intransitive:**
-**Nå, to wo ŕima.**
-_I am meditating now._
 
-**Transitive:**
-**To wo siŕo ŕima.**
-_I contemplate the Unknown._
+#### Example 1
+
+- **Asaxi:** nå, to wo ŕima.
+- **English:** Intransitive: I am meditating now.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo siŕo ŕima.
+- **English:** Transitive: I contemplate the Unknown.
+- **Polish:** x

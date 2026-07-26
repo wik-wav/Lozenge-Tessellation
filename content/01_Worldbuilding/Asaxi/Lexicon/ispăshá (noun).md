@@ -29,8 +29,12 @@ IPA: /ispaɪʃɑ/
 - Polish: dzikie zwierzę
 
 ### Example sentence
-**To ispăshá frënů.**
-_The wild animal acts freely._
+
+#### Example 1
+
+- **Asaxi:** to ispăshá frënů.
+- **English:** The wild animal acts freely.
+- **Polish:** x
 
 ### Alternative Forms
 Null

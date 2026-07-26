@@ -32,11 +32,18 @@ IPA: /naɪ/
 
 ### Example sentence
 
-**Tom, exenă!**
-_Tom, stop crying!_
 
-**John, năshěsonů.**
-_John, stop reading._
+#### Example 1
+
+- **Asaxi:** tom, exenă!
+- **English:** Tom, stop crying!
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** john, năshěsonů.
+- **English:** John, stop reading.
+- **Polish:** x
 
 ### Etymology
 

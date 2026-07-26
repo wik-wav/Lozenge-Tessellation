@@ -25,12 +25,21 @@ tags:
 IPA: /saɪ/
 
 ### Example sentence
-**To wo să apo ma.** _"I have one apple."_
+
+#### Example 1
+
+- **Asaxi:** to wo să apo ma.
+- **English:** I have one apple.
+- **Polish:** x
 
 ### Example Sentence 2
 
-> **Kamnawopao zèxånů să.**
-> "The Skin Horse only smiled."
+
+#### Example 1
+
+- **Asaxi:** kamnawopao zèxånů să.
+- **English:** The Skin Horse only smiled.
+- **Polish:** x
 
 ### Derived terms
 - **bisă** (1st)
@@ -38,4 +47,4 @@ IPA: /saɪ/
 
 ### Usage Note
 
-**Sense 2 ("only").** Post-positioned after a predicate or noun, restrictive **să** limits the statement to exactly that one thing: `xő aksami să izoŕa` ("made *only* of velveteen"), `igùŕano să` ("*just* a toy"). First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+**Sense 2 ("only").** Post-positioned after a predicate or noun, restrictive **să** limits the statement to exactly that one thing: `xő aksami să izoŕa` ("made *only* of velveteen"), `igùŕano să` ("*just* a toy"). First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

@@ -32,8 +32,12 @@ IPA: /fʷogaɪ/
 - Polish: dolina
 
 ### Example sentence
-**Kościeliska tte fwogă jëga pùŕa.**
-_Kościeliska is a valley below the mountains._
+
+#### Example 1
+
+- **Asaxi:** kościeliska tte fwogă jëga pùŕa.
+- **English:** Kościeliska is a valley below the mountains.
+- **Polish:** x
 
 ### Alternative Forms
 x

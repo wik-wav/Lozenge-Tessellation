@@ -31,8 +31,12 @@ IPA: /ɡabʷoʃɑ/
 - Polish: grubas, otyła istota
 
 ### Example sentence
-**To gabwoshá chỏnů.**
-_The fat creature eats._
+
+#### Example 1
+
+- **Asaxi:** to gabwoshá chỏnů.
+- **English:** The fat creature eats.
+- **Polish:** x
 
 ### Alternative Forms
 Null

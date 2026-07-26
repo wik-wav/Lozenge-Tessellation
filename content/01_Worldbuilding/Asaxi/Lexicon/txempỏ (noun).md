@@ -31,8 +31,12 @@ IPA: /t̪ʰempou̯/
 - Polish: szalik
 
 ### Example sentence
-**Sèwo zhý, to txempỏ nodo naŕa.**
-_When (it is) cold, a scarf is round the neck._
+
+#### Example 1
+
+- **Asaxi:** sèwo zhý, to txempỏ nodo naŕa.
+- **English:** When (it is) cold, a scarf is round the neck.
+- **Polish:** x
 
 ### Alternative Forms
 Null

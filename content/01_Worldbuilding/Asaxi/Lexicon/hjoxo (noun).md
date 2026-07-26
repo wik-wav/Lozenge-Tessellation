@@ -31,8 +31,12 @@ IPA: /ço̞ɦo̞/
 - Polish: kometa
 
 ### Example sentence
-**Hjoxo bă o xoxo.**
-_A comet crosses the sky._
+
+#### Example 1
+
+- **Asaxi:** hjoxo bă o xoxo.
+- **English:** A comet crosses the sky.
+- **Polish:** x
 
 ### Alternative Forms
 Null

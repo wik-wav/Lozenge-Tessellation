@@ -32,8 +32,12 @@ IPA: /daɪpaɪɾo/
 - Polish: morze, ocean
 
 ### Example sentence
-**Ŕoshá dăpăŕo vanů.**
-_Fish move about in the sea._
+
+#### Example 1
+
+- **Asaxi:** ŕoshá dăpăŕo vanů.
+- **English:** Fish move about in the sea.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -31,8 +31,12 @@ IPA: /seɪo̞ka/
 - Polish: widelec
 
 ### Example sentence
-**Sëoka chỏno kma.**
-_A fork takes the food._
+
+#### Example 1
+
+- **Asaxi:** sëoka chỏno kma.
+- **English:** A fork takes the food.
+- **Polish:** x
 
 ### Alternative Forms
 Null

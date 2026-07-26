@@ -36,8 +36,12 @@ IPA: /ʃɚsoɾuw/
 - Polish: pisać, tworzyć (dzieło)
 
 ### Example sentence
-**Ko waojýn shěsoŕů.**
-_She writes a story._
+
+#### Example 1
+
+- **Asaxi:** ko waojýn shěsoŕů.
+- **English:** She writes a story.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /tɑkaʃɑ/
 
 ### Example sentence
 
-**Tètáŕona tákasháma xő zèkamŕů.**
-_He was made by the wounded soldiers._
+
+#### Example 1
+
+- **Asaxi:** tètáŕona tákasháma xő zèkamŕů.
+- **English:** He was made by the wounded soldiers.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

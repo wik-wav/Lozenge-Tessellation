@@ -63,8 +63,19 @@ Derived from **[[ů (verb)|ů]]** (Be/Act) + **[[06A_-j- (particle)|-j-]]** (Vis
 - _Structure:_ `[Subject] + [Adverb/Adjective] + ůjů`.
 
 ### Example sentences
-**Adverbial Construction:** **To aśobi dănă ůjů.** _The leg looks huge._ (Lit: The leg \[hugely/big-ly\] appears).
 
-- _Logic:_ The adjective `dănă` is in the pre-verbal slot, so it acts as an adverb describing _how_ it looks.
+#### Example 1
 
-**Comparative Appearance:** **To ko gajýnnshá ůjů.** _She looks like a were-hyena._ (Lit: She were-hyena-ly appears).
+- **Asaxi:** to aśobi dănă ůjů.
+- **English:** Adverbial construction: the leg looks huge. (Literally: the leg hugely/big-ly appears.)
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to ko gajýnnshá ůjů.
+- **English:** Comparative appearance: she looks like a were-hyena. (Literally: she were-hyena-ly appears.)
+- **Polish:** x
+
+### Analysis
+
+- The adjective `dănă` is in the pre-verbal slot, so it acts as an adverb describing how it looks.

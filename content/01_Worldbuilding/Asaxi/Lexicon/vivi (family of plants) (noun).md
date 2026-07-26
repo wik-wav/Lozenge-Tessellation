@@ -34,9 +34,17 @@ IPA: /vivi/
 
 ### Example sentence
 
-Vivi gavi xiŕa. _Grass is green.
+#### Example 1
 
-John navivi aśù. _John is walking on grass._ (Lit: John walks the on-grass).
+- **Asaxi:** vivi gavi xiŕa.
+- **English:** Grass is green.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** john navivi aśù.
+- **English:** John is walking on grass (literally, John walks the on-grass).
+- **Polish:** x
 
 ### Alternative Forms
 x

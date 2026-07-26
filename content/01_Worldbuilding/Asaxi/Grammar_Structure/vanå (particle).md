@@ -40,6 +40,15 @@ Placed at the **end** of the sentence or clause.
 
 ### Example sentence
 
-**To wo shěsonů vanå.** _I am still reading._
 
-**Topo toponů vanå.** _It is still raining._
+#### Example 1
+
+- **Asaxi:** to wo shěsonů vanå.
+- **English:** I am still reading.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** topo toponů vanå.
+- **English:** It is still raining.
+- **Polish:** x

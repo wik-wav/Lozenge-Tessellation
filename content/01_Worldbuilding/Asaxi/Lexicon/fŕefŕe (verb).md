@@ -39,8 +39,12 @@ IPA: /fɾe̞fɾe̞/
 - Polish: trząść się, drżeć
 
 ### Example sentence
-**Owao fŕefŕe.**
-_The earth shakes._
+
+#### Example 1
+
+- **Asaxi:** owao fŕefŕe.
+- **English:** The earth shakes.
+- **Polish:** x
 
 ### Alternative Forms
 Null

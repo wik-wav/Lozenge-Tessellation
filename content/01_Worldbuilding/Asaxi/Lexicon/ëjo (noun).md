@@ -31,8 +31,12 @@ IPA: /eɪjo/
 - Polish: fraktal
 
 ### Example sentence
-**To ëjo fůśchino xiŕa.**
-_Fractals are lengthless (lack-length)._
+
+#### Example 1
+
+- **Asaxi:** to ëjo fůśchino xiŕa.
+- **English:** Fractals are lengthless (lack-length).
+- **Polish:** x
 
 ### Alternative Forms
 x

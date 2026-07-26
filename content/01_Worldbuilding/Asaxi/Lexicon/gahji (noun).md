@@ -33,8 +33,12 @@ IPA: /ɡaçi/
 - Polish: małość
 
 ### Example sentence
-**Toonă gahjigă gavină ůjů.**
-_This small place looks good._
+
+#### Example 1
+
+- **Asaxi:** toonă gahjigă gavină ůjů.
+- **English:** This small place looks good.
+- **Polish:** x
 
 ### Alternative Forms
 Null

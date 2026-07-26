@@ -41,8 +41,12 @@ IPA: /t͡ʃinaɪ/
 - English: luridly
 
 ### Example sentence
-**Sèwo tètá, to ko chină.**
-_With rage, she goes livid-red._
+
+#### Example 1
+
+- **Asaxi:** sèwo tètá, to ko chină.
+- **English:** With rage, she goes livid-red.
+- **Polish:** x
 
 ### Alternative Forms
 Null

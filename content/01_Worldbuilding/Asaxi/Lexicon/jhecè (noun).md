@@ -31,8 +31,12 @@ IPA: /d̠ʒet͡sə/
 - Polish: odrzutowiec
 
 ### Example sentence
-**To jhecè jýnoŕănabi xogă.**
-_The jet reaches the speed of sound._
+
+#### Example 1
+
+- **Asaxi:** to jhecè jýnoŕănabi xogă.
+- **English:** The jet reaches the speed of sound.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -34,7 +34,12 @@ IPA: /Ʝɪno/
 Refers to general physical sound. For "Voice" or "Speech," use **[[jýn (noun)|jýn]]**.
 
 ### Example sentence
-**Jýno kăminů.** `sound` `PLEASE-hear` _"Please listen to (hear) the sound."_
+
+#### Example 1
+
+- **Asaxi:** jýno kăminů.
+- **English:** Gloss: sound PLEASE-hear: Please listen to (hear) the sound.
+- **Polish:** x
 
 ### Alternative Forms
 x

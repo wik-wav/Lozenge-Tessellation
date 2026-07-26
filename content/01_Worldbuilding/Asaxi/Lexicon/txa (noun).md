@@ -30,8 +30,12 @@ IPA: /tʰa/
 - Polish: zmiana, przemiana
 
 ### Example sentence
-To txa xogă.
-Change arrives.
+
+#### Example 1
+
+- **Asaxi:** to txa xogă.
+- **English:** Change arrives.
+- **Polish:** x
 
 ### Alternative Forms
 x

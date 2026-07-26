@@ -39,8 +39,12 @@ IPA: /ʋaɦa/
 - Polish: kołysać się
 
 ### Example sentence
-**Kjèpo waxa.**
-_The tree sways._
+
+#### Example 1
+
+- **Asaxi:** kjèpo waxa.
+- **English:** The tree sways.
+- **Polish:** x
 
 ### Alternative Forms
 Null

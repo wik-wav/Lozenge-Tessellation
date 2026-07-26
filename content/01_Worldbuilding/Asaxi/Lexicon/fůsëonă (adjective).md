@@ -41,8 +41,12 @@ IPA: /fuu̯seɪo̞naɪ/
 - English: trivially
 
 ### Example sentence
-**Onă nono fůsëonă.**
-_This thing is non-essential._
+
+#### Example 1
+
+- **Asaxi:** onă nono fůsëonă.
+- **English:** This thing is non-essential.
+- **Polish:** x
 
 ### Alternative Forms
 Null

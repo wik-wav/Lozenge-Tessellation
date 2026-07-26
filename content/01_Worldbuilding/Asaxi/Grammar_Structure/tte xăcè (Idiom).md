@@ -35,8 +35,12 @@ IPA: /tːə ɦaɪt͡s̪ə/
 
 ### Example sentence
 
-**To owao pxỏnýj xiŕa tte xăcè.**
-_I am sure that the Earth is round._
+
+#### Example 1
+
+- **Asaxi:** to owao pxỏnýj xiŕa tte xăcè.
+- **English:** I am sure that the Earth is round.
+- **Polish:** x
 
 ### Etymology
 

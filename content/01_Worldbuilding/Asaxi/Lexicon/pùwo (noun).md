@@ -30,8 +30,12 @@ IPA: /pɯwo/
 - Polish: dół, spód, dno
 
 ### Example sentence
-**To pùwo siŕo ni.**
-_The bottom is towards the unknown._
+
+#### Example 1
+
+- **Asaxi:** to pùwo siŕo ni.
+- **English:** The bottom is towards the unknown.
+- **Polish:** x
 
 ### Alternative Forms
 Null

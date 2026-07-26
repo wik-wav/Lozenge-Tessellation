@@ -36,8 +36,12 @@ IPA: /jovinaɪ/
 - Polish: piękny
 
 ### Example sentence
-**Onă såŕå jovină.**
-_The song is beautiful._
+
+#### Example 1
+
+- **Asaxi:** onă såŕå jovină.
+- **English:** The song is beautiful.
+- **Polish:** x
 
 ### Alternative Forms
 Null

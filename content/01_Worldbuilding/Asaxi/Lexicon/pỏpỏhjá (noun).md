@@ -36,8 +36,12 @@ IPA: /pou̯pou̯çʲɑ/
 
 ### Example sentence
 
-**Dåni wo sè wo Pỏpỏhjá daohè!**
-_Give me my Bunny!_
+
+#### Example 1
+
+- **Asaxi:** dåni wo sè wo pỏpỏhjá daohè!
+- **English:** Give me my Bunny!
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

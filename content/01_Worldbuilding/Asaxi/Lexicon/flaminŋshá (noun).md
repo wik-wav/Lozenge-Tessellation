@@ -32,8 +32,12 @@ IPA: /fla.mi.ŋ̍ʃɑ/
 - Polish: flaming
 
 ### Example sentence
-**To flaminŋshá gavină ůjů.**
-_The flamingo looks good._
+
+#### Example 1
+
+- **Asaxi:** to flaminŋshá gavină ůjů.
+- **English:** The flamingo looks good.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -38,9 +38,18 @@ A fusion of **[[bă (particle)|bă]]** (Means/Instrument/Cause) and **[[hè (par
 
 ### Example sentences
 
-**Present Permissive:** **To John bă shějýnshá băhèshěsonů.** _The teacher enables John to read._ (Lit: John, by-teacher, is-enabled-to-read).
 
-**Past Permissive:** **To wo bă John zèbăhèxijo.** _John allowed me to see._
+#### Example 1
+
+- **Asaxi:** to john bă shějýnshá băhèshěsonů.
+- **English:** Present Permissive: The teacher enables John to read. (Lit: John, by-teacher, is-enabled-to-read).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo bă john zèbăhèxijo.
+- **English:** Past Permissive: John allowed me to see.
+- **Polish:** x
 
 ### Antonyms
 

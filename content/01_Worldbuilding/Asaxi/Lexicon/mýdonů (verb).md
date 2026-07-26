@@ -36,8 +36,12 @@ IPA: /mýdo̞nuu̯/
 - Polish: mydlić
 
 ### Example sentence
-**Wo të mýdonů.**
-_I soap my hands._
+
+#### Example 1
+
+- **Asaxi:** wo të mýdonů.
+- **English:** I soap my hands.
+- **Polish:** x
 
 ### Alternative Forms
 Null

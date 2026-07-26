@@ -26,7 +26,12 @@ IPA: /ɲiɦoɪ/
 
 ### Example sentence
 
-**To xő nixő ijo.** _He sees himself._
+
+#### Example 1
+
+- **Asaxi:** to xő nixő ijo.
+- **English:** He sees himself.
+- **Polish:** x
 
 ### Etymology
 

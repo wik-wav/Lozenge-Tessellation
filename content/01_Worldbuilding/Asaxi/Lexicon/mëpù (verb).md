@@ -39,8 +39,12 @@ IPA: /meɪpɯ/
 - Polish: mrugać
 
 ### Example sentence
-**Wo mëpù.**
-_I blink._
+
+#### Example 1
+
+- **Asaxi:** wo mëpù.
+- **English:** I blink.
+- **Polish:** x
 
 ### Alternative Forms
 Null

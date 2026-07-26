@@ -39,8 +39,12 @@ IPA: /ɾimpɯ/
 - Polish: planować
 
 ### Example sentence
-**Wo xè ŕimpù.**
-_I plan the work._
+
+#### Example 1
+
+- **Asaxi:** wo xè ŕimpù.
+- **English:** I plan the work.
+- **Polish:** x
 
 ### Alternative Forms
 Null

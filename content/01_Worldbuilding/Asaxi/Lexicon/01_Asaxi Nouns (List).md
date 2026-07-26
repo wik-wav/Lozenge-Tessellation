@@ -252,7 +252,7 @@ Navigation:
 - [[ispă (noun)]] - wilderness, the wild, the outside world, untamed lands
 - [[ispăshá (noun)]] - wild animal
 - [[ită (noun)]] - tension, stress, tautness, anxiety, tightness
-- [[Itaŕi (noun)]] - Italy
+- [[itaŕi (noun)]] - Italy
 - [[itxeshá (noun)]] - butterfly
 - [[jágo (noun)]] - blueberry
 - [[jåhjo (noun)]] - lodestar, destination, guiding star

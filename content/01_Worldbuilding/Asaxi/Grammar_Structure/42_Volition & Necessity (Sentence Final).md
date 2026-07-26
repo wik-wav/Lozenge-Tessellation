@@ -39,15 +39,15 @@ Like `ken` (Can), these particles appear at the very **end** of the clause.
 
 **A. Want (`wă`)**
 
-> **To wo shěsonů wă.** `SUBJ` `1SG` `read` `WANT` _"I want to read."_ (Similar to `jåshěsonů`, but emphasizes the _feeling_ of want over the action).
+> to wo shěsonů wă. `SUBJ` `1SG` `read` `WANT` "I want to read." (Similar to `jåshěsonů`, but emphasizes the _feeling_ of want over the action).
 
 **B. Need (`wë`)**
 
-> **To wo haśù wë.** `SUBJ` `1SG` `run` `NEED` _"I need to run."_
+> to wo haśù wë. `SUBJ` `1SG` `run` `NEED` "I need to run."
 
 **C. Lack of Necessity (`nỏwë`)**
 
-> **To no xoxo nỏwë.** `SUBJ` `2SG` `depart` `NOT-NEED` _"You don't have to leave."_ / _"You don't need to leave."_
+> to no xoxo nỏwë. `SUBJ` `2SG` `depart` `NOT-NEED` "You don't have to leave." / "You don't need to leave."
 
 ---
 
@@ -55,7 +55,7 @@ Like `ken` (Can), these particles appear at the very **end** of the clause.
 
 A specific phonological rule applies to these particles. Because `wă` and `wë` begin with the semi-vowel **/w/**, the standard negative particle `ná` shifts to **nỏ**.
 
-- **Rule:** `ná` + `w` → **nỏw...**
+- **Rule:** `ná` + `w` → nỏw...
 - **Forms:**
     - `ná` + `wă` → **nỏwă**.
     - `ná` + `wë` → **nỏwë**

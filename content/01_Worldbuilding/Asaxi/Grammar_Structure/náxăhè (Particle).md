@@ -36,9 +36,18 @@ IPA: /nɑɦaɪxə/
 
 ### Example sentence
 
-**Aśù náxăhè!** _No Trespassing! / Walking is strictly forbidden._
 
-**Shěso toponů náxăhè!** _Do not throw books!_ (Lit: Book dropping/placing must-not-be-done).
+#### Example 1
+
+- **Asaxi:** aśù náxăhè!
+- **English:** No Trespassing! / Walking is strictly forbidden.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** shěso toponů náxăhè!
+- **English:** Do not throw books! (Lit: Book dropping/placing must-not-be-done).
+- **Polish:** x
 
 ### Etymology
 

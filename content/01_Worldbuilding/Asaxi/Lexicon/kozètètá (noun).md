@@ -31,8 +31,12 @@ IPA: /kozət̪ət̪ɑ/
 - Polish: żal, skrucha, ubolewanie
 
 ### Example sentence
-**Kozètètá kozè izoŕa.**
-_Regret stems from the past._ (aphoristic)
+
+#### Example 1
+
+- **Asaxi:** kozètètá kozè izoŕa.
+- **English:** Regret stems from the past. (aphoristic)
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -65,6 +65,15 @@ Null
 - **Source Agreement:** **Warm** (Root `gavi` is Warm).
 
 ### Example sentences
-**Adjective (Attribute):** **To John gavină shá xiŕa.** _John is a good person._
 
-**Adverb (Manner):** **To John shěso gavină shěsonů.** _John reads the book well._
+#### Example 1
+
+- **Asaxi:** to john gavină shá xiŕa.
+- **English:** Adjective (Attribute): John is a good person.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to john shěso gavină shěsonů.
+- **English:** Adverb (Manner): John reads the book well.
+- **Polish:** x

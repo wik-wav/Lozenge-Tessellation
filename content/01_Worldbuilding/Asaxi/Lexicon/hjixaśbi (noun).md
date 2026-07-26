@@ -33,8 +33,12 @@ IPA: /çiɦaɕbi/
 **hjixaśbia** (Toes).
 
 ### Example sentence
-To hjixaśbi tètáŕů.
-The toe hurts.
+
+#### Example 1
+
+- **Asaxi:** to hjixaśbi tètáŕů.
+- **English:** The toe hurts.
+- **Polish:** x
 
 ### Alternative Forms
 x

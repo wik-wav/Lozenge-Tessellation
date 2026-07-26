@@ -32,8 +32,12 @@ IPA: /t̠ʃou̯ɾono/
 - Polish: zupa
 
 ### Example sentence
-**To wo chỏŕono ŕoŕonů.**
-_I drink the soup._
+
+#### Example 1
+
+- **Asaxi:** to wo chỏŕono ŕoŕonů.
+- **English:** I drink the soup.
+- **Polish:** x
 
 ### Alternative Forms
 x

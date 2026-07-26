@@ -39,8 +39,12 @@ IPA: /xopaɪ/
 - Polish: wyrzucać, wystrzeliwać
 
 ### Example sentence
-**Pŕobi ŕăbi xopă.**
-_A bow looses an arrow._
+
+#### Example 1
+
+- **Asaxi:** pŕobi ŕăbi xopă.
+- **English:** A bow looses an arrow.
+- **Polish:** x
 
 ### Alternative Forms
 Null

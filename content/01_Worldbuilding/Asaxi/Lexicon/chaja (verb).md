@@ -39,8 +39,12 @@ IPA: /t̠ʃaja/
 - Polish: żuć
 
 ### Example sentence
-**Mùù vivi chaja.**
-_The cow chews the grass._
+
+#### Example 1
+
+- **Asaxi:** mùù vivi chaja.
+- **English:** The cow chews the grass.
+- **Polish:** x
 
 ### Alternative Forms
 Null

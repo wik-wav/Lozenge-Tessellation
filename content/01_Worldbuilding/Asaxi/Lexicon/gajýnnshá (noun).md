@@ -34,9 +34,12 @@ IPA: /ɡa.Ʝɪ.n̩ʃɑ/
 - Polish: hienołak, człowiek-hiena
 
 ### Example sentence
-John **gajýnnshá** xiŕa. 
-_John is a were-hyena._ 
-(Defines his species/constitution).
+
+#### Example 1
+
+- **Asaxi:** john gajýnnshá xiŕa.
+- **English:** John is a were-hyena. (Defines his species/constitution).
+- **Polish:** x
 
 ### Alternative Forms
 x

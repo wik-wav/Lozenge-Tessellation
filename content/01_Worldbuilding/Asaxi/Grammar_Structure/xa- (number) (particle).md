@@ -26,4 +26,15 @@ IPA: /ɦa/
 
 ### Example sentence
 
-**xasă** (1000). **xatam** (2000).
+
+#### Example 1
+
+- **Asaxi:** xasă
+- **English:** 1000
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** xatam
+- **English:** 2000
+- **Polish:** x

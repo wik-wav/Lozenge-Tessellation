@@ -34,8 +34,12 @@ IPA: /ɡamaoɾo/
 - Polish: srebrny
 
 ### Example sentence
-**Mibi gamaoro.**
-_The earring is silvery._
+
+#### Example 1
+
+- **Asaxi:** mibi gamaoro.
+- **English:** The earring is silvery.
+- **Polish:** x
 
 ### Alternative Forms
 Null

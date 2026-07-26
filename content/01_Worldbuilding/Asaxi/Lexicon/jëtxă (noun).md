@@ -36,8 +36,12 @@ IPA: /je̞ɪtʰaɪ/
 
 ### Example sentence
 
-**Jëtxă zèxogă.**
-_Spring came._
+
+#### Example 1
+
+- **Asaxi:** jëtxă zèxogă.
+- **English:** Spring came.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

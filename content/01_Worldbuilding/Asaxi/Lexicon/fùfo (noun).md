@@ -31,8 +31,12 @@ IPA: /fɯfo̞/
 - Polish: lis
 
 ### Example sentence
-**Fùfo kùkù táka.**
-_The fox hunts the hen._
+
+#### Example 1
+
+- **Asaxi:** fùfo kùkù táka.
+- **English:** The fox hunts the hen.
+- **Polish:** x
 
 ### Alternative Forms
 Null

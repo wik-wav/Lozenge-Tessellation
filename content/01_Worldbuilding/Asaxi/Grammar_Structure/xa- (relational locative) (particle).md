@@ -32,7 +32,12 @@ IPA: /ɦa/
 
 ### Example sentence
 
-**Mao xasiŕo vaŕa.** _The moon is (contained) in outer space._
+
+#### Example 1
+
+- **Asaxi:** mao xasiŕo vaŕa.
+- **English:** The moon is (contained) in outer space.
+- **Polish:** x
 
 ### Derived terms
 

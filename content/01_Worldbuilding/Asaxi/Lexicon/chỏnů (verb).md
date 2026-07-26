@@ -36,8 +36,12 @@ IPA: /t͡ʃɤnɯ/
 - Polish: jeść, pożerać
 
 ### Example sentence
-**Dăŕoŕo gaŕo zèchåchỏnů.**
-_A flood utterly devoured the city._
+
+#### Example 1
+
+- **Asaxi:** dăŕoŕo gaŕo zèchåchỏnů.
+- **English:** A flood utterly devoured the city.
+- **Polish:** x
 
 ### Alternative Forms
 Null

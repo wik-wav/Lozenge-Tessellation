@@ -36,8 +36,12 @@ IPA: /saɪatʰaɪ/
 
 ### Example sentence
 
-**Nonă săatxă xăjovină zèxiŕa!**
-_That was a wonderful Summer!_
+
+#### Example 1
+
+- **Asaxi:** nonă săatxă xăjovină zèxiŕa!
+- **English:** That was a wonderful Summer!
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

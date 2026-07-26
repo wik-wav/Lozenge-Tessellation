@@ -35,8 +35,12 @@ IPA: /daɪt̠ʃuu̯/
 - Polish: czuć się potężnym
 
 ### Example sentence
-**Bỏshá dăchů.**
-_The man feels like a giant._
+
+#### Example 1
+
+- **Asaxi:** bỏshá dăchů.
+- **English:** The man feels like a giant.
+- **Polish:** x
 
 ### Alternative Forms
 Null

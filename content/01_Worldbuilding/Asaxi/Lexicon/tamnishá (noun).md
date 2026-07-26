@@ -31,8 +31,12 @@ IPA: /t̪amɲiʃɑ/
 - Polish: małżonek, małżonka, partner
 
 ### Example sentence
-**To ko sè wo tamnishá xiŕa.**
-_She is my spouse._
+
+#### Example 1
+
+- **Asaxi:** to ko sè wo tamnishá xiŕa.
+- **English:** She is my spouse.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /ʑɪt̠ʃuw/
 - Polish: marznąć, czuć zimno
 
 ### Example sentence
-**Ă wo zhýchů, dzè sè wo bashá săachů.**
-_I feel cold, but my friend feels hot._
+
+#### Example 1
+
+- **Asaxi:** ă wo zhýchů, dzè sè wo bashá săachů.
+- **English:** I feel cold, but my friend feels hot.
+- **Polish:** x
 
 ### Alternative Forms
 Null

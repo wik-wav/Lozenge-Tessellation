@@ -56,7 +56,7 @@ For prefixes ending in "u", "a", or "o":
 
 **Constraint (Word Boundary):** This rule applies **only** to prefixes (bound morphemes) within the verbal complex. It does **not** apply across word boundaries between separate parts of speech.
 
-- **Example:** **To jo ijo.** ("It sees.")
+- **Example:** to jo ijo. ("It sees.")
     - _Analysis:_ `jo` (Pronoun "It") ends in `o`. `ijo` (Verb "See") starts with `i`.
     - _Result:_ **No Coalescence.** They remain separate words: `jo ijo`. (NOT _jőjo_).
 
@@ -79,7 +79,7 @@ The glottal fricative `/h/` is weak.
 If a syllable containing the voiced fricative **x** (/ɦ/) is followed by **h**, the `h` changes into **x**.
 
 - **Rule:** `...xV` + `hV...` → `...xVxV...`
-- **Example:** `ná` + `xă` + `hù`... → **náxăxù...**
+- **Example:** `ná` + `xă` + `hù`... → náxăxù...
 
 ---
 
@@ -145,7 +145,7 @@ A distinct consonant (/ʔ/). Orthographically significant.
     - `chěcho'` + `hè` → **chěchohè** (Close it!).
 - **Interaction with Particles (Boundary Elision):** If a word ending in a glottal stop is followed immediately by a **Particle** or **Connector** (even if it starts with a consonant), the glottal stop is dropped to maintain flow.
     - **Rule:** `[Word-']` + `[Particle]` → `[Word] [Particle]`
-    - **Example:** `tomo'` (Stop) + `kè` (Question) → **tomo kè?** ("Does it stop?").
+    - **Example:** `tomo'` (Stop) + `kè` (Question) → tomo kè? ("Does it stop?").
     - _Note:_ This prevents the "stutter" of a glottal stop followed immediately by another consonant across a grammatical boundary.
 
 ### B. Vowel Devoicing

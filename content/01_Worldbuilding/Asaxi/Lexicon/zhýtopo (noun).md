@@ -31,8 +31,12 @@ IPA: /ʑɪt̪opo/
 - Polish: śnieg
 
 ### Example sentence
-**Zhýtopo xogă.**
-_The snow is coming._
+
+#### Example 1
+
+- **Asaxi:** zhýtopo xogă.
+- **English:** The snow is coming.
+- **Polish:** x
 
 ### Alternative Forms
 Null

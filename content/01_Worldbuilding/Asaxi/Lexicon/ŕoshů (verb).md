@@ -36,8 +36,12 @@ IPA: /ɾo̞ʃuu̯/
 - Polish: przeciekać
 
 ### Example sentence
-**Ŕobo ŕoshů.**
-_The bottle leaks._
+
+#### Example 1
+
+- **Asaxi:** ŕobo ŕoshů.
+- **English:** The bottle leaks.
+- **Polish:** x
 
 ### Alternative Forms
 Null

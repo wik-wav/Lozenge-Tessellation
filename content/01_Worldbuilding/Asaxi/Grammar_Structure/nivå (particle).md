@@ -38,4 +38,9 @@ IPA: /ɲivau̯/
 
 ### Example sentence
 
-**Aśù nivå, apo chỏnů.** _While walking, I eat an apple._
+
+#### Example 1
+
+- **Asaxi:** aśù nivå, apo chỏnů.
+- **English:** While walking, I eat an apple.
+- **Polish:** x

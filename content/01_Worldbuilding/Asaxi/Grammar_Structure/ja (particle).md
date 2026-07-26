@@ -36,4 +36,9 @@ IPA: /Ʝa/
 
 ### Example sentence
 
-**John zá Tom, Jerry ja Barry xoxo.** _John leaves with Tom, Jerry, and Barry._
+
+#### Example 1
+
+- **Asaxi:** john zá tom, jerry ja barry xoxo.
+- **English:** John leaves with Tom, Jerry, and Barry.
+- **Polish:** x

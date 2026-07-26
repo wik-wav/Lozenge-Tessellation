@@ -31,8 +31,12 @@ IPA: /t̪eɪɾo/
 - Polish: kieszeń
 
 ### Example sentence
-**To kemka tëŕo vaŕa.**
-_The key is in the pocket._
+
+#### Example 1
+
+- **Asaxi:** to kemka tëŕo vaŕa.
+- **English:** The key is in the pocket.
+- **Polish:** x
 
 ### Alternative Forms
 Null

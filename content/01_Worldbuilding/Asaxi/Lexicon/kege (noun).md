@@ -31,8 +31,12 @@ IPA: /ke̞ɡe̞/
 - Polish: policzek
 
 ### Example sentence
-**Kege gapiva.**
-_The cheeks are pink._
+
+#### Example 1
+
+- **Asaxi:** kege gapiva.
+- **English:** The cheeks are pink.
+- **Polish:** x
 
 ### Alternative Forms
 Null

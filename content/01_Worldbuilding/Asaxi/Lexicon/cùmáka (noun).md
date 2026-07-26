@@ -31,8 +31,12 @@ IPA: /t̻͡s̪ɯmɑka/
 - Polish: słoik
 
 ### Example sentence
-**Mia cùmáka vanů.**
-_Honey is in the jar._
+
+#### Example 1
+
+- **Asaxi:** mia cùmáka vanů.
+- **English:** Honey is in the jar.
+- **Polish:** x
 
 ### Alternative Forms
 Null

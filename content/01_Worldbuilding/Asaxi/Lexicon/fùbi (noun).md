@@ -36,8 +36,12 @@ IPA: /fɯbi/
 
 ### Example sentence
 
-**Sè xő fùbiwa xădăna zèbů sèni, hja vivi zèfùsa.**
-_His whiskers were so long that they brushed the grass._
+
+#### Example 1
+
+- **Asaxi:** sè xő fùbiwa xădăna zèbů sèni, hja vivi zèfùsa.
+- **English:** His whiskers were so long that they brushed the grass.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

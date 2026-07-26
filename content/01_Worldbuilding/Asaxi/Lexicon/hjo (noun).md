@@ -31,8 +31,12 @@ IPA: /ço/
 - Polish: gwiazda
 
 ### Example sentence
-**To hja xădănă hjonă xiŕa.**
-_The stars are very bright._
+
+#### Example 1
+
+- **Asaxi:** to hja xădănă hjonă xiŕa.
+- **English:** The stars are very bright.
+- **Polish:** x
 
 ### Alternative Forms
 Null

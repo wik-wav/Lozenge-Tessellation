@@ -36,9 +36,18 @@ Placed at the **end** of the sentence or clause.
 
 ### Example sentences
 
-**Standard Past:** **To wo zèchỏnů hùnå.** _I have already eaten._
 
-**With Pluperfect (Emphasis):** **Shěsokam hùzèchěcho' hùnå.** _The library had **already** closed._ (Double "Behind" emphasizes the remoteness).
+#### Example 1
+
+- **Asaxi:** to wo zèchỏnů hùnå.
+- **English:** Standard Past: I have already eaten.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** shěsokam hùzèchěcho' hùnå.
+- **English:** With Pluperfect (Emphasis): The library had already closed. (Double "Behind" emphasizes the remoteness).
+- **Polish:** x
 
 ### Antonyms
 

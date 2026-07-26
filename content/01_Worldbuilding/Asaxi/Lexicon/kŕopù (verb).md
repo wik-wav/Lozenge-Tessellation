@@ -39,8 +39,12 @@ IPA: /kɾo̞pɯ/
 - Polish: klękać
 
 ### Example sentence
-**Wo kŕopù.**
-_I kneel._
+
+#### Example 1
+
+- **Asaxi:** wo kŕopù.
+- **English:** I kneel.
+- **Polish:** x
 
 ### Alternative Forms
 Null

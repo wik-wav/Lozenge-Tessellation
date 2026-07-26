@@ -32,8 +32,12 @@ IPA: /fʷovi/
 - Polish: wzgórze, pagórek
 
 ### Example sentence
-**Vivi fwovi nanů.**
-_Grass covers the hill._
+
+#### Example 1
+
+- **Asaxi:** vivi fwovi nanů.
+- **English:** Grass covers the hill.
+- **Polish:** x
 
 ### Alternative Forms
 x

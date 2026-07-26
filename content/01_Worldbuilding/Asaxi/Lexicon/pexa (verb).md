@@ -39,8 +39,12 @@ IPA: /pe̞ɦa/
 - Polish: naciskać
 
 ### Example sentence
-**Wo memno pexa.**
-_I press the button._
+
+#### Example 1
+
+- **Asaxi:** wo memno pexa.
+- **English:** I press the button.
+- **Polish:** x
 
 ### Alternative Forms
 Null

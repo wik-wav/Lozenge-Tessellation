@@ -32,8 +32,12 @@ IPA: /t̪ɚpou̯/
 - Polish: włosy
 
 ### Example sentence
-**Sè jomåshá těpỏ těněn naŕa.**
-_A human's hair is on the head._
+
+#### Example 1
+
+- **Asaxi:** sè jomåshá těpỏ těněn naŕa.
+- **English:** A human's hair is on the head.
+- **Polish:** x
 
 ### Alternative Forms
 x

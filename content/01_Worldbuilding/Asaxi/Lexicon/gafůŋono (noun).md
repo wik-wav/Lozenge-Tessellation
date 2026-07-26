@@ -33,8 +33,12 @@ IPA: /ɡafuu̯ŋo̞no̞/
 - Polish: nieważkość
 
 ### Example sentence
-**Xăsiŕo gafůŋono.**
-_In outer space there is weightlessness._
+
+#### Example 1
+
+- **Asaxi:** xăsiŕo gafůŋono.
+- **English:** In outer space there is weightlessness.
+- **Polish:** x
 
 ### Alternative Forms
 Null

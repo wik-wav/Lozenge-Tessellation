@@ -31,8 +31,12 @@ IPA: /ɡaɡa/
 - Polish: kaczka
 
 ### Example sentence
-**Gaga ŕoŕo vanů.**
-_The duck is in the water._
+
+#### Example 1
+
+- **Asaxi:** gaga ŕoŕo vanů.
+- **English:** The duck is in the water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

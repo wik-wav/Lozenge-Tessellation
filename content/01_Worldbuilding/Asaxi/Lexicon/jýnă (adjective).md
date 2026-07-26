@@ -35,9 +35,12 @@ IPA: /Ʝɪnaj/
 - Polish: gadatliwy
 
 ### Example sentence
-John jýnă shá xiŕa.
-John is a very talkative person. (Lit. is like a hyena)
 
+#### Example 1
+
+- **Asaxi:** john jýnă shá xiŕa.
+- **English:** John is a very talkative person. (Lit. is like a hyena)
+- **Polish:** x
 
 ### Alternative Forms
 x

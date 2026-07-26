@@ -34,8 +34,12 @@ IPA: /ɡapiʋa/
 - Polish: różowy
 
 ### Example sentence
-**Onă piva gapiva.**
-_The flower is pink._
+
+#### Example 1
+
+- **Asaxi:** onă piva gapiva.
+- **English:** The flower is pink.
+- **Polish:** x
 
 ### Alternative Forms
 Null

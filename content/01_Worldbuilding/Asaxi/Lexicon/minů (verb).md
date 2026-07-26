@@ -36,8 +36,12 @@ IPA: /minuu̯/
 - Polish: słyszeć, słuchać
 
 ### Example sentence
-**John jýnů vå, ko minů.**
-_When John talks, she hears._
+
+#### Example 1
+
+- **Asaxi:** john jýnů vå, ko minů.
+- **English:** When John talks, she hears.
+- **Polish:** x
 
 ### Alternative Forms
 Null

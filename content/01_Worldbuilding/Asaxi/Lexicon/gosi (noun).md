@@ -32,8 +32,12 @@ IPA: /gosi/
 - Polish: sól
 
 ### Example sentence
-**Wo gosi chỏŕono tănů.**
-_I add salt to the soup._
+
+#### Example 1
+
+- **Asaxi:** wo gosi chỏŕono tănů.
+- **English:** I add salt to the soup.
+- **Polish:** x
 
 ### Alternative Forms
 x

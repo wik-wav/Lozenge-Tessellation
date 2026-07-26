@@ -45,9 +45,12 @@ IPA: /ɦaɪt̻͡s̪ənaɪ/
 
 ### Example sentence:
 
-**As an adjective:**
-- Ŕa mëŕo — xăcènă mëŕo — pù sè xő fù zèŕoxo.
-- _And a tear, a real tear, trickled down his nose._
+
+#### Example 1
+
+- **Asaxi:** ŕa mëŕo — xăcènă mëŕo — pù sè xő fù zèŕoxo.
+- **English:** And a tear, a real tear, trickled down his nose.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -55,7 +58,7 @@ x
 
 ### Etymology
 
-From **[[xăcèshá (noun)|Xăcèshá]]** (Warm) with class-suffix drop ([[47_Morphological Reduction (Class Suffixes)]]) — hence Warm **-nă**. Contrast the regular Cold derivation *xăcènýj* (< xăcèno) "true, factual (of statements)": Real-ness is warmth, truth is cold fact.
+From **[[xăcèshá (noun)|xăcèshá]]** (Warm) with class-suffix drop ([[47_Morphological Reduction (Class Suffixes)]]) — hence Warm **-nă**. Contrast the regular Cold derivation *xăcènýj* (< xăcèno) "true, factual (of statements)": Real-ness is warmth, truth is cold fact.
 
 ### Synonyms
 
@@ -71,4 +74,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

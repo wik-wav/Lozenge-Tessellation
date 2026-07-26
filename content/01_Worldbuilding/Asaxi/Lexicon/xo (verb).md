@@ -39,8 +39,12 @@ IPA: /xo/
 - Polish: ruszać się
 
 ### Example sentence
-**Hjáfwù vètxe naxo.**
-_A breeze keeps moving the leaves._
+
+#### Example 1
+
+- **Asaxi:** hjáfwù vètxe naxo.
+- **English:** A breeze keeps moving the leaves.
+- **Polish:** x
 
 ### Alternative Forms
 Null

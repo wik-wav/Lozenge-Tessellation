@@ -31,8 +31,12 @@ IPA: /baçɑ/
 - Polish: rodzeństwo; brat, siostra
 
 ### Example sentence
-**To wo zá bahjá aśù.**
-_I walk with [my] sibling._
+
+#### Example 1
+
+- **Asaxi:** to wo zá bahjá aśù.
+- **English:** I walk with [my] sibling.
+- **Polish:** x
 
 ### Alternative Forms
 Null

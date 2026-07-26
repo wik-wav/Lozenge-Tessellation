@@ -36,8 +36,12 @@ IPA: /xkanɯ/
 - Polish: chronić, osłaniać
 
 ### Example sentence
-**Hka wo hkanů.**
-_The shield protects me._
+
+#### Example 1
+
+- **Asaxi:** hka wo hkanů.
+- **English:** The shield protects me.
+- **Polish:** x
 
 ### Alternative Forms
 Null

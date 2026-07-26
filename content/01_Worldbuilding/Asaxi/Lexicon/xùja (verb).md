@@ -39,8 +39,12 @@ IPA: /ɦɯja/
 - Polish: rozkazywać
 
 ### Example sentence
-**Kùŕù xùja.**
-_The king gives an order._
+
+#### Example 1
+
+- **Asaxi:** kùŕù xùja.
+- **English:** The king gives an order.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -41,8 +41,12 @@ IPA: /fuu̯aɪvinaɪ/
 - Polish: okropnie, źle
 
 ### Example sentence
-**To wo fůăvină zèbůchů.**
-_I felt horrible._
+
+#### Example 1
+
+- **Asaxi:** to wo fůăvină zèbůchů.
+- **English:** I felt horrible.
+- **Polish:** x
 
 ### Alternative Forms
 Null

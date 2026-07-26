@@ -29,19 +29,19 @@ When asserting the identity, quality, or location of a subject, the Stative Part
 
 **A. Identity (Noun + Noun)**
 
-> **John shá.** `John` `person` `[Ø]` _"John (is) a person."_ (Implies: `John shá xiŕa`).
+> john shá. `John` `person` `[Ø]` "John (is) a person." (Implies: `john shá xiŕa`).
 
 **B. Attribution (Noun + Adjective)**
 
-> **Apo gapo.** `apple` `red` `[Ø]` _"The apple (is) red."_ (Implies: `Apo gapo xiŕa`).
+> apo gapo. `apple` `red` `[Ø]` "The apple (is) red." (Implies: `apo gapo xiŕa`).
 
 **C. Locative (Noun + Standalone Locative)** This is the standard way to state location without emphasis.
 
-> **To apo o.** `SUBJ` `apple` `HERE` `[Ø]` _"The apple (is) here."_ (Implies: `To apo o xiŕa`).
+> to apo o. `SUBJ` `apple` `HERE` `[Ø]` "The apple (is) here." (Implies: `to apo o xiŕa`).
 
 **D. Existence (Noun Only)**
 
-> **Shěso.** `book` `[Ø]` _"(There is) a book."_ / _"Book."_ (Implies: `Shěso xiŕa`).
+> shěso. `book` `[Ø]` "(There is) a book." / "Book." (Implies: `shěso xiŕa`).
 
 ---
 
@@ -54,11 +54,11 @@ If the Subject is known (the topic of conversation) or obvious (the speaker/list
 
 **A. Active Predicate**
 
-> **Shěsonů.** `read` _"(He/She/I) reads."_
+> shěsonů. `read` "(He/She/I) reads."
 
 **B. Adjectival Predicate**
 
-> **Gavină ů.** `good` `ACT.BE` _"(He) is being good."_ / _"(It) is going well."_])]
+> gavină ů. `good` `ACT.BE` "(He) is being good." / "(It) is going well."])]
 
 ---
 
@@ -66,9 +66,9 @@ If the Subject is known (the topic of conversation) or obvious (the speaker/list
 
 Adverbs of Time, Place, or Manner can stand alone as full sentences when functioning as answers to questions.
 
-- **Time:** **Pwo.** ("Tomorrow." - Answering "When?").])]
-- **Place:** **Ko.** ("Yonder." - Answering "Where?").
-- **Manner:** **Gavină.** ("Well." - Answering "How did it go?").
+- **Time:** pwo. ("Tomorrow." - Answering "When?").])]
+- **Place:** ko. ("Yonder." - Answering "Where?").
+- **Manner:** gavină. ("Well." - Answering "How did it go?").
 
 ---
 
@@ -76,10 +76,10 @@ Adverbs of Time, Place, or Manner can stand alone as full sentences when functio
 
 Validity Particles can stand alone to affirm or deny the previous statement. These are complete sentences representing "It is so" or "It is not so."
 
-- **xă.** ("Indeed." / "Yes.")    
-- **ná.** ("Not." / "No.")
-- **nèŕa.** ("Is not." / "Does not exist.")
-- **kè?** ("Is that so?" / "Question?") 
+- xă. ("Indeed." / "Yes.")    
+- ná. ("Not." / "No.")
+- nèŕa. ("Is not." / "Does not exist.")
+- kè? ("Is that so?" / "Question?") 
 
 ---
 
@@ -87,4 +87,4 @@ Validity Particles can stand alone to affirm or deny the previous statement. The
 
 Commands often drop the subject "You" (`no`) because the imperative mood implies the addressee.
 
-> **Shěsonůè!** _"Read!"_ (Implies: `To no shěsonůè`).
+> shěsonůè! "Read!" (Implies: `To no shěsonůè`).

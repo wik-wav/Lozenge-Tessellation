@@ -31,8 +31,12 @@ IPA: /ŋoɡo/
 - Polish: kotwica
 
 ### Example sentence
-**To ŋogo fnè kma.**
-_The anchor holds the boat._
+
+#### Example 1
+
+- **Asaxi:** to ŋogo fnè kma.
+- **English:** The anchor holds the boat.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -32,8 +32,12 @@ IPA: /pou̯no/
 - Polish: tkanina, materiał
 
 ### Example sentence
-**Wo pỏno kiŕonů.**
-_I cut the cloth._
+
+#### Example 1
+
+- **Asaxi:** wo pỏno kiŕonů.
+- **English:** I cut the cloth.
+- **Polish:** x
 
 ### Alternative Forms
 **-pỏ** — bound/reduced form used as a garment suffix (e.g. [[těmpỏ (noun)|těmpỏ]] hat, [[tëpỏ (noun)|tëpỏ]] glove).

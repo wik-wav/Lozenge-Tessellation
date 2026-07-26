@@ -31,8 +31,12 @@ IPA: /ɾaɪa/
 - Polish: ogień, płomień
 
 ### Example sentence
-**Ŕăa vèno chỏnů.**
-_Fire consumes the wood._
+
+#### Example 1
+
+- **Asaxi:** ŕăa vèno chỏnů.
+- **English:** Fire consumes the wood.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /vigavinaɪ/
 - Polish: zdrowy
 
 ### Example sentence
-**Sè wo mỏmå vigavină.**
-_My mother is healthy._
+
+#### Example 1
+
+- **Asaxi:** sè wo mỏmå vigavină.
+- **English:** My mother is healthy.
+- **Polish:** x
 
 ### Alternative Forms
 Null

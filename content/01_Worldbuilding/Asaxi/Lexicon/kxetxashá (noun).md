@@ -30,8 +30,12 @@ IPA: /kʰetʰaʃɑ/
 - Polish: zmiennokształtny, kameleon (metaforycznie)
 
 ### Example sentence
-Lem.ma kxetxashá xiŕa sèwo, hwo izo shivëkxe ni ŕăijokxe zèchåtxanů.
-Because Lem is a shapeshifter, yesterday (he) completely changed from civet-form into lion-form.
+
+#### Example 1
+
+- **Asaxi:** lem.ma kxetxashá xiŕa sèwo, hwo izo shivëkxe ni ŕăijokxe zèchåtxanů.
+- **English:** Because Lem is a shapeshifter, yesterday (he) completely changed from civet-form into lion-form.
+- **Polish:** x
 
 ### Alternative Forms
 x

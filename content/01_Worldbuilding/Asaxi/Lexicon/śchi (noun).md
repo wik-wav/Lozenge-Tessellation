@@ -32,8 +32,12 @@ IPA: /ɕt͡ɕʲi/
 - Polish: centymetr
 
 ### Example sentence
-**To shěso dam sè śchi.**
-_The book is 10cm (long/thick)._
+
+#### Example 1
+
+- **Asaxi:** to shěso dam sè śchi.
+- **English:** The book is 10cm (long/thick).
+- **Polish:** x
 
 ### Alternative Forms
 Null

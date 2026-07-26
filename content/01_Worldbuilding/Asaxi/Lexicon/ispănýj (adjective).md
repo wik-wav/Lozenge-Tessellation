@@ -36,8 +36,12 @@ IPA: /ispanɪj/
 - Polish: dziki, nieokiełznany
 
 ### Example sentence
-**To ko ispănýj shá xiŕa.**
-_She is a wild (intense/untamed) person._
+
+#### Example 1
+
+- **Asaxi:** to ko ispănýj shá xiŕa.
+- **English:** She is a wild (intense/untamed) person.
+- **Polish:** x
 
 ### Alternative Forms
 Null

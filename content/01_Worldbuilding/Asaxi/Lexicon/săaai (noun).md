@@ -31,8 +31,12 @@ IPA: /saɪa.ai/
 - Polish: gorączka
 
 ### Example sentence
-**Ă wo săaaiŕů.**
-_I am running a fever. (lit. I generate heat-pain — see [[65_Expressing States & Sensations (Source Doctrine)]])_
+
+#### Example 1
+
+- **Asaxi:** ă wo săaaiŕů.
+- **English:** I am running a fever. (lit. I generate heat-pain — see [[65_Expressing States & Sensations (Source Doctrine)]])
+- **Polish:** x
 
 ### Alternative Forms
 Null

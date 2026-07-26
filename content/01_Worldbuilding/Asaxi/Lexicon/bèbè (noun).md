@@ -31,8 +31,12 @@ IPA: /bəbə/
 - Polish: owca
 
 ### Example sentence
-**Bèbè pỏ ma.**
-_The sheep has wool._
+
+#### Example 1
+
+- **Asaxi:** bèbè pỏ ma.
+- **English:** The sheep has wool.
+- **Polish:** x
 
 ### Alternative Forms
 Null

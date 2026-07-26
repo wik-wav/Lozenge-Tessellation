@@ -36,8 +36,12 @@ IPA: /t̻͡s̪ɯko̞nuu̯/
 - Polish: budować
 
 ### Example sentence
-**Wo bakam cùkonů.**
-_I build the wall._
+
+#### Example 1
+
+- **Asaxi:** wo bakam cùkonů.
+- **English:** I build the wall.
+- **Polish:** x
 
 ### Alternative Forms
 Null

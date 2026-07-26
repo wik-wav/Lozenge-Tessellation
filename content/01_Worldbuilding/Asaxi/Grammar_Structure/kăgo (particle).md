@@ -26,7 +26,7 @@ tags:
 
 - Completes the k-word paradigm: *kjo* (what), *kshá* (who), *ksi* (where), *ksá* (how), *ksè* (why), *kvå* (when), **kăgo** (how many).
 - Behaves like the **-go quantifiers** ([[dăgo (particle)|dăgo]], [[hjigo (particle)|hjigo]], [[fůtăgo (particle)|fůtăgo]]): same syntactic slots, interrogative force.
-- In-situ like all k-words; no word-order change: **Kăgo jå kè?** ("How many do you want?")
+- In-situ like all k-words; no word-order change: kăgo jå kè? ("How many do you want?")
 
 ### Pronunciation
 
@@ -35,8 +35,12 @@ IPA: /kaɪgo/
 
 ### Example sentence
 
-**O-chỏno kăgo?**
-_"How much (is) this food?"_
+
+#### Example 1
+
+- **Asaxi:** o-chỏno kăgo?
+- **English:** How much (is) this food?
+- **Polish:** x
 
 ### Etymology
 

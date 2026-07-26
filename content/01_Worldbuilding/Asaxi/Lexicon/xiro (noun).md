@@ -32,8 +32,12 @@ IPA: /ɦiro/
 - Polish: złoto
 
 ### Example sentence
-**Htëno gaxiro xiŕa.**
-_The ring is (made of) gold._
+
+#### Example 1
+
+- **Asaxi:** htëno gaxiro xiŕa.
+- **English:** The ring is (made of) gold.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -30,8 +30,12 @@ IPA: /wou̯/
 - Polish: walec, cylinder
 
 ### Example sentence
-To wo wỏ ijo.
-I see the cylinder.
+
+#### Example 1
+
+- **Asaxi:** to wo wỏ ijo.
+- **English:** I see the cylinder.
+- **Polish:** x
 
 ### Alternative Forms
 x

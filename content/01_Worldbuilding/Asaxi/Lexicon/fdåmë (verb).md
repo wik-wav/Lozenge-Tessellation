@@ -40,10 +40,16 @@ IPA: /ft̪au̯meɪ/
 - Polish: zatajać, nie pokazywać, nie wysyłać
 
 ### Example sentence
-**Wo tăbino zèfdåmë.** 
-_I withheld the drawing (I did not send/show the drawing)._
 
-|Asaxi|**Wo**|**tăbino**|**zè-fdåmë**|
+#### Example 1
+
+- **Asaxi:** wo tăbino zèfdåmë.
+- **English:** I withheld the drawing (I did not send/show the drawing).
+- **Polish:** x
+
+### Analysis
+
+|Asaxi|wo|tăbino|zè-fdåmë|
 |---|---|---|---|
 |**Morphemes**|wo|tăbino|zè - fdåmë|
 |**Gloss**|1SG|drawing|PST-withhold|

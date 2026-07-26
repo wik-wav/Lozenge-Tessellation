@@ -26,7 +26,12 @@ IPA: /ɲiɡoɪ/
 
 ### Example sentence
 
-**To gő nigő ijo.** _They see themself._
+
+#### Example 1
+
+- **Asaxi:** to gő nigő ijo.
+- **English:** They see themself.
+- **Polish:** x
 
 ### Etymology
 

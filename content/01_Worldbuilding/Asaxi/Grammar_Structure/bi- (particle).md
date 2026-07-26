@@ -26,4 +26,15 @@ Derived from **[[bi (noun)|bi]]** (Line).
 
 ### Example sentence
 
-**bisă** (First). **bitam** (Second).
+
+#### Example 1
+
+- **Asaxi:** bisă
+- **English:** First
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** bitam
+- **English:** Second
+- **Polish:** x

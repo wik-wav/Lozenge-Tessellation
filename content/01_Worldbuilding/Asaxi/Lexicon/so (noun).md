@@ -32,8 +32,12 @@ IPA: /so/
 - Polish: dym
 
 ### Example sentence
-**So ŕăa izoŕa.**
-_Smoke comes from fire._
+
+#### Example 1
+
+- **Asaxi:** so ŕăa izoŕa.
+- **English:** Smoke comes from fire.
+- **Polish:** x
 
 ### Alternative Forms
 x

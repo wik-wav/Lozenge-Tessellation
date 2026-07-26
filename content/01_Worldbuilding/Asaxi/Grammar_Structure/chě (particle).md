@@ -34,4 +34,9 @@ IPA: /tʃɚ/
 
 ### Example sentence
 
-**Topù chě, onă o-jýnnshá chỏnů.** _If I drop (it), this hyena will eat (it)._
+
+#### Example 1
+
+- **Asaxi:** topù chě, onă o-jýnnshá chỏnů.
+- **English:** If I drop (it), this hyena will eat (it).
+- **Polish:** x

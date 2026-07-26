@@ -35,7 +35,12 @@ IPA: /uu̯puu̯/
 - Polish: być w dotyku
 
 ### Example sentence
-**To tobo gonýj ůpů.** _The table feels hard (rock-like)._
+
+#### Example 1
+
+- **Asaxi:** to tobo gonýj ůpů.
+- **English:** The table feels hard (rock-like).
+- **Polish:** x
 
 ### Alternative Forms
 Null

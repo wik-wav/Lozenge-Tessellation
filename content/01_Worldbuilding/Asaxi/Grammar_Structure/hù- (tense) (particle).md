@@ -27,4 +27,9 @@ tags:
 
 ### Example sentence
 
-**Shěsokam hùzèchěcho'.** _The library had closed._
+
+#### Example 1
+
+- **Asaxi:** shěsokam hùzèchěcho'.
+- **English:** The library had closed.
+- **Polish:** x

@@ -32,8 +32,12 @@ IPA: /mia/
 - Polish: miód
 
 ### Example sentence
-**To wo mia chỏnů.**
-_I eat the honey._
+
+#### Example 1
+
+- **Asaxi:** to wo mia chỏnů.
+- **English:** I eat the honey.
+- **Polish:** x
 
 ### Alternative Forms
 x

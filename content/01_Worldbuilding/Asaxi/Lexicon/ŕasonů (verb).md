@@ -36,8 +36,12 @@ IPA: /ɾaso̞nuu̯/
 - Polish: parować
 
 ### Example sentence
-**Ŕoŕo ŕasonů.**
-_The water evaporates._
+
+#### Example 1
+
+- **Asaxi:** ŕoŕo ŕasonů.
+- **English:** The water evaporates.
+- **Polish:** x
 
 ### Alternative Forms
 Null

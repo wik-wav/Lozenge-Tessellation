@@ -35,8 +35,12 @@ IPA: /t̠ʃaɪnuu̯/
 - Polish: pić herbatę
 
 ### Example sentence
-**Wo chănů.**
-_I take tea._
+
+#### Example 1
+
+- **Asaxi:** wo chănů.
+- **English:** I take tea.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -33,10 +33,10 @@ Placed at the **end** of the clause or sentence to anchor the action to the imme
 The meaning shifts slightly based on the tense of the verb it modifies.
 
 1. **With Non-Past:** "Now" / "Currently."
-    - _Example:_ `Shěsonů nå.` (Reading now).
+    - _Example:_ `shěsonů nå.` (Reading now).
 
 2. **With Past (`zè-`):** "Already." (The past action is relevant _now_).
-    - _Example:_ `Zèshěsonů nå.` (Read already / Have read).
+    - _Example:_ `zèshěsonů nå.` (Read already / Have read).
 
 ### Etymology
 
@@ -48,8 +48,17 @@ IPA: /nau̯/ (Based on `å` = /au̯/)
 
 ### Example sentences
 
-**Present (Now):** **To wo xoxo nå.** _I am departing now._
-**Past (Already):** **To wo zèchỏnů nå.** _I have already eaten._
+#### Example 1
+
+- **Asaxi:** to wo xoxo nå.
+- **English:** Present (now): I am departing now.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo zèchỏnů nå.
+- **English:** Past (already): I have already eaten.
+- **Polish:** x
 
 ### Derived terms
 

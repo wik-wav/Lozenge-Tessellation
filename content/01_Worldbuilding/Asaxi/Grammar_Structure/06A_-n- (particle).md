@@ -22,7 +22,7 @@ IPA: /n/
 
 ### Example sentence
 
-**To wo kjèkiŕonů.** _I use the axe._ / _I am axing._
+to wo kjèkiŕonů. I use the axe. / I am axing.
 
 ### Etymology
 

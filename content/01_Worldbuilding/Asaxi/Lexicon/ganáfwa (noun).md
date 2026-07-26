@@ -31,9 +31,19 @@ IPA: /ɡanɑfʷa/
 - English: clarity, transparency, cloudlessness (the quality)
 - Polish: klarowność, przejrzystość
 
-### Example sentence
-**To o ganáfwanýj xiŕa.** _The sky is clear._ (Lit: Sky is clear-type).
-**Hwo, ganáfwoŕimåa zèma.** _Yesterday, I had clear thoughts._
+### Example sentences
+
+#### Example 1
+
+- **Asaxi:** to o ganáfwanýj xiŕa.
+- **English:** The sky is clear (literally, the sky is clear-type).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** hwo, ganáfwoŕimåa zèma.
+- **English:** Yesterday, I had clear thoughts.
+- **Polish:** x
 
 ### Alternative Forms
 x

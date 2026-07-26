@@ -39,8 +39,12 @@ IPA: /nɑsa/
 - Polish: odmawiać
 
 ### Example sentence
-**Wo nása.**
-_I refuse._
+
+#### Example 1
+
+- **Asaxi:** wo nása.
+- **English:** I refuse.
+- **Polish:** x
 
 ### Alternative Forms
 Null

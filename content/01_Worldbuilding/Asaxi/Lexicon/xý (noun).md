@@ -31,8 +31,12 @@ IPA: /ɦɪ/
 - Polish: szron
 
 ### Example sentence
-**Sèwo zhý, to xý pjokem naŕa.**
-_When (it is) cold, frost is on the window._
+
+#### Example 1
+
+- **Asaxi:** sèwo zhý, to xý pjokem naŕa.
+- **English:** When (it is) cold, frost is on the window.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /kae̞ɾuu̯/
 - Polish: dojrzewać
 
 ### Example sentence
-**Kjèpo kaeŕů.**
-_The tree ripens its fruit._
+
+#### Example 1
+
+- **Asaxi:** kjèpo kaeŕů.
+- **English:** The tree ripens its fruit.
+- **Polish:** x
 
 ### Alternative Forms
 Null

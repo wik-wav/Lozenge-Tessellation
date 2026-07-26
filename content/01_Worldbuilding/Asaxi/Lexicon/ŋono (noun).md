@@ -30,8 +30,12 @@ IPA: /ŋono/
 - Polish: waga (ciężar), masa
 
 ### Example sentence
-**Vawo-gă, to Tom nădănă ŋono ma onă shá.**
-Tom is the heaviest person in here. (lit. _In here, Tom is a person who has the largest weight._)
+
+#### Example 1
+
+- **Asaxi:** vawo-gă, to tom nădănă ŋono ma onă shá.
+- **English:** Tom is the heaviest person in here. (lit. In here, Tom is a person who has the largest weight.)
+- **Polish:** x
 
 ### Alternative Forms
 Null

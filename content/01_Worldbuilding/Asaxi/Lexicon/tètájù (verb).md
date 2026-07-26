@@ -39,8 +39,12 @@ IPA: /t̪ət̪ɑjɯ/
 - Polish: ganić, winić
 
 ### Example sentence
-**Wo tètáshá tètájù.**
-_I blame the enemy._
+
+#### Example 1
+
+- **Asaxi:** wo tètáshá tètájù.
+- **English:** I blame the enemy.
+- **Polish:** x
 
 ### Alternative Forms
 Null

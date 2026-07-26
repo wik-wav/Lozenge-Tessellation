@@ -31,8 +31,12 @@ IPA: /çɑçɑ/
 - Polish: niemowlę
 
 ### Example sentence
-**Hjáhjá exe.**
-_The baby cries._
+
+#### Example 1
+
+- **Asaxi:** hjáhjá exe.
+- **English:** The baby cries.
+- **Polish:** x
 
 ### Alternative Forms
 Null

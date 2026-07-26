@@ -31,8 +31,12 @@ IPA: /ʋaojɪn/
 - Polish: opowieść, historia
 
 ### Example sentence
-**Vkozèshá waojýn ijù.**
-_The elder tells a story._
+
+#### Example 1
+
+- **Asaxi:** vkozèshá waojýn ijù.
+- **English:** The elder tells a story.
+- **Polish:** x
 
 ### Alternative Forms
 Null

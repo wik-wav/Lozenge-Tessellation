@@ -31,8 +31,12 @@ IPA: /t̪ət̪ɑ/
 - Polish: ból, cierpienie
 
 ### Example sentence
-**To wo tètá ůchů.**
-_I feel pain._
+
+#### Example 1
+
+- **Asaxi:** to wo tètá ůchů.
+- **English:** I feel pain.
+- **Polish:** x
 
 ### Alternative Forms
 x

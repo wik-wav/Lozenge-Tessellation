@@ -64,13 +64,18 @@ Null
 - **Source Agreement:** **Warm** (Root `chỏ` / `gadăchỏ` is Warm).
 
 ### Example sentences
-**Adjective (Attribute):**
-**To John gadăchỏnă shá xiŕa.**
-_John is a ravenous person._
 
-**Adverb (Manner):**
-**To wo shěso gadăchỏnă shěsonů.**
-_I read the book ravenously._ (Lit: I read with elephant-maw hunger).
+#### Example 1
+
+- **Asaxi:** to john gadăchỏnă shá xiŕa.
+- **English:** Adjective (Attribute): John is a ravenous person.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo shěso gadăchỏnă shěsonů.
+- **English:** Adverb (Manner): I read the book ravenously. (Lit: I read with elephant-maw hunger).
+- **Polish:** x
 
 ### Derived terms
 - **gadăchỏnýj** (Cold-class form) *(potential)*

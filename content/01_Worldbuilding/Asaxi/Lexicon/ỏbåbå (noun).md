@@ -30,11 +30,18 @@ IPA: /ou̯bau̯bau̯/
 - Polish: mięśnie brzucha
 
 ### Example sentence
-**To sè wo ỏbåba gavină zèxỏbåbåŕů.**
-_My abs are well defined._ (Lit: My abs have well-hardened).
 
-**Dhè ỏbåba gavină ijo ken.**
-My abs are clearly visible. (lit. "As-for (my) abs, (one) well see can.")
+#### Example 1
+
+- **Asaxi:** to sè wo ỏbåba gavină zèxỏbåbåŕů.
+- **English:** My abs are well defined. (Lit: My abs have well-hardened).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** dhè ỏbåba gavină ijo ken.
+- **English:** My abs are clearly visible. (lit. "As-for (my) abs, (one) well see can.")
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -35,8 +35,12 @@ IPA: /mi/
 
 ### Example sentence
 
-**Ă wo mijůchů.**
-_That is what I am feeling (right now)._
+
+#### Example 1
+
+- **Asaxi:** ă wo mijůchů.
+- **English:** That is what I am feeling (right now).
+- **Polish:** x
 
 ### Etymology
 

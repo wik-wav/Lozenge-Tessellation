@@ -31,8 +31,12 @@ IPA: /fnə/
 - Polish: łódź
 
 ### Example sentence
-**To fnè ŕoŕo naŕa.**
-_The boat sits on the water._
+
+#### Example 1
+
+- **Asaxi:** to fnè ŕoŕo naŕa.
+- **English:** The boat sits on the water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

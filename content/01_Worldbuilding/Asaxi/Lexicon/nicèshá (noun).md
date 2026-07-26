@@ -31,8 +31,12 @@ IPA: /ɲit̻͡s̪əʃɑ/
 - Polish: uczeń, uczennica
 
 ### Example sentence
-**Onă nicèshá shěso shěsonů.**
-_The student reads a book._
+
+#### Example 1
+
+- **Asaxi:** onă nicèshá shěso shěsonů.
+- **English:** The student reads a book.
+- **Polish:** x
 
 ### Alternative Forms
 Null

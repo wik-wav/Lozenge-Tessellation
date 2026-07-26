@@ -31,8 +31,12 @@ IPA: /ɯxɯ/
 - Polish: sowa
 
 ### Example sentence
-**Ùhù mao ijo.**
-_The owl sees at night._
+
+#### Example 1
+
+- **Asaxi:** ùhù mao ijo.
+- **English:** The owl sees at night.
+- **Polish:** x
 
 ### Alternative Forms
 Null

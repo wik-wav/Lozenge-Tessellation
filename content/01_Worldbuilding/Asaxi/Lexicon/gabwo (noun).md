@@ -32,8 +32,12 @@ IPA: /ɡabʷo/
 - Polish: otyłość, tłustość
 
 ### Example sentence
-**To Tom gabwoshá.**
-_Tom is a fat person._
+
+#### Example 1
+
+- **Asaxi:** to tom gabwoshá.
+- **English:** Tom is a fat person.
+- **Polish:** x
 
 ### Alternative Forms
 Null
@@ -52,5 +56,5 @@ Null
 
 ### Usage Note (Noun vs Adjective)
 While translated as "Fat," `gabwo` is grammatically a **Compound Noun** ("Fat-constitution").
-* **Usage:** `Tom gabwoshá xiŕa.` ("Tom is a fat-person").
+* **Usage:** `tom gabwoshá xiŕa.` ("Tom is a fat-person").
 * **Contrast:** **[[bwonă (adjective)]]** implies "Curvy/Beautiful."

@@ -36,8 +36,12 @@ IPA: /çʲɑb̪vakam/
 
 ### Example sentence
 
-**Ponă shá zèxiŕa, ko hjávakam zèxùja.**
-_There was a person who ruled the nursery._
+
+#### Example 1
+
+- **Asaxi:** ponă shá zèxiŕa, ko hjávakam zèxùja.
+- **English:** There was a person who ruled the nursery.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

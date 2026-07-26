@@ -70,7 +70,7 @@ Since Asaxi Adverbs of Manner are structurally identical to Adjectives placed in
 
 - **Rule:** If multiple adverbs modify the same verb, non-final adverbs undergo reduction.
 
-**Example:** `To wo ŕănabiný hjinýj aśù.`
+**Example:** `to wo ŕănabiný hjinýj aśù.`
 
 - _Gloss:_ SUBJ 1SG fast-RED quiet-FULL walk.
 - _Meaning:_ "I walk quickly (and) quietly."

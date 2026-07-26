@@ -39,8 +39,12 @@ IPA: /bika/
 - Polish: porównywać
 
 ### Example sentence
-**Wo apo ja kae bika.**
-_I compare the apple and the fruit._
+
+#### Example 1
+
+- **Asaxi:** wo apo ja kae bika.
+- **English:** I compare the apple and the fruit.
+- **Polish:** x
 
 ### Alternative Forms
 Null

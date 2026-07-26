@@ -36,8 +36,12 @@ IPA: /t̠ʃo̞ɪko̞/
 
 ### Example sentence
 
-**Gachőko gokaewa.**
-_Chocolate almonds (chocolate-type nuts)._
+
+#### Example 1
+
+- **Asaxi:** gachőko gokaewa.
+- **English:** Chocolate almonds (chocolate-type nuts).
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

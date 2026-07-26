@@ -31,8 +31,12 @@ IPA: /ɡaɪɾo/ (Distinct from `gaŕo` /gaɾo/ "City").
 - Polish: kolorowość, barwność
 
 ### Example sentence
-**Toonă wao găŕo xiŕa.**
-_The world is colourful._
+
+#### Example 1
+
+- **Asaxi:** toonă wao găŕo xiŕa.
+- **English:** The world is colourful.
+- **Polish:** x
 
 ### Alternative Forms
 Null
@@ -52,5 +56,5 @@ Null
 
 ### Usage Note
 Functions as a **Ga-Compound Noun**.
-* **Predicative:** `To shěso găŕo.` ("The book is colourful").
-* **Attributive:** `Onýj găŕo shěso.` ("The colourful book").
+* **Predicative:** `to shěso găŕo.` ("The book is colourful").
+* **Attributive:** `onýj găŕo shěso.` ("The colourful book").

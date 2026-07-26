@@ -29,8 +29,12 @@ IPA: /t̪eɪbibaubau/
 - Polish: mięśnie ramion
 
 ### Example sentence
-**To John tëbibåba gavină zèỏbåbåŕů.**
-_John's arm muscles are well defined._ (Lit: John's arm-muscles have hardened well).
+
+#### Example 1
+
+- **Asaxi:** to john tëbibåba gavină zèỏbåbåŕů.
+- **English:** John's arm muscles are well defined. (Lit: John's arm-muscles have hardened well).
+- **Polish:** x
 
 ### Alternative Forms
 Null

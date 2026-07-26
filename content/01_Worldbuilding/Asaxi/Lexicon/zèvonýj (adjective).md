@@ -41,14 +41,18 @@ IPA: /zəvonɪj/
 - Polish: renomowanie, sławnie
 
 ### Example sentence
-**As an adjective:**
-- To John zèvonýj shá xiŕa.
-John is an esteemed person (a "named" person).
 
-**As an adverb:**
-1. Intransitive (Simple)
-    - To xő zèvonýj bů.
-    He acts reputably.
+#### Example 1
+
+- **Asaxi:** to john zèvonýj shá xiŕa.
+- **English:** Adjective: John is an esteemed person (a "named" person).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to xő zèvonýj bů.
+- **English:** Adverb, intransitive: he acts reputably.
+- **Polish:** x
 
 ### Alternative Forms
 x

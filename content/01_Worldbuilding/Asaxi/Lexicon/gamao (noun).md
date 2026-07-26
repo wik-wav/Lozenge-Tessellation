@@ -34,8 +34,12 @@ IPA: /ɡamao/
 - Polish: czarny
 
 ### Example sentence
-**Onă mmråshá gamao.**
-_The cat is black._
+
+#### Example 1
+
+- **Asaxi:** onă mmråshá gamao.
+- **English:** The cat is black.
+- **Polish:** x
 
 ### Alternative Forms
 Null

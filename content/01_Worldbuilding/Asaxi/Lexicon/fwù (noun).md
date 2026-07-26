@@ -31,8 +31,12 @@ IPA: /fʷɯ/
 - Polish: wiatr
 
 ### Example sentence
-**To fwù xogă.**
-_The wind arrives._
+
+#### Example 1
+
+- **Asaxi:** to fwù xogă.
+- **English:** The wind arrives.
+- **Polish:** x
 
 ### Alternative Forms
 Null

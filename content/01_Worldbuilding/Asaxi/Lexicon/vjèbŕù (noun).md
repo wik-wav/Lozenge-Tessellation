@@ -31,8 +31,12 @@ IPA: /b̪vʲəbɾɯ/
 - Polish: wielbłąd
 
 ### Example sentence
-**Vjèbŕù hùsoŕo vanů.**
-_The camel is in the desert._
+
+#### Example 1
+
+- **Asaxi:** vjèbŕù hùsoŕo vanů.
+- **English:** The camel is in the desert.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -30,8 +30,13 @@ Derived from **[[xă (particle)|xă]]** (Indeed/Emphasis).
 
 ### Example sentence
 
-**To John [box] xădănă [pushing]xů.** _John pushes the box **very heavily**._
+#### Example 1
 
-- _Adverb:_ `dănă` (Elephant-like/Heavy)
-    
-- _Verbal Mode:_ `-x-` (Interaction/Force).
+- **Asaxi:** to john [box] xădănă [pushing]xů.
+- **English:** John pushes the box very heavily.
+- **Polish:** x
+
+### Analysis
+
+- **Adverb:** `dănă` (elephant-like/heavy)
+- **Verbal mode:** `-x-` (interaction/force)

@@ -31,8 +31,12 @@ IPA: /fnəbi/
 - Polish: wiosło
 
 ### Example sentence
-**To fnèbi fnè vaŕa.**
-_The oar is in the boat._
+
+#### Example 1
+
+- **Asaxi:** to fnèbi fnè vaŕa.
+- **English:** The oar is in the boat.
+- **Polish:** x
 
 ### Alternative Forms
 Null

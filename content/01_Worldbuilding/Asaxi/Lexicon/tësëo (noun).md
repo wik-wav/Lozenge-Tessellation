@@ -31,8 +31,12 @@ IPA: /t̪eɪseɪo̞/
 - Polish: paznokieć
 
 ### Example sentence
-**Tësëo hjitëbi nanů.**
-_The nail is on the finger._
+
+#### Example 1
+
+- **Asaxi:** tësëo hjitëbi nanů.
+- **English:** The nail is on the finger.
+- **Polish:** x
 
 ### Alternative Forms
 Null

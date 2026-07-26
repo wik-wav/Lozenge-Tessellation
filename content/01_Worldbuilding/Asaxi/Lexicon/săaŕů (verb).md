@@ -35,8 +35,12 @@ IPA: /saɪaɾuw/
 - Polish: promieniować ciepłem, pałać gorącem
 
 ### Example sentence
-**Onă hjá săaŕů — săaaiŕů kè?**
-_The child is radiating heat — does (she) have a fever?_
+
+#### Example 1
+
+- **Asaxi:** onă hjá săaŕů — săaaiŕů kè?
+- **English:** The child is radiating heat — does (she) have a fever?
+- **Polish:** x
 
 ### Alternative Forms
 Null

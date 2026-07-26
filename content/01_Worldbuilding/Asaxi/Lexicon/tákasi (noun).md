@@ -32,8 +32,12 @@ IPA: /t̪ɑkaɕi/
 - Polish: pokłosie wojny, zgliszcza
 
 ### Example sentence
-**Vatakasi, to sháma ů.**
-_In the fallout, people exist (are surviving)._
+
+#### Example 1
+
+- **Asaxi:** vatakasi, to sháma ů.
+- **English:** In the fallout, people exist (are surviving).
+- **Polish:** x
 
 ### Alternative Forms
 Null

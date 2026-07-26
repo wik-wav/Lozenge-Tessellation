@@ -38,8 +38,12 @@ IPA: /t͡sənɑ/
 - Polish: nie wiedzieć, nie znać
 
 ### Example sentence
-**To wo no cèná.**
-_I don't know you._
+
+#### Example 1
+
+- **Asaxi:** to wo no cèná.
+- **English:** I don't know you.
+- **Polish:** x
 
 ### Alternative Forms
 Null

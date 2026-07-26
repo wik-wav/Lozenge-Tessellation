@@ -31,8 +31,12 @@ IPA: /ɦo̞kɾo̞/
 - Polish: drabina
 
 ### Example sentence
-**Xokŕo bakam xokŕonů.**
-_A ladder leans against the wall._
+
+#### Example 1
+
+- **Asaxi:** xokŕo bakam xokŕonů.
+- **English:** A ladder leans against the wall.
+- **Polish:** x
 
 ### Alternative Forms
 Null

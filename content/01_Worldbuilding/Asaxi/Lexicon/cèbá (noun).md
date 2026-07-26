@@ -31,8 +31,12 @@ IPA: /t̻͡s̪əbɑ/
 - Polish: cebula
 
 ### Example sentence
-**Cèbá văchỏno.**
-_The onion is a vegetable._
+
+#### Example 1
+
+- **Asaxi:** cèbá văchỏno.
+- **English:** The onion is a vegetable.
+- **Polish:** x
 
 ### Alternative Forms
 Null

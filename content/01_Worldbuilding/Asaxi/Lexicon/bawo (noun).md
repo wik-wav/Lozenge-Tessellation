@@ -30,8 +30,12 @@ IPA: /bawo/
 - Polish: bok
 
 ### Example sentence
-**Vivi sè jëgo bawo nanů.**
-_Grass covers the mountain's flank._
+
+#### Example 1
+
+- **Asaxi:** vivi sè jëgo bawo nanů.
+- **English:** Grass covers the mountain's flank.
+- **Polish:** x
 
 ### Alternative Forms
 Null

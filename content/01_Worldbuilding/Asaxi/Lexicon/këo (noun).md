@@ -30,8 +30,12 @@ IPA: /keɪ.o/
 - Polish: dziób
 
 ### Example sentence
-To këo gonýj ůjů.
-The beak looks hard.
+
+#### Example 1
+
+- **Asaxi:** to këo gonýj ůjů.
+- **English:** The beak looks hard.
+- **Polish:** x
 
 ### Alternative Forms
 x

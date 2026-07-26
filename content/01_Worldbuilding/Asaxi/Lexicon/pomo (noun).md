@@ -32,8 +32,12 @@ IPA: /pomo/
 - Polish: gołąb
 
 ### Example sentence
-**To pomo kjè nanů.**
-_The dove is on the tree._
+
+#### Example 1
+
+- **Asaxi:** to pomo kjè nanů.
+- **English:** The dove is on the tree.
+- **Polish:** x
 
 ### Alternative Forms
 Null

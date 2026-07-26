@@ -31,8 +31,12 @@ IPA: /jɯɲi/
 - Polish: uniwersytet, uczelnia
 
 ### Example sentence
-**To wo vajùni shěsonů.**
-_I read at the university._
+
+#### Example 1
+
+- **Asaxi:** to wo vajùni shěsonů.
+- **English:** I read at the university.
+- **Polish:** x
 
 ### Alternative Forms
 Null

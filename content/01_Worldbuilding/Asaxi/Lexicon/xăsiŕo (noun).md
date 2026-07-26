@@ -29,7 +29,12 @@ IPA: /ɦaɪɕiɾo/
 - Polish: przestrzeń kosmiczna, otchłań
 
 ### Example sentence
-**Mao xăsiŕo vaŕa.** _The moon is in outer space._
+
+#### Example 1
+
+- **Asaxi:** mao xăsiŕo vaŕa.
+- **English:** The moon is in outer space.
+- **Polish:** x
 
 ### Alternative Forms
 x

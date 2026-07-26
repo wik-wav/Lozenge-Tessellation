@@ -31,8 +31,12 @@ IPA: /ksɯɾo/
 - Polish: plaża
 
 ### Example sentence
-**To ksùŕo dăpăŕo baŕa.**
-_The beach lies beside the sea._
+
+#### Example 1
+
+- **Asaxi:** to ksùŕo dăpăŕo baŕa.
+- **English:** The beach lies beside the sea.
+- **Polish:** x
 
 ### Alternative Forms
 Null

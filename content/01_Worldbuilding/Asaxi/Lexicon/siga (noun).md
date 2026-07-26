@@ -31,8 +31,12 @@ IPA: /ɕiɡa/
 - Polish: liczby, cyfry
 
 ### Example sentence
-**Wo siga nicè.**
-_I study the numbers._
+
+#### Example 1
+
+- **Asaxi:** wo siga nicè.
+- **English:** I study the numbers.
+- **Polish:** x
 
 ### Alternative Forms
 Null

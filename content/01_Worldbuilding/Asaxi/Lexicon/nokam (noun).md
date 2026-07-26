@@ -31,7 +31,12 @@ tags:
 - Polish: magazyn, skład, miejsce na rzeczy
 
 ### Example sentence
-Null
+
+#### Example 1
+
+- **Asaxi:** nokam dănă xiŕa.
+- **English:** The storehouse is large.
+- **Polish:** Magazyn jest duży.
 
 ### Alternative Forms
 Null
@@ -58,8 +63,3 @@ Null
 
 ### Definition
 A designated structure or place used for storing inanimate objects ("things"). It implies a static location where items are kept.
-
-### Example sentences
-- **nokam dănă xiŕa.**
-- *The storehouse is large.*
-- *Magazyn jest duży.*

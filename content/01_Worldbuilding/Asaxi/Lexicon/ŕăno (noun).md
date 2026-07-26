@@ -31,8 +31,12 @@ IPA: /ɾaɪno/
 - Polish: pas, pręga, smuga
 
 ### Example sentence
-**To \[tiger\] ŕăna ma.**
-_The tiger has stripes._
+
+#### Example 1
+
+- **Asaxi:** to \[tiger\] ŕăna ma.
+- **English:** The tiger has stripes.
+- **Polish:** x
 
 ### Alternative Forms
 x

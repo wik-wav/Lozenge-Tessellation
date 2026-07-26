@@ -32,8 +32,12 @@ IPA: /ma.o/
 
 ### Example sentence
 
-John **bă mao** shěsonů.
-John reads **through** the night.
+
+#### Example 1
+
+- **Asaxi:** john bă mao shěsonů.
+- **English:** John reads through the night.
+- **Polish:** x
 
 ### Alternative Forms
 x

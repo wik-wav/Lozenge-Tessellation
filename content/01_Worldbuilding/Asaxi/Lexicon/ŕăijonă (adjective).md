@@ -64,10 +64,15 @@ Derived from **[[ŕăijoshá (noun)|ŕăijo(shá)]]** (Lion) + **-nă**.
 - **Source Agreement:** **Warm** (Root `ŕăijoshá` is Warm).
 
 ### Example sentences
-**Adjective:**
-**To John ŕăijonă shá xiŕa.**
-_John is a powerful (kingly) person._
 
-**Adverb:**
-**To John ŕăijonă jýnů.**
-_John speaks commandingly._
+#### Example 1
+
+- **Asaxi:** to john ŕăijonă shá xiŕa.
+- **English:** Adjective: John is a powerful (kingly) person.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to john ŕăijonă jýnů.
+- **English:** Adverb: John speaks commandingly.
+- **Polish:** x

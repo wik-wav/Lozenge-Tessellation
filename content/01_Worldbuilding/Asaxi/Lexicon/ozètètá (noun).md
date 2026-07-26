@@ -31,8 +31,12 @@ IPA: /ozət̪ət̪ɑ/
 - Polish: błąd
 
 ### Example sentence
-**To wo ozètètá zèxů.**
-_I made a mistake._ (Lit: I did an immediate-past-pain).
+
+#### Example 1
+
+- **Asaxi:** to wo ozètètá zèxů.
+- **English:** I made a mistake. (Lit: I did an immediate-past-pain).
+- **Polish:** x
 
 ### Alternative Forms
 Null

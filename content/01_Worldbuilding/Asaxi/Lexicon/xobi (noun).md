@@ -31,8 +31,12 @@ IPA: /ɦo̞bi/
 - Polish: schody
 
 ### Example sentence
-**John xobi xona.**
-_John climbs the stairs._
+
+#### Example 1
+
+- **Asaxi:** john xobi xona.
+- **English:** John climbs the stairs.
+- **Polish:** x
 
 ### Alternative Forms
 Null

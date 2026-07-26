@@ -36,8 +36,12 @@ IPA: /t̻͡s̪ɯpou̯ʃuu̯/
 - Polish: odkurzać
 
 ### Example sentence
-**Wo tobo cùpỏshů.**
-_I dust the table._
+
+#### Example 1
+
+- **Asaxi:** wo tobo cùpỏshů.
+- **English:** I dust the table.
+- **Polish:** x
 
 ### Alternative Forms
 Null

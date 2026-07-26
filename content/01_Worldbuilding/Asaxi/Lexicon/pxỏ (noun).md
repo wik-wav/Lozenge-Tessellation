@@ -34,8 +34,12 @@ IPA: /pʰou/
 Rule: Nouns ending in diphthongs append -a for the plural form.
 
 ### Example sentence
-To pxỏa ńa xiŕa.
-Balls are things.
+
+#### Example 1
+
+- **Asaxi:** to pxỏa ńa xiŕa.
+- **English:** Balls are things.
+- **Polish:** x
 
 ### Alternative Forms
 x

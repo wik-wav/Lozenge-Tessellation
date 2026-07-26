@@ -32,8 +32,12 @@ IPA: /ʝeɪgo/
 - Polish: góra
 
 ### Example sentence
-**Zhýtopo Rysy naŕa.**
-_Snow lies on Mount Rysy._
+
+#### Example 1
+
+- **Asaxi:** zhýtopo rysy naŕa.
+- **English:** Snow lies on Mount Rysy.
+- **Polish:** x
 
 ### Alternative Forms
 x

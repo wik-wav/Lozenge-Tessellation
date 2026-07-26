@@ -31,8 +31,12 @@ IPA: /daɪt̪opo/
 - Polish: burza, ulewa
 
 ### Example sentence
-**Dătopo paxogă.**
-_A storm will arrive._
+
+#### Example 1
+
+- **Asaxi:** dătopo paxogă.
+- **English:** A storm will arrive.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -36,8 +36,12 @@ IPA: /ou̯bau̯nuu̯/
 - Polish: napinać mięśnie
 
 ### Example sentence
-**Gabåbåshá ỏbånů.**
-_The bodybuilder flexes._
+
+#### Example 1
+
+- **Asaxi:** gabåbåshá ỏbånů.
+- **English:** The bodybuilder flexes.
+- **Polish:** x
 
 ### Alternative Forms
 Null

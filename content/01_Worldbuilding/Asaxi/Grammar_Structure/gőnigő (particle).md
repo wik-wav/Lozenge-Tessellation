@@ -30,9 +30,18 @@ IPA: /ɡoɪɲiɡoɪ/
 
 ### Example sentence
 
-**To wa gőnigő ijo.** _We see each other._
 
-**To wa zá gőnigő aśù.** _We walk with each other._
+#### Example 1
+
+- **Asaxi:** to wa gőnigő ijo.
+- **English:** We see each other.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wa zá gőnigő aśù.
+- **English:** We walk with each other.
+- **Polish:** x
 
 ### Etymology
 

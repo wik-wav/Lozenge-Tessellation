@@ -38,8 +38,12 @@ IPA: /sɯb̪va/
 - Polish: troszczyć się
 
 ### Example sentence
-**Mỏmå hjáhjá sùva.**
-_The mother cares for the baby._
+
+#### Example 1
+
+- **Asaxi:** mỏmå hjáhjá sùva.
+- **English:** The mother cares for the baby.
+- **Polish:** x
 
 ### Alternative Forms
 Null

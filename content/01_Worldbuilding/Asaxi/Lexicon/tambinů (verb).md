@@ -35,11 +35,18 @@ IPA: /t̪ambinuu̯/
 - Polish: zgadzać się, pasować, równać się
 
 ### Example sentence
-**To wo no tambinů.**
-_I agree with you._ / _I match you._ (Lit: I equal you).
 
-**To wa tambinů.**
-_We are even._
+#### Example 1
+
+- **Asaxi:** to wo no tambinů.
+- **English:** I agree with you. / I match you. (Lit: I equal you).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wa tambinů.
+- **English:** We are even.
+- **Polish:** x
 
 ### Alternative Forms
 Null

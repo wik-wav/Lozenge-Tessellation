@@ -39,8 +39,12 @@ IPA: /z̪xau̯ka/
 - Polish: bać się
 
 ### Example sentence
-**Wo ŋè zhåka.**
-_I fear the dark._
+
+#### Example 1
+
+- **Asaxi:** wo ŋè zhåka.
+- **English:** I fear the dark.
+- **Polish:** x
 
 ### Alternative Forms
 Null

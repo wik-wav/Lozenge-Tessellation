@@ -36,8 +36,12 @@ IPA: /saɪaɦuw/
 - Polish: gotować, piec
 
 ### Example sentence
-**Sè wo bỏbå mwo săaxů.**
-_My father cooks meat._
+
+#### Example 1
+
+- **Asaxi:** sè wo bỏbå mwo săaxů.
+- **English:** My father cooks meat.
+- **Polish:** x
 
 ### Alternative Forms
 Null

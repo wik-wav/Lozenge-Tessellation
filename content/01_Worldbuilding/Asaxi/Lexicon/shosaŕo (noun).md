@@ -32,8 +32,12 @@ IPA: /ɕosaɾo/
 - Polish: rzeka
 
 ### Example sentence
-**Wisła tte shosaŕo, dăpăŕo niŕa.**
-_The Wisła is a river, and it flows to the sea._
+
+#### Example 1
+
+- **Asaxi:** wisła tte shosaŕo, dăpăŕo niŕa.
+- **English:** The Wisła is a river, and it flows to the sea.
+- **Polish:** x
 
 ### Alternative Forms
 x

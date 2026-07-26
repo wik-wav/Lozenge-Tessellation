@@ -35,11 +35,18 @@ IPA: /ou̯bʷonuu̯/
 - Polish: przytulać się
 
 ### Example sentence
-**To wa gőnigő ỏbwonů.**
-_We cuddle each other._
 
-**To wo no ỏbwonů.**
-_I cuddle you._
+#### Example 1
+
+- **Asaxi:** to wa gőnigő ỏbwonů.
+- **English:** We cuddle each other.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo no ỏbwonů.
+- **English:** I cuddle you.
+- **Polish:** x
 
 ### Alternative Forms
 Null

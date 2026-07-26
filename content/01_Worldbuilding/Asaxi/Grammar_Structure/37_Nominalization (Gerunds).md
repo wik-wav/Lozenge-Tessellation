@@ -41,7 +41,7 @@ Since you cannot use `onýj` to make a gerund specific ("The reading"), you must
 
 **Example:**
 
-> **To \[anő o-shěsonů\] gavină xiŕa.** `SUBJ` `[a here-reading]` `good` `IS` _"**The** reading (this specific one) is good."_]), xiŕa (Particle)]
+> to \[anő o-shěsonů\] gavină xiŕa. `SUBJ` `[a here-reading]` `good` `IS` "The reading (this specific one) is good."]), xiŕa (Particle)]
 
 ---
 
@@ -54,4 +54,4 @@ To describe an action as belonging to a specific time (e.g., "Yesterday's readin
 
 **Example:**
 
-> **To \[sè hwo anő shěsonů\] gavină zèxiŕa.** `SUBJ` `[of yesterday a reading]` `good` `PAST-IS` _"Yesterday's reading was good."_]), zè (Tense Prefix)]
+> to \[sè hwo anő shěsonů\] gavină zèxiŕa. `SUBJ` `[of yesterday a reading]` `good` `PAST-IS` "Yesterday's reading was good."]), zè (Tense Prefix)]

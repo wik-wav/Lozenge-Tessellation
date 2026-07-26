@@ -31,8 +31,12 @@ IPA: /t̪eɪb̪va/
 - Polish: dłoń
 
 ### Example sentence
-**Daogo tëva nanů.**
-_Coins lie on the palm._
+
+#### Example 1
+
+- **Asaxi:** daogo tëva nanů.
+- **English:** Coins lie on the palm.
+- **Polish:** x
 
 ### Alternative Forms
 Null

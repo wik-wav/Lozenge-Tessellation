@@ -31,8 +31,12 @@ IPA: /pɾoɾo/
 - Polish: wóz
 
 ### Example sentence
-**To sháma pŕoŕo vaŕa.**
-_People ride inside the wagon._
+
+#### Example 1
+
+- **Asaxi:** to sháma pŕoŕo vaŕa.
+- **English:** People ride inside the wagon.
+- **Polish:** x
 
 ### Alternative Forms
 Null

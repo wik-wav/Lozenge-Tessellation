@@ -36,8 +36,12 @@ IPA: /kɯso̞ŋuu̯/
 - Polish: śmierdzieć
 
 ### Example sentence
-**Mùśo kùsoŋů.**
-_The mould stinks of dung._
+
+#### Example 1
+
+- **Asaxi:** mùśo kùsoŋů.
+- **English:** The mould stinks of dung.
+- **Polish:** x
 
 ### Alternative Forms
 Null

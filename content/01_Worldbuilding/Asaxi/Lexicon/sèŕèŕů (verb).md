@@ -35,8 +35,12 @@ IPA: /səɾəɾuu̯/
 - Polish: robić ser
 
 ### Example sentence
-**Văshá sèŕèŕů.**
-_The farmer makes cheese._
+
+#### Example 1
+
+- **Asaxi:** văshá sèŕèŕů.
+- **English:** The farmer makes cheese.
+- **Polish:** x
 
 ### Alternative Forms
 Null

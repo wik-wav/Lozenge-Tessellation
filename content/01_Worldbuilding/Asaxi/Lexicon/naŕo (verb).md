@@ -63,10 +63,15 @@ Null
 * **[[naŕonů (verb)|naŕonů]] (Derived):** Physical process. Used for stirring, blending, or labor-intensive mixing ("Mix the paint").
 
 ### Example sentences
-**Mathematics:**
-**Tam naŕo tam tambi bam.**
-_Two times two equals four._
 
-**Abstract Action:**
-**To wo kem.ma naŕo.**
-_I combine the options (into one plan)._])]
+#### Example 1
+
+- **Asaxi:** tam naŕo tam tambi bam.
+- **English:** Mathematics: Two times two equals four.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** to wo kem.ma naŕo.
+- **English:** Abstract Action: I combine the options (into one plan). ])]
+- **Polish:** x

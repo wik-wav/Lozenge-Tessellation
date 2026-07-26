@@ -31,8 +31,12 @@ IPA: /pou̯kɾo̞/
 - Polish: dywan
 
 ### Example sentence
-**Pỏkŕo pùkŕo nanů.**
-_A rug is on the floor._
+
+#### Example 1
+
+- **Asaxi:** pỏkŕo pùkŕo nanů.
+- **English:** A rug is on the floor.
+- **Polish:** x
 
 ### Alternative Forms
 Null

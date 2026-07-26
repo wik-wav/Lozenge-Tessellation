@@ -33,7 +33,7 @@ tags:
 - **IPA:** /sou̯/
 - **Usage:** Used for memories, nostalgia, or events that exist primarily in the speaker's mind ("It felt like...", "I remember..."). It softens the factual edge of the past tense.
 - **Structure:** `sỏ-[Verb]`
-- **Example:** **To wo sỏshěsonů.** ("I remember reading / I was reading \[in my memory\].")
+- **Example:** to wo sỏshěsonů. ("I remember reading / I was reading \[in my memory\].")
 
 ### Alternate forms
 - **[[sỏ (particle)|sỏ-]]** - Subjective Past (Memoric/Nostalgic).

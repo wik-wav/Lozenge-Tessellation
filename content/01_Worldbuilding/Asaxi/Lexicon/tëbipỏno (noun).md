@@ -30,8 +30,12 @@ IPA: /t̪eɪbipou̯no/
 - Polish: narękawek
 
 ### Example sentence
-**Sèwo zhý, to tëbipỏno tëbi naŕa.**
-_When (it is) cold, an arm-warmer is on the arm._
+
+#### Example 1
+
+- **Asaxi:** sèwo zhý, to tëbipỏno tëbi naŕa.
+- **English:** When (it is) cold, an arm-warmer is on the arm.
+- **Polish:** x
 
 ### Alternative Forms
 Null

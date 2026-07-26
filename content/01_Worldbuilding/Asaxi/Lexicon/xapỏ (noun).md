@@ -31,8 +31,12 @@ IPA: /ɦapou̯/
 - Polish: płaszcz
 
 ### Example sentence
-**Sèwo zhý, to wo xapỏ ma.**
-_Because (it is) cold, I have a coat._
+
+#### Example 1
+
+- **Asaxi:** sèwo zhý, to wo xapỏ ma.
+- **English:** Because (it is) cold, I have a coat.
+- **Polish:** x
 
 ### Alternative Forms
 Null

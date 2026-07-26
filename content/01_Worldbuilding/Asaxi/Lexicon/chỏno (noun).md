@@ -31,8 +31,12 @@ IPA: /t̠ʃou̯no/
 - Polish: jedzenie, strawa
 
 ### Example sentence
-**Chỏno daokă.**
-_Please give [me] food._
+
+#### Example 1
+
+- **Asaxi:** chỏno daokă.
+- **English:** Please give [me] food.
+- **Polish:** x
 
 ### Alternative Forms
 Null

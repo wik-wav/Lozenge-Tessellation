@@ -31,8 +31,12 @@ IPA: /kʲəɡo/
 - Polish: pień
 
 ### Example sentence
-**To kjèpo kjègo dănă xiŕa.**
-_The tree's trunk is thick._
+
+#### Example 1
+
+- **Asaxi:** to kjèpo kjègo dănă xiŕa.
+- **English:** The tree's trunk is thick.
+- **Polish:** x
 
 ### Alternative Forms
 Null

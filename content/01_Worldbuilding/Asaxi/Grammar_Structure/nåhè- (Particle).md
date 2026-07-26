@@ -31,8 +31,12 @@ IPA: /nau̯xə/
 
 ### Example sentence
 
-**Shěsonů tomo nåhèhaśù!**
-_Stop reading and run (instead)!_
+
+#### Example 1
+
+- **Asaxi:** shěsonů tomo nåhèhaśù!
+- **English:** Stop reading and run (instead)!
+- **Polish:** x
 
 ### Etymology
 

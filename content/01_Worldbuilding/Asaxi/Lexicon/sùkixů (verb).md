@@ -39,8 +39,12 @@ IPA: /daɪsɯki/
 - Polish: kochać, miłować, uwielbiać
 
 ### Example sentence
-**To wo ni no sùkixů.**
-_I love you._ (I love unto you).
+
+#### Example 1
+
+- **Asaxi:** to wo ni no sùkixů.
+- **English:** I love you. (I love unto you).
+- **Polish:** x
 
 ### Alternative Forms
 Null

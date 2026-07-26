@@ -55,6 +55,6 @@ Null
 - [[ŋono (noun)|ŋono]] - weight, mass, heaviness
 ### Usage Note (Animate vs Inanimate)
 * **Animate Subject:** Uses the verb **[[ŋonů (verb)|ŋonů]]** ("To weigh").
-    * `To wo tamda ŋonů.` ("I weigh 200").
+    * `to wo tamda ŋonů.` ("I weigh 200").
 * **Inanimate Object:** Uses the structure `[Subject] [Number] sè ŋo xiŕa` ("Thing is X of weight").
-    * **Toonýj shěso tam sè ŋo xiŕa.** ("The book is 2kg").
+    * toonýj shěso tam sè ŋo xiŕa. ("The book is 2kg").

@@ -35,8 +35,12 @@ IPA: /b̪vəno̞ɾuu̯/
 - Polish: stolarzyć
 
 ### Example sentence
-**Wo tobo vènoŕů.**
-_I make a wooden table._
+
+#### Example 1
+
+- **Asaxi:** wo tobo vènoŕů.
+- **English:** I make a wooden table.
+- **Polish:** x
 
 ### Alternative Forms
 Null

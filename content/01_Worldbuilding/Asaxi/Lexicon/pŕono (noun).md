@@ -31,8 +31,12 @@ IPA: /pɾono/
 - Polish: koło
 
 ### Example sentence
-**To pŕoŕo bam pŕona ma.**
-_The wagon has four wheels._
+
+#### Example 1
+
+- **Asaxi:** to pŕoŕo bam pŕona ma.
+- **English:** The wagon has four wheels.
+- **Polish:** x
 
 ### Alternative Forms
 Null

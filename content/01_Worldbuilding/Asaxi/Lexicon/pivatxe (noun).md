@@ -31,8 +31,12 @@ IPA: /pib̪vat̪ʰe̞/
 - Polish: płatek
 
 ### Example sentence
-**Pivatxe piva izoŕa.**
-_A petal is part of the flower._
+
+#### Example 1
+
+- **Asaxi:** pivatxe piva izoŕa.
+- **English:** A petal is part of the flower.
+- **Polish:** x
 
 ### Alternative Forms
 Null

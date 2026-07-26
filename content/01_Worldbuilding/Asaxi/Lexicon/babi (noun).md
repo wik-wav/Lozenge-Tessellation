@@ -31,8 +31,12 @@ IPA: /babi/
 - Polish: kuzyn
 
 ### Example sentence
-**Sè wo babi.**
-_My cousin._
+
+#### Example 1
+
+- **Asaxi:** sè wo babi.
+- **English:** My cousin.
+- **Polish:** x
 
 ### Alternative Forms
 Null

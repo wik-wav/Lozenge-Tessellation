@@ -32,8 +32,12 @@ IPA: /pou̯so/
 - Polish: mech
 
 ### Example sentence
-**Pỏso go nanů.**
-_Moss covers the rock._
+
+#### Example 1
+
+- **Asaxi:** pỏso go nanů.
+- **English:** Moss covers the rock.
+- **Polish:** x
 
 ### Alternative Forms
 x

@@ -24,9 +24,9 @@ tags:
 ### Usage Notes
 
 - **Position:** **Post-positioned** to the constituent it marks (unlike NPCP case particles, which precede): `[Noun/Pronoun] + xa`.
-- **Additive:** **Ko xa xogă.** ("She also arrived.")
-- **Standalone reply:** **Wo xa.** ("Me too.")
-- **Scalar ("even"):** **Hjá xa cő.** ("Even a child understands.")
+- **Additive:** ko xa xogă. ("She also arrived.")
+- **Standalone reply:** wo xa. ("Me too.")
+- **Scalar ("even"):** hjá xa cő. ("Even a child understands.")
 
 ### Disambiguation (Homophones)
 
@@ -38,8 +38,12 @@ IPA: /ɦa/
 
 ### Example sentence
 
-**To wo xa ni daoŕo aśù.**
-_"I, too, am walking to the market."_
+
+#### Example 1
+
+- **Asaxi:** to wo xa ni daoŕo aśù.
+- **English:** I, too, am walking to the market.
+- **Polish:** x
 
 ### Etymology
 

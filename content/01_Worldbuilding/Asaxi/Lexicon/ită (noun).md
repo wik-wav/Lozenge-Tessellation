@@ -31,8 +31,12 @@ IPA: /itaɪ/
 - Polish: napięcie, stres, sztywność
 
 ### Example sentence
-Wo ită paniŕa.
-I will become anxious. (Lit: I am destined for/becoming tension).
+
+#### Example 1
+
+- **Asaxi:** wo ită paniŕa.
+- **English:** I will become anxious. (Lit: I am destined for/becoming tension).
+- **Polish:** x
 
 ### Alternative Forms
 x

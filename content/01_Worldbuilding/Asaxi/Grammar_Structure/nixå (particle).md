@@ -41,4 +41,9 @@ IPA: /ɲiɦau̯/
 
 ### Example sentence
 
-**Wo nixå 3 shěsonů.** _I have been reading for 3 (hours/units)._
+
+#### Example 1
+
+- **Asaxi:** wo nixå 3 shěsonů.
+- **English:** I have been reading for 3 (hours/units).
+- **Polish:** x

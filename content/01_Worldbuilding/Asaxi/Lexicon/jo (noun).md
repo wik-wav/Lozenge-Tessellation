@@ -30,8 +30,12 @@ IPA: /Ʝo/
 - Polish: społeczeństwo
 
 ### Example sentence
-Jo băjomåshá śýstèm xiŕa.
-Society is a man-made system.
+
+#### Example 1
+
+- **Asaxi:** jo băjomåshá śýstèm xiŕa.
+- **English:** Society is a man-made system.
+- **Polish:** x
 
 ### Alternative Forms
 x

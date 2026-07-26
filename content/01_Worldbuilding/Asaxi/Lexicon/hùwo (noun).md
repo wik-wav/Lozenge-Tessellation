@@ -31,8 +31,12 @@ IPA: /xɯʷo/
 - Polish: tył, to co z tyłu
 
 ### Example sentence
-**To wo ni hùwo ijoná.**
-_I do not look back (to the behind-place)._
+
+#### Example 1
+
+- **Asaxi:** to wo ni hùwo ijoná.
+- **English:** I do not look back (to the behind-place).
+- **Polish:** x
 
 ### Alternative Forms
 Null

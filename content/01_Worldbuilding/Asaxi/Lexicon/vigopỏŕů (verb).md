@@ -35,8 +35,12 @@ IPA: /b̪viɡo̞pou̯ɾuu̯/
 - Polish: mleć mąkę
 
 ### Example sentence
-**Vigokam vigopỏŕů.**
-_The mill makes flour._
+
+#### Example 1
+
+- **Asaxi:** vigokam vigopỏŕů.
+- **English:** The mill makes flour.
+- **Polish:** x
 
 ### Alternative Forms
 Null

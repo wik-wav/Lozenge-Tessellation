@@ -26,15 +26,19 @@ aliases:
 
 IPA: /izo/
 
-### Example sentence
+### Example sentences
 
-1. **Standard Origin (Source):** 
-	**Izo** kamm måmåni kjèpo aśù. 
-	_I walk from the building as-far-as-to the tree._
+#### Example 1
 
-2. **Complex Locative Fusion (Origin + Location):** 
-	Onýj o-shěso **izowo**-shěsokam xiŕa. 
-	_The book is from-the-library-here._ (The speaker has physically pointed first at the specific book, then at the library building)
+- **Asaxi:** izo kamm måmåni kjèpo aśù.
+- **English:** Standard origin (source): I walk from the building as far as the tree.
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** onýj o-shěso izowo-shěsokam xiŕa.
+- **English:** Complex locative fusion (origin and location): The book is from the library here. The speaker has physically pointed first at the specific book, then at the library building.
+- **Polish:** x
 
 ### Alternative Forms
 

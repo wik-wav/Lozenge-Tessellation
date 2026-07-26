@@ -30,7 +30,12 @@ IPA: /ɦaɪkaɪ/
 
 ### Example sentence
 
-**Kamm pănůxăkă.** _Please exit the building._ (Standard safety announcement).
+
+#### Example 1
+
+- **Asaxi:** kamm pănůxăkă.
+- **English:** Please exit the building. (Standard safety announcement).
+- **Polish:** x
 
 ### Etymology
 

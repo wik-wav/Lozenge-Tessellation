@@ -40,8 +40,12 @@ IPA: /ɦopɯ/
 - Polish: schodzić, opuszczać, zniżać
 
 ### Example sentence
-**To wo [blinds] xopù.**
-_I lower the blinds._
+
+#### Example 1
+
+- **Asaxi:** to wo [blinds] xopù.
+- **English:** I lower the blinds.
+- **Polish:** x
 
 ### Alternative Forms
 Null

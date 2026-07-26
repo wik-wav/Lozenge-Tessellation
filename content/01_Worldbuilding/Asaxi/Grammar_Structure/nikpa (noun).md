@@ -28,8 +28,12 @@ IPA: /ɲikpa/
 
 ### Example sentence
 
-**Nikpa, to owao siŕo paxiŕa.**
-_In the distant future, Earth will be the void._
+
+#### Example 1
+
+- **Asaxi:** nikpa, to owao siŕo paxiŕa.
+- **English:** In the distant future, Earth will be the void.
+- **Polish:** x
 
 ### Etymology
 

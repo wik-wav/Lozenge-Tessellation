@@ -36,8 +36,12 @@ IPA: /kʲəkanuu̯/
 - Polish: piłować
 
 ### Example sentence
-**Wo vèno kjèkanů.**
-_I saw the wood._
+
+#### Example 1
+
+- **Asaxi:** wo vèno kjèkanů.
+- **English:** I saw the wood.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -34,17 +34,24 @@ IPA: /tʰaɪ/
 Rule: Nouns ending in a standard consonant or diphthong append -a
 
 ### Example sentence
-To wo tamdam să txăa.
-I am 23 years old. (Lit: I [am] 23 years).
 
-Să hùtxă.
-One year ago.
+#### Example 1
+
+- **Asaxi:** to wo tamdam să txăa.
+- **English:** I am 23 years old. (Lit: I [am] 23 years).
+- **Polish:** x
+
+#### Example 2
+
+- **Asaxi:** să hùtxă.
+- **English:** One year ago.
+- **Polish:** x
 
 ### Alternative Forms
 x
 
 ### Etymology
-**tă** (addition) + **Xi** (Sun) - An addition of the solar (cycle). 
+**tă** (addition) + **xi** (Sun) - An addition of the solar (cycle). 
 Logic: A "Complete Time" or a "True Cycle." Or possibly related to **[[xi (noun)|xi]]** (Sun) + **xă** (Emphasis).
 
 ### Synonyms

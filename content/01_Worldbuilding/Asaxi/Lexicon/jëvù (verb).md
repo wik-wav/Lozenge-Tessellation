@@ -39,8 +39,12 @@ IPA: /jeɪb̪vɯ/
 - Polish: kiełkować
 
 ### Example sentence
-**Vă jëvù.**
-_The plant sprouts._
+
+#### Example 1
+
+- **Asaxi:** vă jëvù.
+- **English:** The plant sprouts.
+- **Polish:** x
 
 ### Alternative Forms
 Null

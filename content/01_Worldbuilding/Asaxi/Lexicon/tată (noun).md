@@ -31,8 +31,12 @@ IPA: /t̪at̪aɪ/
 - Polish: mata
 
 ### Example sentence
-**Tată pùkŕo nanů.**
-_A mat is on the floor._
+
+#### Example 1
+
+- **Asaxi:** tată pùkŕo nanů.
+- **English:** A mat is on the floor.
+- **Polish:** x
 
 ### Alternative Forms
 Null

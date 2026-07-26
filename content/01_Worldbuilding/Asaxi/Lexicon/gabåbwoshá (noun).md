@@ -34,8 +34,12 @@ IPA: /ɡabau̯bʷoʃɑ/
 - Polish: siłacz, mocarz, niedźwiedź (typ budowy)
 
 ### Example sentence
-**To gabåbwoshá xădănă xèro ronů.**
-_The strongman lifts very heavy weights._
+
+#### Example 1
+
+- **Asaxi:** to gabåbwoshá xădănă xèro ronů.
+- **English:** The strongman lifts very heavy weights.
+- **Polish:** x
 
 ### Alternative Forms
 Null

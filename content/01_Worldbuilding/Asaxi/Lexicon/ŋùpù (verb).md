@@ -39,8 +39,12 @@ IPA: /ŋɯpɯ/
 - Polish: połykać
 
 ### Example sentence
-**Wo ŕoŕo ŋùpù.**
-_I swallow the water._
+
+#### Example 1
+
+- **Asaxi:** wo ŕoŕo ŋùpù.
+- **English:** I swallow the water.
+- **Polish:** x
 
 ### Alternative Forms
 Null

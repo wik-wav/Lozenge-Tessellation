@@ -26,7 +26,12 @@ tags:
 IPA: /t̪am/
 
 ### Example sentence
-**John tam apa ma.** _"John has two apples."_
+
+#### Example 1
+
+- **Asaxi:** john tam apa ma.
+- **English:** John has two apples.
+- **Polish:** x
 
 ### Derived terms
 - **bitam** (2nd)

@@ -36,8 +36,12 @@ IPA: /pʰou̯ɾuu̯/
 - Polish: nadmuchać, napompować
 
 ### Example sentence
-To wo pxỏ pxỏŕů.
-I inflate the ball.
+
+#### Example 1
+
+- **Asaxi:** to wo pxỏ pxỏŕů.
+- **English:** I inflate the ball.
+- **Polish:** x
 
 ### Alternative Forms
 x

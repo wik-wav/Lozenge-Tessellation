@@ -31,8 +31,12 @@ IPA: /ɾo̞ɡo̞ɾo̞/
 - Polish: studnia
 
 ### Example sentence
-**Ŕoŕo ŕogoŕo izoŕa.**
-_Water comes from the well._
+
+#### Example 1
+
+- **Asaxi:** ŕoŕo ŕogoŕo izoŕa.
+- **English:** Water comes from the well.
+- **Polish:** x
 
 ### Alternative Forms
 Null

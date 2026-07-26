@@ -39,8 +39,12 @@ IPA: /saɪɾɯ/
 - Polish: pocić się
 
 ### Example sentence
-**Wo săŕù.**
-_I sweat._
+
+#### Example 1
+
+- **Asaxi:** wo săŕù.
+- **English:** I sweat.
+- **Polish:** x
 
 ### Alternative Forms
 Null

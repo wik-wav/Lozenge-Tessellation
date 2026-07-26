@@ -35,8 +35,12 @@ IPA: /tʰanuu̯/
 - Polish: zmieniać się, przechodzić przemianę
 
 ### Example sentence
-To wo txanů.
-I am changing.
+
+#### Example 1
+
+- **Asaxi:** to wo txanů.
+- **English:** I am changing.
+- **Polish:** x
 
 ### Alternative Forms
 x

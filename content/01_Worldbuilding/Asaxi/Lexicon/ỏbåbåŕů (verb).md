@@ -35,8 +35,12 @@ IPA: /ou̯bau̯bau̯ɾuu̯/
 - Polish: wyrzeźbić się, nabrać rzeźby
 
 ### Example sentence
-**To John niỏbåbåŕů.**
-_John is starting to get ripped._
+
+#### Example 1
+
+- **Asaxi:** to john niỏbåbåŕů.
+- **English:** John is starting to get ripped.
+- **Polish:** x
 
 ### Alternative Forms
 Null

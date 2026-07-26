@@ -31,8 +31,12 @@ IPA: /t̪eɪko̞/
 - Polish: pięść
 
 ### Example sentence
-**Wo tëko kma.**
-_I clench my fist._
+
+#### Example 1
+
+- **Asaxi:** wo tëko kma.
+- **English:** I clench my fist.
+- **Polish:** x
 
 ### Alternative Forms
 Null

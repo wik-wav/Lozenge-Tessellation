@@ -31,8 +31,12 @@ IPA: /dokɯ/
 - Polish: lekarstwo, lek
 
 ### Example sentence
-**Dokù daohè!**
-_Give [me] the medicine!_
+
+#### Example 1
+
+- **Asaxi:** dokù daohè!
+- **English:** Give [me] the medicine!
+- **Polish:** x
 
 ### Alternative Forms
 Null

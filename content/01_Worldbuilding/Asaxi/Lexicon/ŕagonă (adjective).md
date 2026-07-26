@@ -41,8 +41,12 @@ IPA: /ɾaɡonaɪ/
 - English: richly (dark)
 
 ### Example sentence
-**To paoshá ŕagonă xiŕa.**
-_The horse is charcoal-black._
+
+#### Example 1
+
+- **Asaxi:** to paoshá ŕagonă xiŕa.
+- **English:** The horse is charcoal-black.
+- **Polish:** x
 
 ### Alternative Forms
 Null

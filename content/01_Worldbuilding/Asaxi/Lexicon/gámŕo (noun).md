@@ -29,7 +29,12 @@ IPA: /ɡɑmɾo/
 - Polish: farba akrylowa, farba
 
 ### Example sentence
-**To wo pigùmenn zá ŕoŕo naŕonů.** _"I **am mixing** (multiplying) the pigment with water."_ (Physical process).
+
+#### Example 1
+
+- **Asaxi:** to wo pigùmenn zá ŕoŕo naŕonů.
+- **English:** "I am mixing (multiplying) the pigment with water." (Physical process).
+- **Polish:** x
 
 ### Alternative Forms
 Null

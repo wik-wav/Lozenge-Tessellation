@@ -34,18 +34,30 @@ IPA: /aɪmaɪ/
 
 ### Example sentence
 
-> **To ămă paxiŕa.**
-> "It will be the right time."
+
+#### Example 1
+
+- **Asaxi:** to ămă paxiŕa.
+- **English:** It will be the right time.
+- **Polish:** x
 
 ### Example Sentence 2
 
-> **Ămă Nana xő zèxijpù.**
-> "Just then Nana caught sight of him."
+
+#### Example 1
+
+- **Asaxi:** ămă nana xő zèxijpù.
+- **English:** Just then Nana caught sight of him.
+- **Polish:** x
 
 ### Example Sentence 3
 
-> **Xő ămă xăcènă Pỏpỏ zèxiŕa.**
-> "He was a Real Rabbit at last."
+
+#### Example 1
+
+- **Asaxi:** xő ămă xăcènă pỏpỏ zèxiŕa.
+- **English:** He was a Real Rabbit at last.
+- **Polish:** x
 
 ### Alternative Forms
 Null
@@ -66,10 +78,10 @@ Null
 ### Usage Note
 
 * **As Noun:** Functions as a subject or object.
-    * `To ămă paxiŕa.` ("It will be the right time").
+    * `to ămă paxiŕa.` ("It will be the right time").
 * **As Adverb:** Floating pre-verbal modifier.
-    * `To wo ămă pashěsonů.` ("I will read **when the time is right** / **opportunely**.")
+    * `to wo ămă pashěsonů.` ("I will read **when the time is right** / **opportunely**.")
 
 **Sense 2 ("just then").** Sentence-initial bare **ămă** anchors an event to the pivotal moment of a narrative — the kairos read temporally.
 **Sense 3 ("at last").** Pre-predicate **ămă** marks the long-awaited right time as *having arrived*.
-Both first attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+Both first attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

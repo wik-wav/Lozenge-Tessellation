@@ -22,7 +22,7 @@ tags:
 
 ### Usage Note
 
-Literally "**(You have) well arrived.**"
+Literally "(You have) well arrived."
 * `gavină` here functions adverbially ("well, skillfully, righteously" — its canonical gloss), modifying the achievement verb `xogă`.
 * The subject is dropped (Anaphoric Minimal, [[08_Minimal Sentence]]) — the arriver is obvious.
 
@@ -34,8 +34,12 @@ IPA: /gaʋinaɪ ɦogaɪ/
 
 ### Example sentence
 
-**Gavină xogă! Chỏnůkă.**
-_"Welcome! Please eat."_
+
+#### Example 1
+
+- **Asaxi:** gavină xogă! chỏnůkă.
+- **English:** Welcome! Please eat.
+- **Polish:** x
 
 ### Etymology
 
@@ -47,4 +51,4 @@ _"Welcome! Please eat."_
 
 ### Antonyms
 
-- **Gavină xoxo.** ("Depart well.")
+- gavină xoxo. ("Depart well.")

@@ -39,8 +39,12 @@ IPA: /ɾaɪpʰa/
 - Polish: wybuchać
 
 ### Example sentence
-**Ŕăgo ŕăpxa.**
-_The volcano explodes._
+
+#### Example 1
+
+- **Asaxi:** ŕăgo ŕăpxa.
+- **English:** The volcano explodes.
+- **Polish:** x
 
 ### Alternative Forms
 Null

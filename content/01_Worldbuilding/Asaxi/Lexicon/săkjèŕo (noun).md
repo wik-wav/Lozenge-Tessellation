@@ -31,8 +31,12 @@ IPA: /saɪkʲəɾo̞/
 - Polish: dżungla
 
 ### Example sentence
-**Săkjèŕo vivi dăgo.**
-_The jungle has lush growth._
+
+#### Example 1
+
+- **Asaxi:** săkjèŕo vivi dăgo.
+- **English:** The jungle has lush growth.
+- **Polish:** x
 
 ### Alternative Forms
 Null

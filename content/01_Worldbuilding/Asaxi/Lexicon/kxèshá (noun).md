@@ -32,8 +32,12 @@ IPA: /kʰəʃɑ/
 - Polish: pająk
 
 ### Example sentence
-**Kxèshá kùkishá gùmë.**
-_A spider catches an insect._
+
+#### Example 1
+
+- **Asaxi:** kxèshá kùkishá gùmë.
+- **English:** A spider catches an insect.
+- **Polish:** x
 
 ### Alternative Forms
 x

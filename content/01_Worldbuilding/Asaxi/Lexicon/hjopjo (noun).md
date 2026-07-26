@@ -31,8 +31,12 @@ IPA: /çopʲo/
 - Polish: błyskawica, piorun
 
 ### Example sentence
-**To hjopjo! Ijohè!**
-_Lightning! Look!_
+
+#### Example 1
+
+- **Asaxi:** to hjopjo! ijohè!
+- **English:** Lightning! Look!
+- **Polish:** x
 
 ### Alternative Forms
 Null

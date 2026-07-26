@@ -13,7 +13,7 @@ Navigation:
 
 # The Asaxi Spatial Tense System
 
-Asaxi constructs time by placing the action on a physical timeline relative to **Nå** (Now).
+Asaxi constructs time by placing the action on a physical timeline relative to **nå** (Now).
 
 | Tense / Aspect          | Prefix / Particle | Logic        | Literal Construction     | Example Meaning                  |
 | ----------------------- | ----------------- | ------------ | ------------------------ | -------------------------------- |

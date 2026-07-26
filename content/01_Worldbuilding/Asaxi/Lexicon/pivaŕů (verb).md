@@ -36,8 +36,12 @@ IPA: /pib̪vaɾuu̯/
 - Polish: kwitnąć
 
 ### Example sentence
-**Bù pivaŕů.**
-_The shrub blooms._
+
+#### Example 1
+
+- **Asaxi:** bù pivaŕů.
+- **English:** The shrub blooms.
+- **Polish:** x
 
 ### Alternative Forms
 Null

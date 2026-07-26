@@ -31,8 +31,12 @@ IPA: /meɪɾo̞/
 - Polish: łza
 
 ### Example sentence
-**Mëŕo izo mëjo toponů.**
-_Teardrops fall from the eyes._
+
+#### Example 1
+
+- **Asaxi:** mëŕo izo mëjo toponů.
+- **English:** Teardrops fall from the eyes.
+- **Polish:** x
 
 ### Alternative Forms
 Null

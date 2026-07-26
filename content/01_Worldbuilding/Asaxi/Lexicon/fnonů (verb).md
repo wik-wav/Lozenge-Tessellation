@@ -18,7 +18,7 @@ tags:
 <span class="asaxi-script-alpha">fnonů</span>
 ### Transitivity / Valency
 _intransitive verb_
-Takes one argument (the mover): e.g. _The speck(1) drifts._
+Takes one argument (the mover): e.g. The speck(1) drifts.
 
 ### Lexical Aspect
 - **Durative (Activity)** — unfolds over time.
@@ -68,9 +68,9 @@ Null
 To move or drift; general word for movement. Unlike **[[aśù (verb)|aśù (verb) - walk on foot, ambulate]]**, or [[haśù (verb)|haśù (verb) - to run]], **fnonů** can be used to refer to any kind of movement.
 
 ### Examples
-- **Fwo fnonů.**
+- fwo fnonů.
 - *The fog moves (drifts).*
 - Mgła płynie (porusza się).*
-- **Jo fnonů.**
+- jo fnonů.
 - *It moves (around).*
 - *To się rusza.*

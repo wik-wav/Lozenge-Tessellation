@@ -26,7 +26,12 @@ IPA: /ɲino/
 
 ### Example sentence
 
-**To no nino ijo.** _You see yourself._
+
+#### Example 1
+
+- **Asaxi:** to no nino ijo.
+- **English:** You see yourself.
+- **Polish:** x
 
 ### Etymology
 

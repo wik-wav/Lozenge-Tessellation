@@ -36,8 +36,12 @@ IPA: /t̻͡s̪kanuu̯/
 - Polish: kopać łopatą
 
 ### Example sentence
-**Wo cù ckanů.**
-_I dig the soil._
+
+#### Example 1
+
+- **Asaxi:** wo cù ckanů.
+- **English:** I dig the soil.
+- **Polish:** x
 
 ### Alternative Forms
 Null

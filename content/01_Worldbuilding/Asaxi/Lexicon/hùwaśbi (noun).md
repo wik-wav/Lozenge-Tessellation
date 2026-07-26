@@ -36,8 +36,12 @@ IPA: /xɯʋaɕbi/
 
 ### Example sentence
 
-**Wo hùwaśbiwa xăma!**
-_I actually have hind legs!_
+
+#### Example 1
+
+- **Asaxi:** wo hùwaśbiwa xăma!
+- **English:** I actually have hind legs!
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

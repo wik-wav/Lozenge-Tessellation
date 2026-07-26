@@ -31,8 +31,12 @@ IPA: /o/
 - Polish: niebo
 
 ### Example sentence
-**To o ganáfwa xiŕa.**
-_The sky is clear._]), xiŕa (Particle)]
+
+#### Example 1
+
+- **Asaxi:** to o ganáfwa xiŕa.
+- **English:** The sky is clear.]), xiŕa (Particle)]
+- **Polish:** x
 
 ### Alternative Forms
 x

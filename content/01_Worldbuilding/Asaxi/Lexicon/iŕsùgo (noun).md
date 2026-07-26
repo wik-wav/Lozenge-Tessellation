@@ -31,8 +31,12 @@ IPA: /iɾsɯɡo̞/
 - Polish: klejnot
 
 ### Example sentence
-**Iŕsùgo găŕo.**
-_A jewel is colourful._
+
+#### Example 1
+
+- **Asaxi:** iŕsùgo găŕo.
+- **English:** A jewel is colourful.
+- **Polish:** x
 
 ### Alternative Forms
 Null

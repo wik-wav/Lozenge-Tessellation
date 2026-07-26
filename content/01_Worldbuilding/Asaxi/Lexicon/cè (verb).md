@@ -39,8 +39,12 @@ IPA: /t͡sə/ (Affricate /ts/ + Schwa)
 - Polish: wiedzieć, znać
 
 ### Example sentence
-**Wo kshá cèná.**
-_I don't know who._
+
+#### Example 1
+
+- **Asaxi:** wo kshá cèná.
+- **English:** I don't know who.
+- **Polish:** x
 
 ### Alternative Forms
 Null

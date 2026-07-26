@@ -31,8 +31,12 @@ IPA: /daɪɾo̞bi/
 - Polish: zatoka
 
 ### Example sentence
-**Dăŕobiwa sè simama ksùŕa sèŕa ken.**
-_Bays can belong to islands' coasts._
+
+#### Example 1
+
+- **Asaxi:** dăŕobiwa sè simama ksùŕa sèŕa ken.
+- **English:** Bays can belong to islands' coasts.
+- **Polish:** x
 
 ### Alternative Forms
 Null

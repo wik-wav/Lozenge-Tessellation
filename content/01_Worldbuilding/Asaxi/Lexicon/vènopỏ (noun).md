@@ -36,8 +36,12 @@ IPA: /b̪vəno̞pou̯/
 
 ### Example sentence
 
-**Hja săsă zá vènopỏ vata tte xő zèŕima.**
-_He thought they were all stuffed with sawdust._
+
+#### Example 1
+
+- **Asaxi:** hja săsă zá vènopỏ vata tte xő zèŕima.
+- **English:** He thought they were all stuffed with sawdust.
+- **Polish:** x
 
 ### Alternative Forms
 
@@ -61,4 +65,4 @@ Null
 
 ### Usage Note
 
-First attested in [[Onă Gaksamipỏpỏ (The Velveteen Rabbit)]].
+First attested in [[onă gaksamipỏpỏ (The Velveteen Rabbit)]].

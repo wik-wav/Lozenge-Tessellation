@@ -22,7 +22,7 @@ IPA: /tʃ/
 
 ### Example sentence
 
-**To wo apochů.** _I feel like an apple._
+to wo apochů. I feel like an apple.
 
 ### Etymology
 

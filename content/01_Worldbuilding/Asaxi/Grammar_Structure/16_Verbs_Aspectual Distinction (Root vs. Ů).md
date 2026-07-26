@@ -67,5 +67,5 @@ The axes combine freely: `năjo` (iterative), `tåjýnů` (semelfactive), `chås
 
 Pairing a verb of one aspect with an argument of the other gives a marked, meaningful reading — exploited, not avoided.
 
-- **`Topo topù.`** rain + drop(punctual) → "the rain dropped **once** / hit like a single object" (semelfactive coercion by the punctual root).
-- **`Shěso toponů.`** book + rain(durative) → "books are **continuously raining**", or in contex
+- **`topo topù.`** rain + drop(punctual) → "the rain dropped **once** / hit like a single object" (semelfactive coercion by the punctual root).
+- **`shěso toponů.`** book + rain(durative) → "books are **continuously raining**", or in contex

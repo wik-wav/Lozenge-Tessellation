@@ -31,8 +31,12 @@ IPA: /iꞲono/
 - Polish: wzrok
 
 ### Example sentence
-**To sè wo ijono gavină xiŕa.**
-_My vision is good._
+
+#### Example 1
+
+- **Asaxi:** to sè wo ijono gavină xiŕa.
+- **English:** My vision is good.
+- **Polish:** x
 
 ### Alternative Forms
 x

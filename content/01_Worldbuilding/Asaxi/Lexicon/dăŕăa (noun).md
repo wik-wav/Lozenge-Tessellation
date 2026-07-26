@@ -31,8 +31,12 @@ IPA: /daɪɾaɪa/
 - Polish: pożoga
 
 ### Example sentence
-**Sháma dăŕăa banů.**
-_People sit beside the blaze._
+
+#### Example 1
+
+- **Asaxi:** sháma dăŕăa banů.
+- **English:** People sit beside the blaze.
+- **Polish:** x
 
 ### Alternative Forms
 Null

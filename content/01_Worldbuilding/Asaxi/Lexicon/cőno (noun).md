@@ -31,8 +31,12 @@ IPA: /t̻͡s̪oɪno̞/
 - Polish: mózg
 
 ### Example sentence
-**Cőno těněn vaŕa.**
-_The brain is in the head._
+
+#### Example 1
+
+- **Asaxi:** cőno těněn vaŕa.
+- **English:** The brain is in the head.
+- **Polish:** x
 
 ### Alternative Forms
 Null

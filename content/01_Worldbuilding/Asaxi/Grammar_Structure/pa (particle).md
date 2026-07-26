@@ -26,4 +26,9 @@ Derived from **[[pa- (particle)|pa-]]** (Front/Anterior).
 
 ### Example sentence
 
-**To wo pashěsonů.** _I will read._
+
+#### Example 1
+
+- **Asaxi:** to wo pashěsonů.
+- **English:** I will read.
+- **Polish:** x

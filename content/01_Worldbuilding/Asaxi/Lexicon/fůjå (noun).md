@@ -31,8 +31,12 @@ IPA: /fuu̯jau̯/
 - Polish: bezpragnieniowość, zadowolenie
 
 ### Example sentence
-**To fůjå gavină xiŕa.**
-_Wantlessness is good._
+
+#### Example 1
+
+- **Asaxi:** to fůjå gavină xiŕa.
+- **English:** Wantlessness is good.
+- **Polish:** x
 
 ### Alternative Forms
 Null

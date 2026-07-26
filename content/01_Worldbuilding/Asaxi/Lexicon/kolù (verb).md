@@ -39,8 +39,12 @@ IPA: /ko̞lɯ/
 - Polish: kuleć
 
 ### Example sentence
-**Mèdo kolù.**
-_The bear limps._
+
+#### Example 1
+
+- **Asaxi:** mèdo kolù.
+- **English:** The bear limps.
+- **Polish:** x
 
 ### Alternative Forms
 Null

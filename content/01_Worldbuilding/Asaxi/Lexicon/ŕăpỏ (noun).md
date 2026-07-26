@@ -31,8 +31,12 @@ IPA: /ɾaɪpou̯/
 - Polish: popiół
 
 ### Example sentence
-**Ŕăpỏ ŕăa izoŕa.**
-_Ash comes from fire._
+
+#### Example 1
+
+- **Asaxi:** ŕăpỏ ŕăa izoŕa.
+- **English:** Ash comes from fire.
+- **Polish:** x
 
 ### Alternative Forms
 Null

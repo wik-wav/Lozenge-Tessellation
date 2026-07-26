@@ -30,8 +30,12 @@ IPA: /paɪwo/
 - Polish: zewnątrz, dwór
 
 ### Example sentence
-**To wo păwo pănů.**
-_I go to the outside / I exit._
+
+#### Example 1
+
+- **Asaxi:** to wo păwo pănů.
+- **English:** I go to the outside / I exit.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /ɦinixə/
 - Polish: świt
 
 ### Example sentence
-**Sè xinihè o gapo.**
-_The dawn's sky is red._
+
+#### Example 1
+
+- **Asaxi:** sè xinihè o gapo.
+- **English:** The dawn's sky is red.
+- **Polish:** x
 
 ### Alternative Forms
 Null

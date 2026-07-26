@@ -58,7 +58,7 @@ Asaxi distinguishes between **Orders** (Imperatives marked by `hè`) and **Reque
 
 **Example:**
 
-> **No shěso shěsonůxăkă.** _"You are requested to read the book."_ / _"Please read (Instruction)."_
+> no shěso shěsonůxăkă. "You are requested to read the book." / "Please read (Instruction)."
 
 ---
 
@@ -76,20 +76,20 @@ Asaxi distinguishes between **Orders** (Imperatives marked by `hè`) and **Reque
 
 **1. Standard Request (Suffix)**
 
-> **Apo chỏnůkă.** `apple` `eat-PLEASE` _"Please eat the apple."_
+> apo chỏnůkă. `apple` `eat-PLEASE` "Please eat the apple."
 
 **2. Solicitative Prefix**
 
-> **No wo kăxijo.** `2SG` `1SG` `PLEASE-see` _"Kindly look at me."_
+> no wo kăxijo. `2SG` `1SG` `PLEASE-see` "Kindly look at me."
 
 **3. Formal Instruction**
 
-> **Kamm pănůxăkă.** `building` `exit-INSTRUCTION` _"Please exit the building."_ (Standard safety announcement).])]
+> kamm pănůxăkă. `building` `exit-INSTRUCTION` "Please exit the building." (Standard safety announcement).])]
 
 **4. Negative Request (Polite Prohibition)**
 
-> **Apo chỏnůnáxăkă.** `apple` `eat-PLEASE.NOT` _"Please do not eat the apple."_ (Polite request).
+> apo chỏnůnáxăkă. `apple` `eat-PLEASE.NOT` "Please do not eat the apple." (Polite request).
 
-> **Kamm pănůnáxăkă.** `building` `exit-PLEASE.NOT` _"Please do not exit the building."_ (Instruction/Request, not a safety ban).
+> kamm pănůnáxăkă. `building` `exit-PLEASE.NOT` "Please do not exit the building." (Instruction/Request, not a safety ban).
 
-> **Ijonáxăkă.** `see-PLEASE.NOT` _"Please do not look (at me)"_
+> ijonáxăkă. `see-PLEASE.NOT` _"Please do not look (at me)"_

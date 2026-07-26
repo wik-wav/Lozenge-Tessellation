@@ -36,8 +36,12 @@ IPA: /ɾo̞binuu̯/
 - Polish: łączyć drutem
 
 ### Example sentence
-**Wo pjo ŕobinů.**
-_I wire the light._
+
+#### Example 1
+
+- **Asaxi:** wo pjo ŕobinů.
+- **English:** I wire the light.
+- **Polish:** x
 
 ### Alternative Forms
 Null

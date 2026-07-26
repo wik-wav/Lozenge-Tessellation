@@ -34,4 +34,9 @@ IPA: /d̻͡z̪ə/
 
 ### Example sentence
 
-**To wo aśù dzè, haśùná.** _I walk, but I do not run._
+
+#### Example 1
+
+- **Asaxi:** to wo aśù dzè, haśùná.
+- **English:** I walk, but I do not run.
+- **Polish:** x

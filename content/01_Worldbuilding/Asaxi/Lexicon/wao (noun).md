@@ -31,8 +31,12 @@ IPA: /wa.o/
 - Polish: świat, domena
 
 ### Example sentence
-**Sháma onă wao vaŕa.**
-_People dwell in this world._
+
+#### Example 1
+
+- **Asaxi:** sháma onă wao vaŕa.
+- **English:** People dwell in this world.
+- **Polish:** x
 
 ### Alternative Forms
 Null

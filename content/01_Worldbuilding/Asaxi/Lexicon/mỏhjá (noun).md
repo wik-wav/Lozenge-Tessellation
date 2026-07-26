@@ -31,8 +31,12 @@ IPA: /mou̯çɑ/
 - Polish: córka
 
 ### Example sentence
-**Sè wo mỏhjá.**
-_My daughter._
+
+#### Example 1
+
+- **Asaxi:** sè wo mỏhjá.
+- **English:** My daughter.
+- **Polish:** x
 
 ### Alternative Forms
 Null

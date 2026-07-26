@@ -39,8 +39,12 @@ IPA: /t̪ɑkb̪vi/
 - Polish: zwyciężać
 
 ### Example sentence
-**Bỏshá tákvi.**
-_The man wins._
+
+#### Example 1
+
+- **Asaxi:** bỏshá tákvi.
+- **English:** The man wins.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -35,8 +35,12 @@ IPA: /b̪vino̞nuu̯/
 - Polish: pić wino
 
 ### Example sentence
-**Shá vinonů.**
-_People drink wine._
+
+#### Example 1
+
+- **Asaxi:** shá vinonů.
+- **English:** People drink wine.
+- **Polish:** x
 
 ### Alternative Forms
 Null

@@ -31,8 +31,12 @@ IPA: /b̪vaɪdo̞/
 - Polish: zioło
 
 ### Example sentence
-**Vădo dokù.**
-_The herb is medicine._
+
+#### Example 1
+
+- **Asaxi:** vădo dokù.
+- **English:** The herb is medicine.
+- **Polish:** x
 
 ### Alternative Forms
 Null

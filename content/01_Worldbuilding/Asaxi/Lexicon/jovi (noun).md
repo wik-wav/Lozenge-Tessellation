@@ -31,8 +31,12 @@ IPA: /jovi/
 - Polish: piękno
 
 ### Example sentence
-**O-wao jovi ma.**
-_This world has beauty._
+
+#### Example 1
+
+- **Asaxi:** o-wao jovi ma.
+- **English:** This world has beauty.
+- **Polish:** x
 
 ### Alternative Forms
 Null

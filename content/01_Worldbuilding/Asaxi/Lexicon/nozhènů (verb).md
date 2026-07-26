@@ -36,8 +36,12 @@ IPA: /no̞z̪xənuu̯/
 - Polish: kroić nożem
 
 ### Example sentence
-**Wo mwo nozhènů.**
-_I cut the meat with a knife._
+
+#### Example 1
+
+- **Asaxi:** wo mwo nozhènů.
+- **English:** I cut the meat with a knife.
+- **Polish:** x
 
 ### Alternative Forms
 Null

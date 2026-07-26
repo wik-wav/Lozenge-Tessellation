@@ -19,7 +19,7 @@ tags:
 <span class="asaxi-script-alpha">ma</span>
 ### Transitivity / Valency
 _monotransitive verb_ 
-takes two, e.g. _He(1) kicked the ball(2)._
+takes two, e.g. He(1) kicked the ball(2).
 
 ### Lexical Aspect
 - **Punctual (Achievement)** — happens in a single moment.
@@ -39,8 +39,12 @@ IPA: /ma/
 - Polish: mieć
 
 ### Example sentence
-John gapowapo ma.
-John has a red apple.
+
+#### Example 1
+
+- **Asaxi:** john gapowapo ma.
+- **English:** John has a red apple.
+- **Polish:** x
 
 ### Alternative Forms
 - sometimes appears as `må` in compound nouns if before consonants

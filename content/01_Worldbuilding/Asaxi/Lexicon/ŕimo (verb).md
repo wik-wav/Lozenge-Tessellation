@@ -2,6 +2,8 @@
 freq: 62
 title: ŕimo (verb) - to imagine, to envision
 Word (Asaxi): ŕimo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to imagine, to envision
 trnsltion. Pl: wyobrażać sobie
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɾimo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕi · mo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to imagine, to envision

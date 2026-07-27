@@ -2,6 +2,8 @@
 freq: 44
 title: ŕopùŕo (noun) - waterfall
 Word (Asaxi): ŕopùŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: waterfall
 trnsltion. Pl: wodospad
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾo̞pɯɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · pù · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

@@ -2,6 +2,8 @@
 freq: 49
 title: ijoŕaŕo (noun) - sanctuary, meditation hall
 Word (Asaxi): ijoŕaŕo
+pitch_accent: L.L.L.H
+pitch_accent_class: lexical
 trnsltion. En: sanctuary, meditation hall, sanctuary, dream-place
 trnsltion. Pl: miejsce medytacji, sanktuarium, świątynia snów,
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /iꞲoɾaɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jo · ŕa · ŕo</span>
+- **Pattern:** `L · L · L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Religion & Ritual]]

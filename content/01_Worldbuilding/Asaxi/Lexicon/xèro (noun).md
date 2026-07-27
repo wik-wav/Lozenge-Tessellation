@@ -2,6 +2,8 @@
 freq: 48
 title: xèro (noun) - weights, dumbbell
 Word (Asaxi): xèro
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: weights (dumbells)
 trnsltion. Pl: ciężary
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦəɹo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xè · ro</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]] / Fitness

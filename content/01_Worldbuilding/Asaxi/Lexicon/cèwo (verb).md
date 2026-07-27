@@ -2,6 +2,8 @@
 freq: 57
 title: cèwo (verb) - to assume, to take as given
 Word (Asaxi): cèwo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to assume, to take as given
 trnsltion. Pl: zakładać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪əʋo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cè · wo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to assume, to take as given

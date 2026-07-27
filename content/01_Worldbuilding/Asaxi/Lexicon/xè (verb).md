@@ -2,6 +2,8 @@
 freq: 38
 title: xè (verb) - to toil, labour, exert oneself
 Word (Asaxi): xè
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: to toil, labour, exert oneself
 trnsltion. Pl: trudzić się
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /xə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xè</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to toil, labour, exert oneself

@@ -2,6 +2,8 @@
 freq: 66
 title: pawo (noun) - the front, the foreground
 Word (Asaxi): pawo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: the front, the foreground, the lead
 trnsltion. Pl: przód
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /pawo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pa · wo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

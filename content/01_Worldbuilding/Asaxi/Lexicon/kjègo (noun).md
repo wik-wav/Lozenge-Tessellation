@@ -2,6 +2,8 @@
 freq: 50
 title: kjègo (noun) - trunk / log
 Word (Asaxi): kjègo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: trunk / log
 trnsltion. Pl: pień
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kʲəɡo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè · go</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

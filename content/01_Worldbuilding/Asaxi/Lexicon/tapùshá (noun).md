@@ -1,6 +1,8 @@
 ---
 title: tapùshá (noun) - thief, robber, brigand
 Word (Asaxi): tapùshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: thief, robber, brigand
 trnsltion. Pl: złodziej, zbój
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /tapɯʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ta · pù · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

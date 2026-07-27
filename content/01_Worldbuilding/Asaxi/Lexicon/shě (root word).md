@@ -1,6 +1,8 @@
 ---
 title: shě (root word) - "of or related to books"
 Word (Asaxi): shě
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: '"of or related to books"'
 tags:
   - Asaxi
@@ -19,6 +21,12 @@ Adds the "of or related to books" meaning to nouns it appears in
 
 ### Pronunciation
 IPA: /ɹ̠̊ɚ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shě</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Alternative Forms
 x

@@ -2,6 +2,8 @@
 freq: 55
 title: stè (noun) - plain / steppe
 Word (Asaxi): stè
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: plain / steppe
 trnsltion. Pl: równina
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /st̪ə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">stè</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

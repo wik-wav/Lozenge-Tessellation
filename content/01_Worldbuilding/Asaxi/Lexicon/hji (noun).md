@@ -2,6 +2,8 @@
 freq: 29
 title: hji (noun) - introversion, shyness
 Word (Asaxi): hji
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: introversion, shyness, quietness, withdrawal, slightness
 trnsltion. Pl: introwersja, nieśmiałość, drobność
 tags:
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 IPA: /çi/
 *Phonotactics:* `hj` becomes the voiceless palatal fricative /ç/.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hji</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / [[Smntc_Field Shapes & Dimensions]]

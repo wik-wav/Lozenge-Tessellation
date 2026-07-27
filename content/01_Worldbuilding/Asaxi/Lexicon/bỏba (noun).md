@@ -2,6 +2,8 @@
 freq: 56
 title: bỏba (noun) - uncle
 Word (Asaxi): bỏba
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: uncle
 trnsltion. Pl: wujek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /bou̯ba/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bỏ · ba</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

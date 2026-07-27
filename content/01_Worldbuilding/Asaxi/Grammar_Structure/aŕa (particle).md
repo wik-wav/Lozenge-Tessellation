@@ -1,6 +1,8 @@
 ---
 title: aŕa (particle) - "It is what it is", "Alas", "Can't be helped", "So it goes".
 Word (Asaxi): aŕa
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: "\"It is what it is\", \"Alas\", \"Can't be helped\", \"So it goes\"."
 tags:
   - Asaxi
@@ -27,6 +29,12 @@ Placed at the **very end** of the sentence (Post-Predicate Tail).
 ### Pronunciation
 
 IPA: /aɾa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · ŕa</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

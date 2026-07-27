@@ -2,6 +2,8 @@
 freq: 51
 title: jåka (verb) - to intend, to mean to
 Word (Asaxi): jåka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to intend, to mean to
 trnsltion. Pl: zamierzać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /jau̯ka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jå · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to intend, to mean to

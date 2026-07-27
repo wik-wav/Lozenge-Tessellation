@@ -2,6 +2,8 @@
 freq: 44
 title: obi (noun) - nearness, vicinity
 Word (Asaxi): obi
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: nearness, vicinity, the near
 trnsltion. Pl: bliskość, pobliże
 trnsltion. En 2: close, nearby (adverbial)
@@ -24,6 +26,12 @@ tags:
 
 ### Pronunciation
 IPA: /obi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · bi</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]

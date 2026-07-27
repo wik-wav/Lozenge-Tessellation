@@ -2,6 +2,8 @@
 freq: 88
 title: dăpăŕo (noun) - sea, ocean
 Word (Asaxi): dăpăŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: sea, ocean
 trnsltion. Pl: morze, ocean
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪpaɪɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · pă · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

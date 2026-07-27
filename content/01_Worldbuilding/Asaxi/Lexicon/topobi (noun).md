@@ -2,6 +2,8 @@
 freq: 61
 title: topobi (noun) - weather, climate
 Word (Asaxi): topobi
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: weather
 trnsltion. Pl: pogoda
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪opobi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">to · po · bi</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

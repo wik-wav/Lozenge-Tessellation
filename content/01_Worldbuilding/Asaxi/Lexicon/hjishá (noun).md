@@ -2,6 +2,8 @@
 freq: 33
 title: hjishá (noun) - damselfly
 Word (Asaxi): hjishá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: damselfly
 trnsltion. Pl: ważka (równoskrzydła), łątka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /çjiʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hji · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

@@ -1,6 +1,8 @@
 ---
 title: o (proximal locative) (particle) - "Here", "This (place)", "Immediate vicinity".
 Word (Asaxi): o
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: here
 tags:
   - Asaxi
@@ -32,6 +34,12 @@ aliases:
 ### Pronunciation
 
 IPA: /o/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

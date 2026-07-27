@@ -2,6 +2,8 @@
 freq: 60
 title: rokam (noun) - prison, jail
 Word (Asaxi): rokam
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: prison, jail
 trnsltion. Pl: więzienie
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɹokam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ro · kam</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field The City]]

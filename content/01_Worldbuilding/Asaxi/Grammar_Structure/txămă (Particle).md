@@ -1,6 +1,8 @@
 ---
 title: txămă (noun) - "Yearly", "Annually", "Every year".
 Word (Asaxi): txămă
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: '"Yearly", "Annually", "Every year".'
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /tʰaɪmaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">txă · mă</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

@@ -1,6 +1,8 @@
 ---
 title: xă (particle) - yes, affirmative, yea
 Word (Asaxi): xă
+pitch_accent: H
+pitch_accent_class: dominant
 trnsltion. En: yes, affirmative, yea
 tags:
   - Asaxi
@@ -49,6 +51,12 @@ aliases:
 ### Pronunciation
 
 IPA: /ɦaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă</span>
+- **Pattern:** `H`
+- **Class:** `dominant`
 
 ### Phonotactic Rules
 

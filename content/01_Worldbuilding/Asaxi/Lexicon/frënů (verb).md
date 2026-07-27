@@ -1,6 +1,8 @@
 ---
 title: frënů (verb) - to act freely, to be at liberty
 Word (Asaxi): frënů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to act freely, to be at liberty
 trnsltion. Pl: działać swobodnie
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /fɹeɪnuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">frë · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to act freely, to be at liberty

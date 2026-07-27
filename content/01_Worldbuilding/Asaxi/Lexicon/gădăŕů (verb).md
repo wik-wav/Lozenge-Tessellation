@@ -2,6 +2,8 @@
 freq: 40
 title: gădăŕů (verb) - to enlarge, to make big
 Word (Asaxi): gădăŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to enlarge, to make big
 trnsltion. Pl: powiększać
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɡaɪdaɪɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gă · dă · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to enlarge, to make big

@@ -2,6 +2,8 @@
 freq: 50
 title: xaŋonů (verb) - to weigh (in tonnes)
 Word (Asaxi): xaŋonů
+pitch_accent: L.H.H
+pitch_accent_class: mixed
 trnsltion. En: to weigh (in tonnes)
 trnsltion. Pl: ważyć (w tonach)
 Transitivity: Intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦaŋonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · ŋo · nů</span>
+- **Pattern:** `L · H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to weigh (in tonnes)

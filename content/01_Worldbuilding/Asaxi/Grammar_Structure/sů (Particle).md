@@ -1,6 +1,8 @@
 ---
 title: sů (particle) - "Continue!", "Keep going!", "Carry on!", "Maintain!".
 Word (Asaxi): sů
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: '"Continue!", "Keep going!", "Carry on!", "Maintain!".'
 tags:
   - Asaxi
@@ -28,6 +30,12 @@ tags:
 ### Pronunciation
 
 IPA: /suu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sů</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

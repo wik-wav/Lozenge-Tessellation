@@ -2,6 +2,8 @@
 freq: 58
 title: exå (noun) - smile
 Word (Asaxi): exå
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: smile
 trnsltion. Pl: uśmiech
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /eɦau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">e · xå</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / [[Smntc_Field Behaviour]]

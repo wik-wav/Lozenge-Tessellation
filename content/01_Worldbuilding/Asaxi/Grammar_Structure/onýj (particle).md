@@ -1,6 +1,8 @@
 ---
 title: onýj (particle) - this
 Word (Asaxi): onýj
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: this
 tags:
   - language
@@ -22,6 +24,12 @@ tags:
 ### Pronunciation
 
 /onɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · nýj</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Pronunciation
 

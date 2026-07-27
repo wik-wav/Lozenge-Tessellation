@@ -1,6 +1,8 @@
 ---
 title: kshá (particle) - Who?
 Word (Asaxi): kshá
+pitch_accent: H
+pitch_accent_class: dominant
 trnsltion. En: Who?
 tags:
   - Asaxi
@@ -22,6 +24,12 @@ tags:
 ### Pronunciation
 
 IPA: /kʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kshá</span>
+- **Pattern:** `H`
+- **Class:** `dominant`
 
 ### Etymology
 

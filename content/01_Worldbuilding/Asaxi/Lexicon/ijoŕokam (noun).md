@@ -2,6 +2,8 @@
 freq: 56
 title: ijoŕokam (noun) - temple, shrine
 Word (Asaxi): ijoŕokam
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: temple, shrine
 trnsltion. Pl: świątynia
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ijoɾokam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jo · ŕo · kam</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Religion & Ritual]]

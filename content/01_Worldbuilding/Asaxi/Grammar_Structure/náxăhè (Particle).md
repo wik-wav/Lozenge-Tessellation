@@ -1,6 +1,8 @@
 ---
 title: náxăhè (particle) - "Must not", "It is forbidden to", "NO [Verbing]"
 Word (Asaxi): náxăhè
+pitch_accent: H.H.L
+pitch_accent_class: mixed
 trnsltion. En: Must not
 tags:
   - Asaxi
@@ -33,6 +35,12 @@ Used for laws, safety warnings, strict rules, or angry commands. It implies that
 ### Pronunciation
 
 IPA: /nɑɦaɪxə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ná · xă · hè</span>
+- **Pattern:** `H · H · L`
+- **Class:** `mixed`
 
 ### Example sentence
 

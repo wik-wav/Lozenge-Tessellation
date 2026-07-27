@@ -1,6 +1,8 @@
 ---
 title: kozètètá ma (Idiom) - I'm sorry (lit. (I) hold regret)
 Word (Asaxi): kozètètá ma
+pitch_accent: H.L.L.L | H
+pitch_accent_class: phrase
 trnsltion. En: I'm sorry (lit. (I) hold regret)
 tags:
   - Asaxi
@@ -31,6 +33,12 @@ Literally "(I) hold regret."
 
 ### Pronunciation
 IPA: /kozətətɑ ma/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ko · zè · tè · tá | ma</span>
+- **Pattern:** `H · L · L · L | H`
+- **Class:** `phrase`
 
 ### Example sentence
 

@@ -2,6 +2,8 @@
 freq: 88
 title: chỏmihjo (noun) - tooth
 Word (Asaxi): chỏmihjo
+pitch_accent: L.L.H
+pitch_accent_class: lexical
 trnsltion. En: tooth
 trnsltion. Pl: ząb
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̠ʃou̯miço/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chỏ · mi · hjo</span>
+- **Pattern:** `L · L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

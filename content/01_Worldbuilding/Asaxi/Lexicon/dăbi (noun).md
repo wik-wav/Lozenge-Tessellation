@@ -2,6 +2,8 @@
 freq: 53
 title: dăbi (noun) - pole, post (long rod)
 Word (Asaxi): dăbi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: pole, post (long rod)
 trnsltion. Pl: słup, pal
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

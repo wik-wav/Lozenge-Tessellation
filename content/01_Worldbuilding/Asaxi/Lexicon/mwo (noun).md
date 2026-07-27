@@ -2,6 +2,8 @@
 freq: 88
 title: mwo (noun) - meat, flesh (as food)
 Word (Asaxi): mwo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: meat, flesh (as food)
 trnsltion. Pl: mięso
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mwo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

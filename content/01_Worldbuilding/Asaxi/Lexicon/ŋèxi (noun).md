@@ -2,6 +2,8 @@
 freq: 48
 title: ŋèxi (noun) - twilight (shadow-sun)
 Word (Asaxi): ŋèxi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: twilight (shadow-sun)
 trnsltion. Pl: półmrok
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ŋəɦi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŋè · xi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

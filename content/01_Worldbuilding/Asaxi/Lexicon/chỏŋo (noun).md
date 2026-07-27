@@ -2,6 +2,8 @@
 freq: 50
 title: chỏŋo (noun) - jaw
 Word (Asaxi): chỏŋo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: jaw
 trnsltion. Pl: szczęka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̠ʃou̯ŋo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chỏ · ŋo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

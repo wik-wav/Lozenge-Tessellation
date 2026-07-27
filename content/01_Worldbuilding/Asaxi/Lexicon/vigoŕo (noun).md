@@ -2,6 +2,8 @@
 freq: 59
 title: vigoŕo (noun) - farm (crop-land)
 Word (Asaxi): vigoŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: farm (crop-land)
 trnsltion. Pl: gospodarstwo, farma
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪viɡo̞ɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · go · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

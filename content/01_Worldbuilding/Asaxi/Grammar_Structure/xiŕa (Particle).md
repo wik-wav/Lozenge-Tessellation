@@ -1,6 +1,8 @@
 ---
 title: xiŕa (particle) - be
 Word (Asaxi): xiŕa
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: be
 trnsltion. Pl: być
 tags:
@@ -51,6 +53,12 @@ For dynamic states, roles, or temporary conditions, use **[[ů (verb)]]** instea
 ### Pronunciation
 
 IPA: /ɦiŕa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xi · ŕa</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Antonyms
 

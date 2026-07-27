@@ -1,6 +1,8 @@
 ---
 title: ná (particle) - no, not
 Word (Asaxi): ná
+pitch_accent: H
+pitch_accent_class: dominant
 trnsltion. En: no, not
 tags:
   - Asaxi
@@ -47,6 +49,12 @@ tags:
 ### Pronunciation
 
 IPA: /nɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ná</span>
+- **Pattern:** `H`
+- **Class:** `dominant`
 
 ### Example sentences
 

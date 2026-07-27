@@ -2,6 +2,8 @@
 freq: 46
 title: gosipỏ (noun) - chalk (white-powder)
 Word (Asaxi): gosipỏ
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: chalk (white-powder)
 trnsltion. Pl: kreda
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡo̞sipou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go · sipỏ</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

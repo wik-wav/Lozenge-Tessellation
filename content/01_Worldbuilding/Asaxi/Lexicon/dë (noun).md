@@ -2,6 +2,8 @@
 freq: 46
 title: dë (noun) - limb, appendage
 Word (Asaxi): dë
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: limb, appendage, member
 trnsltion. Pl: kończyna
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /deɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dë</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

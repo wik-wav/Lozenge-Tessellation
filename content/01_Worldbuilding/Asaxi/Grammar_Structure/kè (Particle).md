@@ -1,6 +1,8 @@
 ---
 title: kè (particle) - what? question mark, ?
 Word (Asaxi): kè
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: what? question mark, ?
 tags:
   - Asaxi
@@ -39,6 +41,12 @@ The particle can appear at either boundary of the sentence, dictating the regist
 ### Pronunciation
 
 IPA: /kə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kè</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Alternative Forms
 

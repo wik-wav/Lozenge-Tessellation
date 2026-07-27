@@ -2,6 +2,8 @@
 freq: 53
 title: těmxapỏ (noun) - hood
 Word (Asaxi): těmxapỏ
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: hood
 trnsltion. Pl: kaptur
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪əmɦapou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tě · mxa · pỏ</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

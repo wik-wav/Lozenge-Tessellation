@@ -2,6 +2,8 @@
 freq: 29
 title: cùpỏshů (verb) - to dust off, to clear of dust
 Word (Asaxi): cùpỏshů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to dust off, to clear of dust
 trnsltion. Pl: odkurzać
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪ɯpou̯ʃuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cù · pỏ · shů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to dust off, to clear of dust

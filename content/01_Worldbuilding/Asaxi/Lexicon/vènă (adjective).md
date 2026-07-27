@@ -2,6 +2,8 @@
 freq: 54
 title: vènă (adjective) - verdant, leafy-green, lush
 Word (Asaxi): vènă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: verdant, leafy-green, lush
 trnsltion. Pl: zielony, bujny
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ʋənaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vè · nă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

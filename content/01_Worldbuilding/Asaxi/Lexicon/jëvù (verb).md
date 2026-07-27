@@ -2,6 +2,8 @@
 freq: 39
 title: jëvù (verb) - to sprout, to bud
 Word (Asaxi): jëvù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to sprout, to bud
 trnsltion. Pl: kiełkować
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /jeɪb̪vɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jë · vù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to sprout, to bud

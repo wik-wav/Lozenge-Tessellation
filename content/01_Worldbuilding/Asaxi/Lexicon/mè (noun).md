@@ -2,6 +2,8 @@
 freq: 48
 title: mè (noun) - dew
 Word (Asaxi): mè
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: dew
 trnsltion. Pl: rosa
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mè</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

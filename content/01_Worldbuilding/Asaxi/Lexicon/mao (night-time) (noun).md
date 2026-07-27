@@ -1,6 +1,8 @@
 ---
 title: mao (night-time) (noun) - night-time
 Word (Asaxi): mao
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: night-time
 trnsltion. Pl: noc
 tags:
@@ -21,6 +23,12 @@ tags:
 ### Pronunciation
 
 IPA: /ma.o/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · o</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

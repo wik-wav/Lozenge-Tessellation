@@ -1,6 +1,8 @@
 ---
 title: vè (root word) - plant (weak form)
 Word (Asaxi): vè
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: 'plant (weak form)'
 tags:
   - Asaxi
@@ -20,6 +22,12 @@ The reduced combining form of [[vă (noun)|vă]] (plant), used as the non-head e
 
 ### Pronunciation
 IPA: /və/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vè</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Alternative Forms
 - vă (full form)

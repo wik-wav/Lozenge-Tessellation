@@ -2,6 +2,8 @@
 freq: 46
 title: hjoxo (noun) - comet (star-streak)
 Word (Asaxi): hjoxo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: comet (star-streak)
 trnsltion. Pl: kometa
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ço̞ɦo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hjo · xo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

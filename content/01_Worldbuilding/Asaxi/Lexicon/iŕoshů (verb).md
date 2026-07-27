@@ -2,6 +2,8 @@
 freq: 14
 title: iŕoshů (verb) - to desaturate, to dim down
 Word (Asaxi): iŕoshů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to desaturate, to dim down, to fade (light), to lose vibrance
 trnsltion. Pl: odbarwiać się (światło), przygasać, tracić nasycenie
 Transitivity: transitive, intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /iɾoʃuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · ŕo · shů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to desaturate, to dim down, to fade (light), to lose vibrance

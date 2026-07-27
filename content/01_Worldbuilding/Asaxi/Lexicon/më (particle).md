@@ -2,6 +2,8 @@
 freq: 50
 title: më (particle) - Minus, subtract
 Word (Asaxi): më
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Minus
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /meɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">më</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Derived terms
 - [[mëka (verb)|mëka]] - to separate, to part ways, to divorce, to split up

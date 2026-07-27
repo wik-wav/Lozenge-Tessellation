@@ -2,6 +2,8 @@
 freq: 54
 title: sholù (verb) - to slide, to slip
 Word (Asaxi): sholù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to slide, to slip
 trnsltion. Pl: ślizgać się
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ʃo̞lɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sho · lù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to slide, to slip

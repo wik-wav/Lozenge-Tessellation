@@ -2,6 +2,8 @@
 freq: 88
 title: piva (noun) - flower, bloom
 Word (Asaxi): piva
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: flower, bloom
 trnsltion. Pl: kwiat
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /piva/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pi · va</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

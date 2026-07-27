@@ -1,6 +1,8 @@
 ---
 title: måmå natăka (Idiom) - Goodbye (lit. until (the) re-uniting)
 Word (Asaxi): måmå natăka
+pitch_accent: H.L | L.H.L
+pitch_accent_class: phrase
 trnsltion. En: Goodbye (lit. until (the) re-uniting)
 tags:
   - Asaxi
@@ -30,6 +32,12 @@ Literally "Until (the) re-uniting."
 
 ### Pronunciation
 IPA: /mau̯mau̯ natɑka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">må · må | na · tă · ka</span>
+- **Pattern:** `H · L | L · H · L`
+- **Class:** `phrase`
 
 ### Example sentence
 

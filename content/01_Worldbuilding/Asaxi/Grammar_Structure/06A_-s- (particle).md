@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): -s-
+pitch_accent: none
+pitch_accent_class: atonal
 trnsltion. En: To sound like
 tags:
   - Asaxi
@@ -19,6 +21,12 @@ aliases:
 ### Pronunciation
 
 IPA: /s/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">s</span>
+- **Pattern:** `none`
+- **Class:** `atonal`
 
 ### Example sentence
 

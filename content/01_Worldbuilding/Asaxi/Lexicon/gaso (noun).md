@@ -2,6 +2,8 @@
 freq: 56
 title: gaso (noun) - grey
 Word (Asaxi): gaso
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: grey
 trnsltion. Pl: szary
 tags:
@@ -25,6 +27,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡaso/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · so</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

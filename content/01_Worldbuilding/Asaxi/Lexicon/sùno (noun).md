@@ -2,6 +2,8 @@
 freq: 61
 title: sùno (noun) - glass
 Word (Asaxi): sùno
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: glass
 trnsltion. Pl: szkło
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /sɯno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sù · no</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

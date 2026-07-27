@@ -2,6 +2,8 @@
 freq: 88
 title: kma (verb) - to hold, to grip; to stick, adhere
 Word (Asaxi): kma
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: to hold, to grip; to stick, to adhere
 trnsltion. Pl: trzymać; przyklejać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kma/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kma</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to hold, to grip; **to stick / adhere / fix one thing to another**

@@ -2,6 +2,8 @@
 freq: 44
 title: ŕovù (verb) - to dissolve
 Word (Asaxi): ŕovù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to dissolve
 trnsltion. Pl: rozpuszczać się
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɾo̞b̪vɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · vù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to dissolve

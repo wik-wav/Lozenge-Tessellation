@@ -2,6 +2,8 @@
 freq: 49
 title: fůăvină (adjective) - incorrect, wrong
 Word (Asaxi): fůăvină
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: incorrect, wrong, messed up, horribly, wrongly
 trnsltion. Pl: niepoprawny, okropny, zły
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /fuu̯aɪvinaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · ă · vi · nă</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Virtues & Failings]]

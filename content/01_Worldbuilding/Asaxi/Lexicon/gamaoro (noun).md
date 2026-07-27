@@ -2,6 +2,8 @@
 freq: 49
 title: gamaoro (noun) - silvery
 Word (Asaxi): gamaoro
+pitch_accent: L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: silvery
 trnsltion. Pl: srebrny
 tags:
@@ -25,6 +27,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡamaoɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · ma · o · ro</span>
+- **Pattern:** `L · H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

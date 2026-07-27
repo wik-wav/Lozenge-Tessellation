@@ -2,6 +2,8 @@
 freq: 88
 title: ihjo (noun) - bone, os
 Word (Asaxi): ihjo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: bone, os
 trnsltion. Pl: kość
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /iço/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · hjo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / Materials

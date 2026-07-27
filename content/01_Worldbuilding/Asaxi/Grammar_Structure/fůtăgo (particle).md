@@ -1,6 +1,8 @@
 ---
 title: fůtăgo (particle) - "Some", "A number of", "Several", "An unspecified amount (greater than zero)"
 Word (Asaxi): fůtăgo
+pitch_accent: L.L.L
+pitch_accent_class: atonal
 trnsltion. En: '"Some", "A number of", "Several", "An unspecified amount (greater than zero)".'
 tags:
   - Asaxi
@@ -28,6 +30,12 @@ tags:
 ### Pronunciation
 
 IPA: /fuu̯t̪aɪɡo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · tă · go</span>
+- **Pattern:** `L · L · L`
+- **Class:** `atonal`
 
 ### Semantic field
 

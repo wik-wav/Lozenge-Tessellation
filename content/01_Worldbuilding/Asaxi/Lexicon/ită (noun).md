@@ -2,6 +2,8 @@
 freq: 53
 title: ită (noun) - tension, stress
 Word (Asaxi): ită
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: tension, stress, tautness, anxiety, tightness
 trnsltion. Pl: napięcie
 tags:
@@ -22,6 +24,12 @@ Cold
 
 ### Pronunciation
 IPA: /itaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · tă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]] / [[Smntc_Field Emotion]]

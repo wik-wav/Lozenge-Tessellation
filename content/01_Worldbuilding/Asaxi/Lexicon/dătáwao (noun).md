@@ -1,6 +1,8 @@
 ---
 title: dătáwao (noun) - the natural world, nature
 Word (Asaxi): dătáwao
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: the natural world, nature, the physical universe, reality (physical)
 trnsltion. Pl: świat naturalny, przyroda, natura
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪt̪ɑwa.o/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · tá · wa · o</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]] / Cosmology / Philosophy

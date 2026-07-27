@@ -2,6 +2,8 @@
 freq: 88
 title: bwo (noun) - fat (adipose tissue), blubber
 Word (Asaxi): bwo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: fat (adipose tissue), blubber
 trnsltion. Pl: tłuszcz, sadło
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /bʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bwo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / [[Smntc_Field Food & Drink]]

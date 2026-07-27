@@ -2,6 +2,8 @@
 freq: 48
 title: jåxo (verb) - to envy, to covet
 Word (Asaxi): jåxo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to envy, to covet
 trnsltion. Pl: zazdrościć
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /jau̯ɦo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jå · xo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to envy, to covet

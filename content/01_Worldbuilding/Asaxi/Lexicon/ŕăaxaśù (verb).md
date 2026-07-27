@@ -2,6 +2,8 @@
 freq: 62
 title: ŕăaxaśù (verb) - to dance
 Word (Asaxi): ŕăaxaśù
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: to dance
 trnsltion. Pl: tańczyć
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ɾaɪaɦaɕɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · a · xa · śù</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to dance

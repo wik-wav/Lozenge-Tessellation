@@ -1,6 +1,8 @@
 ---
 title: pao (root word) - hoofed runner
 Word (Asaxi): pao
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: 'hoofed runner'
 tags:
   - Asaxi
@@ -20,6 +22,12 @@ A bound root naming the horse and hoofed runners.
 
 ### Pronunciation
 IPA: /pao/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pa · o</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Alternative Forms
 x

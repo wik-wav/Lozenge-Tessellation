@@ -2,6 +2,8 @@
 freq: 88
 title: aśobi (noun) - leg
 Word (Asaxi): aśobi
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: leg
 trnsltion. Pl: noga (cała)
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɕobi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · śo · bi</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

@@ -2,6 +2,8 @@
 freq: 60
 title: tăpù (verb) - to decide, to resolve
 Word (Asaxi): tăpù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to decide, to resolve
 trnsltion. Pl: decydować
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /t̪aɪpɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tă · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to decide, to resolve

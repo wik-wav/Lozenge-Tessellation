@@ -2,6 +2,8 @@
 freq: 43
 title: kolù (verb) - to limp
 Word (Asaxi): kolù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to limp
 trnsltion. Pl: kuleć
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ko̞lɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ko · lù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to limp

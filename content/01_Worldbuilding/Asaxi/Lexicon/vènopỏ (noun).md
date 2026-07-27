@@ -1,6 +1,8 @@
 ---
 title: vènopỏ (noun) - sawdust
 Word (Asaxi): vènopỏ
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: sawdust
 trnsltion. Pl: trociny
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /b̪vəno̞pou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vè · no · pỏ</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

@@ -2,6 +2,8 @@
 freq: 14
 title: găŕo (noun) - colorfulness, polychromy
 Word (Asaxi): găŕo
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: colorfulness, polychromy, having many colours
 trnsltion. Pl: kolorowość
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡaɪɾo/ (Distinct from `gaŕo` /gaɾo/ "City").
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gă · ŕo</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Colours]] / Appearance

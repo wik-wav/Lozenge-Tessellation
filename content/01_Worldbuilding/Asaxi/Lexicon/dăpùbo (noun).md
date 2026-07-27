@@ -2,6 +2,8 @@
 freq: 55
 title: dăpùbo (noun) - bench (long-chair)
 Word (Asaxi): dăpùbo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: bench (long-chair)
 trnsltion. Pl: ławka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪpɯbo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · pù · bo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

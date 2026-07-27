@@ -1,6 +1,8 @@
 ---
 title: fkamshá (noun) - domesticated animal
 Word (Asaxi): fkamshá
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: domesticated animal, pet, dependent creature
 trnsltion. Pl: zwierzę domowe
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /fkamʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fka · mshá</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

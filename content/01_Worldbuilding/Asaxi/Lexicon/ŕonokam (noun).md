@@ -2,6 +2,8 @@
 freq: 51
 title: ŕonokam (noun) - inn, tavern (drink-structure)
 Word (Asaxi): ŕonokam
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: inn, tavern (drink-structure)
 trnsltion. Pl: karczma, gospoda
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾo̞no̞kam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · no · kam</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

@@ -2,6 +2,8 @@
 freq: 48
 title: ŕocù (noun) - marsh, swamp
 Word (Asaxi): ŕocù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: marsh, swamp
 trnsltion. Pl: bagno, mokradło
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾo̞t̻͡s̪ɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · cù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

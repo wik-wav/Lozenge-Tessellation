@@ -1,6 +1,8 @@
 ---
 title: ponýj (particle) - A certain (cold)
 Word (Asaxi): ponýj
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: A certain (cold)
 tags:
   - Asaxi
@@ -14,6 +16,13 @@ tags:
 <span class="asaxi-script">ponýj</span>
 
 <span class="asaxi-script-alpha">ponýj</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">po · nýj</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Type:** Determiner (Specific Indefinite)

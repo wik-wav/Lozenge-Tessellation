@@ -2,6 +2,8 @@
 freq: 61
 title: kapa (verb) - to catch
 Word (Asaxi): kapa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to catch
 trnsltion. Pl: łapać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kapa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · pa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to catch

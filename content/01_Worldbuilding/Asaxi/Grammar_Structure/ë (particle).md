@@ -1,6 +1,8 @@
 ---
 title: ë (particle) - "Right?"
 Word (Asaxi): ë
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Right?
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ Used when the speaker assumes the listener agrees or knows the fact already. (eq
 ### Pronunciation
 
 IPA: /eɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ë</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Alternative Forms
 

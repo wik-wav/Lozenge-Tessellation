@@ -2,6 +2,8 @@
 freq: 54
 title: mùko (noun) - bull, ox
 Word (Asaxi): mùko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: bull, ox
 trnsltion. Pl: byk, wół
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mɯko̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mù · ko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

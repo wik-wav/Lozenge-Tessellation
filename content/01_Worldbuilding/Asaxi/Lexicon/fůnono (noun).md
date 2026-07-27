@@ -1,6 +1,8 @@
 ---
 title: fůnono (noun) - rubbish, junk, worthless things
 Word (Asaxi): fůnono
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: rubbish, junk, worthless things
 trnsltion. Pl: rupiecie, śmieci
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /fuwno̞no̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · no · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

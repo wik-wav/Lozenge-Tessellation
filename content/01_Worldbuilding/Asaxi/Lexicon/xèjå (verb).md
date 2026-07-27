@@ -2,6 +2,8 @@
 freq: 69
 title: xèjå (verb) - try, attempt
 Word (Asaxi): xèjå
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: try, attempt
 trnsltion. Pl: próbować
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ Takes an object (the thing being attempted).
 
 ### Pronunciation
 IPA: /ɦəjau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xè · jå</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to try, to attempt, to exert effort

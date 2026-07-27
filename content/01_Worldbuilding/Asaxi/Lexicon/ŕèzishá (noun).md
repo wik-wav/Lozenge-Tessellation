@@ -2,6 +2,8 @@
 freq: 45
 title: ŕèzishá (noun) - lizard, reptile
 Word (Asaxi): ŕèzishá
+pitch_accent: L.L.H
+pitch_accent_class: lexical
 trnsltion. En: lizard, reptile, skink
 trnsltion. Pl: jaszczurka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾəz̪iʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕè · zi · shá</span>
+- **Pattern:** `L · L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

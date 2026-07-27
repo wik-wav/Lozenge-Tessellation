@@ -2,6 +2,8 @@
 freq: 26
 title: fůchỏ (noun) - satiation, fullness
 Word (Asaxi): fůchỏ
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: satiation, fullness, satisfaction, un-hunger
 trnsltion. Pl: sytość, nasycenie
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fuu̯t̠ʃou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · chỏ</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]] / [[Smntc_Field Emotion]]

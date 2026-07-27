@@ -2,6 +2,8 @@
 freq: 24
 title: pjonů (verb) - to light up, to illuminate
 Word (Asaxi): pjonů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to light up, to illuminate, to turn on (a light), to brighten
 trnsltion. Pl: oświetlać, zapalać (światło), rozjaśniać
 Transitivity: transitive, intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /pʲonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pjo · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to light up, to illuminate, to turn on (a light), to brighten

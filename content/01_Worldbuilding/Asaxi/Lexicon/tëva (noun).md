@@ -2,6 +2,8 @@
 freq: 54
 title: tëva (noun) - palm
 Word (Asaxi): tëva
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: palm
 trnsltion. Pl: dłoń
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪eɪb̪va/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">të · va</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

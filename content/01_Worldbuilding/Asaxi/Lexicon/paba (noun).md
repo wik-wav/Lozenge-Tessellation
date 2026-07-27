@@ -2,6 +2,8 @@
 freq: 52
 title: paba (noun) - lip
 Word (Asaxi): paba
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: lip
 trnsltion. Pl: warga
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /paba/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pa · ba</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

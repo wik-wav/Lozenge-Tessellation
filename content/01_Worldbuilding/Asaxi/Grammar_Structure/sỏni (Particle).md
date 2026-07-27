@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): sỏni
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: '"Once", "Former", "Ex-", "Used to be".'
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ title: sỏni (particle) - "Once", "Former", "Ex-", "Used to be".
 ### Pronunciation
 
 IPA: /sou̯ɲi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sỏni</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Etymology
 

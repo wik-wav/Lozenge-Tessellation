@@ -2,6 +2,8 @@
 freq: 58
 title: vimă (noun) - the sum of all things accepted
 Word (Asaxi): vimă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: the accepted, the affirmed, collection of yeses, total approval
 trnsltion. Pl: rzeczy zaakceptowane, ogół akceptacji, zbiór potwierdzeń, suma aprobaty
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 **IPA:** /vimaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · mă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Virtues & Failings|Smntc_Field Virtues & Failings]] 

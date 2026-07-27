@@ -2,6 +2,8 @@
 freq: 70
 title: frënă (adjective) - free, at liberty
 Word (Asaxi): frënă
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: free, at liberty
 trnsltion. Pl: wolny, swobodny
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /fɹeɪnaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">frë · nă</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Virtues & Failings]]

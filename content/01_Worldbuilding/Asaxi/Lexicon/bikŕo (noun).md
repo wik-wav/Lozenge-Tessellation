@@ -2,6 +2,8 @@
 freq: 53
 title: bikŕo (noun) - fence
 Word (Asaxi): bikŕo
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: fence
 trnsltion. Pl: płot
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /bikɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bi · kŕo</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

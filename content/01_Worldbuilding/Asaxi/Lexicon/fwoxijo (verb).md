@@ -1,6 +1,8 @@
 ---
 title: fwoxijo (verb) - to be lost in thought
 Word (Asaxi): fwoxijo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to be lost in thought
 trnsltion. Pl: zamyślić się
 Transitivity: intransitive
@@ -31,6 +33,12 @@ tags:
 
 ### Pronunciation
 IPA: /fʷoɦiꞲo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fwo · xi · jo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - **English:** to be lost in thought, to have a hazy outlook, to daydream (vaguely), to stare into the fog.

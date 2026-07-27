@@ -2,6 +2,8 @@
 freq: 56
 title: xafwo (noun) - atmosphere, sky-layer
 Word (Asaxi): xafwo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: atmosphere
 trnsltion. Pl: atmosfera
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦafʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · fwo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

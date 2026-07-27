@@ -2,6 +2,8 @@
 freq: 48
 title: ŋùpù (verb) - to swallow, to gulp
 Word (Asaxi): ŋùpù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to swallow, to gulp
 trnsltion. Pl: połykać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ŋɯpɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŋù · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to swallow, to gulp

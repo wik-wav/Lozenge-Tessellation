@@ -2,6 +2,8 @@
 freq: 62
 title: pjono (noun) - image, picture
 Word (Asaxi): pjono
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: image, picture
 trnsltion. Pl: obraz, obrazek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pʲono/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pjo · no</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Arts]]

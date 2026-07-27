@@ -2,6 +2,8 @@
 freq: 54
 title: pŕobi (noun) - bow (curve-rod)
 Word (Asaxi): pŕobi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: bow (curve-rod)
 trnsltion. Pl: łuk
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɾo̞bi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pŕo · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

@@ -1,6 +1,8 @@
 ---
 title: găxăni (particle) - "Forever", "For eternity", "Into infinity", "Endlessly".
 Word (Asaxi): găxăni
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: forever
 tags:
   - Asaxi
@@ -33,6 +35,12 @@ Functions as a **Floating Adverb** (Pre-Verbal) or **Sentence-Final Particle**.
 ### Pronunciation
 
 IPA: /gaɪɦaɪɲi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gă · xăni</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

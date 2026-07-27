@@ -2,6 +2,8 @@
 freq: 65
 title: aśù (verb) - walk on foot, ambulate
 Word (Asaxi): aśù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: walk on foot, ambulate
 trnsltion. Pl: iść, chodzić pieszo
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ takes two, e.g. He(1) kicked the ball(2).
 
 ### Pronunciation
 IPA: /aɕɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · śù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: walk on foot, ambulate

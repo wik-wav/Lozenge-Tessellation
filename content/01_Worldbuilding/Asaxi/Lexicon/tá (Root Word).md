@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): tá
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: '"of or relating to friction", "clash",'
 trnsltion. Pl: '"związane z opozycją", "bitwą", "starciem", "konfliktem"'
 tags:
@@ -16,6 +18,12 @@ tags:
 <span class="asaxi-script-alpha">tá</span>
 ### Pronunciation
 IPA: /t̪ɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tá</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - English: '"of or relating to friction", "clash",'

@@ -1,6 +1,8 @@
 ---
 title: pxỏpxỏshá (noun) - living inflatable, balloon-creature
 Word (Asaxi): pxỏpxỏshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: living inflatable, balloon-creature
 trnsltion. Pl: żywy dmuchaniec
 tags:
@@ -20,6 +22,12 @@ Warm
 
 ### Pronunciation
 IPA: /pʰou̯pʰou̯ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pxỏ · pxỏ · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

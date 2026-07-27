@@ -2,6 +2,8 @@
 freq: 60
 title: daono (noun) - gift, present
 Word (Asaxi): daono
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: gift, present
 trnsltion. Pl: podarunek, dar, prezent
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daono/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">da · o · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Transfer]]

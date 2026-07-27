@@ -2,6 +2,8 @@
 freq: 56
 title: săfwù (noun) - breath (heat-wind)
 Word (Asaxi): săfwù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: breath (heat-wind)
 trnsltion. Pl: oddech
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /saɪfʷɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · fwù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

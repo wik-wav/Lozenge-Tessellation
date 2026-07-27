@@ -2,6 +2,8 @@
 freq: 60
 title: jýŋù (verb) - to ring, to resound
 Word (Asaxi): jýŋù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to ring, to resound
 trnsltion. Pl: dzwonić
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /jɪŋɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jý · ŋù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to ring, to resound

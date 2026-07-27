@@ -2,6 +2,8 @@
 freq: 54
 title: toko (verb) - to knock, to rap
 Word (Asaxi): toko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to knock, to rap
 trnsltion. Pl: pukać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̪o̞ko̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">to · ko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to knock, to rap

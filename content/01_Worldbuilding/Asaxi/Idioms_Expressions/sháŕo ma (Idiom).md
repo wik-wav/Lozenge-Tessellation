@@ -1,6 +1,8 @@
 ---
 title: sháŕo ma (Idiom) - To be in charge (lit. To have the waterhole)
 Word (Asaxi): sháŕo ma
+pitch_accent: H.L | H
+pitch_accent_class: phrase
 trnsltion. En: To be in charge (lit. To have the waterhole)
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ Literally means "To have the waterhole."
 
 ### Pronunciation
 IPA: /ʃɑɾo ma/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shá · ŕo | ma</span>
+- **Pattern:** `H · L | H`
+- **Class:** `phrase`
 
 ### Example sentence
 

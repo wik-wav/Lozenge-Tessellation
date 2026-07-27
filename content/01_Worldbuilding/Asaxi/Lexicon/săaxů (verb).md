@@ -2,6 +2,8 @@
 freq: 88
 title: săaxů (verb) - to cook, to bake
 Word (Asaxi): săaxů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to cook, to bake
 trnsltion. Pl: gotować, piec
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /saɪaɦuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · a · xů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to cook, to bake

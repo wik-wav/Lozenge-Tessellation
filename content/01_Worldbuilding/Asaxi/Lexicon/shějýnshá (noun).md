@@ -2,6 +2,8 @@
 freq: 61
 title: shějýnshá (noun) - teacher
 Word (Asaxi): shějýnshá
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: teacher
 trnsltion. Pl: nauczyciel
 tags:
@@ -21,6 +23,12 @@ warm
 
 ### Pronunciation
 IPA: /ɹ̠̊ɚꞲɪnʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shě · jý · nshá</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 ### Translations

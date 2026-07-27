@@ -2,6 +2,8 @@
 freq: 55
 title: mia (noun) - honey, sweetness
 Word (Asaxi): mia
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: honey, sweetness
 trnsltion. Pl: miód
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /mia/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mi · a</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

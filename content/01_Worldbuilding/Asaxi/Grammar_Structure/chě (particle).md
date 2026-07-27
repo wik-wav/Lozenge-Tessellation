@@ -1,6 +1,8 @@
 ---
 title: chě (particle) - if
 Word (Asaxi): chě
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: if
 tags:
   - Asaxi
@@ -31,6 +33,12 @@ Placed at the **end** of the conditional clause.
 ### Pronunciation
 
 IPA: /tʃɚ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chě</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

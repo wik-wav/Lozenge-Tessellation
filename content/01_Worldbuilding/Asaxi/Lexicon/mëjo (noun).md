@@ -2,6 +2,8 @@
 freq: 88
 title: mëjo (noun) - eye
 Word (Asaxi): mëjo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: eye
 trnsltion. Pl: oko
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /meɪꞲo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">më · jo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / Perception

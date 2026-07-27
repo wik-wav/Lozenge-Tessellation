@@ -2,6 +2,8 @@
 freq: 37
 title: baka (verb) - to befriend
 Word (Asaxi): baka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to befriend
 trnsltion. Pl: zaprzyjaźniać się
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /baka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to befriend

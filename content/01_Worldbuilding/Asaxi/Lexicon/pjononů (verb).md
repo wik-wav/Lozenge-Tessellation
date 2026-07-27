@@ -2,6 +2,8 @@
 freq: 64
 title: pjononů (verb) - to picture, to depict
 Word (Asaxi): pjononů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to picture, to depict
 trnsltion. Pl: odwzorowywać
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /pʲo̞no̞nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pjo · no · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to picture, to depict

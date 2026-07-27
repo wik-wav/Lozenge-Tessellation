@@ -2,6 +2,8 @@
 freq: 62
 title: cőno (noun) - brain
 Word (Asaxi): cőno
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: brain
 trnsltion. Pl: mózg
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̻͡s̪oɪno̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cő · no</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

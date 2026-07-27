@@ -2,6 +2,8 @@
 freq: 64
 title: kemka (noun) - key
 Word (Asaxi): kemka
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: key
 trnsltion. Pl: klucz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kemka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ke · mka</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

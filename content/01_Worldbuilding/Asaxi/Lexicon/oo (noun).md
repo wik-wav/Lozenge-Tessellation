@@ -2,6 +2,8 @@
 freq: 88
 title: oo (noun) - today, this day
 Word (Asaxi): oo
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: today, this day
 trnsltion. Pl: dziś, ten dzień
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /oo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · o</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Time]]

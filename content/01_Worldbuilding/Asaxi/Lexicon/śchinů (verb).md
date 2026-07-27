@@ -2,6 +2,8 @@
 freq: 58
 title: śchinů (verb) - to measure (in cm), to be (X cm) tall/long
 Word (Asaxi): śchinů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to measure (in cm), to be (X cm) tall/long
 trnsltion. Pl: mierzyć (ileś cm), mieć wzrost
 Transitivity: intransitive
@@ -30,6 +32,12 @@ Used with a numeric complement.
 
 ### Pronunciation
 IPA: /ɕt͡ɕʲinuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">śchi · nů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to measure (in cm), to be (X cm) tall/long

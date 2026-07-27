@@ -2,6 +2,8 @@
 freq: 61
 title: miană (adjective) - sweet
 Word (Asaxi): miană
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: sweet
 trnsltion. Pl: słodki
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /mianaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mi · a · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

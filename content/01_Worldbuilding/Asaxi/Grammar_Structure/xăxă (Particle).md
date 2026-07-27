@@ -1,6 +1,8 @@
 ---
 title: xăxă (particle) - would, yes yes
 Word (Asaxi): xăxă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: would, yes yes
 tags:
   - Asaxi
@@ -27,6 +29,12 @@ Marks the statement not as reality, but as a constructed or imagined scenario. I
 ### Pronunciation
 
 IPA: /ɦaɪɦaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · xă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Example sentence
 

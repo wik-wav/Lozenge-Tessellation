@@ -1,6 +1,8 @@
 ---
 title: maopjo (noun) - night-light, night lamp
 Word (Asaxi): maopjo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: night-light, night lamp
 trnsltion. Pl: lampka nocna
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /mao̞pʲo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · o · pjo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

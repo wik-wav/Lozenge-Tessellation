@@ -2,6 +2,8 @@
 freq: 50
 title: ŕopa (verb) - to wade
 Word (Asaxi): ŕopa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to wade
 trnsltion. Pl: brodzić
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɾo̞pa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · pa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to wade

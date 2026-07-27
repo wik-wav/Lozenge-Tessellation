@@ -1,6 +1,8 @@
 ---
 title: nikpa (noun) - in the distant future
 Word (Asaxi): nikpa
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: in the distant future
 tags:
   - Asaxi
@@ -22,6 +24,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɲikpa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nikpa</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

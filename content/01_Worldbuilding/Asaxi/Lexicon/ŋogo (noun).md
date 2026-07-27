@@ -2,6 +2,8 @@
 freq: 50
 title: ŋogo (noun) - anchor
 Word (Asaxi): ŋogo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: anchor
 trnsltion. Pl: kotwica
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ŋoɡo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŋo · go</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Motion]]

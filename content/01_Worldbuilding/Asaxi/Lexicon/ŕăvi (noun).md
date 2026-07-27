@@ -2,6 +2,8 @@
 freq: 49
 title: ŕăvi (noun) - spice (fire-plant)
 Word (Asaxi): ŕăvi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: spice (fire-plant)
 trnsltion. Pl: przyprawa
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɪb̪vi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · vi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

@@ -1,6 +1,8 @@
 ---
 title: da- (particle) - Hundreds (number prefix)
 Word (Asaxi): da-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Hundreds (number prefix)
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /da/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">da</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

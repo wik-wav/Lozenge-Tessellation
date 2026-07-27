@@ -2,6 +2,8 @@
 freq: 52
 title: văshá (noun) - farmer, gardener
 Word (Asaxi): văshá
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: farmer, gardener
 trnsltion. Pl: rolnik, ogrodnik
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /vaɪʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vă · shá</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Professions & Occupations]]

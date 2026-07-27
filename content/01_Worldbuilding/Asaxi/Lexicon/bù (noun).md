@@ -2,6 +2,8 @@
 freq: 40
 title: bù (noun) - shrub / bush
 Word (Asaxi): bù
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: shrub / bush
 trnsltion. Pl: krzew
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /bɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bù</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

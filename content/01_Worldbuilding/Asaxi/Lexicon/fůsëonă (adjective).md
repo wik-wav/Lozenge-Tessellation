@@ -2,6 +2,8 @@
 freq: 57
 title: fůsëonă (adjective) - non-essential, trivial, inessential
 Word (Asaxi): fůsëonă
+pitch_accent: L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: non-essential, trivial, inessential
 trnsltion. Pl: nieistotny, błahy
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /fuu̯seɪo̞naɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · së · o · nă</span>
+- **Pattern:** `L · H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Logic]]

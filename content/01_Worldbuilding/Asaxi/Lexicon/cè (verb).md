@@ -2,6 +2,8 @@
 freq: 88
 title: cè (verb) - to know, to be aware of
 Word (Asaxi): cè
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: to know, to be aware of
 trnsltion. Pl: wiedzieć, znać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ Takes an object (a fact, a person, or a clause).
 
 ### Pronunciation
 IPA: /t͡sə/ (Affricate /ts/ + Schwa)
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cè</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to know, to be aware of

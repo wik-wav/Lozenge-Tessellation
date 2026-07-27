@@ -2,6 +2,8 @@
 freq: 46
 title: dăŕăa (noun) - blaze / bonfire
 Word (Asaxi): dăŕăa
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: blaze / bonfire
 trnsltion. Pl: pożoga
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪɾaɪa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · ŕă · a</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]]

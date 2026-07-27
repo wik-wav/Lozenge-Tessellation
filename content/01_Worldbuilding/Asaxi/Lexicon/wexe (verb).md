@@ -2,6 +2,8 @@
 freq: 58
 title: wexe (verb) - to wave
 Word (Asaxi): wexe
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to wave
 trnsltion. Pl: machać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ʋe̞ɦe̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">we · xe</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to wave

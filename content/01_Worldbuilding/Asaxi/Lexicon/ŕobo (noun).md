@@ -2,6 +2,8 @@
 freq: 57
 title: ŕobo (noun) - bottle (liquid-holder)
 Word (Asaxi): ŕobo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: bottle (liquid-holder)
 trnsltion. Pl: butelka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾo̞bo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · bo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

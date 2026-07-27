@@ -1,6 +1,8 @@
 ---
 title: båbashů (verb) - to lose muscle mass
 Word (Asaxi): båbashů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to lose muscle mass
 trnsltion. Pl: tracić mięśnie
 Transitivity: intransitive
@@ -28,6 +30,12 @@ tags:
 
 ### Pronunciation
 IPA: /bau̯baʃuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bå · ba · shů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to lose muscle mass, to atrophy, to shrink (muscles)

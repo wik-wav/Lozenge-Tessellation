@@ -2,6 +2,8 @@
 freq: 88
 title: tètáka (verb) - walczyć, bić się
 Word (Asaxi): tètáka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to fight
 trnsltion. Pl: walczyć, bić się
 Transitivity: transitive, reciprocal
@@ -32,6 +34,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪ət̪ɑka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tè · tá · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to fight, to combat, to brawl

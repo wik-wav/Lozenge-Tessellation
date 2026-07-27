@@ -2,6 +2,8 @@
 freq: 57
 title: kxepỏno (noun) - flag, banner (sign-cloth)
 Word (Asaxi): kxepỏno
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: flag, banner (sign-cloth)
 trnsltion. Pl: flaga, sztandar
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kʰe̞pou̯no̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kxe · pỏ · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

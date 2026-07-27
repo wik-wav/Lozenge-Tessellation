@@ -2,6 +2,8 @@
 freq: 55
 title: dzopù (verb) - to crack, to snap
 Word (Asaxi): dzopù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to crack, to snap
 trnsltion. Pl: pękać, trzaskać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /d̻͡z̪o̞pɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dzo · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to crack, to snap

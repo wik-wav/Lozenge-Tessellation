@@ -2,6 +2,8 @@
 freq: 88
 title: cèdao (verb) - to teach
 Word (Asaxi): cèdao
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to teach
 trnsltion. Pl: uczyć (kogoś), nauczać
 Transitivity: ditransitive
@@ -33,6 +35,12 @@ _ditransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪ədao/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cè · da · o</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to teach

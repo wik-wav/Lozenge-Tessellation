@@ -1,6 +1,8 @@
 ---
 title: ỏ- (particle) - In the middle of
 Word (Asaxi): ỏ-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: In the middle of
 tags:
   - Asaxi
@@ -33,6 +35,12 @@ Attaches to the front of the noun.
 ### Pronunciation
 
 IPA: /ou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ỏ</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

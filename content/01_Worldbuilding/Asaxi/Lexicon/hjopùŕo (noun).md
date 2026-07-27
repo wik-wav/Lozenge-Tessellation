@@ -2,6 +2,8 @@
 freq: 44
 title: hjopùŕo (noun) - meteor (falling star)
 Word (Asaxi): hjopùŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: meteor (falling star)
 trnsltion. Pl: meteor
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ço̞pɯɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hjo · pù · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

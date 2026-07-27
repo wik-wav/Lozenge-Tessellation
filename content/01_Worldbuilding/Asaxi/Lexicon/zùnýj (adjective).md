@@ -1,6 +1,8 @@
 ---
 freq: 52
 Word (Asaxi): zùnýj
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: skilled, skillful, proficient, adept, good (at something)
 trnsltion. Pl: wprawny, zręczny, biegły
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /zɯnɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zù · nýj</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Virtues & Failings]]

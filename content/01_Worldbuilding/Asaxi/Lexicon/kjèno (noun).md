@@ -2,6 +2,8 @@
 freq: 59
 title: kjèno (noun) - height, stature
 Word (Asaxi): kjèno
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: height, stature, altitude, tallness
 trnsltion. Pl: wysokość, wzrost
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /kʲəno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè · no</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]

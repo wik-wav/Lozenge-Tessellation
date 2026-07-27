@@ -1,6 +1,8 @@
 ---
 title: niko (particle) - herself
 Word (Asaxi): niko
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: herself
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɲiko/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">niko</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

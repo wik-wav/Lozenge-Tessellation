@@ -2,6 +2,8 @@
 freq: 22
 title: xabåbå (noun) - pectorals, chest muscles, pecs
 Word (Asaxi): xabåbå
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: pectorals, chest muscles, pecs
 trnsltion. Pl: mięśnie klatki piersiowej
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦabau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · bå · bå</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

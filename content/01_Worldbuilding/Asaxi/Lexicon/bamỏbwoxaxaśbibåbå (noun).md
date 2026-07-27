@@ -1,6 +1,8 @@
 ---
 title: bamỏbwoxaxaśbibåbå (noun) - quadriceps femoris
 Word (Asaxi): bamỏbwoxaxaśbibåbå
+pitch_accent: H.L.L.L.L.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: quadriceps femoris
 trnsltion. Pl: mięsień czworogłowowy uda
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /bamou̯bʷoɦaɦaɕbibau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · mỏ · bwo · xa · xa · śbi · bå · bå</span>
+- **Pattern:** `H · L · L · L · L · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

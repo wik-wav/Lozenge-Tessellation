@@ -2,6 +2,8 @@
 freq: 41
 title: ihjonýj (adjective) - bony, thin, skeletal
 Word (Asaxi): ihjonýj
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: bony, thin, skeletal
 trnsltion. Pl: kościsty, chudy
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /içonɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · hjo · nýj</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Appearance]]

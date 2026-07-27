@@ -2,6 +2,8 @@
 freq: 56
 title: dănomáka (noun) - chest (big box)
 Word (Asaxi): dănomáka
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: chest (big box)
 trnsltion. Pl: skrzynia
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪno̞mɑka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · no · má · ka</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

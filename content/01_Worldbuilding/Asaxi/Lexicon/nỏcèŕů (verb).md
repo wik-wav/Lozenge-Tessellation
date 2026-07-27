@@ -2,6 +2,8 @@
 freq: 88
 title: nỏcèŕů (verb) - to write (notes), to journal
 Word (Asaxi): nỏcèŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to write (notes), to journal, to record, to jot down
 trnsltion. Pl: pisać (notatki), notować, zapisywać
 Transitivity: intransitive, transitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /nou̯t͡səɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nỏ · cè · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to write (notes), to journal, to record, to jot down

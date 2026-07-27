@@ -2,6 +2,8 @@
 freq: 56
 title: damtxă (noun) - decade
 Word (Asaxi): damtxă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: decade
 trnsltion. Pl: dekada
 tags:
@@ -21,6 +23,12 @@ Cold (Time unit)
 
 ### Pronunciation
 IPA: /damtʰaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">da · mtxă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

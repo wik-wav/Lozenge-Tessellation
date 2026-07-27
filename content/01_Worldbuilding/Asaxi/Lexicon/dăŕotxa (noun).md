@@ -2,6 +2,8 @@
 freq: 51
 title: dăŕotxa (noun) - tide (sea-change)
 Word (Asaxi): dăŕotxa
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: tide (sea-change)
 trnsltion. Pl: przypływ
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪɾo̞t̪ʰa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · ŕo · txa</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

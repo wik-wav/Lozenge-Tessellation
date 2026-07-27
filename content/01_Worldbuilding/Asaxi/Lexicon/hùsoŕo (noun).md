@@ -2,6 +2,8 @@
 freq: 55
 title: hùsoŕo (noun) - desert
 Word (Asaxi): hùsoŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: desert
 trnsltion. Pl: pustynia
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /xɯsoɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù · so · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

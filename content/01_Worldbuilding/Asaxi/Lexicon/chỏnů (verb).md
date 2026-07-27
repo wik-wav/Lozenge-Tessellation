@@ -2,6 +2,8 @@
 freq: 88
 title: chỏnů (verb) - to eat, consume, devour
 Word (Asaxi): chỏnů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to eat, consume, devour
 trnsltion. Pl: jeść, pożerać
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t͡ʃɤnɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chỏ · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to eat, consume, devour

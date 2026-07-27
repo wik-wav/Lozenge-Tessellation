@@ -2,6 +2,8 @@
 freq: 88
 title: pxỏpxỏ (verb) - to blow
 Word (Asaxi): pxỏpxỏ
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to blow
 trnsltion. Pl: dmuchać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ Usually intransitive (air moves), or transitive with a locative direction (blow 
 
 ### Pronunciation
 IPA: /pʰou̯pʰou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pxỏ · pxỏ</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to blow (air), to puff, to gust

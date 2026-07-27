@@ -1,6 +1,8 @@
 ---
 title: miazhů (verb) - to taste sweet
 Word (Asaxi): miazhů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to taste sweet
 trnsltion. Pl: smakować słodko
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /miaz̪xuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mi · a · zhů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to taste sweet

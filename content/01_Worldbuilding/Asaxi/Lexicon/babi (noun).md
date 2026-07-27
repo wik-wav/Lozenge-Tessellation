@@ -2,6 +2,8 @@
 freq: 55
 title: babi (noun) - cousin
 Word (Asaxi): babi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: cousin
 trnsltion. Pl: kuzyn
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /babi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

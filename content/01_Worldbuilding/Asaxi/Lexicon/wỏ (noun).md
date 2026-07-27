@@ -2,6 +2,8 @@
 freq: 50
 title: wỏ (noun) - cylinder, primitive shape
 Word (Asaxi): wỏ
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: cylinder, primitive shape (cylindrical), roller
 trnsltion. Pl: walec
 tags:
@@ -21,6 +23,12 @@ Cold
 
 ### Pronunciation
 IPA: /wou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wỏ</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]] / [[Smntc_Field Tools]]

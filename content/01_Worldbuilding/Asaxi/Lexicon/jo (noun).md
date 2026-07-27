@@ -2,6 +2,8 @@
 freq: 65
 title: jo (noun) - society
 Word (Asaxi): jo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: society
 trnsltion. Pl: społeczeństwo
 tags:
@@ -21,6 +23,12 @@ cold
 
 ### Pronunciation
 IPA: /Ʝo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

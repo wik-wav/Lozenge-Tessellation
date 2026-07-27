@@ -2,6 +2,8 @@
 freq: 68
 title: jë (root word) - early, first, foremost (in time)
 Word (Asaxi): jë
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: 'early, first, foremost (in time)'
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ Contributes the sense 'earliest / first to occur' to a compound. A bound root; d
 
 ### Pronunciation
 IPA: /ʝeɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jë</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Alternative Forms
 x

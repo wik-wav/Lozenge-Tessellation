@@ -1,6 +1,8 @@
 ---
 title: săaŕů (verb) - to radiate heat, to be feverish-hot (lit. to generate heat)
 Word (Asaxi): săaŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to radiate heat, to be feverish-hot (lit. to generate heat)
 trnsltion. Pl: promieniować ciepłem, pałać gorącem
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_ — state predicate; the experiencer is the subject (often with t
 
 ### Pronunciation
 IPA: /saɪaɾuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · a · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to radiate heat, to be feverish-hot (lit. to generate heat)

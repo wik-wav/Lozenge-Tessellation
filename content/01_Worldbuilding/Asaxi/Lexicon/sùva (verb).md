@@ -1,6 +1,8 @@
 ---
 title: sùva (verb) - to care for, to cherish
 Word (Asaxi): sùva
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to care for, to cherish
 trnsltion. Pl: troszczyć się
 Transitivity: monotransitive
@@ -32,6 +34,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /sɯb̪va/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sù · va</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to care for, to cherish

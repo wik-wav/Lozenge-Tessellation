@@ -2,6 +2,8 @@
 freq: 88
 title: topo (noun) - rain
 Word (Asaxi): topo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: rain
 trnsltion. Pl: deszcz
 tags:
@@ -22,6 +24,12 @@ cold
 
 ### Pronunciation
 IPA: /topo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">to · po</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

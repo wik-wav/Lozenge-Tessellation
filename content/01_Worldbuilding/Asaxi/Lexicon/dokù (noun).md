@@ -2,6 +2,8 @@
 freq: 59
 title: dokù (noun) - medicine, remedy, drug (curative)
 Word (Asaxi): dokù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: medicine, remedy, drug (curative)
 trnsltion. Pl: lekarstwo, lek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /dokɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">do · kù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Health & Medicine]]

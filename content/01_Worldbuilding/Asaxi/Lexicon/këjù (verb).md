@@ -2,6 +2,8 @@
 freq: 67
 title: këjù (verb) - to ask
 Word (Asaxi): këjù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to ask
 trnsltion. Pl: pytać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /keɪjɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kë · jù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to ask

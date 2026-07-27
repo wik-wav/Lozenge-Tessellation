@@ -2,6 +2,8 @@
 freq: 59
 title: vino (noun) - wine (Pl. *wino*)
 Word (Asaxi): vino
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: wine (Pl. *wino*)
 trnsltion. Pl: wino
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪vino̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · no</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

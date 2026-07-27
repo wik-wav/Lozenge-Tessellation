@@ -2,6 +2,8 @@
 freq: 57
 title: ŕaso (noun) - steam / vapor
 Word (Asaxi): ŕaso
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: steam / vapor
 trnsltion. Pl: para
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaso/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕa · so</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

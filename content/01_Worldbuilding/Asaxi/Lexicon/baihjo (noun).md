@@ -2,6 +2,8 @@
 freq: 45
 title: baihjo (noun) - rib
 Word (Asaxi): baihjo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: rib
 trnsltion. Pl: żebro
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /baiço̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · i · hjo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

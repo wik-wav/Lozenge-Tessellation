@@ -1,6 +1,8 @@
 ---
 title: maoŕă (noun) - moonlight
 Word (Asaxi): maoŕă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: moonlight
 trnsltion. Pl: światło księżyca
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /mao̞ɾaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · o · ŕă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

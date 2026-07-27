@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): ỏbỏŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to lose muscle definition, to become soft
 trnsltion. Pl: tracić rzeźbę, robić się miękkim
 Transitivity: intransitive
@@ -28,6 +30,12 @@ title: ỏbỏŕů (verb) - to lose definition
 
 ### Pronunciation
 IPA: /ou̯bou̯ɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ỏ · bỏ · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to lose muscle definition, to become soft

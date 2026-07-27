@@ -2,6 +2,8 @@
 freq: 43
 title: këo (noun) - beak
 Word (Asaxi): këo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: beak
 trnsltion. Pl: dziób
 tags:
@@ -21,6 +23,12 @@ Cold
 
 ### Pronunciation
 IPA: /keɪ.o/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kë · o</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

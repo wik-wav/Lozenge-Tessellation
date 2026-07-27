@@ -2,6 +2,8 @@
 freq: 88
 title: xùsa (verb) - to dry, to parch
 Word (Asaxi): xùsa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to dry, to parch
 trnsltion. Pl: schnąć
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɦɯsa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xù · sa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to dry, to parch

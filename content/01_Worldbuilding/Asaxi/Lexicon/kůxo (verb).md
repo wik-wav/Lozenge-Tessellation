@@ -2,6 +2,8 @@
 freq: 88
 title: kůxo (verb) - to hate, to loathe
 Word (Asaxi): kůxo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to hate, to loathe
 trnsltion. Pl: nienawidzić
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kuu̯ɦo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ků · xo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to hate, to loathe

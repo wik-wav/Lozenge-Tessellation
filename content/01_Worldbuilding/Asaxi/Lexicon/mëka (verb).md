@@ -2,6 +2,8 @@
 freq: 60
 title: mëka (verb) - to separate, to part ways
 Word (Asaxi): mëka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to separate, to part ways, to divorce, to split up
 trnsltion. Pl: rozdzielać się, rozstawać się
 Transitivity: reciprocal
@@ -32,6 +34,12 @@ tags:
 
 ### Pronunciation
 IPA: /meɪka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">më · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to separate, to part ways, to divorce, to split up

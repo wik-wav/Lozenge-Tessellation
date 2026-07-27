@@ -2,6 +2,8 @@
 freq: 88
 title: waokam (noun) - home
 Word (Asaxi): waokam
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: home
 trnsltion. Pl: dom (ognisko domowe)
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʋaokam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wa · o · kam</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

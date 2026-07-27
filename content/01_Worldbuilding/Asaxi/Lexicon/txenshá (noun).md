@@ -1,6 +1,8 @@
 ---
 freq: 56
 Word (Asaxi): txenshá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: angel
 trnsltion. Pl: anioł
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /tʰenʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">txe · nshá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Religion & Ritual]] / [[Smntc_Field Illusions]]

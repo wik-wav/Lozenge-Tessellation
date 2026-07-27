@@ -2,6 +2,8 @@
 freq: 88
 title: pỏbinů (verb) - to sew, to stitch
 Word (Asaxi): pỏbinů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to sew, to stitch
 trnsltion. Pl: szyć
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /pou̯binuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pỏ · bi · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to sew, to stitch

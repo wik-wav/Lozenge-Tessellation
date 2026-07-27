@@ -1,6 +1,8 @@
 ---
 title: ăjo (particle) - O / Hey (address marker)
 Word (Asaxi): ăjo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: O, hey (address marker)
 tags:
   - Asaxi
@@ -30,6 +32,12 @@ tags:
 ### Pronunciation
 
 IPA: /aɪjaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă · jo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Example sentence
 

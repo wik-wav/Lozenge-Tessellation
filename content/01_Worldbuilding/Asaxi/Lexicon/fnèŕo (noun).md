@@ -2,6 +2,8 @@
 freq: 55
 title: fnèŕo (noun) - harbor / port
 Word (Asaxi): fnèŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: harbor / port
 trnsltion. Pl: port
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fnəɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fnè · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

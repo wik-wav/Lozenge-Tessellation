@@ -2,6 +2,8 @@
 freq: 63
 title: shěno (noun) - paper
 Word (Asaxi): shěno
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: paper
 trnsltion. Pl: papier
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɹ̠̊ɚno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shě · no</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

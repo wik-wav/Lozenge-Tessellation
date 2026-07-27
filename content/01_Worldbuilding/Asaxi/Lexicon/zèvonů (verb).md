@@ -2,6 +2,8 @@
 freq: 88
 title: zèvonů (verb) - to name, to title
 Word (Asaxi): zèvonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to name, to title
 trnsltion. Pl: nazywać
 Transitivity: transitive
@@ -30,6 +32,12 @@ takes two, e.g. *He(1) named the cat(2).*
 
 ### Pronunciation
 IPA: /zəvonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zè · vo · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to name, to call, to designate, to title

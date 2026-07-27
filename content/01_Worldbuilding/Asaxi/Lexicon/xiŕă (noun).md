@@ -2,6 +2,8 @@
 freq: 48
 title: xiŕă (noun) - sunlight, sunshine
 Word (Asaxi): xiŕă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: sunlight, sunshine
 trnsltion. Pl: blask słońca, światło słoneczne
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦiɾaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xi · ŕă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

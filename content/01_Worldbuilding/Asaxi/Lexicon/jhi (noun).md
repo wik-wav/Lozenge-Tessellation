@@ -1,6 +1,8 @@
 ---
 title: jhi (noun) - hour
 Word (Asaxi): jhi
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: hour
 trnsltion. Pl: godzina
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /d̠ʒi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jhi</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 

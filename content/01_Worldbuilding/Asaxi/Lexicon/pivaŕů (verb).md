@@ -2,6 +2,8 @@
 freq: 49
 title: pivaŕů (verb) - to bloom, to flower
 Word (Asaxi): pivaŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to bloom, to flower
 trnsltion. Pl: kwitnąć
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /pib̪vaɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pi · va · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to bloom, to flower

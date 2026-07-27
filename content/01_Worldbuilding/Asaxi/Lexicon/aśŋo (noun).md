@@ -2,6 +2,8 @@
 freq: 50
 title: aśŋo (noun) - ankle
 Word (Asaxi): aśŋo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: ankle
 trnsltion. Pl: kostka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɕŋo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · śŋo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

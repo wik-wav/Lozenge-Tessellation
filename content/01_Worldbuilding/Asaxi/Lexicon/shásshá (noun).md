@@ -2,6 +2,8 @@
 freq: 49
 title: shásshá (noun) - hostage, captive
 Word (Asaxi): shásshá
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: hostage, captive, property (person)
 trnsltion. Pl: zakładnik, jeniec
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʃɑsʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shá · sshá</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

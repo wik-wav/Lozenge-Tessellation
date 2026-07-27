@@ -2,6 +2,8 @@
 freq: 46
 title: gùŕko (noun) - knot (rope-tie)
 Word (Asaxi): gùŕko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: knot (rope-tie)
 trnsltion. Pl: węzeł
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡɯɾko̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gù · ŕko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

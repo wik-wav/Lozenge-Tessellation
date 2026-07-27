@@ -2,6 +2,8 @@
 freq: 52
 title: mýdo (noun) - soap (Pl. *mydło*)
 Word (Asaxi): mýdo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: soap (Pl. *mydło*)
 trnsltion. Pl: mydło
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mýdo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mý · do</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

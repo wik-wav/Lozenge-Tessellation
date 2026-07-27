@@ -2,6 +2,8 @@
 freq: 61
 title: xèva (verb) - to serve, to attend
 Word (Asaxi): xèva
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to serve, to attend
 trnsltion. Pl: służyć
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɦəb̪va/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xè · va</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to serve, to attend

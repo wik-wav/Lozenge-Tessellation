@@ -2,6 +2,8 @@
 freq: 66
 title: kamshosa (noun) - street (building-road)
 Word (Asaxi): kamshosa
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: street (building-road)
 trnsltion. Pl: ulica
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kamʃo̞sa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · msho · sa</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

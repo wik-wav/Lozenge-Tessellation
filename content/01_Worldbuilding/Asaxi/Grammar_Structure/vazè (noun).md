@@ -1,6 +1,8 @@
 ---
 title: vazè (noun) - in the past
 Word (Asaxi): vazè
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: in the past
 tags:
   - Asaxi
@@ -22,6 +24,12 @@ tags:
 ### Pronunciation
 
 IPA: /vazə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">va · zè</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

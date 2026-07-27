@@ -2,6 +2,8 @@
 freq: 88
 title: gaxi (noun) - yellow
 Word (Asaxi): gaxi
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: yellow
 trnsltion. Pl: żółty
 tags:
@@ -25,6 +27,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡaɦi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · xi</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

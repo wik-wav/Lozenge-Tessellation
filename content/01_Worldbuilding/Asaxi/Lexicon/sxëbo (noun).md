@@ -2,6 +2,8 @@
 freq: 30
 title: sxëbo (noun) - sharp claw, wicked claw
 Word (Asaxi): sxëbo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: sharp claw, wicked claw, beastly nail, dangerous talon
 trnsltion. Pl: szpon
 tags:
@@ -21,6 +23,12 @@ Cold
 
 ### Pronunciation
 IPA: /sʰeɪbo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sxë · bo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] 

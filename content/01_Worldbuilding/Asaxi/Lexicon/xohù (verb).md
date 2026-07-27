@@ -2,6 +2,8 @@
 freq: 52
 title: xohù (verb) - to retreat, to withdraw
 Word (Asaxi): xohù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to retreat, to withdraw, to back up, to reverse
 trnsltion. Pl: cofać się, wycofywać
 Transitivity: intransitive, transitive
@@ -34,6 +36,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦoxɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · hù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to retreat, to withdraw, to back up, to reverse

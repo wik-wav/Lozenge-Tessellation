@@ -1,6 +1,8 @@
 ---
 title: jå- (particle) - To want to; expresses desire to perform an action
 Word (Asaxi): jå-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: To want to; expresses desire or intent to perform the action.
 tags:
   - Asaxi
@@ -32,6 +34,12 @@ tags:
 ### Pronunciation
 
 IPA: /jau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jå</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

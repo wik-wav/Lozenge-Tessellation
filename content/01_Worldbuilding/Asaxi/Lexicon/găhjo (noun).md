@@ -2,6 +2,8 @@
 freq: 20
 title: găhjo (noun) - emaciation, boniness, gauntness, skin and bones
 Word (Asaxi): găhjo
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: emaciation, boniness, gauntness, skin and bones
 trnsltion. Pl: wychudzenie, kościstość
 tags:
@@ -25,6 +27,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡaɪço/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gă · hjo</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / Health

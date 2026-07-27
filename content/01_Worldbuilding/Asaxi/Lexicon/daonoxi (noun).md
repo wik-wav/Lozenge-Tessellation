@@ -1,6 +1,8 @@
 ---
 title: daonoxi (noun) - gift-day, festival of giving (used for Christmas)
 Word (Asaxi): daonoxi
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: gift-day, festival of giving (used for Christmas)
 trnsltion. Pl: dzień darów, Gwiazdka
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /dao̞no̞ɦi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">da · o · no · xi</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

@@ -2,6 +2,8 @@
 freq: 88
 title: tètáko (noun) - a fight, a battle, a brawl
 Word (Asaxi): tètáko
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: a fight
 trnsltion. Pl: walka
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪ət̪ɑko/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tè · tá · ko</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Behaviour]] / Conflict

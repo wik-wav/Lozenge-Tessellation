@@ -2,6 +2,8 @@
 freq: 32
 title: găxiŕo (noun) - vibrancy, vividness
 Word (Asaxi): găxiŕo
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: vibrancy, vividness, intense color, psychedelia
 trnsltion. Pl: jaskrawość
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡaɦiɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gă · xi · ŕo</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

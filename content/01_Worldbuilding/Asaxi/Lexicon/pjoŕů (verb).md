@@ -2,6 +2,8 @@
 freq: 52
 title: pjoŕů (verb) - to shine, to beam
 Word (Asaxi): pjoŕů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to shine, to beam, to emanate light, to radiate
 trnsltion. Pl: świecić, jaśnieć, promieniować
 Transitivity: intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /pʲoɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pjo · ŕů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to shine, to beam, to emanate light, to radiate

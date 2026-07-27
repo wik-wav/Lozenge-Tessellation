@@ -2,6 +2,8 @@
 freq: 52
 title: pỏka (verb) - to wrap, to bundle
 Word (Asaxi): pỏka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to wrap, to bundle
 trnsltion. Pl: owijać, zawijać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /pou̯ka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pỏ · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to wrap, to bundle

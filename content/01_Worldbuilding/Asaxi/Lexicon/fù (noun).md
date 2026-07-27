@@ -2,6 +2,8 @@
 freq: 88
 title: fù (noun) - nose, snout
 Word (Asaxi): fù
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: nose
 trnsltion. Pl: nos
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /fɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fù</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

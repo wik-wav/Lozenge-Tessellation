@@ -1,6 +1,8 @@
 ---
 title: xăcènă (adjective) - Real, genuinely alive, authentic (of beings)
 Word (Asaxi): xăcènă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: Real, genuinely alive, authentic (of beings)
 trnsltion. Pl: prawdziwy (o istocie), żywy naprawdę
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 ### Pronunciation
 
 IPA: /ɦaɪt̻͡s̪ənaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · cè · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

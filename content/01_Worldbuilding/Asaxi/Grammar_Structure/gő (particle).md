@@ -1,6 +1,8 @@
 ---
 title: gő (particle) - they
 Word (Asaxi): gő
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: they
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ The pronoun `gő` (they) is a third-person singular nominative pronoun.
 ### Pronunciation
 
 IPA: /ɡoɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gő</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Alternative Forms
 

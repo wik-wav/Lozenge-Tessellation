@@ -2,6 +2,8 @@
 freq: 50
 title: nonawo (noun) - shelf (thing-surface)
 Word (Asaxi): nonawo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: shelf (thing-surface)
 trnsltion. Pl: półka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /no̞naʋo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">no · na · wo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

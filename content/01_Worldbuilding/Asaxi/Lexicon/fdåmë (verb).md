@@ -2,6 +2,8 @@
 freq: 41
 title: fdåmë (verb) - to not show, to withhold, to conceal, to not send
 Word (Asaxi): fdåmë
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to withhold, to not send, to conceal, to not show (deliberately)
 trnsltion. Pl: zatajać, nie pokazywać, nie wysyłać
 Transitivity: transitive
@@ -34,6 +36,12 @@ Takes a direct object (the thing being withheld/hidden).
 
 ### Pronunciation
 IPA: /ft̪au̯meɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fdå · më</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to withhold, to not send, to conceal, to not show (deliberately)

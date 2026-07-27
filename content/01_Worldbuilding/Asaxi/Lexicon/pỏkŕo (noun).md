@@ -2,6 +2,8 @@
 freq: 50
 title: pỏkŕo (noun) - rug, carpet (floor-fabric)
 Word (Asaxi): pỏkŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: rug, carpet (floor-fabric)
 trnsltion. Pl: dywan
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pou̯kɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pỏ · kŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

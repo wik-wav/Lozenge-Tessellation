@@ -1,6 +1,8 @@
 ---
 title: wë (particle) - Need
 Word (Asaxi): wë
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Need
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /weɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wë</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

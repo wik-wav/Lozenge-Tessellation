@@ -2,6 +2,8 @@
 freq: 88
 title: tètáshá (noun) - enemy (pain-person)
 Word (Asaxi): tètáshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: enemy (pain-person)
 trnsltion. Pl: wróg
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪ət̪ɑʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tè · tá · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

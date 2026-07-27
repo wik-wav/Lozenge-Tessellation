@@ -2,6 +2,8 @@
 freq: 49
 title: itxeshá (noun) - butterfly
 Word (Asaxi): itxeshá
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: butterfly
 trnsltion. Pl: motyl
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /itʰeʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · txe · shá</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

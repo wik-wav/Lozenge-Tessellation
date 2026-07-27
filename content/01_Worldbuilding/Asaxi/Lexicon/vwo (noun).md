@@ -2,6 +2,8 @@
 freq: 88
 title: vwo (noun) - today
 Word (Asaxi): vwo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: today
 trnsltion. Pl: dzisiaj, dziś
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /vʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vwo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

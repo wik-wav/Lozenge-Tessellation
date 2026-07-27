@@ -2,6 +2,8 @@
 freq: 59
 title: pùbo (noun) - chair (sit-thing)
 Word (Asaxi): pùbo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: chair (sit-thing)
 trnsltion. Pl: krzesło
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɯbo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · bo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

@@ -2,6 +2,8 @@
 freq: 58
 title: chỏmáka (noun) - bowl (food-vessel)
 Word (Asaxi): chỏmáka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: bowl (food-vessel)
 trnsltion. Pl: miska
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̠ʃou̯mɑka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chỏ · má · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

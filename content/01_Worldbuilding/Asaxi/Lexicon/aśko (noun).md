@@ -2,6 +2,8 @@
 freq: 48
 title: aśko (noun) - heel
 Word (Asaxi): aśko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: heel
 trnsltion. Pl: pięta
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɕko̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · śko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

@@ -2,6 +2,8 @@
 freq: 88
 title: fùsa (verb) - to wipe
 Word (Asaxi): fùsa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to wipe
 trnsltion. Pl: wycierać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /fɯsa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fù · sa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to wipe

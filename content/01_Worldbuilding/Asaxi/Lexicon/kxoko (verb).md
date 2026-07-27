@@ -2,6 +2,8 @@
 freq: 49
 title: kxoko (verb) - to cough
 Word (Asaxi): kxoko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to cough
 trnsltion. Pl: kaszleć
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /kʰo̞ko̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kxo · ko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to cough

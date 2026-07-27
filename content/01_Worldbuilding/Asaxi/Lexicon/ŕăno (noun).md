@@ -2,6 +2,8 @@
 freq: 55
 title: ŕăno (noun) - stripe, band,
 Word (Asaxi): ŕăno
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: stripe, band, streak, bar (of color)
 trnsltion. Pl: pas, pręga
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɪno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · no</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]] / [[Smntc_Field Colours]]

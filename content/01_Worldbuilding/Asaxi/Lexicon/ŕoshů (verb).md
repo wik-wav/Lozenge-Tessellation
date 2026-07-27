@@ -2,6 +2,8 @@
 freq: 51
 title: ŕoshů (verb) - to leak (shed water)
 Word (Asaxi): ŕoshů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to leak (shed water)
 trnsltion. Pl: przeciekać
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ɾo̞ʃuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · shů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to leak (shed water)

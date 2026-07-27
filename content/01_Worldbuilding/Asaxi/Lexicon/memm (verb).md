@@ -2,6 +2,8 @@
 freq: 67
 title: memm (verb) - to close, to shut
 Word (Asaxi): memm
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to close, to shut, to seal
 trnsltion. Pl: zamykać
 Transitivity: ambitransitive
@@ -34,6 +36,12 @@ To close / To be closed.
 ### Pronunciation
 IPA: /me.m̩/
 *Note:* Two syllables. The final `mm` functions as a syllabic nasal nucleus.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">me · mm</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to close, to shut, to seal

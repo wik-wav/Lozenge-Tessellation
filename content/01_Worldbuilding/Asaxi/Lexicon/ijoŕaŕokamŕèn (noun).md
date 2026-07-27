@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): ijoŕaŕokamŕèn
+pitch_accent: L.L.L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: temple keeper, librarian (of the dream-temple), curator, guardian of the sanctuary
 trnsltion. Pl: strażnik świątyni, bibliotekarz
 tags:
@@ -21,6 +23,12 @@ title: ijoŕaŕokamŕèn (noun) - guardian of a sanctuary
 
 ### Pronunciation
 IPA: /iꞲoɾaɾokamɾən/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jo · ŕa · ŕo · ka · mŕèn</span>
+- **Pattern:** `L · L · L · H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Religion & Ritual]] / Professions

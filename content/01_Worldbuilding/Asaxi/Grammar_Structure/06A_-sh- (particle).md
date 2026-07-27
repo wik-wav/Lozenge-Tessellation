@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): -sh-
+pitch_accent: none
+pitch_accent_class: atonal
 trnsltion. En: To remove
 tags:
   - Asaxi
@@ -19,6 +21,12 @@ aliases:
 ### Pronunciation
 
 IPA: /ʃ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sh</span>
+- **Pattern:** `none`
+- **Class:** `atonal`
 
 ### Example sentence
 

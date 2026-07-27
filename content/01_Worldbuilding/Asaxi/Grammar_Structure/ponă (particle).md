@@ -1,6 +1,8 @@
 ---
 title: ponă (particle) - A certain (warm)
 Word (Asaxi): ponă
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: A certain (warm)
 tags:
   - Asaxi
@@ -14,6 +16,13 @@ tags:
 <span class="asaxi-script">ponă</span>
 
 <span class="asaxi-script-alpha">ponă</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">po · nă</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Type:** Determiner (Specific Indefinite)

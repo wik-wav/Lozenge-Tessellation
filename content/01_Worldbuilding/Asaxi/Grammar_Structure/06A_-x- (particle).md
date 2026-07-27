@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): -x-
+pitch_accent: none
+pitch_accent_class: atonal
 trnsltion. En: To do X to (someone)
 tags:
   - Asaxi
@@ -19,6 +21,12 @@ aliases:
 ### Pronunciation
 
 IPA: /ɦ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">x</span>
+- **Pattern:** `none`
+- **Class:** `atonal`
 
 ### Example sentence
 

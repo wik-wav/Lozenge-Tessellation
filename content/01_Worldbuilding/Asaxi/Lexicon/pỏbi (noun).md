@@ -2,6 +2,8 @@
 freq: 56
 title: pỏbi (noun) - thread (cloth-line)
 Word (Asaxi): pỏbi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: thread (cloth-line)
 trnsltion. Pl: nić
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pou̯bi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pỏ · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

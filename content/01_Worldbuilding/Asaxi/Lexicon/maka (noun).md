@@ -2,6 +2,8 @@
 freq: 50
 title: maka (noun) - container, vessel
 Word (Asaxi): maka
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: container, vessel
 trnsltion. Pl: pojemnik, naczynie
 trnsltion. En 2: a mass of, a vesselful of (figurative)
@@ -24,6 +26,12 @@ tags:
 
 ### Pronunciation
 IPA: /maka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · ka</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

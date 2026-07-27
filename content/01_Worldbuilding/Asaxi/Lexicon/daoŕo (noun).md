@@ -2,6 +2,8 @@
 freq: 66
 title: daoŕo (noun) - market, marketplace
 Word (Asaxi): daoŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: market, marketplace
 trnsltion. Pl: targ, rynek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daoɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">da · o · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Transfer]]

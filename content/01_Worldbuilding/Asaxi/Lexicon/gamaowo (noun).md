@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): gamaowo
+pitch_accent: L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: night sky
 trnsltion. Pl: nocne niebo
 tags:
@@ -23,6 +25,12 @@ warm
 
 ### Pronunciation
 IPA: /ɡama.owo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · ma · o · wo</span>
+- **Pattern:** `L · H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment|Smntc_Field Environment]]

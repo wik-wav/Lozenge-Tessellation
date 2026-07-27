@@ -2,6 +2,8 @@
 freq: 61
 title: roshá (noun) - smith (iron-person)
 Word (Asaxi): roshá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: smith (iron-person)
 trnsltion. Pl: kowal
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɹo̞ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ro · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

@@ -2,6 +2,8 @@
 freq: 66
 title: såŕå (noun) - song, melody
 Word (Asaxi): såŕå
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: song, melody
 trnsltion. Pl: pieśń, piosenka, melodia
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /sau̯ɾau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">så · ŕå</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Arts]]

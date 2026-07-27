@@ -2,6 +2,8 @@
 freq: 88
 title: shosaŕo (noun) - river
 Word (Asaxi): shosaŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: river
 trnsltion. Pl: rzeka
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɕosaɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sho · sa · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

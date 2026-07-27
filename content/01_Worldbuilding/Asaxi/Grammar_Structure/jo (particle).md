@@ -1,6 +1,8 @@
 ---
 title: jo (particle) - it
 Word (Asaxi): jo
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: it
 tags:
   - Asaxi
@@ -26,6 +28,12 @@ The pronoun `jo` (it) is a third-person singular nominative pronoun.
 ### Pronunciation
 
 IPA: /Ʝo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jo</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Alternative Forms
 

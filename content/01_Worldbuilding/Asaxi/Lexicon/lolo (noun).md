@@ -2,6 +2,8 @@
 freq: 58
 title: lolo (noun) - wave
 Word (Asaxi): lolo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: wave
 trnsltion. Pl: fala
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /lolo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">lo · lo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

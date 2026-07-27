@@ -2,6 +2,8 @@
 freq: 66
 title: xogna (verb) - to meet, to encounter
 Word (Asaxi): xogna
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to meet, to encounter
 trnsltion. Pl: spotykać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɦo̞ɡna/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · gna</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to meet, to encounter

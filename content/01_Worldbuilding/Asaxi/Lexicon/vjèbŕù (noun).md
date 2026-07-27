@@ -2,6 +2,8 @@
 freq: 46
 title: vjèbŕù (noun) - camel (Ru. *verblyud*)
 Word (Asaxi): vjèbŕù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: camel (Ru. *verblyud*)
 trnsltion. Pl: wielbłąd
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪vʲəbɾɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vjè · bŕù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

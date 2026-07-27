@@ -2,6 +2,8 @@
 freq: 53
 title: xagiro (noun) - copper (ember-metal)
 Word (Asaxi): xagiro
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: copper (ember-metal)
 trnsltion. Pl: miedź
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦaɡiɹo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · gi · ro</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

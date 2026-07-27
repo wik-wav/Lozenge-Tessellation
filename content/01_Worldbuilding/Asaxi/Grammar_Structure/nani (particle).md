@@ -1,6 +1,8 @@
 ---
 title: nani (particle) - "more X than..."
 Word (Asaxi): nani
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: '"more X than..."'
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ Must be paired with the complement **[[izo (particle)|izo]]** (From/Than).
 ### Pronunciation
 
 IPA: /naɲi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nani</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Etymology
 

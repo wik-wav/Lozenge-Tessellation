@@ -2,6 +2,8 @@
 freq: 37
 title: jýnă (adjective) - talkative
 Word (Asaxi): jýnă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: talkative
 trnsltion. Pl: gadatliwy
 tags:
@@ -26,6 +28,12 @@ other class equivalent:
 - 
 ### Pronunciation
 IPA: /Ʝɪnaj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jý · nă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

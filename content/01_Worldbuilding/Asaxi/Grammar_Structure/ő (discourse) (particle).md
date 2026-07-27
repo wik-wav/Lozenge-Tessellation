@@ -1,6 +1,8 @@
 ---
 title: ő (discourse) (particle) - "I am informing you"
 Word (Asaxi): ő
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: '"I am informing you"'
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ Used when telling the listener something they don't know, often with a tone of "
 ### Pronunciation
 
 IPA: /oɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ő</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Alternative Forms
 

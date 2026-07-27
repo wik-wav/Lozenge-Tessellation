@@ -1,6 +1,8 @@
 ---
 title: ă (particle) - subject marker (subjective)
 Word (Asaxi): ă
+pitch_accent: H
+pitch_accent_class: dominant
 trnsltion. En: subject marker
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ Alternate form of `to`. See [[to (particle)]]
 ### Pronunciation
 
 IPA: /aɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă</span>
+- **Pattern:** `H`
+- **Class:** `dominant`
 
 ### Example sentence
 

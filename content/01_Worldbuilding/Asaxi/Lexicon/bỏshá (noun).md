@@ -2,6 +2,8 @@
 freq: 88
 title: bỏshá (noun) - man (adult male)
 Word (Asaxi): bỏshá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: man (adult male)
 trnsltion. Pl: mężczyzna
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /bou̯ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bỏ · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

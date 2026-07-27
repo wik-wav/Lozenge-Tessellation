@@ -2,6 +2,8 @@
 freq: 48
 title: xùva (verb) - to obey, to heed
 Word (Asaxi): xùva
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to obey, to heed
 trnsltion. Pl: być posłusznym
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɦɯb̪va/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xù · va</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to obey, to heed

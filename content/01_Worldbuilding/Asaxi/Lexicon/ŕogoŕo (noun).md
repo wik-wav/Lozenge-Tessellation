@@ -2,6 +2,8 @@
 freq: 75
 title: ŕogoŕo (noun) - well (water-cave)
 Word (Asaxi): ŕogoŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: well (water-cave)
 trnsltion. Pl: studnia
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾo̞ɡo̞ɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · go · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

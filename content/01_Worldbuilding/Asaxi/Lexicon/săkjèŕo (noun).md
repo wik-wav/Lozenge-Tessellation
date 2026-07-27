@@ -2,6 +2,8 @@
 freq: 52
 title: săkjèŕo (noun) - jungle (hot-forest)
 Word (Asaxi): săkjèŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: jungle (hot-forest)
 trnsltion. Pl: dżungla
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /saɪkʲəɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · kjè · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

@@ -1,6 +1,8 @@
 ---
 title: opa (noun) - the immediate future, the next moment
 Word (Asaxi): opa
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: the immediate future, the brink, the verge, the next moment
 trnsltion. Pl: najbliższa przyszłość
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /opa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · pa</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

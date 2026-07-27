@@ -2,6 +2,8 @@
 freq: 44
 title: fùko (noun) - robe / gown
 Word (Asaxi): fùko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: robe / gown
 trnsltion. Pl: szata
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fɯko/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fù · ko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

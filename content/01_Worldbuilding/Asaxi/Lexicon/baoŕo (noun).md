@@ -1,6 +1,8 @@
 ---
 title: baoŕo (noun) - nest
 Word (Asaxi): baoŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: nest
 trnsltion. Pl: gniazdo
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /bao̞ɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · o · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

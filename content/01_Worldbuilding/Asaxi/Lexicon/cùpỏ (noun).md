@@ -2,6 +2,8 @@
 freq: 88
 title: cùpỏ (noun) - dust
 Word (Asaxi): cùpỏ
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: dust
 trnsltion. Pl: kurz, pył
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̻͡sɯpou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cù · pỏ</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

@@ -2,6 +2,8 @@
 freq: 69
 title: txa (noun) - change, mutation
 Word (Asaxi): txa
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: change, mutation, alteration, shift
 trnsltion. Pl: zmiana
 tags:
@@ -21,6 +23,12 @@ Cold
 
 ### Pronunciation
 IPA: /tʰa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">txa</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Existence]] / [[Smntc_Field Time]]

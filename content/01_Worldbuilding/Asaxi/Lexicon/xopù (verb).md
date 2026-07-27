@@ -2,6 +2,8 @@
 freq: 41
 title: xopù (verb) - to move downward
 Word (Asaxi): xopù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to move downward, to descend, to sink, to drop (oneself)
 trnsltion. Pl: schodzić, opadać, zniżać się
 Transitivity: intransitive, transitive
@@ -34,6 +36,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦopɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to descend, to lower, to go down, to sink

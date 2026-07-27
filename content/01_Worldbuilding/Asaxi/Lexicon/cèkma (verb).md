@@ -2,6 +2,8 @@
 freq: 64
 title: cèkma (verb) - to trust, to rely on
 Word (Asaxi): cèkma
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to trust, to rely on
 trnsltion. Pl: ufać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪əʔma/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cè · kma</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to trust, to rely on

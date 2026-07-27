@@ -1,6 +1,8 @@
 ---
 title: dzè (particle) - "But", "However".
 Word (Asaxi): dzè
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: but
 tags:
   - Asaxi
@@ -31,6 +33,12 @@ Placed at the **end** of the first clause.
 ### Pronunciation
 
 IPA: /d̻͡z̪ə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dzè</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

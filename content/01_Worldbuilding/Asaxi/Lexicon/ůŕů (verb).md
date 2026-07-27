@@ -2,6 +2,8 @@
 freq: 60
 title: ůŕů (verb) - to produce, yield, emit, give off
 Word (Asaxi): ůŕů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to produce, yield, emit, give off
 trnsltion. Pl: wytwarzać, wydawać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /uu̯ɾɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ů · ŕů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to produce, yield, emit, give off

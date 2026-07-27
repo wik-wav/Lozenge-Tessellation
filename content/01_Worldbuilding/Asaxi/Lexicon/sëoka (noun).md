@@ -2,6 +2,8 @@
 freq: 50
 title: sëoka (noun) - fork (claw-tool)
 Word (Asaxi): sëoka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: fork (claw-tool)
 trnsltion. Pl: widelec
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /seɪo̞ka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">së · o · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

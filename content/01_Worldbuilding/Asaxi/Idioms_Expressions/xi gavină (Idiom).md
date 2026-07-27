@@ -1,6 +1,8 @@
 ---
 title: xi gavină (Idiom) - Good day (lit. the day is good)
 Word (Asaxi): xi gavină
+pitch_accent: H | H.L.L
+pitch_accent_class: phrase
 trnsltion. En: Good day (lit. the day is good)
 tags:
   - Asaxi
@@ -30,6 +32,12 @@ Literally "**The day/sun (is) good**" — a zero-copula attribution ([[08_Minima
 
 ### Pronunciation
 IPA: /ɦi gaʋinaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xi | ga · vi · nă</span>
+- **Pattern:** `H | H · L · L`
+- **Class:** `phrase`
 
 ### Example sentence
 

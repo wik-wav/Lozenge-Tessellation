@@ -1,6 +1,8 @@
 ---
 title: sèŕèŕů (verb) - to make cheese
 Word (Asaxi): sèŕèŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to make cheese
 trnsltion. Pl: robić ser
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /səɾəɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sè · ŕè · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to make cheese

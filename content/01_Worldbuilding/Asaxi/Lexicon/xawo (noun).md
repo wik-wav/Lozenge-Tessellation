@@ -2,6 +2,8 @@
 freq: 57
 title: xawo (noun) - the heights, the space above
 Word (Asaxi): xawo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: the heights, the space above, the above
 trnsltion. Pl: góra
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦawo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · wo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]] / Cosmology

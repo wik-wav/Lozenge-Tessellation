@@ -2,6 +2,8 @@
 freq: 88
 title: chi (noun) - blood
 Word (Asaxi): chi
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: blood
 trnsltion. Pl: krew
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̠ʃi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chi</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

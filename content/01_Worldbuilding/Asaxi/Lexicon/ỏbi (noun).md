@@ -2,6 +2,8 @@
 freq: 55
 title: ỏbi (noun) - belt
 Word (Asaxi): ỏbi
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: belt
 trnsltion. Pl: pasek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ou̯bi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ỏ · bi</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

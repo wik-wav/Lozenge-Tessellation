@@ -2,6 +2,8 @@
 freq: 52
 title: dăjý (noun) - thunder
 Word (Asaxi): dăjý
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: thunder
 trnsltion. Pl: grzmot
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪjɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · jý</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

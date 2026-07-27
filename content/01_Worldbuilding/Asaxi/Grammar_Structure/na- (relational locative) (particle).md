@@ -1,6 +1,8 @@
 ---
 title: na- (relational locative) (particle) - On, on top of, touching the surface of
 Word (Asaxi): na-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: on
 tags:
   - Asaxi
@@ -33,6 +35,12 @@ Attaches to the front of the noun.
 ### Pronunciation
 
 IPA: /na/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">na</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

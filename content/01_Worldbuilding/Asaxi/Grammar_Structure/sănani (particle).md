@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): sănani
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: '"Some", "Several", "A few (positive)", "More than one".'
 tags:
   - Asaxi
@@ -32,6 +34,12 @@ Functions as a **Floating Quantifier**.
 ### Pronunciation
 
 IPA: /saɪnaɲi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · nani</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

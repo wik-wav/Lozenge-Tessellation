@@ -1,6 +1,8 @@
 ---
 title: toxăhè (verb) - I am certain that
 Word (Asaxi): toxăhè
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: I am certain that
 tags:
   - Asaxi
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /t̪oɦaɪxə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">to · xă · hè</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Perception]]

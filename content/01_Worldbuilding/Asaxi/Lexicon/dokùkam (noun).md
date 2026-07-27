@@ -2,6 +2,8 @@
 freq: 63
 title: dokùkam (noun) - hospital (medicine-structure)
 Word (Asaxi): dokùkam
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: hospital (medicine-structure)
 trnsltion. Pl: szpital
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /do̞kɯkam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">do · kù · kam</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

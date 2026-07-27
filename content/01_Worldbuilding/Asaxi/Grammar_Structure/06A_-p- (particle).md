@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): -p-
+pitch_accent: none
+pitch_accent_class: atonal
 trnsltion. En: To feel like (to the touch)
 tags:
   - Asaxi
@@ -19,6 +21,12 @@ aliases:
 ### Pronunciation
 
 IPA: /p/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">p</span>
+- **Pattern:** `none`
+- **Class:** `atonal`
 
 ### Example sentence
 

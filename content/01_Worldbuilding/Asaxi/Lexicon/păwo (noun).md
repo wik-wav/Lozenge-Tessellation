@@ -2,6 +2,8 @@
 freq: 66
 title: păwo (noun) - the outside, the exterior
 Word (Asaxi): păwo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: the outside, the exterior, the outdoors
 trnsltion. Pl: zewnątrz, dwór
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /paɪwo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pă · wo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

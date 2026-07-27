@@ -1,6 +1,8 @@
 ---
 title: xăcèshá (noun) - a Real one, genuine creature, truly-alive being
 Word (Asaxi): xăcèshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: a Real one, genuine creature, truly-alive being
 trnsltion. Pl: prawdziwa istota
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɦaɪt̻͡s̪əʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · cè · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

@@ -2,6 +2,8 @@
 freq: 65
 title: dzo' (verb) - to break, to snap
 Word (Asaxi): dzo'
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: to break, to snap
 trnsltion. Pl: łamać, psuć
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /d̻͡z̪oʔ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dzo'</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to break, to snap

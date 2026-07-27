@@ -2,6 +2,8 @@
 freq: 88
 title: kjèswë (noun) - bark
 Word (Asaxi): kjèswë
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: bark
 trnsltion. Pl: kora
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /kʲəsweɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè · swë</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

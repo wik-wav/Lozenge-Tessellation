@@ -1,6 +1,8 @@
 ---
 title: kă (particle) - "Please", "Kindly", "Would you".
 Word (Asaxi): kă
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: please
 tags:
   - Asaxi
@@ -32,6 +34,12 @@ tags:
 ### Pronunciation
 
 IPA: /kaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kă</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

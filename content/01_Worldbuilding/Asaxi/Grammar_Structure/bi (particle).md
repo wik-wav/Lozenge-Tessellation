@@ -1,6 +1,8 @@
 ---
 title: bi (particle) - "as X as..."
 Word (Asaxi): bi
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: '"as X as..."'
 tags:
   - Asaxi
@@ -31,6 +33,12 @@ Must be paired with the complement **[[zá (particle)|zá]]** (With).
 ### Pronunciation
 
 IPA: /bi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bi</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Etymology
 

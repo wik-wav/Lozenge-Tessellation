@@ -2,6 +2,8 @@
 freq: 60
 title: mmråshá (noun) - cat, feline
 Word (Asaxi): mmråshá
+pitch_accent: L.L.H
+pitch_accent_class: lexical
 trnsltion. En: cat, feline
 trnsltion. Pl: kot
 tags:
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 IPA: /m̩ɹau̯ʃɑ/
 *Phonotactics:* The initial `mm` is a syllabic-nasal nucleus; the following **r** is the approximant /ɹ/ (not the tap *ŕ*), realised as the onset of the next syllable before the diphthong `å`. This onset /ɹ/ after a syllabic nasal is **by design** (mimetic of the meow) and is **not** subject to the `r`-cluster restriction in [[22_Phonotactics & Euphony]].
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mm · rå · shá</span>
+- **Pattern:** `L · L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

@@ -1,6 +1,8 @@
 ---
 title: kùkùkam (noun) - fowl-house, hen-house, coop
 Word (Asaxi): kùkùkam
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: fowl-house, hen-house, coop
 trnsltion. Pl: kurnik
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /kɯkɯkam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kù · kù · kam</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

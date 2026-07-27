@@ -2,6 +2,8 @@
 freq: 52
 title: hjixaśbi (noun) - toe
 Word (Asaxi): hjixaśbi
+pitch_accent: H.H.H
+pitch_accent_class: mixed
 trnsltion. En: toe, digit (foot)
 trnsltion. Pl: palec (nogi)
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /çiɦaɕbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hji · xa · śbi</span>
+- **Pattern:** `H · H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

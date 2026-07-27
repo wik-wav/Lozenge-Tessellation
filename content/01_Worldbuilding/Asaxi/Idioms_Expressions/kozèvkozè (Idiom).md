@@ -2,6 +2,8 @@
 freq: 51
 title: kozèvkozè (Idiom) - once upon a time
 Word (Asaxi): kozèvkozè
+pitch_accent: L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: once upon a time
 trnsltion. Pl: long, long ago
 tags:
@@ -29,6 +31,12 @@ The standard opening for fairy tales and legends.
 
 IPA: /kozəfkozə/
 *Phonotactics:* `v` devoices to `/f/` before `k`.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ko · zè · vko · zè</span>
+- **Pattern:** `L · H · L · L`
+- **Class:** `lexical`
 
 ### Etymology
 

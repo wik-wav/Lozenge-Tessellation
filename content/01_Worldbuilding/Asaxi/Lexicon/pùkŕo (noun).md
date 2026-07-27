@@ -2,6 +2,8 @@
 freq: 62
 title: pùkŕo (noun) - floor
 Word (Asaxi): pùkŕo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: floor
 trnsltion. Pl: podłoga
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɯkɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · kŕo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

@@ -2,6 +2,8 @@
 freq: 49
 title: xý (noun) - frost / rime
 Word (Asaxi): xý
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: frost / rime
 trnsltion. Pl: szron
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xý</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

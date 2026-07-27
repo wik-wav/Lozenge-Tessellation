@@ -1,6 +1,8 @@
 ---
 title: fůjå ma (Idiom) - Thank you (lit. (I) have wantlessness)
 Word (Asaxi): fůjå ma
+pitch_accent: H.L | H
+pitch_accent_class: phrase
 trnsltion. En: Thank you (lit. (I) have wantlessness)
 tags:
   - Asaxi
@@ -31,6 +33,12 @@ Literally "(I) have wantlessness."
 
 ### Pronunciation
 IPA: /fuu̯Ʝau̯ ma/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · jå | ma</span>
+- **Pattern:** `H · L | H`
+- **Class:** `phrase`
 
 ### Example sentence
 

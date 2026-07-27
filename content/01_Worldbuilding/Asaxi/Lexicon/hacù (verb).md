@@ -2,6 +2,8 @@
 freq: 40
 title: hacù (verb) - to sneeze
 Word (Asaxi): hacù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to sneeze
 trnsltion. Pl: kichać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /xat̻͡s̪ɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ha · cù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to sneeze

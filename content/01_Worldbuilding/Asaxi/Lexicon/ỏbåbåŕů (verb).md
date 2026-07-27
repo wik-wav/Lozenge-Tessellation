@@ -2,6 +2,8 @@
 freq: 44
 title: ỏbåbåŕů (verb) - to harden (body)
 Word (Asaxi): ỏbåbåŕů
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: to harden (body)
 trnsltion. Pl: wyrzeźbić się
 Transitivity: instransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /ou̯bau̯bau̯ɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ỏ · bå · bå · ŕů</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to harden (body), to get ripped, to attain definition, to tone up

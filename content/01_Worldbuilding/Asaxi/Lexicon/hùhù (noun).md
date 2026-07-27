@@ -2,6 +2,8 @@
 freq: 54
 title: hùhù (noun) - wolf
 Word (Asaxi): hùhù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: wolf
 trnsltion. Pl: wilk
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /xɯxɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù · hù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

@@ -2,6 +2,8 @@
 freq: 51
 title: fri (verb) - to set free, to liberate
 Word (Asaxi): fri
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: to set free, to liberate, to release, to unleash
 trnsltion. Pl: uwolnić, wyzwolić
 Transitivity: transitive
@@ -34,6 +36,12 @@ Takes an object (the entity being liberated).
 ### Pronunciation
 IPA: /fɹi/
 *Phonotactic Note:* This is the permitted exception to the rule forbidding `r` followed by `i`.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fri</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to set free, to liberate, to release, to unleash

@@ -2,6 +2,8 @@
 freq: 33
 title: kaeŕů (verb) - to ripen, to bear fruit
 Word (Asaxi): kaeŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to ripen, to bear fruit
 trnsltion. Pl: dojrzewać
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /kae̞ɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · e · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to ripen, to bear fruit

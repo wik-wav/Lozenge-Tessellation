@@ -2,6 +2,8 @@
 freq: 38
 title: cùnýj (adjective) - earthy, drab-brown, dun
 Word (Asaxi): cùnýj
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: earthy, drab-brown, dun
 trnsltion. Pl: ziemisty, brunatny
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /t͡sɯnɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cù · nýj</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

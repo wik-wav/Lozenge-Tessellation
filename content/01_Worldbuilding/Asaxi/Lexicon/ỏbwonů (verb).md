@@ -2,6 +2,8 @@
 freq: 42
 title: ỏbwonů (verb) - to cuddle
 Word (Asaxi): ỏbwonů
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: to cuddle
 trnsltion. Pl: przytulać się
 Transitivity: transitive, reciprocal
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /ou̯bʷonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ỏ · bwo · nů</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to cuddle, to embrace, to snuggle

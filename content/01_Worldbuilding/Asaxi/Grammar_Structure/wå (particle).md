@@ -1,6 +1,8 @@
 ---
 title: wå (particle) - Woah!, Wow!
 Word (Asaxi): wå
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Woah!, Wow!
 tags:
   - Asaxi
@@ -28,6 +30,12 @@ Placed at the very **start** of the sentence, separated by a pause (comma).
 ### Pronunciation
 
 IPA: /wau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wå</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

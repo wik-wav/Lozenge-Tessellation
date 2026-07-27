@@ -2,6 +2,8 @@
 freq: 65
 title: vawo (noun) - the inside
 Word (Asaxi): vawo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: the inside
 trnsltion. Pl: wnętrze
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /vawo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">va · wo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]] / [[Smntc_Field Housing & Shelter]]

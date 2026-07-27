@@ -2,6 +2,8 @@
 freq: 23
 title: fůăvi (noun) - incorrectness, wrongness
 Word (Asaxi): fůăvi
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: incorrectness, wrongness, horror, monstrosity, mess
 trnsltion. Pl: niepoprawność, zło, okropność
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fuu̯aɪvi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · ă · vi</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / [[Smntc_Field Virtues & Failings]] / Horror

@@ -2,6 +2,8 @@
 freq: 58
 title: sino (noun) - milk
 Word (Asaxi): sino
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: milk
 trnsltion. Pl: mleko
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /sino/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sino</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

@@ -2,6 +2,8 @@
 freq: 59
 title: fwogă (noun) - valley
 Word (Asaxi): fwogă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: valley
 trnsltion. Pl: dolina
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /fʷogaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fwo · gă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

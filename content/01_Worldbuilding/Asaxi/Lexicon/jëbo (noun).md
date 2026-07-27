@@ -2,6 +2,8 @@
 freq: 50
 title: jëbo (noun) - chin
 Word (Asaxi): jëbo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: chin
 trnsltion. Pl: podbródek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /jeɪbo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jë · bo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

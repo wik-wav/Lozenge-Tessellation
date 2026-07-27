@@ -1,6 +1,8 @@
 ---
 title: chőko (noun) - chocolate
 Word (Asaxi): chőko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: chocolate
 trnsltion. Pl: czekolada
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /t̠ʃo̞ɪko̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chő · ko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

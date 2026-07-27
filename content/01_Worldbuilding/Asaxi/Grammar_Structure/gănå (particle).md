@@ -1,6 +1,8 @@
 ---
 title: gănå (particle) - Sometime, one day
 Word (Asaxi): gănå
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: Sometime, one day
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɡaɪnau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gă · nå</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Logic & Etymology
 

@@ -2,6 +2,8 @@
 freq: 40
 title: kŕopù (verb) - to kneel
 Word (Asaxi): kŕopù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to kneel
 trnsltion. Pl: klękać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /kɾo̞pɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kŕo · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to kneel

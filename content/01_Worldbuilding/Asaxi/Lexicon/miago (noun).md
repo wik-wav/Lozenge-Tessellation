@@ -2,6 +2,8 @@
 freq: 58
 title: miago (noun) - sugar (honey-grain)
 Word (Asaxi): miago
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: sugar (honey-grain)
 trnsltion. Pl: cukier
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /miaɡo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mi · a · go</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

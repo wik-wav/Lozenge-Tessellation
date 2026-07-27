@@ -2,6 +2,8 @@
 freq: 29
 title: exenýj (adjective) - weepy, wailing
 Word (Asaxi): exenýj
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: weepy, wailing, tearful, tragic, sorrowful, lugubrious
 trnsltion. Pl: płaczliwy, lamentujący, tragiczny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /eɦenɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">e · xe · nýj</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Atmosphere

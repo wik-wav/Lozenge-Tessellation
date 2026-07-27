@@ -1,6 +1,8 @@
 ---
 title: onă (particle) - this
 Word (Asaxi): onă
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: this
 tags:
   - language
@@ -25,3 +27,10 @@ tags:
 
 IPA:
   /onaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · nă</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
+

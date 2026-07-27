@@ -2,6 +2,8 @@
 freq: 88
 title: pxỏnýj (adjective) - round, spherical
 Word (Asaxi): pxỏnýj
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: round, spherical, ball-shaped
 trnsltion. Pl: okrągły, kulisty
 tags:
@@ -23,6 +25,12 @@ class:
 
 ### Pronunciation
 IPA: /pʰou̯nɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pxỏ · nýj</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]

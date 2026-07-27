@@ -2,6 +2,8 @@
 freq: 47
 title: fŕopù (verb) - to faint, to collapse
 Word (Asaxi): fŕopù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to faint, to collapse
 trnsltion. Pl: mdleć
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /fɾo̞pɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fŕo · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to faint, to collapse

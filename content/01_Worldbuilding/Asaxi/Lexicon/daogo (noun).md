@@ -2,6 +2,8 @@
 freq: 88
 title: daogo (noun) - money, currency
 Word (Asaxi): daogo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: money, currency
 trnsltion. Pl: pieniądze, waluta
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daogo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">da · o · go</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Transfer]]

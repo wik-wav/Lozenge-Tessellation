@@ -2,6 +2,8 @@
 freq: 58
 title: ŕoŕobi (noun) - stream / brook
 Word (Asaxi): ŕoŕobi
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: stream / brook
 trnsltion. Pl: strumień
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾoɾobi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · ŕo · bi</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

@@ -1,6 +1,8 @@
 ---
 title: ko (distal locative) (particle) - over yonder
 Word (Asaxi): ko
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: over yonder
 tags:
   - Asaxi
@@ -32,6 +34,12 @@ Meaning: "Long ago" (with Past) or "Someday/Far future" (with Future).
 ### Pronunciation
 
 IPA: /ko/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ko</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Alternative Forms
 

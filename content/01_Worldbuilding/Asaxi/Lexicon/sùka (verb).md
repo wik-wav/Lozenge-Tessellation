@@ -2,6 +2,8 @@
 freq: 80
 title: sùka (verb) - to like, to be fond of
 Word (Asaxi): sùka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to like, to be fond of
 trnsltion. Pl: lubić
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /sɯka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sù · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to like, to be fond of

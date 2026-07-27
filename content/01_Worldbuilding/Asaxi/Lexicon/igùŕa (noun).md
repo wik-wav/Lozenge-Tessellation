@@ -2,6 +2,8 @@
 freq: 66
 title: igùŕa (noun) - game (video/board/card)
 Word (Asaxi): igùŕa
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: game (video/board/card), match, sport
 trnsltion. Pl: gra, zabawa
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /igɯɾa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · gù · ŕa</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Behaviour]] / Entertainment

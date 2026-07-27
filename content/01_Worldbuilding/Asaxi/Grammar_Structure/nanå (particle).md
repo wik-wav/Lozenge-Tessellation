@@ -1,6 +1,8 @@
 ---
 title: nanå (particle) - Often
 Word (Asaxi): nanå
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: Often
 tags:
   - Asaxi
@@ -14,6 +16,13 @@ tags:
 <span class="asaxi-script">nanå</span>
 
 <span class="asaxi-script-alpha">nanå</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">na · nå</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Type:** Frequency Particle / Adverb

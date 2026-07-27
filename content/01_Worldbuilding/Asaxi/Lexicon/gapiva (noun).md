@@ -2,6 +2,8 @@
 freq: 56
 title: gapiva (noun) - pink
 Word (Asaxi): gapiva
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: pink
 trnsltion. Pl: różowy
 tags:
@@ -25,6 +27,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡapiʋa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · pi · va</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

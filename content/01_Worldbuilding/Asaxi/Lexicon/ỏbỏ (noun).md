@@ -2,6 +2,8 @@
 freq: 45
 title: ỏbỏ (noun) - cushion
 Word (Asaxi): ỏbỏ
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: cushion
 trnsltion. Pl: poduszka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ou̯bou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ỏ · bỏ</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

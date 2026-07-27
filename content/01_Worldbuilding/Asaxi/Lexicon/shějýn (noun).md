@@ -2,6 +2,8 @@
 freq: 66
 title: shějýn (noun) - education
 Word (Asaxi): shějýn
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: education
 trnsltion. Pl: nauka
 tags:
@@ -21,6 +23,12 @@ cold
 
 ### Pronunciation
 IPA: /ɹ̠̊ɚꞲɪn/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shě · jýn</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 x

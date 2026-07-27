@@ -2,6 +2,8 @@
 freq: 64
 title: ůsů (verb) - to sound, to sound like
 Word (Asaxi): ůsů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to sound, to sound like
 trnsltion. Pl: brzmieć
 Transitivity: intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /uu̯suu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ů · sů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to sound, to sound like

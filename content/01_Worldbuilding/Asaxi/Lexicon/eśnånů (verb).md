@@ -2,6 +2,8 @@
 freq: 45
 title: eśnånů (verb) - to grin
 Word (Asaxi): eśnånů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to grin
 trnsltion. Pl: szczerzyć się
 Transitivity: intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /eɕnau̯nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">e · śnå · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to grin, to smirk

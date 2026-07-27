@@ -1,6 +1,8 @@
 ---
 title: bwonů (verb) - to be fat, to be obese
 Word (Asaxi): bwonů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to be fat, to be obese, to have body fat
 trnsltion. Pl: być grubym
 Transitivity: intransitive
@@ -28,6 +30,12 @@ tags:
 
 ### Pronunciation
 IPA: /bʷonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bwo · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to be fat, to be obese, to have body fat

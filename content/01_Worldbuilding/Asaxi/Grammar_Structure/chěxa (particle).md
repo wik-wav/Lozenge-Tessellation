@@ -1,6 +1,8 @@
 ---
 title: chěxa (particle) - "Even if", "Although", "Despite".
 Word (Asaxi): chěxa
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: Even if
 tags:
   - Asaxi
@@ -35,6 +37,12 @@ Placed at the **end** of the concessive clause.
 ### Pronunciation
 
 IPA: /tʃɚɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chě · xa</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

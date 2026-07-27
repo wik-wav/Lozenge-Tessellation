@@ -2,6 +2,8 @@
 freq: 51
 title: maogám (noun) - ink (black-gum)
 Word (Asaxi): maogám
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: ink (black-gum)
 trnsltion. Pl: atrament
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mao̞ɡɑm/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · o · gám</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

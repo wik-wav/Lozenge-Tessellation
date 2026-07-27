@@ -2,6 +2,8 @@
 freq: 43
 title: fůzù (noun) - incompetence
 Word (Asaxi): fůzù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: incompetence
 trnsltion. Pl: brak umiejętności
 tags:
@@ -21,6 +23,12 @@ Cold
 
 ### Pronunciation
 IPA: /fuu̯zɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · zù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Virtues & Failings]]

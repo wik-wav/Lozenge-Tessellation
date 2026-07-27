@@ -1,6 +1,8 @@
 ---
 title: pă- (particle) - outside
 Word (Asaxi): pă-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: outside
 trnsltion. En 2: other, another, else
 trnsltion. Pl 2: inny, drugi
@@ -31,6 +33,12 @@ Attaches to the front of the noun.
 ### Pronunciation
 
 IPA: /paɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pă</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

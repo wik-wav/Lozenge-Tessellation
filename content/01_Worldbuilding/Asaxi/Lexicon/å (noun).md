@@ -2,6 +2,8 @@
 freq: 88
 title: å (noun) - time
 Word (Asaxi): å
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: time
 trnsltion. Pl: czas
 tags:
@@ -21,6 +23,12 @@ cold
 
 ### Pronunciation
 IPA: /au̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">å</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

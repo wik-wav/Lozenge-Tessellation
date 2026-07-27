@@ -2,6 +2,8 @@
 freq: 64
 title: ůcho (noun) - feeling
 Word (Asaxi): ůcho
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: feeling
 trnsltion. Pl: czucie
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /uu̯t͡ʃo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ů · cho</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]]

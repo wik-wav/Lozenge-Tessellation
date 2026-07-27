@@ -1,6 +1,8 @@
 ---
 title: náxăkă (particle) - "Please don't", "Please do not", "Kindly refrain from"
 Word (Asaxi): náxăkă
+pitch_accent: H.H.L
+pitch_accent_class: mixed
 trnsltion. En: please don't
 trnsltion. Pl: proszę nie
 tags:
@@ -30,6 +32,12 @@ Used to tell someone not to do something while maintaining a polite or beseechin
 ### Pronunciation
 
 IPA: /nɑɦaɪkaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ná · xă · kă</span>
+- **Pattern:** `H · H · L`
+- **Class:** `mixed`
 
 ### Example sentence
 

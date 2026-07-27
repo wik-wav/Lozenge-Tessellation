@@ -2,6 +2,8 @@
 freq: 45
 title: ŕănă (adjective) - fiery, red-hot, fervid
 Word (Asaxi): ŕănă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: fiery, red-hot, fervid
 trnsltion. Pl: ognisty, żarliwy
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ɾaɪnaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · nă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

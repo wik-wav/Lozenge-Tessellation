@@ -1,6 +1,8 @@
 ---
 title: tá (particle) - Ouch! (pain)
 Word (Asaxi): tá
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Ouch!, Ow! (pain, sudden hurt)
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ Stands alone or before the clause; takes no particles or tense (see [[62_Vocativ
 ### Pronunciation
 
 IPA: /t̪ɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tá</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

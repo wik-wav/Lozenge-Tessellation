@@ -2,6 +2,8 @@
 freq: 67
 title: jomåshá (noun) - human being, homo sapiens
 Word (Asaxi): jomåshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: human being, homo sapiens
 trnsltion. Pl: Człowiek, homo sapiens
 tags:
@@ -21,6 +23,12 @@ warm
 
 ### Pronunciation
 IPA: /Ʝomau̯ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jo · må · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

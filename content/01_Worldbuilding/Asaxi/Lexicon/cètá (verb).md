@@ -2,6 +2,8 @@
 freq: 62
 title: cètá (verb) - to judge, to evaluate
 Word (Asaxi): cètá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to judge, to evaluate
 trnsltion. Pl: oceniać, sądzić
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪ət̪ɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cè · tá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to judge, to evaluate

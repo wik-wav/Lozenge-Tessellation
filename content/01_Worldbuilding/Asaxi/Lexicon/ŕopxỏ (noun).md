@@ -2,6 +2,8 @@
 freq: 52
 title: ŕopxỏ (noun) - bubble / foam
 Word (Asaxi): ŕopxỏ
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: bubble / foam
 trnsltion. Pl: bańka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾopʰou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · pxỏ</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]]

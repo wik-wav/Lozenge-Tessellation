@@ -1,6 +1,8 @@
 ---
 title: baai (noun) - the right side
 Word (Asaxi): baai
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: the right side, the right
 trnsltion. Pl: prawa strona
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ba.ai/ — three morae; the doubled *a* is held two full beats ([[22_Phonotactics & Euphony]]).
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · a · i</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]] / [[Smntc_Field The Body]]

@@ -1,6 +1,8 @@
 ---
 title: kùki (root word) - small crawling creature
 Word (Asaxi): kùki
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: 'small crawling creature'
 tags:
   - Asaxi
@@ -20,6 +22,12 @@ A bound root forming the generic names of insects and bugs.
 
 ### Pronunciation
 IPA: /kɯki/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kù · ki</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Alternative Forms
 x

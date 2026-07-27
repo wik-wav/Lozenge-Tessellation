@@ -2,6 +2,8 @@
 freq: 42
 title: mënů (verb) - to lessen, reduce, diminish
 Word (Asaxi): mënů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to lessen, reduce, diminish
 trnsltion. Pl: zmniejszać, ujmować
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /mənɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">më · nů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to lessen, reduce, diminish

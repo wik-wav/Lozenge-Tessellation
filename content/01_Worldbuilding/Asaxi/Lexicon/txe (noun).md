@@ -2,6 +2,8 @@
 freq: 88
 title: txe (noun) - wing
 Word (Asaxi): txe
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: wing
 trnsltion. Pl: skrzydło
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /tʰe/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">txe</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

@@ -2,6 +2,8 @@
 freq: 60
 title: vanů (verb) - to enter
 Word (Asaxi): vanů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to enter, to be inside, to inhabit, to occupy
 trnsltion. Pl: wchodzić, być w środku, zamieszkiwać, zajmować (przestrzeń)
 Transitivity: intransitive, transitive
@@ -25,6 +27,12 @@ tags:
 
 ### Pronunciation
 IPA: /vanuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">va · nů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to be inside, to inhabit, to occupy, to enter

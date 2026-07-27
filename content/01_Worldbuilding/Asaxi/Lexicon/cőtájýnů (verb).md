@@ -2,6 +2,8 @@
 freq: 56
 title: cőtájýnů (verb) - to argue, to dispute
 Word (Asaxi): cőtájýnů
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: to argue, to dispute, to quarrel
 trnsltion. Pl: kłócić się, spierać się
 Transitivity: Reciprocal, intransitive
@@ -30,6 +32,12 @@ tags:
 
 ### Pronunciation
 IPA: /t͡soɪt̪ɑꞲɪnuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cő · tá · jý · nů</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to argue, to dispute, to quarrel

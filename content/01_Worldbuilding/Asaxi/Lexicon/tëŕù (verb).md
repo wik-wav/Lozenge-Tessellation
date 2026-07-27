@@ -2,6 +2,8 @@
 freq: 54
 title: tëŕù (verb) - to stretch (the body)
 Word (Asaxi): tëŕù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to stretch (the body)
 trnsltion. Pl: przeciągać się
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /t̪eɪɾɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">të · ŕù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to stretch (the body)

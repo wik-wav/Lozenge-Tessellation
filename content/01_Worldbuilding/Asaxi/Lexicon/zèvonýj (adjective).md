@@ -2,6 +2,8 @@
 freq: 41
 title: zèvonýj (adjective) - esteemed, worthy of a name
 Word (Asaxi): zèvonýj
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: esteemed, worthy of a name, highly praised, reputable, titled, famous
 trnsltion. Pl: renomowany
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /zəvonɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zè · vo · nýj</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Virtues & Failings]] / [[Smntc_Field Communication]]

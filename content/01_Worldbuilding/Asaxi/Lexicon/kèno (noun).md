@@ -2,6 +2,8 @@
 freq: 67
 title: kèno (noun) - a question
 Word (Asaxi): kèno
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: a question
 trnsltion. Pl: pytanie
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kəno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kè · no</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Communication]]

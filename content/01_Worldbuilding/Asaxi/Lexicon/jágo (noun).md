@@ -2,6 +2,8 @@
 freq: 41
 title: jágo (noun) - blueberry
 Word (Asaxi): jágo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: blueberry
 trnsltion. Pl: jagoda
 tags:
@@ -22,6 +24,12 @@ warm
 
 ### Pronunciation
 IPA: /Ʝɑɡo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">já · go</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

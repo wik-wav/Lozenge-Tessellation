@@ -2,6 +2,8 @@
 freq: 29
 title: chåxa (verb) - to jump up, to leap
 Word (Asaxi): chåxa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to jump up, to leap, to spring, to bound
 trnsltion. Pl: podskoczyć, wyskoczyć w górę
 Transitivity: Intransitive
@@ -32,6 +34,12 @@ tags:
 
 ### Pronunciation
 IPA: /t͡ʃau̯ɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chå · xa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to jump up, to leap, to spring, to bound

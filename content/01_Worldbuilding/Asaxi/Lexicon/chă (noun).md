@@ -2,6 +2,8 @@
 freq: 59
 title: chă (noun) - tea (Jp. *cha*)
 Word (Asaxi): chă
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: tea (Jp. *cha*)
 trnsltion. Pl: herbata
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̠ʃaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chă</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

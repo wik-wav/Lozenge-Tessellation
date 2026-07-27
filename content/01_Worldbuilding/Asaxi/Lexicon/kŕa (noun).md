@@ -2,6 +2,8 @@
 freq: 44
 title: kŕa (noun) - thorn
 Word (Asaxi): kŕa
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: thorn
 trnsltion. Pl: cierń
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kɾa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kŕa</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

@@ -2,6 +2,8 @@
 freq: 51
 title: ŕomako (noun) - bucket, pail (water-vessel)
 Word (Asaxi): ŕomako
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: bucket, pail (water-vessel)
 trnsltion. Pl: wiadro
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾo̞mako̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · ma · ko</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

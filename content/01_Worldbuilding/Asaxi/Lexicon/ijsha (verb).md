@@ -2,6 +2,8 @@
 freq: 56
 title: ijsha (verb) - to ignore, to overlook
 Word (Asaxi): ijsha
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to ignore, to overlook
 trnsltion. Pl: ignorować
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ijʃa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jsha</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to ignore, to overlook

@@ -2,6 +2,8 @@
 freq: 69
 title: mao (noun) - (disambiguation)
 Word (Asaxi): mao
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: night-time; moon (see senses)
 tags:
   - Asaxi
@@ -15,6 +17,13 @@ tags:
 <span class="asaxi-script">mao</span>
 
 <span class="asaxi-script-alpha">mao</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · o</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
+
 ### Disambiguation
 **mao** has two lexicalised senses — generic references resolve here; pick the intended sense:
 

@@ -2,6 +2,8 @@
 freq: 46
 title: go (noun) - boulder, rock
 Word (Asaxi): go
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: boulder, rock
 trnsltion. Pl: skała, kamień
 tags:
@@ -21,6 +23,12 @@ cold
 
 ### Pronunciation
 IPA: /ɡo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

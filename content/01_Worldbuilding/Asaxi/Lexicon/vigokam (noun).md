@@ -2,6 +2,8 @@
 freq: 55
 title: vigokam (noun) - mill (grain-structure)
 Word (Asaxi): vigokam
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: mill (grain-structure)
 trnsltion. Pl: młyn
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪viɡo̞kam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · go · kam</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

@@ -2,6 +2,8 @@
 freq: 59
 title: embi (noun) - plane
 Word (Asaxi): embi
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: plane (geometry), flat surface, level, platform, zone
 trnsltion. Pl: płaszczyzna, poziom, tafla, strefa
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /em.bi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">e · mbi</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]

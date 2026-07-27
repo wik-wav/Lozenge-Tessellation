@@ -1,6 +1,8 @@
 ---
 title: jonojo (particle) - "One by one", "Item by item", "In sequence."
 Word (Asaxi): jonojo
+pitch_accent: L.L.L
+pitch_accent_class: atonal
 trnsltion. En: '"One by one", "Item by item", "In sequence."'
 tags:
   - Asaxi
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /ꞲonoꞲo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jo · no · jo</span>
+- **Pattern:** `L · L · L`
+- **Class:** `atonal`
 
 ### Etymology
 

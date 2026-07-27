@@ -2,6 +2,8 @@
 freq: 33
 title: siŕo (noun) - the great unknown, somewhere uncharted
 Word (Asaxi): siŕo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: the great unknown, somewhere uncharted
 trnsltion. Pl: bezdroża, gdzie diabeł mówi dobranoc
 tags:
@@ -22,6 +24,12 @@ cold
 
 ### Pronunciation
 IPA: /ɕiɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">siŕo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

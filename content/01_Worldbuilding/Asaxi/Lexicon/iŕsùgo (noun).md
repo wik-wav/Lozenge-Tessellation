@@ -2,6 +2,8 @@
 freq: 48
 title: iŕsùgo (noun) - gem, jewel (colour-crystal)
 Word (Asaxi): iŕsùgo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: gem, jewel (colour-crystal)
 trnsltion. Pl: klejnot
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /iɾsɯɡo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · ŕsù · go</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

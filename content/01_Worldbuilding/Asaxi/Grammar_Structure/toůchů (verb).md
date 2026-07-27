@@ -1,6 +1,8 @@
 ---
 title: toůchů (verb) - it seems
 Word (Asaxi): toůchů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: it seems
 tags:
   - Asaxi
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /touu̯t͡ʃu/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">to · ů · chů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Perception]]

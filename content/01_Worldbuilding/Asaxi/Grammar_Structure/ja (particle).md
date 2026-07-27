@@ -1,6 +1,8 @@
 ---
 title: ja (particle) - And
 Word (Asaxi): ja
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: And
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ tags:
 ### Pronunciation
 
 IPA: /Ʝa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ja</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Antonyms
 

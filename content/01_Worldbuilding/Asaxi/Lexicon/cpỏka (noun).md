@@ -2,6 +2,8 @@
 freq: 43
 title: cpỏka (noun) - broom (dust-tool)
 Word (Asaxi): cpỏka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: broom (dust-tool)
 trnsltion. Pl: miotła
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̻͡s̪pou̯ka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cpỏ · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

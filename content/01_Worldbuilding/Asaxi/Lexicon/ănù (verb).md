@@ -2,6 +2,8 @@
 freq: 65
 title: ănù (verb) - to rest, to repose
 Word (Asaxi): ănù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to rest, to repose
 trnsltion. Pl: odpoczywać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /aɪnɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă · nù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to rest, to repose

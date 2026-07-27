@@ -2,6 +2,8 @@
 freq: 51
 title: kjèmaka (noun) - basket
 Word (Asaxi): kjèmaka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: basket
 trnsltion. Pl: kosz, koszyk
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /kʲəmaka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè · ma · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

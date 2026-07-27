@@ -2,6 +2,8 @@
 freq: 63
 title: ŋono (noun) - weight, mass
 Word (Asaxi): ŋono
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: weight, mass, heaviness
 trnsltion. Pl: waga (ciężar), masa
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ŋono/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŋo · no</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Numerals]] / Physics

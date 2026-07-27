@@ -2,6 +2,8 @@
 freq: 50
 title: mmbja (verb) - to admire, to marvel at
 Word (Asaxi): mmbja
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: to admire, to marvel at
 trnsltion. Pl: podziwiać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /m̩bʲa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mm · bja</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to admire, to marvel at

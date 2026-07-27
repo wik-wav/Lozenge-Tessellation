@@ -2,6 +2,8 @@
 freq: 46
 title: pomo (noun) - dove, pigeon
 Word (Asaxi): pomo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: dove, pigeon
 trnsltion. Pl: gołąb
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /pomo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">po · mo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

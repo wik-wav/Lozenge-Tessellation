@@ -2,6 +2,8 @@
 freq: 54
 title: cùgo (noun) - clay
 Word (Asaxi): cùgo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: clay
 trnsltion. Pl: glina
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̻͡s̪ɯɡo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cù · go</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

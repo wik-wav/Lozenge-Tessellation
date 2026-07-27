@@ -2,6 +2,8 @@
 freq: 55
 title: këokanů (verb) - to hook
 Word (Asaxi): këokanů
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: to hook
 trnsltion. Pl: łapać na hak
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /keɪo̞kanuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kë · o · ka · nů</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to hook

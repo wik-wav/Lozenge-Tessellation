@@ -2,6 +2,8 @@
 freq: 41
 title: mibi (noun) - earring
 Word (Asaxi): mibi
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: earring
 trnsltion. Pl: kolczyk
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mibi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mi · bi</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

@@ -2,6 +2,8 @@
 freq: 55
 title: hjosùgo (noun) - diamond (star-crystal)
 Word (Asaxi): hjosùgo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: diamond (star-crystal)
 trnsltion. Pl: diament
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ço̞sɯɡo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hjo · sù · go</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

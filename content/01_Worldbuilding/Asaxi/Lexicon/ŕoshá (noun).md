@@ -2,6 +2,8 @@
 freq: 88
 title: ŕoshá (noun) - fish
 Word (Asaxi): ŕoshá
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: fish
 trnsltion. Pl: ryba
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾoʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · shá</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

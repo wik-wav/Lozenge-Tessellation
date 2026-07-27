@@ -2,6 +2,8 @@
 freq: 55
 title: aishů (verb) - to comfort, to console (strip sorrow)
 Word (Asaxi): aishů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to comfort, to console (strip sorrow)
 trnsltion. Pl: pocieszać
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /aiʃuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · i · shů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to comfort, to console (strip sorrow)

@@ -2,6 +2,8 @@
 freq: 88
 title: sigonů (verb) - to count, to tally
 Word (Asaxi): sigonů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to count, to tally
 trnsltion. Pl: liczyć
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /siɡo̞nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sigo · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to count, to tally

@@ -2,6 +2,8 @@
 freq: 60
 title: gùŕka (noun) - net (rope-tool)
 Word (Asaxi): gùŕka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: net (rope-tool)
 trnsltion. Pl: sieć
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡɯɾka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gù · ŕka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

@@ -2,6 +2,8 @@
 freq: 50
 title: fwùpỏno (noun) - sail
 Word (Asaxi): fwùpỏno
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: sail
 trnsltion. Pl: żagiel
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fʷɯpou̯no/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fwù · pỏ · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Motion]]

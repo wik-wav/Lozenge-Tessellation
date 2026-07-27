@@ -2,6 +2,8 @@
 freq: 66
 title: dam (Number) - 10, ten
 Word (Asaxi): dam, 10
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: 10, ten
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /d̪am/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dam</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Example sentence
 

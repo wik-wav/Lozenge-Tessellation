@@ -2,6 +2,8 @@
 freq: 60
 title: pỏmáka (noun) - bag, sack (cloth-vessel)
 Word (Asaxi): pỏmáka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: bag, sack (cloth-vessel)
 trnsltion. Pl: torba, worek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pou̯mɑka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pỏ · má · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

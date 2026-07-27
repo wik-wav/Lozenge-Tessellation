@@ -2,6 +2,8 @@
 freq: 50
 title: sùggo (noun) - marble (crystal-stone)
 Word (Asaxi): sùggo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: marble (crystal-stone)
 trnsltion. Pl: marmur
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /sɯɡɡo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sù · g · go</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

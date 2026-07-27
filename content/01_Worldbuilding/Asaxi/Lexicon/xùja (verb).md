@@ -2,6 +2,8 @@
 freq: 59
 title: xùja (verb) - to command, to order
 Word (Asaxi): xùja
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to command, to order
 trnsltion. Pl: rozkazywać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ɦɯja/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xù · ja</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to command, to order

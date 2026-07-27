@@ -2,6 +2,8 @@
 freq: 46
 title: chiŕů (verb) - to bleed (produce blood)
 Word (Asaxi): chiŕů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to bleed (produce blood)
 trnsltion. Pl: krwawić
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /t̠ʃiɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chi · ŕů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to bleed (produce blood)

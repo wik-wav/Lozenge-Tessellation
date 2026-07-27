@@ -2,6 +2,8 @@
 freq: 62
 title: ŕimxa (verb) - to focus, to concentrate
 Word (Asaxi): ŕimxa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to focus, to concentrate
 trnsltion. Pl: skupiać się
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɾimɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕi · mxa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to focus, to concentrate

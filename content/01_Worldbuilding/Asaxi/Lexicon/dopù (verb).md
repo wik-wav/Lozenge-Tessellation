@@ -2,6 +2,8 @@
 freq: 88
 title: dopù (verb) - to fall (drop down)
 Word (Asaxi): dopù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to fall (drop down)
 trnsltion. Pl: spadać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /do̞pɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">do · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to fall (drop down)

@@ -1,6 +1,8 @@
 ---
 title: hùwaśbi (noun) - hind leg
 Word (Asaxi): hùwaśbi
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: hind leg
 trnsltion. Pl: tylna noga
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /xɯʋaɕbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù · wa · śbi</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

@@ -2,6 +2,8 @@
 freq: 44
 title: kŕoshá (noun) - crocodile (jaw-creature)
 Word (Asaxi): kŕoshá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: crocodile (jaw-creature)
 trnsltion. Pl: krokodyl
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kɾo̞ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kŕo · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

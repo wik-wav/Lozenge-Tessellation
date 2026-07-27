@@ -1,6 +1,8 @@
 ---
 title: opa- (particle) - Immediate Future
 Word (Asaxi): opa-
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: immediate future ("about to")
 trnsltion. Pl: czas przyszły bliski
 tags:
@@ -25,6 +27,12 @@ tags:
 ### Pronunciation
 
 IPA: /o̞pa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · pa</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Etymology
 

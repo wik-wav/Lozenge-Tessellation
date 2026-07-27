@@ -1,6 +1,8 @@
 ---
 title: nivå (particle) - "While", "During".
 Word (Asaxi): nivå
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: While
 tags:
   - Asaxi
@@ -35,6 +37,12 @@ Placed at the **end** of the durative clause.
 ### Pronunciation
 
 IPA: /ɲivau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nivå</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

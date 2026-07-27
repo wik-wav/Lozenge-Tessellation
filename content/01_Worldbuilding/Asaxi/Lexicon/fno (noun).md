@@ -2,6 +2,8 @@
 freq: 15
 title: fno (noun) - eye floater, vitreous opacity
 Word (Asaxi): fno
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: eye floater, vitreous opacity, drifting speck, visual debris
 trnsltion. Pl: męt, męt ciałka szklistego, latająca muszka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 **IPA:** /fno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fno</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body|Smntc_Field The Human Body]]

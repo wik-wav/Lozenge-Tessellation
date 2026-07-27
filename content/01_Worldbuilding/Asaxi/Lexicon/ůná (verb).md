@@ -1,6 +1,8 @@
 ---
 title: ůná (verb) - to not be
 Word (Asaxi): ůná
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: not be
 trnsltion. Pl: nie być
 Transitivity: monotransitive
@@ -28,6 +30,12 @@ _monotransitive verb_
 
 ### Pronunciation
 IPA: /uu̯.nɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ů · ná</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to not be

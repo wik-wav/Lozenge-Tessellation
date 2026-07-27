@@ -2,6 +2,8 @@
 freq: 21
 title: ŋoŕů (verb) - to add weight, to weigh down
 Word (Asaxi): ŋoŕů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to add weight, to weigh down, to burden, to weigh upon (metaphorical)
 trnsltion. Pl: dociążyć, ciążyć (komuś), obciążać
 Transitivity: Transitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /ŋoɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŋo · ŕů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to add weight, to weigh down, to burden, to weigh upon (metaphorical)

@@ -2,6 +2,8 @@
 freq: 58
 title: tètájù (verb) - to blame, to scold
 Word (Asaxi): tètájù
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to blame, to scold
 trnsltion. Pl: ganić, winić
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̪ət̪ɑjɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tè · tá · jù</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to blame, to scold

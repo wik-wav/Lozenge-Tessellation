@@ -2,6 +2,8 @@
 freq: 57
 title: flamiŋshů (verb) - to hide
 Word (Asaxi): flamiŋshů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to hide, to conceal, to camouflage, to blend in, to stop showing off
 trnsltion. Pl: chować się
 Transitivity: intransitive, transitive
@@ -30,6 +32,12 @@ tags:
 ### Pronunciation
 IPA: /fla.mi.ŋ.ʃuw/
 *Morphology:* `flami` + `nŋ` (Reduced to `ŋ`) + `sh` + `ů`.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fla · mi · ŋshů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to hide, to conceal, to camouflage, to blend in, to stop showing off

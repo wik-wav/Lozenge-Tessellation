@@ -2,6 +2,8 @@
 freq: 70
 title: nihèko (noun) - the start, the beginning
 Word (Asaxi): nihèko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: the start, the beginning
 trnsltion. Pl: początek
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɲihəko/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nihè · ko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

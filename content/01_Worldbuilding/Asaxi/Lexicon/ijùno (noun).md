@@ -2,6 +2,8 @@
 freq: 88
 title: ijùno (noun) - word, utterance
 Word (Asaxi): ijùno
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: word, utterance
 trnsltion. Pl: słowo, wypowiedź
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ijɯno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jù · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Literature and Reading]] / [[Smntc_Field Communication]]

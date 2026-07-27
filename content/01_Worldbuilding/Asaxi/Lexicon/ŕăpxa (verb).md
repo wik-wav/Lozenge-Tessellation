@@ -2,6 +2,8 @@
 freq: 48
 title: ŕăpxa (verb) - to explode, to burst
 Word (Asaxi): ŕăpxa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to explode, to burst
 trnsltion. Pl: wybuchać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ɾaɪpʰa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · pxa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to explode, to burst

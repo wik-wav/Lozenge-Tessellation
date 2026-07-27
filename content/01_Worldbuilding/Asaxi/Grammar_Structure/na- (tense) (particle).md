@@ -1,6 +1,8 @@
 ---
 title: na- (tense) (particle), To re-do, to do again
 Word (Asaxi): na
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: To re-do, to do again
 tags:
   - Asaxi
@@ -14,6 +16,13 @@ tags:
 <span class="asaxi-script">na</span>
 
 <span class="asaxi-script-alpha">na</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">na</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Type:** Aspectual Prefix

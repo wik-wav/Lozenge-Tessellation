@@ -2,6 +2,8 @@
 freq: 42
 title: alănů (verb) - to loosen, to slacken
 Word (Asaxi): alănů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to loosen, to slacken, to untie, to relax (grip)
 trnsltion. Pl: poluzować, rozluźnić
 Transitivity: transitive
@@ -31,6 +33,12 @@ takes an object (the thing being loosened).
 
 ### Pronunciation
 IPA: /alaɪnuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · lă · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to loosen, to slacken, to untie, to relax (grip)

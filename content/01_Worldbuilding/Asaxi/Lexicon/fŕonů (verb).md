@@ -2,6 +2,8 @@
 freq: 60
 title: fŕonů (verb) - to map, to chart
 Word (Asaxi): fŕonů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to map, to chart
 trnsltion. Pl: mapować
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /fɾo̞nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fŕo · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to map, to chart

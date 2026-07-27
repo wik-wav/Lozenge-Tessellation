@@ -2,6 +2,8 @@
 freq: 48
 title: iŕonă (adjective) - colorful, multi-coloured
 Word (Asaxi): iŕonă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: colorful, multi-coloured, chromatic, vibrant
 trnsltion. Pl: kolorowy, barwny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /iɾonaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · ŕo · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]] / [[Smntc_Field Emotion]] (Personality)

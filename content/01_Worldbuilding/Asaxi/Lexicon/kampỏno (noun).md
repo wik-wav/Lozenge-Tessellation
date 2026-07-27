@@ -2,6 +2,8 @@
 freq: 56
 title: kampỏno (noun) - clothing, clothes
 Word (Asaxi): kampỏno
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: clothing, clothes
 trnsltion. Pl: ubranie, odzież
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /kampou̯no/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · mpỏ · no</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

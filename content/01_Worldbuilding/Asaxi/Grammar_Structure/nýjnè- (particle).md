@@ -1,6 +1,8 @@
 ---
 title: nýjnè- (particle) - least
 Word (Asaxi): nýjnè
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: least
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /nɪjnə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ný · jnè</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Etymology
 

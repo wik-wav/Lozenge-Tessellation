@@ -2,6 +2,8 @@
 freq: 53
 title: gaga (noun) - duck
 Word (Asaxi): gaga
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: duck
 trnsltion. Pl: kaczka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡaɡa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · ga</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

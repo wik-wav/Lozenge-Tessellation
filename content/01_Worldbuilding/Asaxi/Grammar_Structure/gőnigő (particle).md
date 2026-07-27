@@ -1,6 +1,8 @@
 ---
 title: gőnigő (particle) - Each other
 Word (Asaxi): gőnigő
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: Each other
 tags:
   - Asaxi
@@ -27,6 +29,12 @@ Used with plural subjects to indicate that the action is shared or exchanged bet
 ### Pronunciation
 
 IPA: /ɡoɪɲiɡoɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gő · nigő</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

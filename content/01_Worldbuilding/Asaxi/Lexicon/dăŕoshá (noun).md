@@ -2,6 +2,8 @@
 freq: 50
 title: dăŕoshá (noun) - whale (great-water-creature)
 Word (Asaxi): dăŕoshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: whale (great-water-creature)
 trnsltion. Pl: wieloryb
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪɾo̞ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · ŕo · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

@@ -2,6 +2,8 @@
 freq: 53
 title: friká (verb) - to forgive, to pardon
 Word (Asaxi): friká
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to forgive, to pardon
 trnsltion. Pl: wybaczać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /fɹikɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fri · ká</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to forgive, to pardon

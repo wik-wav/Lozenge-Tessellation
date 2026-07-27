@@ -2,6 +2,8 @@
 freq: 72
 title: nono (noun) - thing, object
 Word (Asaxi): nono
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: thing, object, item, article, entity (inanimate)
 trnsltion. Pl: rzecz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /nono/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">no · no</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Existence|Existence]], [[Smntc_Field Materials|Materials]]

@@ -2,6 +2,8 @@
 freq: 51
 title: kùfa (verb) - to fold
 Word (Asaxi): kùfa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to fold
 trnsltion. Pl: składać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kɯfa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kù · fa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to fold

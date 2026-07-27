@@ -2,6 +2,8 @@
 freq: 66
 title: gă-gă (noun) - somewhere
 Word (Asaxi): gă-gă
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: somewhere
 trnsltion. Pl: gdzieś
 tags:
@@ -21,6 +23,12 @@ Cold
 
 ### Pronunciation
 IPA: /ɡaɪ.ɡaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gă | gă</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]] / [[Smntc_Field Uncertainty]]

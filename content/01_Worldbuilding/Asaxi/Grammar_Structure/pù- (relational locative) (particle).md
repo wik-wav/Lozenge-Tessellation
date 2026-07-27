@@ -1,6 +1,8 @@
 ---
 title: pù- (relational locative) (particle) - Below, under, beneath.
 Word (Asaxi): pù-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: below
 tags:
   - Asaxi
@@ -33,6 +35,12 @@ Attaches to the front of the noun.
 ### Pronunciation
 
 IPA: /pɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

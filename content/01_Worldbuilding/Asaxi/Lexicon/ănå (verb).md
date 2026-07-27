@@ -2,6 +2,8 @@
 freq: 67
 title: ănå (verb) - to wait, to bide time
 Word (Asaxi): ănå
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to wait, to bide time, to anticipate, to expect
 trnsltion. Pl: czekać, oczekiwać
 Transitivity: transitive, intransitive
@@ -32,6 +34,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɪnau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă · nå</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to wait, to bide time, to anticipate, to expect

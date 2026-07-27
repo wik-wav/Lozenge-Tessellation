@@ -2,6 +2,8 @@
 freq: 44
 title: ăvi (noun) - correctness, perfection
 Word (Asaxi): ăvi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: correctness, perfection, faultlessness, rightness, accuracy
 trnsltion. Pl: poprawność, doskonałość, bezbłędność
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɪvi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă · vi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Value / Logic

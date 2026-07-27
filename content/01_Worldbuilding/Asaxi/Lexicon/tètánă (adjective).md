@@ -2,6 +2,8 @@
 freq: 54
 title: tètánă (adjective) - painful, hurtful
 Word (Asaxi): tètánă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: painful, hurtful
 trnsltion. Pl: bolesny
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /t̪ət̪ɑnaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tè · tá · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Health & Medicine]]

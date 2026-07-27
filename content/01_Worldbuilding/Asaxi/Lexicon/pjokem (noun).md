@@ -2,6 +2,8 @@
 freq: 60
 title: pjokem (noun) - window
 Word (Asaxi): pjokem
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: window
 trnsltion. Pl: okno
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pʲokem/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pjo · kem</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

@@ -1,6 +1,8 @@
 ---
 title: igùŕabashá (noun) - playfellow, playmate
 Word (Asaxi): igùŕabashá
+pitch_accent: H.L.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: playfellow, playmate
 trnsltion. Pl: towarzysz zabaw
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /iɡɯɾabaʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · gù · ŕa · ba · shá</span>
+- **Pattern:** `H · L · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

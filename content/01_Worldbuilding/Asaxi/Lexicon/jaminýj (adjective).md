@@ -2,6 +2,8 @@
 freq: 61
 title: jaminýj (adjective) - sick, ailing, ill
 Word (Asaxi): jaminýj
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: sick, ailing, ill
 trnsltion. Pl: chory
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /jaminɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ja · mi · nýj</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Health & Medicine]]

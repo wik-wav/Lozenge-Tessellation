@@ -2,6 +2,8 @@
 freq: 62
 title: fopù (verb) - to drop, to let fall
 Word (Asaxi): fopù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to drop, to let fall
 trnsltion. Pl: upuszczać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /fo̞pɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fo · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to drop, to let fall

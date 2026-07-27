@@ -2,6 +2,8 @@
 freq: 41
 title: ŕopo (noun) - puddle (water-spot)
 Word (Asaxi): ŕopo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: puddle (water-spot)
 trnsltion. Pl: kałuża
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾo̞po̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · po</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

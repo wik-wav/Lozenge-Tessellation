@@ -2,6 +2,8 @@
 freq: 88
 title: dëŕă (noun) - tail (of an animal)
 Word (Asaxi): dëŕă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: tail (of an animal)
 trnsltion. Pl: ogon (zwierzęcy)
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /deɪɾaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dë · ŕă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

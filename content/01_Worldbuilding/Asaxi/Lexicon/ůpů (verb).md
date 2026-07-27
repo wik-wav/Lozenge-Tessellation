@@ -2,6 +2,8 @@
 freq: 71
 title: ůpů (verb) - to feel (texture)
 Word (Asaxi): ůpů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to feel (texture)
 trnsltion. Pl: być w dotyku
 Transitivity: instransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /uu̯puu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ů · pů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to feel (texture), to feel like (to the touch)

@@ -1,6 +1,8 @@
 ---
 freq: 54
 Word (Asaxi): jhecè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: jet
 trnsltion. Pl: odrzutowiec
 tags:
@@ -22,6 +24,12 @@ title: jhecè (noun) - jet
 
 ### Pronunciation
 IPA: /d̠ʒet͡sə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jhe · cè</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]] / Transport

@@ -2,6 +2,8 @@
 freq: 48
 title: maoxi (noun) - eclipse (moon-sun)
 Word (Asaxi): maoxi
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: eclipse (moon-sun)
 trnsltion. Pl: zaćmienie
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mao̞ɦi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · o · xi</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

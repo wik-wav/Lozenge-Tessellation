@@ -2,6 +2,8 @@
 freq: 43
 title: nikxa (verb) - to betray, to turn on
 Word (Asaxi): nikxa
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: to betray, to turn on
 trnsltion. Pl: zdradzać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /nikʰa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nikxa</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to betray, to turn on

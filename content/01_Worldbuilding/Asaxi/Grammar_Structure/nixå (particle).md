@@ -1,6 +1,8 @@
 ---
 title: nixå (particle) - For the duration of
 Word (Asaxi): nixå
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: For the duration of
 tags:
   - Asaxi
@@ -38,6 +40,12 @@ Occupies a **Temporal Argument** slot, typically appearing before the verb.
 ### Pronunciation
 
 IPA: /ɲiɦau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nixå</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

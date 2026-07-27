@@ -2,6 +2,8 @@
 freq: 47
 title: ŋawa (verb) - to crawl
 Word (Asaxi): ŋawa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to crawl
 trnsltion. Pl: pełzać, czołgać się
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ŋaʋa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŋa · wa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to crawl

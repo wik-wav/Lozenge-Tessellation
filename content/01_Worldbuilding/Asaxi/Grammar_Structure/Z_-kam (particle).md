@@ -1,6 +1,8 @@
 ---
 title: kam (Number Suffix) - A group of
 Word (Asaxi): -kam
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: A group of
 tags:
   - Asaxi
@@ -14,6 +16,13 @@ tags:
 <span class="asaxi-script">-kam</span>
 
 <span class="asaxi-script-alpha">-kam</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kam</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Type:** Number Suffix

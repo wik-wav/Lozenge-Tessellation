@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): pù-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: part of, devided by
 tags:
   - Asaxi
@@ -14,6 +16,13 @@ title: pù- (number) (particle) - "Part of" "Divided by"
 <span class="asaxi-script">pù-</span>
 
 <span class="asaxi-script-alpha">pù-</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Type:** Number Prefix

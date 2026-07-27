@@ -2,6 +2,8 @@
 freq: 67
 title: pa (noun) - the future
 Word (Asaxi): pa
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: the future
 trnsltion. Pl: przyszłość
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pa</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

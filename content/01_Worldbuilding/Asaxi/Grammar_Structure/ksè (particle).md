@@ -1,6 +1,8 @@
 ---
 title: ksè (particle) - Why?
 Word (Asaxi): ksè
+pitch_accent: H
+pitch_accent_class: dominant
 trnsltion. En: Why?
 tags:
   - Asaxi
@@ -22,6 +24,12 @@ tags:
 ### Pronunciation
 
 IPA: /ksə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ksè</span>
+- **Pattern:** `H`
+- **Class:** `dominant`
 
 ### Etymology
 

@@ -2,6 +2,8 @@
 freq: 58
 title: fůŕăijonă (adjective) - weak, feeble
 Word (Asaxi): fůŕăijonă
+pitch_accent: H.L.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: weak, feeble
 trnsltion. Pl: słaby
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /fuu̯ɾaɪijo̞naɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · ŕă · i · jo · nă</span>
+- **Pattern:** `H · L · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Health & Medicine]]

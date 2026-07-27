@@ -2,6 +2,8 @@
 freq: 47
 title: tëpỏ (noun) - glove
 Word (Asaxi): tëpỏ
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: glove
 trnsltion. Pl: rękawica
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪eɪpou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">të · pỏ</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

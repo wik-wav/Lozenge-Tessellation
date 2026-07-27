@@ -2,6 +2,8 @@
 freq: 35
 title: shágoŕů (verb) - to sculpt, to carve a figure
 Word (Asaxi): shágoŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to sculpt, to carve a figure
 trnsltion. Pl: rzeźbić
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ʃɑɡo̞ɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shá · go · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to sculpt, to carve a figure

@@ -2,6 +2,8 @@
 freq: 67
 title: jùni (noun) - university, college
 Word (Asaxi): jùni
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: university, college, uni, academy
 trnsltion. Pl: uniwersytet, uczelnia
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /jɯɲi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jùni</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]] / Education

@@ -1,6 +1,8 @@
 ---
 title: chěná (particle) - "Unless", "Except if".
 Word (Asaxi): chěná
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: Unless
 tags:
   - Asaxi
@@ -34,6 +36,12 @@ Placed at the **end** of the exception clause.
 ### Pronunciation
 
 IPA: /tʃɚnɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chě · ná</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Example sentence
 

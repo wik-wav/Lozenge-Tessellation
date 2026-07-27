@@ -1,6 +1,8 @@
 ---
 title: gămă (particle) - "Whenever", "At any time", "Every time that...".
 Word (Asaxi): gămă
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: whenever
 tags:
   - Asaxi
@@ -33,6 +35,12 @@ Placed at the **end** of the clause (Head-Final) or used as a response.
 ### Pronunciation
 
 IPA: /ɡaɪmaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gă · mă</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

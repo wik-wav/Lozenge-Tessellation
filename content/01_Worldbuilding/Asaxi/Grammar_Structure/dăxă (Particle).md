@@ -1,6 +1,8 @@
 ---
 title: dăxă (particle) - "Hopefully", "I wish", "Desirably".
 Word (Asaxi): dăxă
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: hopefully
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /daɪɦaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · xă</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

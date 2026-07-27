@@ -1,6 +1,8 @@
 ---
 title: kjo (particle) - What?
 Word (Asaxi): kjo
+pitch_accent: H
+pitch_accent_class: dominant
 trnsltion. En: What?
 tags:
   - Asaxi
@@ -14,6 +16,13 @@ tags:
 <span class="asaxi-script">kjo</span>
 
 <span class="asaxi-script-alpha">kjo</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjo</span>
+- **Pattern:** `H`
+- **Class:** `dominant`
+
 ### Grammatical function
 
 - **Type:** Interrogative Pronoun (Inanimate)

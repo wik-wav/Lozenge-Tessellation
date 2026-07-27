@@ -2,6 +2,8 @@
 freq: 67
 title: ănå (verb) - a wait, a delay
 Word (Asaxi): ănåno
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: a wait, a delay, a pause, a period of waiting, an interval
 trnsltion. Pl: czekanie, postój, zwłoka, okres oczekiwania
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɪnau̯no/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă · nå · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]] / [[Smntc_Field Emotion]] (Patience)

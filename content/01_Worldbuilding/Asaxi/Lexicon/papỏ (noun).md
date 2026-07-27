@@ -2,6 +2,8 @@
 freq: 42
 title: papỏ (noun) - apron
 Word (Asaxi): papỏ
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: apron
 trnsltion. Pl: fartuch
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /papou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pa · pỏ</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

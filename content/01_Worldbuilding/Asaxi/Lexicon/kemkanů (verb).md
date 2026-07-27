@@ -2,6 +2,8 @@
 freq: 49
 title: kemkanů (verb) - to unlock, to key
 Word (Asaxi): kemkanů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to unlock, to key
 trnsltion. Pl: otwierać kluczem
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ke̞mkanuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ke · mka · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to unlock, to key

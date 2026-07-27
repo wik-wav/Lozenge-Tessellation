@@ -2,6 +2,8 @@
 freq: 59
 title: ůzhů (verb) - to taste, to have a flavor
 Word (Asaxi): ůzhů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to taste
 trnsltion. Pl: smakować
 Transitivity: intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /uu̯ʑuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ů · zhů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to taste, to have a flavor

@@ -2,6 +2,8 @@
 freq: 57
 title: xaka (verb) - to hang, to suspend
 Word (Asaxi): xaka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to hang, to suspend
 trnsltion. Pl: wieszać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɦaka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to hang, to suspend

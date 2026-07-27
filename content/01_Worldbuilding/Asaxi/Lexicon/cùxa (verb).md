@@ -2,6 +2,8 @@
 freq: 49
 title: cùxa (verb) - to bury, to plant in soil
 Word (Asaxi): cùxa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to bury, to plant in soil
 trnsltion. Pl: zakopywać, sadzić
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪ɯɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cù · xa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to bury, to plant in soil

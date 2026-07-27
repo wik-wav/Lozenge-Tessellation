@@ -1,6 +1,8 @@
 ---
 title: nåsi (particle) - "Never", "at no time".
 Word (Asaxi): nåsi
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: never
 tags:
   - Asaxi
@@ -16,6 +18,13 @@ aliases:
 <span class="asaxi-script">nåsi</span>
 
 <span class="asaxi-script-alpha">nåsi</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nåsi</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Type:** Frequency Particle / Adverb

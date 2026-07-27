@@ -2,6 +2,8 @@
 freq: 42
 title: mëbi (noun) - eyebrow
 Word (Asaxi): mëbi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: eyebrow
 trnsltion. Pl: brew
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /meɪbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">më · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

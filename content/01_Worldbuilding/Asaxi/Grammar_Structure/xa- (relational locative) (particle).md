@@ -1,6 +1,8 @@
 ---
 title: xa- (relational locative) (particle) - above
 Word (Asaxi): xa-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: above
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ Attaches to the front of the noun.
 ### Pronunciation
 
 IPA: /ɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

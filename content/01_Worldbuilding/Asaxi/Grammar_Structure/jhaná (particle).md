@@ -1,6 +1,8 @@
 ---
 title: jhaná (particle) - but-not; links two nouns or more nouns
 Word (Asaxi): jhaná
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: but-not
 tags:
   - Asaxi
@@ -30,6 +32,12 @@ tags:
 ### Pronunciation
 
 IPA: /d̠ʒanɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jha · ná</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Etymology
 

@@ -2,6 +2,8 @@
 freq: 36
 title: waonă (adjective) - homely, familiar
 Word (Asaxi): waonă
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: homely, familiar, cozy, worldly (in a belonging sense)
 trnsltion. Pl: swojski, domowy, znajomy
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /wa.o.naɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wa · o · nă</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Comfort

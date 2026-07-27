@@ -2,6 +2,8 @@
 freq: 49
 title: gámm (noun) - gum, resin
 Word (Asaxi): gámm
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: gum, resin, glue, sticky substance
 trnsltion. Pl: guma, żywica, klej
 tags:
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 IPA: /ɡɑm̩/
 *Note:* The `mm` indicates a heavy/long final consonant or syllabic weight, distinct from `gam` (which might be a reduced form). `á` represents /ɑ/.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gá · mm</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

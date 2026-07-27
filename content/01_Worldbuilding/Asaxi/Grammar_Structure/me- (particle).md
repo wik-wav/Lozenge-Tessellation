@@ -1,6 +1,8 @@
 ---
 title: me- (particle) - about, roughtly
 Word (Asaxi): me-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: about, roughtly
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /me/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">me</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Etymology
 

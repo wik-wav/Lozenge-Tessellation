@@ -2,6 +2,8 @@
 freq: 57
 title: kxejù (verb) - to describe
 Word (Asaxi): kxejù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to describe
 trnsltion. Pl: opisywać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kʰe̞jɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kxe · jù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to describe

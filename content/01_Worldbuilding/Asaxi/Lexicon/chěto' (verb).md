@@ -2,6 +2,8 @@
 freq: 52
 title: chěto' (verb) - halt, stand still
 Word (Asaxi): chěto'
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: halt, stand still, stop walking
 trnsltion. Pl: stanąć, zatrzymać się (w miejscu)
 Transitivity: ambitransitive
@@ -34,6 +36,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̠ʃɚt̪oʔ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chě · to'</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to halt, to stop walking, to freeze, to arrest motion

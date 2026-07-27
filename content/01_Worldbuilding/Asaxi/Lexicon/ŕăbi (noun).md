@@ -2,6 +2,8 @@
 freq: 52
 title: ŕăbi (noun) - arrow (swift-rod)
 Word (Asaxi): ŕăbi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: arrow (swift-rod)
 trnsltion. Pl: strzała
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɪbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

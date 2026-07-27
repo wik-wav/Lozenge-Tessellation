@@ -1,6 +1,8 @@
 ---
 title: ŕochỏŕů (verb) - to be thirsty (lit. to generate thirst)
 Word (Asaxi): ŕochỏŕů
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: to be thirsty (lit. to generate thirst)
 trnsltion. Pl: być spragnionym
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_ — state predicate; the experiencer is the subject (often with t
 
 ### Pronunciation
 IPA: /ɾot̠ʃou̯ɾuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · chỏ · ŕů</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to be thirsty (lit. to generate thirst)

@@ -2,6 +2,8 @@
 freq: 52
 title: xajaŕă (noun) - eagle (high-bird)
 Word (Asaxi): xajaŕă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: eagle (high-bird)
 trnsltion. Pl: orzeł
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦajaɾaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · ja · ŕă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

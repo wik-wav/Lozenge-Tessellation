@@ -2,6 +2,8 @@
 freq: 88
 title: hùwo (noun) - the back
 Word (Asaxi): hùwo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: the back
 trnsltion. Pl: tył
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /xɯʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù · wo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

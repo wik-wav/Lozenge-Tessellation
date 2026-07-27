@@ -1,6 +1,8 @@
 ---
 title: jýnoka (noun) - musical instrument
 Word (Asaxi): jýnoka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: musical instrument
 trnsltion. Pl: instrument muzyczny
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /jɪnoka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jý · no · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Arts]]

@@ -2,6 +2,8 @@
 freq: 54
 title: kŕaga (verb) - to drag, to haul
 Word (Asaxi): kŕaga
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to drag, to haul
 trnsltion. Pl: ciągnąć, wlec
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kɾaɡa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kŕa · ga</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to drag, to haul

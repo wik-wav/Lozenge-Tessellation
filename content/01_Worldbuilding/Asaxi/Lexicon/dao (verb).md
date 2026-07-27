@@ -2,6 +2,8 @@
 freq: 88
 title: dao (verb) - to give
 Word (Asaxi): dao
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to give
 trnsltion. Pl: dać
 Transitivity: intransitive, ditransitive
@@ -36,6 +38,12 @@ takes three, e.g. He(1) gave her(2) a flower(3).
 
 ### Pronunciation
 IPA: /da.o/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">da · o</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: give

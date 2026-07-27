@@ -1,6 +1,8 @@
 ---
 title: nèŕa (Stative Particle) - nie być
 Word (Asaxi): nèŕa
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: not be
 trnsltion. Pl: nie być
 tags:
@@ -53,6 +55,12 @@ tags:
 ### Pronunciation
 
 IPA: /nəɾa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nè · ŕa</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Antonyms
 

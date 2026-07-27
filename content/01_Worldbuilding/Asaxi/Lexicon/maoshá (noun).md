@@ -2,6 +2,8 @@
 freq: 54
 title: maoshá (noun) - bat (night-creature)
 Word (Asaxi): maoshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: bat (night-creature)
 trnsltion. Pl: nietoperz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mao̞ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · o · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

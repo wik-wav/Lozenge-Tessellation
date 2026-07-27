@@ -2,6 +2,8 @@
 freq: 52
 title: fůŕăijo (noun) - weakness, powerlessness
 Word (Asaxi): fůŕăijo
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: weakness, powerlessness, frailty
 trnsltion. Pl: słabość, niemoc
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /fuu̯ɾaɪiꞲo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · ŕă · i · jo</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / State

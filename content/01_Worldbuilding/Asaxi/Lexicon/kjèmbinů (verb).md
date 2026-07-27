@@ -2,6 +2,8 @@
 freq: 88
 title: kjèmbinů (verb) - to play (games), to scheme
 Word (Asaxi): kjèmbinů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to play (games), to scheme, to plot, to trick, to hustle
 trnsltion. Pl: grać, kombinować
 Transitivity: intransitive, transitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /kʲəmbinuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè · mbi · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to play (games), to scheme, to plot, to trick, to hustle

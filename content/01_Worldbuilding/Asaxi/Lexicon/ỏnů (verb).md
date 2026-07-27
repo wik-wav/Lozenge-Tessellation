@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): ỏnů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to be in the middle of, to center, to bisect
 trnsltion. Pl: być w środku, pośrodku
 Transitivity: transitive
@@ -29,6 +31,12 @@ Takes the location/container as the object.
 
 ### Pronunciation
 IPA: /ou̯nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ỏ · nů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to be in the middle of, to center, to bisect

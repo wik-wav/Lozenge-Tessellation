@@ -1,6 +1,8 @@
 ---
 title: jỏ (particle) - adds a casual, street-slang, or rough tone to the statement
 Word (Asaxi): jỏ
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: yo. hey.
 tags:
   - Asaxi
@@ -28,6 +30,12 @@ Placed at the **very end** of the sentence (Post-Predicate Tail). It adds a casu
 ### Pronunciation
 
 IPA: /Ʝou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jỏ</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

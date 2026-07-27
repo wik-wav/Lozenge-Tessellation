@@ -2,6 +2,8 @@
 freq: 88
 title: gosixů (verb) - to salt
 Word (Asaxi): gosixů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to salt
 trnsltion. Pl: solić
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɡo̞siɦuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go · sixů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to salt

@@ -1,6 +1,8 @@
 ---
 title: hùnå (particle) - Already
 Word (Asaxi): hùnå
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: Already
 tags:
   - Asaxi
@@ -14,6 +16,13 @@ tags:
 <span class="asaxi-script">hùnå</span>
 
 <span class="asaxi-script-alpha">hùnå</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù · nå</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Type:** Temporal Particle / Aspectual Adverb

@@ -2,6 +2,8 @@
 freq: 88
 title: shěsoŕů (verb) - to write, to author (a work)
 Word (Asaxi): shěsoŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to write, to author (a work)
 trnsltion. Pl: pisać, tworzyć (dzieło)
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ʃɚsoɾuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shě · so · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to write, to author (a work)

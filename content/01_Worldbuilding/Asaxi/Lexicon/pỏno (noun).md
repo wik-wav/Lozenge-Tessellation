@@ -2,6 +2,8 @@
 freq: 50
 title: pỏno (noun) - cloth, fabric
 Word (Asaxi): pỏno
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: cloth, fabric
 trnsltion. Pl: tkanina, materiał
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /pou̯no/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pỏ · no</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

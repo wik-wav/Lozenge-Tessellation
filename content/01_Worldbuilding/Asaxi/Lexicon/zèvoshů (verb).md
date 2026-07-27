@@ -2,6 +2,8 @@
 freq: 32
 title: zèvoshů (verb) - to defame, to slander
 Word (Asaxi): zèvoshů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to defame
 trnsltion. Pl: zniesławiać
 Transitivity: transitive
@@ -30,6 +32,12 @@ takes two, e.g. *He(1) defamed the hero(2).*
 
 ### Pronunciation
 IPA: /zəvoʃuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zè · vo · shů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to defame, to slander, to strip of a title, to disgrace, to un-name

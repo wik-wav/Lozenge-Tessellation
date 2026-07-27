@@ -1,6 +1,8 @@
 ---
 title: shăxi (noun) - week (seven-day span)
 Word (Asaxi): shăxi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: week (seven-day span)
 trnsltion. Pl: tydzień
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /ʃaɪɦi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shă · xi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

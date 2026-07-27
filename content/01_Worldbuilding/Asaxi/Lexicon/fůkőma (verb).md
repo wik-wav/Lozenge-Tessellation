@@ -1,6 +1,8 @@
 ---
 title: fůkőma (verb) - to take understanding for granted
 Word (Asaxi): fůkőma
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to take understanding for granted
 trnsltion. Pl: wykorzystywać czyjeś zrozumienie
 Transitivity: transitive
@@ -32,6 +34,12 @@ Describes a state where the subject receives understanding (is understood) but f
 
 ### Pronunciation
 IPA: /fuu̯koɪma/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · kő · ma</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to take being understood for granted; to be understood without reciprocating

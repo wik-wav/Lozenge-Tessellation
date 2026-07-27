@@ -2,6 +2,8 @@
 freq: 50
 title: xokŕo (noun) - ladder (climb-frame)
 Word (Asaxi): xokŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: ladder (climb-frame)
 trnsltion. Pl: drabina
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦo̞kɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · kŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

@@ -2,6 +2,8 @@
 freq: 59
 title: kxe (noun) - shape, form
 Word (Asaxi): kxe
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: shape, form, figure, geometry
 trnsltion. Pl: kształt, forma, figura
 tags:
@@ -21,6 +23,12 @@ Cold
 
 ### Pronunciation
 IPA: /kʰe/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kxe</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]] / [[Smntc_Field Appearance]]

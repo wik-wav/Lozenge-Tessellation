@@ -2,6 +2,8 @@
 freq: 56
 title: iŕoŕů (verb) - to colour, to generate colour
 Word (Asaxi): iŕoŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to colour, to generate colour
 trnsltion. Pl: kolorować
 Transitivity: transitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /iɾoɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · ŕo · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to colour, to paint, to dye, to tint

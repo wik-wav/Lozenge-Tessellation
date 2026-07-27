@@ -1,6 +1,8 @@
 ---
 title: måmå (particle) - up to, until, as far as
 Word (Asaxi): måmå
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: up to, until, as far as
 trnsltion. En 2: the end (story-closing formula)
 trnsltion. Pl 2: koniec (formuła zamykająca opowieść)
@@ -27,6 +29,12 @@ aliases:
 ### Pronunciation
 
 IPA: /mau̯mau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">må · må</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Example sentence
 

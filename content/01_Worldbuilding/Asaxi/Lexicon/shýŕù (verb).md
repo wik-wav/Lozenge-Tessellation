@@ -2,6 +2,8 @@
 freq: 88
 title: shýŕù (verb) - to freeze
 Word (Asaxi): shýŕù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to freeze
 trnsltion. Pl: zamarzać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ʃɪɾɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shý · ŕù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to freeze

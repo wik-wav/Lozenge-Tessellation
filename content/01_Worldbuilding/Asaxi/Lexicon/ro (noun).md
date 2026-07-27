@@ -2,6 +2,8 @@
 freq: 59
 title: ro (noun) - iron (metal)
 Word (Asaxi): ro
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: iron (metal)
 trnsltion. Pl: żelazo
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɹo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ro</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

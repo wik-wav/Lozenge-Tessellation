@@ -1,6 +1,8 @@
 ---
 title: panå (particle) - Not yet
 Word (Asaxi): panå
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: Not yet
 tags:
   - Asaxi
@@ -35,6 +37,12 @@ Placed at the **end** of the sentence.
 ### Pronunciation
 
 IPA: /panau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pa · nå</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

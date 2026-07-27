@@ -2,6 +2,8 @@
 freq: 55
 title: këoka (noun) - hook (beak-tool)
 Word (Asaxi): këoka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: hook (beak-tool)
 trnsltion. Pl: hak
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /keɪo̞ka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kë · o · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

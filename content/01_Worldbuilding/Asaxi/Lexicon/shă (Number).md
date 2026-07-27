@@ -2,6 +2,8 @@
 freq: 69
 title: shă (Number) - 7, seven
 Word (Asaxi): shă, 7
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: 7, seven
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʃaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shă</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Example sentence
 

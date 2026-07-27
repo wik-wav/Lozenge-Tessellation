@@ -2,6 +2,8 @@
 freq: 49
 title: pjova (verb) - to glow
 Word (Asaxi): pjova
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to glow
 trnsltion. Pl: żarzyć się
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /pʲo̞b̪va/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pjo · va</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to glow

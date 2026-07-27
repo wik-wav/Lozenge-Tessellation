@@ -1,6 +1,8 @@
 ---
 title: iŕè (particle) - indicates shock, disbelief, or refusal to accept a situation
 Word (Asaxi): iŕè
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: indicates shock, disbelief, or refusal to accept a situation.
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ Used to indicate shock, disbelief, or refusal to accept a situation. It implies 
 ### Pronunciation
 
 IPA: /iɾə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · ŕè</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Antonyms
 

@@ -2,6 +2,8 @@
 freq: 51
 title: zhåxa (verb) - to scare, to frighten
 Word (Asaxi): zhåxa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to scare, to frighten
 trnsltion. Pl: straszyć
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /z̪xau̯ɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zhå · xa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to scare, to frighten

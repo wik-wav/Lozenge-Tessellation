@@ -2,6 +2,8 @@
 freq: 88
 title: fùcù (verb) - to clean, wash, cleanse
 Word (Asaxi): fùcù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to clean, wash, cleanse
 trnsltion. Pl: czyścić, myć
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /fɯt͡sɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fù · cù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to clean, wash, cleanse

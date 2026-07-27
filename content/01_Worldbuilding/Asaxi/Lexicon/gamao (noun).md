@@ -2,6 +2,8 @@
 freq: 88
 title: gamao (noun) - black
 Word (Asaxi): gamao
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: black
 trnsltion. Pl: czarny
 tags:
@@ -25,6 +27,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡamao/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · ma · o</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

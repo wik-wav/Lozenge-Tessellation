@@ -2,6 +2,8 @@
 freq: 30
 title: kxetxashá (noun) - shapeshifter, polymorph
 Word (Asaxi): kxetxashá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: shapeshifter, polymorph, changeling
 trnsltion. Pl: zmiennokształtny
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /kʰetʰaʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kxe · txa · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Illusions]]

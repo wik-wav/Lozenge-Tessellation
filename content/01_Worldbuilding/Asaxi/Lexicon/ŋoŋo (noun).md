@@ -2,6 +2,8 @@
 freq: 46
 title: ŋoŋo (noun) - snail
 Word (Asaxi): ŋoŋo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: snail
 trnsltion. Pl: ślimak
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ŋo̞ŋo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŋo · ŋo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

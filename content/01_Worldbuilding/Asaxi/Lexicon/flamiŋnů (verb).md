@@ -2,6 +2,8 @@
 freq: 51
 title: flamiŋnů (verb) - to pose
 Word (Asaxi): flamiŋnů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to pose
 trnsltion. Pl: pozować
 tags:
@@ -18,6 +20,12 @@ tags:
 <span class="asaxi-script-alpha">flamiŋnů</span>
 ### Pronunciation
 IPA: /fla.miŋ.nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fla · mi · ŋnů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Behaviour]] / Posture

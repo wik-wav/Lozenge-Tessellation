@@ -1,6 +1,8 @@
 ---
 title: anő (particle) - a
 Word (Asaxi): anő
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: a
 tags:
   - language
@@ -32,3 +34,10 @@ tags:
 
 
 IPA: /anoɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · nő</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
+

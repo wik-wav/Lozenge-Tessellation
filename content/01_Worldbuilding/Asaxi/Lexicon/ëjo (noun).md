@@ -2,6 +2,8 @@
 freq: 37
 title: ëjo (noun) - fractal, self-similar pattern
 Word (Asaxi): ëjo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: fractal, self-similar pattern, recursive shape
 trnsltion. Pl: fraktal
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /eɪjo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ë · jo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]] / Math

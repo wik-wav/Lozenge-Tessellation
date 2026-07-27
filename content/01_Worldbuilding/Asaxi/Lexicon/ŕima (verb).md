@@ -2,6 +2,8 @@
 freq: 41
 title: ŕima (verb) - to meditate, to think
 Word (Asaxi): ŕima
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to meditate, to think
 trnsltion. Pl: medytować, myśleć
 Transitivity: Intransitive, monotransitive
@@ -32,6 +34,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾima/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕi · ma</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to meditate, to think, to ponder, to reflect, to contemplate

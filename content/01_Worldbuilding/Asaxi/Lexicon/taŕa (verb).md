@@ -2,6 +2,8 @@
 freq: 63
 title: taŕa (verb) - to listen
 Word (Asaxi): taŕa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to listen
 trnsltion. Pl: słuchać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̪aɾa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ta · ŕa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to listen

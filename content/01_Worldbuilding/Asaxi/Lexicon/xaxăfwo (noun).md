@@ -2,6 +2,8 @@
 freq: 36
 title: xaxăfwo (noun) - stratosphere, upper atmosphere
 Word (Asaxi): xaxăfwo
+pitch_accent: L.H.H
+pitch_accent_class: mixed
 trnsltion. En: stratosphere, upper atmosphere, high heavens
 trnsltion. Pl: stratosfera
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦaɦaɪfʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · xă · fwo</span>
+- **Pattern:** `L · H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

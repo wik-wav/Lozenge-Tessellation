@@ -2,6 +2,8 @@
 freq: 49
 title: tëko (noun) - fist
 Word (Asaxi): tëko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: fist
 trnsltion. Pl: pięść
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪eɪko̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">të · ko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

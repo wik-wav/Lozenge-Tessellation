@@ -2,6 +2,8 @@
 freq: 46
 title: fwè (noun) - mist / haze
 Word (Asaxi): fwè
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: mist / haze
 trnsltion. Pl: mgiełka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fʷə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fwè</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

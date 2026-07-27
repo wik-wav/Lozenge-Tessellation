@@ -2,6 +2,8 @@
 freq: 17
 title: hùsonýj (adjective) - pale yellow, wan, sallow
 Word (Asaxi): hùsonýj
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: pale yellow, wan, sallow, washed-out
 trnsltion. Pl: bladożółty, ziemisty
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /xɯsonɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù · so · nýj</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

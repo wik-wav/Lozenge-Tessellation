@@ -2,6 +2,8 @@
 freq: 88
 title: dăofwo (noun) - cloud
 Word (Asaxi): dăofwo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: cloud
 trnsltion. Pl: chmura
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪofʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · o · fwo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

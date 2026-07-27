@@ -2,6 +2,8 @@
 freq: 50
 title: fasá (noun) - bean (Pl. *fasola*)
 Word (Asaxi): fasá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: bean (Pl. *fasola*)
 trnsltion. Pl: fasola
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fasɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fa · sá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

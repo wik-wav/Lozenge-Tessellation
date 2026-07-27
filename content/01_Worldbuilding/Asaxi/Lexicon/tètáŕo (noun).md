@@ -2,6 +2,8 @@
 freq: 56
 title: tètáŕo (noun) - wound, injury
 Word (Asaxi): tètáŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: wound, injury
 trnsltion. Pl: rana
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪ət̪ɑɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tè · tá · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Health & Medicine]]

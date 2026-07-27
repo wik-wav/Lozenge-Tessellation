@@ -2,6 +2,8 @@
 freq: 47
 title: tambi (particle) - Equals, is equivalent to.
 Word (Asaxi): tambi
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: equals
 tags:
   - Asaxi
@@ -15,6 +17,13 @@ tags:
 <span class="asaxi-script">tambi</span>
 
 <span class="asaxi-script-alpha">tambi</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ta · mbi</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
+
 ### Grammatical function
 - **Type:** Mathematical Operator / Verb
 - **Meaning:** Equals, is equivalent to.

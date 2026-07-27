@@ -1,6 +1,8 @@
 ---
 title: ozè (particle) - just now, the immediate past
 Word (Asaxi): ozè
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: just now, the immediate past
 trnsltion. Pl: przed chwilą
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /ozə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · zè</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Semantic Field
 [[Smntc_Field Time]]

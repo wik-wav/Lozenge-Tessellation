@@ -2,6 +2,8 @@
 freq: 46
 title: txempỏ (noun) - scarf
 Word (Asaxi): txempỏ
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: scarf
 trnsltion. Pl: szalik
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪ʰempou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">txe · mpỏ</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

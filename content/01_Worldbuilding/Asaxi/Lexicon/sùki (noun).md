@@ -2,6 +2,8 @@
 freq: 88
 title: sùki (noun) - love, affection
 Word (Asaxi): sùki
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: love, affection, liking, preference
 trnsltion. Pl: miłość,
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /sɯki/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sù · ki</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]]

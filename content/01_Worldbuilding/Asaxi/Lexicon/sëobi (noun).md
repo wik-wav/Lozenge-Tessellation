@@ -2,6 +2,8 @@
 freq: 46
 title: sëobi (noun) - spear (point-rod)
 Word (Asaxi): sëobi
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: spear (point-rod)
 trnsltion. Pl: włócznia
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /seɪo̞bi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">së · o · bi</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

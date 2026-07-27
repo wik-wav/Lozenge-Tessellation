@@ -2,6 +2,8 @@
 freq: 68
 title: waoŕo (noun) - country, land, nation
 Word (Asaxi): waoŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: country, land, nation
 trnsltion. Pl: kraj, państwo
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʋao̞ɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wa · o · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

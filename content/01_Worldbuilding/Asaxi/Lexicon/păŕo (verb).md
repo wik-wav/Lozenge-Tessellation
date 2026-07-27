@@ -2,6 +2,8 @@
 freq: 49
 title: păŕo (verb) - to emerge (to surface)
 Word (Asaxi): păŕo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: to emerge (to surface)
 trnsltion. Pl: wynurzać się
 Transitivity: intransitive
@@ -33,6 +35,12 @@ To come out of liquid/depth.
 
 ### Pronunciation
 IPA: /paɪɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pă · ŕo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to emerge, to surface, to come up for air

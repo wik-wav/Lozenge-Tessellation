@@ -2,6 +2,8 @@
 freq: 59
 title: jovi (noun) - beauty
 Word (Asaxi): jovi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: beauty
 trnsltion. Pl: piękno
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /jovi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jo · vi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Arts]]

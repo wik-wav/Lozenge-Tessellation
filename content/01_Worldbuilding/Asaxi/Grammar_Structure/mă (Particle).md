@@ -1,6 +1,8 @@
 ---
 title: mă (particle) - every, per, each (in a temporal sense)
 Word (Asaxi): mă
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: every, per, each
 trnsltion. Pl: co (częstotliwość)
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /maɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mă</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Translations
 

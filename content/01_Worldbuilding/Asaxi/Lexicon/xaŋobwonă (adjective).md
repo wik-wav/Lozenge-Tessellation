@@ -1,6 +1,8 @@
 ---
 title: xaŋobwonă (adjective) - morbidly obese, dangerously fat
 Word (Asaxi): xaŋobwonă
+pitch_accent: L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: morbidly obese, dangerously fat, grotesque
 trnsltion. Pl: chorobliwie otyły
 tags:
@@ -26,6 +28,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ɦaŋobʷonaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · ŋo · bwo · nă</span>
+- **Pattern:** `L · H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / Health

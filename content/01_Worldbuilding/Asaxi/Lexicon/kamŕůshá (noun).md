@@ -2,6 +2,8 @@
 freq: 48
 title: kamŕůshá (noun) - builder, construction worker
 Word (Asaxi): kamŕůshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: builder, construction worker
 trnsltion. Pl: budowniczy
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kamɾuwʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · mŕů · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Professions & Occupations]]

@@ -1,6 +1,8 @@
 ---
 title: fůjåshá (noun) - a content creature, a wantless person
 Word (Asaxi): fůjåshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: a content creature, a wantless person, a sage
 trnsltion. Pl: człowiek spełniony, mędzec
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /fuu̯jau̯ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · jå · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Virtues & Failings]]

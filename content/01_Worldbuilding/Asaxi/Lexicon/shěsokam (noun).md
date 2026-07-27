@@ -2,6 +2,8 @@
 freq: 61
 title: shěsokam (noun) - Library
 Word (Asaxi): shěsokam
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: library
 trnsltion. Pl: biblioteka
 tags:
@@ -21,6 +23,12 @@ cold
 
 ### Pronunciation
 IPA: /ɹ̠̊ɚsokam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shě · so · kam</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

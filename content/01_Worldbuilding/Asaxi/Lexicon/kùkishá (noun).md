@@ -2,6 +2,8 @@
 freq: 47
 title: kùkishá (noun) - insect, bug
 Word (Asaxi): kùkishá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: insect, bug
 trnsltion. Pl: owad, robak
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /kɯkiʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kù · ki · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

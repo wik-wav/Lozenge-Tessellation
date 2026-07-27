@@ -2,6 +2,8 @@
 freq: 47
 title: kŕùŕů (verb) - to rust, to corrode
 Word (Asaxi): kŕùŕů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to rust, to corrode
 trnsltion. Pl: rdzewieć
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /kɾɯɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kŕù · ŕů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to rust, to corrode

@@ -2,6 +2,8 @@
 freq: 62
 title: ksùŕo (noun) - beach / shore
 Word (Asaxi): ksùŕo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: beach / shore
 trnsltion. Pl: plaża
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ksɯɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ksù · ŕo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

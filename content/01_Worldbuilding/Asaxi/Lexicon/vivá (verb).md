@@ -1,6 +1,8 @@
 ---
 title: vivá (verb) - to be born
 Word (Asaxi): vivá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to be born
 trnsltion. Pl: rodzić się
 Transitivity: intransitive
@@ -32,6 +34,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /b̪vib̪vɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · vá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to be born

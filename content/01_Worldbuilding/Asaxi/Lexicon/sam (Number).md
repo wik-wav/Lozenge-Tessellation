@@ -2,6 +2,8 @@
 freq: 68
 title: sam (Number) - 8, eight
 Word (Asaxi): sam, 8
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: 8, eight
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /sam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sam</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Example sentence
 

@@ -2,6 +2,8 @@
 freq: 59
 title: xèronů (verb) - to weight-train, to bulk
 Word (Asaxi): xèronů
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: to weight-train, to bulk, to lift weights (for mass)
 trnsltion. Pl: trenować siłowo
 Transitivity: intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦəɹonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xè · ro · nů</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to weight-train, to bulk, to lift weights (for mass)

@@ -2,6 +2,8 @@
 freq: 49
 title: tëbipỏ (noun) - sleeve
 Word (Asaxi): tëbipỏ
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: sleeve
 trnsltion. Pl: rękaw
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪eɪbipou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">të · bi · pỏ</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

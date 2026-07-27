@@ -2,6 +2,8 @@
 freq: 88
 title: mỏmå (noun) - mother
 Word (Asaxi): mỏmå
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: mother
 trnsltion. Pl: matka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mou̯mau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mỏ · må</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

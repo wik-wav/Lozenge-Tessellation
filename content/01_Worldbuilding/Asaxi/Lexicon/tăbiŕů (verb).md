@@ -2,6 +2,8 @@
 freq: 60
 title: tăbiŕů (verb) - to draw, to sketch
 Word (Asaxi): tăbiŕů
+pitch_accent: L.H.H
+pitch_accent_class: mixed
 trnsltion. En: to draw, to sketch, to draft, to diagram
 trnsltion. Pl: rysować, szkicować
 Transitivity: transitive
@@ -30,6 +32,12 @@ Takes an object (the image, diagram, or thing being drawn).
 
 ### Pronunciation
 IPA: /t̪aɪbiɾuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tă · bi · ŕů</span>
+- **Pattern:** `L · H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to draw, to sketch, to draft, to diagram

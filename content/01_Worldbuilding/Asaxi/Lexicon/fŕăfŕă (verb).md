@@ -2,6 +2,8 @@
 freq: 55
 title: fŕăfŕă (verb) - to spin, to whirl
 Word (Asaxi): fŕăfŕă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to spin, to whirl
 trnsltion. Pl: wirować
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /fɾaɪfɾaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fŕă · fŕă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to spin, to whirl

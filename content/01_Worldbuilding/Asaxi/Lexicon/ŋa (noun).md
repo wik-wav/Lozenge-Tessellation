@@ -2,6 +2,8 @@
 freq: 45
 title: ŋa (noun) - mushroom, fungus
 Word (Asaxi): ŋa
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: mushroom, fungus
 trnsltion. Pl: grzyb
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ŋa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŋa</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

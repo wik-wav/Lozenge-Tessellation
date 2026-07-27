@@ -2,6 +2,8 @@
 freq: 40
 title: fkamnýj (adjective) - domesticated, dependent
 Word (Asaxi): fkamnýj
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: domesticated, dependent, reliant, not self-sufficient, tame
 trnsltion. Pl: udomowiony, zależny, niesamodzielny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /fkamnɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fka · mnýj</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Behaviour]] / Personality

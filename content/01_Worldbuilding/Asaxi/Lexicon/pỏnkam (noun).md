@@ -2,6 +2,8 @@
 freq: 51
 title: pỏnkam (noun) - tent (cloth-structure)
 Word (Asaxi): pỏnkam
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: tent (cloth-structure)
 trnsltion. Pl: namiot
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pou̯nkam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pỏ · nkam</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

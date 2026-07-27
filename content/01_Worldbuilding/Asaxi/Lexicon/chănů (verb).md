@@ -1,6 +1,8 @@
 ---
 title: chănů (verb) - to have tea
 Word (Asaxi): chănů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to have tea
 trnsltion. Pl: pić herbatę
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /t̠ʃaɪnuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chă · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to have tea

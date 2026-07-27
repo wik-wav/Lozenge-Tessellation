@@ -1,6 +1,8 @@
 ---
 title: kăgo (particle) - how much?, how many?
 Word (Asaxi): kăgo
+pitch_accent: H.L
+pitch_accent_class: dominant
 trnsltion. En: how much?, how many?
 trnsltion. Pl: ile?
 tags:
@@ -32,6 +34,12 @@ tags:
 
 
 IPA: /kaɪgo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kă · go</span>
+- **Pattern:** `H · L`
+- **Class:** `dominant`
 
 ### Example sentence
 

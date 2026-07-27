@@ -2,6 +2,8 @@
 freq: 88
 title: hùso (noun) - sand
 Word (Asaxi): hùso
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: sand
 trnsltion. Pl: piasek
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /xɯso/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù · so</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

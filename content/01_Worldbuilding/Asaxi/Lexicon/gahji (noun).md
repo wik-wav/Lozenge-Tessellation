@@ -2,6 +2,8 @@
 freq: 27
 title: gahji (noun) - smallness, minuteness
 Word (Asaxi): gahji
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: smallness, minuteness, insignificance, compactness
 trnsltion. Pl: małość
 tags:
@@ -24,6 +26,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡaçi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · hji</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]

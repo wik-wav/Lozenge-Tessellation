@@ -2,6 +2,8 @@
 freq: 52
 title: kobù (verb) - to bend, to curve
 Word (Asaxi): kobù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to bend, to curve
 trnsltion. Pl: zginać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ko̞bɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ko · bù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to bend, to curve

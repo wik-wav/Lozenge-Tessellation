@@ -1,6 +1,8 @@
 ---
 title: nihè (particle) - start! begin! commence! go!
 Word (Asaxi): nihè
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: start! begin! commence! go!
 tags:
   - Asaxi
@@ -30,6 +32,12 @@ Used as a standalone command to initiate an action or event. It can also functio
 
 IPA: /ɲixə/
 *Phonotactics:* The `h` is retained because `ni` ends in a pure vowel.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nihè</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

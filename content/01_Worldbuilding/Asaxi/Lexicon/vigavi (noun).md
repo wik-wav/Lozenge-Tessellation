@@ -2,6 +2,8 @@
 freq: 68
 title: vigavi (noun) - health
 Word (Asaxi): vigavi
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: health
 trnsltion. Pl: zdrowie
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /vigavi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · ga · vi</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Health & Medicine]]

@@ -2,6 +2,8 @@
 freq: 88
 title: gonýj (adjective) - big, huge, rock-like
 Word (Asaxi): gonýj
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: big, huge, rock-like
 trnsltion. Pl: duży, wielki, skalisty
 tags:
@@ -31,6 +33,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡonɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go · nýj</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

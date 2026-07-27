@@ -2,6 +2,8 @@
 freq: 58
 title: fùfo (noun) - fox
 Word (Asaxi): fùfo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: fox
 trnsltion. Pl: lis
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fɯfo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fù · fo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

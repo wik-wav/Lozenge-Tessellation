@@ -2,6 +2,8 @@
 freq: 44
 title: cka (noun) - shovel, spade (soil-tool)
 Word (Asaxi): cka
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: shovel, spade (soil-tool)
 trnsltion. Pl: łopata
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̻͡s̪ka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cka</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

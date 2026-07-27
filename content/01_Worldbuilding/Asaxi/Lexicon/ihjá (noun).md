@@ -2,6 +2,8 @@
 freq: 39
 title: ihjá (noun) - quill (e.g. a porcupine's), spine, needle
 Word (Asaxi): ihjá
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: quill (e.g. a porcupine's), spine, needle
 trnsltion. Pl: kolec, igła
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /içɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · hjá</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

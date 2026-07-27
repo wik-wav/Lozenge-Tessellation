@@ -2,6 +2,8 @@
 freq: 88
 title: mỏtam (noun) - wife
 Word (Asaxi): mỏtam
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: wife
 trnsltion. Pl: żona
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mou̯t̪am/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mỏ · tam</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

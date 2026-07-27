@@ -2,6 +2,8 @@
 freq: 63
 title: ỏbỏŕo (noun) - bed
 Word (Asaxi): ỏbỏŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: bed
 trnsltion. Pl: łóżko
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ou̯bou̯ɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ỏ · bỏ · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

@@ -2,6 +2,8 @@
 freq: 32
 title: pŕo (noun) - torus / hoop
 Word (Asaxi): pŕo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: torus / hoop
 trnsltion. Pl: torus, obręcz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pŕo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]

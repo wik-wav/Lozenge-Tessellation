@@ -2,6 +2,8 @@
 freq: 88
 title: saza (verb) - to rub, to scrub
 Word (Asaxi): saza
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to rub, to scrub
 trnsltion. Pl: trzeć, szorować
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /saz̪a/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sa · za</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to rub, to scrub

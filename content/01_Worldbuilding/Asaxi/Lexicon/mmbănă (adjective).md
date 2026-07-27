@@ -2,6 +2,8 @@
 freq: 67
 title: mmbănă (adjective) - happy, joyful
 Word (Asaxi): mmbănă
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: happy, joyful, giddy, excited, delighted, cheerful
 trnsltion. Pl: szczęśliwy, radosny, podekscytowany
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /m̩.baɪ.naɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mm · bă · nă</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]]

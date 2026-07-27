@@ -2,6 +2,8 @@
 freq: 88
 title: të (noun) - hand, palm
 Word (Asaxi): të
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: hand
 trnsltion. Pl: ręka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪eɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">të</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

@@ -2,6 +2,8 @@
 freq: 51
 title: ŕopù (verb) - to pour
 Word (Asaxi): ŕopù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to pour
 trnsltion. Pl: lać, nalewać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɾo̞pɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to pour

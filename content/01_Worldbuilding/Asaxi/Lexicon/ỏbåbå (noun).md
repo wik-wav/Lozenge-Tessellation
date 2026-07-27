@@ -1,6 +1,8 @@
 ---
 title: ỏbåbå (noun) - abdominal muscles
 Word (Asaxi): ỏbåbå
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: abdominal muscles
 trnsltion. Pl: mięśnie brzucha
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ou̯bau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ỏ · bå · bå</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

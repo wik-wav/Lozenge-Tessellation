@@ -2,6 +2,8 @@
 freq: 51
 title: kiki (noun) - monkey, ape
 Word (Asaxi): kiki
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: monkey, ape
 trnsltion. Pl: małpa
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kiki/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ki · ki</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

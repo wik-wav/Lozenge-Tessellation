@@ -2,6 +2,8 @@
 freq: 61
 title: daokam (noun) - shop, store (trade-structure)
 Word (Asaxi): daokam
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: shop, store (trade-structure)
 trnsltion. Pl: sklep
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /dao̞kam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">da · o · kam</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

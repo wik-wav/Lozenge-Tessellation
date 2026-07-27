@@ -1,6 +1,8 @@
 ---
 title: nå (particle) - now
 Word (Asaxi): nå
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: now
 tags:
   - Asaxi
@@ -45,6 +47,12 @@ The meaning shifts slightly based on the tense of the verb it modifies.
 ### Pronunciation
 
 IPA: /nau̯/ (Based on `å` = /au̯/)
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nå</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentences
 

@@ -2,6 +2,8 @@
 freq: 55
 title: swëshá (noun) - dragon, wyrm
 Word (Asaxi): swëshá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: dragon, wyrm, scaled creature
 trnsltion. Pl: smok
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /sʷeɪʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">swë · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]] / [[Smntc_Field Illusions]]

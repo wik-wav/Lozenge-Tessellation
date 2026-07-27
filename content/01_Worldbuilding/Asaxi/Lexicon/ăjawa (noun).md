@@ -1,6 +1,8 @@
 ---
 title: ăjawa (noun) - war cry, battle cry
 Word (Asaxi): ăjawa
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: war cry, battle cry, rallying cry, roar (of a crowd)
 trnsltion. Pl: okrzyk bojowy
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɪjawa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă · ja · wa</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Behaviour]]

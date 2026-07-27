@@ -1,6 +1,8 @@
 ---
 title: mămă (particle) - all, every
 Word (Asaxi): mămă
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: all, every, every single one
 trnsltion. Pl: wszystko, każdy, każdy jeden
 tags:
@@ -18,6 +20,12 @@ tags:
 ### Pronunciation
 
 **IPA:** /maɪmaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mă · mă</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Lexical Classification
 

@@ -2,6 +2,8 @@
 freq: 48
 title: båshá (noun) - hog, pig
 Word (Asaxi): båshá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: hog, pig
 trnsltion. Pl: świnia, wieprz
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /bauʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bå · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

@@ -1,6 +1,8 @@
 ---
 title: goro (noun) - iron ore
 Word (Asaxi): goro
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: iron ore, raw iron
 trnsltion. Pl: ruda żelaza
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡoro/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go · ro</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]] / Geology

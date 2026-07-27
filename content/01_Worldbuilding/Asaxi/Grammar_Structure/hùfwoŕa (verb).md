@@ -1,6 +1,8 @@
 ---
 title: hùfwoŕa (verb) - To be uncertain, to be obscured, "It is unclear."
 Word (Asaxi): hùfwoŕa
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: is uncertain, is possible
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /xɯwfʷoɾa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù · fwo · ŕa</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 Abstract / Logic

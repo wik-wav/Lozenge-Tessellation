@@ -2,6 +2,8 @@
 freq: 55
 title: sămaka (noun) - pot (heat-vessel)
 Word (Asaxi): sămaka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: pot (heat-vessel)
 trnsltion. Pl: garnek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /saɪmaka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · ma · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

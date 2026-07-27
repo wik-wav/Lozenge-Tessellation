@@ -1,6 +1,8 @@
 ---
 title: bafwai (noun) - the left side
 Word (Asaxi): bafwai
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: the left side, the left
 trnsltion. Pl: lewa strona
 tags:
@@ -25,6 +27,12 @@ tags:
 IPA: /bafʷaɪ/
 
 **Formation note:** *fů* + *ai* contracts by **glide formation** — the *ů* weakens to *w* before the vowel, and *a+i* coalesces into the diphthong *ă*: `fů-ai` → **fwă**. (See [[22_Phonotactics & Euphony]].)
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · fwa · i</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

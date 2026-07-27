@@ -2,6 +2,8 @@
 freq: 38
 title: txa (verb) - to morph, to change state
 Word (Asaxi): txa
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: to morph, to change state, to transmute
 trnsltion. Pl: przeobrażać się, zmieniać stan
 Transitivity: intransitive (or monotransitive)
@@ -33,6 +35,12 @@ _intransitive_ (a thing morphs) — or monotransitive (to morph something).
 
 ### Pronunciation
 IPA: /tʰa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">txa</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to morph, to change state, to transmute

@@ -2,6 +2,8 @@
 freq: 40
 title: tësëo (noun) - fingernail
 Word (Asaxi): tësëo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: fingernail
 trnsltion. Pl: paznokieć
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪eɪseɪo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">të · së · o</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

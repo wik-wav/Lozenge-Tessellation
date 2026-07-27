@@ -2,6 +2,8 @@
 freq: 30
 title: gafůŋono (noun) - weightlessness, levitation
 Word (Asaxi): gafůŋono
+pitch_accent: L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: weightlessness, levitation, zero-gravity
 trnsltion. Pl: nieważkość
 tags:
@@ -24,6 +26,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡafuu̯ŋo̞no̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · fů · ŋo · no</span>
+- **Pattern:** `L · H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]]

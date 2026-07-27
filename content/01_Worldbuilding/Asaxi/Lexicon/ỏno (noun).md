@@ -2,6 +2,8 @@
 freq: 51
 title: ỏno (noun) - diameter, width
 Word (Asaxi): ỏno
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: diameter, width, thickness, girth
 trnsltion. Pl: średnica, szerokość
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ou̯no/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ỏ · no</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]

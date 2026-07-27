@@ -1,6 +1,8 @@
 ---
 title: ăijo (verb) - to get a grip on the situation
 Word (Asaxi): ăijo
+pitch_accent: H.H.L
+pitch_accent_class: mixed
 trnsltion. En: to get a grip on the situation
 trnsltion. Pl: zorientować się (w sytuacji)
 Transitivity: Intransitive, monotransitive
@@ -33,6 +35,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɪijo/ (A distinct glide from the diphthong /aɪ/ into /i/).
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă · i · jo</span>
+- **Pattern:** `H · H · L`
+- **Class:** `mixed`
 
 ### Translations
 - **English:** to get a grip on the situation, to have a sudden conviction, to realize (deeply), to see clearly (metaphorical), to have an epiphany about one's state.

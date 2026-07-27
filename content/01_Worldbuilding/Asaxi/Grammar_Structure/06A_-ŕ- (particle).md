@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): -ŕ-
+pitch_accent: none
+pitch_accent_class: atonal
 trnsltion. En: To produce
 tags:
   - Asaxi
@@ -19,6 +21,12 @@ aliases:
 ### Pronunciation
 
 IPA: /ɾ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕ</span>
+- **Pattern:** `none`
+- **Class:** `atonal`
 
 ### Example sentence
 

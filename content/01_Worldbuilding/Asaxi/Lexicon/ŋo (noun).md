@@ -2,6 +2,8 @@
 freq: 44
 title: ŋo (noun) - kilogram, kilo, weight
 Word (Asaxi): ŋo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: kilogram, kilo, unit of weight, weight (measure)
 trnsltion. Pl: kilogram, kilo, waga (miara)
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ŋo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŋo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Numerals]] / Weights & Measures

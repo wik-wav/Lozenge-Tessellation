@@ -2,6 +2,8 @@
 freq: 42
 title: pigùmenn (noun) - pigment, raw color powder
 Word (Asaxi): pigùmenn
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: pigment, raw color powder, dye (powder form)
 trnsltion. Pl: pigment, barwnik (proszek)
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pigɯmen̩/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pi · gù · me · nn</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]] / Arts

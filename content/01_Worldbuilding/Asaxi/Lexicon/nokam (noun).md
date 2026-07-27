@@ -2,6 +2,8 @@
 freq: 55
 title: nokam (noun) - storehouse, warehouse
 Word (Asaxi): nokam
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: storehouse, warehouse, place of things
 trnsltion. Pl: magazyn, skład, miejsce na rzeczy
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 **IPA:** /no.kam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">no · kam</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment|Smntc_Field Environment]]

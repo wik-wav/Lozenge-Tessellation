@@ -2,6 +2,8 @@
 freq: 88
 title: ŕoŕo (noun) - water
 Word (Asaxi): ŕoŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: water
 trnsltion. Pl: woda
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾoɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

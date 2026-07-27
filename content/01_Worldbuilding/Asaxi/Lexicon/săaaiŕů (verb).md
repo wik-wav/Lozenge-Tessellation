@@ -2,6 +2,8 @@
 freq: 17
 title: săaaiŕů (verb) - to run a fever (lit. to generate heat-pain)
 Word (Asaxi): săaaiŕů
+pitch_accent: H.L.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: to run a fever (lit. to generate heat-pain)
 trnsltion. Pl: gorączkować
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_ — state predicate; the experiencer is the subject (often with t
 
 ### Pronunciation
 IPA: /saɪa.aiɾuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · a · a · i · ŕů</span>
+- **Pattern:** `H · L · L · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to run a fever (lit. to generate heat-pain)

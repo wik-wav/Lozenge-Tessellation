@@ -2,6 +2,8 @@
 freq: 69
 title: ågă (noun) - sometime, eventually
 Word (Asaxi): ågă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: sometime
 trnsltion. Pl: kiedyś
 tags:
@@ -22,6 +24,12 @@ Cold
 
 ### Pronunciation
 IPA: /au̯gaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">å · gă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

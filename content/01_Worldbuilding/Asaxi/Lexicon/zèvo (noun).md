@@ -2,6 +2,8 @@
 freq: 88
 title: zèvo (noun) - name
 Word (Asaxi): zèvo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: name
 trnsltion. Pl: imię
 tags:
@@ -21,6 +23,12 @@ Cold
 
 ### Pronunciation
 IPA: /zəvo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zè · vo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Communication]]

@@ -2,6 +2,8 @@
 freq: 50
 title: hùfwo (noun) - uncertainty, obscurity
 Word (Asaxi): hùfwo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: uncertainty, obscurity
 trnsltion. Pl: niepewność
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /xɯwfʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù · fwo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Circumstance]]

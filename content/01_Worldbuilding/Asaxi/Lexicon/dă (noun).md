@@ -2,6 +2,8 @@
 freq: 51
 title: dă (noun) - elephant
 Word (Asaxi): dă
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: elephant
 trnsltion. Pl: słoń
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

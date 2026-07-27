@@ -2,6 +2,8 @@
 freq: 66
 title: pxă (noun) - month
 Word (Asaxi): pxă
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: month
 trnsltion. Pl: miesiąc
 tags:
@@ -21,6 +23,12 @@ Cold (Time unit)
 
 ### Pronunciation
 IPA: /pʰaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pxă</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]] / [[Smntc_Field Numerals]]

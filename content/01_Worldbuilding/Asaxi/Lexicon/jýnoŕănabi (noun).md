@@ -1,6 +1,8 @@
 ---
 title: jýnoŕănabi (noun) - speed of sound
 Word (Asaxi): jýnoŕănabi
+pitch_accent: H.L.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: speed of sound
 trnsltion. Pl: prędkość dźwięku
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /Ʝɪnoɾaɪnabi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jý · no · ŕă · na · bi</span>
+- **Pattern:** `H · L · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Motion]] / Physics

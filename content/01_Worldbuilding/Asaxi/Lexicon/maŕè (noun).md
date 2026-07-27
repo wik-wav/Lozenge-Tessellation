@@ -2,6 +2,8 @@
 freq: 45
 title: maŕè (noun) - carrot (Pl. *marchew*)
 Word (Asaxi): maŕè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: carrot (Pl. *marchew*)
 trnsltion. Pl: marchew
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /maɾə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · ŕè</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

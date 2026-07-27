@@ -2,6 +2,8 @@
 freq: 55
 title: zù (noun) - skill, proficiency
 Word (Asaxi): zù
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: skill, proficiency, technique, knack
 trnsltion. Pl: umiejętność, wprawa, kunszt
 tags:
@@ -21,6 +23,12 @@ Cold
 
 ### Pronunciation
 IPA: /zɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zù</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Virtues & Failings]] / [[Smntc_Field Arts]]

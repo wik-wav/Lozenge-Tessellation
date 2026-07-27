@@ -2,6 +2,8 @@
 freq: 49
 title: ŕono (noun) - beverage, a drink
 Word (Asaxi): ŕono
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: beverage, a drink
 trnsltion. Pl: napój
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾono/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · no</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

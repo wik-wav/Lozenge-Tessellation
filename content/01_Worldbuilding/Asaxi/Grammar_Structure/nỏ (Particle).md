@@ -1,6 +1,8 @@
 ---
 title: nỏ (particle) - "Not" (Specific context).
 Word (Asaxi): nỏ
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Not
 tags:
   - Asaxi
@@ -30,6 +32,12 @@ Used exclusively before particles or elements starting with the semi-vowel **/w/
 ### Pronunciation
 
 IPA: /nou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nỏ</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Derived terms
 

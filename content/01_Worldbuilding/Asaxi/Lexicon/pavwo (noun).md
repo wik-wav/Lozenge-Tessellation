@@ -2,6 +2,8 @@
 freq: 65
 title: pavwo (noun) - tomorrow, the next day
 Word (Asaxi): pavwo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: tomorrow, the next day
 trnsltion. Pl: jutro, następny dzień
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /pavʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pa · vwo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

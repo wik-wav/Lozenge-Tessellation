@@ -2,6 +2,8 @@
 freq: 21
 title: goků (verb) - to petrify, to turn to stone
 Word (Asaxi): goků
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to petrify, to turn to stone
 trnsltion. Pl: zamieniać w kamień
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɡo̞kuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go · ků</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to petrify, to turn to stone

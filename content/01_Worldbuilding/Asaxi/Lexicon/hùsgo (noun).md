@@ -2,6 +2,8 @@
 freq: 41
 title: hùsgo (noun) - dune (sand-mound)
 Word (Asaxi): hùsgo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: dune (sand-mound)
 trnsltion. Pl: wydma
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /xɯsɡo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù · sgo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

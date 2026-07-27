@@ -1,6 +1,8 @@
 ---
 title: hùsokam (noun) - sandcastle
 Word (Asaxi): hùsokam
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: sandcastle
 trnsltion. Pl: zamek z piasku
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /xɯso̞kam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù · so · kam</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

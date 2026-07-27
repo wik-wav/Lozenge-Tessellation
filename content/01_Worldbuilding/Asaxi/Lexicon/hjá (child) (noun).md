@@ -1,6 +1,8 @@
 ---
 title: hjá (child) (noun) - child, young one
 Word (Asaxi): hjá
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: child, young one, offspring, baby, kid
 trnsltion. Pl: dziecko, młode (zwierzęcia)
 tags:
@@ -24,6 +26,12 @@ tags:
 
 IPA: /çɑ/
 *Phonotactics:* `hj` becomes the voiceless palatal fricative /ç/.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hjá</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

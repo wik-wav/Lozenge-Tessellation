@@ -2,6 +2,8 @@
 freq: 61
 title: cődao (verb) - to explain (understanding-give)
 Word (Asaxi): cődao
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to explain (understanding-give)
 trnsltion. Pl: wyjaśniać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪oɪdao̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cő · da · o</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to explain (understanding-give)

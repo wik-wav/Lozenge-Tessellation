@@ -1,6 +1,8 @@
 ---
 freq: 54
 Word (Asaxi): ýhýshá
+pitch_accent: L.L.H
+pitch_accent_class: lexical
 trnsltion. En: mouse, rodent, prey animal
 trnsltion. Pl: mysz
 tags:
@@ -22,6 +24,12 @@ title: ýhýshá (noun) - mouse, rodent
 
 ### Pronunciation
 IPA: /ɪxɪʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ý · hý · shá</span>
+- **Pattern:** `L · L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

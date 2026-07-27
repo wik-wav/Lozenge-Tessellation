@@ -2,6 +2,8 @@
 freq: 88
 title: xů (verb) - to do, to handle
 Word (Asaxi): xů
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: to do, to handle, to execute, to deal with
 trnsltion. Pl: robić, czynić, zajmować się
 Transitivity: transitive
@@ -33,6 +35,12 @@ Takes a direct object (the thing being handled or done).
 
 ### Pronunciation
 IPA: /ɦuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xů</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to do, to handle, to execute, to deal with

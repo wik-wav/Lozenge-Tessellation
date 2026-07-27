@@ -1,6 +1,8 @@
 ---
 title: zå (particle) - Then
 Word (Asaxi): zå
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Then
 tags:
   - Asaxi
@@ -35,6 +37,12 @@ Derived from **[[izo (particle)|izo]]** (From). _Logic:_ "From (that event) forw
 ### Pronunciation
 
 IPA: /zau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zå</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

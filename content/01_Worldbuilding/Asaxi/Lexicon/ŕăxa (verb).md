@@ -2,6 +2,8 @@
 freq: 88
 title: ŕăxa (verb) - to burn, to be ablaze
 Word (Asaxi): ŕăxa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to burn, to be ablaze
 trnsltion. Pl: płonąć
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ɾaɪɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · xa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to burn, to be ablaze

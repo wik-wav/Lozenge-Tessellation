@@ -2,6 +2,8 @@
 freq: 55
 title: tamka (verb) - to marry, to wed
 Word (Asaxi): tamka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to marry, to wed
 trnsltion. Pl: poślubić
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̪amka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ta · mka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to marry, to wed

@@ -2,6 +2,8 @@
 freq: 49
 title: pŕoŕo (noun) - wagon / cart
 Word (Asaxi): pŕoŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: wagon / cart
 trnsltion. Pl: wóz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɾoɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pŕo · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Motion]]

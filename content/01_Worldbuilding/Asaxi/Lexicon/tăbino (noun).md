@@ -2,6 +2,8 @@
 freq: 57
 title: tăbino (noun) - a drawing, a sketch
 Word (Asaxi): tăbino
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: a drawing, a sketch, a diagram, a blueprint
 trnsltion. Pl: rysunek, szkic, schemat
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪aɪbino/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tă · bi · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Arts]] / Perception

@@ -1,6 +1,8 @@
 ---
 title: cùŕo (noun) - burrow, warren, den
 Word (Asaxi): cùŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: burrow, warren, den
 trnsltion. Pl: nora
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /t̻͡s̪ɯɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cù · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

@@ -2,6 +2,8 @@
 freq: 60
 title: gùŕkanů (verb) - to net, to catch in a net
 Word (Asaxi): gùŕkanů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to net, to catch in a net
 trnsltion. Pl: łowić w sieć
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɡɯɾkanuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gù · ŕka · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to net, to catch in a net

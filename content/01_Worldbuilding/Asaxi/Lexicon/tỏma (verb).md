@@ -2,6 +2,8 @@
 freq: 61
 title: tỏma (verb) - to receive, to obtain, to get
 Word (Asaxi): tỏma
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: to receive, to obtain, to get
 trnsltion. Pl: otrzymywać, dostawać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̪ou̯ma/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tỏ · ma</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to receive, to obtain, to get

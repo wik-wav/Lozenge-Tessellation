@@ -1,6 +1,8 @@
 ---
 title: pùŕo (particle) - Divided by (math operation)
 Word (Asaxi): pùŕo
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: Divided by (math operation)
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ tags:
 ### Pronunciation
 
 IPA: /pɯɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · ŕo</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

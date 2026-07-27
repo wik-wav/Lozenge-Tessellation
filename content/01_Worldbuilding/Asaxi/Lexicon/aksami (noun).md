@@ -1,6 +1,8 @@
 ---
 title: aksami (noun) - velveteen, plush, velvet (fabric)
 Word (Asaxi): aksami
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: velveteen, plush, velvet (fabric)
 trnsltion. Pl: aksamit, plusz, welwet
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /aksami/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · ksa · mi</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

@@ -1,6 +1,8 @@
 ---
 title: nixő (particle) - himself
 Word (Asaxi): nixő
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: himself
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɲiɦoɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nixő</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

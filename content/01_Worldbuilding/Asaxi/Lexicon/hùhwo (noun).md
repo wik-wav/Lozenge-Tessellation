@@ -2,6 +2,8 @@
 freq: 45
 title: hùhwo (noun) - the day before yesterday
 Word (Asaxi): hùhwo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: the day before yesterday
 trnsltion. Pl: przedwczoraj
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /xɯxʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù · hwo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

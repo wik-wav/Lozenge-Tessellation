@@ -2,6 +2,8 @@
 freq: 50
 title: kege (noun) - cheek
 Word (Asaxi): kege
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: cheek
 trnsltion. Pl: policzek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ke̞ɡe̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ke · ge</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

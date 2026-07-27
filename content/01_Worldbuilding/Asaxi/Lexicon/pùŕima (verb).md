@@ -2,6 +2,8 @@
 freq: 56
 title: pùŕima (verb) - to suspect, to doubt
 Word (Asaxi): pùŕima
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: to suspect, to doubt, to be unsure, to reckon (weakly), to suppose
 trnsltion. Pl: podejrzewać, przypuszczać (słabo), nie być pewnym
 Transitivity: monotransitive, intransitive
@@ -32,6 +34,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɯɾima/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · ŕi · ma</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to suspect, to doubt, to be unsure, to reckon (weakly), to suppose

@@ -2,6 +2,8 @@
 freq: 61
 title: tỏva (verb) - to accept, to consent
 Word (Asaxi): tỏva
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to accept, to consent
 trnsltion. Pl: przyjmować
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̪ou̯b̪va/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tỏ · va</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to accept, to consent

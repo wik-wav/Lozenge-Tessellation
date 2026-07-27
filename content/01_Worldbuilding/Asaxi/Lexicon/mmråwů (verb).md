@@ -1,6 +1,8 @@
 ---
 title: mmråwů (verb) - to act catlike, to be sly/graceful
 Word (Asaxi): mmråwů
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: to act catlike, to be sly/graceful
 trnsltion. Pl: zachowywać się jak kot
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /m̩ɹau̯ʋuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mm · rå · wů</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to act catlike, to be sly/graceful

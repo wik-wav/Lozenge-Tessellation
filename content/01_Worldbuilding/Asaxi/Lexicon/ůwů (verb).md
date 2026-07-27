@@ -2,6 +2,8 @@
 freq: 54
 title: ůwů (verb) - to act like, to seem
 Word (Asaxi): ůwů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to act like
 trnsltion. Pl: udawać
 Transitivity: intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /uu̯.wuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ů · wů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to act like, to seem, to behave as, to pretend

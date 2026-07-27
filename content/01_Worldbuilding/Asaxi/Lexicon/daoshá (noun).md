@@ -2,6 +2,8 @@
 freq: 51
 title: daoshá (noun) - merchant, trader
 Word (Asaxi): daoshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: merchant, trader
 trnsltion. Pl: kupiec, handlarz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daoʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">da · o · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Professions & Occupations]] / [[Smntc_Field Transfer]]

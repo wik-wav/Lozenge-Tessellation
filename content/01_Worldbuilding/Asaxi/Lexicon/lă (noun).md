@@ -2,6 +2,8 @@
 freq: 49
 title: lă (noun) - looseness, slack, give
 Word (Asaxi): lă
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: looseness, slack, give
 trnsltion. Pl: luz, obwisłość
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /laɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">lă</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Circumstance]]

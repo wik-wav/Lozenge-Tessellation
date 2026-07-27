@@ -2,6 +2,8 @@
 freq: 68
 title: xăcèno (noun) - truth, fact
 Word (Asaxi): xăcèno
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: truth, fact
 trnsltion. Pl: prawda, fakt
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦaɪt̻͡s̪əno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · cè · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Communication]] / [[Smntc_Field Existence]]

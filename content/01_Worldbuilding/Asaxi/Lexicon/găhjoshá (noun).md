@@ -2,6 +2,8 @@
 freq: 19
 title: găhjoshá (noun) - emaciated person, walking skeleton, bag of bones, starving creature
 Word (Asaxi): găhjoshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: emaciated person, walking skeleton, bag of bones, starving creature
 trnsltion. Pl: chudzielec, kościotrup (żywy), mizerota
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡaɪçoʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gă · hjo · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / Health

@@ -2,6 +2,8 @@
 freq: 88
 title: ŕoŕă (verb) - to turn, to rotate
 Word (Asaxi): ŕoŕă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to turn, to rotate
 trnsltion. Pl: obracać się
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ɾo̞ɾaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · ŕă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to turn, to rotate

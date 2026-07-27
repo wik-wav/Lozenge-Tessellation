@@ -2,6 +2,8 @@
 freq: 54
 title: vèbi (noun) - stem, stalk (plant-line)
 Word (Asaxi): vèbi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: stem, stalk (plant-line)
 trnsltion. Pl: łodyga
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪vəbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vè · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

@@ -2,6 +2,8 @@
 freq: 88
 title: ůŋů (verb) - to smell (neutral)
 Word (Asaxi): ůŋů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to smell
 trnsltion. Pl: pachnieć
 Transitivity: intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /uu̯ŋuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ů · ŋů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to smell (neutral)

@@ -1,6 +1,8 @@
 ---
 title: naŕo (particle) - Multiplied by (math operation)
 Word (Asaxi): naŕo
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: Multiplied by (math operation)
 trnsltion. Pl: Pomnożone przez
 tags:
@@ -22,6 +24,12 @@ tags:
 ### Pronunciation
 
 IPA: /naɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">na · ŕo</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

@@ -43,6 +43,34 @@ Each content root carries **one accent**: an H mora followed by a fall to L.
 
 **Atonal morphemes:** prefixes (`zè-`, `pa-`, `na-`, `no-`...), pronouns, NPCP particles, `kè`, `tte`, and most function words have no tone of their own and default to **L**.
 
+### Dictionary notation
+
+Lexical notes codify this analysis in frontmatter. A single written word uses
+one `H` or `L` value per mora:
+
+```yaml
+pitch_accent: H.L.L
+pitch_accent_class: lexical
+```
+
+Fixed expressions and idioms preserve word boundaries. They use one accent
+chunk per written word, separated by `|`:
+
+```yaml
+pitch_accent: H.L | H
+pitch_accent_class: phrase
+```
+
+For example, <span class="asaxi-text">fůjå ma</span> has two written words and
+two chunks: `H.L | H`.
+A longer idiom may have any number of chunks, but each chunk has exactly one
+value per mora in that word. This prevents a multiword expression from being
+flattened into a single undifferentiated accent string.
+
+Every lexical note repeats this information in its visible `### Pitch Accent`
+section. Vocab Forge keeps that section synchronized with the frontmatter;
+frontmatter remains the machine-readable authority.
+
 ## 3. Dominant Morphemes (Hardcoded H)
 
 A closed set of morphemes is **lexically H wherever it lands**:

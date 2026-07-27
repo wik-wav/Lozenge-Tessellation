@@ -2,6 +2,8 @@
 freq: 65
 title: ŕăijonă (adjective) - strong, powerful
 Word (Asaxi): ŕăijonă
+pitch_accent: L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: strong, powerful
 trnsltion. Pl: silny, potężny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ɾaɪ.iꞲonaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · i · jo · nă</span>
+- **Pattern:** `L · H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Personality

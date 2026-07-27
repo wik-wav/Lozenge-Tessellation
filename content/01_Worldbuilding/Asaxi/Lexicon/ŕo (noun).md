@@ -2,6 +2,8 @@
 freq: 52
 title: ŕo (noun) - panel building
 Word (Asaxi): ŕo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: panel building
 trnsltion. Pl: blok (budynek mieszkalny)
 tags:
@@ -22,6 +24,12 @@ warm
 
 ### Pronunciation
 IPA: /ɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

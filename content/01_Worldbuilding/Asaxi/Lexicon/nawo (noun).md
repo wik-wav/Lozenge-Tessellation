@@ -2,6 +2,8 @@
 freq: 60
 title: nawo (noun) - the surface, the top
 Word (Asaxi): nawo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: the surface, the top, the upper side
 trnsltion. Pl: wierzch, powierzchnia
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /nawo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">na · wo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

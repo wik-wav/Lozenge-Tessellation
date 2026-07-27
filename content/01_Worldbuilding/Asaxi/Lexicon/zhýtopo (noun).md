@@ -2,6 +2,8 @@
 freq: 88
 title: zhýtopo (noun) - snow
 Word (Asaxi): zhýtopo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: snow
 trnsltion. Pl: śnieg
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʑɪt̪opo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zhý · to · po</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

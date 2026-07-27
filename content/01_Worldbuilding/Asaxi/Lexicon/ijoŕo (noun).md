@@ -2,6 +2,8 @@
 freq: 61
 title: ijoŕo (noun) - dream (sleeping)
 Word (Asaxi): ijoŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: dream (sleeping)
 trnsltion. Pl: sen (marzenie senne)
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /iꞲoɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jo · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Illusions]]

@@ -1,6 +1,8 @@
 ---
 title: ksămăni (particle) - However, any way one likes
 Word (Asaxi): ksămăni
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: however, any way one likes, in whatever manner
 trnsltion. Pl: jakkolwiek, w dowolny sposób
 tags:
@@ -25,6 +27,12 @@ tags:
 ### Pronunciation
 
 IPA: /ksaɪmaɪni/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ksă · măni</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Etymology
 

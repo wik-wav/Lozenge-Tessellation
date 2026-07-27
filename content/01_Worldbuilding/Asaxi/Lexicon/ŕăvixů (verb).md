@@ -2,6 +2,8 @@
 freq: 49
 title: ŕăvixů (verb) - to spice, to season
 Word (Asaxi): ŕăvixů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to spice, to season
 trnsltion. Pl: przyprawiać
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɾaɪb̪viɦuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · vi · xů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to spice, to season

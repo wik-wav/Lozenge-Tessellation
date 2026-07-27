@@ -2,6 +2,8 @@
 freq: 50
 title: tëkù (noun) - wrist
 Word (Asaxi): tëkù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: wrist
 trnsltion. Pl: nadgarstek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪eɪkɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">të · kù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

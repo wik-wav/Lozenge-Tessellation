@@ -2,6 +2,8 @@
 freq: 54
 title: hka (noun) - shield (cover-tool)
 Word (Asaxi): hka
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: shield (cover-tool)
 trnsltion. Pl: tarcza
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /xka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hka</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

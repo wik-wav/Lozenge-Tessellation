@@ -2,6 +2,8 @@
 freq: 51
 title: xèshá (noun) - servant (toil-person)
 Word (Asaxi): xèshá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: servant (toil-person)
 trnsltion. Pl: sługa
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦəʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xè · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

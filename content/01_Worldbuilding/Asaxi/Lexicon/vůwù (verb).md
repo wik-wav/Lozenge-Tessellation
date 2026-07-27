@@ -2,6 +2,8 @@
 freq: 88
 title: vůwù (verb) - to swim
 Word (Asaxi): vůwù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to swim
 trnsltion. Pl: pływać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /b̪vuu̯ʋɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vů · wù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to swim

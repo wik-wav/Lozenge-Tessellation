@@ -2,6 +2,8 @@
 freq: 67
 title: vakam (noun) - room, chamber
 Word (Asaxi): vakam
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: room, chamber
 trnsltion. Pl: pokój, izba
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /vakam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">va · kam</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

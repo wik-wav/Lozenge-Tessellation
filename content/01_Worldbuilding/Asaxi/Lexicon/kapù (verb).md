@@ -2,6 +2,8 @@
 freq: 59
 title: kapù (verb) - to kick
 Word (Asaxi): kapù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to kick
 trnsltion. Pl: kopać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kapɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to kick

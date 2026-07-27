@@ -2,6 +2,8 @@
 freq: 44
 title: pùgo (noun) - stool (sit-block)
 Word (Asaxi): pùgo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: stool (sit-block)
 trnsltion. Pl: stołek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɯɡo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · go</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

@@ -2,6 +2,8 @@
 freq: 88
 title: hjo (noun) - star
 Word (Asaxi): hjo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: star
 trnsltion. Pl: gwiazda
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ço/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hjo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]] / Cosmology

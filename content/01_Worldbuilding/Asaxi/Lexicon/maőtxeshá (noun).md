@@ -1,6 +1,8 @@
 ---
 title: maőtxeshá (noun) - moth
 Word (Asaxi): maőtxeshá
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: moth
 trnsltion. Pl: ćma
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /mao̞ɪtʰe̞ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · ő · txe · shá</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

@@ -2,6 +2,8 @@
 freq: 55
 title: katăa (noun) - sword, katana (Jp. *katana*)
 Word (Asaxi): katăa
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: sword, katana (Jp. *katana*)
 trnsltion. Pl: miecz, katana
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kat̪aɪa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · tă · a</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

@@ -2,6 +2,8 @@
 freq: 61
 title: chină (adjective) - blood-red, livid, flushed
 Word (Asaxi): chină
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: blood-red, livid, flushed
 trnsltion. Pl: krwistoczerwony
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /t͡ʃinaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chi · nă</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

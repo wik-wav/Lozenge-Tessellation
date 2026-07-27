@@ -2,6 +2,8 @@
 freq: 55
 title: maslo (noun) - butter (Pl. *masło*)
 Word (Asaxi): maslo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: butter (Pl. *masło*)
 trnsltion. Pl: masło
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /maslo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · slo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

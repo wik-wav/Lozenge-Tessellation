@@ -2,6 +2,8 @@
 freq: 46
 title: tákasi (noun) - fallout, aftermath (of war)
 Word (Asaxi): tákasi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: fallout, aftermath (of war), post-war desolation, ruins, ash-heap
 trnsltion. Pl: pokłosie wojny, zgliszcza
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪ɑkaɕi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tá · kasi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

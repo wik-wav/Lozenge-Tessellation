@@ -2,6 +2,8 @@
 freq: 88
 title: fwù (noun) - wind
 Word (Asaxi): fwù
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: wind
 trnsltion. Pl: wiatr
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fʷɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fwù</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

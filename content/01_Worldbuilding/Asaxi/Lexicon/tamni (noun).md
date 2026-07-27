@@ -1,6 +1,8 @@
 ---
 title: tamni (noun) - Together as a pair, togetherness
 Word (Asaxi): tamni
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: together as a pair, togetherness
 trnsltion. Pl: robienie we dwójkę, bycie razem
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪amni/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tamni</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Behaviour|Smntc_Field Behavior]]

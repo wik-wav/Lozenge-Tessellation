@@ -1,6 +1,8 @@
 ---
 title: jośýstèm (noun) - social system
 Word (Asaxi): jośýstèm
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: social system
 trnsltion. Pl: system społeczny
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /Ʝoɕɪst̪əm/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jo · śý · stèm</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

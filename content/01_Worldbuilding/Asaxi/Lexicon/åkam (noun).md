@@ -2,6 +2,8 @@
 freq: 58
 title: åkam (noun) - deadline, appointed moment
 Word (Asaxi): åkam
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: deadline, appointed moment
 trnsltion. Pl: termin
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /au̯kam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">å · kam</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

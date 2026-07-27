@@ -2,6 +2,8 @@
 freq: 56
 title: tákákam (noun) - castle (war-structure)
 Word (Asaxi): tákákam
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: castle (war-structure)
 trnsltion. Pl: zamek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪ɑkɑkam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tá · ká · kam</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

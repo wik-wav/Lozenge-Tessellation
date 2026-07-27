@@ -2,6 +2,8 @@
 freq: 24
 title: xahùbåbå (noun) - trapezius, traps
 Word (Asaxi): xahùbåbå
+pitch_accent: L.L.H.L
+pitch_accent_class: lexical
 trnsltion. En: trapezius, traps, upper back
 trnsltion. Pl: mięsień czworoboczny
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦaxɯbau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · hù · bå · bå</span>
+- **Pattern:** `L · L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

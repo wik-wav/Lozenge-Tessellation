@@ -2,6 +2,8 @@
 freq: 64
 title: bwoŕo (noun) - oil (fat-liquid)
 Word (Asaxi): bwoŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: oil (fat-liquid)
 trnsltion. Pl: olej
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /bʷo̞ɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bwo · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

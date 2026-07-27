@@ -2,6 +2,8 @@
 freq: 58
 title: rogùŕo (noun) - chain (iron-rope)
 Word (Asaxi): rogùŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: chain (iron-rope)
 trnsltion. Pl: łańcuch
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɹo̞ɡɯɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ro · gù · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

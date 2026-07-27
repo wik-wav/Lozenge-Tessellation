@@ -2,6 +2,8 @@
 freq: 65
 title: dzeŕo (Number) - 0, zero
 Word (Asaxi): dzeŕo, 0
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: 0, zero
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /d̻͡z̪əɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dze · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Example sentence
 

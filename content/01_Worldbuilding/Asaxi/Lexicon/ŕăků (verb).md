@@ -2,6 +2,8 @@
 freq: 31
 title: ŕăků (verb) - to set ablaze, to turn into fire
 Word (Asaxi): ŕăků
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to set ablaze, to turn into fire
 trnsltion. Pl: podpalać
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɾaɪkuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · ků</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to set ablaze, to turn into fire

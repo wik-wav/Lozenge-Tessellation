@@ -2,6 +2,8 @@
 freq: 62
 title: ŕănabi (noun) - speed, velocity
 Word (Asaxi): ŕănabi
+pitch_accent: L.L.H
+pitch_accent_class: lexical
 trnsltion. En: speed, velocity, pace, rapidity
 trnsltion. Pl: prędkość, szybkość
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɪnabi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · na · bi</span>
+- **Pattern:** `L · L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Motion]] / Physics

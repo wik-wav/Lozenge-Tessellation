@@ -2,6 +2,8 @@
 freq: 88
 title: nùnù (verb) - to sleep, to slumber
 Word (Asaxi): nùnù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to sleep, to slumber
 trnsltion. Pl: spać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /nɯnɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nù · nù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to sleep, to slumber

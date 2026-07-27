@@ -1,6 +1,8 @@
 ---
 title: tákashá (noun) - soldier, warrior
 Word (Asaxi): tákashá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: soldier, warrior
 trnsltion. Pl: żołnierz
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /tɑkaʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tá · ka · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

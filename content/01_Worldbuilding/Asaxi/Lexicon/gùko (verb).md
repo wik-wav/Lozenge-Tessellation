@@ -2,6 +2,8 @@
 freq: 88
 title: gùko (verb) - to tie, to bind, to knot
 Word (Asaxi): gùko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to tie, to bind, to knot
 trnsltion. Pl: wiązać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɡɯko̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gù · ko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to tie, to bind, to knot

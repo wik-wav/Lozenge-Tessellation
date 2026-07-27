@@ -2,6 +2,8 @@
 freq: 67
 title: cő (verb) - to understand, to comprehend
 Word (Asaxi): cő
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: to understand, to comprehend, to get it, to grasp (mentally)
 trnsltion. Pl: rozumieć, pojąć
 Transitivity: transitive, intransitive
@@ -32,6 +34,12 @@ tags:
 
 ### Pronunciation
 IPA: /t͡soɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cő</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - **English:** to understand, to comprehend, to get it, to grasp (mentally)

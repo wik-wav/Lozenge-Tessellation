@@ -2,6 +2,8 @@
 freq: 50
 title: ůků (verb) - to transform, to change form
 Word (Asaxi): ůků
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to transform, to change form, to morph
 trnsltion. Pl: zmieniać się, transformować
 Transitivity: intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /uu̯kuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ů · ků</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to transform, to change form, to morph

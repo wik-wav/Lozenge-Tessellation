@@ -2,6 +2,8 @@
 freq: 55
 title: nỏjåmăńo (Idiom) - Unwise Resolve
 Word (Asaxi): nỏjåmăńo
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: unwise resolve, total obsession's folly, misguided fixation
 tags:
   - Asaxi
@@ -18,6 +20,12 @@ tags:
 ### Pronunciation
 
 **IPA:** /nou̯jau̯maɪɲo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nỏ · jå · mă · ńo</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Lexical Classification
 

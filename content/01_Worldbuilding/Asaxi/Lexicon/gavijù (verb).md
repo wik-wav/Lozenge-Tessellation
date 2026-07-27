@@ -2,6 +2,8 @@
 freq: 54
 title: gavijù (verb) - to praise, to commend
 Word (Asaxi): gavijù
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to praise, to commend
 trnsltion. Pl: chwalić
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɡab̪vijɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · vi · jù</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to praise, to commend

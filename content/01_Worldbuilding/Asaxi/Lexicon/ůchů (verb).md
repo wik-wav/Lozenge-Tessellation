@@ -2,6 +2,8 @@
 freq: 71
 title: ůchů (verb) - to feel (emotionally)
 Word (Asaxi): ůchů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to feel (emotionally)
 trnsltion. Pl: czuć się
 Transitivity: intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /uu̯tʃuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ů · chů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to feel (emotionally), to believe oneself to be

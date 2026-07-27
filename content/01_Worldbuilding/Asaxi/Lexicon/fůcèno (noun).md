@@ -1,6 +1,8 @@
 ---
 title: fůcèno (noun) - taken-for-granted thing
 Word (Asaxi): fůcèno
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: a thing taken for granted, an unappreciated possession
 trnsltion. Pl: rzecz brana za pewnik
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /fuu̯t̻͡s̪əno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · cè · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Virtues & Failings|Virtues & Failings]], [[Smntc_Field Existence|Existence]]

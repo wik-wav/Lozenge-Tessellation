@@ -1,6 +1,8 @@
 ---
 title: fůmă (particle) - none, zero, not any
 Word (Asaxi): fůmă
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: none, zero, not any, the empty set
 tags:
   - Asaxi
@@ -17,6 +19,12 @@ tags:
 ### Pronunciation
 
 **IPA:** /fuu̯maɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · mă</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Lexical Classification
 

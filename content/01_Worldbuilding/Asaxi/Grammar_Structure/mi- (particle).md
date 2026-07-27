@@ -1,6 +1,8 @@
 ---
 title: mi- (particle) - "Currently feeling", "Sensing right now", "Internally experiencing".
 Word (Asaxi): mi-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: '"Currently feeling", "Sensing right now", "Internally experiencing".'
 tags:
   - Asaxi
@@ -32,6 +34,12 @@ Used to describe feelings, sensations, or internal states occurring *right now*.
 ### Pronunciation
 
 IPA: /mi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mi</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

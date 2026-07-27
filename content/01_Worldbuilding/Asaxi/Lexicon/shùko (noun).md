@@ -2,6 +2,8 @@
 freq: 51
 title: shùko (noun) - cliff / precipice
 Word (Asaxi): shùko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: cliff / precipice
 trnsltion. Pl: urwisko
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʃɯko/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shù · ko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

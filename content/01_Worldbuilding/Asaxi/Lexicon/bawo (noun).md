@@ -2,6 +2,8 @@
 freq: 69
 title: bawo (noun) - the side
 Word (Asaxi): bawo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: the side
 trnsltion. Pl: bok, strona
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /bawo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · wo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

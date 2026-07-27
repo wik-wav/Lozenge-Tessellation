@@ -2,6 +2,8 @@
 freq: 88
 title: so (noun) - smoke
 Word (Asaxi): so
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: smoke
 trnsltion. Pl: dym
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /so/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">so</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]]

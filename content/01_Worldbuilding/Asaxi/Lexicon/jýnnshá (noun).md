@@ -2,6 +2,8 @@
 freq: 35
 title: jýnnshá (noun) - hyena
 Word (Asaxi): jýnnshá
+pitch_accent: L.L.H
+pitch_accent_class: lexical
 trnsltion. En: hyena
 trnsltion. Pl: hiena
 tags:
@@ -21,6 +23,12 @@ warm
 
 ### Pronunciation
 IPA: /Ʝɪ.n̩.ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jý · nn · shá</span>
+- **Pattern:** `L · L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

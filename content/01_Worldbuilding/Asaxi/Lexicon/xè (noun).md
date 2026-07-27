@@ -2,6 +2,8 @@
 freq: 62
 title: xè (noun) - effort, exertion
 Word (Asaxi): xè
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: effort, exertion, strain, try, attempt
 trnsltion. Pl: wysiłek, trud, próba
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xè</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Behaviour]] / Action

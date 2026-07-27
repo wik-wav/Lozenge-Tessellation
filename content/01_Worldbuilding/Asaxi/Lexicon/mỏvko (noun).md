@@ -2,6 +2,8 @@
 freq: 56
 title: mỏvko (noun) - grandmother
 Word (Asaxi): mỏvko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: grandmother
 trnsltion. Pl: babcia
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mou̯b̪vko̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mỏ · vko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

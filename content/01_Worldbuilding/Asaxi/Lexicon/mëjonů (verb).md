@@ -2,6 +2,8 @@
 freq: 73
 title: mëjonů (verb) - to look, to use one's eyes
 Word (Asaxi): mëjonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to look, to use one's eyes, to gaze
 trnsltion. Pl: patrzeć, oglądać, doglądać
 Transitivity: intransitive, transitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /meɪꞲonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">më · jo · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to look, to use one's eyes, to gaze

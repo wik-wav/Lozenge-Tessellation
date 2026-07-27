@@ -2,6 +2,8 @@
 freq: 60
 title: maoro (noun) - silver
 Word (Asaxi): maoro
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: silver
 trnsltion. Pl: srebro
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /maoro/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · o · ro</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

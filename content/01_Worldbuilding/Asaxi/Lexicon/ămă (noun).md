@@ -1,6 +1,8 @@
 ---
 title: ămă (noun) - the right time, the subjective moment, kairos
 Word (Asaxi): ămă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: the right time
 trnsltion. Pl: we właściwy czas
 trnsltion. En 2: just then, at that very moment
@@ -24,6 +26,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɪmaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă · mă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

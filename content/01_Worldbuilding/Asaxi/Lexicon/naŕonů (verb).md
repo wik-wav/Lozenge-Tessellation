@@ -2,6 +2,8 @@
 freq: 59
 title: naŕonů (verb) - to mix, to combine
 Word (Asaxi): naŕonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to mix, to combine, to blend, to compound, to multiply (action)
 trnsltion. Pl: mieszać, łączyć, mnożyć
 Transitivity: transitive
@@ -30,6 +32,12 @@ Takes objects to be combined.
 
 ### Pronunciation
 IPA: /naɾonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">na · ŕo · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to mix, to combine, to blend, to compound, to multiply (action)

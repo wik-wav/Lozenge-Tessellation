@@ -2,6 +2,8 @@
 freq: 50
 title: văno (noun) - harvest, crop
 Word (Asaxi): văno
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: harvest, crop
 trnsltion. Pl: plon, zbiory
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪vaɪno̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vă · no</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

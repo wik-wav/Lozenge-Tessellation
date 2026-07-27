@@ -2,6 +2,8 @@
 freq: 43
 title: kùpù (verb) - to tumble, to topple
 Word (Asaxi): kùpù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to tumble, to topple
 trnsltion. Pl: przewracać się
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kupɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kù · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to tumble, to topple

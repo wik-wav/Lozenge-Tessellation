@@ -2,6 +2,8 @@
 freq: 64
 title: ŕănabină (adjective) - fast, swift
 Word (Asaxi): ŕănabină
+pitch_accent: L.L.H.L
+pitch_accent_class: lexical
 trnsltion. En: fast
 trnsltion. Pl: szybki
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ɾaɪnabɪnaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · na · bi · nă</span>
+- **Pattern:** `L · L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Motion]] / Speed

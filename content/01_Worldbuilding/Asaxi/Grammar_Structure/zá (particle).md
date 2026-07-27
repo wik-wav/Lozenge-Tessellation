@@ -1,6 +1,8 @@
 ---
 title: zá (particle) - with, accompanied by
 Word (Asaxi): zá
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: with, accompanied by
 tags:
   - Asaxi
@@ -25,6 +27,12 @@ aliases:
 ### Pronunciation
 
 IPA: /zɑ/ (Based on phoneme `á` = /ɑ/)
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zá</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

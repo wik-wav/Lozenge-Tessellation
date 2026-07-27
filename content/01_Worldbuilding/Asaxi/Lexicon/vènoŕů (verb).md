@@ -1,6 +1,8 @@
 ---
 title: vènoŕů (verb) - to do woodwork, to carpenter
 Word (Asaxi): vènoŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to do woodwork, to carpenter
 trnsltion. Pl: stolarzyć
 Transitivity: monotransitive
@@ -29,6 +31,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /b̪vəno̞ɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vè · no · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to do woodwork, to carpenter

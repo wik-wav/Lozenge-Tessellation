@@ -2,6 +2,8 @@
 freq: 69
 title: ŕăijo (noun) - power, strength
 Word (Asaxi): ŕăijo
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: power, strength
 trnsltion. Pl: siła, moc
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɪiꞲo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · i · jo</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Politics / Abstract

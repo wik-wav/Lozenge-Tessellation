@@ -2,6 +2,8 @@
 freq: 62
 title: jåhjo (noun) - lodestar, destination, guiding star
 Word (Asaxi): jåhjo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: lodestar, destination, guiding star
 trnsltion. Pl: cel
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /Ʝau̯ço/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jå · hjo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Motion]] / [[Smntc_Field Emotion]]

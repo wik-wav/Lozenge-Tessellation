@@ -2,6 +2,8 @@
 freq: 55
 title: ŕobinů (verb) - to wire, to string up
 Word (Asaxi): ŕobinů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to wire, to string up
 trnsltion. Pl: łączyć drutem
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɾo̞binuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · bi · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to wire, to string up

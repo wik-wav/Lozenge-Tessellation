@@ -2,6 +2,8 @@
 freq: 51
 title: axa (noun) - laughter, laugh
 Word (Asaxi): axa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: laughter, laugh, mirth
 trnsltion. Pl: śmiech
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · xa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / [[Smntc_Field Behaviour]]

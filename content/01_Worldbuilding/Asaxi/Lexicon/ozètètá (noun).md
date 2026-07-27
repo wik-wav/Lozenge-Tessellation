@@ -2,6 +2,8 @@
 freq: 62
 title: ozètètá (noun) - mistake, error
 Word (Asaxi): ozètètá
+pitch_accent: L.L.H.L
+pitch_accent_class: lexical
 trnsltion. En: mistake, error
 trnsltion. Pl: błąd, pomyłka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ozət̪ət̪ɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · zè · tè · tá</span>
+- **Pattern:** `L · L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Error

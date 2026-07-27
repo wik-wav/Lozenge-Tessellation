@@ -2,6 +2,8 @@
 freq: 46
 title: gadă (noun) - immensity
 Word (Asaxi): gadă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: immensity (noun)
 trnsltion. Pl: ogrom, wielkość
 tags:
@@ -24,6 +26,12 @@ warm
 
 ### Pronunciation
 IPA: /ɡadaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · dă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

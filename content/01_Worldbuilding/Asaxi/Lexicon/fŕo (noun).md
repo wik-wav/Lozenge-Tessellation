@@ -2,6 +2,8 @@
 freq: 60
 title: fŕo (noun) - map
 Word (Asaxi): fŕo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: map
 trnsltion. Pl: mapa
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fŕo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

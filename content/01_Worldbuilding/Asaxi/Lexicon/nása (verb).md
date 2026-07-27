@@ -2,6 +2,8 @@
 freq: 55
 title: nása (verb) - to refuse, to deny
 Word (Asaxi): nása
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to refuse, to deny
 trnsltion. Pl: odmawiać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /nɑsa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ná · sa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to refuse, to deny

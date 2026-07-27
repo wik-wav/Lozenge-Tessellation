@@ -1,6 +1,8 @@
 ---
 title: se (particle) - Or (linking words/phrases, not clauses)
 Word (Asaxi): se
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Or (linking words/phrases, not clauses)
 tags:
   - Asaxi
@@ -31,6 +33,12 @@ Used to present alternatives within a single argument slot (Subject, Object, Adj
 ### Pronunciation
 
 IPA: /se/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">se</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentences
 

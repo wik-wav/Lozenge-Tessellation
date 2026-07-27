@@ -2,6 +2,8 @@
 freq: 64
 title: ăxo (verb) - to follow, to pursue
 Word (Asaxi): ăxo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to follow, to pursue, to trail, to track, to go after
 trnsltion. Pl: podążać (za), śledzić, iść za
 Transitivity: transitive
@@ -33,6 +35,12 @@ Takes an object (the person or path being followed).
 
 ### Pronunciation
 IPA: /aɪɦo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă · xo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to follow, to pursue, to trail, to track, to go after

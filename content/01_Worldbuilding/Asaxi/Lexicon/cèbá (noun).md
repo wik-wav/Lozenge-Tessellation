@@ -2,6 +2,8 @@
 freq: 49
 title: cèbá (noun) - onion (Pl. *cebula*)
 Word (Asaxi): cèbá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: onion (Pl. *cebula*)
 trnsltion. Pl: cebula
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̻͡s̪əbɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cè · bá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

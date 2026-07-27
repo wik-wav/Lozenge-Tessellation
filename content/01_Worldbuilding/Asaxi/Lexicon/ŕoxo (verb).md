@@ -2,6 +2,8 @@
 freq: 88
 title: ŕoxo (verb) - to flow, to stream
 Word (Asaxi): ŕoxo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to flow, to stream
 trnsltion. Pl: płynąć
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ɾo̞ɦo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · xo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to flow, to stream

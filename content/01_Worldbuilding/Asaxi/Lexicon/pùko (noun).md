@@ -2,6 +2,8 @@
 freq: 56
 title: pùko (noun) - hip
 Word (Asaxi): pùko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: hip
 trnsltion. Pl: biodro
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɯko̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · ko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

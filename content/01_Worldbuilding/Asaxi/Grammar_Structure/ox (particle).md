@@ -1,6 +1,8 @@
 ---
 title: ox (particle) - Oh!
 Word (Asaxi): ox
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Oh!
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ Placed at the **start** of the sentence.
 IPA: /oɦ/ (or /oɦ/)
 
 *Note:* The final consonant is a soft glottal or voiced glottal fricative, representing a breathy sigh.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ox</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

@@ -2,6 +2,8 @@
 freq: 48
 title: tată (noun) - mat (Jp. *tatami*)
 Word (Asaxi): tată
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: mat (Jp. *tatami*)
 trnsltion. Pl: mata
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪at̪aɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ta · tă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

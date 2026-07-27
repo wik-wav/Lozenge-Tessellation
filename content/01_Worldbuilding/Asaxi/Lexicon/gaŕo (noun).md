@@ -2,6 +2,8 @@
 freq: 70
 title: gaŕo (noun) - city, metropolis
 Word (Asaxi): gaŕo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: city, metropolis
 trnsltion. Pl: miasto, metropolia
 tags:
@@ -22,6 +24,12 @@ warm
 
 ### Pronunciation
 IPA: /ɡaɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · ŕo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

@@ -1,6 +1,8 @@
 ---
 title: ximă (particle) - "Daily", "Every day"
 Word (Asaxi): ximă
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: daily, every day
 tags:
   - Asaxi
@@ -25,6 +27,12 @@ Acts as a **Floating Temporal Adverb**, typically placed before the verb.
 
 ### Pronunciation
 IPA: /ɦima/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xi · mă</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

@@ -2,6 +2,8 @@
 freq: 49
 title: ijcè (verb) - to recognise
 Word (Asaxi): ijcè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to recognise
 trnsltion. Pl: rozpoznawać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ijt̻͡s̪ə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jcè</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to recognise

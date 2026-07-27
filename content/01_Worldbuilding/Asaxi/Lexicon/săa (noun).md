@@ -2,6 +2,8 @@
 freq: 61
 title: săa (noun) - heat, warmth (energy)
 Word (Asaxi): săa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: heat, warmth (energy)
 trnsltion. Pl: żar, ciepło, gorąco
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /saɪa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · a</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]]

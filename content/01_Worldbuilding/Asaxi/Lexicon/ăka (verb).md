@@ -3,6 +3,8 @@ id: axl0h6dy4
 freq: 69
 title: ăka (verb) - to call, to summon
 Word (Asaxi): ăka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to call, to summon
 trnsltion. Pl: wołać, wzywać
 Transitivity: monotransitive
@@ -34,6 +36,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /aɪka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to call, to summon

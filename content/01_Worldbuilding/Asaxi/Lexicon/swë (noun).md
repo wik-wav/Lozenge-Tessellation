@@ -2,6 +2,8 @@
 freq: 50
 title: swë (noun) - scales, scute
 Word (Asaxi): swë
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: scales
 trnsltion. Pl: łuski
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /sʷeɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">swë</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / [[Smntc_Field Animals]]

@@ -2,6 +2,8 @@
 freq: 18
 title: vahùbåbå (noun) - rhomboids
 Word (Asaxi): vahùbåbå
+pitch_accent: L.L.H.L
+pitch_accent_class: lexical
 trnsltion. En: rhomboids
 trnsltion. Pl: mięśnie równoległoboczne
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /vaxɯbau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">va · hù · bå · bå</span>
+- **Pattern:** `L · L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

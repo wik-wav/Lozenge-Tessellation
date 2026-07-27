@@ -2,6 +2,8 @@
 freq: 58
 title: gaxiro (noun) - golden
 Word (Asaxi): gaxiro
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: golden
 trnsltion. Pl: złoty
 tags:
@@ -25,6 +27,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡaɦiɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · xi · ro</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

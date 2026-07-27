@@ -2,6 +2,8 @@
 freq: 47
 title: doko (verb) - to nod
 Word (Asaxi): doko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to nod
 trnsltion. Pl: kiwać głową
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /do̞ko̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">do · ko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to nod

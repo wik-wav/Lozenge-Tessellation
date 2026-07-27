@@ -1,6 +1,8 @@
 ---
 title: hù- (relational locative) (particle) - Behind, at the back of
 Word (Asaxi): hù-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Behind, at the back of
 tags:
   - Asaxi
@@ -31,6 +33,12 @@ Attaches to the front of the noun.
 ### Pronunciation
 
 IPA: /xɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

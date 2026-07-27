@@ -2,6 +2,8 @@
 freq: 54
 title: kjèmbi (noun) - playing card
 Word (Asaxi): kjèmbi
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: playing card, card
 trnsltion. Pl: karta (do gry)
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kʲəmbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè · mbi</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Tools]] / Entertainment

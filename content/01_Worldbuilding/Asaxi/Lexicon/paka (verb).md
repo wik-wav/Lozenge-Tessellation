@@ -2,6 +2,8 @@
 freq: 88
 title: paka (verb) - to hit, to strike
 Word (Asaxi): paka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to hit, to strike
 trnsltion. Pl: uderzać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /paka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pa · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to hit, to strike

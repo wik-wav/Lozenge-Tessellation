@@ -1,6 +1,8 @@
 ---
 title: bă (particle) - by means of, by, through, by (during)
 Word (Asaxi): bă
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: by means of, by, through, by (during)
 tags:
   - Asaxi
@@ -37,6 +39,12 @@ aliases:
 ### Pronunciation
 
 IPA: /baɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bă</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentences
 

@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): pùxă
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: I hope not
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ title: pùxă (particle) - "I hope not", "God forbid", "Lest".
 ### Pronunciation
 
 IPA: /pɯɦaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · xă</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Example sentence
 

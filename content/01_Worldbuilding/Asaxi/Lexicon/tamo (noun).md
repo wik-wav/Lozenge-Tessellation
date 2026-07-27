@@ -2,6 +2,8 @@
 freq: 59
 title: tamo (noun) - limit, end
 Word (Asaxi): tamo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: limit
 trnsltion. Pl: kres
 trnsltion. En 2: edge, end, corner (of a thing)
@@ -24,6 +26,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪amo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ta · mo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]] / [[Smntc_Field Geography (Topography)]]

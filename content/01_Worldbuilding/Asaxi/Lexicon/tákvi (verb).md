@@ -2,6 +2,8 @@
 freq: 67
 title: tákvi (verb) - to win, to triumph
 Word (Asaxi): tákvi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to win, to triumph
 trnsltion. Pl: zwyciężać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /t̪ɑkb̪vi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tá · kvi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to win, to triumph

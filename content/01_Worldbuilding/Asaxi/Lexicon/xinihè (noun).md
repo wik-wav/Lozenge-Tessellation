@@ -2,6 +2,8 @@
 freq: 53
 title: xinihè (noun) - dawn, sunrise
 Word (Asaxi): xinihè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: dawn, sunrise
 trnsltion. Pl: świt
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦinixə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xi · nihè</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

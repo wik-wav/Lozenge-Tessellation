@@ -2,6 +2,8 @@
 freq: 40
 title: pivatxe (noun) - petal (flower-leaf)
 Word (Asaxi): pivatxe
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: petal (flower-leaf)
 trnsltion. Pl: płatek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pib̪vat̪ʰe̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pi · va · txe</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

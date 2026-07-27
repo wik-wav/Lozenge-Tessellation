@@ -3,6 +3,8 @@ id: axbcr3wsb
 freq: 88
 title: aśo (noun) - foot, hind paw
 Word (Asaxi): aśo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: foot
 trnsltion. Pl: stopa
 tags:
@@ -24,6 +26,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɕo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · śo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

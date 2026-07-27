@@ -2,6 +2,8 @@
 freq: 66
 title: maxogă (verb) - to bring
 Word (Asaxi): maxogă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to bring
 trnsltion. Pl: przynosić
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /maɦogaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · xo · gă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to bring

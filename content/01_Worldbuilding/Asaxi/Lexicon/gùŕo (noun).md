@@ -2,6 +2,8 @@
 freq: 51
 title: gùŕo (noun) - rope, cord
 Word (Asaxi): gùŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: rope, cord
 trnsltion. Pl: lina, sznur
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /gɯɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gù · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

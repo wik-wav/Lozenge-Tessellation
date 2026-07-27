@@ -2,6 +2,8 @@
 freq: 88
 title: jå (verb) - want, desire
 Word (Asaxi): jå
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: want, desire
 trnsltion. Pl: chcieć
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ Takes an object (noun) or a destination.
 
 ### Pronunciation
 IPA: /Ʝau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jå</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to want, to desire, to hunger for

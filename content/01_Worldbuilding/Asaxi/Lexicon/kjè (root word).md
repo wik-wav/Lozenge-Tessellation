@@ -1,6 +1,8 @@
 ---
 title: kjè (root word) - "of or related to trees"
 Word (Asaxi): kjè
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: '"of or related to trees"'
 tags:
   - Asaxi
@@ -19,6 +21,12 @@ Adds the "of or related to trees" meaning to nouns it appears in
 
 ### Pronunciation
 IPA: /kʲə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Alternative Forms
 x

@@ -2,6 +2,8 @@
 freq: 42
 title: xopă (verb) - to eject, expel, loose, launch
 Word (Asaxi): xopă
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to eject, expel, loose, launch
 trnsltion. Pl: wyrzucać, wystrzeliwać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /xopaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · pă</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to eject, expel, loose, launch

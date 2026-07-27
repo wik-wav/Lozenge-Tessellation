@@ -2,6 +2,8 @@
 freq: 60
 title: ispănýj (adjective) - wild, untamed
 Word (Asaxi): ispănýj
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: wild, untamed, intense, raw, feral (positive)
 trnsltion. Pl: dziki, nieokiełznany
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ispanɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · spă · nýj</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Personality

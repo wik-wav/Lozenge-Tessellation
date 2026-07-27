@@ -1,6 +1,8 @@
 ---
 title: ojano (particle) - One by one
 Word (Asaxi): ojano
+pitch_accent: L.L.L
+pitch_accent_class: atonal
 trnsltion. En: One by one
 tags:
   - Asaxi
@@ -36,6 +38,12 @@ This particle is a **Floating Quantifier**. Its position determines what is bein
 ### Pronunciation
 
 IPA: /oꞲano/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · ja · no</span>
+- **Pattern:** `L · L · L`
+- **Class:** `atonal`
 
 ### Translations
 

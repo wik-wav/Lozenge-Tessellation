@@ -2,6 +2,8 @@
 freq: 88
 title: chỏno (noun) - food
 Word (Asaxi): chỏno
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: food
 trnsltion. Pl: jedzenie, strawa
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̠ʃou̯no/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chỏ · no</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

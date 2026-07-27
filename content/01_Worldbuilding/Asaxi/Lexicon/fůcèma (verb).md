@@ -1,6 +1,8 @@
 ---
 title: fůcèma (verb) - to take for granted
 Word (Asaxi): fůcèma
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to take for granted
 trnsltion. Pl: brać za pewnik
 Transitivity: transitive
@@ -32,6 +34,12 @@ Takes an object (often a fact, situation, or person) which is possessed or exper
 
 ### Pronunciation
 IPA: /fuu̯t̻͡s̪əma/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · cè · ma</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to take for granted; to assume possession without knowledge/gratitude

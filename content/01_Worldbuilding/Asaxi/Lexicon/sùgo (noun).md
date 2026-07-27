@@ -2,6 +2,8 @@
 freq: 55
 title: sùgo (noun) - crystal / quartz
 Word (Asaxi): sùgo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: crystal / quartz
 trnsltion. Pl: kryształ
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /sɯɡo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sù · go</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

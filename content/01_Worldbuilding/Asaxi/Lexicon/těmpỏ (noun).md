@@ -2,6 +2,8 @@
 freq: 57
 title: těmpỏ (noun) - hat
 Word (Asaxi): těmpỏ
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: hat
 trnsltion. Pl: kapelusz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪əmpou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tě · mpỏ</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

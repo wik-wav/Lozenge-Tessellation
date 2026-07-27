@@ -2,6 +2,8 @@
 freq: 69
 title: cèva (verb) - to believe, to hold true
 Word (Asaxi): cèva
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to believe, to hold true
 trnsltion. Pl: wierzyć
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪əb̪va/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cè · va</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to believe, to hold true

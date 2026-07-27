@@ -2,6 +2,8 @@
 freq: 88
 title: o-gă (noun) - here, this place
 Word (Asaxi): o-gă
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: here, this place, hither
 trnsltion. Pl: tutaj, tu
 tags:
@@ -22,6 +24,12 @@ Reasoning: Abstract concept of "here"
 
 ### Pronunciation
 IPA: /ogaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o | gă</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]] 

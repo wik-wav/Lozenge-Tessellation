@@ -2,6 +2,8 @@
 freq: 57
 title: mùa (verb) - to kiss
 Word (Asaxi): mùa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to kiss
 trnsltion. Pl: całować
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /mɯa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mù · a</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to kiss

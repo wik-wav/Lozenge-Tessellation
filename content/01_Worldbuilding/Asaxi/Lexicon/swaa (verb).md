@@ -2,6 +2,8 @@
 freq: 42
 title: swaa (verb) - to glide
 Word (Asaxi): swaa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to glide
 trnsltion. Pl: szybować
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /sʷaa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">swa · a</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to glide

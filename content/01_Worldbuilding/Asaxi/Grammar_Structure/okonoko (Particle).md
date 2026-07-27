@@ -1,6 +1,8 @@
 ---
 title: okonoko (particle) - Here and there
 Word (Asaxi): okonoko
+pitch_accent: L.L.L.L
+pitch_accent_class: atonal
 trnsltion. En: Here and there
 tags:
   - Asaxi
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /okonoko/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · ko · no · ko</span>
+- **Pattern:** `L · L · L · L`
+- **Class:** `atonal`
 
 ### Etymology
 

@@ -1,6 +1,8 @@
 ---
 title: vozè (noun) - In the immediate past
 Word (Asaxi): vozè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: In the immediate past
 tags:
   - Asaxi
@@ -22,6 +24,12 @@ tags:
 ### Pronunciation
 
 IPA: /vozə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vo · zè</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

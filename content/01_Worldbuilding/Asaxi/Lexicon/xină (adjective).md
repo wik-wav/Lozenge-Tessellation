@@ -2,6 +2,8 @@
 freq: 51
 title: xină (adjective) - sunny, golden, radiant
 Word (Asaxi): xină
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: sunny, golden, radiant
 trnsltion. Pl: słoneczny, promienny
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ɦinaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xi · nă</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

@@ -1,6 +1,8 @@
 ---
 title: fůcőma (verb) - to have without appreciation
 Word (Asaxi): fůcőma
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to have without appreciation
 trnsltion. Pl: posiadać bez docenienia
 Transitivity: transitive
@@ -32,6 +34,12 @@ Takes an object (attribute, ability, or opportunity) that the subject possesses 
 
 ### Pronunciation
 IPA: /fuu̯t̻͡s̪oɪma/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · cő · ma</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to have without appreciation; to possess unawarely

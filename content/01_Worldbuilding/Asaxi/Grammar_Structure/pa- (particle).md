@@ -1,6 +1,8 @@
 ---
 title: pa- (particle) - in front of
 Word (Asaxi): pa-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: in front of
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ Attaches to the front of the noun.
 ### Pronunciation
 
 IPA: /pa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pa</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

@@ -2,6 +2,8 @@
 freq: 51
 title: jýmbo (noun) - drum (sound-thing)
 Word (Asaxi): jýmbo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: drum (sound-thing)
 trnsltion. Pl: bęben
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /jɪmbo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jý · mbo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

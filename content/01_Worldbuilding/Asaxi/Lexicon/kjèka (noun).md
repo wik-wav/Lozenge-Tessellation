@@ -2,6 +2,8 @@
 freq: 67
 title: kjèka (noun) - saw (wood-tool)
 Word (Asaxi): kjèka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: saw (wood-tool)
 trnsltion. Pl: piła
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kʲəka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

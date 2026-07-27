@@ -2,6 +2,8 @@
 freq: 47
 title: sùsù (verb) - to whisper
 Word (Asaxi): sùsù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to whisper
 trnsltion. Pl: szeptać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /sɯsɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sù · sù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to whisper

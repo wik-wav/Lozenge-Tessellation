@@ -2,6 +2,8 @@
 freq: 49
 title: văchỏno (noun) - vegetable
 Word (Asaxi): văchỏno
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: vegetable
 trnsltion. Pl: warzywo
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /vat̠ʃou̯no/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vă · chỏ · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

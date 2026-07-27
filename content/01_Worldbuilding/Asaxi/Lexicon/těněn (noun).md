@@ -2,6 +2,8 @@
 freq: 88
 title: těněn (noun) - head
 Word (Asaxi): těněn
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: head
 trnsltion. Pl: głowa
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /t̪ɚnɚn/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tě · něn</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

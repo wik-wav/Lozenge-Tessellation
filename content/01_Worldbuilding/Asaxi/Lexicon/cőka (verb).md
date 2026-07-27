@@ -2,6 +2,8 @@
 freq: 55
 title: cőka (verb) - to solve, to work out
 Word (Asaxi): cőka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to solve, to work out
 trnsltion. Pl: rozwiązywać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪oɪka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cő · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to solve, to work out

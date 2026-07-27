@@ -2,6 +2,8 @@
 freq: 60
 title: fwovi (noun) - hill
 Word (Asaxi): fwovi
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: hill
 trnsltion. Pl: wzgórze, pagórek
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /fʷovi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fwo · vi</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

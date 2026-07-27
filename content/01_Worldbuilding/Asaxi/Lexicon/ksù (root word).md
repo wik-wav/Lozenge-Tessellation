@@ -1,6 +1,8 @@
 ---
 title: ksù (root word) - slow erosion / wearing
 Word (Asaxi): ksù
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: "of or relating to slow erosion, grinding, wearing-down"
 tags:
   - Asaxi
@@ -20,6 +22,12 @@ Bound **root**. Adds the sense of *slow erosion / grinding / wearing-down* — t
 
 ### Pronunciation
 IPA: /ksɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ksù</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Alternative Forms
 Null

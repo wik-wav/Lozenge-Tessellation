@@ -2,6 +2,8 @@
 title: ő (demonstrative) (particle) - Like this, In this way, Thus
 trnsltion. En: Like this, In this way, Thus
 Word (Asaxi): ő
+pitch_accent: L
+pitch_accent_class: atonal
 tags:
   - Asaxi
   - language
@@ -25,6 +27,12 @@ Used to demonstrate a method or style. It typically appears immediately before t
 
 ### Pronunciation
 IPA: /oɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ő</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

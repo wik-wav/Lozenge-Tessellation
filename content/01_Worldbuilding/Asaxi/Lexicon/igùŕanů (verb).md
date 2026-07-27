@@ -1,6 +1,8 @@
 ---
 title: igùŕanů (verb) - to play
 Word (Asaxi): igùŕanů
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: to play
 trnsltion. Pl: bawić się
 Transitivity: intransitive
@@ -34,6 +36,12 @@ _intransitive verb_
 ### Pronunciation
 
 IPA: /iɡɯɾanuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · gù · ŕa · nů</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Translations
 

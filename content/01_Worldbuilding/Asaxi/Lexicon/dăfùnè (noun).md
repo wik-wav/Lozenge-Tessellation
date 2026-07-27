@@ -2,6 +2,8 @@
 freq: 62
 title: dăfùnè (noun) - ship
 Word (Asaxi): dăfùnè
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: ship
 trnsltion. Pl: statek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪfɯnə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · fù · nè</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Motion]]

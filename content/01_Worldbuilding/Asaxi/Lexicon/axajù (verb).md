@@ -2,6 +2,8 @@
 freq: 48
 title: axajù (verb) - to mock, to ridicule
 Word (Asaxi): axajù
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to mock, to ridicule
 trnsltion. Pl: wyśmiewać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /aɦajɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · xa · jù</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to mock, to ridicule

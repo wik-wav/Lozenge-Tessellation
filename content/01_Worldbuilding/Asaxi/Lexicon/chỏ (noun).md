@@ -2,6 +2,8 @@
 freq: 41
 title: chỏ (noun) - muzzle, maw, hunger
 Word (Asaxi): chỏ
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: muzzle, maw, hunger
 trnsltion. Pl: paszcza, głód
 tags:
@@ -22,6 +24,12 @@ warm
 
 ### Pronunciation
 IPA: /t̠ʃou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chỏ</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

@@ -2,6 +2,8 @@
 freq: 52
 title: chỏŕono (noun) - soup, broth
 Word (Asaxi): chỏŕono
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: soup, broth
 trnsltion. Pl: zupa
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̠ʃou̯ɾono/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chỏ · ŕo · no</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

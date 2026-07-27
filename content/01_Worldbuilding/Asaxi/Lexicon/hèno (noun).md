@@ -2,6 +2,8 @@
 freq: 88
 title: hèno (noun) - root (of a plant)
 Word (Asaxi): hèno
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: root (of a plant)
 trnsltion. Pl: korzeń
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /xəno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hè · no</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

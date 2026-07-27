@@ -2,6 +2,8 @@
 freq: 68
 title: dătáka (noun) - war, armed conflict
 Word (Asaxi): dătáka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: war, armed conflict, warfare
 trnsltion. Pl: wojna
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪt̪ɑka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · tá · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Behaviour]]

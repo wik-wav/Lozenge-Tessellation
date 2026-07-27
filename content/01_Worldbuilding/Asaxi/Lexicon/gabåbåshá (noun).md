@@ -2,6 +2,8 @@
 freq: 26
 title: gabåbåshá (noun) - muscular being, bodybuilder
 Word (Asaxi): gabåbåshá
+pitch_accent: L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: muscular being, bodybuilder, hulk, muscle-beast, hunk
 trnsltion. Pl: mięśniak, pakero, umięśniona istota
 tags:
@@ -24,6 +26,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡabau̯bau̯ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · bå · bå · shá</span>
+- **Pattern:** `L · H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / [[Smntc_Field Animals]]

@@ -1,6 +1,8 @@
 ---
 title: iŕonů (verb) - to enjoy oneself, to act freely
 Word (Asaxi): iŕonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to enjoy oneself, to act freely, to be expressive, to act eccentrically
 trnsltion. Pl: bawić się dobrze, być barwnym
 Transitivity: intransitive
@@ -28,6 +30,12 @@ tags:
 
 ### Pronunciation
 IPA: /iɾonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · ŕo · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to enjoy oneself, to act freely, to be expressive, to act eccentrically ("colourfully")

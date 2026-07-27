@@ -2,6 +2,8 @@
 freq: 53
 title: sháŕokam (noun) - shelter, safehouse
 Word (Asaxi): sháŕokam
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: shelter, safehouse
 trnsltion. Pl: schron
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʃɑɾokam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shá · ŕo · kam</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

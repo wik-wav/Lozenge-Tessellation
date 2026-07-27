@@ -2,6 +2,8 @@
 freq: 65
 title: xowỏ (verb) - to center, to converge
 Word (Asaxi): xowỏ
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to center, to converge, to align to middle
 trnsltion. Pl: wyśrodkować, zbiegać się
 Transitivity: intransitive, transitive
@@ -35,6 +37,12 @@ tags:
 ### Pronunciation
 IPA: /ɦowou̯/
 *Phonotactics:* Bridge `-w-` inserted between `xo` and `ỏ`.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · wỏ</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to center, to converge, to align to middle

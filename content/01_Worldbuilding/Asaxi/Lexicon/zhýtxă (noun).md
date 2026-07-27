@@ -1,6 +1,8 @@
 ---
 title: zhýtxă (noun) - winter
 Word (Asaxi): zhýtxă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: winter
 trnsltion. Pl: zima
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /ʑɪtʰaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zhý · txă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

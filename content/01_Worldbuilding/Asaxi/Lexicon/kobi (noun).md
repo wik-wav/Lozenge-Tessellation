@@ -2,6 +2,8 @@
 freq: 50
 title: kobi (noun) - farness, distance
 Word (Asaxi): kobi
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: farness, the far, remoteness
 trnsltion. Pl: dal, oddalenie
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kobi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ko · bi</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]

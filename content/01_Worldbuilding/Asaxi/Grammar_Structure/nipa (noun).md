@@ -1,6 +1,8 @@
 ---
 title: nipa (noun) - In the future
 Word (Asaxi): nipa
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: In the future
 tags:
   - Asaxi
@@ -22,6 +24,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɲipa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nipa</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

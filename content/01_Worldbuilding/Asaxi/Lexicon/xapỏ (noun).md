@@ -2,6 +2,8 @@
 freq: 55
 title: xapỏ (noun) - coat / cloak
 Word (Asaxi): xapỏ
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: coat / cloak
 trnsltion. Pl: płaszcz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦapou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · pỏ</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

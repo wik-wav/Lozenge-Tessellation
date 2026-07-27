@@ -2,6 +2,8 @@
 freq: 88
 title: toponů (verb) - to rain, to fall as drops
 Word (Asaxi): toponů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to rain, to fall as drops
 trnsltion. Pl: padać, kapać
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /toponɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">to · po · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to rain, to fall as drops

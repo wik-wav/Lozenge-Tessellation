@@ -1,6 +1,8 @@
 ---
 title: ŕonoxů (verb) - to serve a drink to
 Word (Asaxi): ŕonoxů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to serve a drink to
 trnsltion. Pl: podawać napój
 Transitivity: monotransitive
@@ -29,6 +31,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɾo̞no̞ɦuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · no · xů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to serve a drink to

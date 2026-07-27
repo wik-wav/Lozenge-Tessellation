@@ -1,6 +1,8 @@
 ---
 title: ipo (noun) - spot, fleck, dot, marking
 Word (Asaxi): ipo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: spot, fleck, dot, marking
 trnsltion. Pl: plamka, cętka
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /ipo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · po</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

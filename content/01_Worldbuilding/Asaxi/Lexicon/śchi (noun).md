@@ -2,6 +2,8 @@
 freq: 36
 title: śchi (noun) - centimeter, cm, unit of length
 Word (Asaxi): śchi
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: centimeter, cm, unit of length
 trnsltion. Pl: centymetr
 tags:
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 IPA: /ɕt͡ɕʲi/
 *Phonotactics:* A dense palatal cluster. /ɕ/ (soft s) + /t͡ɕ/ (soft ch) + /i/.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">śchi</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Numerals]] / Weights & Measures

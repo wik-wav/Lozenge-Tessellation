@@ -2,6 +2,8 @@
 freq: 39
 title: ŕămáka (noun) - hearth, stove (fire-vessel)
 Word (Asaxi): ŕămáka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: hearth, stove (fire-vessel)
 trnsltion. Pl: palenisko, piec
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɪmɑka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · má · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

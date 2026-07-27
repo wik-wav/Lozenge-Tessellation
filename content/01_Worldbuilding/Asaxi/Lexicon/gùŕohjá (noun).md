@@ -2,6 +2,8 @@
 freq: 88
 title: gùŕohjá (noun) - worm
 Word (Asaxi): gùŕohjá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: worm
 trnsltion. Pl: robak
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /gɯɾoçɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gù · ŕo · hjá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

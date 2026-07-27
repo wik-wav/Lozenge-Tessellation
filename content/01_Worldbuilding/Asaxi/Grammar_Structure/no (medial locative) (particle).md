@@ -1,6 +1,8 @@
 ---
 title: no (medial locative) (particle) - there
 Word (Asaxi): no
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En:
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ As an adverb, `no` refers to the thing or place being pointed at physically. (e.
 ### Pronunciation
 
 IPA: /no/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">no</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Alternative Forms
 

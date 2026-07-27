@@ -2,6 +2,8 @@
 freq: 88
 title: vètxe (noun) - leaf
 Word (Asaxi): vètxe
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: leaf
 trnsltion. Pl: liść
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /vətʰe/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vè · txe</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

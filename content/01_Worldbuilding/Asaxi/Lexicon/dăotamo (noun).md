@@ -2,6 +2,8 @@
 freq: 51
 title: dăotamo (noun) - horizon
 Word (Asaxi): dăotamo
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: horizon
 trnsltion. Pl: horyzont, widnokrąg
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /daotamo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · o · ta · mo</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

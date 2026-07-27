@@ -1,6 +1,8 @@
 ---
 title: na (particle) - you (plural)
 Word (Asaxi): na
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: you (plural)
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ The pronoun `na` (you (all)) is a third-person plural nominative pronoun.
 ### Pronunciation
 
 IPA: /na/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">na</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Alternative Forms
 

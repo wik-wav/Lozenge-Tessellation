@@ -1,6 +1,8 @@
 ---
 title: sëokùki (noun) - crab
 Word (Asaxi): sëokùki
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: crab
 trnsltion. Pl: krab
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /se̞ɪo̞kɯki/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">së · o · kù · ki</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

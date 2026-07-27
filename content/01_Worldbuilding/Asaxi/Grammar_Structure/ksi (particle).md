@@ -1,6 +1,8 @@
 ---
 title: ksi (particle) - Where?
 Word (Asaxi): ksi
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Where?
 tags:
   - Asaxi
@@ -22,6 +24,12 @@ tags:
 ### Pronunciation
 
 IPA: /kɕi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ksi</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Etymology
 

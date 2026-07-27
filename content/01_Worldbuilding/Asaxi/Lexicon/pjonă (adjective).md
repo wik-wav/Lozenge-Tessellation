@@ -2,6 +2,8 @@
 freq: 58
 title: pjonă (adjective) - bright, luminous, radiant
 Word (Asaxi): pjonă
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: bright, luminous, radiant, shining, intense (visually)
 trnsltion. Pl: jasny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /pʲonaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pjo · nă</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Perception]] / [[Smntc_Field Physics]]

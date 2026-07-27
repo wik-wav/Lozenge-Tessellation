@@ -2,6 +2,8 @@
 freq: 65
 title: hwo (noun) - yesterday
 Word (Asaxi): hwo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: yesterday
 trnsltion. Pl: wczoraj
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /xʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hwo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

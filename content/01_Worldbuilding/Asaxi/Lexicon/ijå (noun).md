@@ -2,6 +2,8 @@
 freq: 59
 title: ijå (noun) - a sight, a view
 Word (Asaxi): ijå
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: a sight, a view
 trnsltion. Pl: widok, wizja
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /iꞲau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jå</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Perception]] / Appearance

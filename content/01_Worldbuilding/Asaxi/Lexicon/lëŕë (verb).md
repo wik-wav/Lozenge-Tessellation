@@ -2,6 +2,8 @@
 freq: 47
 title: lëŕë (verb) - to lick
 Word (Asaxi): lëŕë
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to lick
 trnsltion. Pl: lizać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /leɪɾeɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">lë · ŕë</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to lick

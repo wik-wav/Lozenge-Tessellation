@@ -1,6 +1,8 @@
 ---
 title: xè- (particle) - To try to; expresses the attempt to perform an action.
 Word (Asaxi): xè-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: To try to; expresses the attempt or exertion to perform an action.
 tags:
   - Asaxi
@@ -33,6 +35,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɦə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xè</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

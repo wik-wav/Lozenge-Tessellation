@@ -2,6 +2,8 @@
 freq: 56
 title: shánă (adjective) - wise, fallible
 Word (Asaxi): shánă
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: wise, fallible
 trnsltion. Pl: mądry, zawodny, omylny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ʃɑnaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shá · nă</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 x

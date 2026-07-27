@@ -2,6 +2,8 @@
 freq: 52
 title: cùŕoŕo (noun) - mud
 Word (Asaxi): cùŕoŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: mud
 trnsltion. Pl: błoto
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̻͡sɯɾoɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cù · ŕo · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

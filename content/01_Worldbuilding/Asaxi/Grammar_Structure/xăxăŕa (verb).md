@@ -1,6 +1,8 @@
 ---
 title: xăxăŕa (verb) - It would be (a fact)
 Word (Asaxi): xăxăŕa
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: It would be (a fact)
 tags:
   - Asaxi
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɦaɪɦaɪɾa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · xă · ŕa</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Existence]] [[Smntc_Field Logic]]

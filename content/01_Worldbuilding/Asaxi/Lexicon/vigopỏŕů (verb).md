@@ -1,6 +1,8 @@
 ---
 title: vigopỏŕů (verb) - to mill flour
 Word (Asaxi): vigopỏŕů
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: to mill flour
 trnsltion. Pl: mleć mąkę
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /b̪viɡo̞pou̯ɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · go · pỏ · ŕů</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to mill flour

@@ -2,6 +2,8 @@
 freq: 38
 title: xăpù (verb) - to yawn
 Word (Asaxi): xăpù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to yawn
 trnsltion. Pl: ziewać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ɦaɪpɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to yawn

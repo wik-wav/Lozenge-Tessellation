@@ -2,6 +2,8 @@
 freq: 88
 title: vivinů (verb) - to live, to be alive,
 Word (Asaxi): vivinů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to live, to be alive, to thrive
 trnsltion. Pl: żyć
 Transitivity: intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /vivinuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · vi · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to live, to be alive, to thrive

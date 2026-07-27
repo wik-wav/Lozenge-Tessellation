@@ -2,6 +2,8 @@
 freq: 59
 title: dåka (verb) - to promise, to vow
 Word (Asaxi): dåka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to promise, to vow
 trnsltion. Pl: obiecywać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /dau̯ka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">då · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to promise, to vow

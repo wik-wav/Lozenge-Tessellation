@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): -j-
+pitch_accent: none
+pitch_accent_class: atonal
 trnsltion. En: To look like
 tags:
   - Asaxi
@@ -19,6 +21,12 @@ aliases:
 ### Pronunciation
 
 IPA: /Ʝ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">j</span>
+- **Pattern:** `none`
+- **Class:** `atonal`
 
 ### Example sentence
 

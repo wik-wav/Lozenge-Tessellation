@@ -2,6 +2,8 @@
 freq: 57
 title: xakam (noun) - roof
 Word (Asaxi): xakam
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: roof
 trnsltion. Pl: dach
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦakam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · kam</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

@@ -2,6 +2,8 @@
 freq: 46
 title: mùśonů (verb) - to rot, to moulder
 Word (Asaxi): mùśonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to rot, to moulder
 trnsltion. Pl: gnić
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /mɯɕo̞nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mù · śo · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to rot, to moulder

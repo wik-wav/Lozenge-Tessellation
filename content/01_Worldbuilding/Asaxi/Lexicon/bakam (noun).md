@@ -2,6 +2,8 @@
 freq: 63
 title: bakam (noun) - wall
 Word (Asaxi): bakam
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: wall
 trnsltion. Pl: ściana, mur
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /bakam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · kam</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

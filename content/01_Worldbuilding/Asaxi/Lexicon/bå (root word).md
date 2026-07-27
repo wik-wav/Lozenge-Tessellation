@@ -2,6 +2,8 @@
 freq: 56
 title: bå (root word) - muscle, brawn
 Word (Asaxi): bå
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: 'muscle, brawn'
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ The combining form of [[båbå (noun)|båbå]] (muscle), contributing 'muscle / 
 
 ### Pronunciation
 IPA: /bau/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bå</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Alternative Forms
 - båbå (full form)

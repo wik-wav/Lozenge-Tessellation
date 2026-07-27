@@ -1,6 +1,8 @@
 ---
 title: ksá (particle) - How?
 Word (Asaxi): ksá
+pitch_accent: H
+pitch_accent_class: dominant
 trnsltion. En: How?
 trnsltion. En 2: like, as (comparative connective)
 trnsltion. Pl 2: jak, niczym
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /ksɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ksá</span>
+- **Pattern:** `H`
+- **Class:** `dominant`
 
 ### Etymology
 

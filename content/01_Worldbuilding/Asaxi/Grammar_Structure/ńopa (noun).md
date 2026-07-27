@@ -1,6 +1,8 @@
 ---
 title: ńopa (noun) - in the immediate future
 Word (Asaxi): ńopa
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: in the immediate future
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 
 IPA: /ɲopa/
 *Note:* The `ni` + `o` fusion creates the palatal nasal /ɲ/.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ńo · pa</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

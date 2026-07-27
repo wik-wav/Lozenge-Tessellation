@@ -2,6 +2,8 @@
 freq: 52
 title: rogi (noun) - bronze
 Word (Asaxi): rogi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: bronze
 trnsltion. Pl: brąz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɹo̞ɡi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ro · gi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

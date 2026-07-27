@@ -2,6 +2,8 @@
 freq: 53
 title: ochi (verb) - to sink, to drop (Jp. *ochiru*)
 Word (Asaxi): ochi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to sink, to drop (Jp. *ochiru*)
 trnsltion. Pl: tonąć, opadać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /o̞t̠ʃi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · chi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to sink, to drop (Jp. *ochiru*)

@@ -1,6 +1,8 @@
 ---
 title: izo (particle) - from, out of, since
 Word (Asaxi): izo
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: from, out of, since
 tags:
   - Asaxi
@@ -25,6 +27,12 @@ aliases:
 ### Pronunciation
 
 IPA: /izo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · zo</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentences
 

@@ -2,6 +2,8 @@
 freq: 34
 title: popo (noun) - seashell, shell
 Word (Asaxi): popo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: seashell, shell
 trnsltion. Pl: muszla
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /popo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">po · po</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

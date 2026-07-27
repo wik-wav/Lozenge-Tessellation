@@ -1,6 +1,8 @@
 ---
 title: săni (particle) - most, the majority
 Word (Asaxi): săni
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: most
 trnsltion. Pl: większość
 tags:
@@ -28,6 +30,12 @@ Cold
 ### Pronunciation
 
 IPA: /saɪɲi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">săni</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Semantic field
 

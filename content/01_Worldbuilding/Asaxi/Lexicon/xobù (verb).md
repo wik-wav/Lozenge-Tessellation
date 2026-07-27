@@ -2,6 +2,8 @@
 freq: 54
 title: xobù (verb) - to bow, to stoop
 Word (Asaxi): xobù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to bow, to stoop
 trnsltion. Pl: kłaniać się
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ɦo̞bɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · bù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to bow, to stoop

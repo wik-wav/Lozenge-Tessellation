@@ -2,6 +2,8 @@
 freq: 56
 title: xapo (verb) - to lift, to raise
 Word (Asaxi): xapo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to lift, to raise
 trnsltion. Pl: podnosić
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɦapo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · po</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to lift, to raise

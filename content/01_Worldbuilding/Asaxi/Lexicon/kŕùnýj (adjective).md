@@ -2,6 +2,8 @@
 freq: 45
 title: kŕùnýj (adjective) - rusty, oxide-red, dull cold-red
 Word (Asaxi): kŕùnýj
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: rusty, oxide-red, dull cold-red
 trnsltion. Pl: rdzawy, matowoczerwony
 tags:
@@ -29,6 +31,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /kɾɯnɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kŕù · nýj</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

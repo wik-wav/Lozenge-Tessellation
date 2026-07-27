@@ -1,6 +1,8 @@
 ---
 title: xaembi (noun) - balcony
 Word (Asaxi): xaembi
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: balcony
 trnsltion. Pl: balkon
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɦae̞mbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · e · mbi</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

@@ -2,6 +2,8 @@
 freq: 47
 title: kjèkiŕo (noun) - axe
 Word (Asaxi): kjèkiŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: axe
 trnsltion. Pl: siekiera
 tags:
@@ -21,6 +23,12 @@ cold
 
 ### Pronunciation
 IPA: /kʲəkiɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè · ki · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

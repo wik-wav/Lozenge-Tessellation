@@ -1,6 +1,8 @@
 ---
 title: vivi (family of plants) (noun) - grass (as in family of plants)
 Word (Asaxi): vivi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: grass
 trnsltion. Pl: trawa
 tags:
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /vivi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · vi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

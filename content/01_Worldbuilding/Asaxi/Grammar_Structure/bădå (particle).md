@@ -1,6 +1,8 @@
 ---
 title: bădå (particle) - "Because of and for the sake of", "Driven by and aiming for", "Due to and for".
 Word (Asaxi): bădå
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: '"Because of and for the sake of", "Driven by and aiming for", "Due to and for".'
 tags:
   - Asaxi
@@ -27,6 +29,12 @@ Used when the motivation for an action is both the **Origin/Cause** (bă) and th
 ### Pronunciation
 
 IPA: /baɪdau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bă · då</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

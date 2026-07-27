@@ -28,6 +28,25 @@ prose continue to use the site theme fonts.
 
 ## Local Development
 
+The authoritative Obsidian vault is the separate local directory
+`D:\wyash\Documents\Lozenge-T-Vault\Lozenge-T-Notes`. The `content/`
+directory in this Quartz checkout is a publication mirror. Before building,
+update that mirror with the checked synchronization tool in the tools
+workspace:
+
+```powershell
+py -3.14 D:\wyash\Documents\Lozenge-T-Vault\99_Tools\sync_quartz_content.py `
+  --quartz D:\wyash\Documents\HTML\Lozenge_Vault\quartz `
+  --apply
+```
+
+Omit `--apply` for a read-only drift check. The tool copies only changed or
+missing files, rejects symlinks, and does not delete target-only files unless
+`--prune` is supplied explicitly.
+
+`npx quartz sync` is Quartz's Git publication command. It does **not**
+synchronize the authoritative local Obsidian vault into `content/`.
+
 To preview the site locally or make structural changes:
 
 ### 1. Prerequisites
@@ -57,14 +76,17 @@ npx quartz build --serve
 
 This repository uses GitHub Actions to automatically build and deploy the site to GitHub Pages.
 
-To publish changes:
+To prepare local content and verify a production build:
 
-1. Save your Markdown files in content/.
-2. Commit and push to the repository:
+1. Update the authoritative `Lozenge-T-Notes` vault.
+2. Run the local synchronization command above with `--apply`.
+3. Build the site:
 
+```powershell
+npx quartz build
 ```
-npx quartz sync
-```
+
+Git commits, pushes, and deployment remain separate operations.
 
 ## License & Protocol
 

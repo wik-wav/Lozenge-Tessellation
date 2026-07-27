@@ -2,6 +2,8 @@
 freq: 88
 title: fůxăcèno (noun) - lie, falsehood
 Word (Asaxi): fůxăcèno
+pitch_accent: L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: lie, falsehood
 trnsltion. Pl: kłamstwo, fałsz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fuwɦaɪt̻͡s̪əno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · xă · cè · no</span>
+- **Pattern:** `L · H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Communication]]

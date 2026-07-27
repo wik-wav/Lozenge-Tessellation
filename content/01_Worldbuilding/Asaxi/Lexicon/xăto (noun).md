@@ -2,6 +2,8 @@
 freq: 48
 title: xăto (noun) - hut / cabin
 Word (Asaxi): xăto
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: hut / cabin
 trnsltion. Pl: chata
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦaɪt̪o/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · to</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

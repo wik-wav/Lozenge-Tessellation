@@ -2,6 +2,8 @@
 freq: 56
 title: vkozèshá (noun) - elder, grandparent, person of the old days
 Word (Asaxi): vkozèshá
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: elder, grandparent, person of the old days
 trnsltion. Pl: starszy; dziadek, babcia
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fkozəʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vko · zè · shá</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

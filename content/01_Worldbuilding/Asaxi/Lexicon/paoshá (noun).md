@@ -2,6 +2,8 @@
 freq: 60
 title: paoshá (noun) - horse
 Word (Asaxi): paoshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: horse
 trnsltion. Pl: koń
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /paoʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pa · o · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

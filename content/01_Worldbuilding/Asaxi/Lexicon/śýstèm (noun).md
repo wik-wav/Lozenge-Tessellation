@@ -2,6 +2,8 @@
 freq: 70
 title: śýstèm (noun) - system
 Word (Asaxi): śýstèm
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: system
 trnsltion. Pl: system
 tags:
@@ -22,6 +24,12 @@ warm
 
 ### Pronunciation
 IPA: /ɕɪst̪em/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">śý · stèm</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

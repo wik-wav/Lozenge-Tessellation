@@ -2,6 +2,8 @@
 freq: 64
 title: kem (noun) - door, gate
 Word (Asaxi): kem
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: door, gate, portal
 trnsltion. Pl: drzewi, brama
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kem/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kem</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

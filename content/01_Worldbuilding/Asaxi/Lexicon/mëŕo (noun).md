@@ -2,6 +2,8 @@
 freq: 54
 title: mëŕo (noun) - tear
 Word (Asaxi): mëŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: tear
 trnsltion. Pl: łza
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /meɪɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">më · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

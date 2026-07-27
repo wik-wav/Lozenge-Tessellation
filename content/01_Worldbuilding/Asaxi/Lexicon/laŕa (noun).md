@@ -2,6 +2,8 @@
 freq: 88
 title: laŕa (noun) - tongue
 Word (Asaxi): laŕa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: tongue
 trnsltion. Pl: język
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /laɾa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">la · ŕa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

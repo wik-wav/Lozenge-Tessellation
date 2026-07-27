@@ -2,6 +2,8 @@
 freq: 88
 title: owao (noun) - Earth (planet)
 Word (Asaxi): owao
+pitch_accent: L.L.H
+pitch_accent_class: lexical
 trnsltion. En: Earth (planet)
 trnsltion. Pl: Ziemia
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /owa.o/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · wa · o</span>
+- **Pattern:** `L · L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]] / Cosmology

@@ -2,6 +2,8 @@
 freq: 50
 title: ihjáka (noun) - needle (quill-tool)
 Word (Asaxi): ihjáka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: needle (quill-tool)
 trnsltion. Pl: igła
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /içɑka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · hjá · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

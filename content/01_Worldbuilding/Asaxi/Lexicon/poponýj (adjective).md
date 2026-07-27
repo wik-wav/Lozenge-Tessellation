@@ -2,6 +2,8 @@
 freq: 31
 title: poponýj (adjective) - ashen-pink, pale shell-pink, wan-rose
 Word (Asaxi): poponýj
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: ashen-pink, pale shell-pink, wan-rose
 trnsltion. Pl: bladoróżowy, perłowy
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /poponɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">po · po · nýj</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

@@ -1,6 +1,8 @@
 ---
 title: pa (particle) - Explicit Future
 Word (Asaxi): pa
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Explicit Future
 tags:
   - Asaxi
@@ -14,6 +16,13 @@ tags:
 <span class="asaxi-script">pa</span>
 
 <span class="asaxi-script-alpha">pa</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pa</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Type:** Tense Prefix

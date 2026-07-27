@@ -2,6 +2,8 @@
 freq: 40
 title: ŕăŕo (noun) - magma, molten rock
 Word (Asaxi): ŕăŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: magma, molten rock
 trnsltion. Pl: magma
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɪɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]]

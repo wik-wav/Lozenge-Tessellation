@@ -2,6 +2,8 @@
 freq: 24
 title: babåbå (noun) - obliques
 Word (Asaxi): babåbå
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: obliques
 trnsltion. Pl: mięśnie skośne
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /babau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · bå · bå</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

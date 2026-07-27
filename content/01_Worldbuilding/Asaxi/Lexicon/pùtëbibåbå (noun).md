@@ -1,6 +1,8 @@
 ---
 title: pùtëbibåbå (noun) - forearm muscles
 Word (Asaxi): pùtëbibåbå
+pitch_accent: L.H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: forearm muscles
 trnsltion. Pl: mięśnie przedramienia
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɯt̪eɪbibau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · të · bi · bå · bå</span>
+- **Pattern:** `L · H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

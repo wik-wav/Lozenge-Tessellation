@@ -2,6 +2,8 @@
 freq: 38
 title: fůzùnýj (adjective) - unskilled
 Word (Asaxi): fůzùnýj
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: unskilled
 trnsltion. Pl: niewprawny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /fuu̯zɯnɪꞲ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · zù · nýj</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Virtues & Failings]]

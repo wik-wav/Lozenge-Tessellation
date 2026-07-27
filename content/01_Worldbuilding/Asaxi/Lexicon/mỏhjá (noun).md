@@ -2,6 +2,8 @@
 freq: 63
 title: mỏhjá (noun) - daughter
 Word (Asaxi): mỏhjá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: daughter
 trnsltion. Pl: córka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mou̯çɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mỏ · hjá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

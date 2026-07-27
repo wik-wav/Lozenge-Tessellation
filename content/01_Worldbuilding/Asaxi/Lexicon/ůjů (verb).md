@@ -2,6 +2,8 @@
 freq: 73
 title: ůjů (verb) - to look, to appear (visually)
 Word (Asaxi): ůjů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to look, to appear (visually)
 trnsltion. Pl: wyglądać (jakoś)
 Transitivity: intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /uu̯juu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ů · jů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to look, to appear, to seem (visually)

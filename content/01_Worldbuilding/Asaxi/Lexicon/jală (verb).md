@@ -2,6 +2,8 @@
 freq: 88
 title: jală (verb) - to fly, to soar
 Word (Asaxi): jală
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: to fly, to soar
 trnsltion. Pl: latać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ takes one argument, e.g. *The bird(1) flies.*
 
 ### Pronunciation
 IPA: /Ʝalaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ja · lă</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to fly, to soar

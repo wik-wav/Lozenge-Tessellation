@@ -2,6 +2,8 @@
 freq: 49
 title: ganáfwa (noun) - clarity, transparency
 Word (Asaxi): ganáfwa
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: clarity, transparency, cloudlessness (the quality)
 trnsltion. Pl: klarowność, przejrzystość
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡanɑfʷa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · ná · fwa</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

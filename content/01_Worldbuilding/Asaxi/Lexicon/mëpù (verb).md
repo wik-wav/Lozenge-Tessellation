@@ -2,6 +2,8 @@
 freq: 47
 title: mëpù (verb) - to blink
 Word (Asaxi): mëpù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to blink
 trnsltion. Pl: mrugać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /meɪpɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">më · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to blink

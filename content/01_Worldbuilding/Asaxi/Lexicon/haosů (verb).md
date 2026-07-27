@@ -2,6 +2,8 @@
 freq: 50
 title: haosů (verb) - to echo (sound-like a bark)
 Word (Asaxi): haosů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to echo (sound-like a bark)
 trnsltion. Pl: odbijać się echem
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /xao̞suu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ha · o · sů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to echo (sound-like a bark)

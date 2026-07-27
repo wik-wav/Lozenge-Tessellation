@@ -2,6 +2,8 @@
 freq: 56
 title: gámŕonů (verb) - to paint
 Word (Asaxi): gámŕonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to paint
 trnsltion. Pl: malować
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɡɑmɾo̞nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gá · mŕo · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to paint

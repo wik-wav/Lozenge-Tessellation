@@ -2,6 +2,8 @@
 freq: 63
 title: nỏcè (noun) - note, memo
 Word (Asaxi): nỏcè
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: note, memo, entry, record, reminder
 trnsltion. Pl: notatka, wpis, zapisek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /nou̯t͡sə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nỏ · cè</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Perception]] / Communication / Education

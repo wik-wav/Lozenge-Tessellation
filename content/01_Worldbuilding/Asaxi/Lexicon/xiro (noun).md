@@ -2,6 +2,8 @@
 freq: 65
 title: xiro (noun) - gold
 Word (Asaxi): xiro
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: gold
 trnsltion. Pl: złoto
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦiro/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xi · ro</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

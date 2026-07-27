@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): ŕèzinů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to be proud overtly, to carry oneself with confidence
 trnsltion. Pl: być dumnym
 Transitivity: intransitive
@@ -28,6 +30,12 @@ title: ŕèzinů (verb) - to be proud overtly
 
 ### Pronunciation
 IPA: /ɾəz̪inuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕè · zi · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to be proud overtly, to carry oneself with confidence

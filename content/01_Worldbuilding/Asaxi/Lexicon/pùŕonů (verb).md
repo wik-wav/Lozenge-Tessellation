@@ -2,6 +2,8 @@
 freq: 65
 title: pùŕonů (verb) - to share, to split
 Word (Asaxi): pùŕonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to share, to split, to distribute, to divide
 trnsltion. Pl: dzielić się, rozdzielać
 Transitivity: transitive, ditransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɯɾonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · ŕo · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to share, to split, to distribute, to divide

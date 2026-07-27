@@ -2,6 +2,8 @@
 freq: 88
 title: nodo (noun) - neck
 Word (Asaxi): nodo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: neck
 trnsltion. Pl: szyja
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /nodo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">no · do</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

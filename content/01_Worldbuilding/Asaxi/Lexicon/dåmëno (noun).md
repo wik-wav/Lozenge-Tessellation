@@ -2,6 +2,8 @@
 freq: 62
 title: dåmëno (noun) - message, letter
 Word (Asaxi): dåmëno
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: message, letter
 trnsltion. Pl: wiadomość, list
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /dau̯meɪno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">då · më · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Communication]]

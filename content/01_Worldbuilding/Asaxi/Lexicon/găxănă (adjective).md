@@ -2,6 +2,8 @@
 freq: 52
 title: găxănă (adjective) - infinite, endless
 Word (Asaxi): găxănă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: infinite, endless, boundless
 trnsltion. Pl: nieskończony
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ɡaɪɦaɪnaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gă · xă · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]

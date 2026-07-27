@@ -1,6 +1,8 @@
 ---
 title: jamikùki (noun) - germ, pathogen, microbe
 Word (Asaxi): jamikùki
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: germ, pathogen, microbe
 trnsltion. Pl: zarazek, drobnoustrój
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /jamikɯki/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ja · mi · kù · ki</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

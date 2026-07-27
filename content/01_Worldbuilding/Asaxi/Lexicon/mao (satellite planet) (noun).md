@@ -1,6 +1,8 @@
 ---
 title: mao (satellite planet) (noun) - moon
 Word (Asaxi): mao
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: moon
 trnsltion. Pl: księżyc
 tags:
@@ -21,6 +23,12 @@ tags:
 ### Pronunciation
 
 IPA: /ma.o/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · o</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

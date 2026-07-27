@@ -2,6 +2,8 @@
 freq: 30
 title: mùśonýj (adjective) - mouldy, dank-green, mildewed
 Word (Asaxi): mùśonýj
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: mouldy, dank-green, mildewed
 trnsltion. Pl: spleśniały, zielonkawy
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /mɯɕonɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mù · śo · nýj</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

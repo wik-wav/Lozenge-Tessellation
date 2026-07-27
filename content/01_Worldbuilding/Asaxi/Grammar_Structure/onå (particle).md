@@ -1,6 +1,8 @@
 ---
 title: onå (particle) - forever
 Word (Asaxi): onå
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: forever
 tags:
   - Asaxi
@@ -14,6 +16,13 @@ tags:
 <span class="asaxi-script">onå</span>
 
 <span class="asaxi-script-alpha">onå</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · nå</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Type:** Temporal Particle / Adverb

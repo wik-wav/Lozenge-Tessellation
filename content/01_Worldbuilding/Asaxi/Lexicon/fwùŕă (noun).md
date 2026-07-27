@@ -2,6 +2,8 @@
 freq: 48
 title: fwùŕă (noun) - tornado (wind-spin)
 Word (Asaxi): fwùŕă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: tornado (wind-spin)
 trnsltion. Pl: tornado
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fʷɯɾaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fwù · ŕă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

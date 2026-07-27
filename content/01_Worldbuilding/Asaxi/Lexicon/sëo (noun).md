@@ -2,6 +2,8 @@
 freq: 88
 title: sëo (noun) - nail, claw
 Word (Asaxi): sëo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: nail, claw, talon
 trnsltion. Pl: paznokieć
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /seɪo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">së · o</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

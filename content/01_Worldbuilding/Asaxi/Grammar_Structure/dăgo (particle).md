@@ -1,6 +1,8 @@
 ---
 title: dăgo (particle) - "Many", "A lot of", "Numerous", "A multitude".
 Word (Asaxi): dăgo
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: '"Many", "A lot of", "Numerous", "A multitude".'
 tags:
   - Asaxi
@@ -32,6 +34,12 @@ Functions as a **Floating Quantifier**.
 ### Pronunciation
 
 IPA: /daɪgo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · go</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Semantic field
 

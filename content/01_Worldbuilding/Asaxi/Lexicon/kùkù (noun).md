@@ -2,6 +2,8 @@
 freq: 58
 title: kùkù (noun) - chicken, hen
 Word (Asaxi): kùkù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: chicken, hen
 trnsltion. Pl: kura
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kɯkɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kù · kù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

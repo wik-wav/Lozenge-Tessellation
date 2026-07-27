@@ -2,6 +2,8 @@
 freq: 50
 title: mëfo (noun) - forehead
 Word (Asaxi): mëfo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: forehead
 trnsltion. Pl: czoło
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /meɪfo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">më · fo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

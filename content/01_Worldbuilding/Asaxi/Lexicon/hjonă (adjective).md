@@ -2,6 +2,8 @@
 freq: 58
 title: hjonă (adjective) - bright, shiny
 Word (Asaxi): hjonă
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: bright, shiny, interesting
 trnsltion. Pl: jasny, lśniący, ciekawy
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /çonaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hjo · nă</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Perception]] / Value

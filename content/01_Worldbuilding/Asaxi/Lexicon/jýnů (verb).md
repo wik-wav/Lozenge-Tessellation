@@ -2,6 +2,8 @@
 freq: 68
 title: jýnů (verb) - to talk, to chat
 Word (Asaxi): jýnů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to talk, to chat, to converse, to chatter
 trnsltion. Pl: rozmawiać, gadać
 Transitivity: instransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /Ʝɪnuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jý · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to talk, to chat, to converse, to chatter

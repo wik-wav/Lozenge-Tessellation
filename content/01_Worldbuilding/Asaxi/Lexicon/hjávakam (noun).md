@@ -1,6 +1,8 @@
 ---
 title: hjávakam (noun) - nursery, child's room
 Word (Asaxi): hjávakam
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: nursery, child's room
 trnsltion. Pl: pokój dziecinny
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /çʲɑb̪vakam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hjá · va · kam</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

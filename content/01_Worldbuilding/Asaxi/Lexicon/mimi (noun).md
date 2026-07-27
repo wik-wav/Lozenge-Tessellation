@@ -2,6 +2,8 @@
 freq: 88
 title: mimi (noun) - ear
 Word (Asaxi): mimi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: ear
 trnsltion. Pl: ucho
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mimi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mi · mi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / [[Smntc_Field Perception]]

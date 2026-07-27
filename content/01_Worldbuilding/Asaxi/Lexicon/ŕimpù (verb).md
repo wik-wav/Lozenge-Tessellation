@@ -2,6 +2,8 @@
 freq: 66
 title: ŕimpù (verb) - to plan, to devise
 Word (Asaxi): ŕimpù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to plan, to devise
 trnsltion. Pl: planować
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɾimpɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕi · mpù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to plan, to devise

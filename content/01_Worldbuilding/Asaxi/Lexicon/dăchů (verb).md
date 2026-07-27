@@ -1,6 +1,8 @@
 ---
 title: dăchů (verb) - to feel huge, to feel mighty
 Word (Asaxi): dăchů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to feel huge, to feel mighty
 trnsltion. Pl: czuć się potężnym
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /daɪt̠ʃuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · chů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to feel huge, to feel mighty

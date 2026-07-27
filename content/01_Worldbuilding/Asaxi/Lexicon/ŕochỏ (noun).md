@@ -2,6 +2,8 @@
 freq: 50
 title: ŕochỏ (noun) - thirst
 Word (Asaxi): ŕochỏ
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: thirst
 trnsltion. Pl: pragnienie
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾot̠ʃou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · chỏ</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

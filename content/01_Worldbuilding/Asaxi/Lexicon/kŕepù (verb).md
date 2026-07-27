@@ -2,6 +2,8 @@
 freq: 43
 title: kŕepù (verb) - to stumble, to trip
 Word (Asaxi): kŕepù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to stumble, to trip
 trnsltion. Pl: potykać się
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kɾe̞pɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kŕe · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to stumble, to trip

@@ -2,6 +2,8 @@
 freq: 26
 title: itănů (verb) - to tense up, to tighten
 Word (Asaxi): itănů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to tense up, to tighten, to flex (stiffly), to stress, to strain
 trnsltion. Pl: napinać
 Transitivity: ambitransitive
@@ -30,6 +32,12 @@ Can be Intransitive (To become tense) or Transitive (To tighten something).
 
 ### Pronunciation
 IPA: /itaɪnuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · tă · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to tense up, to tighten, to flex (stiffly), to stress, to strain

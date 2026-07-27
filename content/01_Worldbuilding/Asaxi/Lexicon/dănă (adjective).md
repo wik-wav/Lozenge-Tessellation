@@ -2,6 +2,8 @@
 freq: 88
 title: dănă (adjective) - big, huge
 Word (Asaxi): dănă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: big, huge
 trnsltion. Pl: duży, wielki
 tags:
@@ -26,6 +28,12 @@ other class equivalent:
 - 
 ### Pronunciation
 IPA: /daɪnaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · nă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

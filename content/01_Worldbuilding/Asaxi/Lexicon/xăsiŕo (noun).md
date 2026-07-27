@@ -1,6 +1,8 @@
 ---
 title: xăsiŕo (noun) - outer space
 Word (Asaxi): xăsiŕo
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: outer space
 trnsltion. Pl: przestrzeń kosmiczna
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦaɪɕiɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · siŕo</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]] / Cosmology

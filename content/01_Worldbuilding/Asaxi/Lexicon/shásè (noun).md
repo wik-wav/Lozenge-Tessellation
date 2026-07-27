@@ -2,6 +2,8 @@
 freq: 49
 title: shásè (noun) - imprisonment, captivity
 Word (Asaxi): shásè
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: imprisonment, captivity, ownership (of a person), bondage
 trnsltion. Pl: uwięzienie, niewola
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʃɑsə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shá · sè</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Condition

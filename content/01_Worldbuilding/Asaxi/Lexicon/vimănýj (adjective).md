@@ -2,6 +2,8 @@
 freq: 47
 title: vimănýj (adjective) - agreeable
 Word (Asaxi): vimănýj
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: agreeable, acceptable, pleasant (compliant)
 trnsltion. Pl: zgodny, akceptowalny, przyjemny (w usposobieniu)
 tags:
@@ -23,6 +25,12 @@ class:
 
 ### Pronunciation
 IPA: /vimaɪnɪꞲ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · mă · nýj</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Virtues & Failings]], [[Smntc_Field Communication]]

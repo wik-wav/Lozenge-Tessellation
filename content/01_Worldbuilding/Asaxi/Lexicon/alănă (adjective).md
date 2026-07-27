@@ -2,6 +2,8 @@
 freq: 56
 title: alănă (adjective) - loose, relaxed
 Word (Asaxi): alănă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: loose, relaxed, carefree, slack, baggy
 trnsltion. Pl: luźny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /alaɪnaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · lă · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]] / [[Smntc_Field Creature Descriptors]]

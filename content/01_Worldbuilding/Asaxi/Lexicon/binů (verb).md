@@ -2,6 +2,8 @@
 freq: 45
 title: binů (verb) - to align, to straighten
 Word (Asaxi): binů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to align, to straighten, to queue, to line up
 trnsltion. Pl: wyrównać, ustawić w linii
 Transitivity: transitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /binuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bi · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to align, to straighten, to queue, to line up

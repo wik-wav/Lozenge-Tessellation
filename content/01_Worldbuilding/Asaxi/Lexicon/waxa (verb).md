@@ -2,6 +2,8 @@
 freq: 46
 title: waxa (verb) - to sway, to swing
 Word (Asaxi): waxa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to sway, to swing
 trnsltion. Pl: kołysać się
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ʋaɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wa · xa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to sway, to swing

@@ -2,6 +2,8 @@
 freq: 62
 title: tă (particle) - Plus, add
 Word (Asaxi): tă
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Plus
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪aɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tă</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Derived terms
 - [[tăbiŕů (verb)|tăbiŕů]] - to draw, to sketch, to draft, to diagram

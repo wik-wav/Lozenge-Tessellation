@@ -2,6 +2,8 @@
 freq: 52
 title: dokùxů (verb) - to heal, to treat, to medicate
 Word (Asaxi): dokùxů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to heal, to treat, to medicate
 trnsltion. Pl: leczyć
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /dokɯɦuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">do · kù · xů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to heal, to treat, to medicate

@@ -2,6 +2,8 @@
 freq: 50
 title: aiva (verb) - to pity, to feel for
 Word (Asaxi): aiva
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to pity, to feel for
 trnsltion. Pl: litować się
 Transitivity: monotransitive
@@ -31,6 +33,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /aib̪va/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · i · va</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]]

@@ -2,6 +2,8 @@
 freq: 38
 title: flaminŋshá (noun) - flamingo
 Word (Asaxi): flaminŋshá
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: flamingo
 trnsltion. Pl: flaming
 tags:
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 IPA: /fla.mi.ŋ̍ʃɑ/
 *Note:* The final `nŋ` functions as a syllabic nucleus.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fla · mi · nŋ · shá</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

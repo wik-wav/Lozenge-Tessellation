@@ -2,6 +2,8 @@
 freq: 46
 title: ŕochỏchů (verb) - to thirst, to feel thirsty
 Word (Asaxi): ŕochỏchů
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: to thirst, to feel thirsty, to be thirsty
 trnsltion. Pl: odczuwać pragnienie, być spragnionym
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_ — ŕochỏchů. ("(I) am thirsty.")
 
 ### Pronunciation
 IPA: /ɾot̠ʃou̯t̠ʃuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · chỏ · chů</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to thirst, to feel thirsty

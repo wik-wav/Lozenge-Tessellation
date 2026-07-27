@@ -1,6 +1,8 @@
 ---
 title: băhè (particle) - To allow, to enable, to permit, to make possible.
 Word (Asaxi): băhè
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: To allow, to enable, to permit, to make possible.
 tags:
   - Asaxi
@@ -31,6 +33,12 @@ tags:
 ### Pronunciation
 
 IPA: /baɪxə/ 
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bă · hè</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Etymology
 

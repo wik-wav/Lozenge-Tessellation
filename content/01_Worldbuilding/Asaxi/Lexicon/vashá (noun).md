@@ -2,6 +2,8 @@
 freq: 58
 title: vashá (noun) - guest (one who enters)
 Word (Asaxi): vashá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: guest (one who enters)
 trnsltion. Pl: gość
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪vaʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">va · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

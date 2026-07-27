@@ -2,6 +2,8 @@
 freq: 63
 title: tobo (noun) - table
 Word (Asaxi): tobo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: table
 trnsltion. Pl: stół
 tags:
@@ -21,6 +23,12 @@ cold
 
 ### Pronunciation
 IPA: /tobo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">to · bo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

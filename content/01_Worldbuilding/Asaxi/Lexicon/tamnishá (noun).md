@@ -2,6 +2,8 @@
 freq: 49
 title: tamnishá (noun) - spouse, partner
 Word (Asaxi): tamnishá
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: spouse, partner
 trnsltion. Pl: małżonek, małżonka, partner
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪amɲiʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ta · mnishá</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Family]]

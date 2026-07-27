@@ -2,6 +2,8 @@
 freq: 88
 title: baxů (verb) - to help, to assist
 Word (Asaxi): baxů
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: to help, to assist, to aid
 trnsltion. Pl: pomagać
 Transitivity: monotransitive
@@ -32,6 +34,12 @@ _monotransitive_ — the helped party is the direct object: to ko wo zèbaxů. (
 
 ### Pronunciation
 IPA: /baɦuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · xů</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to help, to assist, to aid

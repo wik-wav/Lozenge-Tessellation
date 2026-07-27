@@ -2,6 +2,8 @@
 freq: 48
 title: ùhù (noun) - owl
 Word (Asaxi): ùhù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: owl
 trnsltion. Pl: sowa
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɯxɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ù · hù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

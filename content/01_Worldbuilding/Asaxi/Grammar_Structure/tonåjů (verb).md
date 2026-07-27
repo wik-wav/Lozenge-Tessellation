@@ -1,6 +1,8 @@
 ---
 title: tonåjů (verb) - I predict that
 Word (Asaxi): tonåjů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: I predict that
 tags:
   - Asaxi
@@ -25,6 +27,12 @@ tags:
 ### Pronunciation
 
 IPA: /t̪onau̯juu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">to · nå · jů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Perception]]

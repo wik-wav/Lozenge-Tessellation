@@ -1,6 +1,8 @@
 ---
 title: nỏwë (particle) - Don't need to
 Word (Asaxi): nỏwë
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: Don't need to
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /nou̯weɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nỏ · wë</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

@@ -2,6 +2,8 @@
 freq: 65
 title: pwo (noun) - tomorrow
 Word (Asaxi): pwo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: tomorrow
 trnsltion. Pl: jutro
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /pʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pwo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

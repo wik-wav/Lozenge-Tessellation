@@ -1,6 +1,9 @@
 ---
 title: expression in asaxi (Idiom) - english meaning
 Word (Asaxi):
+pitch_accent:
+pitch_accent_class:
+g2p_override:
 trnsltion. en:
 trnsltion. Pl:
 tags:
@@ -23,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: 
+
+### Pitch Accent
+
+- **Morae:**
+- **Pattern:**
+- **Class:**
 
 ### Example sentence
 

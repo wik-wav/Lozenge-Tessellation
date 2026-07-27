@@ -2,6 +2,8 @@
 freq: 53
 title: hjopjo (noun) - lightning
 Word (Asaxi): hjopjo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: lightning
 trnsltion. Pl: błyskawica, piorun
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /çopʲo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hjo · pjo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

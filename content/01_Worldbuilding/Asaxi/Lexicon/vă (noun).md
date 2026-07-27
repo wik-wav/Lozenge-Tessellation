@@ -2,6 +2,8 @@
 freq: 61
 title: vă (noun) - plant, flora, vegetation
 Word (Asaxi): vă
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: plant, flora, vegetation, greenery
 trnsltion. Pl: roślina
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /vaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vă</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]] / Flora

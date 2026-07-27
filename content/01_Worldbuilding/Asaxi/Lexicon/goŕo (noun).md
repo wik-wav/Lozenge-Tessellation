@@ -2,6 +2,8 @@
 freq: 52
 title: goŕo (noun) - cave
 Word (Asaxi): goŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: cave
 trnsltion. Pl: jaskinia
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡoɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

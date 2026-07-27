@@ -2,6 +2,8 @@
 freq: 48
 title: lýshká (noun) - spoon (Ru. *lozhka*)
 Word (Asaxi): lýshká
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: spoon (Ru. *lozhka*)
 trnsltion. Pl: łyżka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /lɪʃkɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">lý · shká</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

@@ -2,6 +2,8 @@
 freq: 88
 title: gavi (noun) - green (colour), goodness, positivity, virtue
 Word (Asaxi): gavi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: green, goodness, positivity, virtue
 trnsltion. Pl: zieleń, dobroć, dobro
 tags:
@@ -24,6 +26,12 @@ warm
 
 ### Pronunciation
 IPA: /ɡavi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · vi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

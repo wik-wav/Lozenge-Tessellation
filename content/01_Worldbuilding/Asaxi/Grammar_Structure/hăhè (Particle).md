@@ -1,6 +1,8 @@
 ---
 title: hăhè (particle) - To force to...
 Word (Asaxi): hăhè
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: To force to...
 tags:
   - Asaxi
@@ -37,6 +39,12 @@ tags:
 ### Pronunciation
 
 IPA: /xaɪxə/ (The `x` is retained to distinguish the two particles clearly).
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hă · hè</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Etymology
 

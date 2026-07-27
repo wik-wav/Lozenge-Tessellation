@@ -2,6 +2,8 @@
 freq: 61
 title: pjovină (adjective) - direct, straight
 Word (Asaxi): pjovină
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: direct, straight, focused, unwavering
 trnsltion. Pl: bezpośredni, prosty, skupiony
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /pʲovinaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pjo · vi · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Motion]] / [[Smntc_Field Behaviour]]

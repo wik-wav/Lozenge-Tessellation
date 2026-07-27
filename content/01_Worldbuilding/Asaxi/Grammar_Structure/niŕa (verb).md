@@ -1,6 +1,8 @@
 ---
 title: niŕa (verb) - "To become", "To turn into", "To lead to", "To be destined for".
 Word (Asaxi): niŕa
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: '"To become", "To turn into", "To lead to", "To be destined for".'
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɲiɾa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">niŕa</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Example sentence
 

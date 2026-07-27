@@ -1,6 +1,8 @@
 ---
 title: aśojýno (noun) - footstep(s), sound of footsteps
 Word (Asaxi): aśojýno
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: footstep(s), sound of footsteps
 trnsltion. Pl: odgłos kroków
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /aɕo̞jɪno̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · śo · jý · no</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

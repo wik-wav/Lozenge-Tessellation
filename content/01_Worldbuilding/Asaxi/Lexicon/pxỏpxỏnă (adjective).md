@@ -2,6 +2,8 @@
 freq: 48
 title: pxỏpxỏnă (adjective) - fragile, delicate, squeaky, pop-able
 Word (Asaxi): pxỏpxỏnă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: fragile, delicate, pop-able, taut, squeaky, smooth, bulging (like an inflated balloon)
 trnsltion. Pl: delikatny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /pʰou̯pʰou̯naɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pxỏ · pxỏ · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Creature Descriptors]]

@@ -1,6 +1,8 @@
 ---
 title: "zè (Tense Prefix) - Simple Past / Perfective Past: before the present"
 Word (Asaxi): zè
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: "Simple Past / Perfective Past: before the present"
 tags:
   - Asaxi
@@ -14,6 +16,13 @@ tags:
 <span class="asaxi-script">zè</span>
 
 <span class="asaxi-script-alpha">zè</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zè</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Type:** Tense Prefix

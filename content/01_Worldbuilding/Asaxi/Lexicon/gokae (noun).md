@@ -2,6 +2,8 @@
 freq: 50
 title: gokae (noun) - nut (hard-fruit)
 Word (Asaxi): gokae
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: nut (hard-fruit)
 trnsltion. Pl: orzech
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡo̞kae̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go · ka · e</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

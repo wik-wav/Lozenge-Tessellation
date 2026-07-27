@@ -2,6 +2,8 @@
 freq: 55
 title: dăxijù (verb) - to pray, to invoke
 Word (Asaxi): dăxijù
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: to pray, to invoke
 trnsltion. Pl: modlić się
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /daɪɦijɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · xi · jù</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to pray, to invoke

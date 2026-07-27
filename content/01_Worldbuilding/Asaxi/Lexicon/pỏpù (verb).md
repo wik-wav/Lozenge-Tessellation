@@ -2,6 +2,8 @@
 freq: 55
 title: pỏpù (verb) - to hop
 Word (Asaxi): pỏpù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to hop
 trnsltion. Pl: podskakiwać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /pou̯pɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pỏ · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to hop

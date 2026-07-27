@@ -2,6 +2,8 @@
 freq: 50
 title: hjákae (noun) - berry (little-fruit)
 Word (Asaxi): hjákae
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: berry (little-fruit)
 trnsltion. Pl: jagoda
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /çɑkae̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hjá · ka · e</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

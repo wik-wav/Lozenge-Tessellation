@@ -2,6 +2,8 @@
 freq: 88
 title: jalăshá (noun) - bird, avian
 Word (Asaxi): jalăshá
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: bird, avian
 trnsltion. Pl: ptak
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /Ʝalaɪʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ja · lă · shá</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

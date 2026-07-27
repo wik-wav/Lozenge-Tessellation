@@ -1,6 +1,8 @@
 ---
 title: xa (additive) (particle) - also, too, even
 Word (Asaxi): xa
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: also, too, even
 trnsltion. Pl: też, także, nawet
 tags:
@@ -35,6 +37,12 @@ Distinct from **[[xa (pronoun) (particle)|xa]]** (3PL.M pronoun), **[[xa- (numbe
 ### Pronunciation
 
 IPA: /ɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

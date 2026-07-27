@@ -2,6 +2,8 @@
 freq: 42
 title: gabwo (noun) - fatness, obesity
 Word (Asaxi): gabwo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: fatness, obesity, fatty (constitution)
 trnsltion. Pl: otyłość, tłustość
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡabʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · bwo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

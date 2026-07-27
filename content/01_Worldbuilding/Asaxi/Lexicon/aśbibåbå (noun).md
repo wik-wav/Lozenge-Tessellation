@@ -1,6 +1,8 @@
 ---
 title: aśbibåbå (noun) - leg musculature
 Word (Asaxi): aśbibåbå
+pitch_accent: L.L.H.L
+pitch_accent_class: lexical
 trnsltion. En: leg musculature
 trnsltion. Pl: mięśnie nóg
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɕbibau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · śbi · bå · bå</span>
+- **Pattern:** `L · L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

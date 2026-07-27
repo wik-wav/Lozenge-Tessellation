@@ -2,6 +2,8 @@
 freq: 56
 title: embishů (verb) - to defeat, to beat
 Word (Asaxi): embishů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to defeat, to beat, to overthrow, to pull the rug out from under
 trnsltion. Pl: pokonać, przezwyciężyć
 Transitivity: transitive
@@ -30,6 +32,12 @@ Takes an object (the opponent).
 
 ### Pronunciation
 IPA: /em.biʃuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">e · mbi · shů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to defeat, to beat, to overthrow, to pull the rug out from under

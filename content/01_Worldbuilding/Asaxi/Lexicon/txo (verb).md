@@ -2,6 +2,8 @@
 freq: 88
 title: txo (verb) - to throw, to cast, to hurl
 Word (Asaxi): txo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: to throw, to cast, to hurl
 trnsltion. Pl: rzucać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /tʰo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">txo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to throw, to cast, to hurl

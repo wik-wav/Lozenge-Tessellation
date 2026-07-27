@@ -1,6 +1,8 @@
 ---
 title: hè (particle) - do! (imperative)
 Word (Asaxi): hè
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: do! (imperative)
 tags:
   - Asaxi
@@ -22,6 +24,12 @@ tags:
 ### Pronunciation
 
 IPA: /xə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hè</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Alternative Forms
 

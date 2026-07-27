@@ -2,6 +2,8 @@
 freq: 47
 title: xaxaśbi (noun) - thigh, upper leg
 Word (Asaxi): xaxaśbi
+pitch_accent: L.L.H
+pitch_accent_class: lexical
 trnsltion. En: thigh
 trnsltion. Pl: udo
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦaɦaɕbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · xa · śbi</span>
+- **Pattern:** `L · L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

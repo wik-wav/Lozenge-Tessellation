@@ -1,6 +1,8 @@
 ---
 title: apojů (verb) - to look like an apple (visual mode)
 Word (Asaxi): apojů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to look like an apple (visual mode)
 trnsltion. Pl: wyglądać jak jabłko
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /apo̞juu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · po · jů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to look like an apple (visual mode)

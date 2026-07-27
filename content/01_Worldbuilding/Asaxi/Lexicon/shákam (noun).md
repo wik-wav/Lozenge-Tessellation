@@ -2,6 +2,8 @@
 freq: 50
 title: shákam (noun) - barn, stable (beast-structure)
 Word (Asaxi): shákam
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: barn, stable (beast-structure)
 trnsltion. Pl: obora, stajnia
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʃɑkam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shá · kam</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

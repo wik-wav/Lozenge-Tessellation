@@ -2,6 +2,8 @@
 freq: 43
 title: ŕagonů (verb) - to char, to make charcoal
 Word (Asaxi): ŕagonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to char, to make charcoal
 trnsltion. Pl: zwęglać
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɾaɡo̞nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕa · go · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to char, to make charcoal

@@ -2,6 +2,8 @@
 freq: 60
 title: htëno (noun) - ring
 Word (Asaxi): htëno
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: ring
 trnsltion. Pl: pierścień
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /xt̪eɪno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">htë · no</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

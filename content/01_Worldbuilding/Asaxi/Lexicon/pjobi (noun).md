@@ -2,6 +2,8 @@
 freq: 48
 title: pjobi (noun) - candle (light-rod)
 Word (Asaxi): pjobi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: candle (light-rod)
 trnsltion. Pl: świeca
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pʲo̞bi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pjo · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

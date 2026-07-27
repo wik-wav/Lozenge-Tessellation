@@ -2,6 +2,8 @@
 freq: 62
 title: gavină xogă (Idiom) - Welcome (lit. well arrived)
 Word (Asaxi): gavină xogă
+pitch_accent: H.L.L | L.H
+pitch_accent_class: phrase
 trnsltion. En: Welcome (lit. well arrived)
 tags:
   - Asaxi
@@ -31,6 +33,12 @@ Literally "(You have) well arrived."
 
 ### Pronunciation
 IPA: /gaʋinaɪ ɦogaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · vi · nă | xo · gă</span>
+- **Pattern:** `H · L · L | L · H`
+- **Class:** `phrase`
 
 ### Example sentence
 

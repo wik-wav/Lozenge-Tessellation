@@ -1,6 +1,8 @@
 ---
 title: xoxonăno (noun) - cherished sentimental object
 Word (Asaxi): xoxonăno
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: cherished object
 trnsltion. Pl: pamiątka sentymentalna
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦoɦonaɪno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · xo · nă · no</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion|Emotion]], [[Smntc_Field Tools|Tools]] (Contextual)

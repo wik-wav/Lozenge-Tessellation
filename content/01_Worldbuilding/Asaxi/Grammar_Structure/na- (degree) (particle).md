@@ -1,6 +1,8 @@
 ---
 title: na- (degree) (particle) - more
 Word (Asaxi): na-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: more
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /na/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">na</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Etymology
 

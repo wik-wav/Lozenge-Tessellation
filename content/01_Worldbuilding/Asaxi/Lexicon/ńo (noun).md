@@ -2,6 +2,8 @@
 freq: 72
 title: ńo (noun) - thing, object (clipped)
 Word (Asaxi): ńo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: thing, object (clipped)
 trnsltion. Pl: rzecz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɲo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ńo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

@@ -2,6 +2,8 @@
 freq: 63
 title: ănăka (verb) - to expect, to await
 Word (Asaxi): ănăka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to expect, to await
 trnsltion. Pl: oczekiwać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /aɪnaɪka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă · nă · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to expect, to await

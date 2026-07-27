@@ -2,6 +2,8 @@
 freq: 52
 title: hjină (adjective) - shy, introverted
 Word (Asaxi): hjină
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: shy, introverted, private, boundary-respecting
 trnsltion. Pl: nieśmiały, zamknięty w sobie
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /çjinaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hji · nă</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Personality

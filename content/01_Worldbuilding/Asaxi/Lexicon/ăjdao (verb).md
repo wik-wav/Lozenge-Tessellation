@@ -2,6 +2,8 @@
 freq: 53
 title: ăjdao (verb) - to announce, to proclaim
 Word (Asaxi): ăjdao
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to announce, to proclaim
 trnsltion. Pl: ogłaszać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /aɪjdao̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă · jda · o</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to announce, to proclaim

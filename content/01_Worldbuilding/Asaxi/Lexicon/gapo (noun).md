@@ -2,6 +2,8 @@
 freq: 88
 title: gapo (noun) - red (colour), redness
 Word (Asaxi): gapo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: red
 trnsltion. Pl: czerwony
 tags:
@@ -24,6 +26,12 @@ warm
 
 ### Pronunciation
 IPA: /ɡapo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · po</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

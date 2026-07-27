@@ -2,6 +2,8 @@
 freq: 58
 title: xopa (verb) - to advance, to proceed
 Word (Asaxi): xopa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to advance, to proceed, to move forward, to propel
 trnsltion. Pl: naprzód, postępować, popychać
 Transitivity: intransitive, transitive
@@ -34,6 +36,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦopa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · pa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to advance, to proceed, to move forward, to propel

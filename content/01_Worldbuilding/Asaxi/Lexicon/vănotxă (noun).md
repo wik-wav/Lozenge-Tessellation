@@ -1,6 +1,8 @@
 ---
 title: vănotxă (noun) - autumn, fall
 Word (Asaxi): vănotxă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: autumn, fall
 trnsltion. Pl: jesień
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /b̪vaɪno̞tʰaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vă · no · txă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

@@ -2,6 +2,8 @@
 freq: 43
 title: kozè (noun) - antiquity, ancient past
 Word (Asaxi): kozè
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: antiquity, ancient past, long ago
 trnsltion. Pl: starożytność, dawne dzieje
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /kozə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ko · zè</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]] / History

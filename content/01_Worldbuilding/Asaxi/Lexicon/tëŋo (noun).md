@@ -2,6 +2,8 @@
 freq: 48
 title: tëŋo (noun) - elbow
 Word (Asaxi): tëŋo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: elbow
 trnsltion. Pl: łokieć
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪eɪŋo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">të · ŋo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

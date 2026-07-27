@@ -2,6 +2,8 @@
 freq: 43
 title: mùśo (noun) - mould, lichen, mildew
 Word (Asaxi): mùśo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: mould, lichen, mildew
 trnsltion. Pl: pleśń
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /mɯɕo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mù · śo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

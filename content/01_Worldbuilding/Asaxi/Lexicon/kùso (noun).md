@@ -2,6 +2,8 @@
 freq: 36
 title: kùso (noun) - faeces, dung
 Word (Asaxi): kùso
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: faeces, dung
 trnsltion. Pl: kał, odchody
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kɯso̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kù · so</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

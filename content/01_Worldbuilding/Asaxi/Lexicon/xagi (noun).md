@@ -2,6 +2,8 @@
 freq: 41
 title: xagi (noun) - ember / coal
 Word (Asaxi): xagi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: ember / coal
 trnsltion. Pl: żar
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦaɡi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · gi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]]

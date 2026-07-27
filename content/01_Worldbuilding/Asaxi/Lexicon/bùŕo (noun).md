@@ -1,6 +1,8 @@
 ---
 title: bùŕo (noun) - thicket, brush, scrub
 Word (Asaxi): bùŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: thicket, brush, scrub
 trnsltion. Pl: gąszcz, zarośla
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /bɯɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bù · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

@@ -2,6 +2,8 @@
 freq: 66
 title: hjáhjá (noun) - baby, infant
 Word (Asaxi): hjáhjá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: baby, infant
 trnsltion. Pl: niemowlę
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /çɑçɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hjá · hjá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

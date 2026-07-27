@@ -2,6 +2,8 @@
 freq: 38
 title: tamỏbwoxatëbibåbå (noun) - biceps (brachii), the two-headed muscle
 Word (Asaxi): tamỏbwoxatëbibåbå
+pitch_accent: H.L.L.L.L.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: biceps (brachii), the two-headed muscle
 trnsltion. Pl: biceps, mięsień dwugłowy ramienia
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪amou̯bʷoɦat̪eɪbibau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ta · mỏ · bwo · xa · të · bi · bå · bå</span>
+- **Pattern:** `H · L · L · L · L · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

@@ -2,6 +2,8 @@
 freq: 34
 title: gadăchỏnă (adjective) - ravenous, insatiable
 Word (Asaxi): gadăchỏnă
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: ravenous, insatiable, ravenously, hungrily
 trnsltion. Pl: wygłodniały
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ɡadaɪt̠ʃou̯naɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · dă · chỏ · nă</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

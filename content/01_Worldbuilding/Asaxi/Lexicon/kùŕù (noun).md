@@ -2,6 +2,8 @@
 freq: 88
 title: kùŕù (noun) - king, chief (Pl. *król*)
 Word (Asaxi): kùŕù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: king, chief (Pl. *król*)
 trnsltion. Pl: król
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kɯɾɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kù · ŕù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

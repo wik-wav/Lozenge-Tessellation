@@ -2,6 +2,8 @@
 freq: 88
 title: kae (noun) - fruit
 Word (Asaxi): kae
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: fruit
 trnsltion. Pl: owoc
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /kae/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · e</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

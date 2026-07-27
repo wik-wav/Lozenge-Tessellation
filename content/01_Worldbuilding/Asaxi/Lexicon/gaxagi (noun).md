@@ -2,6 +2,8 @@
 freq: 58
 title: gaxagi (noun) - orange
 Word (Asaxi): gaxagi
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: orange
 trnsltion. Pl: pomarańczowy
 tags:
@@ -25,6 +27,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡaɦaɡi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · xa · gi</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

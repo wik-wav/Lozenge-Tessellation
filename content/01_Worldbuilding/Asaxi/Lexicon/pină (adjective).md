@@ -2,6 +2,8 @@
 freq: 41
 title: pină (adjective) - rosy, dainty-pink, blushing
 Word (Asaxi): pină
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: rosy, dainty-pink, blushing
 trnsltion. Pl: różany, delikatny
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /pinaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pi · nă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

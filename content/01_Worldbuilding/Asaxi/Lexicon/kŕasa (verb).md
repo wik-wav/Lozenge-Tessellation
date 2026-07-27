@@ -2,6 +2,8 @@
 freq: 88
 title: kŕasa (verb) - to scratch, to scrape
 Word (Asaxi): kŕasa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to scratch, to scrape
 trnsltion. Pl: drapać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kɾasa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kŕa · sa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to scratch, to scrape

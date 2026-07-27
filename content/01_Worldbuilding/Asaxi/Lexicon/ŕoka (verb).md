@@ -2,6 +2,8 @@
 freq: 53
 title: ŕoka (verb) - to twist, to wring
 Word (Asaxi): ŕoka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to twist, to wring
 trnsltion. Pl: skręcać, wyżymać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɾo̞ka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to twist, to wring

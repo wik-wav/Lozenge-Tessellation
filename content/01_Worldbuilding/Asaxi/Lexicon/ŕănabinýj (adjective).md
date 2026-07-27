@@ -2,6 +2,8 @@
 freq: 64
 title: ŕănabinýj (adjective) - fast, rapid
 Word (Asaxi): ŕănabinýj
+pitch_accent: L.L.H.L
+pitch_accent_class: lexical
 trnsltion. En: fast, rapid, high-velocity, speedy
 trnsltion. Pl: szybki, prędki
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɪnabinɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · na · bi · nýj</span>
+- **Pattern:** `L · L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Motion]] / Physics

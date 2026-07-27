@@ -1,6 +1,8 @@
 ---
 title: tëbibåbå (noun) - arm musculature
 Word (Asaxi): tëbibåbå
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: arm musculature
 trnsltion. Pl: mięśnie ramion
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪eɪbibaubau/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">të · bi · bå · bå</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

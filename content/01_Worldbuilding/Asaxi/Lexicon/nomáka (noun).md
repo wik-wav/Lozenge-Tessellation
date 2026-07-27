@@ -2,6 +2,8 @@
 freq: 63
 title: nomáka (noun) - box (thing-vessel)
 Word (Asaxi): nomáka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: box (thing-vessel)
 trnsltion. Pl: pudełko
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /no̞mɑka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">no · má · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

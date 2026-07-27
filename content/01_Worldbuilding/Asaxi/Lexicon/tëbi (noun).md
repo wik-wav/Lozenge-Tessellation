@@ -2,6 +2,8 @@
 freq: 88
 title: tëbi (noun) - arm, upper limb
 Word (Asaxi): tëbi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: arm
 trnsltion. Pl: ramię
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪eɪbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">të · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

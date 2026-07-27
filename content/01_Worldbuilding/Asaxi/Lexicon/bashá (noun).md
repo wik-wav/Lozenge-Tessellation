@@ -2,6 +2,8 @@
 freq: 88
 title: bashá (noun) - friend, companion
 Word (Asaxi): bashá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: friend, companion
 trnsltion. Pl: przyjaciel
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /baʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

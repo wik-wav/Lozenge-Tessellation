@@ -2,6 +2,8 @@
 freq: 51
 title: fùvù (noun) - lung
 Word (Asaxi): fùvù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: lung
 trnsltion. Pl: płuco
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fɯb̪vɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fù · vù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

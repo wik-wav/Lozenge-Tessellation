@@ -2,6 +2,8 @@
 freq: 48
 title: bùbù (verb) - to boil, to bubble
 Word (Asaxi): bùbù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to boil, to bubble
 trnsltion. Pl: wrzeć
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /bɯbɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bù · bù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to boil, to bubble

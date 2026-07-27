@@ -2,6 +2,8 @@
 freq: 62
 title: hkanů (verb) - to protect, shield, guard, defend
 Word (Asaxi): hkanů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to protect, shield, guard, defend
 trnsltion. Pl: chronić, osłaniać
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /xkanɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hka · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to protect, shield, guard, defend

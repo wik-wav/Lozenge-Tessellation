@@ -1,6 +1,8 @@
 ---
 title: xona (verb) - to move upward, to ascend
 Word (Asaxi): xona
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to move upward, to ascend, to climb, to mount, to step onto
 trnsltion. Pl: wchodzić na, wspinać się, wstępować
 Transitivity: intransitive, transitive
@@ -33,6 +35,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦona/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · na</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to ascend, to rise, to raise, to lift, to elevate

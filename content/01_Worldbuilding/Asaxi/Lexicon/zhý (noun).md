@@ -2,6 +2,8 @@
 freq: 88
 title: zhý (noun) - cold, the chill
 Word (Asaxi): zhý
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: cold, the chill
 trnsltion. Pl: zimno, chłód
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʑɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zhý</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]]

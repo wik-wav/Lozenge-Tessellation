@@ -1,6 +1,8 @@
 ---
 title: xă- (particle) - very, truly
 Word (Asaxi): xă-
+pitch_accent: H
+pitch_accent_class: dominant
 trnsltion. En: very, truly
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɦaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă</span>
+- **Pattern:** `H`
+- **Class:** `dominant`
 
 ### Etymology
 

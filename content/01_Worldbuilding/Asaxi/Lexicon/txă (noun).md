@@ -2,6 +2,8 @@
 freq: 88
 title: txă (noun) - year, annual cycle
 Word (Asaxi): txă
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: year, annual cycle, age (when used with subject)
 trnsltion. Pl: rok, lata (wiek)
 tags:
@@ -21,6 +23,12 @@ Cold (Time unit)
 
 ### Pronunciation
 IPA: /tʰaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">txă</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]] / [[Smntc_Field Numerals]]

@@ -2,6 +2,8 @@
 freq: 52
 title: ăja (verb) - to shout, to yell
 Word (Asaxi): ăja
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to shout, to yell, to cry out, to scream, to call out
 trnsltion. Pl: krzyczeć, wołać, wrzeszczeć
 Transitivity: intransitive, transitive
@@ -32,6 +34,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɪja/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă · ja</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to shout, to yell, to cry out, to scream, to call out

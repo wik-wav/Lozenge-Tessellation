@@ -2,6 +2,8 @@
 freq: 57
 title: jami (noun) - illness, disease, sickness
 Word (Asaxi): jami
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: illness, disease, sickness
 trnsltion. Pl: choroba
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /jami/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ja · mi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Health & Medicine]]

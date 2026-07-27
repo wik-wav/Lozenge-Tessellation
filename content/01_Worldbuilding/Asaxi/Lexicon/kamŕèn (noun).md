@@ -2,6 +2,8 @@
 freq: 45
 title: kamŕèn (noun) - warden, caretaker
 Word (Asaxi): kamŕèn
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: warden, caretaker, janitor (in a high status sense)
 trnsltion. Pl: dozorca, strażnik
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /kamɾən/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · mŕèn</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Professions & Occupations]]

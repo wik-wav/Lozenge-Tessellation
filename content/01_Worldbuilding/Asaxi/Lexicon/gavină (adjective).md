@@ -2,6 +2,8 @@
 freq: 88
 title: gavină (adjective) - well, skillfully
 Word (Asaxi): gavină
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: good, virtuous, well, skillfully
 trnsltion. Pl: dobrze
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ɡavinaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · vi · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Virtues & Failings]]

@@ -2,6 +2,8 @@
 freq: 67
 title: pigùmenn (noun) - light (source), lamp
 Word (Asaxi): pjo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: light (source), lamp
 trnsltion. Pl: światło (źródło) lampa
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pʲo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pjo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]] / [[Smntc_Field Tools]]

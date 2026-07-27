@@ -1,6 +1,8 @@
 ---
 title: xăcèků (verb) - to make Real, to turn (something) into a Real one
 Word (Asaxi): xăcèků
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to make Real, to turn (something) into a Real one
 trnsltion. Pl: uczynić prawdziwym, urzeczywistnić
 Transitivity: monotransitive
@@ -34,6 +36,12 @@ _monotransitive verb_
 ### Pronunciation
 
 IPA: /ɦaɪt̻͡s̪əkuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · cè · ků</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 

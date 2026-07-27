@@ -2,6 +2,8 @@
 freq: 60
 title: kŕaa (verb) - to wake, to awaken
 Word (Asaxi): kŕaa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to wake, to awaken
 trnsltion. Pl: budzić się
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kɾaa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kŕa · a</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to wake, to awaken

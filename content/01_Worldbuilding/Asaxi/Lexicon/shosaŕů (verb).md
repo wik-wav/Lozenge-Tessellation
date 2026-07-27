@@ -1,6 +1,8 @@
 ---
 title: shosaŕů (verb) - to make way
 Word (Asaxi): shosaŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to make way
 trnsltion. Pl: zrobić przejście
 Transitivity: intransitive, transitive
@@ -28,6 +30,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʃosaɾuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sho · sa · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to make way, to clear a path, to pave the way

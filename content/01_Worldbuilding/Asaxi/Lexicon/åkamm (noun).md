@@ -2,6 +2,8 @@
 freq: 66
 title: åkamm (noun) - moment
 Word (Asaxi): åkamm
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: moment
 trnsltion. Pl: moment
 tags:
@@ -22,6 +24,12 @@ Cold
 
 ### Pronunciation
 IPA: /au̯kam̩/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">å · ka · mm</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

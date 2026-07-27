@@ -2,6 +2,8 @@
 freq: 51
 title: săpỏno (noun) - blanket (warm-cloth)
 Word (Asaxi): săpỏno
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: blanket (warm-cloth)
 trnsltion. Pl: koc
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /saɪpou̯no̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · pỏ · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

@@ -2,6 +2,8 @@
 freq: 88
 title: gasi (noun) - white (colour)
 Word (Asaxi): gasi
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: white (noun)
 trnsltion. Pl: biel
 tags:
@@ -24,6 +26,12 @@ warm
 
 ### Pronunciation
 IPA: /ɡaʃɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gasi</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

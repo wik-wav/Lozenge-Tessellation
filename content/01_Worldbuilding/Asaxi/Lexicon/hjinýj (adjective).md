@@ -2,6 +2,8 @@
 freq: 88
 title: hjinýj (adjective) - small, little, tiny
 Word (Asaxi): hjinýj
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: small, little, tiny, minute, compact
 trnsltion. Pl: mały, drobny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /çinɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hji · nýj</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]

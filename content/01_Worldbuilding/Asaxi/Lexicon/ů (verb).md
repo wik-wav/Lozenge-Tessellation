@@ -2,6 +2,8 @@
 freq: 85
 title: ů (verb) - to be (actively)
 Word (Asaxi): ů
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: to be (actively)
 trnsltion. Pl: być
 Transitivity: monotransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /uu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ů</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to be (not necessarily intrinsically)

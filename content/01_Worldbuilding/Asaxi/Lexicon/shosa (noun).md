@@ -2,6 +2,8 @@
 freq: 88
 title: shosa (noun) - path, way, road
 Word (Asaxi): shosa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: path, way, road, chaussee
 trnsltion. Pl: droga, szosa
 tags:
@@ -21,6 +23,12 @@ cold
 
 ### Pronunciation
 IPA: /ʃosa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sho · sa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

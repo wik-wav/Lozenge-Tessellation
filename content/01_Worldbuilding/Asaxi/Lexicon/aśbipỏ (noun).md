@@ -2,6 +2,8 @@
 freq: 56
 title: aśbipỏ (noun) - trousers
 Word (Asaxi): aśbipỏ
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: trousers
 trnsltion. Pl: spodnie
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɕbipou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · śbi · pỏ</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

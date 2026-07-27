@@ -2,6 +2,8 @@
 freq: 49
 title: pỏso (noun) - moss
 Word (Asaxi): pỏso
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: moss
 trnsltion. Pl: mech
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /pou̯so/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pỏ · so</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

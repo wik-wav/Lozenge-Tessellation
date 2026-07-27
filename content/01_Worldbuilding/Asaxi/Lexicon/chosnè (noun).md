@@ -2,6 +2,8 @@
 freq: 49
 title: chosnè (noun) - garlic (Pl. *czosnek*)
 Word (Asaxi): chosnè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: garlic (Pl. *czosnek*)
 trnsltion. Pl: czosnek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̠ʃo̞snə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cho · snè</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

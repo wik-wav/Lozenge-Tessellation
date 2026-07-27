@@ -1,6 +1,8 @@
 ---
 title: pxůmă (noun) - the sum of all rejections
 Word (Asaxi): pxůmă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: everything denied, the collection of noes, rejected total, the sum of all rejections
 trnsltion. Pl: wszystkie rzeczy odmówione, sprawy zamknięte, strwożone szanse
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 **IPA:** /pʰuu̯maɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pxů · mă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Virtues & Failings|Smntc_Field Virtues & Failings]]

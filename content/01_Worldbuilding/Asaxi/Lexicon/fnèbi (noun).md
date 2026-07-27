@@ -2,6 +2,8 @@
 freq: 36
 title: fnèbi (noun) - oar / paddle
 Word (Asaxi): fnèbi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: oar / paddle
 trnsltion. Pl: wiosło
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fnəbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fnè · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Motion]]

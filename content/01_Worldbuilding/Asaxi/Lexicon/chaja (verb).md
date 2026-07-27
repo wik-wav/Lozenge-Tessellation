@@ -2,6 +2,8 @@
 freq: 88
 title: chaja (verb) - to chew, to gnaw
 Word (Asaxi): chaja
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to chew, to gnaw
 trnsltion. Pl: żuć
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̠ʃaja/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cha · ja</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to chew, to gnaw

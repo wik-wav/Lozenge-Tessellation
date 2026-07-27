@@ -2,6 +2,8 @@
 freq: 61
 title: cèdaoshá (noun) - teacher
 Word (Asaxi): cèdaoshá
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: teacher
 trnsltion. Pl: nauczyciel, nauczycielka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̻͡s̪ədaoʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cè · da · o · shá</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Professions & Occupations]]

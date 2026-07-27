@@ -2,6 +2,8 @@
 freq: 35
 title: miagoxů (verb) - to sweeten
 Word (Asaxi): miagoxů
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: to sweeten
 trnsltion. Pl: słodzić
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /miaɡo̞ɦuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mi · a · go · xů</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to sweeten

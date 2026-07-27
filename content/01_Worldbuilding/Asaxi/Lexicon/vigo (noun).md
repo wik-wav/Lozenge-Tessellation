@@ -2,6 +2,8 @@
 freq: 52
 title: vigo (noun) - grain, seed
 Word (Asaxi): vigo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: grain, seed
 trnsltion. Pl: ziarno, nasiono
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /vigo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · go</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

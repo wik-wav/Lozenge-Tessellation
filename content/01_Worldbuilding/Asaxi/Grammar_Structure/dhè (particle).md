@@ -1,6 +1,8 @@
 ---
 title: dhè (particle) - topic marker
 Word (Asaxi): dhè
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: topic marker
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ Used to construct the **Passive Voice**. The noun marked by `dhè` is the semant
 ### Pronunciation
 
 IPA: /ðə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dhè</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentences
 

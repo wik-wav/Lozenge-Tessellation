@@ -2,6 +2,8 @@
 freq: 64
 title: ken.ná (particle) - cannot
 Word (Asaxi): ken.ná
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: cannot, unable to
 trnsltion. Pl: nie móc, nie być w stanie zrobić
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ken.nɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ke · nná</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

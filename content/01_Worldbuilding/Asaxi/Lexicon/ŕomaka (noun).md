@@ -2,6 +2,8 @@
 freq: 64
 title: ŕomaka (noun) - cup
 Word (Asaxi): ŕomaka
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: cup
 trnsltion. Pl: kubek, filiżanka
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾomaka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · ma · ka</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

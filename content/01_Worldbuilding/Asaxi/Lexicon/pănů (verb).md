@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): pănů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to go outside, to exit, to leave (a container)
 trnsltion. Pl: wyjść na zewnątrz
 Transitivity: intransitive, transitive
@@ -28,6 +30,12 @@ title: pănů (verb) - to go outside, to exit
 
 ### Pronunciation
 IPA: /paɪnuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pă · nů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to go outside, to exit, to leave (a container)

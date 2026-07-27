@@ -1,6 +1,8 @@
 ---
 title: kvå (particle) - When?
 Word (Asaxi): kvå
+pitch_accent: H
+pitch_accent_class: dominant
 trnsltion. En: When?
 tags:
   - Asaxi
@@ -22,6 +24,12 @@ tags:
 ### Pronunciation
 
 IPA: /kvau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kvå</span>
+- **Pattern:** `H`
+- **Class:** `dominant`
 
 ### Etymology
 

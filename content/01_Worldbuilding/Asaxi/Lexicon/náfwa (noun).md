@@ -1,6 +1,8 @@
 ---
 title: náfwa (noun) - clear sky, cloudless sky
 Word (Asaxi): náfwa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: clear sky, cloudless sky (the phenomenon)
 trnsltion. Pl: bezchmurne niebo
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /nɑfʷa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ná · fwa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

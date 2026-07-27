@@ -1,6 +1,8 @@
 ---
 title: tte ŕima (Idiom) - I think that...
 Word (Asaxi): tte ŕima
+pitch_accent: L.L | H.L
+pitch_accent_class: phrase
 trnsltion. En: I think that... (opinion)
 trnsltion. Pl: myślę, że... / sądzę, że...
 tags:
@@ -32,6 +34,12 @@ Appended after a clause to mark it as belief rather than asserted fact.
 ### Pronunciation
 
 IPA: /tːə ɾima/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">t · te | ŕi · ma</span>
+- **Pattern:** `L · L | H · L`
+- **Class:** `phrase`
 
 ### Example sentence
 

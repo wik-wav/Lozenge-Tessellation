@@ -1,6 +1,8 @@
 ---
 title: wo (particle) - I
 Word (Asaxi): wo
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: I
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ The pronoun `wo` (I) is a first-person singular nominative pronoun.
 ### Pronunciation
 
 IPA: /wo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wo</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Alternative Forms
 

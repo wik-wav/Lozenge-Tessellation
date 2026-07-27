@@ -2,6 +2,8 @@
 freq: 57
 title: chỏka (noun) - plate, dish (food-tool)
 Word (Asaxi): chỏka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: plate, dish (food-tool)
 trnsltion. Pl: talerz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̠ʃou̯ka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chỏ · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

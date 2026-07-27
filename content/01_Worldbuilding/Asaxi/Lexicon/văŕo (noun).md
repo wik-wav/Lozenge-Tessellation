@@ -2,6 +2,8 @@
 freq: 60
 title: văŕo (noun) - garden, conservatory
 Word (Asaxi): văŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: garden, conservatory, plantation
 trnsltion. Pl: ogród, plantacja
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /vaɪɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vă · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

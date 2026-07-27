@@ -2,6 +2,8 @@
 freq: 56
 title: bỏvko (noun) - grandfather
 Word (Asaxi): bỏvko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: grandfather
 trnsltion. Pl: dziadek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /bou̯b̪vko̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bỏ · vko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

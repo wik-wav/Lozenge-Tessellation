@@ -2,6 +2,8 @@
 freq: 56
 title: gùmë (verb) - to grab, to seize, to snatch
 Word (Asaxi): gùmë
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to grab, to seize, to snatch
 trnsltion. Pl: chwytać, łapać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /gɯmeɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gù · më</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to grab, to seize, to snatch

@@ -2,6 +2,8 @@
 freq: 45
 title: aśpỏ (noun) - sock
 Word (Asaxi): aśpỏ
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: sock
 trnsltion. Pl: skarpeta
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɕpou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · śpỏ</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

@@ -1,6 +1,8 @@
 ---
 title: săatxă (noun) - summer
 Word (Asaxi): săatxă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: summer
 trnsltion. Pl: lato
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /saɪatʰaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · a · txă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

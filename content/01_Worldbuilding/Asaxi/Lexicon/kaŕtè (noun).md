@@ -2,6 +2,8 @@
 freq: 51
 title: kaŕtè (noun) - potato (Pl. *kartofel*)
 Word (Asaxi): kaŕtè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: potato (Pl. *kartofel*)
 trnsltion. Pl: ziemniak
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kaɾt̪ə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · ŕtè</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

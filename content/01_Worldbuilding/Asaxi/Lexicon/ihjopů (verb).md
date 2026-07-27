@@ -1,6 +1,8 @@
 ---
 title: ihjopů (verb) - to feel bony, to feel hard
 Word (Asaxi): ihjopů
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: to feel bony, to feel hard
 trnsltion. Pl: być twardym w dotyku
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /iço̞puu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · hjo · pů</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to feel bony, to feel hard

@@ -2,6 +2,8 @@
 freq: 48
 title: bahjá (noun) - sibling, brother, sister
 Word (Asaxi): bahjá
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: sibling, brother, sister
 trnsltion. Pl: rodzeństwo; brat, siostra
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /baçɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · hjá</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

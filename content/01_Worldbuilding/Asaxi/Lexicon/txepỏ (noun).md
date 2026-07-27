@@ -2,6 +2,8 @@
 freq: 88
 title: txepỏ (noun) - feather
 Word (Asaxi): txepỏ
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: feather
 trnsltion. Pl: pióro
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /tʰepou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">txe · pỏ</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

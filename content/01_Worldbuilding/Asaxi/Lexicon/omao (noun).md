@@ -2,6 +2,8 @@
 freq: 63
 title: omao (noun) - tonight, this night
 Word (Asaxi): omao
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: tonight, this night
 trnsltion. Pl: dziś w nocy, ta noc
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /oma.o/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · ma · o</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

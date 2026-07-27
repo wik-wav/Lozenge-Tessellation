@@ -2,6 +2,8 @@
 freq: 68
 title: shěso (noun) - book
 Word (Asaxi): shěso
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: book
 trnsltion. Pl: książka
 tags:
@@ -21,6 +23,12 @@ cold
 
 ### Pronunciation
 IPA: /ɹ̠̊ɚso/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shě · so</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Literature and Reading]]

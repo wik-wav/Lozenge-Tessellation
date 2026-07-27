@@ -2,6 +2,8 @@
 freq: 88
 title: ŕoŕonů (verb) - to drink
 Word (Asaxi): ŕoŕonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to drink
 trnsltion. Pl: pić
 Transitivity: transitive
@@ -30,6 +32,12 @@ Takes an object (liquid).
 
 ### Pronunciation
 IPA: /ɾoɾonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · ŕo · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to drink, to imbibe

@@ -2,6 +2,8 @@
 freq: 88
 title: kiŕonů (verb) - to cut, sever, slice
 Word (Asaxi): kiŕonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to cut, sever, slice
 trnsltion. Pl: ciąć, kroić
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kiɾonɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ki · ŕo · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to cut, sever, slice

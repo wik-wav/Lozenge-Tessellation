@@ -2,6 +2,8 @@
 freq: 67
 title: fnonů (verb) - to move (perpetually/drifting)
 Word (Asaxi): fnonů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to move, to drift, to float about, to migrate (slowly)
 trnsltion. Pl: ruszać się, przemieszczać się, dryfować, unosić się
 tags:
@@ -29,6 +31,12 @@ Takes one argument (the mover): e.g. The speck(1) drifts.
 
 ### Pronunciation
 **IPA:** /fnonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fno · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to move, to drift, to float about, to migrate (slowly)

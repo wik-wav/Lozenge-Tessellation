@@ -1,6 +1,8 @@
 ---
 title: kkè (particle) - ?! (agitated question)
 Word (Asaxi): kkè
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: ?! (agitated question)
 trnsltion. Pl: 
 tags:
@@ -15,6 +17,12 @@ tags:
 <span class="asaxi-script">kkè</span>
 
 <span class="asaxi-script-alpha">kkè</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">k · kè</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Grammatical function
 - **Category:** Interrogative (Emphatic)

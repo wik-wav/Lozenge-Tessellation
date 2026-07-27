@@ -2,6 +2,8 @@
 freq: 88
 title: axù (verb) - to laugh
 Word (Asaxi): axù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to laugh
 trnsltion. Pl: śmiać się
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /aɦɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · xù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to laugh

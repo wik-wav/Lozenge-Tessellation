@@ -2,6 +2,8 @@
 freq: 72
 title: ŕă (Number) - 5, five
 Word (Asaxi): ŕă, 5
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: 5, five
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Example sentence
 

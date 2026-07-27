@@ -2,6 +2,8 @@
 freq: 56
 title: tëŕo (noun) - pocket
 Word (Asaxi): tëŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: pocket
 trnsltion. Pl: kieszeń
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪eɪɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">të · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

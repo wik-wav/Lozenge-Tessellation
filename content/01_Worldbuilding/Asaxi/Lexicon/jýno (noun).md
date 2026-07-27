@@ -2,6 +2,8 @@
 freq: 64
 title: jýno (noun) - jýno
 Word (Asaxi): jýno
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: sound
 trnsltion. Pl: dźwięk
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /Ʝɪno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jý · no</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Perception]] / Physics

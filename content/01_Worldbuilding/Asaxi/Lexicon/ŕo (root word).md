@@ -2,6 +2,8 @@
 freq: 71
 title: ŕo (root word) - "-place", "-city", "-country"
 Word (Asaxi): ŕo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: '"-place", "-city", "-country"'
 tags:
   - Asaxi
@@ -20,6 +22,12 @@ Adds the "-place" meaning to nouns it appears in
 
 ### Pronunciation
 IPA: /ɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Alternative Forms
 x

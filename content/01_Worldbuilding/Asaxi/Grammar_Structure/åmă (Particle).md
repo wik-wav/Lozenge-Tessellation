@@ -1,6 +1,8 @@
 ---
 title: åmă (particle) - every time
 Word (Asaxi): åmă
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: za każdym razem
 tags:
   - Asaxi
@@ -27,6 +29,12 @@ Pre-Verbal.
 ### Pronunciation
 
 IPA: /au̯maɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">å · mă</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

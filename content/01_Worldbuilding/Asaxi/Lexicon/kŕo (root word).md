@@ -2,6 +2,8 @@
 freq: 50
 title: kŕo (root word) - built construct / surface (suffix)
 Word (Asaxi): kŕo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: '"-construct", "-surface" (an unenterable built thing)'
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ Bound **suffix**. Adds the meaning *"built construct / made surface"* to a base.
 
 ### Pronunciation
 IPA: /kɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kŕo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Alternative Forms
 Null

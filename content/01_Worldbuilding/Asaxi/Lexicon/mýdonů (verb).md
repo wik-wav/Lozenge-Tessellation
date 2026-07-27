@@ -2,6 +2,8 @@
 freq: 52
 title: mýdonů (verb) - to soap, to wash with soap
 Word (Asaxi): mýdonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to soap, to wash with soap
 trnsltion. Pl: mydlić
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /mýdo̞nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mý · do · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to soap, to wash with soap

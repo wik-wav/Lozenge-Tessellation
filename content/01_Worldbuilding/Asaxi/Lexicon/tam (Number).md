@@ -2,6 +2,8 @@
 freq: 75
 title: tam (Number) - 2, two
 Word (Asaxi): tam, 2
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: 2, two
 tags:
   - Asaxi
@@ -24,6 +26,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪am/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tam</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Example sentence
 

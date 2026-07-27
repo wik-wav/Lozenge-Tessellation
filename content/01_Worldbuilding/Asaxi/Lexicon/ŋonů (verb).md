@@ -2,6 +2,8 @@
 freq: 50
 title: ŋonů (verb) - to weigh (in kilograms)
 Word (Asaxi): ŋonů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to weigh (in kilograms)
 trnsltion. Pl: ważyć (w kilogramach)
 Transitivity: intransitive
@@ -30,6 +32,12 @@ Used with a numeric complement.
 
 ### Pronunciation
 IPA: /ŋonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŋo · nů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to weigh (in kilograms)

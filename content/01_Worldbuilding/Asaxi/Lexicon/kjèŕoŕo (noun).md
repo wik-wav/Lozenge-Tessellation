@@ -2,6 +2,8 @@
 freq: 45
 title: kjèŕoŕo (noun) - sap / resin
 Word (Asaxi): kjèŕoŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: sap / resin
 trnsltion. Pl: żywica
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kʲəɾoɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè · ŕo · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

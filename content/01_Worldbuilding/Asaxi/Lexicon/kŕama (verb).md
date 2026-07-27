@@ -2,6 +2,8 @@
 freq: 66
 title: kŕama (verb) - to march, to tramp
 Word (Asaxi): kŕama
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to march, to tramp
 trnsltion. Pl: maszerować
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /kɾama/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kŕa · ma</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to march, to tramp

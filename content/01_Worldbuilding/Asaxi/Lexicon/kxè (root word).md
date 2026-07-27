@@ -1,6 +1,8 @@
 ---
 title: kxè (root word) - web-spinning creature
 Word (Asaxi): kxè
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: 'web-spinning creature'
 tags:
   - Asaxi
@@ -20,6 +22,12 @@ A bound root naming spiders and web-spinners.
 
 ### Pronunciation
 IPA: /kʰə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kxè</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Alternative Forms
 x

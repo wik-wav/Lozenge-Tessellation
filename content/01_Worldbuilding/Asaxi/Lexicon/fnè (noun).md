@@ -2,6 +2,8 @@
 freq: 59
 title: fnè (noun) - boat
 Word (Asaxi): fnè
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: boat
 trnsltion. Pl: łódź
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fnə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fnè</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Motion]]

@@ -2,6 +2,8 @@
 freq: 31
 title: pùbåbå (noun) - glutes
 Word (Asaxi): pùbåbå
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: glutes
 trnsltion. Pl: mięśnie pośladkowe
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɯbau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · bå · bå</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

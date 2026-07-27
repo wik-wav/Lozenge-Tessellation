@@ -1,6 +1,8 @@
 ---
 title: xăhè- (particle) - Force to
 Word (Asaxi): xăhè-
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: Force to, Make do, Must
 trnsltion. Pl: 
 tags:
@@ -15,6 +17,12 @@ tags:
 <span class="asaxi-script">xăhè-</span>
 
 <span class="asaxi-script-alpha">xăhè-</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · hè</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Grammatical function
 - **Category:** Mood — Coercive

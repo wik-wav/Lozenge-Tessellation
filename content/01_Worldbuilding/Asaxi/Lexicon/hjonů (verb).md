@@ -1,6 +1,8 @@
 ---
 title: hjonů (verb) - to wish for, to long for
 Word (Asaxi): hjonů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to wish for, to long for, to stargaze (metaphorical), to hope for
 trnsltion. Pl: życzyć sobie, pragnąć, marzyć
 Transitivity: intransitive, transitive
@@ -28,6 +30,12 @@ tags:
 
 ### Pronunciation
 IPA: /çonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hjo · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to wish for, to long for, to stargaze (metaphorical), to hope for

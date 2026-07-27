@@ -2,6 +2,8 @@
 freq: 47
 title: ŕăgo (noun) - volcano (fire-rock)
 Word (Asaxi): ŕăgo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: volcano (fire-rock)
 trnsltion. Pl: wulkan
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɪɡo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · go</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

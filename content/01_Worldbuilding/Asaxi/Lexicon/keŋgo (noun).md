@@ -2,6 +2,8 @@
 freq: 56
 title: keŋgo (noun) - lock (door-metal)
 Word (Asaxi): keŋgo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: lock (door-metal)
 trnsltion. Pl: zamek (do drzwi)
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ke̞ŋɡo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ke · ŋgo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

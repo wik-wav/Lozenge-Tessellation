@@ -1,6 +1,8 @@
 ---
 title: ko (tense) (particle) - Long ago or Someday
 Word (Asaxi): ko
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Long ago or Someday
 tags:
   - Asaxi
@@ -14,6 +16,13 @@ tags:
 <span class="asaxi-script">ko</span>
 
 <span class="asaxi-script-alpha">ko</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ko</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Type:** Tense Modifier Prefix

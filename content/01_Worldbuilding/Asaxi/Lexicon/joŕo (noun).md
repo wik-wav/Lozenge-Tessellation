@@ -2,6 +2,8 @@
 freq: 60
 title: joŕo (noun) - village (society-place)
 Word (Asaxi): joŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: village (society-place)
 trnsltion. Pl: wieś
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /jo̞ɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jo · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

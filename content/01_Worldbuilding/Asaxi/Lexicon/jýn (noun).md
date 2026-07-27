@@ -2,6 +2,8 @@
 freq: 68
 title: jýn (noun) - talk, chat
 Word (Asaxi): jýn
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: talk, chat
 trnsltion. Pl: rozmowa, mowa
 tags:
@@ -22,6 +24,12 @@ warm
 
 ### Pronunciation
 IPA: /Ʝɪn/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jýn</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Behaviour]]

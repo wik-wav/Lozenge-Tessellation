@@ -2,6 +2,8 @@
 freq: 55
 title: nozhènů (verb) - to knife, to cut with a blade
 Word (Asaxi): nozhènů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to knife, to cut with a blade
 trnsltion. Pl: kroić nożem
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /no̞z̪xənuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">no · zhè · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to knife, to cut with a blade

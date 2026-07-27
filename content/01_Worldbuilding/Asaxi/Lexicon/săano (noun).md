@@ -1,6 +1,8 @@
 ---
 title: săano (noun) - cooked food, baked goods, bread
 Word (Asaxi): săano
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: cooked food, baked goods, bread
 trnsltion. Pl: strawa gotowana, pieczywo, chleb
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /saɪano/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · a · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

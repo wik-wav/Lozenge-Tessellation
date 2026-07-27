@@ -2,6 +2,8 @@
 freq: 63
 title: tètá (noun) - pain, suffering
 Word (Asaxi): tètá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: pain, suffering, hurt, ache
 trnsltion. Pl: ból, cierpienie
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪ət̪ɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tè · tá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / [[Smntc_Field Emotion]]

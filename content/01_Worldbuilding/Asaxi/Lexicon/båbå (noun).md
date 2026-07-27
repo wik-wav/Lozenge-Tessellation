@@ -2,6 +2,8 @@
 freq: 56
 title: båbå (noun) - muscle
 Word (Asaxi): båbå
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: muscle
 trnsltion. Pl: mięsień
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /bau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bå · bå</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

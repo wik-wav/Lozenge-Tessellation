@@ -2,6 +2,8 @@
 freq: 74
 title: wao (noun) - world, realm
 Word (Asaxi): wao
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: world, realm, domain, sphere
 trnsltion. Pl: świat
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /wa.o/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wa · o</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Existence]]

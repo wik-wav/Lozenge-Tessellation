@@ -2,6 +2,8 @@
 freq: 88
 title: pùxa (verb) - to push, to shove
 Word (Asaxi): pùxa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to push, to shove
 trnsltion. Pl: pchać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /pɯɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · xa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to push, to shove

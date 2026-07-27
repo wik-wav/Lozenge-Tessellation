@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): pù-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: less
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ title: pù- (degree) (particle) - less
 ### Pronunciation
 
 IPA: /pɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Etymology
 

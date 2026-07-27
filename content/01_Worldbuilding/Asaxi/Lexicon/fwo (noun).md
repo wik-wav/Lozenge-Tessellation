@@ -2,6 +2,8 @@
 freq: 49
 title: fwo (noun) - fog
 Word (Asaxi): fwo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: fog
 trnsltion. Pl: mgła
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fwo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

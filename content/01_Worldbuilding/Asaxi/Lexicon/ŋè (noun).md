@@ -2,6 +2,8 @@
 freq: 56
 title: ŋè (noun) - shadow
 Word (Asaxi): ŋè
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: shadow
 trnsltion. Pl: cień
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ŋə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŋè</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Perception]]

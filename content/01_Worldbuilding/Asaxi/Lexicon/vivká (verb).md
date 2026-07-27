@@ -2,6 +2,8 @@
 freq: 88
 title: vivká (verb) - to grow, to grow up
 Word (Asaxi): vivká
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to grow, to grow up
 trnsltion. Pl: rosnąć
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /b̪vib̪vkɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · vká</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to grow, to grow up

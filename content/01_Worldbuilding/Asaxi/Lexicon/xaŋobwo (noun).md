@@ -2,6 +2,8 @@
 freq: 48
 title: xaŋobwo (noun) - obesity, morbid obesity
 Word (Asaxi): xaŋobwo
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: obesity, morbid obesity, excess weight
 trnsltion. Pl: otyłość, nadwaga (chorobliwa)
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦaŋobwo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · ŋo · bwo</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / Health

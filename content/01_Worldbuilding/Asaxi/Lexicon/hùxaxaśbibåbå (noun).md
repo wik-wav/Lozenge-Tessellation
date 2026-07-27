@@ -2,6 +2,8 @@
 freq: 33
 title: hùxaxaśbibåbå (noun) - hamstrings
 Word (Asaxi): hùxaxaśbibåbå
+pitch_accent: L.L.L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: hamstrings
 trnsltion. Pl: mięśnie kulszowo-goleniowe
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /xɯɦaɦaɕbibau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù · xa · xa · śbi · bå · bå</span>
+- **Pattern:** `L · L · L · H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

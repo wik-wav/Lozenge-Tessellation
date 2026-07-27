@@ -2,6 +2,8 @@
 freq: 75
 title: aichů (verb) - to be pained by, to feel hurt at (something external)
 Word (Asaxi): aichů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to be pained by, to feel hurt at (something external)
 trnsltion. Pl: odczuwać ból, boleć (kogoś coś)
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_ — state predicate; the experiencer is the subject (often with t
 
 ### Pronunciation
 IPA: /ait̠ʃuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · i · chů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to be pained by, to feel hurt at (something external)

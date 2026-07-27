@@ -2,6 +2,8 @@
 freq: 88
 title: såŕånů (verb) - to sing
 Word (Asaxi): såŕånů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to sing
 trnsltion. Pl: śpiewać
 Transitivity: intransitive/monotransitive
@@ -30,6 +32,12 @@ _intransitive/monotransitive_
 
 ### Pronunciation
 IPA: /sau̯ɾau̯nuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">så · ŕå · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to sing

@@ -2,6 +2,8 @@
 freq: 71
 title: shějýnkam (noun) - school (education-structure)
 Word (Asaxi): shějýnkam
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: school (education-structure)
 trnsltion. Pl: szkoła
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʃɚjɪnkam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shě · jý · nkam</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

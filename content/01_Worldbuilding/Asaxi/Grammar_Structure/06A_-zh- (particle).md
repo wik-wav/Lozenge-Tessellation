@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): -zh-
+pitch_accent: none
+pitch_accent_class: atonal
 trnsltion. En: To taste like
 tags:
   - Asaxi
@@ -19,6 +21,12 @@ aliases:
 ### Pronunciation
 
 IPA: /ʑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zh</span>
+- **Pattern:** `none`
+- **Class:** `atonal`
 
 ### Example sentence
 

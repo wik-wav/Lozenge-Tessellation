@@ -2,6 +2,8 @@
 freq: 62
 title: nonýj (adjective) - material/object-like
 Word (Asaxi): nonýj
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: material, object-like, physical, tangible
 trnsltion. Pl: materialny, przedmiotowy, fizyczny, namacalny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /nonɪꞲ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">no · nýj</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]], [[Smntc_Field Materials]]

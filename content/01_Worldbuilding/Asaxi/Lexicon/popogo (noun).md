@@ -1,6 +1,8 @@
 ---
 title: popogo (noun) - pearl
 Word (Asaxi): popogo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: pearl
 trnsltion. Pl: perła
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /po̞po̞ɡo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">po · po · go</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

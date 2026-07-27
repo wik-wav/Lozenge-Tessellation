@@ -1,6 +1,8 @@
 ---
 title: vå (particle) - when
 Word (Asaxi): vå
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: when
 tags:
   - Asaxi
@@ -35,6 +37,12 @@ Derived from **[[va- (particle)|va]]** (Inside). _Logic:_ "Inside the time (of).
 ### Pronunciation
 
 IPA: /vau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vå</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

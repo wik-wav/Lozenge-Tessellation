@@ -2,6 +2,8 @@
 freq: 88
 title: mobo (noun) - heart
 Word (Asaxi): mobo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: heart
 trnsltion. Pl: serce
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mo̞bo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mo · bo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

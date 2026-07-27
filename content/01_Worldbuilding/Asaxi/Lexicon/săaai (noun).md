@@ -2,6 +2,8 @@
 freq: 53
 title: săaai (noun) - fever
 Word (Asaxi): săaai
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: fever
 trnsltion. Pl: gorączka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /saɪa.ai/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · a · a · i</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Health & Medicine]]

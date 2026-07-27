@@ -2,6 +2,8 @@
 freq: 62
 title: frë (noun) - freedom, liberty
 Word (Asaxi): frë
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: freedom, liberty, independence
 trnsltion. Pl: wolność, swoboda
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fɹeɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">frë</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Abstract / Political

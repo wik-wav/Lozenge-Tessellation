@@ -2,6 +2,8 @@
 freq: 58
 title: dătopo (noun) - storm, downpour
 Word (Asaxi): dătopo
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: storm, downpour
 trnsltion. Pl: burza, ulewa
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪt̪opo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · to · po</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

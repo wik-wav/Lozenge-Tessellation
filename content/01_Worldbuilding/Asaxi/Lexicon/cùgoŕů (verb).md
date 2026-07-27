@@ -1,6 +1,8 @@
 ---
 title: cùgoŕů (verb) - to throw pottery, to mould clay
 Word (Asaxi): cùgoŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to throw pottery, to mould clay
 trnsltion. Pl: lepić z gliny
 Transitivity: monotransitive
@@ -29,6 +31,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪ɯɡo̞ɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cù · go · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to throw pottery, to mould clay

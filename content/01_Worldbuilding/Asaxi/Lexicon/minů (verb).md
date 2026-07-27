@@ -2,6 +2,8 @@
 freq: 88
 title: minů (verb) - to hear, to listen to
 Word (Asaxi): minů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to hear
 trnsltion. Pl: słyszeć
 Transitivity: transitive
@@ -30,6 +32,12 @@ Takes an object (the sound/source).
 
 ### Pronunciation
 IPA: /minuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mi · nů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to hear, to listen to

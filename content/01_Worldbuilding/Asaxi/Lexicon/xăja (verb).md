@@ -2,6 +2,8 @@
 freq: 50
 title: xăja (verb) - to warn, to alert
 Word (Asaxi): xăja
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to warn, to alert
 trnsltion. Pl: ostrzegać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɦaɪja/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · ja</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to warn, to alert

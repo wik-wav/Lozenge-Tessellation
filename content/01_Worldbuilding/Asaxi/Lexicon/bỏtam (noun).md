@@ -2,6 +2,8 @@
 freq: 88
 title: bỏtam (noun) - husband
 Word (Asaxi): bỏtam
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: husband
 trnsltion. Pl: mąż
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /bou̯t̪am/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bỏ · tam</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

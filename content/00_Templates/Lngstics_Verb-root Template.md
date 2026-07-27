@@ -1,6 +1,9 @@
 ---
 title: word in asaxi (what is it?) - english
 Word (Asaxi):
+pitch_accent:
+pitch_accent_class:
+g2p_override:
 trnsltion. en:
 trnsltion. Pl:
 Transitivity:
@@ -43,6 +46,12 @@ x
 ### Pronunciation
 
 IPA: //
+
+### Pitch Accent
+
+- **Morae:**
+- **Pattern:**
+- **Class:**
 
 ### Translations
 

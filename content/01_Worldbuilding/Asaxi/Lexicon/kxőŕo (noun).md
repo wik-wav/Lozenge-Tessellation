@@ -2,6 +2,8 @@
 freq: 54
 title: kxőŕo (noun) - throat, pharynx
 Word (Asaxi): kxőŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: throat, pharynx, voice box (poetic)
 trnsltion. Pl: gardło
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /kʰoɪɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kxő · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / [[Smntc_Field Communication]]

@@ -2,6 +2,8 @@
 freq: 70
 title: ŕimå (noun) - thought, idea
 Word (Asaxi): ŕimå
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: thought, idea
 trnsltion. Pl: myśl, idea
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾimau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕi · må</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Perception]] / Cognition

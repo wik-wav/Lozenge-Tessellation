@@ -2,6 +2,8 @@
 freq: 53
 title: fůkő (noun) - un-empathy, blind hatred
 Word (Asaxi): fůkő
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: un-empathy, blind hatred, detestation, loathing, antipathy
 trnsltion. Pl: nienawiść, odraza, brak empatii
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fuu̯koɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · kő</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Virtues & Failings

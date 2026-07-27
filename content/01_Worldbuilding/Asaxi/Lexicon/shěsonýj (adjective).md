@@ -2,6 +2,8 @@
 freq: 44
 title: shěsonýj (adjective) - knowledgeable, well-versed
 Word (Asaxi): shěsonýj
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: knowledgeable, well-versed, booksmart
 trnsltion. Pl: książkowy, dobrze obeznany
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ɹ̠̊ɚsonɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shě · so · nýj</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Literature and Reading]]

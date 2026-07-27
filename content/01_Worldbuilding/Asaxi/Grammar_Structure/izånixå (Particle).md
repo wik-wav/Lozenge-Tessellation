@@ -1,6 +1,8 @@
 ---
 title: izånixå (particle) - From time to time
 Word (Asaxi): izånixå
+pitch_accent: L.L.L
+pitch_accent_class: atonal
 trnsltion. En: From time to time
 tags:
   - Asaxi
@@ -28,6 +30,12 @@ Functions as a **Floating Adverb**, typically placed in the **Pre-Verbal** slot.
 ### Pronunciation
 
 IPA: /izau̯ɲiɦau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · zå · nixå</span>
+- **Pattern:** `L · L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

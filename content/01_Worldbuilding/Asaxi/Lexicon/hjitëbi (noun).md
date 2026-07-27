@@ -2,6 +2,8 @@
 freq: 56
 title: hjitëbi (noun) - finger
 Word (Asaxi): hjitëbi
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: finger
 trnsltion. Pl: palec (ręki)
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /çit̪eɪbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hji · të · bi</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

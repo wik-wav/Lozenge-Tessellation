@@ -2,6 +2,8 @@
 freq: 41
 title: pxůmănýj (adjective) - disagreeable, all-denying
 Word (Asaxi): pxůmănýj
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: disagreeable, all-denying
 trnsltion. Pl: nieprzyjemny, przekorny
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /pʰuu̯maɪnɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pxů · mă · nýj</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Behaviour]]

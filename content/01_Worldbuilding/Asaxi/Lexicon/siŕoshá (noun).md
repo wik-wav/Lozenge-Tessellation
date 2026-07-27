@@ -2,6 +2,8 @@
 freq: 54
 title: siŕoshá (noun) - stranger (unknown-person)
 Word (Asaxi): siŕoshá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: stranger (unknown-person)
 trnsltion. Pl: obcy, nieznajomy
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /siɾo̞ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">siŕo · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

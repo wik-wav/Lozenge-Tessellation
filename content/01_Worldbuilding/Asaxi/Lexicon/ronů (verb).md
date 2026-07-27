@@ -2,6 +2,8 @@
 freq: 45
 title: ronů (verb) - to lift weights
 Word (Asaxi): ronů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to lift weights
 trnsltion. Pl: pakować
 tags:
@@ -18,6 +20,12 @@ tags:
 <span class="asaxi-script-alpha">ronů</span>
 ### Pronunciation
 IPA: /ɹonuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ro · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / Fitness

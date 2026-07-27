@@ -2,6 +2,8 @@
 freq: 41
 title: sù (root word) - silica, glassy sand
 Word (Asaxi): sù
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: 'silica, glassy sand'
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ A bound root naming the glassy, vitreous element of sand. Used to derive worked-
 
 ### Pronunciation
 IPA: /sɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sù</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Alternative Forms
 Related to [[hùso (noun)|hùso]] (sand).

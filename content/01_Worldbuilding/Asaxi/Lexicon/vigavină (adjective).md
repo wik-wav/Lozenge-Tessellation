@@ -2,6 +2,8 @@
 freq: 60
 title: vigavină (adjective) - healthy, hale
 Word (Asaxi): vigavină
+pitch_accent: L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: healthy, hale
 trnsltion. Pl: zdrowy
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /vigavinaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · ga · vi · nă</span>
+- **Pattern:** `L · H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Health & Medicine]]

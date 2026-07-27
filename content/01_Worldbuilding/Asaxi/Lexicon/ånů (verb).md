@@ -2,6 +2,8 @@
 id: ax9h1f2qo
 title: ånů (verb) - to tell the time, to time
 Word (Asaxi): ånů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to tell the time, to time
 trnsltion. Pl: podawać czas
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /au̯nɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">å · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to tell the time, to time

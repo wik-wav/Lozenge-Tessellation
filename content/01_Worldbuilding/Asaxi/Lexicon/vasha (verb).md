@@ -2,6 +2,8 @@
 freq: 88
 title: vasha (verb) - to empty, to drain
 Word (Asaxi): vasha
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to empty, to drain
 trnsltion. Pl: opróżniać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /b̪vaʃa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">va · sha</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to empty, to drain

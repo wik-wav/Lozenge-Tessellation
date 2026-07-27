@@ -2,6 +2,8 @@
 freq: 51
 title: jåjù (verb) - to beg, to plead
 Word (Asaxi): jåjù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to beg, to plead
 trnsltion. Pl: błagać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /jau̯jɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jå · jù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to beg, to plead

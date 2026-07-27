@@ -2,6 +2,8 @@
 freq: 88
 title: ijo (verb) - see, watch
 Word (Asaxi): ijo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: see, watch
 trnsltion. Pl: widzieć, oglądać
 Transitivity: monotransitive
@@ -29,6 +31,12 @@ monotransitive verb
 
 ### Pronunciation
 IPA: /iꞲo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - **English:** see, watch

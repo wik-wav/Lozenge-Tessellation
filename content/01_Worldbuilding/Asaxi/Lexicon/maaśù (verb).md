@@ -2,6 +2,8 @@
 freq: 61
 title: maaśù (verb) - to carry
 Word (Asaxi): maaśù
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to carry
 trnsltion. Pl: nieść
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ma.aɕɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma · a · śù</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to carry

@@ -2,6 +2,8 @@
 freq: 65
 title: jovină (adjective) - beautiful
 Word (Asaxi): jovină
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: beautiful
 trnsltion. Pl: piękny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /jovinaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jo · vi · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Arts]]

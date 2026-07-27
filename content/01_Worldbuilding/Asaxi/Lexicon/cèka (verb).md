@@ -2,6 +2,8 @@
 freq: 67
 title: cèka (verb) - to remember, to recall
 Word (Asaxi): cèka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to remember, to recall
 trnsltion. Pl: pamiętać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪əka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cè · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to remember, to recall

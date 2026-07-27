@@ -1,6 +1,8 @@
 ---
 title: måmåni (particle) - As far as to
 Word (Asaxi): måmåni
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: As far as to
 tags:
   - Asaxi
@@ -37,6 +39,12 @@ Occupies the **Oblique Argument** slot (Goal).
 ### Pronunciation
 
 IPA: /mau̯mau̯ɲi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">må · måni</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

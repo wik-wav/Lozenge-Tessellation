@@ -1,6 +1,8 @@
 ---
 title: săanoŕů (verb) - to bake bread
 Word (Asaxi): săanoŕů
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: to bake bread
 trnsltion. Pl: piec chleb
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /saɪano̞ɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · a · no · ŕů</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to bake bread

@@ -2,6 +2,8 @@
 freq: 61
 title: tăxo (verb) - to choose, to pick
 Word (Asaxi): tăxo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to choose, to pick
 trnsltion. Pl: wybierać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̪aɪɦo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tă · xo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to choose, to pick

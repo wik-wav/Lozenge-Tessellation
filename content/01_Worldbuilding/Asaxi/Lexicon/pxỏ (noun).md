@@ -2,6 +2,8 @@
 freq: 63
 title: pxỏ (noun) - ball, sphere
 Word (Asaxi): pxỏ
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: ball, sphere, orb
 trnsltion. Pl: piłka, kula
 tags:
@@ -21,6 +23,12 @@ Cold
 
 ### Pronunciation
 IPA: /pʰou/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pxỏ</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]] / [[Smntc_Field Shapes & Dimensions]] / [[Smntc_Field Play]]

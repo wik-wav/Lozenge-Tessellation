@@ -1,6 +1,8 @@
 ---
 title: kŕahjákae (noun) - raspberry, bramble-berry
 Word (Asaxi): kŕahjákae
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: raspberry, bramble-berry
 trnsltion. Pl: malina
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /kɾaçʲɑkae̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kŕa · hjá · ka · e</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

@@ -2,6 +2,8 @@
 freq: 43
 title: xipùŕo (noun) - dusk, sunset
 Word (Asaxi): xipùŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: dusk, sunset
 trnsltion. Pl: zmierzch
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦipɯɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xi · pù · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

@@ -1,6 +1,8 @@
 ---
 title: bam (Number Suffix) - X Times, occurrences suffix
 Word (Asaxi): -bam
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: X Times, occurrences suffix
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /bam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bam</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

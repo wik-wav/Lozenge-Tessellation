@@ -2,6 +2,8 @@
 freq: 27
 title: ală (noun) - looseness, slack
 Word (Asaxi): ală
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: looseness, slack, laxity, freedom from tension
 trnsltion. Pl: luźność, luz
 tags:
@@ -22,6 +24,12 @@ Warm
 
 ### Pronunciation
 IPA: /alaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · lă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]] / [[Smntc_Field Virtues & Failings]]

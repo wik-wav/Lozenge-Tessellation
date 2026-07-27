@@ -2,6 +2,8 @@
 freq: 88
 title: aimù (verb) - to die, to perish
 Word (Asaxi): aimù
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to die, to perish
 trnsltion. Pl: umierać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /aimɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · i · mù</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to die, to perish

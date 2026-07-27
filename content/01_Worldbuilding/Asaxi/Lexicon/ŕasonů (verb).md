@@ -2,6 +2,8 @@
 freq: 38
 title: ŕasonů (verb) - to evaporate, to steam off
 Word (Asaxi): ŕasonů
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: to evaporate, to steam off
 trnsltion. Pl: parować
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ɾaso̞nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕa · so · nů</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to evaporate, to steam off

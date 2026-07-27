@@ -2,6 +2,8 @@
 freq: 52
 title: fjonýj (adjective) - abstract, conceptual, concept-like
 Word (Asaxi): fjonýj
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: abstract, conceptual, concept-like
 trnsltion. Pl: abstrakcyjny
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /fʲo̞nɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fjo · nýj</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Logic]]

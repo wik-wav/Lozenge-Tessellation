@@ -1,6 +1,8 @@
 ---
 title: va- (particle) - inside
 Word (Asaxi): va-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: inside
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ Attaches to the front of the noun (or proximal prefix).
 ### Pronunciation
 
 IPA: /va/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">va</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

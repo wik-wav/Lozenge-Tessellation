@@ -2,6 +2,8 @@
 freq: 50
 title: ihjoŕo (noun) - tomb, grave (bone-place)
 Word (Asaxi): ihjoŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: tomb, grave (bone-place)
 trnsltion. Pl: grób
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /iço̞ɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · hjo · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

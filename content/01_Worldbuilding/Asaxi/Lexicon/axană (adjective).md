@@ -2,6 +2,8 @@
 freq: 39
 title: axană (adjective) - approachable, friendly
 Word (Asaxi): axană
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: approachable, friendly, cheerful, jolly, good-natured
 trnsltion. Pl: przystępny, pogodny, radosny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /aɦanaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · xa · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Personality

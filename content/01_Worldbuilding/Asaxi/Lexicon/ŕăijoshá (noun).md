@@ -2,6 +2,8 @@
 freq: 53
 title: ŕăijoshá (noun) - lion
 Word (Asaxi): ŕăijoshá
+pitch_accent: L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: lion
 trnsltion. Pl: lew
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɪ.iꞲoʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · i · jo · shá</span>
+- **Pattern:** `L · H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

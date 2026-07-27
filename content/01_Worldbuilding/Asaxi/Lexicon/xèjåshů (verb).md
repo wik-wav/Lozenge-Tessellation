@@ -1,6 +1,8 @@
 ---
 title: xèjåshů (verb) - to stop trying, to lose heart
 Word (Asaxi): xèjåshů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to stop trying, to lose heart, to give up (on a goal)
 trnsltion. Pl: przestać próbować, zrezygnować
 Transitivity: intransitive
@@ -28,6 +30,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦəjau̯ʃuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xè · jå · shů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to stop trying, to lose heart, to give up (on a goal)

@@ -1,6 +1,8 @@
 ---
 title: nőjo (Idiom) - Hello (lit. (I) see (you) there)
 Word (Asaxi): nőjo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: Hello (lit. (I) see (you) there)
 tags:
   - Asaxi
@@ -30,6 +32,12 @@ Literally "(I) see (you) there."
 
 ### Pronunciation
 IPA: /noɪjo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nő · jo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Example sentence
 

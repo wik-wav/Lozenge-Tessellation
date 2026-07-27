@@ -1,6 +1,8 @@
 ---
 title: tte (particle) - that, so, it is said, speaking of
 Word (Asaxi): tte
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: that, so, it is said, speaking of
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /tːe/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">t · te</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentences
 

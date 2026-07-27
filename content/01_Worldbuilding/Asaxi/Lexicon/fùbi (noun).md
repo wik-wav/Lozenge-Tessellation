@@ -1,6 +1,8 @@
 ---
 title: fùbi (noun) - whisker (of an animal)
 Word (Asaxi): fùbi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: whisker (of an animal)
 trnsltion. Pl: wąs, wibrys
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /fɯbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fù · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

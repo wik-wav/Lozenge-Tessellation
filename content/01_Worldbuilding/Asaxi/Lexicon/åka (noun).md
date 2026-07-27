@@ -2,6 +2,8 @@
 freq: 55
 title: åka (noun) - clock (time-tool)
 Word (Asaxi): åka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: clock (time-tool)
 trnsltion. Pl: zegar
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /au̯ka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">å · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

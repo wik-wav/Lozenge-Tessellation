@@ -2,6 +2,8 @@
 freq: 84
 title: ma (verb) - to have
 Word (Asaxi): ma
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: to have
 trnsltion. Pl: mieć
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ takes two, e.g. He(1) kicked the ball(2).
 
 ### Pronunciation
 IPA: /ma/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ma</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to have, to possess

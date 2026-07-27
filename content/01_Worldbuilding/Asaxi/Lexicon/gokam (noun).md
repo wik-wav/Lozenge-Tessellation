@@ -2,6 +2,8 @@
 freq: 56
 title: gokam (noun) - tower / keep
 Word (Asaxi): gokam
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: tower / keep
 trnsltion. Pl: wieża
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡokam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go · kam</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

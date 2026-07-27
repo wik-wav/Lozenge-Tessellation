@@ -2,6 +2,8 @@
 freq: 61
 title: vănýj (adjective) - slow, sluggish
 Word (Asaxi): vănýj
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: slow, sluggish, gradual, unhurried
 trnsltion. Pl: wolny, powolny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /vaɪnɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vă · nýj</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Time]] / Motion

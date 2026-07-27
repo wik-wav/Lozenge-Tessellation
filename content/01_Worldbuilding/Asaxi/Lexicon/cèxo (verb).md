@@ -2,6 +2,8 @@
 freq: 62
 title: cèxo (verb) - to wonder, to ponder
 Word (Asaxi): cèxo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to wonder, to ponder
 trnsltion. Pl: zastanawiać się
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪əɦo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cè · xo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to wonder, to ponder

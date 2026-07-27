@@ -1,6 +1,8 @@
 ---
 title: banů (verb) - to be beside, be next to
 Word (Asaxi): banů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to be beside, be next to
 trnsltion. Pl: być obok
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /banɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · nů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to be beside, be next to

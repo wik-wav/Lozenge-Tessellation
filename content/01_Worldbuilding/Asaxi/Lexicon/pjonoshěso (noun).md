@@ -1,6 +1,8 @@
 ---
 title: pjonoshěso (noun) - picture book
 Word (Asaxi): pjonoshěso
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: picture book
 trnsltion. Pl: książka obrazkowa
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /pʲo̞no̞ʃɚso̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pjo · no · shě · so</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

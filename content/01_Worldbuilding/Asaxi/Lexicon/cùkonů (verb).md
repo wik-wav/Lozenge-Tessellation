@@ -2,6 +2,8 @@
 freq: 63
 title: cùkonů (verb) - to build, to construct (in brick)
 Word (Asaxi): cùkonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to build, to construct (in brick)
 trnsltion. Pl: budować
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪ɯko̞nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cù · ko · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to build, to construct (in brick)

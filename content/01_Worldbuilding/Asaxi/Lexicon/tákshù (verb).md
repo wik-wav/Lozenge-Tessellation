@@ -2,6 +2,8 @@
 freq: 64
 title: tákshù (verb) - to lose, to be defeated
 Word (Asaxi): tákshù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to lose, to be defeated
 trnsltion. Pl: przegrywać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /t̪ɑkʃɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tá · kshù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to lose, to be defeated

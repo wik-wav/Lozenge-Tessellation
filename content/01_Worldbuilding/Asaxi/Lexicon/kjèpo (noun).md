@@ -2,6 +2,8 @@
 freq: 88
 title: kjèpo (noun) - tree
 Word (Asaxi): kjèpo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: tree
 trnsltion. Pl: drzewo
 tags:
@@ -22,6 +24,12 @@ warm
 
 ### Pronunciation
 IPA: /kʲəpo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè · po</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

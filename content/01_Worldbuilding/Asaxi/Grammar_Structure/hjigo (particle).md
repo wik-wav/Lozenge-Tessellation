@@ -1,6 +1,8 @@
 ---
 title: hjigo (particle) - "Few", "Little", "Not many", "A small number of".
 Word (Asaxi): hjigo
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: '"Few", "Little", "Not many", "A small number of".'
 tags:
   - Asaxi
@@ -33,6 +35,12 @@ Functions as a **Floating Quantifier**.
 
 IPA: /çiɡo/
 *Phonotactics:* `hj` becomes the voiceless palatal fricative /ç/.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hji · go</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Semantic field
 

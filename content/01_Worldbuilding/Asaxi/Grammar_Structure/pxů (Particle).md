@@ -1,6 +1,8 @@
 ---
 title: pxů (particle) - "No", "Nope", "Nay", "I refuse", "Incorrect"
 Word (Asaxi): pxů
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: '"No", "Nope", "Nay", "I refuse", "Incorrect"'
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ The casual/standard antonym to **[[vi (particle)|vi]]** (OK/Good).
 ### Pronunciation
 
 IPA: /pʰuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pxů</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Etymology
 

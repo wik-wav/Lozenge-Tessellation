@@ -2,6 +2,8 @@
 freq: 66
 title: ůshů (verb) - to clear, dig, sweep, work a tool through
 Word (Asaxi): ůshů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to clear, dig, sweep, work a tool through
 trnsltion. Pl: uprzątać, kopać, zamiatać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /uu̯ɕɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ů · shů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to clear, dig, sweep, work a tool through

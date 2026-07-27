@@ -1,6 +1,8 @@
 ---
 title: opùnå (particle) - usually
 Word (Asaxi): opùnå
+pitch_accent: L.L.L
+pitch_accent_class: atonal
 trnsltion. En: usually
 tags:
   - Asaxi
@@ -36,6 +38,12 @@ Placed at the **end** of the sentence (Event Scope) or before an adjective (Attr
 ### Pronunciation
 
 IPA: /opɯnau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · pù · nå</span>
+- **Pattern:** `L · L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

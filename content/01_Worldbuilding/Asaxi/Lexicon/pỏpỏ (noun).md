@@ -3,6 +3,8 @@ id: axvn9nutd
 freq: 51
 title: pỏpỏ (noun) - rabbit, hare
 Word (Asaxi): pỏpỏ
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: rabbit, hare
 trnsltion. Pl: królik, zając
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /pou̯pou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pỏ · pỏ</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

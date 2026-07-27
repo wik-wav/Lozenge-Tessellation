@@ -2,6 +2,8 @@
 freq: 55
 title: xogă (verb) - to arrive, to reach, to attain
 Word (Asaxi): xogă
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: to arrive
 trnsltion. Pl: przybyć
 Transitivity: intransitive
@@ -32,6 +34,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦoɡaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · gă</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to arrive, to reach, to attain, to come to (a realization)

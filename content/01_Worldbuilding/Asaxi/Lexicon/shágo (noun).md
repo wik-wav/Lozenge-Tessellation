@@ -2,6 +2,8 @@
 freq: 51
 title: shágo (noun) - statue (creature-stone)
 Word (Asaxi): shágo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: statue (creature-stone)
 trnsltion. Pl: posąg
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʃɑɡo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shá · go</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

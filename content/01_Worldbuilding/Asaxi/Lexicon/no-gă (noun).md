@@ -2,6 +2,8 @@
 freq: 88
 title: no-gă (noun) - there (near listener), that place
 Word (Asaxi): no-gă
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: there (near listener), that place, your vicinity
 trnsltion. Pl: tam (u ciebie)
 tags:
@@ -21,6 +23,12 @@ Cold
 
 ### Pronunciation
 IPA: /nogaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">no | gă</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

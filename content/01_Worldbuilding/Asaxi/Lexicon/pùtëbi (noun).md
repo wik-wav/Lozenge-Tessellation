@@ -2,6 +2,8 @@
 freq: 41
 title: pùtëbi (noun) - forearm
 Word (Asaxi): pùtëbi
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: forearm
 trnsltion. Pl: przedramię
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɯt̪eɪbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · të · bi</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

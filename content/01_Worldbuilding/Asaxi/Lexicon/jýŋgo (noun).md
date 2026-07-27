@@ -2,6 +2,8 @@
 freq: 57
 title: jýŋgo (noun) - bell (sound-metal)
 Word (Asaxi): jýŋgo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: bell (sound-metal)
 trnsltion. Pl: dzwon
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /jɪŋɡo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jý · ŋgo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

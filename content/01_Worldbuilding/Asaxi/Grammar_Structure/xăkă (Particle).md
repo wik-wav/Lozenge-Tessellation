@@ -1,6 +1,8 @@
 ---
 title: xăkă (particle) - you are requested to
 Word (Asaxi): xăkă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: you are requested to
 tags:
   - Asaxi
@@ -27,6 +29,12 @@ Used for formal instructions, recipes, or authoritative directions where politen
 ### Pronunciation
 
 IPA: /ɦaɪkaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · kă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Example sentence
 

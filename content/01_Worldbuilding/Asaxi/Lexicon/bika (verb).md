@@ -2,6 +2,8 @@
 freq: 56
 title: bika (verb) - to compare
 Word (Asaxi): bika
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to compare
 trnsltion. Pl: porównywać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /bika/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bi · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to compare

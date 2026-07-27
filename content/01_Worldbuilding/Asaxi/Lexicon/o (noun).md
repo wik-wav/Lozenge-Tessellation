@@ -2,6 +2,8 @@
 freq: 88
 title: o (noun) - sky, heavens
 Word (Asaxi): o
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: sky, heavens, firmament, up
 trnsltion. Pl: niebo
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /o/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]] / Cosmology

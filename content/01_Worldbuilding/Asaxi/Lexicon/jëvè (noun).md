@@ -2,6 +2,8 @@
 freq: 39
 title: jëvè (noun) - sprout / bud
 Word (Asaxi): jëvè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: sprout / bud
 trnsltion. Pl: kiełek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /jeɪʋə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jë · vè</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

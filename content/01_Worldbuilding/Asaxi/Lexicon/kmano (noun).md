@@ -1,6 +1,8 @@
 ---
 title: kmano (noun) - handle, grip, haft
 Word (Asaxi): kmano
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: handle, grip, haft
 trnsltion. Pl: uchwyt, rączka
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /kmano̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kma · no</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

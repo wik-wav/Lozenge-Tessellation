@@ -2,6 +2,8 @@
 freq: 49
 title: cùmáka (noun) - jar (clay-vessel)
 Word (Asaxi): cùmáka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: jar (clay-vessel)
 trnsltion. Pl: słoik
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̻͡s̪ɯmɑka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cù · má · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

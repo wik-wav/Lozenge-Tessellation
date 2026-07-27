@@ -2,6 +2,8 @@
 freq: 57
 title: sèŕè (noun) - cheese (Ru. *syr*)
 Word (Asaxi): sèŕè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: cheese (Ru. *syr*)
 trnsltion. Pl: ser
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /səɾə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sè · ŕè</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

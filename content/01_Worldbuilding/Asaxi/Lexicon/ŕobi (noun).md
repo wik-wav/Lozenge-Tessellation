@@ -2,6 +2,8 @@
 freq: 55
 title: ŕobi (noun) - wire (metal-line)
 Word (Asaxi): ŕobi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: wire (metal-line)
 trnsltion. Pl: drut
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾo̞bi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

@@ -2,6 +2,8 @@
 freq: 47
 title: vădo (noun) - herb (cure-plant)
 Word (Asaxi): vădo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: herb (cure-plant)
 trnsltion. Pl: zioło
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪vaɪdo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vă · do</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

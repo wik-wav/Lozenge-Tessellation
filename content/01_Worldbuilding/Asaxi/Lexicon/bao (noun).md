@@ -2,6 +2,8 @@
 freq: 88
 title: bao (noun) - egg
 Word (Asaxi): bao
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: egg
 trnsltion. Pl: jajko
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /bao/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba · o</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

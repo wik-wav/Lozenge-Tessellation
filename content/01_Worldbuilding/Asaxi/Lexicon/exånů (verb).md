@@ -2,6 +2,8 @@
 freq: 58
 title: exånů (verb) - to smile
 Word (Asaxi): exånů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to smile
 trnsltion. Pl: uśmiechać się
 Transitivity: intransitive, transitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /eɦau̯nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">e · xå · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to smile, to beam

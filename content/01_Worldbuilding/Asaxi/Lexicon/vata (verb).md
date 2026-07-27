@@ -2,6 +2,8 @@
 freq: 58
 title: vata (verb) - to fill
 Word (Asaxi): vata
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to fill
 trnsltion. Pl: napełniać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /b̪vat̪a/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">va · ta</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to fill

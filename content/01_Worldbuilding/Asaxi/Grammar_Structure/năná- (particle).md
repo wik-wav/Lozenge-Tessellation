@@ -1,6 +1,8 @@
 ---
 title: năná- (particle) - least
 Word (Asaxi): năná-
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: least
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /naɪnɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nă · ná</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Etymology
 

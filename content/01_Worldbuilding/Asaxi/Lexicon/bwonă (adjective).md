@@ -2,6 +2,8 @@
 freq: 39
 title: bwonă (adjective) - curvy (fat), beautiful
 Word (Asaxi): bwonă
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: curvy (fat), beautiful, voluptuous, healthy-looking
 trnsltion. Pl: krągły (gruby), piękny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /bʷonaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bwo · nă</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

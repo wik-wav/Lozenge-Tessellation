@@ -1,6 +1,8 @@
 ---
 title: vanå (particle) - still
 Word (Asaxi): vanå
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: still
 tags:
   - Asaxi
@@ -14,6 +16,13 @@ tags:
 <span class="asaxi-script">vanå</span>
 
 <span class="asaxi-script-alpha">vanå</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">va · nå</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Type:** Temporal Particle / Aspectual Marker

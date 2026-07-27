@@ -2,6 +2,8 @@
 freq: 42
 title: vako (noun) - maize, corn
 Word (Asaxi): vako
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: maize, corn
 trnsltion. Pl: kukurydza
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪vako̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">va · ko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

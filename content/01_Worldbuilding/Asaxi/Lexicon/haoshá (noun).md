@@ -2,6 +2,8 @@
 freq: 88
 title: haoshá (noun) - dog, hound
 Word (Asaxi): haoshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: dog, hound
 trnsltion. Pl: pies
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /xaoʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ha · o · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

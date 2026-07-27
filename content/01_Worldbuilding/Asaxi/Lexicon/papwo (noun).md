@@ -2,6 +2,8 @@
 freq: 46
 title: papwo (noun) - The day after tomorrow, overmorrow.
 Word (Asaxi): papwo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: The day after tomorrow, overmorrow.
 trnsltion. Pl: pojutrze
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /papʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pa · pwo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

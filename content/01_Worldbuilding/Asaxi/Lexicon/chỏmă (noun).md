@@ -2,6 +2,8 @@
 freq: 88
 title: chỏmă (noun) - mouth, oral cavity
 Word (Asaxi): chỏmă
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: mouth, oral cavity
 trnsltion. Pl: usta, otwór gębowy
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /tʃou̯maɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chỏ · mă</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

@@ -2,6 +2,8 @@
 freq: 65
 title: xowa (verb) - to lead, to guide
 Word (Asaxi): xowa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to lead, to guide
 trnsltion. Pl: prowadzić
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɦo̞ʋa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · wa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to lead, to guide

@@ -2,6 +2,8 @@
 freq: 63
 title: gacù (noun) - brown
 Word (Asaxi): gacù
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: brown
 trnsltion. Pl: brązowy
 tags:
@@ -25,6 +27,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡat͡sɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · cù</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

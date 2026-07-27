@@ -2,6 +2,8 @@
 freq: 88
 title: mỏshá (noun) - woman (adult female)
 Word (Asaxi): mỏshá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: woman (adult female)
 trnsltion. Pl: kobieta
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mou̯ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mỏ · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

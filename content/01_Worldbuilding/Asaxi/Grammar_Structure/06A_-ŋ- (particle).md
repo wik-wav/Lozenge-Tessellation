@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): -ŋ-
+pitch_accent: none
+pitch_accent_class: atonal
 trnsltion. En: To smell like
 tags:
   - Asaxi
@@ -19,6 +21,12 @@ aliases:
 ### Pronunciation
 
 IPA: /ŋ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŋ</span>
+- **Pattern:** `none`
+- **Class:** `atonal`
 
 ### Example sentence
 

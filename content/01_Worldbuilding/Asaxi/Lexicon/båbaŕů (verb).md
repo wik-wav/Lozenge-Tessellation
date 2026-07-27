@@ -1,6 +1,8 @@
 ---
 title: båbaŕů (verb) - to gain muscle mass
 Word (Asaxi): båbaŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to gain muscle mass
 trnsltion. Pl: nabierać masy mięśniowej
 Transitivity: intransitive
@@ -28,6 +30,12 @@ tags:
 
 ### Pronunciation
 IPA: /bau̯baɾu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bå · ba · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to gain muscle mass, to build muscle, to hypertrophy

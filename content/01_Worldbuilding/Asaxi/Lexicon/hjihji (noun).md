@@ -2,6 +2,8 @@
 freq: 30
 title: hjihji (noun) - thinness, gauntness
 Word (Asaxi): hjihji
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: thinness, gauntness, scrawniness, lack of muscle
 trnsltion. Pl: chudość, mizerność
 tags:
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 IPA: /çiçi/
 *Phonotactics:* The cluster `hj` is realized as the voiceless palatal fricative /ç/.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hji · hji</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

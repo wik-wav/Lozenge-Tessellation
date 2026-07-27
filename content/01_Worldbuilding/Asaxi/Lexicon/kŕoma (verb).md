@@ -2,6 +2,8 @@
 freq: 88
 title: kŕoma (verb) - to bite
 Word (Asaxi): kŕoma
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to bite
 trnsltion. Pl: gryźć
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kɾo̞ma/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kŕo · ma</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to bite

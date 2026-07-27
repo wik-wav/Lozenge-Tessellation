@@ -2,6 +2,8 @@
 freq: 45
 title: ŋènýj (adjective) - shadowy, dark, grim, gloomy
 Word (Asaxi): ŋènýj
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: shadowy, dark, grim, gloomy
 trnsltion. Pl: mroczny, ponury
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ŋənɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŋè · nýj</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

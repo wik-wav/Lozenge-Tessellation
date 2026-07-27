@@ -1,6 +1,8 @@
 ---
 title: xăcè (verb) - to be sure, to know for a fact
 Word (Asaxi): xăcè
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to be sure, to know for a fact, to be certain, to verify
 trnsltion. Pl: być pewnym, wiedzieć na pewno
 Transitivity: monotransitive
@@ -31,6 +33,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦaɪt͡sə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · cè</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to be sure, to know for a fact, to be certain, to verify

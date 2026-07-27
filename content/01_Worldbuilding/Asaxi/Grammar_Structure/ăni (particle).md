@@ -1,6 +1,8 @@
 ---
 title: ăni (particle) - about..., concerning..., regarding...
 Word (Asaxi): ăni
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: about..., concerning..., regarding...
 tags:
   - Asaxi
@@ -31,6 +33,12 @@ Marks the noun as the topic of thought, speech, or content.
 ### Pronunciation
 
 IPA: /aɪɲi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ăni</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Example sentence
 

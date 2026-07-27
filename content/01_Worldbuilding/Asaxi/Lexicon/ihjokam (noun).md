@@ -2,6 +2,8 @@
 freq: 48
 title: ihjokam (noun) - skeleton, skeletal system
 Word (Asaxi): ihjokam
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: skeleton, skeletal system, frame
 trnsltion. Pl: szkielet, kościec
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /içokam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · hjo · kam</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

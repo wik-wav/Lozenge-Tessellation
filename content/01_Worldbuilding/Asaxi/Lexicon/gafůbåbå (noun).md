@@ -2,6 +2,8 @@
 freq: 37
 title: gafůbåbå - the state of having no muscle, atrophy
 Word (Asaxi): gafůbåbå
+pitch_accent: L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: atrophy, the state of having no muscle
 trnsltion. Pl: atrofia, stan nie posiadania masy mięśniowe,
 tags:
@@ -24,6 +26,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡafuu̯bau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · fů · bå · bå</span>
+- **Pattern:** `L · H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / Health

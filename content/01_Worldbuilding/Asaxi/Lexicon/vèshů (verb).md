@@ -2,6 +2,8 @@
 freq: 38
 title: vèshů (verb) - to wither, to shed leaves
 Word (Asaxi): vèshů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to wither, to shed leaves
 trnsltion. Pl: więdnąć
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /b̪vəʃuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vè · shů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to wither, to shed leaves

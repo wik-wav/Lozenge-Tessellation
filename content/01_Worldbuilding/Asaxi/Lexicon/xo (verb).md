@@ -2,6 +2,8 @@
 freq: 67
 title: xo (verb) - to move, to go
 Word (Asaxi): xo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: to move, to go
 trnsltion. Pl: ruszać się
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /xo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to move, to go

@@ -2,6 +2,8 @@
 freq: 15
 title: păxè (verb) - to spread out, to unfurl
 Word (Asaxi): păxè
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: to spread out, to unfurl, to extend (wings/arms), to open up
 trnsltion. Pl: rozpościerać
 Transitivity: transitive, intransitive
@@ -33,6 +35,12 @@ To spread (wings/arms) or to be spread out.
 
 ### Pronunciation
 IPA: /paɪɦə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pă · xè</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Translations
 - English: to spread out, to unfurl, to extend (wings/arms), to open up

@@ -2,6 +2,8 @@
 freq: 88
 title: ŕăa (noun) - fire, flame
 Word (Asaxi): ŕăa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: fire, flame
 trnsltion. Pl: ogień, płomień
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɪa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · a</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]]

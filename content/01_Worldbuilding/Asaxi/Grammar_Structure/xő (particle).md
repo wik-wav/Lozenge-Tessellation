@@ -1,6 +1,8 @@
 ---
 title: xő (particle) - he
 Word (Asaxi): xő
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: he
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ The pronoun `xő` (he) is a **third-person singular masculine nominative** prono
 ### Pronunciation
 
 IPA: /ɦoɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xő</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Alternative Forms
 

@@ -2,6 +2,8 @@
 freq: 68
 title: kamshá (noun) - body
 Word (Asaxi): kamshá
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: body
 trnsltion. Pl: ciało
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kamʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · mshá</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

@@ -1,6 +1,8 @@
 ---
 title: hù- (tense) (particle) - had X-ed or was going to X
 Word (Asaxi): hù
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: had X-ed or was going to X
 tags:
   - Asaxi
@@ -14,6 +16,13 @@ tags:
 <span class="asaxi-script">hù-</span>
 
 <span class="asaxi-script-alpha">hù-</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Type:** Tense Modifier Prefix

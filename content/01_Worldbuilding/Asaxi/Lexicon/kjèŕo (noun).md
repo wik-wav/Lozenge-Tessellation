@@ -2,6 +2,8 @@
 freq: 59
 title: kjèŕo (noun) - forest, grove
 Word (Asaxi): kjèŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: forest, grove
 trnsltion. Pl: las, sad
 tags:
@@ -22,6 +24,12 @@ warm
 
 ### Pronunciation
 IPA: /kʲəro/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

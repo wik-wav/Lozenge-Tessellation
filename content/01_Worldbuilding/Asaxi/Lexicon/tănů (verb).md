@@ -2,6 +2,8 @@
 freq: 46
 title: tănů (verb) - to assemble, to gather
 Word (Asaxi): tănů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to assemble, to gather, to collect, to add (to a pile), to join
 trnsltion. Pl: gromadzić, zbierać, łączyć, dodawać
 Transitivity: transitive, collective
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪anuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tă · nů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to assemble, to gather, to collect, to add (to a pile), to join

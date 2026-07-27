@@ -12,6 +12,7 @@ tags:
 Navigation:
 - [[The Asaxi Language|The Asaxi Language Index]]
 - [[onă gaksamipỏpỏ (The Velveteen Rabbit)|Full interlinear version (with glosses)]]
+- [[onă gaksamipỏpỏ (Pitch Accent Guide)|Pitch accent reading guide]]
 
 Clean Asaxi text of *The Velveteen Rabbit* (Margery Williams, 1922, public domain), for reading. For morpheme-by-morpheme glosses and the coinage list, see the [[onă gaksamipỏpỏ (The Velveteen Rabbit)|interlinear edition]].
 

@@ -2,6 +2,8 @@
 freq: 51
 title: ăjawo (noun) - a shout, a scream
 Word (Asaxi): ăjawo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: a shout, a scream, a yell, a cry
 trnsltion. Pl: krzyk, wołanie
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɪjawo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ă · ja · wo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Behaviour]] / Sound

@@ -2,6 +2,8 @@
 freq: 50
 title: viko (noun) - wheat
 Word (Asaxi): viko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: wheat
 trnsltion. Pl: pszenica
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪viko̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · ko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

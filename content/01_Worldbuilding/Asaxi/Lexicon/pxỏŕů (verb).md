@@ -2,6 +2,8 @@
 freq: 38
 title: pxỏŕů (verb) - to inflate, to blow up
 Word (Asaxi): pxỏŕů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to inflate, to blow up, to pump up, to swell (transitive)
 trnsltion. Pl: nadmuchać
 Transitivity: transitive
@@ -30,6 +32,12 @@ Takes an object (the thing being inflated).
 
 ### Pronunciation
 IPA: /pʰou̯ɾuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pxỏ · ŕů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to inflate, to blow up, to pump up, to swell (transitive)

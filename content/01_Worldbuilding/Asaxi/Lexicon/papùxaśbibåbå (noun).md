@@ -1,6 +1,8 @@
 ---
 title: papùxaśbibåbå (noun) - tibialis anterior
 Word (Asaxi): papùxaśbibåbå
+pitch_accent: L.L.H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: tibialis anterior
 trnsltion. Pl: mięsień piszczelowy przedni
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /papɯɦaɕbibau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pa · pù · xa · śbi · bå · bå</span>
+- **Pattern:** `L · L · H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

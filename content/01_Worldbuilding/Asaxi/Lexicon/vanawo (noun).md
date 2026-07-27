@@ -2,6 +2,8 @@
 freq: 52
 title: vanawo (noun) - ceiling (inside-top)
 Word (Asaxi): vanawo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: ceiling (inside-top)
 trnsltion. Pl: sufit
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪vanaʋo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">va · na · wo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

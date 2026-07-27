@@ -2,6 +2,8 @@
 freq: 63
 title: kamŕů (verb) - to build, to construct
 Word (Asaxi): kamŕů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to build, to construct
 trnsltion. Pl: budować
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kamɾuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · mŕů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to build, to construct

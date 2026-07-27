@@ -1,6 +1,8 @@
 ---
 title: tètáshů (verb) - to give up, to surrender
 Word (Asaxi): tètáshů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to give up, to surrender, to quit, to yield
 trnsltion. Pl: poddać się, ustąpić
 Transitivity: intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪ət̪ɑʃuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tè · tá · shů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to give up, to surrender, to quit, to yield

@@ -2,6 +2,8 @@
 freq: 66
 title: txănů (verb) - to age, to grow older
 Word (Asaxi): txănů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to age, to grow older, to pass a year
 trnsltion. Pl: starzeć się, przybywać lat
 Transitivity: intransitive
@@ -30,6 +32,12 @@ takes one argument, e.g. *He(1) ages.*
 
 ### Pronunciation
 IPA: /tʰaɪnuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">txă · nů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to age, to grow older, to pass a year

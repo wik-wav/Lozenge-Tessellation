@@ -2,6 +2,8 @@
 freq: 45
 title: ŕago (noun) - charcoal, cinder, ember-dark
 Word (Asaxi): ŕago
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: charcoal, cinder, ember-dark
 trnsltion. Pl: węgiel drzewny
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɡo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕa · go</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

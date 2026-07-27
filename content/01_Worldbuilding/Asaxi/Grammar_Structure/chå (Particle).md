@@ -1,6 +1,8 @@
 ---
 title: chå (particle) - "Completely", "Fully", "To the end", "Through to completion."
 Word (Asaxi): chå
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: '"Completely", "Fully", "To the end", "Through to completion."'
 tags:
   - Asaxi
@@ -40,6 +42,12 @@ tags:
 ### Pronunciation
 
 IPA: /t̠ʃau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chå</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentences
 

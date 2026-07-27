@@ -2,6 +2,8 @@
 freq: 52
 title: jůŕë (noun) - outer space, cosmos
 Word (Asaxi): jůŕë
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: outer space, cosmos
 trnsltion. Pl: kosmos, przestrzeń kosmiczna
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /juu̯ɾeɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jů · ŕë</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]] / Cosmology

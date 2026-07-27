@@ -1,6 +1,8 @@
 ---
 title: dă- (particle) - "Very", "Much", "A lot", "Big", "Great".
 Word (Asaxi): dă
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: '"Very", "Much", "A lot", "Big", "Great".'
 tags:
   - Asaxi
@@ -38,6 +40,12 @@ Attaches to Nouns, Verbs, and Adjectives to increase their scale or intensity.
 ### Pronunciation
 
 IPA: /daɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Etymology
 

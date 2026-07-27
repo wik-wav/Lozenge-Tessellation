@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): nika
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: themselves (female group)
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ title: nika (particle) - themselves (female group)
 ### Pronunciation
 
 IPA: /ɲika/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nika</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

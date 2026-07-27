@@ -2,6 +2,8 @@
 freq: 64
 title: pùto (verb) - to lower, to set down
 Word (Asaxi): pùto
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to lower, to set down
 trnsltion. Pl: opuszczać, stawiać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /pɯt̪o̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · to</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to lower, to set down

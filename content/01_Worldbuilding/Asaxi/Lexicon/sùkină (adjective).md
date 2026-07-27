@@ -2,6 +2,8 @@
 freq: 52
 title: sùkină (adjective) - beloved, dear
 Word (Asaxi): sùkină
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: beloved, dear, loved, favorite
 trnsltion. Pl: ukochany, drogi, ulubiony
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /sɯkinaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sù · ki · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Relationships

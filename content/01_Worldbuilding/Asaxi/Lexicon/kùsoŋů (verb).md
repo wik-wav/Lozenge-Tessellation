@@ -2,6 +2,8 @@
 freq: 43
 title: kùsoŋů (verb) - to stink, to smell foul
 Word (Asaxi): kùsoŋů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to stink, to smell foul
 trnsltion. Pl: śmierdzieć
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /kɯso̞ŋuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kù · so · ŋů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to stink, to smell foul

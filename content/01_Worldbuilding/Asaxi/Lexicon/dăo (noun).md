@@ -2,6 +2,8 @@
 freq: 34
 title: dăo (noun) - aether, sky
 Word (Asaxi): dăo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: aether, sky
 trnsltion. Pl: nieboskłon, firmament, niebo
 tags:
@@ -22,6 +24,12 @@ warm
 
 ### Pronunciation
 IPA: /daɪ.o/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · o</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

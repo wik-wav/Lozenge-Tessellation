@@ -2,6 +2,8 @@
 freq: 57
 title: memno (noun) - button
 Word (Asaxi): memno
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: button
 trnsltion. Pl: guzik
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /memno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">me · mno</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

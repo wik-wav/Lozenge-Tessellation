@@ -1,6 +1,8 @@
 ---
 title: pxỏmă fůmă (Idiom) - Every breath is none
 Word (Asaxi): pxỏmă fůmă
+pitch_accent: H.H | L.L
+pitch_accent_class: phrase
 trnsltion. En: Every breath is none
 tags:
   - Asaxi
@@ -32,6 +34,12 @@ Literally means "Every breath is none."
 ### Pronunciation
 
 IPA: /pʃoʊmə fɯmə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pxỏ · mă | fů · mă</span>
+- **Pattern:** `H · H | L · L`
+- **Class:** `phrase`
 
 ### Example sentence
 

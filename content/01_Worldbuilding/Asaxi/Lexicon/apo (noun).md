@@ -2,6 +2,8 @@
 freq: 60
 title: apo (noun) - apple
 Word (Asaxi): apo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: apple
 trnsltion. Pl: jabłko
 tags:
@@ -22,6 +24,12 @@ warm
 
 ### Pronunciation
 IPA: /apo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · po</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

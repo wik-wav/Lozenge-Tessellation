@@ -1,6 +1,8 @@
 ---
 title: hao (root word) - bark (echoic)
 Word (Asaxi): hao
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: 'bark (echoic)'
 tags:
   - Asaxi
@@ -20,6 +22,12 @@ An echoic bound root imitating a dog's bark.
 
 ### Pronunciation
 IPA: /xao/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ha · o</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Alternative Forms
 x

@@ -2,6 +2,8 @@
 freq: 45
 title: ỏbỏnů (verb) - to cushion, to buffer
 Word (Asaxi): ỏbỏnů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to cushion, to buffer, to soften (a blow), to pad
 trnsltion. Pl: amortyzować, łagodzić
 Transitivity: transitive
@@ -30,6 +32,12 @@ Takes an object (the thing being protected/cushioned).
 
 ### Pronunciation
 IPA: /ou̯bou̯nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ỏ · bỏ · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to cushion, to buffer, to soften (a blow), to pad

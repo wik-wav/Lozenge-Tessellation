@@ -2,6 +2,8 @@
 freq: 88
 title: zhýnýj (adjective) - cold, chilly
 Word (Asaxi): zhýnýj
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: cold, chilly, frigid
 trnsltion. Pl: zimny, chłodny
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ʑɪnɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zhý · nýj</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

@@ -2,6 +2,8 @@
 freq: 50
 title: vigopỏ (noun) - flour (grain-powder)
 Word (Asaxi): vigopỏ
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: flour (grain-powder)
 trnsltion. Pl: mąka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪viɡo̞pou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · go · pỏ</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

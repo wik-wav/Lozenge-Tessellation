@@ -2,6 +2,8 @@
 freq: 88
 title: kogo (noun) - knee
 Word (Asaxi): kogo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: knee
 trnsltion. Pl: kolano
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ko̞ɡo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ko · go</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

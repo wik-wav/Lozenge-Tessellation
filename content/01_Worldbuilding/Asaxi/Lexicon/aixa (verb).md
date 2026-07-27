@@ -2,6 +2,8 @@
 freq: 62
 title: aixa (verb) - to hurt, to wound, to harm
 Word (Asaxi): aixa
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to hurt, to wound, to harm
 trnsltion. Pl: ranić
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /aiɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · i · xa</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to hurt, to wound, to harm

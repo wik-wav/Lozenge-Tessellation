@@ -2,6 +2,8 @@
 freq: 47
 title: táxo (verb) - to greet, to hail
 Word (Asaxi): táxo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to greet, to hail
 trnsltion. Pl: witać, pozdrawiać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̪ɑɦo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tá · xo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to greet, to hail

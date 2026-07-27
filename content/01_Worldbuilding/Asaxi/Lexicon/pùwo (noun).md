@@ -2,6 +2,8 @@
 freq: 60
 title: pùwo (noun) - the bottom, the depths
 Word (Asaxi): pùwo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: the bottom, the depths, the underside, the base
 trnsltion. Pl: dół, spód, dno
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɯwo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · wo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

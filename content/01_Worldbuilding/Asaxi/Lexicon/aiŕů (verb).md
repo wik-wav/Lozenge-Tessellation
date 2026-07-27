@@ -2,6 +2,8 @@
 freq: 42
 title: aiŕů (verb) - to grieve, to sorrow from within (lit. to generate sorrow)
 Word (Asaxi): aiŕů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to grieve, to sorrow from within (lit. to generate sorrow)
 trnsltion. Pl: rozpaczać, smucić się
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_ — state predicate; the experiencer is the subject (often with t
 
 ### Pronunciation
 IPA: /aiɾuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · i · ŕů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to grieve, to sorrow from within (lit. to generate sorrow)

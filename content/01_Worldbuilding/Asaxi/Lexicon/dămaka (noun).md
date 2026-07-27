@@ -2,6 +2,8 @@
 freq: 52
 title: dămaka (noun) - barrel (big vessel)
 Word (Asaxi): dămaka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: barrel (big vessel)
 trnsltion. Pl: beczka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪmaka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · ma · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

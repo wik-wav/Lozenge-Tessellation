@@ -2,6 +2,8 @@
 freq: 64
 title: mmbă (noun) - happiness, joy
 Word (Asaxi): mmbă
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: happiness, joy, positive feeling
 trnsltion. Pl: szczęście, radość, błogostan
 tags:
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 IPA: /m̩.baɪ/
 *Phonotactics:* The initial `mm` is a syllabic nasal.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mm · bă</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]]

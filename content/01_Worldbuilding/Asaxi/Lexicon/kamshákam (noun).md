@@ -2,6 +2,8 @@
 freq: 55
 title: kamshákam (noun) - gym, fitness centre
 Word (Asaxi): kamshákam
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: gym, fitness centre
 trnsltion. Pl: siłownia
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kamʃɑkam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · mshá · kam</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

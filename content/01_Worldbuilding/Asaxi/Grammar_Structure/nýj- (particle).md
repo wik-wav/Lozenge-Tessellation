@@ -1,6 +1,8 @@
 ---
 title: nýj- (particle) - most
 Word (Asaxi): nýj-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: most
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /nɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nýj</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Etymology
 

@@ -3,6 +3,8 @@ id: axi1lhjqv
 freq: 63
 title: ai (noun) - pain, sorrow, grief (especially felt/emotional)
 Word (Asaxi): ai
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: pain, sorrow, grief (especially felt/emotional)
 trnsltion. Pl: ból, żal, smutek
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ai/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · i</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Health & Medicine]] / [[Smntc_Field Emotion]]

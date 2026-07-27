@@ -2,6 +2,8 @@
 freq: 64
 title: bwoŕonů (verb) - to oil, to grease
 Word (Asaxi): bwoŕonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to oil, to grease
 trnsltion. Pl: oliwić
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /bʷo̞ɾo̞nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bwo · ŕo · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to oil, to grease

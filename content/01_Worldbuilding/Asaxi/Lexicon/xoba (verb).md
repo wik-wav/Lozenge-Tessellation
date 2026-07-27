@@ -1,6 +1,8 @@
 ---
 title: xoba (verb) - to step aside, to move sideways
 Word (Asaxi): xoba
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to step aside, to move sideways, to dodge, to shunt
 trnsltion. Pl: przesunąć się, zrobić unik, odsunąć
 Transitivity: intransitive, transitive
@@ -33,6 +35,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦoba/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · ba</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to step aside, to move sideways, to dodge, to shunt

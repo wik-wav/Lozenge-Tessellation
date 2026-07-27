@@ -1,6 +1,8 @@
 ---
 title: shá (noun) - creature of land, person
 Word (Asaxi): shá
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: creature of land, person
 trnsltion. Pl: istota lądowa, kreatura, osoba, ktoś, coś żywego
 tags:
@@ -20,6 +22,12 @@ warm
 
 ### Pronunciation
 IPA: /ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shá</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

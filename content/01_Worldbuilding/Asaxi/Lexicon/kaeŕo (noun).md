@@ -2,6 +2,8 @@
 freq: 49
 title: kaeŕo (noun) - orchard (fruit-place)
 Word (Asaxi): kaeŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: orchard (fruit-place)
 trnsltion. Pl: sad
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kae̞ɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · e · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

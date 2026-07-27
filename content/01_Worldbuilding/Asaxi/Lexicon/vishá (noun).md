@@ -2,6 +2,8 @@
 freq: 52
 title: vishá (noun) - deer (grass-creature)
 Word (Asaxi): vishá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: deer (grass-creature)
 trnsltion. Pl: jeleń
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪viʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

@@ -2,6 +2,8 @@
 freq: 67
 title: zè (noun) - the past
 Word (Asaxi): zè
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: the past
 trnsltion. Pl: przeszłość
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /zə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zè</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

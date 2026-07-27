@@ -1,6 +1,8 @@
 ---
 title: tte pùŕima (Idiom) - I suspect that...
 Word (Asaxi): tte pùŕima
+pitch_accent: L.L | L.H.L
+pitch_accent_class: phrase
 trnsltion. En: I suspect that... / I am unsure
 trnsltion. Pl: podejrzewam, że... / nie jestem pewien
 tags:
@@ -32,6 +34,12 @@ Appended after a clause to lower its certainty: per the neutrality rule ([[16_Ad
 ### Pronunciation
 
 IPA: /tːə pɯɾima/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">t · te | pù · ŕi · ma</span>
+- **Pattern:** `L · L | L · H · L`
+- **Class:** `phrase`
 
 ### Example sentence
 

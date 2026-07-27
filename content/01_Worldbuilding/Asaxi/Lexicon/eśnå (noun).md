@@ -2,6 +2,8 @@
 freq: 55
 title: eśnå (noun) - grin, smirk
 Word (Asaxi): eśnå
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: grin, smirk
 trnsltion. Pl: uśmiech
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /eɕnau/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">e · śnå</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / [[Smntc_Field Behaviour]]

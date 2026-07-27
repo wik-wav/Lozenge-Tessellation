@@ -2,6 +2,8 @@
 freq: 52
 title: mỏba (noun) - aunt
 Word (Asaxi): mỏba
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: aunt
 trnsltion. Pl: ciotka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mou̯ba/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mỏ · ba</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

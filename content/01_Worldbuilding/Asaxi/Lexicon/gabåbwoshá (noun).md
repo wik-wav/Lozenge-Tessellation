@@ -2,6 +2,8 @@
 freq: 36
 title: gabåbwoshá (noun) - strongman, powerlifter, one with a bear-like physique
 Word (Asaxi): gabåbwoshá
+pitch_accent: L.L.H.L
+pitch_accent_class: lexical
 trnsltion. En: strongman, powerlifter, brute, one with a bear-like physique
 trnsltion. Pl: siłacz, mocarz, niedźwiedź (typ budowy)
 tags:
@@ -25,6 +27,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡabau̯bʷoʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · bå · bwo · shá</span>
+- **Pattern:** `L · L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / [[Smntc_Field Animals]]

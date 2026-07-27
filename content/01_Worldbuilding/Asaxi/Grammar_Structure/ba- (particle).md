@@ -1,6 +1,8 @@
 ---
 title: ba- (particle) - Beside, next to, alongside
 Word (Asaxi): ba-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Beside, next to, alongside
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ Attaches to the front of the noun.
 ### Pronunciation
 
 IPA: /ba/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ba</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

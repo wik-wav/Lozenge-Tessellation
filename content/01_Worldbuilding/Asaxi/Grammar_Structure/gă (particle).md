@@ -1,6 +1,8 @@
 ---
 title: gă (particle) - somewhere
 Word (Asaxi): gă
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: somewhere
 tags:
   - Asaxi
@@ -34,6 +36,12 @@ As an adverb, `gă` refers to the thing or place in an unknown location. (e.g, `
 ### Pronunciation
 
 IPA: /ɡaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gă</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Translation
 

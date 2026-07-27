@@ -1,6 +1,8 @@
 ---
 title: vi (particle) - Good!, OK!, Will do
 Word (Asaxi): vi
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Good!, OK!, Will do
 tags:
   - Asaxi
@@ -27,6 +29,12 @@ Used as a standalone response to agree to a request or confirm a state.
 ### Pronunciation
 
 IPA: /vi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentences
 

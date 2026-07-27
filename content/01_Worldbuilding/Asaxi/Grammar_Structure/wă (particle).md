@@ -1,6 +1,8 @@
 ---
 title: wă (particle) - Want
 Word (Asaxi): wă
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Want
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /waɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wă</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Usage Note
 

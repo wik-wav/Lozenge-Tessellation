@@ -2,6 +2,8 @@
 freq: 34
 title: ŋèxů (verb) - to overshadow, occlude, eclipse
 Word (Asaxi): ŋèxů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to overshadow, occlude, eclipse
 trnsltion. Pl: zacieniać, przesłaniać
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ŋəxɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŋè · xů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to overshadow, occlude, eclipse

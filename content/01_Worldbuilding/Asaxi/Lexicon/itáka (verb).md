@@ -2,6 +2,8 @@
 freq: 60
 title: itáka (verb) - to worry, to fret
 Word (Asaxi): itáka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to worry, to fret
 trnsltion. Pl: martwić się
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /it̪ɑka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · tá · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to worry, to fret

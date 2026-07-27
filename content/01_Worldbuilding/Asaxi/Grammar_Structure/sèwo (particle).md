@@ -1,6 +1,8 @@
 ---
 title: sèwo (particle) - Because
 Word (Asaxi): sèwo
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: Because
 tags:
   - Asaxi
@@ -37,6 +39,12 @@ aliases:
 ### Pronunciation
 
 IPA: /səwo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sè · wo</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

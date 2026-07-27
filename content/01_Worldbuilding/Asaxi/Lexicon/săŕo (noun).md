@@ -2,6 +2,8 @@
 freq: 52
 title: săŕo (noun) - sweat
 Word (Asaxi): săŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: sweat
 trnsltion. Pl: pot
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /saɪɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

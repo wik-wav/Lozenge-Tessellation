@@ -2,6 +2,8 @@
 freq: 50
 title: dăfwogă (noun) - canyon / gorge
 Word (Asaxi): dăfwogă
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: canyon / gorge
 trnsltion. Pl: kanion
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪfʷoɡaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · fwo · gă</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

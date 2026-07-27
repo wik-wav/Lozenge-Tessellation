@@ -2,6 +2,8 @@
 freq: 55
 title: chỏbo (noun) - stomach (organ)
 Word (Asaxi): chỏbo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: stomach (organ)
 trnsltion. Pl: żołądek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̠ʃou̯bo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chỏ · bo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

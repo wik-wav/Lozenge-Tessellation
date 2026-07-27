@@ -2,6 +2,8 @@
 freq: 50
 title: ŕasi (noun) - spark
 Word (Asaxi): ŕasi
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: spark
 trnsltion. Pl: iskra
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾasi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕasi</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]]

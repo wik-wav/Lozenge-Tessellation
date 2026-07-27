@@ -2,6 +2,8 @@
 freq: 57
 title: exe (noun) - crying, a cry, wailing
 Word (Asaxi): exe
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: crying, a cry, wailing, sobbing
 trnsltion. Pl: płacz, szloch
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /eɦe/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">e · xe</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / [[Smntc_Field Perception]]

@@ -2,6 +2,8 @@
 freq: 59
 title: dăŕobi (noun) - bay, gulf (sea-edge)
 Word (Asaxi): dăŕobi
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: bay, gulf (sea-edge)
 trnsltion. Pl: zatoka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪɾo̞bi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · ŕo · bi</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

@@ -2,6 +2,8 @@
 freq: 38
 title: vexe (verb) - to shiver
 Word (Asaxi): vexe
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to shiver
 trnsltion. Pl: drżeć (z zimna)
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /b̪ve̞ɦe̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ve · xe</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to shiver

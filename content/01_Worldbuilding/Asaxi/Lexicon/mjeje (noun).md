@@ -2,6 +2,8 @@
 freq: 59
 title: mjeje (noun) - bear (Ru. *medved*)
 Word (Asaxi): mjeje
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: bear (Ru. *medved*)
 trnsltion. Pl: niedźwiedź
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mʲe̞je̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mje · je</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

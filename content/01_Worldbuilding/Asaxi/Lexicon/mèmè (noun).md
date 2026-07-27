@@ -2,6 +2,8 @@
 freq: 50
 title: mèmè (noun) - goat
 Word (Asaxi): mèmè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: goat
 trnsltion. Pl: koza
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /məmə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mè · mè</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

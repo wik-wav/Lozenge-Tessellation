@@ -1,6 +1,8 @@
 ---
 title: ono (particle) - somewhere (reachable)
 Word (Asaxi): ono-
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: somewhere (reachable)
 tags:
   - Asaxi
@@ -35,6 +37,12 @@ Attaches to the front of the noun.
 
 ### Pronunciation
 IPA: /ono/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · no</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

@@ -2,6 +2,8 @@
 freq: 64
 title: tákpa (verb) - to attack, to assault
 Word (Asaxi): tákpa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to attack, to assault
 trnsltion. Pl: atakować
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̪ɑkpa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tá · kpa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to attack, to assault

@@ -2,6 +2,8 @@
 freq: 68
 title: mibo (verb) - to thank
 Word (Asaxi): mibo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to thank
 trnsltion. Pl: dziękować
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /mibo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mi · bo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to thank

@@ -1,6 +1,8 @@
 ---
 title: fů (root word) - "Non-", "Un-", "-lessness", "Lack of".
 Word (Asaxi): fů
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: ' "Non-", "Un-", "-lessness", "Lack of"'
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /fuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Alternative Forms
 Null

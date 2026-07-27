@@ -2,6 +2,8 @@
 freq: 36
 title: pivaŋů (verb) - to be fragrant, to smell sweet
 Word (Asaxi): pivaŋů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to be fragrant, to smell sweet
 trnsltion. Pl: pachnieć
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /pib̪vaŋuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pi · va · ŋů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to be fragrant, to smell sweet

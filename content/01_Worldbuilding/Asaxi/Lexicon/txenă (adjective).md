@@ -2,6 +2,8 @@
 freq: 40
 title: txenă (adjective) - translucent
 Word (Asaxi): txenă
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: translucent
 trnsltion. Pl: półprzezroczysty
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /tʰenaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">txe · nă</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Perception]] / [[Smntc_Field Colours]] / [[Smntc_Field Physics]]

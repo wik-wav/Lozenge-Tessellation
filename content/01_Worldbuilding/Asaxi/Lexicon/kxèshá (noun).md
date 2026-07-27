@@ -2,6 +2,8 @@
 freq: 53
 title: kxèshá (noun) - spider
 Word (Asaxi): kxèshá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: spider
 trnsltion. Pl: pająk
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /kʰəʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kxè · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

@@ -2,6 +2,8 @@
 freq: 49
 title: kxoshá (noun) - frog, toad
 Word (Asaxi): kxoshá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: frog, toad
 trnsltion. Pl: żaba, ropucha
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /kʰoʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kxo · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

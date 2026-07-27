@@ -2,6 +2,8 @@
 freq: 52
 title: mùù (noun) - cow
 Word (Asaxi): mùù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: cow
 trnsltion. Pl: krowa
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mɯɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mù · ù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

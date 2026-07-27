@@ -1,6 +1,8 @@
 ---
 title: xădăchỏxă (particle) - please god
 Word (Asaxi): xădăchỏxă
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: please god
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɦaɪdaɪt̠ʃou̯ɦaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · dă · chỏ · xă</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Example sentence
 

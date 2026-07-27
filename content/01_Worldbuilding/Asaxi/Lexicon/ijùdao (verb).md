@@ -2,6 +2,8 @@
 freq: 69
 title: ijùdao (verb) - to tell (say-give)
 Word (Asaxi): ijùdao
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: to tell (say-give)
 trnsltion. Pl: opowiadać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ijɯdao̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jù · da · o</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to tell (say-give)

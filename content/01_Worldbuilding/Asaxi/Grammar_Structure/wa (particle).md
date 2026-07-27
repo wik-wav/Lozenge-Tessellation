@@ -1,6 +1,8 @@
 ---
 title: wa (particle) - we
 Word (Asaxi): wa
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: we
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ The pronoun `wa` (we) is a third-person plural nominative pronoun.
 ### Pronunciation
 
 IPA: /wa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wa</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Alternative Forms
 

@@ -2,6 +2,8 @@
 freq: 54
 title: mëpỏ (noun) - mask
 Word (Asaxi): mëpỏ
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: mask
 trnsltion. Pl: maska
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /meɪpou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">më · pỏ</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

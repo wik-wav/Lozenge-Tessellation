@@ -2,6 +2,8 @@
 freq: 88
 title: fwùxa (verb) - to breathe
 Word (Asaxi): fwùxa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to breathe
 trnsltion. Pl: oddychać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /fʷɯɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fwù · xa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to breathe

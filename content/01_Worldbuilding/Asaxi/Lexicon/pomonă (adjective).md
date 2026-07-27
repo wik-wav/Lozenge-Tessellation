@@ -2,6 +2,8 @@
 freq: 45
 title: pomonă (adjective) - dove-grey, soft warm-grey
 Word (Asaxi): pomonă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: dove-grey, soft warm-grey
 trnsltion. Pl: gołębioszary, perłowoszary
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /pomonaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">po · mo · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

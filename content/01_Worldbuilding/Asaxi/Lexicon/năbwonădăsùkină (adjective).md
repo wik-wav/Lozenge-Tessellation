@@ -2,6 +2,8 @@
 freq: 26
 title: năbwonădăsùkină (adjective) - most beloved, dearest
 Word (Asaxi): năbwonădăsùkină
+pitch_accent: L.H.L.L.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: most beloved, dearest
 trnsltion. Pl: najukochańszy
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /naɪbʷonaɪdaɪsɯkinaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nă · bwo · nă · dă · sù · ki · nă</span>
+- **Pattern:** `L · H · L · L · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]]

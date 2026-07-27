@@ -2,6 +2,8 @@
 freq: 25
 title: zhýchů (verb) - to be cold, to feel the cold
 Word (Asaxi): zhýchů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to be cold, to feel the cold
 trnsltion. Pl: marznąć, czuć zimno
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_ — state predicate; the experiencer is the subject (often with t
 
 ### Pronunciation
 IPA: /ʑɪt̠ʃuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zhý · chů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to be cold, to feel the cold

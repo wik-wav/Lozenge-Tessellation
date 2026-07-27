@@ -2,6 +2,8 @@
 freq: 88
 title: kùsokùki (noun) - fly (lit. faeces-insect)
 Word (Asaxi): kùsokùki
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: fly (lit. faeces-insect)
 trnsltion. Pl: mucha
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kɯso̞kɯki/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kù · so · kù · ki</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

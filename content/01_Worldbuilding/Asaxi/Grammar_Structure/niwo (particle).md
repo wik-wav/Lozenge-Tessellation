@@ -1,6 +1,8 @@
 ---
 title: niwo (particle) - myself
 Word (Asaxi): niwo
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: myself
 tags:
   - Asaxi
@@ -30,6 +32,12 @@ Reflexive pronouns are formed by attaching the Allative prefix **ni-** (Towards)
 ### Pronunciation
 
 IPA: /ɲiwo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">niwo</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

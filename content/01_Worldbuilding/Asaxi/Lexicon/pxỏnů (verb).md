@@ -2,6 +2,8 @@
 freq: 59
 title: pxỏnů (verb) - to roll, to trundle
 Word (Asaxi): pxỏnů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to roll, to trundle
 trnsltion. Pl: toczyć się
 Transitivity: intransitive
@@ -30,6 +32,12 @@ To move by turning over and over.
 
 ### Pronunciation
 IPA: /pʰou̯nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pxỏ · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to roll, to trundle

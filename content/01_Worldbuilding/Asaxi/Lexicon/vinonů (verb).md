@@ -1,6 +1,8 @@
 ---
 title: vinonů (verb) - to drink wine
 Word (Asaxi): vinonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to drink wine
 trnsltion. Pl: pić wino
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /b̪vino̞nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · no · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to drink wine

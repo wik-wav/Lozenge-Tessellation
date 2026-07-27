@@ -1,6 +1,8 @@
 ---
 title: nina (particle) - yourselves
 Word (Asaxi): nina
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: yourselves
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɲina/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nina</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

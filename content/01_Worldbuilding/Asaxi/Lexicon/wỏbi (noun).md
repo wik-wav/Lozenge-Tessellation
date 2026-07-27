@@ -2,6 +2,8 @@
 freq: 53
 title: wỏbi (noun) - pipe, tube (cylinder-line)
 Word (Asaxi): wỏbi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: pipe, tube (cylinder-line)
 trnsltion. Pl: rura
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʋou̯bi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wỏ · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

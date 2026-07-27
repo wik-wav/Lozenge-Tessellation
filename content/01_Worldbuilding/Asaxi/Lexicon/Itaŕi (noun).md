@@ -2,6 +2,8 @@
 freq: 58
 title: itaŕi (noun) - Italy
 Word (Asaxi): itaŕi
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: Italy
 trnsltion. Pl: Włochy
 tags:
@@ -21,6 +23,12 @@ Cold
 
 ### Pronunciation
 IPA: /it̪aɾi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · ta · ŕi</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]] / [[Smntc_Field Place Names]]

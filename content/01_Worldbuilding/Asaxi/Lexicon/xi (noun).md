@@ -2,6 +2,8 @@
 freq: 88
 title: xi (noun) - sun, day
 Word (Asaxi): xi
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: sun, day
 trnsltion. Pl: słońce, dzień
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xi</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]] / [[Smntc_Field Time]]

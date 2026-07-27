@@ -1,6 +1,8 @@
 ---
 title: nåhè- (particle) - Now do!
 Word (Asaxi): nåhè
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: Now do!
 tags:
   - Asaxi
@@ -28,6 +30,12 @@ Used to command someone to stop their current action and immediately begin a new
 ### Pronunciation
 
 IPA: /nau̯xə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nå · hè</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

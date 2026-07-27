@@ -2,6 +2,8 @@
 freq: 20
 title: tamỏbwopùxaśbibåbå (noun) - gastrocnemius, calf muscle
 Word (Asaxi): tamỏbwopùxaśbibåbå
+pitch_accent: H.L.L.L.L.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: gastrocnemius, calf muscle
 trnsltion. Pl: mięsień brzuchaty łydki
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪amou̯bʷopɯɦaɕbibau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ta · mỏ · bwo · pù · xa · śbi · bå · bå</span>
+- **Pattern:** `H · L · L · L · L · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

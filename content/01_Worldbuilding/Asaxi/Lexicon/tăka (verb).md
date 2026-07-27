@@ -2,6 +2,8 @@
 freq: 49
 title: tăka (verb) - to unite, to join forces
 Word (Asaxi): tăka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to unite, to join forces, to merge, to ally
 trnsltion. Pl: jednoczyć się, łączyć się, sprzymierzać
 Transitivity: transitive, reciprocal
@@ -32,6 +34,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪aɪka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tă · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to unite, to join forces, to merge, to ally

@@ -1,6 +1,8 @@
 ---
 title: xăhè (particle) - To force to...
 Word (Asaxi): xăhè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: To force to...
 tags:
   - Asaxi
@@ -37,6 +39,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɦaɪxə/ (The `h` is retained to distinguish the two particles clearly).
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xă · hè</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Etymology
 

@@ -2,6 +2,8 @@
 freq: 68
 title: wă (Number) - 9, nine
 Word (Asaxi): wă, 9
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: 9, nine
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /waɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wă</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Example sentence
 

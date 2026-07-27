@@ -2,6 +2,8 @@
 freq: 35
 title: gajýnnshá (noun) - were-hyena
 Word (Asaxi): gajýnnshá
+pitch_accent: L.L.L.H
+pitch_accent_class: lexical
 trnsltion. En: were-hyena, gnoll, hyena-man
 trnsltion. Pl: hienołak, człowiek-hiena
 tags:
@@ -25,6 +27,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡa.Ʝɪ.n̩ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · jý · nn · shá</span>
+- **Pattern:** `L · L · L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

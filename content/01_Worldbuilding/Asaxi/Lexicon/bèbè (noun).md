@@ -2,6 +2,8 @@
 freq: 52
 title: bèbè (noun) - sheep
 Word (Asaxi): bèbè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: sheep
 trnsltion. Pl: owca
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /bəbə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bè · bè</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

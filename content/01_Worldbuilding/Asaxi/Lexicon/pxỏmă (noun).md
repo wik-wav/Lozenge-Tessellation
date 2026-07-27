@@ -1,6 +1,8 @@
 ---
 title: pxỏmă (noun) - the sum of toil, "every breath"
 Word (Asaxi): pxỏmă
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: sum of toil, total exertion, lifetime of effort, "every breath"
 trnsltion. Pl: suma trudów, całokształt wysiłku, życiowy trud, "każdy oddech"
 tags:
@@ -22,6 +24,12 @@ tags:
 ### Pronunciation
 IPA: /pʰou̯maɪ/
 *Phonotactics:* `px` is an aspirated /pʰ/; `ỏ`=/ou̯/, `ă`=/aɪ/.
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pxỏ · mă</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Circumstance|Smntc_Field Circumstance]]

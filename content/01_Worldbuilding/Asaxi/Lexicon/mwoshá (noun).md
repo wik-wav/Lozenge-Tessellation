@@ -2,6 +2,8 @@
 freq: 55
 title: mwoshá (noun) - hunter (meat-person)
 Word (Asaxi): mwoshá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: hunter (meat-person)
 trnsltion. Pl: myśliwy
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /mʷo̞ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mwo · shá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

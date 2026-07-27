@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): -k-
+pitch_accent: none
+pitch_accent_class: atonal
 trnsltion. En: To turn into
 tags:
   - Asaxi
@@ -19,6 +21,12 @@ aliases:
 ### Pronunciation
 
 IPA: /k/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">k</span>
+- **Pattern:** `none`
+- **Class:** `atonal`
 
 ### Example sentence
 

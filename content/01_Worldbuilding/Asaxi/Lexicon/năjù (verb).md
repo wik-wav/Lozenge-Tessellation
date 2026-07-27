@@ -2,6 +2,8 @@
 freq: 65
 title: năjù (verb) - to answer, to reply
 Word (Asaxi): năjù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to answer, to reply
 trnsltion. Pl: odpowiadać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /naɪjɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nă · jù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to answer, to reply

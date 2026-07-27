@@ -2,6 +2,8 @@
 freq: 88
 title: zhåka (verb) - to fear, to dread
 Word (Asaxi): zhåka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to fear, to dread
 trnsltion. Pl: bać się
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /z̪xau̯ka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zhå · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to fear, to dread

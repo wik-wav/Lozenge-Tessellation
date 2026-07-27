@@ -2,6 +2,8 @@
 freq: 88
 title: haśù (verb) - to run
 Word (Asaxi): haśù
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: to run
 trnsltion. Pl: biec
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ takes two, e.g. He(1) kicked the ball(2).
 
 ### Pronunciation
 IPA: /xaɕɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ha · śù</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Translations
 - English: run

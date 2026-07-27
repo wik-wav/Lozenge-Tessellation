@@ -1,6 +1,8 @@
 ---
 title: sèni (particle) - So
 Word (Asaxi): sèni
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: So
 tags:
   - Asaxi
@@ -35,6 +37,12 @@ A fusion of **[[sèni (particle)|sè(wo)]]** (Because) + **[[ninå (particle)|ni
 ### Pronunciation
 
 IPA: /səɲi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sèni</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

@@ -2,6 +2,8 @@
 freq: 66
 title: kamm (noun) - building
 Word (Asaxi): kamm
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: building
 trnsltion. Pl: budynek
 tags:
@@ -21,6 +23,12 @@ cold
 
 ### Pronunciation
 IPA: /ka.m̩/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ka · mm</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

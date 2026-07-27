@@ -1,6 +1,8 @@
 ---
 title: gabwoshá (noun) - fat being, obese person
 Word (Asaxi): gabwoshá
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: fat being, obese person, fatty (creature), fattened animal
 trnsltion. Pl: otyła istota, grubas
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡabʷoʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · bwo · shá</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / [[Smntc_Field Animals]]

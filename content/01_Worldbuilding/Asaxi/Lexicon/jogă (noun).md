@@ -2,6 +2,8 @@
 freq: 60
 title: jogă (noun) - square, plaza (society-zone)
 Word (Asaxi): jogă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: square, plaza (society-zone)
 trnsltion. Pl: plac, rynek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /jo̞ɡaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jo · gă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

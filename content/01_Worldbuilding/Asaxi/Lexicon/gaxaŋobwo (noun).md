@@ -1,6 +1,8 @@
 ---
 title: gaxaŋobwo (noun) - morbid obesity, clinical obesity
 Word (Asaxi): gaxaŋobwo
+pitch_accent: L.L.H.L
+pitch_accent_class: lexical
 trnsltion. En: morbid obesity, clinical obesity (constitutional)
 trnsltion. Pl: otyłość chorobliwa
 tags:
@@ -24,6 +26,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡaɦaŋobʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · xa · ŋo · bwo</span>
+- **Pattern:** `L · L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Health & Medicine]]

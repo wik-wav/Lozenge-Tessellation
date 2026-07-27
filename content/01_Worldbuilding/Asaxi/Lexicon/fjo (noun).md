@@ -2,6 +2,8 @@
 freq: 60
 title: fjo (noun) - concept, idea
 Word (Asaxi): fjo
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: concept, idea, abstraction, non-object
 trnsltion. Pl: pojęcie
 tags:
@@ -21,6 +23,12 @@ Cold (Abstract)
 
 ### Pronunciation
 IPA: /fʲo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fjo</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Existence]]

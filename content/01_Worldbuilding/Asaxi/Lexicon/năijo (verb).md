@@ -1,6 +1,8 @@
 ---
 title: năijo (verb) - to feel lost (in a situation)
 Word (Asaxi): năijo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to feel lost (in a situation), to lack conviction, to be disoriented, to not know where one stands.
 trnsltion. Pl: gubić się (w sytuacji), nie mieć rozeznania, czuć się zagubionym.
 Transitivity: intransitive
@@ -31,6 +33,12 @@ tags:
 
 ### Pronunciation
 IPA: /naɪiꞲo/ (Contraction of ná-ă-ijo).
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nă · i · jo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - **English:** to feel lost (in a situation), to lack conviction, to be disoriented, to not know where one stands.

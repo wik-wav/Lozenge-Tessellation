@@ -2,6 +2,8 @@
 freq: 88
 title: ckanů (verb) - to dig, to shovel
 Word (Asaxi): ckanů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to dig, to shovel
 trnsltion. Pl: kopać łopatą
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪kanuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cka · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to dig, to shovel

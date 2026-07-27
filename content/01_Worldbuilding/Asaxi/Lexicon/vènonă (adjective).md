@@ -2,6 +2,8 @@
 freq: 43
 title: vènonă (adjective) - chestnut, warm-brown, woody
 Word (Asaxi): vènonă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: chestnut, warm-brown, woody
 trnsltion. Pl: kasztanowy, ciepłobrązowy
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ʋənonaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vè · no · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

@@ -2,6 +2,8 @@
 freq: 48
 title: em.mo (verb) - to open something
 Word (Asaxi): em.mo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to open something
 trnsltion. Pl: otwierać
 Transitivity: transitive, intransitive
@@ -34,6 +36,12 @@ tags:
 
 ### Pronunciation
 IPA: /em.mo/ (Two distinct syllables).
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">e · mmo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to open, to unseal, to unlock

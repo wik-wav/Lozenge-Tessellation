@@ -2,6 +2,8 @@
 freq: 53
 title: cèxa (verb) - to realise, to grasp suddenly
 Word (Asaxi): cèxa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to realise, to grasp suddenly
 trnsltion. Pl: uświadamiać sobie
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪əɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cè · xa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to realise, to grasp suddenly

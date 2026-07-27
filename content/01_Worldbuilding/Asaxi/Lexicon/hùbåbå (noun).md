@@ -1,6 +1,8 @@
 ---
 title: hùbåbå (noun) - back muscles
 Word (Asaxi): hùbåbå
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: back muscles
 trnsltion. Pl: mięśnie pleców
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /xɯbau̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hù · bå · bå</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

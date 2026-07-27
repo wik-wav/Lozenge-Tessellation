@@ -2,6 +2,8 @@
 freq: 81
 title: ken (particle) - can
 Word (Asaxi): ken
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: can, able to
 trnsltion. Pl: móc, być w stanie zrobić
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ken/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ken</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

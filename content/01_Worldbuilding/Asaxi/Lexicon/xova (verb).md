@@ -2,6 +2,8 @@
 freq: 50
 title: xova (verb) - to insert, to enter
 Word (Asaxi): xova
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to insert, to enter (actively), to put in
 trnsltion. Pl: wkładać, wchodzić
 Transitivity: intransitive, transitive
@@ -34,6 +36,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦova/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · va</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to insert, to enter (actively), to put in

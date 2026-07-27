@@ -2,6 +2,8 @@
 freq: 35
 title: ijoŕoshá (noun) - everyman, the common creature, ordinary folk
 Word (Asaxi): ijoŕoshá
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: everyman, the common creature, ordinary folk
 trnsltion. Pl: szary człowiek, istota pospolita
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ijoɾoʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jo · ŕo · shá</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Existence]]

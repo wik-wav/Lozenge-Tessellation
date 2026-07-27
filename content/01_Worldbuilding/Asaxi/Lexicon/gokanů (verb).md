@@ -2,6 +2,8 @@
 freq: 52
 title: gokanů (verb) - to hammer (use a hammer)
 Word (Asaxi): gokanů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to hammer (use a hammer)
 trnsltion. Pl: wbijać młotkiem
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ɡo̞kanuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go · ka · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to hammer (use a hammer)

@@ -2,6 +2,8 @@
 freq: 48
 title: kempỏno (noun) - curtain (window-cloth)
 Word (Asaxi): kempỏno
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: curtain (window-cloth)
 trnsltion. Pl: zasłona
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ke̞mpou̯no̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ke · mpỏ · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

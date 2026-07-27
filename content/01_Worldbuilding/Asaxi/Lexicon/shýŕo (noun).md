@@ -2,6 +2,8 @@
 freq: 88
 title: shýŕo (noun) - ice
 Word (Asaxi): shýŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: ice
 trnsltion. Pl: lód
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʃɪɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shý · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

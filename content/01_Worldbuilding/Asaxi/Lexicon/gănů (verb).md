@@ -2,6 +2,8 @@
 freq: 46
 title: gănů (verb) - to wander, to roam
 Word (Asaxi): gănů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to wander, to roam, to go somewhere (non-specific), to get lost
 trnsltion. Pl: błąkać się, wędrować, iść gdzieś
 Transitivity: intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡaɪ.nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gă · nů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to wander, to roam, to go somewhere (non-specific), to get lost

@@ -2,6 +2,8 @@
 freq: 88
 title: sxëbonýj (adjective) - sharp, keen, cutting
 Word (Asaxi): sxëbonýj
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: sharp, keen, cutting
 trnsltion. Pl: ostry
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /sxəbonɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sxë · bo · nýj</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Appearance]]

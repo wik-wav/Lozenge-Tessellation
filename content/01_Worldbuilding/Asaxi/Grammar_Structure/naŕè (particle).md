@@ -1,6 +1,8 @@
 ---
 title: naŕè (particle) - "Should", "Ought to", "Supposed to".
 Word (Asaxi): naŕè
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: should
 tags:
   - Asaxi
@@ -22,6 +24,12 @@ tags:
 ### Pronunciation
 
 IPA: /naɾə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">na · ŕè</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

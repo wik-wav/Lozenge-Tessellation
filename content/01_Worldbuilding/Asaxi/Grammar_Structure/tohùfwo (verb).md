@@ -1,6 +1,8 @@
 ---
 title: tohùfwo (verb) - I doubt that
 Word (Asaxi): tohùfwo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: I doubt that
 tags:
   - Asaxi
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /t̪oxɯfʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">to · hù · fwo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Perception]] [[Smntc_Field Circumstance]]

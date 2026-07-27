@@ -2,6 +2,8 @@
 freq: 63
 title: kem.mo (noun) - possibility, option
 Word (Asaxi): kem.mo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: possibility, option, opportunity, potential
 trnsltion. Pl: możliwość, opcja, potencjał
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kem.mo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ke · mmo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Existence]] / Abstract

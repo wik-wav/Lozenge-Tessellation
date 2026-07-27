@@ -2,6 +2,8 @@
 freq: 48
 title: ŕopxa (verb) - to splash, to spatter
 Word (Asaxi): ŕopxa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to splash, to spatter
 trnsltion. Pl: pluskać, chlapać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ɾo̞pʰa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · pxa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to splash, to spatter

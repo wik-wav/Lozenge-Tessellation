@@ -2,6 +2,8 @@
 freq: 57
 title: fůcè (noun) - the unknown, ignorance
 Word (Asaxi): fůcè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: the unknown, ignorance, lack of knowledge
 trnsltion. Pl: nieznane, niewiedza
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fuu̯t͡sə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · cè</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Perception]] / Cognition

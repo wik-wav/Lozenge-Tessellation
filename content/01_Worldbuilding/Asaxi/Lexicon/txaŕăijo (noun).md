@@ -1,6 +1,8 @@
 ---
 title: txaŕăijo (noun) - magic, transformation-power
 Word (Asaxi): txaŕăijo
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: magic, transformation-power
 trnsltion. Pl: magia
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /tʰaɾaɪijo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">txa · ŕă · i · jo</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

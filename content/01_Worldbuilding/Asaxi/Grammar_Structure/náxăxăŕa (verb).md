@@ -1,6 +1,8 @@
 ---
 title: náxăxăŕa (verb) - "It would not be (a fact)"
 Word (Asaxi): náxăxăŕa
+pitch_accent: L.H.L.L
+pitch_accent_class: lexical
 trnsltion. En: It would not be (a fact)
 tags:
   - Asaxi
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /nɑɦaɪɦaɪɾa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ná · xă · xă · ŕa</span>
+- **Pattern:** `L · H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Existence]]

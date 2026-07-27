@@ -2,6 +2,8 @@
 freq: 71
 title: kemtamni (noun) - family, household
 Word (Asaxi): kemtamni
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: family, household
 trnsltion. Pl: rodzina
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kemt̪amɲi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ke · mtamni</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

@@ -2,6 +2,8 @@
 freq: 53
 title: tètájýnů (verb) - to complain, to grumble
 Word (Asaxi): tètájýnů
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: to complain, to grumble
 trnsltion. Pl: narzekać
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /t̪ət̪ɑjɪnuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tè · tá · jý · nů</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to complain, to grumble

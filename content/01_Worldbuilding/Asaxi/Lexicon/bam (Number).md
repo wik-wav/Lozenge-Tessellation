@@ -2,6 +2,8 @@
 freq: 72
 title: bam (Number) - 4, four
 Word (Asaxi): bam, 4
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: 4, four
 tags:
   - Asaxi
@@ -24,6 +26,12 @@ tags:
 
 ### Pronunciation
 IPA: /bam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bam</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Example sentence
 

@@ -1,6 +1,8 @@
 ---
 title: nă (particle) - "Stop!", "Cease!", "Don't (continue)!".
 Word (Asaxi): nă
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: "\"Stop!\", \"Cease!\", \"Don't (continue)!\"."
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ Used strictly to interrupt an ongoing action.
 ### Pronunciation
 
 IPA: /naɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nă</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

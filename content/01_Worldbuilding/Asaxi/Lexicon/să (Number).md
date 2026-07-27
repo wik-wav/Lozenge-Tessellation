@@ -2,6 +2,8 @@
 freq: 75
 title: să (Number) - 1, one
 Word (Asaxi): să, 1
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: 1, one
 trnsltion. En 2: only, just (restrictive)
 trnsltion. Pl 2: tylko, jedynie
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /saɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Example sentence
 

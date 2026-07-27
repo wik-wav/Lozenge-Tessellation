@@ -2,6 +2,8 @@
 freq: 52
 title: ijoŕima (verb) - to examine, to study closely
 Word (Asaxi): ijoŕima
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: to examine, to study closely
 trnsltion. Pl: badać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ijo̞ɾima/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jo · ŕi · ma</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to examine, to study closely

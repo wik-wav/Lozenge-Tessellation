@@ -1,6 +1,8 @@
 ---
 title: gámŕo (noun) - acrylic paint, paint (viscous)
 Word (Asaxi): gámŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: acrylic paint, paint (viscous), liquid gum
 trnsltion. Pl: farba akrylowa, farba
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡɑmɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gá · mŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]] / Arts

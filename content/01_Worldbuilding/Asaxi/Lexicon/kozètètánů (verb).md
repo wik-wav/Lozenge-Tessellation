@@ -2,6 +2,8 @@
 freq: 55
 title: kozètètánů (verb) - to regret, to rue
 Word (Asaxi): kozètètánů
+pitch_accent: H.L.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: to regret, to rue, to lament
 trnsltion. Pl: żałować
 Transitivity: transitive, intransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /kozət̪ət̪ɑnuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ko · zè · tè · tá · nů</span>
+- **Pattern:** `H · L · L · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to regret, to rue, to lament

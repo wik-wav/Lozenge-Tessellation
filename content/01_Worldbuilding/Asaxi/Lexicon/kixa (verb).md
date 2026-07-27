@@ -2,6 +2,8 @@
 freq: 88
 title: kixa (verb) - to pull, to draw
 Word (Asaxi): kixa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to pull, to draw
 trnsltion. Pl: ciągnąć
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kiɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ki · xa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to pull, to draw

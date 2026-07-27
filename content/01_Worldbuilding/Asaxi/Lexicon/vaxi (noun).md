@@ -2,6 +2,8 @@
 freq: 65
 title: vaxi (noun) - the date, calendar day; on the day
 Word (Asaxi): vaxi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: the date, calendar day; on the day
 trnsltion. Pl: data, dzień
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪vaɦi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">va · xi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]]

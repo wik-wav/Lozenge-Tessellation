@@ -2,6 +2,8 @@
 freq: 57
 title: komo (noun) - rice (Jp. *kome*)
 Word (Asaxi): komo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: rice (Jp. *kome*)
 trnsltion. Pl: ryż
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ko̞mo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ko · mo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

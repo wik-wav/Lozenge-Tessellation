@@ -2,6 +2,8 @@
 freq: 74
 title: fă (Number) - 3, three
 Word (Asaxi): fă, 3
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: 3, three
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /faɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fă</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Example sentence
 

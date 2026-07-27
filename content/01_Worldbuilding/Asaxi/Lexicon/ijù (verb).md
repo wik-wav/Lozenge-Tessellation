@@ -2,6 +2,8 @@
 freq: 88
 title: ijù (verb) - to say, to utter
 Word (Asaxi): ijù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to say, to utter, to tell, to pronounce
 trnsltion. Pl: mówić, powiedzieć
 Transitivity: transitive
@@ -33,6 +35,12 @@ Takes an object (the words spoken or the quote).
 
 ### Pronunciation
 IPA: /iꞲɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to say, to utter, to tell, to pronounce

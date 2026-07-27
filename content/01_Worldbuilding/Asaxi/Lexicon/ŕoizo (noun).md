@@ -2,6 +2,8 @@
 freq: 63
 title: ŕoizo (noun) - spring (water-source)
 Word (Asaxi): ŕoizo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: spring (water-source)
 trnsltion. Pl: źródło
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾo̞iz̪o̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕo · i · zo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

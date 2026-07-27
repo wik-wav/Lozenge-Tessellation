@@ -1,6 +1,8 @@
 ---
 freq: 53
 Word (Asaxi): pùbwo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: buttocks, glutes
 trnsltion. Pl: tyłek
 tags:
@@ -22,6 +24,12 @@ title: pùbwo (noun) - buttocks, glutes
 
 ### Pronunciation
 IPA: /pɯbʷo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · bwo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

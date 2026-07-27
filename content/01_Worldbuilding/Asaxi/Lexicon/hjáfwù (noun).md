@@ -2,6 +2,8 @@
 freq: 48
 title: hjáfwù (noun) - breeze (little-wind)
 Word (Asaxi): hjáfwù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: breeze (little-wind)
 trnsltion. Pl: wietrzyk, bryza
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /çɑfʷɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hjá · fwù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

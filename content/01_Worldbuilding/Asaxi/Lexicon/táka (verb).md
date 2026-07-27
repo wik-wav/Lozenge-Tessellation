@@ -2,6 +2,8 @@
 freq: 31
 title: táka (verb) - to be at war, to wage war
 Word (Asaxi): táka
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to be at war, to wage war, to battle (large scale)
 trnsltion. Pl: wojować, toczyć wojnę
 Transitivity: reciprocal, transitive
@@ -33,6 +35,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪ɑka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tá · ka</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to be at war, to wage war, to battle (large scale)

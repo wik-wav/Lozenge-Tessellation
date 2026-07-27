@@ -2,6 +2,8 @@
 freq: 88
 title: fgăŕo (noun) - lake
 Word (Asaxi): fgăŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: lake
 trnsltion. Pl: jezioro
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /fgaɪɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fgă · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

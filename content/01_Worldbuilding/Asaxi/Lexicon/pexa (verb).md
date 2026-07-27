@@ -2,6 +2,8 @@
 freq: 64
 title: pexa (verb) - to press, to push down
 Word (Asaxi): pexa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to press, to push down
 trnsltion. Pl: naciskać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /pe̞ɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pe · xa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to press, to push down

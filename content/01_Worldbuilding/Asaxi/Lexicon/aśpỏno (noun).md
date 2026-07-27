@@ -2,6 +2,8 @@
 freq: 54
 title: aśpỏno (noun) - shoe
 Word (Asaxi): aśpỏno
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: shoe
 trnsltion. Pl: but
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /aɕpou̯no/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · śpỏ · no</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

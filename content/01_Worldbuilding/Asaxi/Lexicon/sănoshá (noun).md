@@ -2,6 +2,8 @@
 freq: 88
 title: sănoshá (noun) - cook (cooked-food person)
 Word (Asaxi): sănoshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: cook (cooked-food person)
 trnsltion. Pl: kucharz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /saɪno̞ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · no · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

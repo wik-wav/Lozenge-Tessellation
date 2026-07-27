@@ -2,6 +2,8 @@
 freq: 47
 title: kŕù (noun) - rust, iron-oxide, red-ochre
 Word (Asaxi): kŕù
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: rust, iron-oxide, red-ochre
 trnsltion. Pl: rdza
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /kɾɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kŕù</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

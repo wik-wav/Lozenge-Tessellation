@@ -1,6 +1,8 @@
 ---
 title: nă- (particle) - most
 Word (Asaxi): nă-
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: most
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /naɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nă</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Etymology
 

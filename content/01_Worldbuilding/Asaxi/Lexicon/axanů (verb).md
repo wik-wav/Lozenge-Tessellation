@@ -2,6 +2,8 @@
 freq: 88
 title: axanů (verb) - to laugh, to be laughing
 Word (Asaxi): axanů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to laugh, to be laughing
 trnsltion. Pl: śmiać się
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /aɦanuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">a · xa · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to laugh, to be laughing

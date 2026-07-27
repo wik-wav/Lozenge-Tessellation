@@ -2,6 +2,8 @@
 freq: 88
 title: ŕăpỏ (noun) - ash (fire-powder)
 Word (Asaxi): ŕăpỏ
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: ash (fire-powder)
 trnsltion. Pl: popiół
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɪpou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · pỏ</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

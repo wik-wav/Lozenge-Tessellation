@@ -1,6 +1,8 @@
 ---
 title: jomåhjá (noun) - human child, kid
 Word (Asaxi): jomåhjá
+pitch_accent: L.L.H
+pitch_accent_class: lexical
 trnsltion. En: human child, kid
 trnsltion. Pl: ludzkie dziecko
 tags:
@@ -20,6 +22,12 @@ Warm
 
 ### Pronunciation
 IPA: /Ʝomau̯çɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jo · må · hjá</span>
+- **Pattern:** `L · L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

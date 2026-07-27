@@ -2,6 +2,8 @@
 freq: 52
 title: xobi (noun) - stairs (climb-line)
 Word (Asaxi): xobi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: stairs (climb-line)
 trnsltion. Pl: schody
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦo̞bi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Housing & Shelter]]

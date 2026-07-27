@@ -2,6 +2,8 @@
 freq: 56
 title: såŕåshá (noun) - singer
 Word (Asaxi): såŕåshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: singer
 trnsltion. Pl: śpiewak, śpiewaczka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /sau̯ɾau̯ʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">så · ŕå · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Professions & Occupations]] / [[Smntc_Field Arts]]

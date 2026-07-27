@@ -1,6 +1,8 @@
 ---
 title: tëbipỏno (noun) - arm warmer
 Word (Asaxi): tëbipỏno
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: arm warmer
 trnsltion. Pl: narękawek
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪eɪbipou̯no/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">të · bi · pỏ · no</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

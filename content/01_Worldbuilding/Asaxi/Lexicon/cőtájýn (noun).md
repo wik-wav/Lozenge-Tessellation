@@ -2,6 +2,8 @@
 freq: 58
 title: cőtájýn (noun) - argument, dispute
 Word (Asaxi): cőtájýn
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: argument, dispute, verbal altercation, clash of views
 trnsltion. Pl: kłótnia, spór, sprzeczka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t͡soɪt̪ɑꞲɪn/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cő · tá · jýn</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Behaviour]]

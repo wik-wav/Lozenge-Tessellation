@@ -2,6 +2,8 @@
 freq: 30
 title: fůŋono (noun) - weightlessness, zero gravity
 Word (Asaxi): fůŋono
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: weightlessness, zero gravity
 trnsltion. Pl: nieważkość
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /fuŋono/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · ŋo · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]]

@@ -1,6 +1,8 @@
 ---
 title: izovivi (Idiom) - as ... as possible, with all one's might
 Word (Asaxi): izovivi
+pitch_accent: L.L.H.L
+pitch_accent_class: lexical
 trnsltion. En: as ... as possible, with all one's might, desperately, painstakingly
 trnsltion. Pl: z całych sił
 tags:
@@ -26,6 +28,12 @@ Corresponds to the concept of doing something *with one's life* (pouring life in
 
 ### Pronunciation
 IPA: /izovivi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · zo · vi · vi</span>
+- **Pattern:** `L · L · H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: as ... as possible, with all one's might, desperately, painstakingly

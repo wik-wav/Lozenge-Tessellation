@@ -2,6 +2,8 @@
 freq: 88
 title: mùxa (verb) - to squeeze, to clench
 Word (Asaxi): mùxa
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to squeeze, to clench
 trnsltion. Pl: ściskać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /mɯɦa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mù · xa</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to squeeze, to clench

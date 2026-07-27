@@ -2,6 +2,8 @@
 freq: 88
 title: těpỏ (noun) - hair
 Word (Asaxi): těpỏ
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: hair
 trnsltion. Pl: włosy
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪ɚpou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">tě · pỏ</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

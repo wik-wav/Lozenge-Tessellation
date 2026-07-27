@@ -1,6 +1,8 @@
 ---
 title: -kă (particle) - Please
 Word (Asaxi): -kă
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Please
 trnsltion. Pl: 
 tags:
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /.kaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kă</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

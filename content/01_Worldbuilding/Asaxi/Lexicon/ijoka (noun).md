@@ -2,6 +2,8 @@
 freq: 48
 title: ijoka (noun) - sights (of a gun), crosshair
 Word (Asaxi): ijoka
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: sights (of a gun), scope, crosshair, aiming device
 trnsltion. Pl: celownik, przyrządy celownicze
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /iꞲoka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jo · ka</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

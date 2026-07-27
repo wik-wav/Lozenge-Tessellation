@@ -2,6 +2,8 @@
 freq: 46
 title: pùxaśbi (noun) - shin, calf
 Word (Asaxi): pùxaśbi
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: shin, calf, lower leg
 trnsltion. Pl: podudzie, łydka (region)
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɯɦaɕbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pù · xa · śbi</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]]

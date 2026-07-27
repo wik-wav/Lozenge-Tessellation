@@ -2,6 +2,8 @@
 freq: 50
 title: vèso (noun) - straw, hay (dry plant)
 Word (Asaxi): vèso
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: straw, hay (dry plant)
 trnsltion. Pl: słoma, siano
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪vəso̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vè · so</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Food & Drink]]

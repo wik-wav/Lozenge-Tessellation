@@ -2,6 +2,8 @@
 freq: 88
 title: shěsonů (verb) - to read
 Word (Asaxi): shěsonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to read
 trnsltion. Pl: czytać
 Transitivity: monotransitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʃəsonuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shě · so · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - **English:** to read

@@ -2,6 +2,8 @@
 freq: 48
 title: kika (noun) - crow
 Word (Asaxi): kika
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: crow
 trnsltion. Pl: wrona
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kika/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ki · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

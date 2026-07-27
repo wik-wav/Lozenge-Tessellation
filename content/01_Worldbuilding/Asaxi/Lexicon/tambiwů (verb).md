@@ -2,6 +2,8 @@
 freq: 43
 title: tambiwů (verb) - to imitate, to mimic
 Word (Asaxi): tambiwů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to imitate, to mimic, to copy, to emulate
 trnsltion. Pl: naśladować, imitować
 Transitivity: transitive
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪ambiwuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ta · mbi · wů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to imitate, to mimic, to copy, to emulate

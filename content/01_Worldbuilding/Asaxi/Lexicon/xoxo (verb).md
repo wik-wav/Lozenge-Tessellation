@@ -2,6 +2,8 @@
 freq: 61
 title: xoxo (verb) - depart, leave
 Word (Asaxi): xoxo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: depart, leave, be away, (go)
 trnsltion. Pl: wyjść, wyruszyć, być w drodze
 Transitivity: intransitive
@@ -29,6 +31,12 @@ intransitive verb
 
 ### Pronunciation
 IPA: /ɦoɦo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · xo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: depart, leave, be away, (go)

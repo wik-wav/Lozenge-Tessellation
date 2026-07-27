@@ -2,6 +2,8 @@
 freq: 58
 title: ijono (noun) - vision, eyesight
 Word (Asaxi): ijono
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: vision, eyesight, sight (faculty)
 trnsltion. Pl: wzrok
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /iꞲono/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jo · no</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Perception]] / The Body

@@ -1,6 +1,8 @@
 ---
 title: to (particle) - subject marker
 Word (Asaxi): to
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: subject marker
 tags:
   - Asaxi
@@ -16,6 +18,13 @@ aliases:
 <span class="asaxi-script">to</span>
 
 <span class="asaxi-script-alpha">to</span>
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">to</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
+
 ### Grammatical function
 
 - **Particle type:** [[15_NPCP and The Agglutinative Block|Relational Particle (NPCP)]]

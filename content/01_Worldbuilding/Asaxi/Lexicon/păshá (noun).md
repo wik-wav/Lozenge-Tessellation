@@ -2,6 +2,8 @@
 freq: 66
 title: păshá (noun) - another (person, creature), the other
 Word (Asaxi): păshá
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: another (person, creature), the other, someone else, a stranger, an outsider
 trnsltion. Pl: inny (człowiek), bliźni, obcy, ktoś inny
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /paɪʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pă · shá</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 - [[Smntc_Field Professions & Occupations]]

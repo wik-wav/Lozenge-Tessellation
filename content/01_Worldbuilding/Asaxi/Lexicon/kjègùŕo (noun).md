@@ -2,6 +2,8 @@
 freq: 47
 title: kjègùŕo (noun) - vine, creeper
 Word (Asaxi): kjègùŕo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: vine, creeper
 trnsltion. Pl: pnącze, winorośl
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /kʲəgɯɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè · gù · ŕo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

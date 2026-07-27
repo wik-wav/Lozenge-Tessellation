@@ -1,6 +1,8 @@
 ---
 title: tte xăcè (Idiom) - I am sure that...
 Word (Asaxi): tte xăcè
+pitch_accent: L.L | H.H
+pitch_accent_class: phrase
 trnsltion. En: I am sure that... (certainty)
 trnsltion. Pl: jestem pewien, że...
 tags:
@@ -32,6 +34,12 @@ The positive counterpart of `tte pùŕima` / `tte ŕima`; asserts full confidenc
 ### Pronunciation
 
 IPA: /tːə ɦaɪt͡s̪ə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">t · te | xă · cè</span>
+- **Pattern:** `L · L | H · H`
+- **Class:** `phrase`
 
 ### Example sentence
 

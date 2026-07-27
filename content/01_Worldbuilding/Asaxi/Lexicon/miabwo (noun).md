@@ -2,6 +2,8 @@
 freq: 49
 title: miabwo (noun) - wax (honey-fat)
 Word (Asaxi): miabwo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: wax (honey-fat)
 trnsltion. Pl: wosk
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /miabʷo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mi · a · bwo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

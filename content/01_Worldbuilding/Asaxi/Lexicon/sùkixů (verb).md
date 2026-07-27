@@ -2,6 +2,8 @@
 freq: 88
 title: sùkixů (verb) - to love, to adore
 Word (Asaxi): sùkixů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to love, to adore
 trnsltion. Pl: kochać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ Takes an object (the person/thing loved).
 
 ### Pronunciation
 IPA: /daɪsɯki/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sù · ki · xů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to love, to adore, to cherish (deeply)

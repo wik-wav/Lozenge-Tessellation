@@ -2,6 +2,8 @@
 freq: 53
 title: shásnýj (adjective) - lonely, stuck
 Word (Asaxi): shásnýj
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: lonely, stuck, trapped, isolated, captive (feeling)
 trnsltion. Pl: samotny, uwięziony
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ʃɑsnɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shá · snýj</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]]

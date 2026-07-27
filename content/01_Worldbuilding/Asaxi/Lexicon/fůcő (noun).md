@@ -2,6 +2,8 @@
 freq: 46
 title: fůcő (noun) - misunderstanding, confusion
 Word (Asaxi): fůcő
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: misunderstanding, confusion, lack of grasp, misinterpretation
 trnsltion. Pl: nieporozumienie, niezrozumienie
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /fuu̯t͡soɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · cő</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Perception]] / Cognition

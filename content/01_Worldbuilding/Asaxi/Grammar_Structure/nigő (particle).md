@@ -1,6 +1,8 @@
 ---
 title: nigő (particle) - "Themself", "Themselves" (Singular).
 Word (Asaxi): nigő
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: themself
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɲiɡoɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nigő</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

@@ -2,6 +2,8 @@
 freq: 88
 title: bỏbå (noun) - father
 Word (Asaxi): bỏbå
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: father
 trnsltion. Pl: ojciec
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /bou̯bau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bỏ · bå</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

@@ -2,6 +2,8 @@
 freq: 48
 title: găxă (noun) - infinity, eternity
 Word (Asaxi): găxă
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: infinity, eternity, boundlessness, the infinite
 trnsltion. Pl: nieskończoność
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡaɪɦaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gă · xă</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]] / Cosmology

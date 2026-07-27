@@ -2,6 +2,8 @@
 freq: 52
 title: pjovi (noun) - laser, beam
 Word (Asaxi): pjovi
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: laser, beam, ray
 trnsltion. Pl: laser, promień
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pʲovi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pjo · vi</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Tools]] / Physics / Weapons

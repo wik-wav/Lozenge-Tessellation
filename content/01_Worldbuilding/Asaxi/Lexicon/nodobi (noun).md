@@ -2,6 +2,8 @@
 freq: 48
 title: nodobi (noun) - necklace
 Word (Asaxi): nodobi
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: necklace
 trnsltion. Pl: naszyjnik
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /nodobi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">no · do · bi</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Clothing]]

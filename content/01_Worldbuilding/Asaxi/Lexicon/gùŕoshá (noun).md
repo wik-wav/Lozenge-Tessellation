@@ -2,6 +2,8 @@
 freq: 88
 title: gùŕoshá (noun) - snake, serpent
 Word (Asaxi): gùŕoshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: snake, serpent
 trnsltion. Pl: wąż
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /gɯɾoʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">gù · ŕo · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

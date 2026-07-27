@@ -2,6 +2,8 @@
 freq: 68
 title: waojýn (noun) - story, tale
 Word (Asaxi): waojýn
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: story, tale
 trnsltion. Pl: opowieść, historia
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʋaojɪn/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wa · o · jýn</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Literature and Reading]]

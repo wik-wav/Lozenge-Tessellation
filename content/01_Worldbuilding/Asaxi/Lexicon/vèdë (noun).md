@@ -2,6 +2,8 @@
 freq: 57
 title: vèdë (noun) - branch
 Word (Asaxi): vèdë
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: branch
 trnsltion. Pl: gałąź
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /vədə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vè · dë</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

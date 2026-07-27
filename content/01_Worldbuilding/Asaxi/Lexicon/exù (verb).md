@@ -2,6 +2,8 @@
 freq: 57
 title: exù (verb) - to cry, to weep
 Word (Asaxi): exù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to cry, to weep
 trnsltion. Pl: płakać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /e̞ɦɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">e · xù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to cry, to weep

@@ -1,6 +1,8 @@
 ---
 title: pỏni (particle) - "Soon to be", "Future", "Prospective", "Would-be"
 Word (Asaxi): pỏni
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: '"Soon to be", "Future", "Prospective", "Would-be"'
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /pou̯ɲi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pỏni</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Etymology
 

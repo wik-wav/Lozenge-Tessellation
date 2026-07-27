@@ -2,6 +2,8 @@
 freq: 60
 title: vèno (noun) - wood / timber
 Word (Asaxi): vèno
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: wood / timber
 trnsltion. Pl: drewno
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʋəno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vè · no</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

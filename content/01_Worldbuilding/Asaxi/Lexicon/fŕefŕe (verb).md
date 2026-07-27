@@ -2,6 +2,8 @@
 freq: 54
 title: fŕefŕe (verb) - to shake, to tremble
 Word (Asaxi): fŕefŕe
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to shake, to tremble
 trnsltion. Pl: trząść się, drżeć
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /fɾe̞fɾe̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fŕe · fŕe</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to shake, to tremble

@@ -1,6 +1,8 @@
 ---
 title: panå- (particle) - will now (do)
 Word (Asaxi): panå-
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: will now (do)
 tags:
   - Asaxi
@@ -29,6 +31,12 @@ Indicates that the subject is immediately changing their course of action or pla
 ### Pronunciation
 
 IPA: /panau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pa · nå</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

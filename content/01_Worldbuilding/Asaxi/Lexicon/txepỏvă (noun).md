@@ -1,6 +1,8 @@
 ---
 title: txepỏvă (noun) - fern, bracken
 Word (Asaxi): txepỏvă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: fern, bracken
 trnsltion. Pl: paproć
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /tʰe̞pou̯b̪vaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">txe · pỏ · vă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

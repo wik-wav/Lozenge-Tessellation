@@ -2,6 +2,8 @@
 freq: 54
 title: vipỏ (noun) - cotton (plant-fluff)
 Word (Asaxi): vipỏ
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: cotton (plant-fluff)
 trnsltion. Pl: bawełna
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /b̪vipou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · pỏ</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

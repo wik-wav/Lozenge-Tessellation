@@ -2,6 +2,8 @@
 freq: 60
 title: wëè (verb) - to require, to need
 Word (Asaxi): wëè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to require, to need, to necessitate
 trnsltion. Pl: wymagać, potrzebować
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive verb_ — takes a requirer and the thing required (e.g. The work
 
 ### Pronunciation
 IPA: /ʋeɪə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">wë · è</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to require, to need, to necessitate

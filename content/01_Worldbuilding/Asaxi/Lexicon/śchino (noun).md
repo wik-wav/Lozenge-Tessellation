@@ -2,6 +2,8 @@
 freq: 60
 title: śchino (noun) - length, distance (linear)
 Word (Asaxi): śchino
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: length, distance (linear), extent
 trnsltion. Pl: długość
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɕt͡ɕʲino/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">śchi · no</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]

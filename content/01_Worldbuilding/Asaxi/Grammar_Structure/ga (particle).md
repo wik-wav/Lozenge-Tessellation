@@ -1,6 +1,8 @@
 ---
 title: ga (particle) - x-type, made of x, x-coloured
 Word (Asaxi): ga
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: x-type, made of x, x-coloured
 tags:
   - Asaxi
@@ -37,6 +39,12 @@ aliases:
 ### Pronunciation
 
 IPA: /ɡa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

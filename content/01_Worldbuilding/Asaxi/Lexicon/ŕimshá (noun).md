@@ -2,6 +2,8 @@
 freq: 32
 title: ŕimshá (noun) - lemur
 Word (Asaxi): ŕimshá
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: lemur
 trnsltion. Pl: lemur
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾimʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕi · mshá</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

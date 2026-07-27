@@ -2,6 +2,8 @@
 freq: 62
 title: pŕono (noun) - wheel
 Word (Asaxi): pŕono
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: wheel
 trnsltion. Pl: koło
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /pɾono/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pŕo · no</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Motion]]

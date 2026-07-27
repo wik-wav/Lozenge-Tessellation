@@ -2,6 +2,8 @@
 freq: 88
 title: ŕăană (adjective) - hot, fiery, burning
 Word (Asaxi): ŕăană
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: hot, fiery, burning
 trnsltion. Pl: gorący, ognisty
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ɾaɪanaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · a · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]]

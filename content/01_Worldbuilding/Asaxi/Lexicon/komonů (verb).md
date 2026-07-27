@@ -1,6 +1,8 @@
 ---
 title: komonů (verb) - to eat a meal, to dine
 Word (Asaxi): komonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to eat a meal, to dine
 trnsltion. Pl: jeść posiłek
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ko̞mo̞nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ko · mo · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to eat a meal, to dine

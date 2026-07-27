@@ -2,6 +2,8 @@
 freq: 61
 title: mëjoxů (noun) - to appear, to look (like)
 Word (Asaxi): mëjoxů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to appear, to look (like), to seem (visually)
 trnsltion. Pl: wyglądać, zdawać się (wizualnie)
 Transitivity: intransitive (copular)
@@ -26,6 +28,12 @@ Connects a subject to an adjective or adverbial complement describing its appear
 
 ### Pronunciation
 IPA: /meɪjoɦuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">më · jo · xů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to appear, to look (like), to seem (visually)

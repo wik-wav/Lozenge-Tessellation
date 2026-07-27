@@ -2,6 +2,8 @@
 freq: 47
 title: hjihjină (adjective) - thin and cute, petite
 Word (Asaxi): hjihjină
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: thin and cute, petite, kawaii, slender (aesthetic)
 trnsltion. Pl: drobny, szczupły (i ładny), filigranowy
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /çjiçjinaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hji · hji · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / Aesthetics

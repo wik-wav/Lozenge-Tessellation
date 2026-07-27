@@ -2,6 +2,8 @@
 freq: 58
 title: cù (noun) - dirt, soil, earth, ground
 Word (Asaxi): cù
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: dirt, soil, earth, ground
 trnsltion. Pl: ziemia, gleba, brud
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̻͡sɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cù</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

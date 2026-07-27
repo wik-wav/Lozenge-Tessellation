@@ -2,6 +2,8 @@
 freq: 58
 title: sëonă (noun) - essential, vital
 Word (Asaxi): sëonă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: essential, vital, core, fundamental, indispensable
 trnsltion. Pl: istotny, niezbędny, kluczowy
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /seɪonaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">së · o · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Existence|Smntc_Field Existence]] 

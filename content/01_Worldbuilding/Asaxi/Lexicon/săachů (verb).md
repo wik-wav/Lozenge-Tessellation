@@ -1,6 +1,8 @@
 ---
 title: săachů (verb) - to feel hot (the heat of the world, not one's own)
 Word (Asaxi): săachů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to feel hot (the heat of the world, not one's own)
 trnsltion. Pl: czuć gorąco
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_ — state predicate; the experiencer is the subject (often with t
 
 ### Pronunciation
 IPA: /saɪat̠ʃuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · a · chů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to feel hot (the heat of the world, not one's own)

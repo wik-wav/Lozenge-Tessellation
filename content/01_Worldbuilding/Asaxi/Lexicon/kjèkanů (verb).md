@@ -2,6 +2,8 @@
 freq: 67
 title: kjèkanů (verb) - to saw
 Word (Asaxi): kjèkanů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to saw
 trnsltion. Pl: piłować
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /kʲəkanuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè · ka · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to saw

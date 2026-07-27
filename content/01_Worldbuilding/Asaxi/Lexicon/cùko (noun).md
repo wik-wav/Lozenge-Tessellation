@@ -2,6 +2,8 @@
 freq: 53
 title: cùko (noun) - brick (baked clay)
 Word (Asaxi): cùko
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: brick (baked clay)
 trnsltion. Pl: cegła
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̻͡s̪ɯko̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cù · ko</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

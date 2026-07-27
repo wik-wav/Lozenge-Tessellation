@@ -2,6 +2,8 @@
 freq: 51
 title: ihjáshá (noun) - bee, wasp
 Word (Asaxi): ihjáshá
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: bee, wasp
 trnsltion. Pl: pszczoła, osa
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /içɑʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · hjá · shá</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

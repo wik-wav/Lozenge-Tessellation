@@ -2,6 +2,8 @@
 freq: 55
 title: nozhè (noun) - knife (Ru. *nozh*)
 Word (Asaxi): nozhè
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: knife (Ru. *nozh*)
 trnsltion. Pl: nóż
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /no̞z̪xə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">no · zhè</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

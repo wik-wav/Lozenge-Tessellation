@@ -2,6 +2,8 @@
 freq: 46
 title: båbånă (adjective) - muscular, hulking
 Word (Asaxi): båbånă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: muscular, hunky, hulking, gymbro-like, rugged, rough
 trnsltion. Pl: umięśniony, napakowany, krzepki
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /bau̯bau̯naɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bå · bå · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The Body]] / Aesthetics

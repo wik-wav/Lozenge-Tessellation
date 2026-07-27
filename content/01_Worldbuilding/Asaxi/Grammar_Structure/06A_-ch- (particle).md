@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): -ch-
+pitch_accent: none
+pitch_accent_class: atonal
 trnsltion. En: To feel like
 tags:
   - Asaxi
@@ -19,6 +21,12 @@ aliases:
 ### Pronunciation
 
 IPA: /tʃ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ch</span>
+- **Pattern:** `none`
+- **Class:** `atonal`
 
 ### Example sentence
 

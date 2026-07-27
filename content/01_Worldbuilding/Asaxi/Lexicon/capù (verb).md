@@ -2,6 +2,8 @@
 freq: 88
 title: capù (verb) - to stab, to pierce
 Word (Asaxi): capù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to stab, to pierce
 trnsltion. Pl: dźgać, przebijać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪apɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ca · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to stab, to pierce

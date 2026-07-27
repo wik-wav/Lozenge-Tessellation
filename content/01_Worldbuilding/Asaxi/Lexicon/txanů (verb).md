@@ -1,6 +1,8 @@
 ---
 title: txanů (verb) - to change, to morph
 Word (Asaxi): txanů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: " to change, to morph, to alter, to shift (state)"
 trnsltion. Pl: zmieniać się
 Transitivity: intransitive
@@ -29,6 +31,12 @@ takes one argument, e.g. *He(1) changes.*
 
 ### Pronunciation
 IPA: /tʰanuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">txa · nů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to change, to morph, to alter, to shift (state)

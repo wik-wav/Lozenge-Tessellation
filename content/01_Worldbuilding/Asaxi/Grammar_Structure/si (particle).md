@@ -1,6 +1,8 @@
 ---
 title: si (particle) - Or
 Word (Asaxi): si
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: Or
 tags:
   - Asaxi
@@ -31,6 +33,12 @@ Placed at the **end** of the first clause.
 ### Pronunciation
 
 IPA: /ɕi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">si</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

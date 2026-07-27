@@ -2,6 +2,8 @@
 freq: 40
 title: pỏ (noun) - fluff, soft fur
 Word (Asaxi): pỏ
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: fluff, down, wool, soft fur, fuzz
 trnsltion. Pl: puch, wełna, kłaczki
 tags:
@@ -21,6 +23,12 @@ Warm
 
 ### Pronunciation
 IPA: /pou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pỏ</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Materials]] / [[Smntc_Field Animals]]

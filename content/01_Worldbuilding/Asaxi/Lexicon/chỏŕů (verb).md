@@ -1,6 +1,8 @@
 ---
 title: chỏŕů (verb) - to be hungry (lit. to generate hunger)
 Word (Asaxi): chỏŕů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to be hungry (lit. to generate hunger)
 trnsltion. Pl: być głodnym
 Transitivity: intransitive
@@ -29,6 +31,12 @@ _intransitive_ — state predicate; the experiencer is the subject (often with t
 
 ### Pronunciation
 IPA: /t̠ʃou̯ɾuw/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chỏ · ŕů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to be hungry (lit. to generate hunger)

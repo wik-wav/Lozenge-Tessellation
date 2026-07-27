@@ -2,6 +2,8 @@
 freq: 44
 title: naŕo (verb) - to multiply, to mix, to combine, to compound
 Word (Asaxi): naŕo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: to multiply, to mix, to combine, to compound
 trnsltion. Pl: mnożyć, mieszać, łączyć
 Transitivity: transitive
@@ -34,6 +36,12 @@ tags:
 
 ### Pronunciation
 IPA: /naɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">na · ŕo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Translations
 - English: (math) multiplied by, times; (abstract) to combine, to merge, to synthesize, to compound

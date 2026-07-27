@@ -2,6 +2,8 @@
 freq: 64
 title: dăno (noun) - size, magnitude
 Word (Asaxi): dăno
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: size, magnitude, scale, dimensions
 trnsltion. Pl: rozmiar, wielkość
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪno/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · no</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]

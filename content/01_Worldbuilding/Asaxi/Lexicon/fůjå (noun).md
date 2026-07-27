@@ -1,6 +1,8 @@
 ---
 title: fůjå (noun) - wantlessness, contentment
 Word (Asaxi): fůjå
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: wantlessness, contentment, freedom from desire, satisfaction
 trnsltion. Pl: bezpragnieniowość, zadowolenie
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /fuu̯jau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · jå</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Virtue

@@ -2,6 +2,8 @@
 freq: 65
 title: ỏwo (noun) - the center, noon
 Word (Asaxi): ỏwo
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: the center, noon
 trnsltion. Pl: środek, centrum, południe
 tags:
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /ou̯wo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ỏ · wo</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]] / [[Smntc_Field Time]]

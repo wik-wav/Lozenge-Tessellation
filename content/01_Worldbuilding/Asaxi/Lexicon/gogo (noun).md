@@ -2,6 +2,8 @@
 freq: 42
 title: gogo (noun) - pebble / gravel
 Word (Asaxi): gogo
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: pebble / gravel
 trnsltion. Pl: żwir
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡoɡo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go · go</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Materials]]

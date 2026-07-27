@@ -2,6 +2,8 @@
 freq: 42
 title: sonýj (adjective) - smoky, hazy-grey, murky
 Word (Asaxi): sonýj
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: smoky, hazy-grey, murky
 trnsltion. Pl: zadymiony, szary
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /sonɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">so · nýj</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

@@ -2,6 +2,8 @@
 freq: 61
 title: ijoŕonů (verb) - to dream
 Word (Asaxi): ijoŕonů
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: to dream
 trnsltion. Pl: śnić
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ijo̞ɾo̞nuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jo · ŕo · nů</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to dream

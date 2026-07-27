@@ -2,6 +2,8 @@
 freq: 44
 title: ŕagonă (adjective) - charcoal-dark, rich warm-black, smouldering-dark
 Word (Asaxi): ŕagonă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: charcoal-dark, rich warm-black, smouldering-dark
 trnsltion. Pl: węglowy, głębokoczarny
 tags:
@@ -28,6 +30,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ɾaɡonaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕa · go · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

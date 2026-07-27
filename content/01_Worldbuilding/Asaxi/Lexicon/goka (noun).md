@@ -2,6 +2,8 @@
 freq: 52
 title: goka (noun) - hammer
 Word (Asaxi): goka
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: hammer
 trnsltion. Pl: młotek
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /goka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go · ka</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

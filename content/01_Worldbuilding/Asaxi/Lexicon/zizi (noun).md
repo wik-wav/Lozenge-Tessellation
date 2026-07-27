@@ -2,6 +2,8 @@
 freq: 45
 title: zizi (noun) - mosquito
 Word (Asaxi): zizi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: mosquito
 trnsltion. Pl: komar
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /z̪iz̪i/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zi · zi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

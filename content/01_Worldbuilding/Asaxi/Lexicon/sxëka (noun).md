@@ -2,6 +2,8 @@
 freq: 45
 title: sxëka (noun) - scissors (sharp-tool)
 Word (Asaxi): sxëka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: scissors (sharp-tool)
 trnsltion. Pl: nożyczki
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /sɦeɪka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sxë · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

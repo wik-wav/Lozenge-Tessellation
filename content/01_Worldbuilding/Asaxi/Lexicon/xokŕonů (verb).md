@@ -1,6 +1,8 @@
 ---
 title: xokŕonů (verb) - to lean on, lean against, prop against
 Word (Asaxi): xokŕonů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to lean on, lean against, prop against
 trnsltion. Pl: opierać się
 Transitivity: monotransitive
@@ -29,6 +31,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /xokɾonɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xo · kŕo · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to lean on, lean against, prop against

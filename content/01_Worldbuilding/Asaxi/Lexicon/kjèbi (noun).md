@@ -2,6 +2,8 @@
 freq: 60
 title: kjèbi (noun) - stick / twig
 Word (Asaxi): kjèbi
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: stick / twig
 trnsltion. Pl: patyk
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kʲəbi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kjè · bi</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]]

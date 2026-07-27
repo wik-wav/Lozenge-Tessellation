@@ -1,6 +1,8 @@
 ---
 title: kopa (noun) - The distant future
 Word (Asaxi): kopa
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: The distant future
 trnsltion. Pl: daleka przyszłość
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /kopa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ko · pa</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Time]] / Sci-Fi

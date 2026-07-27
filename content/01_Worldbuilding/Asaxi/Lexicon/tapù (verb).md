@@ -2,6 +2,8 @@
 freq: 88
 title: tapù (verb) - to take, to grab
 Word (Asaxi): tapù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to take, to grab
 trnsltion. Pl: brać, chwytać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /t̪apɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ta · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to take, to grab

@@ -2,6 +2,8 @@
 freq: 61
 title: dokùshá (noun) - doctor (general)
 Word (Asaxi): dokùshá
+pitch_accent: L.L.H
+pitch_accent_class: lexical
 trnsltion. En: doctor (general)
 trnsltion. Pl: lekarz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /dokɯʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">do · kù · shá</span>
+- **Pattern:** `L · L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Health & Medicine]] / Professions

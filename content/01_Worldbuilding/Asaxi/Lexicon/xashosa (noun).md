@@ -2,6 +2,8 @@
 freq: 60
 title: xashosa (noun) - bridge
 Word (Asaxi): xashosa
+pitch_accent: L.H.L
+pitch_accent_class: lexical
 trnsltion. En: bridge
 trnsltion. Pl: most
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦaɕosa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xa · sho · sa</span>
+- **Pattern:** `L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field The City]]

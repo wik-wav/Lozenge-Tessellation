@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): -w-
+pitch_accent: none
+pitch_accent_class: atonal
 trnsltion. En: Do X to / Force
 tags:
   - Asaxi
@@ -19,6 +21,12 @@ aliases:
 ### Pronunciation
 
 IPA: /w/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">w</span>
+- **Pattern:** `none`
+- **Class:** `atonal`
 
 ### Example sentence
 

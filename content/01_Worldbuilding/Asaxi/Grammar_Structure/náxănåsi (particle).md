@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): náxănåsi
+pitch_accent: L.L.L
+pitch_accent_class: atonal
 trnsltion. En: Absolutely never
 tags:
   - Asaxi
@@ -39,6 +41,12 @@ Placed at the **end** of the sentence.
 ### Pronunciation
 
 IPA: /nɑɦaɪnau̯ɕi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ná · xă · nåsi</span>
+- **Pattern:** `L · L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

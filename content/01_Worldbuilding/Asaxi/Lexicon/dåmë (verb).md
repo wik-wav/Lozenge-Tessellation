@@ -2,6 +2,8 @@
 freq: 71
 title: dåmë (verb) - to show, indicate, reveal, point out
 Word (Asaxi): dåmë
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to show, indicate, reveal, point out
 trnsltion. Pl: pokazywać, wskazywać
 Transitivity: ditransitive
@@ -33,6 +35,12 @@ _ditransitive_
 
 ### Pronunciation
 IPA: /dau̯mə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">då · më</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to show, indicate, reveal, point out

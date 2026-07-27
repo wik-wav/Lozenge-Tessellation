@@ -1,6 +1,8 @@
 ---
 title: nánaŕè (particle) - should not
 Word (Asaxi): nánaŕè
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: should not
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ tags:
 
 ### Pronunciation
 IPA: /nɑnaɾə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ná · na · ŕè</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Example sentence
 

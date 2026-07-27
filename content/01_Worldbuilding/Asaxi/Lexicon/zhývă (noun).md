@@ -1,6 +1,8 @@
 ---
 title: zhývă (noun) - holly, evergreen
 Word (Asaxi): zhývă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: holly, evergreen
 trnsltion. Pl: ostrokrzew
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /ʑɪb̪vaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">zhý · vă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

@@ -2,6 +2,8 @@
 freq: 51
 title: iŕă (noun) - rainbow
 Word (Asaxi): iŕă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: rainbow
 trnsltion. Pl: tęcza
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /iɾaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · ŕă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

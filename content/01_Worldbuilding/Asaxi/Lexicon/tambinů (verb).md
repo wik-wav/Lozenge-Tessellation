@@ -2,6 +2,8 @@
 freq: 62
 title: tambinů (verb) - to agree, to match
 Word (Asaxi): tambinů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to agree, to match, to balance, to be equal to, to settle
 trnsltion. Pl: zgadzać się, pasować, równać się
 Transitivity: transitive, reciprocal
@@ -29,6 +31,12 @@ tags:
 
 ### Pronunciation
 IPA: /t̪ambinuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ta · mbi · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to agree, to match, to balance, to be equal to

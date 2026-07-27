@@ -1,6 +1,9 @@
 ---
 title: word in asaxi (what is it?) - english
 Word (Asaxi): number
+pitch_accent:
+pitch_accent_class:
+g2p_override:
 trnsltion. En: number
 trnsltion. Pl:
 tags:
@@ -16,6 +19,16 @@ tags:
 
 <span class="asaxi-script-alpha">word (asaxi)</span>
 "x number" stands for the number x.
+
+### Pronunciation
+
+IPA: //
+
+### Pitch Accent
+
+- **Morae:**
+- **Pattern:**
+- **Class:**
 
 ### Example sentence
 

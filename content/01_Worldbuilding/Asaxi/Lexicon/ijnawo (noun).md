@@ -2,6 +2,8 @@
 freq: 56
 title: ijnawo (noun) - mirror (sight-surface)
 Word (Asaxi): ijnawo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: mirror (sight-surface)
 trnsltion. Pl: lustro
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ijnaʋo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jna · wo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

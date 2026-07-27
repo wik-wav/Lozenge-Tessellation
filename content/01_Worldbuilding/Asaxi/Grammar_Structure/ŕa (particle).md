@@ -1,6 +1,8 @@
 ---
 title: ŕa (particle) - And
 Word (Asaxi): ŕa
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: And
 tags:
   - Asaxi
@@ -32,6 +34,12 @@ Placed at the **end** of the first clause.
 ### Pronunciation
 
 IPA: /ɾa/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕa</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

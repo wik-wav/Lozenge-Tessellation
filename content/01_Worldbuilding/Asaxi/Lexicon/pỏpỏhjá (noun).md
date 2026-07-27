@@ -1,6 +1,8 @@
 ---
 title: pỏpỏhjá (noun) - bunny, young rabbit (also endearment)
 Word (Asaxi): pỏpỏhjá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: bunny, young rabbit (also endearment)
 trnsltion. Pl: króliczek
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /pou̯pou̯çʲɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">pỏ · pỏ · hjá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

@@ -2,6 +2,8 @@
 freq: 61
 title: ijpù (verb) - to notice, to spot
 Word (Asaxi): ijpù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to notice, to spot
 trnsltion. Pl: zauważać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ijpɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jpù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to notice, to spot

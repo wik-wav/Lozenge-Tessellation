@@ -2,6 +2,8 @@
 freq: 67
 title: chěcho' (verb) - to close (something)
 Word (Asaxi): chěcho'
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to close (something), to close something shut
 trnsltion. Pl: zamykać coś
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ takes two, e.g. He(1) kicked the ball(2).
 
 ### Pronunciation
 IPA: /t̠ʃɚt̠ʃoʔ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">chě · cho'</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to close (something), to close something shut

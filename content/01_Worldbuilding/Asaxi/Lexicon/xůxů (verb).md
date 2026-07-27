@@ -2,6 +2,8 @@
 freq: 63
 title: xůxů (verb) - to forget, to lose (a memory)
 Word (Asaxi): xůxů
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to forget, to lose (a memory), to slip one's mind
 trnsltion. Pl: zapomnieć
 Transitivity: transitive, intransitive
@@ -32,6 +34,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɦuu̯ɦuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xů · xů</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to forget, to lose (a memory), to slip one's mind

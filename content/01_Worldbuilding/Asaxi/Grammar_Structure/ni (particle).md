@@ -1,6 +1,8 @@
 ---
 title: ni (particle) - To, towards
 Word (Asaxi): ni
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: To, towards
 tags:
   - Asaxi
@@ -26,6 +28,12 @@ aliases:
 ### Pronunciation
 
 IPA: /ɲi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ni</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Usage & Grammar 
 

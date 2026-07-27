@@ -2,6 +2,8 @@
 freq: 48
 title: kùgù (noun) - ant
 Word (Asaxi): kùgù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: ant
 trnsltion. Pl: mrówka
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /kɯɡɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kù · gù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

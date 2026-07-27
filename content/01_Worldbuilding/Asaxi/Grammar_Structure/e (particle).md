@@ -1,6 +1,8 @@
 ---
 title: e (particle) - "You reckon?", question of disbelief
 Word (Asaxi): e
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: You reckon?
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ Used to turn a statement into a question of disbelief, implying the speaker want
 ### Pronunciation
 
 IPA: /e/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">e</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Alternative Forms
 

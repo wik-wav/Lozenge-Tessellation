@@ -2,6 +2,8 @@
 freq: 44
 title: gokŕo (noun) - crater (rock-hollow)
 Word (Asaxi): gokŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: crater (rock-hollow)
 trnsltion. Pl: krater
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡo̞kɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go · kŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

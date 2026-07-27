@@ -2,6 +2,8 @@
 freq: 50
 title: hjáŕo (noun) - pond (little-water)
 Word (Asaxi): hjáŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: pond (little-water)
 trnsltion. Pl: staw
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /çɑɾo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">hjá · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

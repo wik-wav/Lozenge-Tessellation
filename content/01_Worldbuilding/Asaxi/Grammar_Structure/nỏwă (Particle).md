@@ -1,6 +1,8 @@
 ---
 title: nỏwă (particle) - Don't want to
 Word (Asaxi): nỏwă
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: Don't want to
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /nou̯waɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nỏ · wă</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

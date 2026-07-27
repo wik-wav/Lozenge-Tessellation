@@ -1,6 +1,8 @@
 ---
 title: xùjakam (noun) - government, ruling institution
 Word (Asaxi): xùjakam
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: government, ruling institution
 trnsltion. Pl: rząd, władza
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɦɯjakam/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">xù · ja · kam</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

@@ -1,6 +1,9 @@
 ---
 title: word in asaxi (what is it?) - english
 Word (Asaxi):
+pitch_accent:
+pitch_accent_class:
+g2p_override:
 trnsltion. en:
 trnsltion. Pl:
 tags:
@@ -22,6 +25,12 @@ Adds the "x" meaning to nouns it appears in
 ### Pronunciation
 
 IPA: //
+
+### Pitch Accent
+
+- **Morae:**
+- **Pattern:**
+- **Class:**
 
 ### Example sentence
 

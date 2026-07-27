@@ -2,6 +2,8 @@
 freq: 41
 title: dăchỏchỏ (noun) - sexual attraction, desire
 Word (Asaxi): dăchỏchỏ
+pitch_accent: L.H.H
+pitch_accent_class: mixed
 trnsltion. En: sexual attraction, desire, lust, arousal, excitement (libido)
 trnsltion. Pl: pożądanie, pociąg, podniecenie
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /daɪt̠ʃou̯t̠ʃou̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">dă · chỏ · chỏ</span>
+- **Pattern:** `L · H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / [[Smntc_Field The Body]]

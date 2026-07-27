@@ -2,6 +2,8 @@
 freq: 31
 title: kiŕo (noun) - pickaxe
 Word (Asaxi): kiŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: pickaxe
 trnsltion. Pl: kilof
 tags:
@@ -21,6 +23,12 @@ cold
 
 ### Pronunciation
 IPA: /kiɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ki · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Tools]]

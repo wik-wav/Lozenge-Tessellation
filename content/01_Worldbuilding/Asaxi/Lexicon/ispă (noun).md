@@ -2,6 +2,8 @@
 freq: 49
 title: ispă (noun) - wilderness, the wild
 Word (Asaxi): ispă
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: wilderness, the wild, the outside world, untamed lands
 trnsltion. Pl: dzicz
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ispaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · spă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Environment]] / Nature

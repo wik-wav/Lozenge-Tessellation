@@ -2,6 +2,8 @@
 freq: 76
 title: ko-gă (noun) - over there, yonder
 Word (Asaxi): ko-gă
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: over there
 trnsltion. Pl: tam (daleko)
 tags:
@@ -21,6 +23,12 @@ Cold
 
 ### Pronunciation
 IPA: /kogaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ko | gă</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

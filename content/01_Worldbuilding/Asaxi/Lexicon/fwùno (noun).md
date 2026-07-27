@@ -2,6 +2,8 @@
 freq: 88
 title: fwùno (noun) - horn (wind-sound)
 Word (Asaxi): fwùno
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: horn (wind-sound)
 trnsltion. Pl: róg
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /fʷɯno̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fwù · no</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Objects]]

@@ -1,6 +1,8 @@
 ---
 title: "sỏ (Tense Prefix) - Simple Past / Perfective Past: before the present"
 Word (Asaxi): sỏ
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: "Simple Past / Perfective Past: before the present"
 tags:
   - Asaxi
@@ -28,6 +30,12 @@ Alternate form of `zè`. See [[zè (particle)]]
 ### Pronunciation
 
 x
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sỏ</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

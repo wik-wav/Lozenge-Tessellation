@@ -1,6 +1,8 @@
 ---
 title: cèná (verb) - to not know, to be ignorant of
 Word (Asaxi): cèná
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to not know, to be ignorant of, to be unaware
 trnsltion. Pl: nie wiedzieć, nie znać
 Transitivity: Monotransitive
@@ -32,6 +34,12 @@ Strictly speaking, this is the negative form of **[[cè (verb)|cè]]**, but it i
 
 ### Pronunciation
 IPA: /t͡sənɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cè · ná</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to not know, to be ignorant of, to be unaware

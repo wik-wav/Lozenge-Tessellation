@@ -1,6 +1,8 @@
 ---
 title: åkamobo (noun) - mainspring (of clockwork)
 Word (Asaxi): åkamobo
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: mainspring (of clockwork)
 trnsltion. Pl: sprężyna główna
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /au̯kamo̞bo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">å · ka · mo · bo</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

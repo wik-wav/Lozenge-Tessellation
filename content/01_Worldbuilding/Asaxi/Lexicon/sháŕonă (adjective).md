@@ -2,6 +2,8 @@
 freq: 63
 title: sháŕonă (adjective) - safe, secure
 Word (Asaxi): sháŕonă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: safe, secure, life-sustaining
 trnsltion. Pl: bezpieczny
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ʃɑɾonaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">shá · ŕo · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Safety

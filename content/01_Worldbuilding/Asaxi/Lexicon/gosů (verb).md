@@ -2,6 +2,8 @@
 freq: 33
 title: gosů (verb) - to clatter, to sound stony
 Word (Asaxi): gosů
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: to clatter, to sound stony
 trnsltion. Pl: grzechotać
 Transitivity: intransitive
@@ -30,6 +32,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /ɡo̞suu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go · sů</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Translations
 - English: to clatter, to sound stony

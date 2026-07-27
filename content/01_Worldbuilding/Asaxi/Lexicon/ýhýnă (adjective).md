@@ -2,6 +2,8 @@
 freq: 54
 title: ýhýnă (adjective) - mouse-like, tiny (cute/fragile), jittery
 Word (Asaxi): ýhýnă
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: mouse-like, tiny (cute/fragile), jittery, timid, quietly (timidly), cowardly, nervously, inconspicuously
 trnsltion. Pl: mysi, malutki, płochliwy
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /ɪxɪnaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ý · hý · nă</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Behaviour]] / [[Smntc_Field Shapes & Dimensions]]

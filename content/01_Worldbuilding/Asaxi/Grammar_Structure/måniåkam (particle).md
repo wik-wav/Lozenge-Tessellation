@@ -1,6 +1,8 @@
 ---
 title: måniåkam (particle) - by the time that...
 Word (Asaxi): måniåkam
+pitch_accent: L.L.L
+pitch_accent_class: atonal
 trnsltion. En: by the time that...
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /mau̯ɲiɦau̯kam/ (Based on `å` = /au/)
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">må · niå · kam</span>
+- **Pattern:** `L · L · L`
+- **Class:** `atonal`
 
 ### Usage Note
 

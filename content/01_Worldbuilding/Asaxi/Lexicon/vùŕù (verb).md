@@ -2,6 +2,8 @@
 freq: 50
 title: vùŕù (verb) - to melt, to liquefy
 Word (Asaxi): vùŕù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to melt, to liquefy
 trnsltion. Pl: topnieć
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /b̪vɯɾɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vù · ŕù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to melt, to liquefy

@@ -2,6 +2,8 @@
 freq: 88
 title: jëgo (noun) - mountain
 Word (Asaxi): jëgo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: mountain
 trnsltion. Pl: góra
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /ʝeɪgo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">jë · go</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Geography (Topography)]]

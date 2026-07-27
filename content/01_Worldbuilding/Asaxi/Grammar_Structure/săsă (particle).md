@@ -1,6 +1,8 @@
 ---
 title: săsă (particle) - "All of", "Entire", "Whole", "The full extent".
 Word (Asaxi): săsă
+pitch_accent: L.L
+pitch_accent_class: atonal
 trnsltion. En: all of, the entire (thing), the whole of, the full extent of
 trnsltion. En 2: (not) at all, (not) any (with negation)
 trnsltion. Pl 2: wcale (nie), w ogóle (nie)
@@ -33,6 +35,12 @@ Can be used as a standalone word (`săsă`) or reduced to a prefix (`să-`) when
 ### Pronunciation
 
 IPA: /saɪsaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · să</span>
+- **Pattern:** `L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

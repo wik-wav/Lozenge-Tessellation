@@ -1,6 +1,8 @@
 ---
 title: no (pronoun) (particle) - you
 Word (Asaxi): no
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: you
 tags:
   - Asaxi
@@ -21,6 +23,12 @@ The pronoun `no` is a **second-person** singular nominative pronoun.
 ### Pronunciation
 
 IPA: /no/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">no</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Alternative Forms
 

@@ -1,5 +1,7 @@
 ---
 Word (Asaxi): ispăshá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: wild animal
 trnsltion. Pl: dzikie zwierzę
 tags:
@@ -20,6 +22,12 @@ title: ispăshá (noun) - wild animal
 
 ### Pronunciation
 IPA: /ispaɪʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · spă · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

@@ -2,6 +2,8 @@
 freq: 46
 title: ijwo (verb) - to perceive, to sense
 Word (Asaxi): ijwo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to perceive, to sense
 trnsltion. Pl: postrzegać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /ijʋo̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · jwo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to perceive, to sense

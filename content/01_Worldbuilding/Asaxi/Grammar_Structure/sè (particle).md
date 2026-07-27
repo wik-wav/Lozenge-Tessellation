@@ -1,6 +1,8 @@
 ---
 title: sè (particle) - sè (Particle)
 Word (Asaxi): sè
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: of X, belonging to X
 tags:
   - Asaxi
@@ -25,6 +27,12 @@ aliases:
 ### Pronunciation
 
 IPA: /sə/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sè</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentences
 

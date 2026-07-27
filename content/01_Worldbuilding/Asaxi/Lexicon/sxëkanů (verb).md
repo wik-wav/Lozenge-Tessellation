@@ -2,6 +2,8 @@
 freq: 42
 title: sxëkanů (verb) - to shear, to cut with shears
 Word (Asaxi): sxëkanů
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: to shear, to cut with shears
 trnsltion. Pl: strzyc
 Transitivity: monotransitive
@@ -30,6 +32,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /sɦeɪkanuu̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">sxë · ka · nů</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to shear, to cut with shears

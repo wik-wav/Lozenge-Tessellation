@@ -2,6 +2,8 @@
 freq: 41
 title: sătamni (noun) - unison, unanimity
 Word (Asaxi): sătamni
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: unison, unanimity
 trnsltion. Pl: jednomyślność, unisono
 tags:
@@ -23,6 +25,12 @@ tags:
 
 ### Pronunciation
 IPA: /saɪt̪amɲi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">să · tamni</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Behaviour|Smntc_Field Behavior]]

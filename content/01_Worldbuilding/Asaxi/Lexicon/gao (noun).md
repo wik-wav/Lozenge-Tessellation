@@ -2,6 +2,8 @@
 freq: 42
 title: gao (noun) - azure, blue (colour)
 Word (Asaxi): gao
+pitch_accent: L.H
+pitch_accent_class: lexical
 trnsltion. En: azure, blue (noun)
 trnsltion. Pl: błękit
 tags:
@@ -24,6 +26,12 @@ warm
 
 ### Pronunciation
 IPA: /ɡa.o/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ga · o</span>
+- **Pattern:** `L · H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]]

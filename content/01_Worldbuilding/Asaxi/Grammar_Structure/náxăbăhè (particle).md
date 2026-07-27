@@ -1,6 +1,8 @@
 ---
 title: náxăbăhè (particle) - To explicitly prohibit
 Word (Asaxi): náxăbăhè
+pitch_accent: L.L.L.L
+pitch_accent_class: atonal
 trnsltion. En: To explicitly prohibit
 tags:
   - Asaxi
@@ -41,6 +43,12 @@ A complex fusion of four particles creating a "Imperative of Negative Force."
 ### Pronunciation
 
 IPA: /nɑɦaɪbaɪxə/ 
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ná · xă · bă · hè</span>
+- **Pattern:** `L · L · L · L`
+- **Class:** `atonal`
 
 ### Example sentence
 

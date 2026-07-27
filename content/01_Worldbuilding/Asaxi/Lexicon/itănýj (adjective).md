@@ -2,6 +2,8 @@
 freq: 37
 title: itănýj (adjective) - tensed up, taut
 Word (Asaxi): itănýj
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: tensed up, taut, tight, anxious, stressed, stiff
 trnsltion. Pl: napięty
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /itaɪnɪj/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · tă · nýj</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Physics]] 

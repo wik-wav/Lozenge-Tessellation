@@ -2,6 +2,8 @@
 freq: 59
 title: iŕo (noun) - colour, hue
 Word (Asaxi): iŕo
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: colour, hue, color, pigment
 trnsltion. Pl: kolor, barwa
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /iɾo/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · ŕo</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Colours]] / Physics

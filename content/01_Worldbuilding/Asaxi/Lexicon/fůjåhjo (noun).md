@@ -1,6 +1,8 @@
 ---
 title: fůjåhjo (noun) - deceptive aim, anti-destiny
 Word (Asaxi): fůjåhjo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: deceptive aim, anti-destiny, false idol, destructive drive, a leading-astray
 trnsltion. Pl: zgubny cel, anty-przeznaczenie
 tags:
@@ -20,6 +22,12 @@ tags:
 
 ### Pronunciation
 IPA: /fuu̯jau̯ço/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">fů · jå · hjo</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Fate

@@ -2,6 +2,8 @@
 freq: 36
 title: ŕănabishá (noun) - gazelle
 Word (Asaxi): ŕănabishá
+pitch_accent: L.L.H.L
+pitch_accent_class: lexical
 trnsltion. En: gazelle
 trnsltion. Pl: gazela
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɾaɪnabɪʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">ŕă · na · bi · shá</span>
+- **Pattern:** `L · L · H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Animals]]

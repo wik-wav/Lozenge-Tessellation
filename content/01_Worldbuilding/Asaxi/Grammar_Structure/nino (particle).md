@@ -1,6 +1,8 @@
 ---
 title: nino (particle) - yourself
 Word (Asaxi): nino
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: yourself
 tags:
   - Asaxi
@@ -23,6 +25,12 @@ tags:
 ### Pronunciation
 
 IPA: /ɲino/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">nino</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentence
 

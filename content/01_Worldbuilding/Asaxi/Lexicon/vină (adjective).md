@@ -2,6 +2,8 @@
 freq: 63
 title: vină (adjective) - okay, alright
 Word (Asaxi): vină
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: okay, alright, fine
 trnsltion. Pl: w porządku, okej
 tags:
@@ -27,6 +29,12 @@ other class equivalent:
 
 ### Pronunciation
 IPA: /vinaɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">vi · nă</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]] / Value

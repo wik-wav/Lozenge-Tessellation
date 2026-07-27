@@ -1,6 +1,8 @@
 ---
 title: då (particle) - For, Indicates recipient (indirect object)
 Word (Asaxi): då
+pitch_accent: L
+pitch_accent_class: atonal
 trnsltion. En: For, Indicates recipient (indirect object)
 tags:
   - Asaxi
@@ -42,6 +44,12 @@ Therefore, you cannot use `då` to mark the target of a transitive verb like "se
 ### Pronunciation
 
 IPA: /dau̯/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">då</span>
+- **Pattern:** `L`
+- **Class:** `atonal`
 
 ### Example sentences
 

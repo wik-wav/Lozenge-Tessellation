@@ -2,6 +2,8 @@
 freq: 65
 title: cèpù (verb) - to guess, to suppose
 Word (Asaxi): cèpù
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to guess, to suppose
 trnsltion. Pl: zgadywać
 Transitivity: intransitive
@@ -33,6 +35,12 @@ _intransitive_
 
 ### Pronunciation
 IPA: /t̻͡s̪əpɯ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cè · pù</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to guess, to suppose

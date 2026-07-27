@@ -2,6 +2,8 @@
 freq: 49
 title: gotopo (noun) - hail (stone-rain)
 Word (Asaxi): gotopo
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: hail (stone-rain)
 trnsltion. Pl: grad
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /ɡo̞t̪o̞po̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">go · to · po</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Weather & Climate]]

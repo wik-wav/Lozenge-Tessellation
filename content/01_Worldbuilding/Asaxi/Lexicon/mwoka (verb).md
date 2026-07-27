@@ -2,6 +2,8 @@
 freq: 88
 title: mwoka (verb) - to kill, to slay
 Word (Asaxi): mwoka
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: to kill, to slay
 trnsltion. Pl: zabijać
 Transitivity: monotransitive
@@ -33,6 +35,12 @@ _monotransitive_
 
 ### Pronunciation
 IPA: /mʷo̞ka/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">mwo · ka</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to kill, to slay

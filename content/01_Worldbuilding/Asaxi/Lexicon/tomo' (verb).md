@@ -2,6 +2,8 @@
 freq: 69
 title: tomo' (verb) - stop, cease
 Word (Asaxi): tomo'
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: stop, cease, end, quit
 trnsltion. Pl: przestać, skończyć, zatrzymać (akcję)
 Transitivity: ambitransitive
@@ -33,6 +35,12 @@ Can be used intransitively ("The rain stops") or transitively ("I stop the car/p
 
 ### Pronunciation
 IPA: /t̪omoʔ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">to · mo'</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Translations
 - English: to stop (general), to cease, to quit, to end

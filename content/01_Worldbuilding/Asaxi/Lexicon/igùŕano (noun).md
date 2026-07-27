@@ -1,6 +1,8 @@
 ---
 title: igùŕano (noun) - toy, plaything
 Word (Asaxi): igùŕano
+pitch_accent: H.L.L.L
+pitch_accent_class: lexical
 trnsltion. En: toy, plaything
 trnsltion. Pl: zabawka
 tags:
@@ -24,6 +26,12 @@ tags:
 ### Pronunciation
 
 IPA: /iɡɯɾano̞/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">i · gù · ŕa · no</span>
+- **Pattern:** `H · L · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 

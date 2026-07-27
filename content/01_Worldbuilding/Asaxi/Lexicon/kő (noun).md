@@ -2,6 +2,8 @@
 freq: 60
 title: kő (noun) - understanding
 Word (Asaxi): kő
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: understanding
 trnsltion. Pl: zrozumienie
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /koɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">kő</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Emotion]]

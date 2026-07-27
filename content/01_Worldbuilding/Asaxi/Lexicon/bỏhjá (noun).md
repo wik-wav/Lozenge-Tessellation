@@ -2,6 +2,8 @@
 freq: 66
 title: bỏhjá (noun) - son
 Word (Asaxi): bỏhjá
+pitch_accent: H.L
+pitch_accent_class: lexical
 trnsltion. En: son
 trnsltion. Pl: syn
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /bou̯çɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bỏ · hjá</span>
+- **Pattern:** `H · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

@@ -2,6 +2,8 @@
 freq: 60
 title: cőcő (noun) - understanding, comprehension
 Word (Asaxi): cőcő
+pitch_accent: H.H
+pitch_accent_class: mixed
 trnsltion. En: understanding, comprehension, grasp, empathy
 trnsltion. Pl: zrozumienie, pojmowanie
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /t͡soɪt͡soɪ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">cő · cő</span>
+- **Pattern:** `H · H`
+- **Class:** `mixed`
 
 ### Semantic Field
 [[Smntc_Field Perception]] / Cognition

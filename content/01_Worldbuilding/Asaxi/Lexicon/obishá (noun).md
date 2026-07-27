@@ -2,6 +2,8 @@
 freq: 49
 title: obishá (noun) - neighbour (near-person)
 Word (Asaxi): obishá
+pitch_accent: H.L.L
+pitch_accent_class: lexical
 trnsltion. En: neighbour (near-person)
 trnsltion. Pl: sąsiad
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /o̞biʃɑ/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">o · bi · shá</span>
+- **Pattern:** `H · L · L`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Family]]

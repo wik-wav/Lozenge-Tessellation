@@ -2,6 +2,8 @@
 freq: 69
 title: bi (noun) - line, level
 Word (Asaxi): bi
+pitch_accent: H
+pitch_accent_class: lexical
 trnsltion. En: line, level, row, queue, boundary
 trnsltion. Pl: linia, poziom, rząd, granica
 tags:
@@ -22,6 +24,12 @@ tags:
 
 ### Pronunciation
 IPA: /bi/
+
+### Pitch Accent
+
+- **Morae:** <span class="asaxi-text">bi</span>
+- **Pattern:** `H`
+- **Class:** `lexical`
 
 ### Semantic Field
 [[Smntc_Field Shapes & Dimensions]]

@@ -1,0 +1,32 @@
+{
+  "api_base": "",
+  "authored_phrase_count": 0,
+  "developer_authoring_included": false,
+  "grammar_model": {
+    "change_count": 0,
+    "current_note_count": 295,
+    "current_source_digest": "c1ac56a366ccca3eddafb9954b2a9fb2b71c17e667eaa3653f2547af84cb0a2a",
+    "model_version": "0.3.0",
+    "note_count": 295,
+    "runtime_workbench_version": "0.5.14",
+    "source_snapshot_status": "current",
+    "status": "current",
+    "status_scope": "source-snapshot",
+    "updated_on": "2026-08-01",
+    "validated_source_digest": "c1ac56a366ccca3eddafb9954b2a9fb2b71c17e667eaa3653f2547af84cb0a2a",
+    "validated_with_translation_engine_version": "0.2.12",
+    "validated_with_workbench_version": "0.5.14"
+  },
+  "public_assets": [
+    "app.js",
+    "asaxi-language-db.json",
+    "assets/Asaxi-alphabet-Merriweather24pt-Medium.ttf",
+    "authored-phrases.public.json",
+    "config.js",
+    "index.html",
+    "styles.css"
+  ],
+  "schema_version": "1.0",
+  "translation_runtime": "api-required",
+  "workbench_version": "0.5.14"
+}

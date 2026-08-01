@@ -1,0 +1,30 @@
+.asaxi-workbench-embed {
+  width: 100%;
+  margin: 0;
+}
+
+.asaxi-workbench-embed iframe {
+  width: 100%;
+  min-height: 820px;
+  height: calc(100vh - 5rem);
+  max-height: 1120px;
+  display: block;
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
+  background: var(--light);
+}
+
+.asaxi-workbench-fallback {
+  margin: 0.5rem 0 0;
+  color: var(--gray);
+  font-size: 0.85rem;
+}
+
+@media (max-width: 800px) {
+  .asaxi-workbench-embed iframe {
+    min-height: 900px;
+    height: 100dvh;
+    border-inline: 0;
+    border-radius: 0;
+  }
+}

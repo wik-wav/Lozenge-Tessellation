@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Asaxi Workbench</title>
+    <script>
+      ;(() => {
+        try {
+          const saved = localStorage.getItem("asaxi-workbench-theme")
+          if (saved === "light" || saved === "dark") {
+            document.documentElement.setAttribute("saved-theme", saved)
+          }
+        } catch {}
+      })()
+    </script>
+    <script src="./config.js"></script>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div class="brand-lockup">
+          <h1>Asaxi Workbench</h1>
+          <p>local deterministic translator</p>
+        </div>
+        <div class="top-actions">
+          <span id="database-status" class="database-status"> Loading language database </span>
+          <button
+            type="button"
+            id="theme-toggle"
+            class="icon-button"
+            aria-label="Switch theme"
+            title="Switch theme"
+          >
+            ☾
+          </button>
+        </div>
+      </header>
+
+      <section class="workflow-band" aria-label="Translation controls">
+        <div class="direction-cluster">
+          <div class="segmented" role="group" aria-label="Translation direction">
+            <button
+              type="button"
+              class="direction-button is-active"
+              data-direction="asaxi-to-english"
+              aria-pressed="true"
+            >
+              Asaxi → English
+            </button>
+            <button
+              type="button"
+              class="direction-button"
+              data-direction="english-to-asaxi"
+              aria-pressed="false"
+            >
+              English → Asaxi
+            </button>
+          </div>
+          <button
+            type="button"
+            id="swap-button"
+            class="icon-button"
+            aria-label="Swap direction and use output as input"
+            title="Swap direction"
+          >
+            ⇄
+          </button>
+        </div>
+
+        <button type="button" id="translate-button" class="translate-button">
+          Translate <span class="shortcut">Ctrl ↵</span>
+        </button>
+
+        <div class="status-wrap">
+          <span
+            id="result-status"
+            class="status"
+            data-status="idle"
+            role="status"
+            aria-live="polite"
+            >Ready</span
+          >
+        </div>
+      </section>
+
+      <details id="phrasebook-disclosure" class="disclosure phrasebook-disclosure">
+        <summary>
+          <span class="chevron" aria-hidden="true">›</span>
+          <span class="summary-title phrasebook-title">
+            <span class="verified-mark" aria-hidden="true">✓</span>
+            Authored phrasebook
+          </span>
+          <span class="summary-current"> Human-authored and reviewed translations </span>
+          <span id="phrasebook-count" class="summary-count">0 entries</span>
+        </summary>
+        <div class="phrasebook-body">
+          <form id="phrase-search-form" class="phrase-search" role="search">
+            <label class="sr-only" for="phrase-search-input">
+              Search reviewed authored translations
+            </label>
+            <input
+              id="phrase-search-input"
+              type="search"
+              autocomplete="off"
+              placeholder="Search an authored phrase"
+            />
+            <button type="submit" class="secondary-command">Search</button>
+          </form>
+          <p id="phrase-search-scope" class="panel-intro">
+            Search follows the selected translation direction.
+          </p>
+          <div id="phrase-search-results" class="phrase-results" aria-live="polite"></div>
+        </div>
+      </details>
+
+      <div id="developer-extension-host" hidden></div>
+
+      <section class="editor-grid" aria-label="Translation editors">
+        <div class="editor-pane">
+          <div class="editor-heading">
+            <label id="source-label" for="source-text">Source · Asaxi</label>
+            <span id="source-count" class="editor-meta">0 chars</span>
+          </div>
+          <textarea
+            id="source-text"
+            class="editor asaxi-editor"
+            spellcheck="false"
+            placeholder="JOHN apo chỏnů."
+          ></textarea>
+          <div
+            id="source-romanization-row"
+            class="romanization-row"
+            aria-labelledby="source-romanization-accessible-label"
+          >
+            <span id="source-romanization-accessible-label" class="sr-only"> Romanization </span>
+            <span id="source-romanization-text"></span>
+          </div>
+          <div class="editor-foot">
+            <span>Complete document source</span>
+            <span id="selection-note">Select text to focus its clause</span>
+          </div>
+        </div>
+
+        <div class="editor-pane output-pane">
+          <div class="editor-heading">
+            <span id="output-label" class="editor-title">Output · English</span>
+            <div class="editor-actions">
+              <span id="output-count" class="editor-meta">0 chars</span>
+              <button
+                type="button"
+                id="copy-button"
+                class="icon-button compact"
+                aria-label="Copy complete output"
+                title="Copy output"
+              >
+                ⧉
+              </button>
+            </div>
+          </div>
+          <textarea
+            id="output-text"
+            class="editor"
+            readonly
+            aria-labelledby="output-label"
+          ></textarea>
+          <div
+            id="output-romanization-row"
+            class="romanization-row is-inactive"
+            aria-labelledby="output-romanization-accessible-label"
+          >
+            <span id="output-romanization-accessible-label" class="sr-only"> Romanization </span>
+            <span id="output-romanization-text"></span>
+          </div>
+          <div class="editor-foot">
+            <span>Interpretation choices update only the focused clause</span>
+            <span id="copy-feedback" aria-live="polite"></span>
+          </div>
+        </div>
+      </section>
+
+      <section id="diagnostics" class="diagnostics" hidden aria-live="polite"></section>
+
+      <details id="clause-focus-disclosure" class="disclosure clause-disclosure">
+        <summary>
+          <span class="chevron" aria-hidden="true">›</span>
+          <span class="summary-title">Clause focus</span>
+          <span id="clause-focus-current" class="summary-current"> No translated document </span>
+          <span id="clause-focus-count" class="summary-count">0 clauses</span>
+        </summary>
+        <div
+          id="clause-list"
+          class="choice-list clause-list"
+          role="radiogroup"
+          aria-label="Document clauses"
+        ></div>
+      </details>
+
+      <details id="interpretations-disclosure" class="disclosure" hidden>
+        <summary>
+          <span class="chevron" aria-hidden="true">›</span>
+          <span id="interpretations-heading" class="summary-title"> Interpretations </span>
+          <span id="interpretations-current" class="summary-current"></span>
+          <span id="interpretations-count" class="summary-count"></span>
+        </summary>
+        <div
+          id="interpretations-list"
+          class="choice-list interpretation-list"
+          role="radiogroup"
+          aria-label="Translation interpretations"
+        ></div>
+      </details>
+
+      <details id="interlinear-disclosure" class="disclosure" hidden>
+        <summary>
+          <span class="chevron" aria-hidden="true">›</span>
+          <span id="interlinear-heading" class="summary-title"> Interlinear gloss </span>
+          <span class="summary-current">Focused clause</span>
+          <span id="interlinear-count" class="summary-count">0 tokens</span>
+        </summary>
+        <div
+          id="interlinear-grid"
+          class="interlinear-grid"
+          tabindex="0"
+          aria-label="Interlinear gloss"
+        ></div>
+      </details>
+
+      <section class="analysis" aria-labelledby="analysis-heading">
+        <h2 id="analysis-heading" class="sr-only">Translation analysis</h2>
+        <p id="analysis-scope" class="analysis-scope">Analysis · no focused clause</p>
+        <div class="tabbar" role="tablist" aria-label="Analysis details">
+          <button
+            type="button"
+            id="tab-tokens"
+            class="tab is-active"
+            role="tab"
+            aria-selected="true"
+            aria-controls="tokens-panel"
+            data-tab="tokens"
+          >
+            Tokens &amp; morphology
+            <span id="token-count" class="tab-count">0</span>
+          </button>
+          <button
+            type="button"
+            id="tab-assumptions"
+            class="tab"
+            role="tab"
+            aria-selected="false"
+            aria-controls="assumptions-panel"
+            data-tab="assumptions"
+          >
+            Assumptions &amp; ambiguities
+            <span id="review-count" class="tab-count">0</span>
+          </button>
+          <button
+            type="button"
+            id="tab-trace"
+            class="tab"
+            role="tab"
+            aria-selected="false"
+            aria-controls="trace-panel"
+            data-tab="trace"
+          >
+            Grammar trace
+            <span id="trace-count" class="tab-count">0</span>
+          </button>
+          <button
+            type="button"
+            id="tab-json"
+            class="tab"
+            role="tab"
+            aria-selected="false"
+            aria-controls="json-panel"
+            data-tab="json"
+          >
+            Raw JSON
+          </button>
+        </div>
+
+        <div id="tokens-panel" class="tab-panel" role="tabpanel" aria-labelledby="tab-tokens">
+          <p class="panel-intro">
+            The focused clause keeps its roles, morphology, features, and provenance inspectable.
+          </p>
+          <div class="table-wrap" tabindex="0">
+            <table class="token-table">
+              <thead>
+                <tr>
+                  <th>Surface</th>
+                  <th>Role</th>
+                  <th>Lemma</th>
+                  <th>Morphemes</th>
+                  <th>Features</th>
+                  <th>Provenance</th>
+                </tr>
+              </thead>
+              <tbody id="token-rows">
+                <tr>
+                  <td colspan="6" class="empty">No analysis</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div
+          id="assumptions-panel"
+          class="tab-panel"
+          role="tabpanel"
+          aria-labelledby="tab-assumptions"
+          hidden
+        >
+          <p class="panel-intro">
+            Review items remain explicit; deterministic defaults are listed as assumptions rather
+            than hidden behind a score.
+          </p>
+          <div class="issue-columns">
+            <section>
+              <h3>Ambiguities</h3>
+              <div id="ambiguities-list" class="issue-list"></div>
+            </section>
+            <section>
+              <h3>Assumptions</h3>
+              <div id="assumptions-list" class="issue-list"></div>
+            </section>
+          </div>
+        </div>
+
+        <div id="trace-panel" class="tab-panel" role="tabpanel" aria-labelledby="tab-trace" hidden>
+          <ol id="trace-list" class="trace-list"></ol>
+        </div>
+
+        <div id="json-panel" class="tab-panel" role="tabpanel" aria-labelledby="tab-json" hidden>
+          <pre id="json-output">No translation result</pre>
+        </div>
+      </section>
+    </main>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>

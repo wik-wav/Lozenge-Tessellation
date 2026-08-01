@@ -14,6 +14,10 @@ export const sharedPageComponents: SharedLayout = {
       component: Component.GrammarBook(),
       condition: (page) => page.fileData.slug === "grammar",
     }),
+    Component.ConditionalRender({
+      component: Component.AsaxiWorkbench(),
+      condition: (page) => page.fileData.slug === "workbench",
+    }),
   ],
   footer: Component.Footer({
     links: {
@@ -51,14 +55,12 @@ export const defaultContentPageLayout: PageLayout = {
       buttons: [
         { title: "📖  Lexicon Browser", slug: "lexicon", accent: true },
         { title: "📘  Grammar Book", slug: "grammar" },
+        { title: "⌨  Asaxi Workbench", slug: "workbench" },
       ],
     }),
     Component.Explorer(),
   ],
-  right: [
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [Component.DesktopOnly(Component.TableOfContents()), Component.Backlinks()],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -80,6 +82,7 @@ export const defaultListPageLayout: PageLayout = {
       buttons: [
         { title: "📖  Lexicon Browser", slug: "lexicon", accent: true },
         { title: "📘  Grammar Book", slug: "grammar" },
+        { title: "⌨  Asaxi Workbench", slug: "workbench" },
       ],
     }),
     Component.Explorer(),

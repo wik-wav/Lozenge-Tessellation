@@ -26,6 +26,7 @@ import ConditionalRender from "./ConditionalRender"
 import LexiconBrowser from "./LexiconBrowser"
 import NavButtons from "./NavButtons"
 import GrammarBook from "./GrammarBook"
+import AsaxiWorkbench from "./AsaxiWorkbench"
 
 export {
   ArticleTitle,
@@ -56,4 +57,5 @@ export {
   LexiconBrowser,
   NavButtons,
   GrammarBook,
+  AsaxiWorkbench,
 }

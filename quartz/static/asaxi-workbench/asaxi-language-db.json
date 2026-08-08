@@ -34911,7 +34911,7 @@
       "linked_notes": [
         "00_Structural Sets in Asaxi",
         "06_Verbs in Asaxi",
-        "chå (Particle)\\",
+        "chå (particle)\\",
         "na- (relational locative) (particle)\\",
         "ni- (particle)\\",
         "tå- (Semelfactive Prefix)\\"
@@ -34920,7 +34920,7 @@
       "source": {
         "line": null,
         "path": "01_Worldbuilding/Asaxi/Grammar_Structure/16_Verbs_Aspectual Distinction (Root vs. Ů).md",
-        "sha256": "c309efa32440ec74c31906723162eb48dbfdfa567660b2e5e6d1f006b1e693de"
+        "sha256": "fe28fdee2866c64c1b5b6bcde787eac808a7d7ec079721647fa4b29f6683b056"
       },
       "status": "confirmed",
       "tags": [
@@ -36241,13 +36241,13 @@
         "chěná (particle)",
         "jhaná (particle)",
         "ná (particle)",
-        "ná (Particle)\\",
+        "ná (particle)\\",
         "náxănåsi (particle)",
         "nåsi (particle)",
         "panå (particle)",
-        "pxů (Particle)\\",
-        "vi (Particle)\\",
-        "xă (Particle)\\"
+        "pxů (particle)\\",
+        "vi (particle)\\",
+        "xă (particle)\\"
       ],
       "proposed_sections": [
         "6. Answering Negative Questions (Proposed Rule)"
@@ -36255,7 +36255,7 @@
       "source": {
         "line": null,
         "path": "01_Worldbuilding/Asaxi/Grammar_Structure/60_Negation in Asaxi.md",
-        "sha256": "a0c5541b4324aed8546c85a821aa0f37d6cce13cc721a71acca49a7aa9f7615d"
+        "sha256": "95fef18295b9fc1329a9dde10436b262c416d5a8c91d1b646d2d0bc2a0809050"
       },
       "status": "proposed",
       "tags": [
@@ -36560,7 +36560,7 @@
   "grammar_model": {
     "changes": [],
     "current_note_count": 295,
-    "current_source_digest": "9ea497b9e57d824f3bcfa10653cc61c8e7b8ed77a4d5af60ccca4ef58c0b75d2",
+    "current_source_digest": "54bc074c033484ff83eea4d91489870581836c6fa4b7026854d7e1df7bd2ee87",
     "model_version": "0.3.1",
     "note_count": 295,
     "notes": [
@@ -36706,7 +36706,7 @@
       },
       {
         "path": "01_Worldbuilding/Asaxi/Grammar_Structure/16_Verbs_Aspectual Distinction (Root vs. Ů).md",
-        "sha256": "c309efa32440ec74c31906723162eb48dbfdfa567660b2e5e6d1f006b1e693de"
+        "sha256": "fe28fdee2866c64c1b5b6bcde787eac808a7d7ec079721647fa4b29f6683b056"
       },
       {
         "path": "01_Worldbuilding/Asaxi/Grammar_Structure/18_Argument Structure & Valency.md",
@@ -36874,7 +36874,7 @@
       },
       {
         "path": "01_Worldbuilding/Asaxi/Grammar_Structure/60_Negation in Asaxi.md",
-        "sha256": "a0c5541b4324aed8546c85a821aa0f37d6cce13cc721a71acca49a7aa9f7615d"
+        "sha256": "95fef18295b9fc1329a9dde10436b262c416d5a8c91d1b646d2d0bc2a0809050"
       },
       {
         "path": "01_Worldbuilding/Asaxi/Grammar_Structure/61_Prosody, Stress & Intonation.md",
@@ -37750,7 +37750,7 @@
     "status": "current",
     "status_scope": "source-snapshot",
     "updated_on": "2026-08-08",
-    "validated_source_digest": "9ea497b9e57d824f3bcfa10653cc61c8e7b8ed77a4d5af60ccca4ef58c0b75d2",
+    "validated_source_digest": "54bc074c033484ff83eea4d91489870581836c6fa4b7026854d7e1df7bd2ee87",
     "validated_with_translation_engine_version": "0.2.13",
     "validated_with_workbench_version": "0.5.15"
   },
@@ -110558,7 +110558,7 @@
         "derived_terms": [],
         "roots": [
           "ko (distal locative) (particle)",
-          "pa (Noun)"
+          "pa (noun)"
         ]
       },
       "frequency": null,
@@ -110631,7 +110631,7 @@
       "source": {
         "line": null,
         "path": "01_Worldbuilding/Asaxi/Lexicon/kopa (noun).md",
-        "sha256": "4d6514b64a2066a48b3d049bf452293a68a055a2acd183b8392707f5c33e50d1"
+        "sha256": "7e7576705c39d56d672032f3ac79ad85c9b54752a6a69db76d819a43524e450b"
       },
       "source_category": "noun",
       "status": "confirmed",
@@ -110724,7 +110724,7 @@
         ],
         "roots": [
           "ko (distal locative) (particle)",
-          "zè (Noun)"
+          "zè (noun)"
         ]
       },
       "frequency": 43,
@@ -110797,7 +110797,7 @@
       "source": {
         "line": null,
         "path": "01_Worldbuilding/Asaxi/Lexicon/kozè (noun).md",
-        "sha256": "212ebbf557127df0be5fbec527c8c8d0afdbc93286dffb2423494d43adeeef3a"
+        "sha256": "175c7700a0a71406535e739c58db9a13eb04dba30396b1abc00f7663e530bfee"
       },
       "source_category": "noun",
       "status": "confirmed",
@@ -139210,7 +139210,7 @@
         "derived_terms": [],
         "roots": [
           "o (proximal locative) (particle)",
-          "pa (Noun)"
+          "pa (noun)"
         ]
       },
       "frequency": null,
@@ -139283,7 +139283,7 @@
       "source": {
         "line": null,
         "path": "01_Worldbuilding/Asaxi/Lexicon/opa (noun).md",
-        "sha256": "5e8418ff713345f08a1b907e7e74475cf8cafc2111870d58f02f146d496ee530"
+        "sha256": "52d9ef663b02f9c998467f7b9360d901ced8b110224f4fcdc34a6416f5884b1a"
       },
       "source_category": "noun",
       "status": "confirmed",
@@ -199340,7 +199340,7 @@
       "source": {
         "line": null,
         "path": "01_Worldbuilding/Asaxi/Lexicon/zè (noun).md",
-        "sha256": "026c3b2b13c5fccd38d19d2910431b44418b600cb9dc1aabe18a6f171a6cb4c1"
+        "sha256": "f0e805bb87fdee71483abb07bdcf9bfe3af49d3fb964c84e63f49f8bf603f95f"
       },
       "source_category": "noun",
       "status": "confirmed",
@@ -219557,7 +219557,7 @@
   ],
   "schema_version": "0.4.0-provisional",
   "source": {
-    "digest": "d520310039335c7733727a625107880e74b8db6692862a291c2d8d33a861ef6d",
+    "digest": "593e6e3919db82b945291c640d7f41fbfda889f981caf94e93c27a8727242158",
     "kind": "authoritative-obsidian-vault"
   },
   "statistics": {

@@ -1,0 +1,4 @@
+Pyodide 0.29.4
+SPDX-License-Identifier: MPL-2.0
+Project: https://github.com/pyodide/pyodide
+License: https://www.mozilla.org/MPL/2.0/

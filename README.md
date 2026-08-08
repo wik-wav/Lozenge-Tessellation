@@ -44,12 +44,12 @@ The left navigation places **Asaxi Translator** directly below **Grammar
 Book**. The `/translator` page embeds the public Workbench bundle from
 `quartz/static/asaxi-workbench/`.
 
-The static bundle intentionally supports verified authored-phrase search but
-does not ship a second, reduced grammar implementation. Full translation and
-analysis require the local Python Workbench API or a future behaviorally
-equivalent deployed service. Re-export the public bundle through the central
-font updater above, or directly from the Workbench tooling, before publishing
-translator changes.
+The static bundle includes verified authored-phrase search and the same Python
+Workbench translator under a pinned, self-hosted Pyodide runtime. Translation
+runs in a background worker; developer phrase authoring remains local-only.
+Re-export the public bundle through the central font updater above before
+publishing translator or font changes. Pyodide's MPL-2.0 notice is published
+in `quartz/static/asaxi-workbench/THIRD_PARTY_NOTICES.txt`.
 
 After building, validate all generated local links and embedded assets:
 
@@ -79,6 +79,8 @@ missing files, rejects symlinks, and does not delete target-only files unless
 
 `npx quartz sync` is Quartz's Git publication command. It does **not**
 synchronize the authoritative local Obsidian vault into `content/`.
+The synchronization check also rejects case-only Git-index drift, which would
+otherwise produce broken links after a Windows build is deployed to Linux.
 
 To preview the site locally or make structural changes:
 

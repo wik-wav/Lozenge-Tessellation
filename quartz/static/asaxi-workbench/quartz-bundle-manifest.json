@@ -1,11 +1,12 @@
 {
   "api_base": "",
+  "asset_version": "0f0946455a34",
   "authored_phrase_count": 0,
   "developer_authoring_included": false,
   "grammar_model": {
     "change_count": 0,
     "current_note_count": 295,
-    "current_source_digest": "9ea497b9e57d824f3bcfa10653cc61c8e7b8ed77a4d5af60ccca4ef58c0b75d2",
+    "current_source_digest": "54bc074c033484ff83eea4d91489870581836c6fa4b7026854d7e1df7bd2ee87",
     "model_version": "0.3.1",
     "note_count": 295,
     "runtime_workbench_version": "0.5.15",
@@ -13,20 +14,29 @@
     "status": "current",
     "status_scope": "source-snapshot",
     "updated_on": "2026-08-08",
-    "validated_source_digest": "9ea497b9e57d824f3bcfa10653cc61c8e7b8ed77a4d5af60ccca4ef58c0b75d2",
+    "validated_source_digest": "54bc074c033484ff83eea4d91489870581836c6fa4b7026854d7e1df7bd2ee87",
     "validated_with_translation_engine_version": "0.2.13",
     "validated_with_workbench_version": "0.5.15"
   },
   "public_assets": [
+    "THIRD_PARTY_NOTICES.txt",
     "app.js",
     "asaxi-language-db.json",
+    "asaxi-runtime.zip",
     "assets/Asaxi-alphabet-Merriweather24pt-Medium.ttf",
     "authored-phrases.public.json",
+    "browser-worker.js",
     "config.js",
     "index.html",
+    "pyodide/pyodide-lock.json",
+    "pyodide/pyodide.asm.js",
+    "pyodide/pyodide.asm.wasm",
+    "pyodide/pyodide.js",
+    "pyodide/python_stdlib.zip",
     "styles.css"
   ],
+  "pyodide_version": "0.29.4",
   "schema_version": "1.0",
-  "translation_runtime": "api-required",
+  "translation_runtime": "browser-python",
   "workbench_version": "0.5.15"
 }

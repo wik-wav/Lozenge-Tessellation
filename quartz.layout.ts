@@ -14,11 +14,6 @@ export const sharedPageComponents: SharedLayout = {
       component: Component.GrammarBook(),
       condition: (page) => page.fileData.slug === "grammar",
     }),
-    Component.ConditionalRender({
-      component: Component.AsaxiWorkbench(),
-      condition: (page) =>
-        page.fileData.slug === "translator" || page.fileData.slug === "workbench",
-    }),
   ],
   footer: Component.Footer({
     links: {
@@ -38,6 +33,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.AsaxiWorkbench(),
+      condition: (page) =>
+        page.fileData.slug === "translator" || page.fileData.slug === "workbench",
+    }),
   ],
   left: [
     Component.PageTitle(),

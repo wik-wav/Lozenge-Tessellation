@@ -12,7 +12,10 @@ Navigation:
  
 - - - 
 
-Romanized Asaxi is always written in lower case. The straight apostrophe in
+Romanized Asaxi common vocabulary and grammatical material are written in
+lower case. Proper nouns and proper names, place names, and borrowed terms are
+written as whole tokens in capitals; see
+[[00_Asaxi Orthography & Punctuation Standard]]. The straight apostrophe in
 the romanization is the phonemic glottal stop /ʔ/, not a quotation mark.
 
 # Phonemes

@@ -1,7 +1,7 @@
 ---
 title: ni- (particle) - To start to, to begin
 Word (Asaxi): ni-
-pitch_accent: none
+pitch_accent: L
 pitch_accent_class: atonal
 trnsltion. En: To start to, to begin; marks the beginning of an action or the entry into a state.
 tags:
@@ -39,7 +39,7 @@ IPA: /ni/
 ### Pitch Accent
 
 - **Morae:** <span class="asaxi-text">ni</span>
-- **Pattern:** `none`
+- **Pattern:** `L`
 - **Class:** `atonal`
 
 ### Example sentence

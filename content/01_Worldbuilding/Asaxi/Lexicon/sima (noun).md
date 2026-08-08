@@ -2,7 +2,7 @@
 freq: 63
 title: sima (noun) - island
 Word (Asaxi): sima
-pitch_accent: H
+pitch_accent: H.H
 pitch_accent_class: lexical
 trnsltion. En: island
 trnsltion. Pl: wyspa
@@ -28,8 +28,8 @@ IPA: /ɕima/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">sima</span>
-- **Pattern:** `H`
+- **Morae:** <span class="asaxi-text">si · ma</span>
+- **Pattern:** `H · H`
 - **Class:** `lexical`
 
 ### Semantic Field

@@ -1,6 +1,6 @@
 ---
 Word (Asaxi): náxănåsi
-pitch_accent: L.L.L
+pitch_accent: L.L.L.L
 pitch_accent_class: atonal
 trnsltion. En: Absolutely never
 tags:
@@ -44,8 +44,8 @@ IPA: /nɑɦaɪnau̯ɕi/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">ná · xă · nåsi</span>
-- **Pattern:** `L · L · L`
+- **Morae:** <span class="asaxi-text">ná · xă · nå · si</span>
+- **Pattern:** `L · L · L · L`
 - **Class:** `atonal`
 
 ### Example sentence

@@ -15,6 +15,8 @@ This repository hosts the source content and configuration for **The Lozenge Tes
 
 Quartz embeds the single real Medium face of **Asaxi Merriweather 24pt**
 from `quartz/static/fonts/Asaxi-alphabet-Merriweather24pt-Medium.ttf`.
+The OpenType typographic family is `Asaxi Merriweather 24pt`; its full face
+name is `Asaxi Merriweather 24pt Medium`.
 `quartz/styles/custom.scss` applies it only to semantic Asaxi text:
 
 - `.asaxi-script-alpha`
@@ -25,6 +27,37 @@ from `quartz/static/fonts/Asaxi-alphabet-Merriweather24pt-Medium.ttf`.
 The face has no separate bold or italic files. The stylesheet therefore
 disables synthetic bold and italic for these selectors. English and Polish
 prose continue to use the site theme fonts.
+
+To publish a new alphabet font export everywhere, place it at the documented
+FontLab export location and run the central updater:
+
+```powershell
+py -3.14 -X utf8 D:\wyash\Documents\Lozenge-T-Vault\99_Tools\font_manager\update_asaxi_font.py
+```
+
+The same updater is prepared for an optional future `AsaxiAbugida.ttf`. Use
+`--check` for a read-only checksum and identity audit.
+
+## Asaxi Translator
+
+The left navigation places **Asaxi Translator** directly below **Grammar
+Book**. The `/translator` page embeds the public Workbench bundle from
+`quartz/static/asaxi-workbench/`.
+
+The static bundle intentionally supports verified authored-phrase search but
+does not ship a second, reduced grammar implementation. Full translation and
+analysis require the local Python Workbench API or a future behaviorally
+equivalent deployed service. Re-export the public bundle through the central
+font updater above, or directly from the Workbench tooling, before publishing
+translator changes.
+
+After building, validate all generated local links and embedded assets:
+
+```powershell
+py -3.14 -X utf8 D:\wyash\Documents\Lozenge-T-Vault\99_Tools\check_quartz_links.py `
+  D:\wyash\Documents\HTML\Lozenge_Vault\quartz\public `
+  --base-path lozenge-tessellation
+```
 
 ## Local Development
 

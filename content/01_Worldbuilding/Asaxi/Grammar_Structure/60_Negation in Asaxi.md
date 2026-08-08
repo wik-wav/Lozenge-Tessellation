@@ -57,10 +57,10 @@ Use `fů-` when the absence itself is the topic; use `ná` when denying a propos
 
 | Word | Register | Meaning |
 | --- | --- | --- |
-| **[[xă (Particle)\|xă]]** | Neutral | "Yes / It is so." |
-| **[[ná (Particle)\|ná]]** | Neutral | "No / Not so." |
-| **[[vi (Particle)\|vi]]** | Casual | "OK / Fine / Will do." (agreement to a request) |
-| **[[pxů (Particle)\|pxů]]** | Casual | "Nope / I refuse." |
+| **[[xă (particle)\|xă]]** | Neutral | "Yes / It is so." |
+| **[[ná (particle)\|ná]]** | Neutral | "No / Not so." |
+| **[[vi (particle)\|vi]]** | Casual | "OK / Fine / Will do." (agreement to a request) |
+| **[[pxů (particle)\|pxů]]** | Casual | "Nope / I refuse." |
 
 ## 6. Answering Negative Questions (Proposed Rule)
 

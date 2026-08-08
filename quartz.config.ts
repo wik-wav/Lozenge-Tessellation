@@ -17,7 +17,15 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "wik-wav.github.io/lozenge-tessellation",
-    ignorePatterns: ["private", ".obsidian", "Wip", "00_Templates", "99_Tools", "anki-assets", "Story"],
+    ignorePatterns: [
+      "private",
+      ".obsidian",
+      "Wip",
+      "00_Templates",
+      "99_Tools",
+      "anki-assets",
+      "Story",
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -66,7 +74,9 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({
+        enableInHtmlEmbed: false,
+      }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
@@ -90,7 +100,9 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Keep routine local builds fast and deterministic. Social cards can be
+      // re-enabled for a dedicated release build when they are needed.
+      // Plugin.CustomOgImages(),
     ],
   },
 }

@@ -2,7 +2,7 @@
 freq: 51
 title: sipỏ (noun) - silk (fine fibre)
 Word (Asaxi): sipỏ
-pitch_accent: H
+pitch_accent: H.H
 pitch_accent_class: lexical
 trnsltion. En: silk (fine fibre)
 trnsltion. Pl: jedwab
@@ -27,8 +27,8 @@ IPA: /sipou̯/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">sipỏ</span>
-- **Pattern:** `H`
+- **Morae:** <span class="asaxi-text">si · pỏ</span>
+- **Pattern:** `H · H`
 - **Class:** `lexical`
 
 ### Semantic Field

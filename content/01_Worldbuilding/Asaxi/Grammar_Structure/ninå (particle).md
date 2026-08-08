@@ -1,7 +1,7 @@
 ---
 title: ninå (particle) - Therefore
 Word (Asaxi): ninå
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: " Therefore"
 tags:
@@ -41,8 +41,8 @@ IPA: /ɲinau̯/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">ninå</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">ni · nå</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Example sentence

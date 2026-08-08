@@ -2,7 +2,7 @@
 freq: 68
 title: niŕù (verb) - to become, to turn into
 Word (Asaxi): niŕù
-pitch_accent: H
+pitch_accent: H.H
 pitch_accent_class: lexical
 trnsltion. En: to become, to turn into
 trnsltion. Pl: stawać się
@@ -38,8 +38,8 @@ IPA: /niɾɯ/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">niŕù</span>
-- **Pattern:** `H`
+- **Morae:** <span class="asaxi-text">ni · ŕù</span>
+- **Pattern:** `H · H`
 - **Class:** `lexical`
 
 ### Translations

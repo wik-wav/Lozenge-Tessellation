@@ -1,7 +1,7 @@
 ---
 title: wănani (particle) - "Many", "Numerous", "A lot of".
 Word (Asaxi): wănani
-pitch_accent: L.L
+pitch_accent: L.L.L
 pitch_accent_class: atonal
 trnsltion. En: '"Many", "Numerous", "A lot of".'
 tags:
@@ -36,8 +36,8 @@ IPA: /waɪnaɲi/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">wă · nani</span>
-- **Pattern:** `L · L`
+- **Morae:** <span class="asaxi-text">wă · na · ni</span>
+- **Pattern:** `L · L · L`
 - **Class:** `atonal`
 
 ### Example sentence

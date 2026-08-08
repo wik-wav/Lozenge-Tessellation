@@ -1,7 +1,7 @@
 ---
 title: dåni (particle) - "To", "Towards (a recipient)".
 Word (Asaxi): dåni
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: To, Towards (a recipient)
 tags:
@@ -42,8 +42,8 @@ IPA: /dauɲi/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">dåni</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">då · ni</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Example sentence

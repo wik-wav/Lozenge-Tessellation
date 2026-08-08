@@ -1,7 +1,7 @@
 ---
 title: găxăni (particle) - "Forever", "For eternity", "Into infinity", "Endlessly".
 Word (Asaxi): găxăni
-pitch_accent: L.L
+pitch_accent: L.L.L
 pitch_accent_class: atonal
 trnsltion. En: forever
 tags:
@@ -38,8 +38,8 @@ IPA: /gaɪɦaɪɲi/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">gă · xăni</span>
-- **Pattern:** `L · L`
+- **Morae:** <span class="asaxi-text">gă · xă · ni</span>
+- **Pattern:** `L · L · L`
 - **Class:** `atonal`
 
 ### Example sentence

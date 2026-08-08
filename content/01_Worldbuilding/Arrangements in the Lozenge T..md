@@ -7,7 +7,7 @@ title: Arrangements in the Lozenge T.
 ---
 # Arrangements
 
-**Arrangements** in the [[The Lozenge Tessellation|Lozenge T.]] are the cycles experienced by the Dreamer and [[Natures of Projections in the Lozenge Tessellation|Projections]]. They progress through phases which mirror the intensity of various stages of sleep.
+**Arrangements** in the [[The Lozenge Tessellation|Lozenge T.]] are the cycles experienced by the Dreamer and its [[The Lozenge Tessellation|Projections]]. They progress through phases which mirror the intensity of various stages of sleep.
 
 ## Arrangement Phases:
 

@@ -9,12 +9,12 @@ export default (() => {
       <section class={classNames(displayClass, "asaxi-workbench-embed")}>
         <iframe
           src="./static/asaxi-workbench/index.html"
-          title="Asaxi translation and phrase workbench"
+          title="Asaxi Translator"
           allow="clipboard-write"
         />
         <p class="asaxi-workbench-fallback">
           If the embedded tool does not load,{" "}
-          <a href="./static/asaxi-workbench/index.html">open Asaxi Workbench directly</a>.
+          <a href="./static/asaxi-workbench/index.html">open Asaxi Translator directly</a>.
         </p>
       </section>
     )

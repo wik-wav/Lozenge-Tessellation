@@ -1,7 +1,7 @@
 ---
 title: gőnigő (particle) - Each other
 Word (Asaxi): gőnigő
-pitch_accent: L.L
+pitch_accent: L.L.L
 pitch_accent_class: atonal
 trnsltion. En: Each other
 tags:
@@ -32,8 +32,8 @@ IPA: /ɡoɪɲiɡoɪ/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">gő · nigő</span>
-- **Pattern:** `L · L`
+- **Morae:** <span class="asaxi-text">gő · ni · gő</span>
+- **Pattern:** `L · L · L`
 - **Class:** `atonal`
 
 ### Example sentence

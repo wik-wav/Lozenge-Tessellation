@@ -57,7 +57,7 @@ Nominalization of the **[[zè (particle)|zè-]]** (Past Tense Prefix).
 Null
 
 ### Antonyms
-- **[[pa (Noun)|pa]]** (The Future).
+- **[[pa (noun)|pa]]** (The Future).
 
 ### Derived terms
 - **kozè** (Distant Past).

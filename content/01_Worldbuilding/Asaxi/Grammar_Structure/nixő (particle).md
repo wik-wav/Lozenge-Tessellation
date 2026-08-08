@@ -1,7 +1,7 @@
 ---
 title: nixő (particle) - himself
 Word (Asaxi): nixő
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: himself
 tags:
@@ -28,8 +28,8 @@ IPA: /ɲiɦoɪ/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">nixő</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">ni · xő</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Example sentence

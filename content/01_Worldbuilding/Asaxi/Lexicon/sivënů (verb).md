@@ -1,7 +1,7 @@
 ---
 title: sivënů (verb) - to show off, to display confidence
 Word (Asaxi): sivënů
-pitch_accent: H.L
+pitch_accent: H.H.L
 pitch_accent_class: lexical
 trnsltion. En: to show off, to display confidence
 trnsltion. Pl: popisywać się
@@ -33,8 +33,8 @@ IPA: /ɕiveɪnuu̯/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">sivë · nů</span>
-- **Pattern:** `H · L`
+- **Morae:** <span class="asaxi-text">si · vë · nů</span>
+- **Pattern:** `H · H · L`
 - **Class:** `lexical`
 
 ### Translations

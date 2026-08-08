@@ -5,17 +5,17 @@
   "grammar_model": {
     "change_count": 0,
     "current_note_count": 295,
-    "current_source_digest": "c1ac56a366ccca3eddafb9954b2a9fb2b71c17e667eaa3653f2547af84cb0a2a",
-    "model_version": "0.3.0",
+    "current_source_digest": "9ea497b9e57d824f3bcfa10653cc61c8e7b8ed77a4d5af60ccca4ef58c0b75d2",
+    "model_version": "0.3.1",
     "note_count": 295,
-    "runtime_workbench_version": "0.5.14",
+    "runtime_workbench_version": "0.5.15",
     "source_snapshot_status": "current",
     "status": "current",
     "status_scope": "source-snapshot",
-    "updated_on": "2026-08-01",
-    "validated_source_digest": "c1ac56a366ccca3eddafb9954b2a9fb2b71c17e667eaa3653f2547af84cb0a2a",
-    "validated_with_translation_engine_version": "0.2.12",
-    "validated_with_workbench_version": "0.5.14"
+    "updated_on": "2026-08-08",
+    "validated_source_digest": "9ea497b9e57d824f3bcfa10653cc61c8e7b8ed77a4d5af60ccca4ef58c0b75d2",
+    "validated_with_translation_engine_version": "0.2.13",
+    "validated_with_workbench_version": "0.5.15"
   },
   "public_assets": [
     "app.js",
@@ -28,5 +28,5 @@
   ],
   "schema_version": "1.0",
   "translation_runtime": "api-required",
-  "workbench_version": "0.5.14"
+  "workbench_version": "0.5.15"
 }

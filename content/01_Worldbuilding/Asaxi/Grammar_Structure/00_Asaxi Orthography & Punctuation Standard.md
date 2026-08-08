@@ -13,16 +13,26 @@ Vocab Forge, Anki exports, and other generated material.
 
 ## Letter Case
 
-Asaxi is written exclusively in lower case. This includes:
+Asaxi common vocabulary and grammatical material are written in lower case.
+Sentence beginnings, quoted speech, headings written in Asaxi, example
+sentences, and isolated common words do not receive automatic capitalization.
 
-- the beginning of a sentence;
-- names and other proper nouns;
-- quoted speech;
-- headings written in Asaxi;
-- example sentences and isolated words.
+The following lexical categories are written in **full capitals**:
+
+- proper nouns and proper names, including personal names;
+- place names;
+- borrowed terms.
+
+This is whole-token capitalization rather than English-style title case.
+Every letter with a case distinction is capitalized, while diacritics and the
+phonemic glottal-stop apostrophe are preserved. For example, a personal name
+is written `JOHN`, not `John`, and the borrowed term `mimi` is written `MIMI`.
+Productive Asaxi material attached within the same orthographic word follows
+the word's capital treatment. Mixed-case Asaxi words are therefore
+non-standard.
 
 The English proper name **Asaxi** keeps its capital letter when it occurs in
-English prose. The Asaxi-language form is `asaxi`.
+English prose. As a proper name in Asaxi text, it is written `ASAXI`.
 
 Upper-case interlinear gloss abbreviations such as `TOP`, `PST`, and `SOV`
 belong to the metalanguage, not to Asaxi orthography, and remain upper case.
@@ -81,18 +91,19 @@ The current alphabet font is a single real Medium weight:
 | Name field | Value |
 |---|---|
 | Full name | Asaxi Merriweather 24pt Medium |
-| PostScript name | Asaxi Merriweather24pt-Medium |
+| PostScript name | AsaxiMerriweather24pt-Medium |
 | Style group | Asaxi Merriweather 24pt Med |
-| Family name | Merriweather 24pt |
+| Typographic family | Asaxi Merriweather 24pt |
+| Typographic subfamily | Medium |
 | Available weight | Medium only |
 
 The vault embeds the font as:
 
-`anki-assets/fonts/AsaxiMerriweather24pt-Medium.ttf`
+`anki-assets/fonts/Asaxi-alphabet-Merriweather24pt-Medium.ttf`
 
 Its SHA-256 checksum is:
 
-`300F36635987853F4FBB07A68A8C93E48B4EC8AE8386DF2AFA7242D35E8D40CF`
+`D021B123A7C739CA2C8607AC4CF5A95FBE33ED2D48172B5090BFA25851B27868`
 
 Obsidian loads it through the enabled `fonts.css` snippet. Use the
 `asaxi-text` class or `lang="art-x-asaxi"` only on Asaxi text. Font synthesis
@@ -108,7 +119,11 @@ English and Polish site prose retains the theme typography.
 
 Vocab Forge:
 
-- lowercases only fields explicitly identified as Asaxi;
+- lowercases ordinary native Asaxi vocabulary and grammatical material;
+- preserves or enforces full capitals for entries explicitly classified as
+  proper nouns, proper names, place names, or borrowed terms;
+- does not guess a lexical case category from capitalization alone during
+  legacy migration;
 - preserves case in English, Polish, IPA, and explanatory prose;
 - keeps Asaxi, English, and Polish examples in separate controls;
 - converts legacy quotation marks to the approved Asaxi forms;

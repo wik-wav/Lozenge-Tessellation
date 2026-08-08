@@ -2,7 +2,7 @@
 freq: 37
 title: niŕo (verb) - to submerge
 Word (Asaxi): niŕo
-pitch_accent: H
+pitch_accent: H.H
 pitch_accent_class: lexical
 trnsltion. En: to immerse, to submerge, to dip, to dive into
 trnsltion. Pl: zanurkowac
@@ -37,8 +37,8 @@ IPA: /ɲiɾo/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">niŕo</span>
-- **Pattern:** `H`
+- **Morae:** <span class="asaxi-text">ni · ŕo</span>
+- **Pattern:** `H · H`
 - **Class:** `lexical`
 
 ### Translations

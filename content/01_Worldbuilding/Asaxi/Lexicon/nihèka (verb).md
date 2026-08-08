@@ -2,7 +2,7 @@
 freq: 60
 title: nihèka (verb) - to begin, to start
 Word (Asaxi): nihèka
-pitch_accent: H.L
+pitch_accent: H.H.L
 pitch_accent_class: lexical
 trnsltion. En: to begin, to start
 trnsltion. Pl: zaczynać
@@ -38,8 +38,8 @@ IPA: /nixəka/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">nihè · ka</span>
-- **Pattern:** `H · L`
+- **Morae:** <span class="asaxi-text">ni · hè · ka</span>
+- **Pattern:** `H · H · L`
 - **Class:** `lexical`
 
 ### Translations

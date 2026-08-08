@@ -69,4 +69,4 @@ Null
 Null
 
 ### Grammatical Note
-Derived from **[[xaŋo (Unit Noun)|xaŋo]]** (Ton) + **-n-** + **-ů**.
+Derived from **[[xa- (number) (particle)|xa-]]** (Thousand) + **[[ŋo (noun)|ŋo]]** (Kilo) + **-n-** + **-ů**.

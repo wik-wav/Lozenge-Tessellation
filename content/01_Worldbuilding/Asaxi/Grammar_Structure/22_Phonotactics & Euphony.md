@@ -206,7 +206,7 @@ Asaxi has **no vowel harmony**. Vowels do not assimilate in backness, rounding, 
 - **A mild same-vowel preference shapes *new* roots.** Coiners lean toward one repeated vowel-colour (`gogo`, `ŕoŕo`, `mimi`, `vivi`, `cőcő`) — the reduplicative aesthetic generalised — but this is a creation tendency, not a synchronic constraint; existing and borrowed roots need not obey it.
 - **The real vowel processes** are hiatus/prosody, not harmony: coalescence (`ga+i -> gă`, `zè+ijù -> zëjù`), glide formation (`ů -> w`), haplology, and the phrase-final backing **/a/ -> [ɑ]** ([[61_Prosody, Stress & Intonation]]).
 
-> Full typological analysis: [[Asaxi_VowelHarmony_Phonological_Critique]].
+> This is noun-class concord rather than technical vowel harmony; see [[00_Noun Classification (Gender) in Asaxi]].
 
 ## Back-vowel + `aa` Dissimilation
 

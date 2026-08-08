@@ -1,7 +1,7 @@
 ---
 title: nivå (particle) - "While", "During".
 Word (Asaxi): nivå
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: While
 tags:
@@ -40,8 +40,8 @@ IPA: /ɲivau̯/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">nivå</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">ni · vå</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Example sentence

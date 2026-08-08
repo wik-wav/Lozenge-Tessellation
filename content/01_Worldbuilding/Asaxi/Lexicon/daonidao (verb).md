@@ -2,7 +2,7 @@
 freq: 64
 title: daonidao (verb) - to trade, to exchange
 Word (Asaxi): daonidao
-pitch_accent: H.L.L.L
+pitch_accent: H.L.L.L.L
 pitch_accent_class: lexical
 trnsltion. En: to trade, to exchange
 trnsltion. Pl: handlować, wymieniać się
@@ -38,8 +38,8 @@ IPA: /daoɲidao/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">da · o · nida · o</span>
-- **Pattern:** `H · L · L · L`
+- **Morae:** <span class="asaxi-text">da · o · ni · da · o</span>
+- **Pattern:** `H · L · L · L · L`
 - **Class:** `lexical`
 
 ### Translations

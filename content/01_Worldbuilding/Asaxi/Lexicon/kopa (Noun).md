@@ -48,7 +48,7 @@ IPA: /kopa/
 Null
 
 ### Etymology
-**[[ko (distal locative) (particle)|ko-]]** (Yonder) + **[[pa (Noun)|pa]]** (Future).
+**[[ko (distal locative) (particle)|ko-]]** (Yonder) + **[[pa (noun)|pa]]** (Future).
 *Lit:* "The Yonder-Future."
 
 ### Synonyms

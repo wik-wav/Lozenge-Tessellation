@@ -16,7 +16,8 @@ export const sharedPageComponents: SharedLayout = {
     }),
     Component.ConditionalRender({
       component: Component.AsaxiWorkbench(),
-      condition: (page) => page.fileData.slug === "workbench",
+      condition: (page) =>
+        page.fileData.slug === "translator" || page.fileData.slug === "workbench",
     }),
   ],
   footer: Component.Footer({
@@ -55,7 +56,7 @@ export const defaultContentPageLayout: PageLayout = {
       buttons: [
         { title: "📖  Lexicon Browser", slug: "lexicon", accent: true },
         { title: "📘  Grammar Book", slug: "grammar" },
-        { title: "⌨  Asaxi Workbench", slug: "workbench" },
+        { title: "⌨  Asaxi Translator", slug: "translator" },
       ],
     }),
     Component.Explorer(),
@@ -82,7 +83,7 @@ export const defaultListPageLayout: PageLayout = {
       buttons: [
         { title: "📖  Lexicon Browser", slug: "lexicon", accent: true },
         { title: "📘  Grammar Book", slug: "grammar" },
-        { title: "⌨  Asaxi Workbench", slug: "workbench" },
+        { title: "⌨  Asaxi Translator", slug: "translator" },
       ],
     }),
     Component.Explorer(),

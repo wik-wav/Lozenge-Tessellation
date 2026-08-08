@@ -1,7 +1,7 @@
 ---
 title: ămăni (particle) - at your leisure
 Word (Asaxi): ămăni
-pitch_accent: L.L
+pitch_accent: L.L.L
 pitch_accent_class: atonal
 trnsltion. En: at your leisure
 tags:
@@ -32,8 +32,8 @@ IPA: /aɪmaɲi/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">ă · măni</span>
-- **Pattern:** `L · L`
+- **Morae:** <span class="asaxi-text">ă · mă · ni</span>
+- **Pattern:** `L · L · L`
 - **Class:** `atonal`
 
 ### Example sentence

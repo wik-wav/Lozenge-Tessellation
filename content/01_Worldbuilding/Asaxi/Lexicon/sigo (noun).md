@@ -2,7 +2,7 @@
 freq: 70
 title: sigo (noun) - number, digit
 Word (Asaxi): sigo
-pitch_accent: H
+pitch_accent: H.H
 pitch_accent_class: lexical
 trnsltion. En: number
 tags:
@@ -27,8 +27,8 @@ IPA: /ɕiɡo/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">sigo</span>
-- **Pattern:** `H`
+- **Morae:** <span class="asaxi-text">si · go</span>
+- **Pattern:** `H · H`
 - **Class:** `lexical`
 
 ### Semantic Field

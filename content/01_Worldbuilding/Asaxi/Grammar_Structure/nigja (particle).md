@@ -1,7 +1,7 @@
 ---
 title: nigja (particle) - themselves (non-binary group)
 Word (Asaxi): nigja
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: themselves (non-binary group)
 tags:
@@ -28,8 +28,8 @@ IPA: /ɲigʲa/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">nigja</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">ni · gja</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Example sentence

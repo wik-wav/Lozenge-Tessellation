@@ -1,6 +1,6 @@
 ---
 Word (Asaxi): nika
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: themselves (female group)
 tags:
@@ -28,8 +28,8 @@ IPA: /ɲika/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">nika</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">ni · ka</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Example sentence

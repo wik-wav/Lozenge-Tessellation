@@ -5,6 +5,7 @@
 
 .asaxi-workbench-embed iframe {
   width: 100%;
+  box-sizing: border-box;
   min-height: 820px;
   height: calc(100vh - 5rem);
   max-height: 1120px;
@@ -18,6 +19,30 @@
   margin: 0.5rem 0 0;
   color: var(--gray);
   font-size: 0.85rem;
+}
+
+// The translator is a full application surface, so it should use the space
+// normally reserved for a reading page's table of contents and backlinks.
+@media (min-width: 1201px) {
+  .page:has(.asaxi-workbench-embed) {
+    max-width: 1920px;
+  }
+
+  .page > #quartz-body:has(.asaxi-workbench-embed) {
+    grid-template-columns: 320px minmax(0, 1fr);
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-footer";
+  }
+
+  .page > #quartz-body:has(.asaxi-workbench-embed) .sidebar.right {
+    display: none;
+  }
+
+  .page > #quartz-body:has(.asaxi-workbench-embed) .center {
+    min-width: 0;
+  }
 }
 
 @media (max-width: 800px) {

@@ -22,7 +22,7 @@ Navigation:
 
 In Asaxi, [[01_Asaxi Nouns (List)]] are classed by warmth. This means that typically, things which are animated or otherwise radiate heat are "warm", and things which do not are "cold".
 
-**This is a two-term grammatical gender (noun class), realised by _concord_ (agreement) — not by phonology.** A noun's class is a lexical property fixed by **meaning** (animacy and heat); it is *not* read off its vowels. Bright- and dark-vowelled words occur in both classes — **ihjo** "bone" is all-bright yet **cold**; **bù** "shrub" has a dark vowel yet **warm**. The warm/cold *vowel lean* used in coining is an optional **sound-symbolic tendency** (see [[22_Phonotactics & Euphony]]), not a rule that assigns or predicts class. (Why this is concord and not "vowel harmony": [[Asaxi_VowelHarmony_Phonological_Critique]].)
+**This is a two-term grammatical gender (noun class), realised by _concord_ (agreement) — not by phonology.** A noun's class is a lexical property fixed by **meaning** (animacy and heat); it is *not* read off its vowels. Bright- and dark-vowelled words occur in both classes — **ihjo** "bone" is all-bright yet **cold**; **bù** "shrub" has a dark vowel yet **warm**. The warm/cold *vowel lean* used in coining is an optional **sound-symbolic tendency** (see [[22_Phonotactics & Euphony]]), not a rule that assigns or predicts class.
 
 ## Morphological Marking
 

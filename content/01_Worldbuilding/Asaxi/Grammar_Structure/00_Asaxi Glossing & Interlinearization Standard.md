@@ -14,8 +14,10 @@ Navigation:
 - [[00_Asaxi Orthography & Punctuation Standard]]
 - [[index|Index - Homepage]]
 
-Asaxi-language rows follow the lower-case and punctuation rules in the
-orthography standard. Full example sentences are plain text; do not bold or
+Asaxi-language rows follow the case and punctuation rules in the orthography
+standard. Proper nouns, proper and place names, and borrowed terms therefore
+remain in full capitals in surface and morpheme rows; ordinary native material
+remains lower case. Full example sentences are plain text; do not bold or
 italicize their content. Upper-case grammatical gloss codes remain upper case
 because they are metalanguage rather than Asaxi.
 

@@ -1,7 +1,7 @@
 ---
 title: sivëshů (verb) - to act shyly, to cower
 Word (Asaxi): sivëshů
-pitch_accent: H.L
+pitch_accent: H.H.L
 pitch_accent_class: lexical
 trnsltion. En: to act shyly
 trnsltion. Pl: wstydzić się
@@ -33,8 +33,8 @@ IPA: /ɕiveɪʃuu̯/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">sivë · shů</span>
-- **Pattern:** `H · L`
+- **Morae:** <span class="asaxi-text">si · vë · shů</span>
+- **Pattern:** `H · H · L`
 - **Class:** `lexical`
 
 ### Translations

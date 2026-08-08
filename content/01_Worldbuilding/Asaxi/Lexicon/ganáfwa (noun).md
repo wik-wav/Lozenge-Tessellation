@@ -17,7 +17,7 @@ tags:
 
 - - -
 
-<span class="asaxi-script">ganáfwo</span>
+<span class="asaxi-script">ganáfwa</span>
 
 <span class="asaxi-script-alpha">ganáfwo</span>
 ### Noun class (warm / cold)
@@ -49,7 +49,7 @@ IPA: /ɡanɑfʷa/
 
 #### Example 2
 
-- **Asaxi:** hwo, ganáfwoŕimåa zèma.
+- **Asaxi:** hwo, ganáfwaŕimåa zèma.
 - **English:** Yesterday, I had clear thoughts.
 - **Polish:** x
 

@@ -2,7 +2,7 @@
 freq: 63
 title: nicèshá (noun) - student, learner, pupil
 Word (Asaxi): nicèshá
-pitch_accent: H.H
+pitch_accent: H.H.H
 pitch_accent_class: mixed
 trnsltion. En: student, learner, pupil
 trnsltion. Pl: uczeń, uczennica
@@ -27,8 +27,8 @@ IPA: /ɲit̻͡s̪əʃɑ/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">nicè · shá</span>
-- **Pattern:** `H · H`
+- **Morae:** <span class="asaxi-text">ni · cè · shá</span>
+- **Pattern:** `H · H · H`
 - **Class:** `mixed`
 
 ### Semantic Field

@@ -1,7 +1,7 @@
 ---
 title: nihja (particle) - "Themselves" (things).
 Word (Asaxi): nihja
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: themselves (things)
 tags:
@@ -28,8 +28,8 @@ IPA: /ɲiça/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">nihja</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">ni · hja</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Example sentence

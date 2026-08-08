@@ -1,7 +1,7 @@
 ---
 title: nixå (particle) - For the duration of
 Word (Asaxi): nixå
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: For the duration of
 tags:
@@ -43,8 +43,8 @@ IPA: /ɲiɦau̯/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">nixå</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">ni · xå</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Example sentence

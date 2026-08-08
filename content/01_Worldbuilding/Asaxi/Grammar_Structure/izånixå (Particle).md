@@ -1,7 +1,7 @@
 ---
 title: izånixå (particle) - From time to time
 Word (Asaxi): izånixå
-pitch_accent: L.L.L
+pitch_accent: L.L.L.L
 pitch_accent_class: atonal
 trnsltion. En: From time to time
 tags:
@@ -33,8 +33,8 @@ IPA: /izau̯ɲiɦau̯/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">i · zå · nixå</span>
-- **Pattern:** `L · L · L`
+- **Morae:** <span class="asaxi-text">i · zå · ni · xå</span>
+- **Pattern:** `L · L · L · L`
 - **Class:** `atonal`
 
 ### Example sentence

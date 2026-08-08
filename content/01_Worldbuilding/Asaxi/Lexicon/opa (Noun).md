@@ -48,7 +48,7 @@ IPA: /opa/
 Null
 
 ### Etymology
-**[[o (proximal locative) (particle)|o-]]** (Here) + **[[pa (Noun)|pa]]** (Future).
+**[[o (proximal locative) (particle)|o-]]** (Here) + **[[pa (noun)|pa]]** (Future).
 *Lit:* "The Here-Future."
 
 ### Synonyms

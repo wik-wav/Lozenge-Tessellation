@@ -9,7 +9,7 @@
   font-display: swap;
 }
 @font-face {
-  font-family: "Asaxi Merriweather 24pt Medium";
+  font-family: "Asaxi Merriweather 24pt";
   src: url("./static/fonts/Asaxi-alphabet-Merriweather24pt-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
@@ -33,7 +33,7 @@
 .asaxi-text,
 [lang="art-x-asaxi"],
 .lexicon-browser .lex-word {
-  font-family: "Asaxi Merriweather 24pt Medium", "Merriweather 24pt", serif !important;
+  font-family: "Asaxi Merriweather 24pt", "Merriweather 24pt", serif !important;
   font-weight: 500 !important;
   font-style: normal !important;
   font-synthesis: none;
@@ -44,4 +44,35 @@
   vertical-align: middle;
   display: inline-block;
   font-size: 38px;
+}
+
+@media (max-width: 800px) {
+  // Keep the mobile header's full-width navigation row from widening the
+  // one-column Quartz grid beyond the viewport.
+  .page > #quartz-body {
+    grid-template-columns: minmax(0, 1fr);
+
+    > * {
+      min-width: 0;
+    }
+
+    .sidebar.left {
+      flex-wrap: wrap;
+    }
+
+    .nav-buttons {
+      order: 20;
+      flex: 1 0 100%;
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      width: 100%;
+
+      .nav-button {
+        min-width: 0;
+        padding-inline: 0.45rem;
+        text-align: center;
+        overflow-wrap: anywhere;
+      }
+    }
+  }
 }

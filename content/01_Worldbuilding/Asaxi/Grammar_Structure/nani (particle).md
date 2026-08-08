@@ -1,7 +1,7 @@
 ---
 title: nani (particle) - "more X than..."
 Word (Asaxi): nani
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: '"more X than..."'
 tags:
@@ -34,8 +34,8 @@ IPA: /naɲi/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">nani</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">na · ni</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Etymology

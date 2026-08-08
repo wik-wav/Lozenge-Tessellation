@@ -2,7 +2,7 @@
 freq: 88
 title: gosi (noun) - salt
 Word (Asaxi): gosi
-pitch_accent: H
+pitch_accent: H.H
 pitch_accent_class: lexical
 trnsltion. En: salt
 trnsltion. Pl: sól
@@ -28,8 +28,8 @@ IPA: /gosi/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">gosi</span>
-- **Pattern:** `H`
+- **Morae:** <span class="asaxi-text">go · si</span>
+- **Pattern:** `H · H`
 - **Class:** `lexical`
 
 ### Semantic Field

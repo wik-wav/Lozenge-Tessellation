@@ -1,7 +1,7 @@
 ---
 title: nixa (particle) - themselves (male group)
 Word (Asaxi): nixa
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: themselves (male group)
 tags:
@@ -28,8 +28,8 @@ IPA: /ɲiɦa/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">nixa</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">ni · xa</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Example sentence

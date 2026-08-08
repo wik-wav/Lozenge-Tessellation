@@ -1,7 +1,7 @@
 ---
 title: niwo (particle) - myself
 Word (Asaxi): niwo
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: myself
 tags:
@@ -35,8 +35,8 @@ IPA: /ɲiwo/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">niwo</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">ni · wo</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Example sentence

@@ -2,7 +2,7 @@
 freq: 63
 title: siga (noun) - numbers (plural of sigo)
 Word (Asaxi): siga
-pitch_accent: H
+pitch_accent: H.H
 pitch_accent_class: lexical
 trnsltion. En: numbers, digits, figures
 trnsltion. Pl: liczby, cyfry
@@ -27,8 +27,8 @@ IPA: /ɕiɡa/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">siga</span>
-- **Pattern:** `H`
+- **Morae:** <span class="asaxi-text">si · ga</span>
+- **Pattern:** `H · H`
 - **Class:** `lexical`
 
 ### Semantic Field

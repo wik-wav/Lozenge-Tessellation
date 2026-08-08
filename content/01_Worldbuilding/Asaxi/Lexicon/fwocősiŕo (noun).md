@@ -1,7 +1,7 @@
 ---
 title: fwocősiŕo (noun) - the dissonant void, the fog of compromised values
 Word (Asaxi): fwocősiŕo
-pitch_accent: H.L.L
+pitch_accent: H.L.L.L
 pitch_accent_class: lexical
 trnsltion. En: the dissonant void, the fog of compromised values, the space of cognitive dissonance, the retreat (mental)
 trnsltion. Pl: pustka dysonansu, mgła sprzeczności
@@ -26,8 +26,8 @@ IPA: /fʷot͡soɪɕiɾo/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">fwo · cő · siŕo</span>
-- **Pattern:** `H · L · L`
+- **Morae:** <span class="asaxi-text">fwo · cő · si · ŕo</span>
+- **Pattern:** `H · L · L · L`
 - **Class:** `lexical`
 
 ### Semantic Field

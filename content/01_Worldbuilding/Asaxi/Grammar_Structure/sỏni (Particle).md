@@ -1,6 +1,6 @@
 ---
 Word (Asaxi): sỏni
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: '"Once", "Former", "Ex-", "Used to be".'
 tags:
@@ -28,8 +28,8 @@ IPA: /sou̯ɲi/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">sỏni</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">sỏ · ni</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Etymology

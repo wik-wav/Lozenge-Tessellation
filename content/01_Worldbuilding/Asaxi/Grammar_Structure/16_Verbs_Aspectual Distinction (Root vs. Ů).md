@@ -59,7 +59,7 @@ Aspect beyond the lexical default is marked by **additive prefixes**, on two ind
 | Operator | Meaning | Example |
 | --- | --- | --- |
 | **[[ni- (particle)\|ni-]]** (inceptive) | onset — "begin to" | **nixoxo** I start to leave |
-| **[[chå (Particle)\|chå-]]** (completive) | result / finish — "fully, to completion" | **chåshěsonů** read fully; **chåxoxo** gone for good |
+| **[[chå (particle)\|chå-]]** (completive) | result / finish — "fully, to completion" | **chåshěsonů** read fully; **chåxoxo** gone for good |
 
 The axes combine freely: `năjo` (iterative), `tåjýnů` (semelfactive), `chåshěsonů` (completive), `nixoxo` (inceptive).
 

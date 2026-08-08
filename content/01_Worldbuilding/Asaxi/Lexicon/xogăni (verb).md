@@ -1,7 +1,7 @@
 ---
 title: xogăni (verb) - to arrive at, to reach (a state)
 Word (Asaxi): xogăni
-pitch_accent: L.H
+pitch_accent: L.H.H
 pitch_accent_class: lexical
 trnsltion. En: to arrive at, to reach (a state), to attain, to come into
 trnsltion. Pl: dotrzeć do, osiągnąć (stan), dojść do
@@ -38,8 +38,8 @@ IPA: /ɦoɡaɪɲi/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">xo · găni</span>
-- **Pattern:** `L · H`
+- **Morae:** <span class="asaxi-text">xo · gă · ni</span>
+- **Pattern:** `L · H · H`
 - **Class:** `lexical`
 
 ### Translations

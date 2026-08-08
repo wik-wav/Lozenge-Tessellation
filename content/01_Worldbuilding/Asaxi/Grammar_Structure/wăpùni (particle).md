@@ -1,7 +1,7 @@
 ---
 title: wăpùni (particle) - "Few", "Not many", "Scarce".
 Word (Asaxi): wăpùni
-pitch_accent: L.L
+pitch_accent: L.L.L
 pitch_accent_class: atonal
 trnsltion. En: '"Few", "Not many", "Scarce".'
 tags:
@@ -36,8 +36,8 @@ IPA: /waɪpɯɲi/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">wă · pùni</span>
-- **Pattern:** `L · L`
+- **Morae:** <span class="asaxi-text">wă · pù · ni</span>
+- **Pattern:** `L · L · L`
 - **Class:** `atonal`
 
 ### Example sentence

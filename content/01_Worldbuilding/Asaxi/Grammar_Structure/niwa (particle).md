@@ -1,7 +1,7 @@
 ---
 title: niwa (particle) - "Ourselves"
 Word (Asaxi): niwa
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: ourselves
 tags:
@@ -28,8 +28,8 @@ IPA: /ɲiwa/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">niwa</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">ni · wa</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Example sentence

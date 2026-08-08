@@ -2,7 +2,7 @@
 freq: 26
 title: sivëshá (noun) - civet
 Word (Asaxi): sivëshá
-pitch_accent: L.H
+pitch_accent: L.L.H
 pitch_accent_class: lexical
 trnsltion. En: civet
 trnsltion. Pl: cyweta
@@ -27,8 +27,8 @@ IPA: /ɕiveɪʃɑ/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">sivë · shá</span>
-- **Pattern:** `L · H`
+- **Morae:** <span class="asaxi-text">si · vë · shá</span>
+- **Pattern:** `L · L · H`
 - **Class:** `lexical`
 
 ### Semantic Field

@@ -41,7 +41,7 @@ IPA: /ʃɑ/
 #### Example 1
 
 - **Asaxi:** john shá xiŕa.
-- **English:** John is a [[People and Creatures in the Lozenge Tessellation|Person]].
+- **English:** John is a person.
 - **Polish:** x
 
 ### Cultural note

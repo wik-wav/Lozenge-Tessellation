@@ -1,7 +1,7 @@
 ---
 title: nijo (particle) - Itself
 Word (Asaxi): nijo
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: itself
 tags:
@@ -28,8 +28,8 @@ IPA: /ɲiꞲo/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">nijo</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">ni · jo</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Example sentence

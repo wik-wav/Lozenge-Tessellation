@@ -49,7 +49,7 @@ IPA: /kozə/
 Null
 
 ### Etymology
-**[[ko (distal locative) (particle)|ko-]]** (Yonder) + **[[zè (Noun)|zè]]** (Past).
+**[[ko (distal locative) (particle)|ko-]]** (Yonder) + **[[zè (noun)|zè]]** (Past).
 *Lit:* "The Yonder-Past."
 
 ### Synonyms

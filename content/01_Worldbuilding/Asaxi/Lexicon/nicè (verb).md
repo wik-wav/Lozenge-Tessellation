@@ -2,7 +2,7 @@
 freq: 88
 title: nicè (verb) - to learn, to study
 Word (Asaxi): nicè
-pitch_accent: H
+pitch_accent: H.H
 pitch_accent_class: lexical
 trnsltion. En: to learn, to study
 trnsltion. Pl: uczyć się
@@ -38,8 +38,8 @@ IPA: /ɲit̻͡s̪ə/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">nicè</span>
-- **Pattern:** `H`
+- **Morae:** <span class="asaxi-text">ni · cè</span>
+- **Pattern:** `H · H`
 - **Class:** `lexical`
 
 ### Translations

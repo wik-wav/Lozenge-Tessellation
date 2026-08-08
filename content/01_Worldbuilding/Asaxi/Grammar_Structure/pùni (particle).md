@@ -1,7 +1,7 @@
 ---
 title: pùni (particle) - "Less X than..."
 Word (Asaxi): pùni
-pitch_accent: L
+pitch_accent: L.L
 pitch_accent_class: atonal
 trnsltion. En: '"less X than..."'
 tags:
@@ -34,8 +34,8 @@ IPA: /pɯɲi/
 
 ### Pitch Accent
 
-- **Morae:** <span class="asaxi-text">pùni</span>
-- **Pattern:** `L`
+- **Morae:** <span class="asaxi-text">pù · ni</span>
+- **Pattern:** `L · L`
 - **Class:** `atonal`
 
 ### Etymology

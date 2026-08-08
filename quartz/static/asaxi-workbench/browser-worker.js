@@ -2,8 +2,15 @@
 
 let runtimePromise = null;
 
-function runtimeUrl(path) {
-  return new URL(path, self.location.href).href;
+function runtimeUrl(path, versioned = false) {
+  const url = new URL(path, self.location.href);
+  if (versioned) {
+    const version = new URL(self.location.href).searchParams.get("v");
+    if (version) {
+      url.searchParams.set("v", version);
+    }
+  }
+  return url.href;
 }
 
 async function initializeRuntime() {
@@ -15,7 +22,9 @@ async function initializeRuntime() {
     const pyodide = await loadPyodide({
       indexURL: runtimeUrl("./pyodide/"),
     });
-    const archiveResponse = await fetch(runtimeUrl("./asaxi-runtime.zip"));
+    const archiveResponse = await fetch(
+      runtimeUrl("./asaxi-runtime.zip", true),
+    );
     if (!archiveResponse.ok) {
       throw new Error("The published Asaxi grammar runtime is unavailable");
     }

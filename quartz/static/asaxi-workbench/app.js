@@ -1298,6 +1298,12 @@ elements.theme.addEventListener("click", () => {
 });
 
 let frameHeightRequest = 0;
+const embeddedWorkbench =
+  window.parent !== window && new URLSearchParams(window.location.search).has("embed");
+if (embeddedWorkbench) {
+  document.documentElement.dataset.embeddedWorkbench = "true";
+}
+
 function announceFrameHeight() {
   if (window.parent === window || frameHeightRequest) {
     return;

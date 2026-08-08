@@ -2,7 +2,10 @@ const workbenchFrames = new Set<HTMLIFrameElement>()
 
 function resizeWorkbench(frame: HTMLIFrameElement, height: number) {
   if (!Number.isFinite(height) || height < 320 || height > 100_000) return
-  frame.style.height = `${Math.ceil(height)}px`
+  // The reported document height describes the iframe's content box. Preserve
+  // room for its CSS borders so they cannot create a tiny internal scrollbar.
+  const iframeChrome = Math.max(0, frame.offsetHeight - frame.clientHeight)
+  frame.style.height = `${Math.ceil(height + iframeChrome)}px`
   frame.dataset.workbenchSized = "true"
 }
 

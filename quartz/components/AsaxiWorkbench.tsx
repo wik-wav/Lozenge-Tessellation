@@ -13,6 +13,7 @@ export default (() => {
           src="./static/asaxi-workbench/index.html?embed=browser-python-1"
           title="Asaxi Translator"
           allow="clipboard-write"
+          scrolling="no"
           data-asaxi-workbench
         />
         <p class="asaxi-workbench-fallback">

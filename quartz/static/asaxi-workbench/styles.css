@@ -100,6 +100,11 @@ body {
   font: 15px/1.5 var(--font-ui);
 }
 
+html[data-embedded-workbench="true"],
+html[data-embedded-workbench="true"] body {
+  overflow-y: clip;
+}
+
 button,
 textarea,
 input,

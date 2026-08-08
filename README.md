@@ -32,7 +32,8 @@ To publish a new alphabet font export everywhere, place it at the documented
 FontLab export location and run the central updater:
 
 ```powershell
-py -3.14 -X utf8 D:\wyash\Documents\Lozenge-T-Vault\99_Tools\font_manager\update_asaxi_font.py
+$ToolsRoot = $env:LOZENGE_TOOLS_ROOT
+py -3.14 -X utf8 "$ToolsRoot\font_manager\update_asaxi_font.py"
 ```
 
 The same updater is prepared for an optional future `AsaxiAbugida.ttf`. Use
@@ -54,22 +55,25 @@ in `quartz/static/asaxi-workbench/THIRD_PARTY_NOTICES.txt`.
 After building, validate all generated local links and embedded assets:
 
 ```powershell
-py -3.14 -X utf8 D:\wyash\Documents\Lozenge-T-Vault\99_Tools\check_quartz_links.py `
-  D:\wyash\Documents\HTML\Lozenge_Vault\quartz\public `
+$ToolsRoot = $env:LOZENGE_TOOLS_ROOT
+py -3.14 -X utf8 "$ToolsRoot\check_quartz_links.py" `
+  .\public `
   --base-path lozenge-tessellation
 ```
 
 ## Local Development
 
-The authoritative Obsidian vault is the separate local directory
-`D:\wyash\Documents\Lozenge-T-Vault\Lozenge-T-Notes`. The `content/`
-directory in this Quartz checkout is a publication mirror. Before building,
-update that mirror with the checked synchronization tool in the tools
-workspace:
+The authoritative Obsidian vault is a separate local directory. The `content/`
+directory in this Quartz checkout is only its publication mirror. Set
+`LOZENGE_TOOLS_ROOT` to the local `99_Tools` directory and
+`LOZENGE_NOTES_ROOT` to the authoritative notes directory, then update the
+mirror with the checked synchronization tool before building:
 
 ```powershell
-py -3.14 D:\wyash\Documents\Lozenge-T-Vault\99_Tools\sync_quartz_content.py `
-  --quartz D:\wyash\Documents\HTML\Lozenge_Vault\quartz `
+$ToolsRoot = $env:LOZENGE_TOOLS_ROOT
+py -3.14 "$ToolsRoot\sync_quartz_content.py" `
+  --source $env:LOZENGE_NOTES_ROOT `
+  --quartz . `
   --apply
 ```
 

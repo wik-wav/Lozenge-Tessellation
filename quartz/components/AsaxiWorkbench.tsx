@@ -10,7 +10,7 @@ export default (() => {
     return (
       <section class={classNames(displayClass, "asaxi-workbench-embed")}>
         <iframe
-          src="./static/asaxi-workbench/index.html?embed=browser-python-1"
+          src="./static/asaxi-workbench/index.html?embed=browser-python-2"
           title="Asaxi Translator"
           allow="clipboard-write"
           scrolling="no"
@@ -18,7 +18,7 @@ export default (() => {
         />
         <p class="asaxi-workbench-fallback">
           If the embedded tool does not load,{" "}
-          <a href="./static/asaxi-workbench/index.html?embed=browser-python-1">
+          <a href="./static/asaxi-workbench/index.html?embed=browser-python-2">
             open Asaxi Translator directly
           </a>
           .

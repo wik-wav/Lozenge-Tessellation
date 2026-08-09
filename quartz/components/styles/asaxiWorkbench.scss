@@ -20,6 +20,12 @@
   font-size: 0.85rem;
 }
 
+// Reserve the browser's vertical scroll track instead of allowing an overlay
+// scrollbar to cover the full-width application or the text below it.
+html:has(.asaxi-workbench-embed) {
+  scrollbar-gutter: stable;
+}
+
 // The translator is a full application surface, so it should use the space
 // normally reserved for a reading page's table of contents and backlinks.
 @media (min-width: 1201px) {
@@ -41,6 +47,8 @@
 
   .page > #quartz-body:has(.asaxi-workbench-embed) .center {
     min-width: 0;
+    box-sizing: border-box;
+    padding-inline-end: 1rem;
   }
 }
 

@@ -1,22 +1,22 @@
 {
   "api_base": "",
-  "asset_version": "2a57993a31f5",
+  "asset_version": "fc326b65335f",
   "authored_phrase_count": 0,
   "developer_authoring_included": false,
   "grammar_model": {
     "change_count": 0,
     "current_note_count": 295,
     "current_source_digest": "54bc074c033484ff83eea4d91489870581836c6fa4b7026854d7e1df7bd2ee87",
-    "model_version": "0.3.1",
+    "model_version": "0.3.2",
     "note_count": 295,
-    "runtime_workbench_version": "0.5.15",
+    "runtime_workbench_version": "0.5.16",
     "source_snapshot_status": "current",
     "status": "current",
     "status_scope": "source-snapshot",
     "updated_on": "2026-08-08",
     "validated_source_digest": "54bc074c033484ff83eea4d91489870581836c6fa4b7026854d7e1df7bd2ee87",
-    "validated_with_translation_engine_version": "0.2.13",
-    "validated_with_workbench_version": "0.5.15"
+    "validated_with_translation_engine_version": "0.2.14",
+    "validated_with_workbench_version": "0.5.16"
   },
   "public_assets": [
     "THIRD_PARTY_NOTICES.txt",
@@ -38,5 +38,5 @@
   "pyodide_version": "0.29.4",
   "schema_version": "1.0",
   "translation_runtime": "browser-python",
-  "workbench_version": "0.5.15"
+  "workbench_version": "0.5.16"
 }

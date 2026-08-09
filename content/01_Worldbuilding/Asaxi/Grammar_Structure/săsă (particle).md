@@ -75,3 +75,4 @@ IPA: /saɪsaɪ/
 
 - [[sătamni (noun)|sătamni]] - unison (să- + tamni)
 - **să**-family: [[săni (particle)|săni]], [[sănani (particle)|sănani]]
+- [[izo săsă (Idiom)|izo săsă]] - if nothing else, if all else fails, at the very least

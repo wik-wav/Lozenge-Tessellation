@@ -30,3 +30,4 @@ Navigation:
 - [[ijoŕaŕokamŕèn (noun)]] - temple keeper, librarian (of the dream-temple), curator, guardian of the sanctuary
 - [[txaŕăijo (noun)]] - magic, transformation-power
 - [[daonoxi (noun)]] - gift-day, festival of giving (used for Christmas)
+- [[sëon (noun)]] - essence, nature, core, spirit, substance, quintessence, gist

@@ -61,8 +61,8 @@ Null
 - x
 
 ### Derived terms
-Null
 
+- [[sătamnitopo (noun)|sătamnitopo]] - torrential rain, downpour, heavy rain, storm, deluge
 ### Grammatical function
 - **Type:** Noun / Adverbial / Adjective
 - **Meaning:** - (n.) Unison, unanimity, the state of a whole group acting as one.

@@ -23,3 +23,4 @@ Navigation:
 
 - [[fjonýj (adjective)]] - abstract
 - [[fůsëonă (adjective)]] - non-essential
+- [[sëon (noun)]] - essence, nature, core, spirit, substance, quintessence, gist

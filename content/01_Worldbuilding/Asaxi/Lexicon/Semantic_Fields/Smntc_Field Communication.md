@@ -52,3 +52,5 @@ Navigation:
 - [[axajù (verb)]] - to mock, to ridicule
 - [[jåjù (verb)]] - to beg, to plead
 - [[tètájýnů (verb)]] - to complain, to grumble
+- [[sëon (noun)]] - essence, nature, core, spirit, substance, quintessence, gist
+- [[izo săsă (Idiom)]] - if nothing else, if all else fails, at the very least

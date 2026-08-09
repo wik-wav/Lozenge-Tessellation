@@ -58,3 +58,4 @@ x
 - [[dătopo (noun)|dătopo]] - storm, downpour
 - [[topobi (noun)|topobi]] - weather
 - [[zhýtopo (noun)|zhýtopo]] - snow
+- [[sătamnitopo (noun)|sătamnitopo]] - torrential rain, downpour, heavy rain, storm, deluge

@@ -61,3 +61,4 @@ IPA: /izo/
 - **izoŕa** (Predicative Fusion): The result of fusing `izo` + `xiŕa`. Means "To be from" or "To originate from".
     
 - **xăizoŕa** (Emphatic Predicative): The stacking of `xă` (Indeed) + `izo` + `xiŕa`. Means "To be indeed from" or "Absolutely originates from".
+- [[izo săsă (Idiom)|izo săsă]] - if nothing else, if all else fails, at the very least

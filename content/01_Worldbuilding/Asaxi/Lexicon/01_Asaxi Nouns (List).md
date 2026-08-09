@@ -722,10 +722,12 @@ Navigation:
 - [[vănotxă (noun)]] - autumn, fall
 - [[zhýtxă (noun)]] - winter
 - [[daonoxi (noun)]] - gift-day, festival of giving (used for Christmas)
+- [[sëon (noun)]] - essence, nature, core, spirit, substance, quintessence, gist
 - [[zizi (noun)]] - mosquito
 - [[fùbi (noun)]] - whisker (of an animal)
 - [[cùŕo (noun)]] - burrow, warren, den
 - [[bùŕo (noun)]] - thicket, brush, scrub
+- [[sătamnitopo (noun)]] - torrential rain, downpour, heavy rain, storm, deluge
 - [[baoŕo (noun)]] - nest
 - [[xaembi (noun)]] - balcony
 - [[maőtxeshá (noun)]] - moth

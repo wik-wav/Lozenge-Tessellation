@@ -24,3 +24,4 @@ Navigation:
 - [[zhývă (noun)]] - holly, evergreen
 - [[maoŕă (noun)]] - moonlight
 - [[bùŕo (noun)]] - thicket, brush, scrub
+- [[sătamnitopo (noun)]] - torrential rain, downpour, heavy rain, storm, deluge

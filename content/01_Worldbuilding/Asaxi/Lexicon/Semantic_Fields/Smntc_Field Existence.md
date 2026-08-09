@@ -46,3 +46,4 @@ Navigation:
 - [[xăcèshá (noun)]] - a Real one, genuine creature, truly-alive being
 - [[xăcènă (adjective)]] - Real, genuinely alive, authentic (of beings)
 - [[xăcèků (verb)]] - to make Real, to turn (something) into a Real one
+- [[sëon (noun)]] - essence, nature, core, spirit, substance, quintessence, gist

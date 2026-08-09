@@ -36561,7 +36561,7 @@
     "changes": [],
     "current_note_count": 295,
     "current_source_digest": "54bc074c033484ff83eea4d91489870581836c6fa4b7026854d7e1df7bd2ee87",
-    "model_version": "0.3.1",
+    "model_version": "0.3.2",
     "note_count": 295,
     "notes": [
       {
@@ -37751,8 +37751,8 @@
     "status_scope": "source-snapshot",
     "updated_on": "2026-08-08",
     "validated_source_digest": "54bc074c033484ff83eea4d91489870581836c6fa4b7026854d7e1df7bd2ee87",
-    "validated_with_translation_engine_version": "0.2.13",
-    "validated_with_workbench_version": "0.5.15"
+    "validated_with_translation_engine_version": "0.2.14",
+    "validated_with_workbench_version": "0.5.16"
   },
   "lexemes": [
     {
